@@ -1,6 +1,7 @@
 ---
 title: "Log Daily Metrics"
 layout: "layouts/note.njk"
+permalink: "/daily-metrics/"
 ---
 
 <div class="input-form-container">
