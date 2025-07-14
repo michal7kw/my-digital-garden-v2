@@ -57,12 +57,6 @@ function getAnchorAttributes(filePath, linkTitle) {
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
     }
-    if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") != -1
-    ) {
-      permalink = "/";
-    }
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
     }
