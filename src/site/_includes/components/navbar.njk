@@ -5,6 +5,10 @@
                 <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
             </a>
         </div>
+        <div class="navbar-links">
+            <a href="/lab-tests/">Log Lab Test</a>
+            <a href="/daily-metrics/">Log Daily Metrics</a>
+        </div>
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
