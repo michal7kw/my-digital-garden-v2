@@ -1,6 +1,7 @@
 ---
 title: "Log a new Lab Test"
 layout: "layouts/note.njk"
+permalink: "/lab-tests/"
 ---
 
 <div class="input-form-container">
