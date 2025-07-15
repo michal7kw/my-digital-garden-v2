@@ -3,8 +3,10 @@
     "installCommand": "npm install",
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
-    "routes": [
-        { "handle": "filesystem" },
-        { "src": "/(.*)", "status": 404, "dest": "/404" }
-      ]
+    "rewrites": [
+        { "source": "/manifest.webmanifest", "destination": "/manifest.webmanifest" },
+        { "source": "/(.*)", "destination": "/$1" }
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
 }
