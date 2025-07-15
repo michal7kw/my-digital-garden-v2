@@ -23,7 +23,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
     urlPath: "/img/optimized",
   };
 
-  // generate images, while this is async we don’t wait
+  // generate images, while this is async we don't wait
   Image(src, options);
   let metadata = Image.statsSync(src, options);
   return metadata;
@@ -35,7 +35,7 @@ function getAnchorLink(filePath, linkTitle) {
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
-  let fileName = filePath.replaceAll("&amp;", "&");
+  let fileName = filePath.replaceAll("&", "&");
   let header = "";
   let headerLinkPath = "";
   if (filePath.includes("#")) {
@@ -128,138 +128,6 @@ module.exports = function (eleventyConfig) {
       closeMarker: "```",
     })
     .use(namedHeadingsFilter)
-    .use(function (md) {
-      //https://github.com/DCsunset/markdown-it-mermaid-plugin
-      const origFenceRule =
-        md.renderer.rules.fence ||
-        function (tokens, idx, options, env, self) {
-          return self.renderToken(tokens, idx, options, env, self);
-        };
-      md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
-        const token = tokens[idx];
-        if (token.info === "mermaid") {
-          const code = token.content.trim();
-          return `<pre class="mermaid">${code}</pre>`;
-        }
-        if (token.info === "transclusion") {
-          const code = token.content.trim();
-          return `<div class="transclusion">${md.render(code)}</div>`;
-        }
-        if (token.info.startsWith("ad-")) {
-          const code = token.content.trim();
-          const parts = code.split("\n")
-          let titleLine;
-          let collapse;
-          let collapsible = false
-          let collapsed = true
-          let icon;
-          let color;
-          let nbLinesToSkip = 0
-          for (let i = 0; i < 4; i++) {
-            if (parts[i] && parts[i].trim()) {
-              let line = parts[i] && parts[i].trim().toLowerCase()
-              if (line.startsWith("title:")) {
-                titleLine = line.substring(6);
-                nbLinesToSkip++;
-              } else if (line.startsWith("icon:")) {
-                icon = line.substring(5);
-                nbLinesToSkip++;
-              } else if (line.startsWith("collapse:")) {
-                collapsible = true
-                collapse = line.substring(9);
-                if (collapse && collapse.trim().toLowerCase() == 'open') {
-                  collapsed = false
-                }
-                nbLinesToSkip++;
-              } else if (line.startsWith("color:")) {
-                color = line.substring(6);
-                nbLinesToSkip++;
-              }
-            }
-          }
-          const foldDiv = collapsible ? `<div class="callout-fold">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
-              <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-          </div>` : "";
-          const titleDiv = titleLine
-            ? `<div class="callout-title"><div class="callout-title-inner">${titleLine}</div>${foldDiv}</div>`
-            : "";
-          let collapseClasses = titleLine && collapsible ? 'is-collapsible' : ''
-          if (collapsible && collapsed) {
-            collapseClasses += " is-collapsed"
-          }
-
-          let res = `<div data-callout-metadata class="callout ${collapseClasses}" data-callout="${token.info.substring(3)
-            }">${titleDiv}\n<div class="callout-content">${md.render(
-              parts.slice(nbLinesToSkip).join("\n")
-            )}</div></div>`;
-          return res
-        }
-
-        // Other languages
-        return origFenceRule(tokens, idx, options, env, slf);
-      };
-
-      const defaultImageRule =
-        md.renderer.rules.image ||
-        function (tokens, idx, options, env, self) {
-          return self.renderToken(tokens, idx, options, env, self);
-        };
-      md.renderer.rules.image = (tokens, idx, options, env, self) => {
-        const imageName = tokens[idx].content;
-        //"image.png|metadata?|width"
-        const [fileName, ...widthAndMetaData] = imageName.split("|");
-        const lastValue = widthAndMetaData[widthAndMetaData.length - 1];
-        const lastValueIsNumber = !isNaN(lastValue);
-        const width = lastValueIsNumber ? lastValue : null;
-
-        let metaData = "";
-        if (widthAndMetaData.length > 1) {
-          metaData = widthAndMetaData.slice(0, widthAndMetaData.length - 1).join(" ");
-        }
-
-        if (!lastValueIsNumber) {
-          metaData += ` ${lastValue}`;
-        }
-
-        if (width) {
-          const widthIndex = tokens[idx].attrIndex("width");
-          const widthAttr = `${width}px`;
-          if (widthIndex < 0) {
-            tokens[idx].attrPush(["width", widthAttr]);
-          } else {
-            tokens[idx].attrs[widthIndex][1] = widthAttr;
-          }
-        }
-
-        return defaultImageRule(tokens, idx, options, env, self);
-      };
-
-      const defaultLinkRule =
-        md.renderer.rules.link_open ||
-        function (tokens, idx, options, env, self) {
-          return self.renderToken(tokens, idx, options, env, self);
-        };
-      md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
-        const aIndex = tokens[idx].attrIndex("target");
-        const classIndex = tokens[idx].attrIndex("class");
-
-        if (aIndex < 0) {
-          tokens[idx].attrPush(["target", "_blank"]);
-        } else {
-          tokens[idx].attrs[aIndex][1] = "_blank";
-        }
-
-        if (classIndex < 0) {
-          tokens[idx].attrPush(["class", "external-link"]);
-        } else {
-          tokens[idx].attrs[classIndex][1] = "external-link";
-        }
-
-        return defaultLinkRule(tokens, idx, options, env, self);
-      };
-    })
     .use(userMarkdownSetup);
 
   eleventyConfig.setLibrary("md", markdownLib);
@@ -518,7 +386,24 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(faviconsPlugin, { 
+    outputDir: "dist",
+    manifest: {
+      name: "Personal Health Dashboard",
+      short_name: "Health Dashboard",
+      description: "A digital garden for tracking personal health metrics and lab results",
+      start_url: "/",
+      display: "standalone",
+      background_color: "#ffffff",
+      theme_color: "#007acc",
+      orientation: "portrait-primary",
+      scope: "/",
+      lang: "en",
+      dir: "ltr",
+      prefer_related_applications: false,
+      categories: ["health", "medical", "lifestyle"]
+    }
+  });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
