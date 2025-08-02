@@ -89,7 +89,7 @@ This section highlights how John Doe's personal health data connects to the broa
 - [[HAS_BIOMARKER::[[Total Cholesterol\|HAS_BIOMARKER::[[Total Cholesterol]]]]
 - [[HAS_BIOMARKER::[[LDL Cholesterol\|HAS_BIOMARKER::[[LDL Cholesterol]]]]
 - [[HAS_BIOMARKER::[[hsCRP\|HAS_BIOMARKER::[[hsCRP]]]]
-- [[HAS_BIOMARKER::[[Homocysteine\|HAS_BIOMARKER::[[Homocysteine]]]]
+- [[HAS_BIOMARKER::[[Homocysteine\|HAS_BIOMARKER::[[homocysteine]]]]
 - [[HAS_BIOMARKER::[[Creatine Kinase\|HAS_BIOMARKER::[[Creatine Kinase]]]]
 - [[HAS_BIOMARKER::[[CoQ10 Level\|HAS_BIOMARKER::[[CoQ10 Level]]]]
 

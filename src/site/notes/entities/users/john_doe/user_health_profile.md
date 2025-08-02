@@ -96,7 +96,7 @@ Regular tracking began in January 2025. John has been experiencing improved ener
 - [[HAS_BIOMARKER::[[Total Cholesterol\|HAS_BIOMARKER::[[Total Cholesterol]]]] - Value: 212 mg/dL (2025-05-01)
 - [[HAS_BIOMARKER::[[LDL Cholesterol\|HAS_BIOMARKER::[[LDL Cholesterol]]]] - Value: 142 mg/dL (2025-05-01)
 - [[HAS_BIOMARKER::[[hsCRP\|HAS_BIOMARKER::[[hsCRP]]]] - Value: 1.8 mg/L (2025-05-01)
-- [[HAS_BIOMARKER::[[Homocysteine\|HAS_BIOMARKER::[[Homocysteine]]]] - Value: 12.5 μmol/L (2025-05-01)
+- [[HAS_BIOMARKER::[[Homocysteine\|HAS_BIOMARKER::[[homocysteine]]]] - Value: 12.5 μmol/L (2025-05-01)
 
 ## Supplement Connections
 - [[TAKES_SUPPLEMENT::[[Vitamin D3\|TAKES_SUPPLEMENT::[[Vitamin D3]]]] - Dosage: 2000 IU daily
