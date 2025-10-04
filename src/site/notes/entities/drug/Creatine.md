@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/creatine/","tags":["supplement","drug","performance_enhancer"]}
+{"dg-publish":true,"id":"creatine","name":"Creatine","type":"Drug","description":"Creatine is a nitrogenous organic acid that occurs naturally in vertebrates and helps to supply energy to all cells in the body, primarily muscle, by increasing the formation of adenosine triphosphate (ATP).","source":"Manual","created":"2025-06-30","last_modified":"2025-06-30","last_sync":null,"tags":["supplement","drug","performance_enhancer"],"properties":{"drugbank_id":"DB00148","synonyms":["N-Methyl-N-guanyl-glycine"],"description_short":"A compound involved in energy production, popular as a supplement for athletic performance.","mechanism_of_action_summary":"Replenishes ATP, aids in muscle energy, and supports high-intensity exercise.","drug_class":"Nutritional Supplement"},"updated":"2025-10-03","permalink":"/entities/drug/creatine/","dgPassFrontmatter":true}
 ---
 
 

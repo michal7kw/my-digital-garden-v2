@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-health-dashboard/","title":"Personal Health Dashboard: John Doe","tags":["personal","dashboard","user_data"]}
+{"dg-publish":true,"title":"Personal Health Dashboard: John Doe","id":"personal_health_dashboard_john_doe","entity_type":"personal_health_dashboard","tags":["personal","dashboard","user_data"],"creation_date":"2025-05-10","last_modified":"2025-06-30","user_id":"user_john_doe","permalink":"/personal-health-dashboard/","dgPassFrontmatter":true}
 ---
 
 

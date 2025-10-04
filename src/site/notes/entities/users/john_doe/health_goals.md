@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/health-goals/","title":"Health Goals: John Doe","tags":["personal","user_data","health_goals"]}
+{"creation_date":"2025-05-10","dg-publish":true,"entity_type":"health_goals","id":"goals_john_doe","last_modified":"2025-05-10","last_sync":"2025-10-04T08:04:18.773421","name":"health goals","tags":["personal","user_data","health_goals"],"title":"Health Goals: John Doe","user_id":"user_john_doe","permalink":"/entities/users/john-doe/health-goals/","dgPassFrontmatter":true}
 ---
 
 
