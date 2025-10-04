@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"User Health Profile: John Doe","userId":"user_john_doe","name":"John Doe","entity_type":"user_health_profile","tags":["personal","user_data","health_profile"],"creation_date":"2025-05-10","last_modified":"2025-05-10","permalink":"/entities/users/john-doe/user-health-profile/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/entities/users/john-doe/user-health-profile/","title":"User Health Profile: John Doe","tags":["personal","user_data","health_profile"]}
 ---
 
 
