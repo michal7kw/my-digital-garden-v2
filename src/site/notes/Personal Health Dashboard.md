@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Personal Health Dashboard: John Doe","id":"personal_health_dashboard_john_doe","entity_type":"personal_health_dashboard","tags":["personal","dashboard","user_data"],"creation_date":"2025-05-10","last_modified":"2025-06-30","user_id":"user_john_doe","permalink":"/personal-health-dashboard/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"title":"Personal Health Dashboard: John Doe","id":"personal_health_dashboard_john_doe","entity_type":"personal_health_dashboard","tags":["personal","dashboard","user_data","gardenEntry"],"creation_date":"2025-05-10","last_modified":"2025-06-30","user_id":"user_john_doe","permalink":"/personal-health-dashboard/","dgPassFrontmatter":true}
 ---
 
 
