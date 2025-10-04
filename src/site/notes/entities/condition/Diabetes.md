@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/condition/diabetes/","tags":["condition","metabolic","chronic"]}
+{"dg-publish":true,"id":"diabetes","name":"Diabetes","type":"Condition","description":"Diabetes mellitus is a group of metabolic diseases characterized by high blood sugar levels over a prolonged period. This high blood sugar can cause symptoms such as frequent urination, increased thirst, and increased hunger. If left untreated, diabetes can cause many complications.","source":"Manual","created":"2025-06-30","last_modified":"2025-06-30","last_sync":null,"tags":["condition","metabolic","chronic"],"properties":{"condition_type":"Metabolic Disease","symptoms":["Frequent urination","Increased thirst","Increased hunger","Weight loss","Fatigue","Blurred vision"],"risk_factors":["Obesity","Physical inactivity","Family history","Ethnicity","Age"],"treatment_approaches":["Medication","Insulin therapy","Dietary changes","Exercise"]},"updated":"2025-10-03","permalink":"/entities/condition/diabetes/","dgPassFrontmatter":true}
 ---
 
 

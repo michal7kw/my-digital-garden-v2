@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/biomarker-log/","title":"Biomarker Log: John Doe","tags":["personal","user_data","biomarker_log","personal_node"]}
+{"creation_date":"2025-06-30","dg-publish":true,"entity_type":"biomarker_log","id":"biomarker_log_john_doe","last_modified":"2025-06-30","last_sync":"2025-10-04T08:04:18.375226","name":"biomarker log","tags":["personal","user_data","biomarker_log","personal_node"],"title":"Biomarker Log: John Doe","user_id":"user_john_doe","permalink":"/entities/users/john-doe/biomarker-log/","dgPassFrontmatter":true}
 ---
 
 

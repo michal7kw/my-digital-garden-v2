@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/supplement-regimen/","title":"Supplement Regimen: John Doe","tags":["personal","user_data","supplements"]}
+{"creation_date":"2025-05-10","dg-publish":true,"entity_type":"supplement_regimen","id":"supplements_john_doe","last_modified":"2025-05-10","last_sync":"2025-10-04T08:04:19.605033","name":"supplement regimen","tags":["personal","user_data","supplements"],"title":"Supplement Regimen: John Doe","user_id":"user_john_doe","permalink":"/entities/users/john-doe/supplement-regimen/","dgPassFrontmatter":true}
 ---
 
 
