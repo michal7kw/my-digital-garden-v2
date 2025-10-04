@@ -4,7 +4,7 @@
 - Provides the Eleventy-based static site that publishes curated Obsidian notes and health dashboards to the web, using the Digital Garden plugin workflow     
 	- (`digitalgarden_template/README.md`).
 - Tailors styling, layout, and publishing automation for medical knowledge sharing, including dashboards, lab test views, and search 
-	- (`digitalgarden_template/CLAUDE.md`).                                                                                                                                                  
+	- (`digitalgarden_template/CLAUDE.md`).                        
 - Serves as the public-facing companion to the Personalized AI Health Coach, extending Obsidian content beyond the local vault for sharing and review
 	- (`MKG_Docs/Comprehensive_PRD.md`).
 
