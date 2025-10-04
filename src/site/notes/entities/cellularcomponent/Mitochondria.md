@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"id":"mitochondria","name":"Mitochondria","type":"CellularComponent","description":"Mitochondria are double-membrane-bound organelles found in most eukaryotic organisms. They generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy, through cellular respiration.","source":"Manual","created":"2025-06-30","last_modified":"2025-06-30","last_sync":null,"tags":["cellular_component","organelle","energy_production"],"properties":{"go_id":"GO:0005739","description_short":"The 'powerhouses' of the cell, responsible for generating ATP through cellular respiration."},"updated":"2025-10-03","permalink":"/entities/cellularcomponent/mitochondria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/entities/cellularcomponent/mitochondria/","tags":["cellular_component","organelle","energy_production"]}
 ---
 
 

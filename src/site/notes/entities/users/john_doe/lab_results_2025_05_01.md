@@ -1,5 +1,5 @@
 ---
-{"date":"2025-05-01","dg-publish":true,"entity_type":"lab_results","id":"lab_john_doe_2025_05","lab_provider":"LabCorp","last_sync":"2025-10-04T08:04:19.406803","name":"lab results 2025 05 01","ordering_physician":"Dr. Sarah Reynolds","tags":["personal","user_data","lab_results","blood_work"],"title":"Lab Results: John Doe (May 2025)","user_id":"user_john_doe","permalink":"/entities/users/john-doe/lab-results-2025-05-01/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/entities/users/john-doe/lab-results-2025-05-01/","title":"Lab Results: John Doe (May 2025)","tags":["personal","user_data","lab_results","blood_work"]}
 ---
 
 

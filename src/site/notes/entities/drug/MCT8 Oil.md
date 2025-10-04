@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"id":"mct8_oil","name":"MCT8 Oil","type":"Drug","description":"MCT8 Oil refers to medium-chain triglyceride oil, but the '8' is likely a typo for C8 (caprylic acid), a specific MCT known for its rapid conversion to ketones and potential cognitive benefits. It is a dietary fat derived from coconut or palm kernel oil.","source":"Manual","created":"2025-06-30","last_modified":"2025-06-30","last_sync":null,"tags":["supplement","dietary_fat","ketogenic","cognitive_enhancer"],"properties":{"drugbank_id":"DB16584","synonyms":["Caprylic Acid MCT","C8 MCT Oil"],"description_short":"A specific type of medium-chain triglyceride oil (C8) valued for quick ketone production and brain energy.","mechanism_of_action_summary":"Bypasses typical fat digestion, rapidly absorbed and metabolized into ketones by the liver, providing an alternative fuel source for the brain and body.","drug_class":"Nutritional Supplement"},"updated":"2025-10-03","permalink":"/entities/drug/mct-8-oil/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/entities/drug/mct-8-oil/","tags":["supplement","dietary_fat","ketogenic","cognitive_enhancer"]}
 ---
 
 
