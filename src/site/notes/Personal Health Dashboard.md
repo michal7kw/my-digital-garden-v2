@@ -3,109 +3,61 @@
 ---
 
 
-# Personal Health Dashboard: John Doe
+# Personal Health **Dashboard**: John Doe
 
 This dashboard provides a comprehensive overview of John Doe's health status, goals, and interventions, dynamically pulling data from interconnected notes within the vault.
 
 ## Overview
 
-```dataview
-TABLE
-  name AS "Profile",
-  age AS "Age",
-  weight AS "Weight (kg)",
-  bmi AS "BMI",
-  "[[user_health_profile_john_doe]]" AS "Details"
-FROM #user_health_profile AND #personal AND #user_data
-WHERE userId = "user_john_doe"
-LIMIT 1
-```
+| File | Profile | Age | Weight (kg) | BMI | Details |
+| ---- | ------- | --- | ----------- | --- | ------- |
+
+{ .block-language-dataview}
 
 ## Key Health Concerns
 
-```dataview
-TABLE
-  join(properties.symptoms, "; ") AS "Symptoms",
-  join(properties.risk_factors, "; ") AS "Risk Factors",
-  join(properties.treatment_approaches, "; ") AS "Treatment Approaches"
-FROM [[user_health_profile_john_doe]]
-FLATTEN properties.primary_health_concerns AS Concern
-WHERE Concern
-SORT file.name ASC
-```
+| File | Symptoms | Risk Factors | Treatment Approaches |
+| ---- | -------- | ------------ | -------------------- |
+
+{ .block-language-dataview}
 
 ## Biomarker Trends & Status
 
-```dataview
-TABLE
-  properties.value AS "Value",
-  properties.unit AS "Unit",
-  properties.status AS "Status",
-  properties.date_recorded AS "Date"
-FROM #biomarker_log AND #personal AND #user_data
-WHERE user_id = "user_john_doe"
-FLATTEN properties.biomarkers AS biomarker_entry
-SORT biomarker_entry.date_recorded DESC
-```
+| File                                                        | Value | Unit | Status | Date |
+| ----------------------------------------------------------- | ----- | ---- | ------ | ---- |
+| [[entities/users/john_doe/biomarker_log\|biomarker_log]] | \-    | \-   | \-     | \-   |
+
+{ .block-language-dataview}
 
 **Recent Lab Results Overview (May 1, 2025):**
 
-```dataview
-TABLE
-  properties.result AS "Result",
-  properties.units AS "Units",
-  properties.reference_range AS "Ref Range",
-  properties.status AS "Status"
-FROM [[lab_john_doe_2025_05]]
-FLATTEN properties.lipid_panel AS lipid
-WHERE lipid
-SORT file.name ASC
-```
+| File | Result | Units | Ref Range | Status |
+| ---- | ------ | ----- | --------- | ------ |
+
+{ .block-language-dataview}
 
 ## Health Goals & Progress
 
-```dataview
-TABLE
-  properties.target AS "Target",
-  properties.current_value AS "Current",
-  properties.timeline AS "Timeline",
-  properties.priority AS "Priority"
-FROM #health_goals AND #personal AND #user_data
-WHERE user_id = "user_john_doe"
-FLATTEN properties.active_goals AS goal
-WHERE goal
-SORT file.name ASC
-```
+| File | Target | Current | Timeline | Priority |
+| ---- | ------ | ------- | -------- | -------- |
+
+{ .block-language-dataview}
 
 ## Current Supplement Regimen
 
-```dataview
-TABLE
-  properties.dosage AS "Dosage",
-  properties.timing AS "Timing",
-  properties.purpose AS "Purpose",
-  properties.started AS "Started"
-FROM #supplement_regimen AND #personal AND #user_data
-WHERE user_id = "user_john_doe"
-FLATTEN properties.daily_supplements AS supplement
-WHERE supplement
-SORT file.name ASC
-```
+| File | Dosage | Timing | Purpose | Started |
+| ---- | ------ | ------ | ------- | ------- |
+
+{ .block-language-dataview}
 
 ## Interventions and Lifestyle
 
 **Key Lifestyle Factors:**
 
-```dataview
-TABLE
-  properties.diet_pattern AS "Diet",
-  properties.exercise_routine AS "Exercise",
-  properties.sleep_habits AS "Sleep",
-  properties.stress_management AS "Stress Mgmt"
-FROM [[user_health_profile_john_doe]]
-WHERE properties.diet_pattern
-LIMIT 1
-```
+| File | Diet | Exercise | Sleep | Stress Mgmt |
+| ---- | ---- | -------- | ----- | ----------- |
+
+{ .block-language-dataview}
 
 **Interventions:**
 
