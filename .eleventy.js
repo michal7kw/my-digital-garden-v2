@@ -23,7 +23,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
     urlPath: "/img/optimized",
   };
 
-  // generate images, while this is async we don’t wait
+  // generate images, while this is async we donï¿½t wait
   Image(src, options);
   let metadata = Image.statsSync(src, options);
   return metadata;
@@ -524,7 +524,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/img");
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  // Favicon plugin disabled temporarily due to Windows file locking issues
+  // eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
