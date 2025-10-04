@@ -16,7 +16,7 @@
 | Magnesium Glycinate | 200mg | Before bed | Sleep quality, muscle relaxation | 2025-03-10 | Helps with occasional leg cramps |
 | B-Complex | 1 capsule | Morning with breakfast | Energy, methylation support | 2025-05-05 | Recently added for homocysteine support |
 | Zinc | 15mg | Dinner | Immune support | 2025-02-01 | Taking during winter/spring months |
-| [[entities/drug/Creatine\|Creatine]] | 5g | Post-workout | Muscle energy, performance | 2025-06-01 | New addition for athletic performance |
+| [[Creatine\|Creatine]] | 5g | Post-workout | Muscle energy, performance | 2025-06-01 | New addition for athletic performance |
 | [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
 
 ### Cycled Supplements
@@ -58,7 +58,7 @@
 - **Current Research**: Glycinate form shows better absorption and fewer GI effects than oxide forms
 - **Personalization Factors**: Sleep tracking shows improved deep sleep with consistent use
 
-**[[entities/drug/Creatine\|Creatine]]**
+**[[Creatine\|Creatine]]**
 - **Mechanism**: Increases phosphocreatine stores in muscles, rapidly regenerating ATP for high-intensity activities.
 - **Evidence Level**: Strong
 - **Current Research**: Widely recognized for improving strength, power, and muscle mass in athletic populations.
@@ -105,7 +105,7 @@
 - Improved sleep initiation with evening magnesium (sleep onset reduced from 35 to 25 minutes)
 - Reduced joint discomfort with [[entities/drug/Turmeric\|Turmeric]] supplementation
 - Better stress resilience with [[entities/drug/Ashwagandha\|Ashwagandha]] cycles
-- Increased strength and endurance during workouts with [[entities/drug/Creatine\|Creatine]]
+- Increased strength and endurance during workouts with [[Creatine\|Creatine]]
 
 ### Areas for Optimization
 - Current fish oil dosage likely insufficient based on latest cholesterol panel
