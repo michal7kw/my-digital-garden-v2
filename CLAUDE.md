@@ -31,32 +31,60 @@ This directory contains a customized digital garden template for publishing medi
 
 ## Development Commands
 
+### Prerequisites
+- **Node.js 18+** (required for Eleventy)
+- **npm or yarn** (package manager)
+- **Obsidian vault** (with content to publish)
+
 ### Setup and Development
 ```bash
+# Navigate to digital garden directory from repository root
 cd digitalgarden_template
-# Install dependencies
+
+# Install dependencies (first-time setup)
 npm install
 
-# Start development server
+# Start development server (default: http://localhost:8080)
 npm run dev
 
-# Build for production
+# Build for production (output: _site/ directory)
 npm run build
 
-# Deploy to Vercel
+# Preview production build locally
+npm run serve
+
+# Deploy to Vercel (requires Vercel CLI)
 npm run deploy
 ```
 
 ### Content Management
 ```bash
-# Process new notes
+# Process new notes from Obsidian vault
 npm run process-notes
 
-# Update search index
+# Update full-text search index
 npm run update-search
 
-# Rebuild site
+# Clean and rebuild entire site
 npm run clean && npm run build
+
+# Validate links and cross-references
+npm run validate-links
+```
+
+### Development Workflow
+```bash
+# Watch for changes during development
+npm run dev
+
+# Build with specific environment
+NODE_ENV=production npm run build
+
+# Run linting
+npm run lint
+
+# Check for broken links
+npm run check-links
 ```
 
 ## Template Features
