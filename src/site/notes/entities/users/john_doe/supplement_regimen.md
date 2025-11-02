@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/supplement-regimen/","title":"Supplement Regimen: John Doe","tags":["personal","user_data","supplements"]}
+dg-publish: true
+permalink: /entities/users/john-doe/supplement-regimen/
+title: "Supplement Regimen: John Doe"
+tags:
+  - personal
+  - user_data
+  - supplements
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/high-forehead/"}
+dg-publish: true
+permalink: /entities/phenotype/high-forehead/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

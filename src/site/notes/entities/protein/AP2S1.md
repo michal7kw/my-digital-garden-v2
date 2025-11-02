@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/protein/ap-2-s1/"}
+dg-publish: true
+permalink: /entities/protein/ap-2-s1/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

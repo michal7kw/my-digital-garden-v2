@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/entities/intervention/keto-diet/","tags":["diet","intervention","metabolic"]}
+dg-publish: true
+permalink: /entities/intervention/keto-diet/
+tags:
+  - diet
+  - intervention
+  - metabolic
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

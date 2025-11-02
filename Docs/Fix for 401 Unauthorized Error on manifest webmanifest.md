@@ -1,3 +1,7 @@
+---
+created: 2025-11-01
+updated: 2025-11-01
+---
 ## Comprehensive Fix for 401 Unauthorized Error on manifest.webmanifest
 
 The **401 Unauthorized error** is now resolved through a multi-layered approach:

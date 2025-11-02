@@ -1,7 +1,9 @@
 ---
-title: "Log a new Lab Test"
-layout: "layouts/note.njk"
-permalink: "/lab-tests/"
+title: Log a new Lab Test
+layout: layouts/note.njk
+permalink: /lab-tests/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 <div class="input-form-container">

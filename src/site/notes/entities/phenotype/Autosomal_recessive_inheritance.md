@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/autosomal-recessive-inheritance/"}
+dg-publish: true
+permalink: /entities/phenotype/autosomal-recessive-inheritance/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

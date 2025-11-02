@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/neonatal-asphyxia/"}
+dg-publish: true
+permalink: /entities/phenotype/neonatal-asphyxia/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

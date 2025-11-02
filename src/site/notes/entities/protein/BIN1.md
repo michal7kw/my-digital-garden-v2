@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/protein/bin-1/"}
+dg-publish: true
+permalink: /entities/protein/bin-1/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

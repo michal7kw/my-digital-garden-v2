@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/personal-health-dashboard/","title":"Personal Health Dashboard: John Doe","tags":["personal","dashboard","user_data","gardenEntry"]}
+dg-publish: true
+permalink: /personal-health-dashboard/
+title: "Personal Health Dashboard: John Doe"
+tags:
+  - personal
+  - dashboard
+  - user_data
+  - gardenEntry
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

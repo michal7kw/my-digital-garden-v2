@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/protein/anln/"}
+dg-publish: true
+permalink: /entities/protein/anln/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

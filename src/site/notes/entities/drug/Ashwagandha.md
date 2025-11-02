@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/ashwagandha/","tags":["herb","adaptogen","stress_relief","supplement"]}
+dg-publish: true
+permalink: /entities/drug/ashwagandha/
+tags:
+  - herb
+  - adaptogen
+  - stress_relief
+  - supplement
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

@@ -1,3 +1,7 @@
+---
+created: 2025-11-01
+updated: 2025-11-01
+---
 # Digital Garden Template (digitalgarden_template)                                                                                                             
 
 ## Purpose                                                                                                                                                     

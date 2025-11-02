@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/large-fontanelles/"}
+dg-publish: true
+permalink: /entities/phenotype/large-fontanelles/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

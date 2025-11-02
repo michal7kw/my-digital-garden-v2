@@ -1,7 +1,9 @@
 ---
 title: "Feature Documentation: Website Data Input Forms"
-layout: "layouts/note.njk"
-permalink: "/feature-docs/input-forms/"
+layout: layouts/note.njk
+permalink: /feature-docs/input-forms/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 ## Feature Overview
