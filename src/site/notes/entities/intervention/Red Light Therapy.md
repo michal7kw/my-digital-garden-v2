@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/intervention/red-light-therapy/","tags":["therapy","intervention","photomedicine","pain_management"]}
+dg-publish: true
+permalink: /entities/intervention/red-light-therapy/
+tags:
+  - therapy
+  - intervention
+  - photomedicine
+  - pain_management
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

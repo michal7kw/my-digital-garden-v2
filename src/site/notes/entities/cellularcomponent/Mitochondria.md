@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/entities/cellularcomponent/mitochondria/","tags":["cellular_component","organelle","energy_production"]}
+dg-publish: true
+permalink: /entities/cellularcomponent/mitochondria/
+tags:
+  - cellular_component
+  - organelle
+  - energy_production
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

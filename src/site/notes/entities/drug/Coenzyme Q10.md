@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/coenzyme-q10/","tags":["supplement","antioxidant","energy_production","mitochondrial_health"]}
+dg-publish: true
+permalink: /entities/drug/coenzyme-q10/
+tags:
+  - supplement
+  - antioxidant
+  - energy_production
+  - mitochondrial_health
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

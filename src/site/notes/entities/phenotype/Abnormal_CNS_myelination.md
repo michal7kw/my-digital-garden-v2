@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/abnormal-cns-myelination/"}
+dg-publish: true
+permalink: /entities/phenotype/abnormal-cns-myelination/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

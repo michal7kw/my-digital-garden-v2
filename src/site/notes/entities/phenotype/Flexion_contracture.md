@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/flexion-contracture/"}
+dg-publish: true
+permalink: /entities/phenotype/flexion-contracture/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/protein/myo-19/"}
+dg-publish: true
+permalink: /entities/protein/myo-19/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

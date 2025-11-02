@@ -1,7 +1,9 @@
 ---
-title: "Log Daily Metrics"
-layout: "layouts/note.njk"
-permalink: "/daily-metrics/"
+title: Log Daily Metrics
+layout: layouts/note.njk
+permalink: /daily-metrics/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 <div class="input-form-container">

@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/entities/condition/chronic-inflammation/","tags":["condition","inflammation","chronic"]}
+dg-publish: true
+permalink: /entities/condition/chronic-inflammation/
+tags:
+  - condition
+  - inflammation
+  - chronic
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

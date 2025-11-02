@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/user-health-profile/","title":"User Health Profile: John Doe","tags":["personal","user_data","health_profile"]}
+dg-publish: true
+permalink: /entities/users/john-doe/user-health-profile/
+title: "User Health Profile: John Doe"
+tags:
+  - personal
+  - user_data
+  - health_profile
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

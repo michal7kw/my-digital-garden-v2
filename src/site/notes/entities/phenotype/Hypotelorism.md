@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/hypotelorism/"}
+dg-publish: true
+permalink: /entities/phenotype/hypotelorism/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

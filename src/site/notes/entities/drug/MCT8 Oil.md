@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/mct-8-oil/","tags":["supplement","dietary_fat","ketogenic","cognitive_enhancer"]}
+dg-publish: true
+permalink: /entities/drug/mct-8-oil/
+tags:
+  - supplement
+  - dietary_fat
+  - ketogenic
+  - cognitive_enhancer
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

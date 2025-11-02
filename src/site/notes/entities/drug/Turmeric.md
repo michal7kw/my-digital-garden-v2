@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/turmeric/","tags":["herb","supplement","anti-inflammatory","antioxidant"]}
+dg-publish: true
+permalink: /entities/drug/turmeric/
+tags:
+  - herb
+  - supplement
+  - anti-inflammatory
+  - antioxidant
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

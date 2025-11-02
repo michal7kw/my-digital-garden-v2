@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/health-goals/","title":"Health Goals: John Doe","tags":["personal","user_data","health_goals"]}
+dg-publish: true
+permalink: /entities/users/john-doe/health-goals/
+title: "Health Goals: John Doe"
+tags:
+  - personal
+  - user_data
+  - health_goals
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

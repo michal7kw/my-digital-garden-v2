@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/entities/condition/diabetes/","tags":["condition","metabolic","chronic"]}
+dg-publish: true
+permalink: /entities/condition/diabetes/
+tags:
+  - condition
+  - metabolic
+  - chronic
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/increased-urinary-sedoheptulose/"}
+dg-publish: true
+permalink: /entities/phenotype/increased-urinary-sedoheptulose/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

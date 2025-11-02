@@ -1,3 +1,7 @@
+---
+created: 2025-11-01
+updated: 2025-11-01
+---
 # 🏡 Obsidian Digital Garden
 
 Publish your notes to the web, for free. In your own personal garden.

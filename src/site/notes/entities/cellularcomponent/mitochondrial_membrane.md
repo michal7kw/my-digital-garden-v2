@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/cellularcomponent/mitochondrial-membrane/"}
+dg-publish: true
+permalink: /entities/cellularcomponent/mitochondrial-membrane/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

@@ -1,5 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/entities/users/john-doe/lab-results-2025-05-01/","title":"Lab Results: John Doe (May 2025)","tags":["personal","user_data","lab_results","blood_work"]}
+dg-publish: true
+permalink: /entities/users/john-doe/lab-results-2025-05-01/
+title: "Lab Results: John Doe (May 2025)"
+tags:
+  - personal
+  - user_data
+  - lab_results
+  - blood_work
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/hip-dysplasia/"}
+dg-publish: true
+permalink: /entities/phenotype/hip-dysplasia/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

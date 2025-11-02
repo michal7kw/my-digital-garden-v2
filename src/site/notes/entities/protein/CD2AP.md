@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/protein/cd-2-ap/"}
+dg-publish: true
+permalink: /entities/protein/cd-2-ap/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 

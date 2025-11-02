@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/entities/phenotype/breech-presentation/"}
+dg-publish: true
+permalink: /entities/phenotype/breech-presentation/
+created: 2025-11-01
+updated: 2025-11-01
 ---
 
 
