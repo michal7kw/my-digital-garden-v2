@@ -1,18 +1,9 @@
 ---
-dg-publish: true
-permalink: /personal-health-dashboard/
-title: "Personal Health Dashboard: John Doe"
-tags:
-  - personal
-  - dashboard
-  - user_data
-  - gardenEntry
-created: 2025-11-01
-updated: 2025-11-01
+{"dg-publish":true,"permalink":"/personal-health-dashboard/","title":"Personal Health Dashboard: John Doe","tags":["personal","dashboard","user_data"]}
 ---
 
 
-# Personal Health **Dashboard**: John Doe
+# Personal Health Dashboard: John Doe
 
 This dashboard provides a comprehensive overview of John Doe's health status, goals, and interventions, dynamically pulling data from interconnected notes within the vault.
 
