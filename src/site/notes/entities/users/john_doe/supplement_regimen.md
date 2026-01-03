@@ -1,13 +1,5 @@
 ---
-dg-publish: true
-permalink: /entities/users/john-doe/supplement-regimen/
-title: "Supplement Regimen: John Doe"
-tags:
-  - personal
-  - user_data
-  - supplements
-created: 2025-11-01
-updated: 2025-11-01
+{"dg-publish":true,"permalink":"/entities/users/john-doe/supplement-regimen/","title":"Supplement Regimen: John Doe","tags":["personal","user_data","supplements"]}
 ---
 
 
@@ -24,8 +16,8 @@ updated: 2025-11-01
 | Magnesium Glycinate | 200mg | Before bed | Sleep quality, muscle relaxation | 2025-03-10 | Helps with occasional leg cramps |
 | B-Complex | 1 capsule | Morning with breakfast | Energy, methylation support | 2025-05-05 | Recently added for homocysteine support |
 | Zinc | 15mg | Dinner | Immune support | 2025-02-01 | Taking during winter/spring months |
-| [[Creatine\|Creatine]] | 5g | Post-workout | Muscle energy, performance | 2025-06-01 | New addition for athletic performance |
-| [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
+| [[drug/Creatine\|Creatine]] | 5g | Post-workout | Muscle energy, performance | 2025-06-01 | New addition for athletic performance |
+| [[Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
 
 ### Cycled Supplements
 
@@ -42,7 +34,7 @@ updated: 2025-11-01
 | Melatonin | 1.5mg | Travel, significant sleep disruption | Sleep initiation | Use rarely, only when sleep cycle disrupted |
 | Electrolyte Mix | 1 packet | After intense exercise, excessive sweating | Hydration, electrolyte balance | Contains sodium, potassium, magnesium |
 | NAC | 600mg | Air travel, excessive alcohol | Glutathione support, detoxification |
-| [[entities/drug/MCT8 Oil\|MCT8 Oil]] | 1 tbsp | Prior to workouts, during low-carb days | Ketone production, energy | Experimenting with ketogenic diet principles |
+| [[MCT8 Oil\|MCT8 Oil]] | 1 tbsp | Prior to workouts, during low-carb days | Ketone production, energy | Experimenting with ketogenic diet principles |
 
 ## Supplement Details & Research
 
@@ -66,13 +58,13 @@ updated: 2025-11-01
 - **Current Research**: Glycinate form shows better absorption and fewer GI effects than oxide forms
 - **Personalization Factors**: Sleep tracking shows improved deep sleep with consistent use
 
-**[[Creatine\|Creatine]]**
+**[[drug/Creatine\|Creatine]]**
 - **Mechanism**: Increases phosphocreatine stores in muscles, rapidly regenerating ATP for high-intensity activities.
 - **Evidence Level**: Strong
 - **Current Research**: Widely recognized for improving strength, power, and muscle mass in athletic populations.
 - **Personalization Factors**: John's regular weight training and desire for performance enhancement.
 
-**[[entities/drug/Coenzyme Q10\|Coenzyme Q10]]**
+**[[Coenzyme Q10\|Coenzyme Q10]]**
 - **Mechanism**: Essential component of the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]], involved in ATP production and acts as a powerful antioxidant.
 - **Evidence Level**: Moderate to Strong
 - **Current Research**: Research supports its role in cardiovascular health, energy metabolism, and mitigating oxidative stress.
@@ -113,10 +105,10 @@ updated: 2025-11-01
 - Improved sleep initiation with evening magnesium (sleep onset reduced from 35 to 25 minutes)
 - Reduced joint discomfort with [[entities/drug/Turmeric\|Turmeric]] supplementation
 - Better stress resilience with [[entities/drug/Ashwagandha\|Ashwagandha]] cycles
-- Increased strength and endurance during workouts with [[Creatine\|Creatine]]
+- Increased strength and endurance during workouts with [[drug/Creatine\|Creatine]]
 
 ### Areas for Optimization
 - Current fish oil dosage likely insufficient based on latest cholesterol panel
 - May benefit from methylated forms of B vitamins due to MTHFR gene variant
 - Consider higher potency vitamin D during winter months
-- Monitor [[entities/drug/MCT8 Oil\|MCT8 Oil]] intake as part of exploring ketogenic principles
+- Monitor [[MCT8 Oil\|MCT8 Oil]] intake as part of exploring ketogenic principles

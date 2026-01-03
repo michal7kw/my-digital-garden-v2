@@ -1,14 +1,5 @@
 ---
-dg-publish: true
-permalink: /entities/users/john-doe/biomarker-log/
-title: "Biomarker Log: John Doe"
-tags:
-  - personal
-  - user_data
-  - biomarker_log
-  - personal_node
-created: 2025-11-01
-updated: 2025-11-01
+{"dg-publish":true,"permalink":"/entities/users/john-doe/biomarker-log/","title":"Biomarker Log: John Doe","tags":["personal","user_data","biomarker_log","personal_node"]}
 ---
 
 

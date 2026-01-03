@@ -1,13 +1,5 @@
 ---
-dg-publish: true
-permalink: /entities/users/john-doe/health-goals/
-title: "Health Goals: John Doe"
-tags:
-  - personal
-  - user_data
-  - health_goals
-created: 2025-11-01
-updated: 2025-11-01
+{"dg-publish":true,"permalink":"/entities/users/john-doe/health-goals/","title":"Health Goals: John Doe","tags":["personal","user_data","health_goals"]}
 ---
 
 
@@ -95,7 +87,7 @@ Research shows that each 1000 IU of vitamin D supplementation raises blood level
 3. Optimize sleep quality (see Goal 2)
 4. Maintain consistent exercise routine with focus on zone 2 cardio
 5. Consider [[entities/drug/Turmeric\|Turmeric]] supplementation (1000mg with piperine daily)
-6. Explore [[entities/intervention/Red Light Therapy\|Red Light Therapy]] for systemic inflammation
+6. Explore [[Red Light Therapy\|Red Light Therapy]] for systemic inflammation
 
 #### Measurements & Tracking
 - Retest hsCRP and homocysteine after 3 months
@@ -103,7 +95,7 @@ Research shows that each 1000 IU of vitamin D supplementation raises blood level
 - Monitor stress levels using HRV measurements
 
 #### Scientific Rationale
-Dietary patterns rich in anti-inflammatory foods have been shown to reduce CRP by 20-40% over 3-6 months. Stress reduction techniques improve HRV and are associated with lower inflammatory markers when practiced consistently. [[entities/drug/Turmeric\|Turmeric]] and [[entities/intervention/Red Light Therapy\|Red Light Therapy]] offer additional support for inflammation reduction through distinct mechanisms.
+Dietary patterns rich in anti-inflammatory foods have been shown to reduce CRP by 20-40% over 3-6 months. Stress reduction techniques improve HRV and are associated with lower inflammatory markers when practiced consistently. [[entities/drug/Turmeric\|Turmeric]] and [[Red Light Therapy\|Red Light Therapy]] offer additional support for inflammation reduction through distinct mechanisms.
 
 ---
 
@@ -114,9 +106,9 @@ Dietary patterns rich in anti-inflammatory foods have been shown to reduce CRP b
 - **Priority**: Medium
 
 #### Action Plan
-1. Consider [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] supplementation (200mg daily)
-2. Incorporate more [[entities/intervention/Keto Diet\|Keto Diet]] principles (e.g., occasional intermittent fasting, reduced refined carbs)
-3. Explore benefits of [[entities/intervention/Red Light Therapy\|Red Light Therapy]] sessions
+1. Consider [[Coenzyme Q10\|Coenzyme Q10]] supplementation (200mg daily)
+2. Incorporate more [[Keto Diet\|Keto Diet]] principles (e.g., occasional intermittent fasting, reduced refined carbs)
+3. Explore benefits of [[Red Light Therapy\|Red Light Therapy]] sessions
 4. Regular moderate-intensity [[Exercise\|Exercise]] to promote mitochondrial biogenesis
 
 #### Measurements & Tracking
@@ -125,4 +117,4 @@ Dietary patterns rich in anti-inflammatory foods have been shown to reduce CRP b
 - Consider advanced cellular health markers if available
 
 #### Scientific Rationale
-Mitochondrial dysfunction is linked to fatigue and various chronic diseases. [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] is vital for the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]]. Dietary strategies like the [[entities/intervention/Keto Diet\|Keto Diet]] and interventions such as [[entities/intervention/Red Light Therapy\|Red Light Therapy]] can optimize mitochondrial function and energy production.
+Mitochondrial dysfunction is linked to fatigue and various chronic diseases. [[Coenzyme Q10\|Coenzyme Q10]] is vital for the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]]. Dietary strategies like the [[Keto Diet\|Keto Diet]] and interventions such as [[Red Light Therapy\|Red Light Therapy]] can optimize mitochondrial function and energy production.

@@ -1,14 +1,5 @@
 ---
-dg-publish: true
-permalink: /entities/users/john-doe/lab-results-2025-05-01/
-title: "Lab Results: John Doe (May 2025)"
-tags:
-  - personal
-  - user_data
-  - lab_results
-  - blood_work
-created: 2025-11-01
-updated: 2025-11-01
+{"dg-publish":true,"permalink":"/entities/users/john-doe/lab-results-2025-05-01/","title":"Lab Results: John Doe (May 2025)","tags":["personal","user_data","lab_results","blood_work"]}
 ---
 
 
@@ -108,12 +99,12 @@ updated: 2025-11-01
    - Vitamin D3 increase to 4000 IU daily
    - Consider omega-3 supplementation (2-3g daily)
    - B-complex with methylfolate and methylcobalamin for homocysteine
-   - Consider [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] supplementation for energy and antioxidant support
+   - Consider [[Coenzyme Q10\|Coenzyme Q10]] supplementation for energy and antioxidant support
 
 3. **Lifestyle recommendations**:
    - Continue regular exercise with emphasis on cardiovascular training
    - Implement stress reduction techniques to address potential inflammation
-   - Consider [[entities/intervention/Red Light Therapy\|Red Light Therapy]] for cellular health and inflammation
+   - Consider [[Red Light Therapy\|Red Light Therapy]] for cellular health and inflammation
    - Retest lipid panel and inflammatory markers in 3 months
 
 4. **Further investigation**:
