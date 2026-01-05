@@ -1,0 +1,84 @@
+---
+{"dg-publish":true,"permalink":"/entities/phenotype/thrombocytopenia/","tags":["phenotype","imported","primekg"]}
+---
+
+
+# Thrombocytopenia
+
+## Description
+
+...
+
+## Relationships
+
+### Relatedtophenotype
+- ← [[Abnormal_platelet_count\|Abnormal_platelet_count]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.659000+00:00'
+source: PrimeKG
+```
+- ← [[Neonatal_alloimmune_thrombocytopenia\|Neonatal_alloimmune_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.670000+00:00'
+source: PrimeKG
+```
+- ← [[Post-transfusion_thrombocytopenia\|Post-transfusion_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.675000+00:00'
+source: PrimeKG
+```
+- ← [[Autoimmune_thrombocytopenia\|Autoimmune_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.681000+00:00'
+source: PrimeKG
+```
+- ← [[Intermittent_thrombocytopenia\|Intermittent_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.686000+00:00'
+source: PrimeKG
+```
+- ← [[Amegakaryocytic_thrombocytopenia\|Amegakaryocytic_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.692000+00:00'
+source: PrimeKG
+```
+- ← [[Congenital_thrombocytopenia\|Congenital_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.698000+00:00'
+source: PrimeKG
+```
+- → [[Congenital_thrombocytopenia\|Congenital_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.703000+00:00'
+source: PrimeKG
+```
+- → [[Abnormal_platelet_count\|Abnormal_platelet_count]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.709000+00:00'
+source: PrimeKG
+```
+- → [[Amegakaryocytic_thrombocytopenia\|Amegakaryocytic_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.714000+00:00'
+source: PrimeKG
+```
+- → [[Autoimmune_thrombocytopenia\|Autoimmune_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.719000+00:00'
+source: PrimeKG
+```
+- → [[Intermittent_thrombocytopenia\|Intermittent_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.725000+00:00'
+source: PrimeKG
+```
+- → [[Post-transfusion_thrombocytopenia\|Post-transfusion_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.731000+00:00'
+source: PrimeKG
+```
+- → [[Neonatal_alloimmune_thrombocytopenia\|Neonatal_alloimmune_thrombocytopenia]] (entity)
+```yaml
+imported: '2025-12-26T09:40:27.736000+00:00'
+source: PrimeKG
+```

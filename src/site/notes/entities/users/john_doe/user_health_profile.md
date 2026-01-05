@@ -71,7 +71,7 @@
 - Vitamin D3: 2000 IU daily
 - Fish Oil: 1000mg daily
 - Occasional Ibuprofen for joint pain
-- [[drug/Creatine\|Creatine]]: 5g daily (post-workout)
+- [[entities/drug/Creatine\|Creatine]]: 5g daily (post-workout)
 - [[Coenzyme Q10\|Coenzyme Q10]]: 100mg daily
 - [[entities/drug/Turmeric\|Turmeric]]: 1000mg with piperine (cycled)
 - [[entities/drug/Ashwagandha\|Ashwagandha]]: 600mg (cycled)

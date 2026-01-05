@@ -70,7 +70,7 @@ ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome\|Metabolic Syndrome]]
 MODULATED_BY_SUPPLEMENT::[[entities/drug/Berberine\|Berberine]]
 MODULATED_BY_SUPPLEMENT::[[entities/Supplement/Magnesium\|Magnesium]]
 MODULATED_BY_SUPPLEMENT::[[Alpha Lipoic Acid\|Alpha Lipoic Acid]]
-AFFECTS_BIOMARKER::[[entities/biomarker/HbA1c\|HbA1c]]
+AFFECTS_BIOMARKER::[[entities/labtest/hba1c\|HbA1c]]
 AFFECTS_BIOMARKER::[[Fasting Glucose\|Fasting Glucose]]
 
 ## References
