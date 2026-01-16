@@ -29,7 +29,7 @@ Risk Multiplier: 2.2x for cardiovascular events
 - REQUIRES_BIOMARKER::[[entities/biomarker/Triglycerides\|Triglycerides]]
 - INCREASES_RISK_FOR::[[Coronary Artery Disease\|Coronary Artery Disease]]
 - INCREASES_RISK_FOR::[[Myocardial Infarction\|Myocardial Infarction]]
-- INCREASES_RISK_FOR::[[Stroke\|Stroke]]
+- INCREASES_RISK_FOR::[[entities/entity/Stroke\|Stroke]]
 - AFFECTS_ORGAN::[[entities/Organ/Heart\|Heart]]
 - AFFECTS_ORGAN::[[Blood Vessels\|Blood Vessels]]
 - IMPROVED_BY_SUPPLEMENT::[[Omega-3 Fatty Acids\|Omega-3 Fatty Acids]]
