@@ -17,7 +17,7 @@
 | B-Complex | 1 capsule | Morning with breakfast | Energy, methylation support | 2025-05-05 | Recently added for homocysteine support |
 | Zinc | 15mg | Dinner | Immune support | 2025-02-01 | Taking during winter/spring months |
 | [[entities/drug/Creatine\|Creatine]] | 5g | Post-workout | Muscle energy, performance | 2025-06-01 | New addition for athletic performance |
-| [[Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
+| [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
 
 ### Cycled Supplements
 
@@ -34,7 +34,7 @@
 | Melatonin | 1.5mg | Travel, significant sleep disruption | Sleep initiation | Use rarely, only when sleep cycle disrupted |
 | Electrolyte Mix | 1 packet | After intense exercise, excessive sweating | Hydration, electrolyte balance | Contains sodium, potassium, magnesium |
 | NAC | 600mg | Air travel, excessive alcohol | Glutathione support, detoxification |
-| [[MCT8 Oil\|MCT8 Oil]] | 1 tbsp | Prior to workouts, during low-carb days | Ketone production, energy | Experimenting with ketogenic diet principles |
+| [[entities/drug/MCT8 Oil\|MCT8 Oil]] | 1 tbsp | Prior to workouts, during low-carb days | Ketone production, energy | Experimenting with ketogenic diet principles |
 
 ## Supplement Details & Research
 
@@ -64,7 +64,7 @@
 - **Current Research**: Widely recognized for improving strength, power, and muscle mass in athletic populations.
 - **Personalization Factors**: John's regular weight training and desire for performance enhancement.
 
-**[[Coenzyme Q10\|Coenzyme Q10]]**
+**[[entities/drug/Coenzyme Q10\|Coenzyme Q10]]**
 - **Mechanism**: Essential component of the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]], involved in ATP production and acts as a powerful antioxidant.
 - **Evidence Level**: Moderate to Strong
 - **Current Research**: Research supports its role in cardiovascular health, energy metabolism, and mitigating oxidative stress.
@@ -111,4 +111,4 @@
 - Current fish oil dosage likely insufficient based on latest cholesterol panel
 - May benefit from methylated forms of B vitamins due to MTHFR gene variant
 - Consider higher potency vitamin D during winter months
-- Monitor [[MCT8 Oil\|MCT8 Oil]] intake as part of exploring ketogenic principles
+- Monitor [[entities/drug/MCT8 Oil\|MCT8 Oil]] intake as part of exploring ketogenic principles

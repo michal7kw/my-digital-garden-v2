@@ -61,8 +61,8 @@ This dashboard provides a comprehensive overview of John Doe's health status, go
 
 **Interventions:**
 
-- [[Keto Diet\|Keto Diet]] principles are being explored to support metabolic health.
-- [[Red Light Therapy\|Red Light Therapy]] is under consideration for its potential benefits on cellular health and inflammation.
+- [[entities/intervention/Keto Diet\|Keto Diet]] principles are being explored to support metabolic health.
+- [[entities/intervention/Red Light Therapy\|Red Light Therapy]] is under consideration for its potential benefits on cellular health and inflammation.
 
 ## Key Knowledge Graph Connections
 
@@ -79,7 +79,7 @@ This section highlights how John Doe's personal health data connects to the broa
 - [[TAKES_SUPPLEMENT::[[Fish Oil\|TAKES_SUPPLEMENT::[[Fish Oil]]]]
 - [[TAKES_SUPPLEMENT::[[Magnesium Glycinate\|TAKES_SUPPLEMENT::[[Magnesium Glycinate]]]]
 - [[TAKES_SUPPLEMENT::[[Creatine\|TAKES_SUPPLEMENT::[[Creatine]]]]
-- [[TAKES_SUPPLEMENT::[[Coenzyme Q10\|TAKES_SUPPLEMENT::[[Coenzyme Q10\|Coenzyme Q10]]]]
+- [[TAKES_SUPPLEMENT::[[Coenzyme Q10\|TAKES_SUPPLEMENT::[[entities/drug/Coenzyme Q10\|Coenzyme Q10]]]]
 - [[TAKES_SUPPLEMENT::[[Turmeric\|TAKES_SUPPLEMENT::[[entities/drug/Turmeric\|Turmeric]]]]
 - [[TAKES_SUPPLEMENT::[[Ashwagandha\|TAKES_SUPPLEMENT::[[Ashwagandha]]]]
 - [[TAKES_SUPPLEMENT::[[MCT8 Oil\|TAKES_SUPPLEMENT::[[MCT8 Oil]]]]
@@ -99,4 +99,4 @@ This section highlights how John Doe's personal health data connects to the broa
 - [[AFFECTS_BIOLOGICAL_PROCESS::[[Inflammatory Response\|AFFECTS_BIOLOGICAL_PROCESS::[[Inflammatory Response]]]]
 
 **Recommendations Integration:**
-Recommendations are generated based on current lab results, health goals, and knowledge graph insights. These may include suggestions for specific supplements (like [[Turmeric]] for inflammation or [[Coenzyme Q10]] for mitochondrial support), lifestyle interventions (like exploring [[Keto Diet\|Keto Diet]] principles or [[Red Light Therapy\|Red Light Therapy]]), or further testing. This section will be dynamically updated by the recommendation engine. The `ObsidianRecommendationFormatter` service formats these recommendations into a readable Markdown format and updates this dashboard.
+Recommendations are generated based on current lab results, health goals, and knowledge graph insights. These may include suggestions for specific supplements (like [[Turmeric]] for inflammation or [[Coenzyme Q10]] for mitochondrial support), lifestyle interventions (like exploring [[entities/intervention/Keto Diet\|Keto Diet]] principles or [[entities/intervention/Red Light Therapy\|Red Light Therapy]]), or further testing. This section will be dynamically updated by the recommendation engine. The `ObsidianRecommendationFormatter` service formats these recommendations into a readable Markdown format and updates this dashboard.

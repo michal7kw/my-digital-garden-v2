@@ -14,16 +14,16 @@ Monoamine neurotransmitter regulating mood, sleep, appetite, and gut function. A
 
 ### Required For Synthesis
 - ← [[entities/labtest/folate\|Folate]] (supplement)
-- ← [[entities/Supplement/Vitamin_B6\|Vitamin_B6]] (supplement)
+- ← [[Vitamin_B6\|Vitamin_B6]] (supplement)
 
 ### Affects Neurotransmitter
 - ← [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
 - ← [[entities/Supplement/Probiotics\|Probiotics]] (supplement)
-- ← [[entities/Supplement/Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
-- ← [[entities/labtest/vitamin_b12\|Vitamin_B12]] (supplement)
+- ← [[Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
+- ← [[Vitamin_B12\|Vitamin_B12]] (supplement)
 
 ### Modulates Neurotransmitter
-- ← [[entities/Supplement/Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
+- ← [[Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
 
 ### Related
 - → [[entities/labtest/folate\|Folate]] (biomarker)
@@ -33,8 +33,8 @@ Monoamine neurotransmitter regulating mood, sleep, appetite, and gut function. A
 - ← [[entities/Supplement/5-HTP\|5-HTP]] (supplement)
 - ← [[entities/labtest/folate\|Folate]] (supplement)
 - ← [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
-- ← [[entities/Supplement/Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
+- ← [[Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
 - ← [[entities/Supplement/Probiotics\|Probiotics]] (supplement)
-- ← [[entities/Supplement/Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
-- ← [[entities/labtest/vitamin_b12\|Vitamin_B12]] (supplement)
-- ← [[entities/Supplement/Vitamin_B6\|Vitamin_B6]] (supplement)
+- ← [[Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
+- ← [[Vitamin_B12\|Vitamin_B12]] (supplement)
+- ← [[Vitamin_B6\|Vitamin_B6]] (supplement)

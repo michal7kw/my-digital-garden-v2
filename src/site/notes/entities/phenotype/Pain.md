@@ -122,7 +122,7 @@ source: PrimeKG
 imported: '2025-12-26T09:40:28.736000+00:00'
 source: PrimeKG
 ```
-- ← [[entities/phenotype/Abdominal_pain\|Abdominal_pain]] (phenotype)
+- ← [[Abdominal_pain\|Abdominal_pain]] (phenotype)
 ```yaml
 imported: '2025-12-26T09:40:28.742000+00:00'
 source: PrimeKG
@@ -224,7 +224,7 @@ source: PrimeKG
 ```
 
 ### Related
-- ← [[entities/phenotype/Abdominal_pain\|Abdominal_pain]] (phenotype)
+- ← [[Abdominal_pain\|Abdominal_pain]] (phenotype)
 - ← [[entities/phenotype/Arthralgia\|Arthralgia]] (phenotype)
 - → [[entities/phenotype/Arthralgia\|Arthralgia]] (phenotype)
 - → [[entities/condition/Myalgia\|Myalgia]] (condition)

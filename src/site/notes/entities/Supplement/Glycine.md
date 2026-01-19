@@ -10,10 +10,10 @@ Conditionally essential amino acid with inhibitory neurotransmitter function. Ke
 
 ## Relationships
 ### Synergistic With
-- ← [[entities/Supplement/Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
+- ← [[Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
 - ← [[entities/Supplement/NAC\|NAC]] (supplement)
 
 ### Related
 - → [[entities/Supplement/NAC\|NAC]] (supplement)
-- ← [[entities/Supplement/Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
+- ← [[Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
 - ← [[entities/Supplement/NAC\|NAC]] (supplement)

@@ -12,7 +12,7 @@
 ## Relationships
 
 ### May Improve Condition
-- ← [[entities/Supplement/Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
+- ← [[Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
 
 ### Relatedtophenotype
 - ← [[Constitutional_symptom\|Constitutional_symptom]] (entity)
@@ -189,4 +189,4 @@ source: PrimeKG
 ```
 
 ### Related
-- ← [[entities/Supplement/Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)
+- ← [[Rhodiola_Rosea\|Rhodiola_Rosea]] (supplement)

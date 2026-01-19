@@ -27,18 +27,18 @@ No correlations documented.
 
 ### Other Relationships
 ### Modulates Hormone
-- ← [[entities/Supplement/Alpha_Lipoic_Acid\|Alpha_Lipoic_Acid]] (supplement)
+- ← [[Alpha_Lipoic_Acid\|Alpha_Lipoic_Acid]] (supplement)
 - ← [[entities/drug/Berberine\|Berberine]] (supplement)
-- ← [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
-- ← [[entities/biomarker/Vitamin_D\|Vitamin_D]] (supplement)
+- ← [[entities/labtest/magnesium\|Magnesium]] (supplement)
+- ← [[Vitamin_D\|Vitamin_D]] (supplement)
 
 ### Related
-- → [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
+- → [[entities/labtest/magnesium\|Magnesium]] (supplement)
 - → [[entities/drug/Berberine\|Berberine]] (supplement)
-- ← [[entities/Supplement/Alpha_Lipoic_Acid\|Alpha_Lipoic_Acid]] (supplement)
+- ← [[Alpha_Lipoic_Acid\|Alpha_Lipoic_Acid]] (supplement)
 - ← [[entities/drug/Berberine\|Berberine]] (supplement)
-- ← [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
-- ← [[entities/biomarker/Vitamin_D\|Vitamin_D]] (supplement)
+- ← [[entities/labtest/magnesium\|Magnesium]] (supplement)
+- ← [[Vitamin_D\|Vitamin_D]] (supplement)
 
 ## 💊 Supplements That Affect This Biomarker
 

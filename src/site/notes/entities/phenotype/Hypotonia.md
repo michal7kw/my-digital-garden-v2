@@ -42,7 +42,7 @@ source: PrimeKG
 imported: '2025-12-26T09:40:26.730000+00:00'
 source: PrimeKG
 ```
-- ← [[entities/phenotype/Generalized_hypotonia\|Generalized_hypotonia]] (entity)
+- ← [[Generalized_hypotonia\|Generalized_hypotonia]] (entity)
 ```yaml
 imported: '2025-12-26T09:40:26.736000+00:00'
 source: PrimeKG
@@ -72,7 +72,7 @@ source: PrimeKG
 imported: '2025-12-26T09:40:26.762000+00:00'
 source: PrimeKG
 ```
-- → [[entities/phenotype/Generalized_hypotonia\|Generalized_hypotonia]] (entity)
+- → [[Generalized_hypotonia\|Generalized_hypotonia]] (entity)
 ```yaml
 imported: '2025-12-26T09:40:26.768000+00:00'
 source: PrimeKG
@@ -112,16 +112,16 @@ source: PrimeKG
 imported: '2025-12-26T09:40:26.827000+00:00'
 source: PrimeKG
 ```
-- → [[entities/phenotype/Generalized_hypotonia\|Generalized_hypotonia]] (phenotype)
+- → [[Generalized_hypotonia\|Generalized_hypotonia]] (phenotype)
 ```yaml
 imported: '2025-12-26T09:40:29.241000+00:00'
 source: PrimeKG
 ```
-- ← [[entities/phenotype/Generalized_hypotonia\|Generalized_hypotonia]] (phenotype)
+- ← [[Generalized_hypotonia\|Generalized_hypotonia]] (phenotype)
 ```yaml
 imported: '2025-12-26T09:40:29.264000+00:00'
 source: PrimeKG
 ```
 
 ### Related
-- ← [[entities/phenotype/Generalized_hypotonia\|Generalized_hypotonia]] (phenotype)
+- ← [[Generalized_hypotonia\|Generalized_hypotonia]] (phenotype)

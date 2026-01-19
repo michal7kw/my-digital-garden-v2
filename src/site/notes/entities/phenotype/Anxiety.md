@@ -13,9 +13,9 @@
 
 ### May Improve Condition
 - ← [[entities/Supplement/5-HTP\|5-HTP]] (supplement)
-- ← [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
+- ← [[entities/labtest/magnesium\|Magnesium]] (supplement)
 - ← [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
-- ← [[entities/Supplement/Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
+- ← [[Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
 - ← [[entities/drug/Ashwagandha\|Ashwagandha]] (supplement)
 - ← [[entities/Supplement/Probiotics\|Probiotics]] (supplement)
 
@@ -268,12 +268,12 @@ source: PrimeKG
 ### Related
 - → [[entities/Supplement/5-HTP\|5-HTP]] (supplement)
 - → [[entities/Supplement/Probiotics\|Probiotics]] (supplement)
-- → [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
+- → [[entities/labtest/magnesium\|Magnesium]] (supplement)
 - → [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
 - → [[entities/drug/Ashwagandha\|Ashwagandha]] (supplement)
 - ← [[entities/Supplement/5-HTP\|5-HTP]] (supplement)
 - ← [[entities/drug/Ashwagandha\|Ashwagandha]] (supplement)
 - ← [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
-- ← [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
-- ← [[entities/Supplement/Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
+- ← [[entities/labtest/magnesium\|Magnesium]] (supplement)
+- ← [[Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
 - ← [[entities/Supplement/Probiotics\|Probiotics]] (supplement)

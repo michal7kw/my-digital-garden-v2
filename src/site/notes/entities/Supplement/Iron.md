@@ -13,7 +13,7 @@ Essential trace mineral critical for oxygen transport, energy production, and ne
 - ← [[entities/Supplement/L-Tyrosine\|L-Tyrosine]] (supplement)
 
 ### Synergistic With
-- ← [[entities/Supplement/Vitamin_C\|Vitamin_C]] (supplement)
+- ← [[Vitamin_C\|Vitamin_C]] (supplement)
 
 ### Competes With
 - ← [[entities/Supplement/Zinc\|Zinc]] (supplement)
@@ -22,5 +22,5 @@ Essential trace mineral critical for oxygen transport, energy production, and ne
 - → [[entities/Supplement/Zinc\|Zinc]] (supplement)
 - → [[entities/Supplement/L-Tyrosine\|L-Tyrosine]] (supplement)
 - ← [[entities/Supplement/L-Tyrosine\|L-Tyrosine]] (supplement)
-- ← [[entities/Supplement/Vitamin_C\|Vitamin_C]] (supplement)
+- ← [[Vitamin_C\|Vitamin_C]] (supplement)
 - ← [[entities/Supplement/Zinc\|Zinc]] (supplement)

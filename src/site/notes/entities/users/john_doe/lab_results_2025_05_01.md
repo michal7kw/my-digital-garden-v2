@@ -99,12 +99,12 @@
    - Vitamin D3 increase to 4000 IU daily
    - Consider omega-3 supplementation (2-3g daily)
    - B-complex with methylfolate and methylcobalamin for homocysteine
-   - Consider [[Coenzyme Q10\|Coenzyme Q10]] supplementation for energy and antioxidant support
+   - Consider [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] supplementation for energy and antioxidant support
 
 3. **Lifestyle recommendations**:
    - Continue regular exercise with emphasis on cardiovascular training
    - Implement stress reduction techniques to address potential inflammation
-   - Consider [[Red Light Therapy\|Red Light Therapy]] for cellular health and inflammation
+   - Consider [[entities/intervention/Red Light Therapy\|Red Light Therapy]] for cellular health and inflammation
    - Retest lipid panel and inflammatory markers in 3 months
 
 4. **Further investigation**:

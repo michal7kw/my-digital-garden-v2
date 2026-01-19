@@ -32,7 +32,7 @@ source: PrimeKG
 imported: '2025-12-26T09:40:28.316000+00:00'
 source: PrimeKG
 ```
-- ← [[entities/phenotype/Respiratory_distress\|Respiratory_distress]] (phenotype)
+- ← [[Respiratory_distress\|Respiratory_distress]] (phenotype)
 ```yaml
 imported: '2025-12-26T09:40:28.323000+00:00'
 source: PrimeKG
@@ -47,7 +47,7 @@ source: PrimeKG
 imported: '2025-12-26T09:40:28.333000+00:00'
 source: PrimeKG
 ```
-- → [[entities/phenotype/Respiratory_distress\|Respiratory_distress]] (phenotype)
+- → [[Respiratory_distress\|Respiratory_distress]] (phenotype)
 ```yaml
 imported: '2025-12-26T09:40:28.339000+00:00'
 source: PrimeKG

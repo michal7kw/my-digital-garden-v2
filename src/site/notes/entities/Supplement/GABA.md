@@ -18,10 +18,10 @@ Gamma-aminobutyric acid - the primary inhibitory neurotransmitter in the brain. 
 - ← [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
 
 ### Synergistic With
-- ← [[entities/Supplement/Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
+- ← [[Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
 
 ### Required For Synthesis
-- ← [[entities/Supplement/Vitamin_B6\|Vitamin_B6]] (supplement)
+- ← [[Vitamin_B6\|Vitamin_B6]] (supplement)
 
 ### Related
 - ← [[entities/Supplement/Ashwagandha\|Ashwagandha]] (supplement)
@@ -31,6 +31,6 @@ Gamma-aminobutyric acid - the primary inhibitory neurotransmitter in the brain. 
 - → [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
 - ← [[entities/Supplement/L-Theanine\|L-Theanine]] (supplement)
 - ← [[entities/Supplement/Magnesium\|Magnesium]] (supplement)
-- ← [[entities/Supplement/Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
-- ← [[entities/Supplement/Vitamin_B6\|Vitamin_B6]] (supplement)
+- ← [[Melatonin_Supplement\|Melatonin_Supplement]] (supplement)
+- ← [[Vitamin_B6\|Vitamin_B6]] (supplement)
 - ← [[entities/Supplement/Zinc\|Zinc]] (supplement)

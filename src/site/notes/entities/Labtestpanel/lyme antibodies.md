@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/entities/labtestpanel/lyme-antibodies/"}
+---
+
+
+# lyme_antibodies
+
+These tests identify antibodies associated with tick-borne infections like Lyme disease, babesiosis (caused by Babesia), ehrlichiosis (caused by Ehrlichia), anaplasmosis (caused by Anaplasma), and Bartonella-related diseases, detecting both recent exposure and active infections. These tests measure IgM antibodies, which indicate a recent or active infection, and IgG antibodies, which show past exposure and may remain detectable even after the infection resolves. Tick-borne diseases are often hard to diagnose because their symptoms can mimic other conditions, such as the flu, lupus, rheumatoid arthritis, or multiple sclerosis. Early detection through testing is important to ensure timely treatment and prevent complications like chronic Lyme disease or lasting neurological damage. Included biomarkers (20) Bartonella Quintana Antibodies (IgM), Titer Bartonella Quintana Antibodies (IgG), Titer Bartonella Henselae Antibodies (IgM), Titer Bartonella Henselae Antibodies (IgG), Titer Lyme Disease AB (IgM), Blot Lyme Disease AB (IgG), Blot Anaplasma Phagocytophilum Antibodies (IgM) Babesia Microti Antibodies (IgM) Bartonella Henselae Antibodies (IgM) Bartonella Quintana Antibodies (IgM) Borrelia Miyamotoi Antibodies (IgG) Ehrlichia Chaffeensis Antibodies (IgM) Ehrlichia Chaffeensis Antibodies (IgG) Borrelia Miyamotoi Antibodies (IgM) Bartonella Quintana Antibodies (IgG) Bartonella Henselae Antibodies (IgG) Babesia Microti Antibodies (IgG) Babesia Duncani (WA1) Antibody (IgG) Anaplasma Phagocytophilum Antibodies (IgG) Lyme Antibody Screen

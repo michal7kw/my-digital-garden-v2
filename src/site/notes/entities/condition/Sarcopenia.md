@@ -1,75 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/entities/condition/sarcopenia/","tags":["condition","musculoskeletal","metabolic","aging","physical_performance"]}
+{"dg-publish":true,"permalink":"/entities/condition/sarcopenia/","tags":["condition","geriatric","musculoskeletal","metabolic","function-health"]}
 ---
 
 
 # Sarcopenia
 
 ## Overview
-A progressive and generalized skeletal muscle disorder characterized by the loss of muscle mass, strength, and physical performance, often associated with aging.
 
-## Clinical Presentation
-### Symptoms
-- Decreased muscle mass
-- Reduced muscle strength
-- Slow walking speed
-- Difficulty with activities of daily living
-- Frequent falls
-
-## Diagnostic Information
-### Diagnostic Criteria
-```yaml
-- Low muscle strength (grip strength or chair stand test)
-- Low muscle quantity or quality (DXA or BIA)
-- Low physical performance (Gait speed or SPPB)
-```
-
-## Risk Factors
-- Aging
-- Physical inactivity
-- Inadequate protein intake
-- Chronic inflammation (Inflamm-aging)
-- Hormonal decline (Testosterone, Growth Hormone)
+Sarcopenia is more than just natural muscle loss; it is a clinical syndrome that increases frailty and mortality risk in the elderly. It is defined by low muscle mass combined with either low muscle strength or low physical performance. It is a key target for longevity interventions.
 
 ## Management
-### Prevention
-- Resistance training
-- High-protein diet (1.2-1.5g/kg)
-- Vitamin D optimization
 
-### Treatment Approaches
-- Progressive resistance exercise
-- Creatine monohydrate supplementation
-- Protein pulse feeding
+- **Resistance Training:** The most effective treatment for building muscle mass.
+- **High Protein Diet:** 1.2 - 1.5 g/kg/day recommended for seniors.
+- **Vitamin D Optimization.**
 
-### Interventions
-| File | Effectiveness | Confidence |
-| ---- | ------------- | ---------- |
+## Relationships
 
-{ .block-language-dataview}
-
-## Complications
-- Increased risk of fractures
-- Loss of independence
-- Metabolic dysfunction
-- Increased mortality
-
-## Other Relationships
-### May Improve Condition
-- ← [[entities/drug/Creatine\|Creatine]] (drug)
-
-### Related
-- → [[entities/drug/Creatine\|Creatine]] (drug)
-- ← [[entities/drug/Creatine\|Creatine]] (drug)
-
-## Research
-### Recent Studies
-
-{ .block-language-dataview}
-
-### Clinical Trials
-
-{ .block-language-dataview}
+ASSOCIATED_WITH_CONDITION::[[entities/condition/Osteoporosis\|Osteoporosis]] - Often co-occurs (osteosarcopenia).
+ASSOCIATED_WITH_CONDITION::[[Obesity\|Obesity]] - Sarcopenic obesity.
+ASSOCIATED_WITH_CONDITION::[[entities/condition/Insulin Resistance\|Insulin Resistance]]
+AFFECTS_ORGAN::[[entities/Organ/Muscle\|Muscle]]
+ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/albumin\|Albumin]]
+ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/vitamin d\|Vitamin D]]
+IMPROVED_BY_INTERVENTION::[[Exercise\|Exercise]]
 
 ## References
-No references available.
+
+- Cruz-Jentoft, A. J., et al. (2019). Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing.
+- Santilli, V., et al. (2014). Clinical definition of sarcopenia.
+- Mayo Clinic. Sarcopenia.

@@ -9,19 +9,19 @@ This file tracks biomarker values over time from various sources.
 
 ## Vitamin D Trend
 
-- biomarker:: [[Vitamin D\|Vitamin D]]
+- biomarker:: [[entities/labtest/vitamin d\|Vitamin D]]
     - value:: 22
     - unit:: "ng/mL"
     - status:: "Insufficient"
     - date_recorded:: 2024-11-15
 
-- biomarker:: [[Vitamin D\|Vitamin D]]
+- biomarker:: [[entities/labtest/vitamin d\|Vitamin D]]
     - value:: 28
     - unit:: "ng/mL"
     - status:: "Insufficient"
     - date_recorded:: 2025-05-01
 
-- biomarker:: [[Vitamin D\|Vitamin D]]
+- biomarker:: [[entities/labtest/vitamin d\|Vitamin D]]
     - value:: 45
     - unit:: "ng/mL"
     - status:: "Optimal"
@@ -43,13 +43,13 @@ This file tracks biomarker values over time from various sources.
 
 ## Creatine Kinase Trend
 
-- biomarker:: [[Creatine Kinase\|Creatine Kinase]]
+- biomarker:: [[entities/biomarker/Creatine Kinase\|Creatine Kinase]]
     - value:: 180
     - unit:: "U/L"
     - status:: "Normal"
     - date_recorded:: 2024-11-15
 
-- biomarker:: [[Creatine Kinase\|Creatine Kinase]]
+- biomarker:: [[entities/biomarker/Creatine Kinase\|Creatine Kinase]]
     - value:: 220
     - unit:: "U/L"
     - status:: "Normal"

@@ -66,12 +66,12 @@ AFFECTS_ORGAN::[[entities/Organ/Brain\|Brain]]
 REGULATES::[[Blood Glucose\|Blood Glucose]]
 ANTAGONIST_OF::[[Glucagon\|Glucagon]]
 ASSOCIATED_WITH_CONDITION::[[entities/condition/Diabetes\|Diabetes]]
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome\|Metabolic Syndrome]]
+ASSOCIATED_WITH_CONDITION::[[entities/condition/Metabolic Syndrome\|Metabolic Syndrome]]
 MODULATED_BY_SUPPLEMENT::[[entities/drug/Berberine\|Berberine]]
-MODULATED_BY_SUPPLEMENT::[[entities/Supplement/Magnesium\|Magnesium]]
-MODULATED_BY_SUPPLEMENT::[[Alpha Lipoic Acid\|Alpha Lipoic Acid]]
+MODULATED_BY_SUPPLEMENT::[[entities/labtest/magnesium\|Magnesium]]
+MODULATED_BY_SUPPLEMENT::[[entities/Supplement/Alpha Lipoic Acid\|Alpha Lipoic Acid]]
 AFFECTS_BIOMARKER::[[entities/labtest/hba1c\|HbA1c]]
-AFFECTS_BIOMARKER::[[Fasting Glucose\|Fasting Glucose]]
+AFFECTS_BIOMARKER::[[entities/labtest/fasting glucose\|Fasting Glucose]]
 
 ## References
 
