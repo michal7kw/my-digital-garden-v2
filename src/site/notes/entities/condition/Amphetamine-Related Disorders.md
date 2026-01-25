@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/amphetamine-related-disorders/","tags":["condition","psychiatry","addiction","substance_use"]}
 ---
 
-
 # Amphetamine-Related Disorders
 
 ## Overview

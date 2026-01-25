@@ -72,7 +72,7 @@
 - Fish Oil: 1000mg daily
 - Occasional Ibuprofen for joint pain
 - [[entities/drug/Creatine\|Creatine]]: 5g daily (post-workout)
-- [[entities/drug/Coenzyme Q10\|Coenzyme Q10]]: 100mg daily
+- [[entities/Supplement/Coenzyme Q10\|Coenzyme Q10]]: 100mg daily
 - [[entities/drug/Turmeric\|Turmeric]]: 1000mg with piperine (cycled)
 - [[entities/drug/Ashwagandha\|Ashwagandha]]: 600mg (cycled)
 - [[entities/drug/MCT8 Oil\|MCT8 Oil]]: 1 tbsp (as needed, for ketogenic principles)

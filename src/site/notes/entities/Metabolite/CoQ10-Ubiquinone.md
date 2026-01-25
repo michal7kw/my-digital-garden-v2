@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/metabolite/co-q10-ubiquinone/"}
+{"dg-publish":true,"permalink":"/entities/metabolite/co-q10-ubiquinone/","tags":["metabolite"]}
 ---
-
 
 # CoQ10-Ubiquinone
 

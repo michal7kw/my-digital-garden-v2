@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/condition/arthralgia/"}
+{"dg-publish":true,"permalink":"/entities/condition/arthralgia/","tags":["condition"]}
 ---
-
 
 # Arthralgia
 

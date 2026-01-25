@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/ferritin/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/ferritin/","tags":["biomarker"]}
 ---
-
 
 # Ferritin
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,6 +29,28 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/Ferritin\|Ferritin]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:15.116371'
+source: obsidian
+```
+- → [[Iron_Deficiency_Pattern\|Iron_Deficiency_Pattern]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:15.116371'
+source: obsidian
+```
+- ← [[Iron_Deficiency_Pattern\|Iron_Deficiency_Pattern]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:16.661054'
+source: obsidian
+```
+
+### Requires Biomarker
+- ← [[Iron_Deficiency_Pattern\|Iron_Deficiency_Pattern]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:39.366268'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 
@@ -34,7 +58,11 @@ No supplement effects documented yet. Add effects in the respective supplement n
 
 ## 🧪 Lab Tests That Measure This Biomarker
 
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
+### Direct Tests
+- [[entities/biomarker/Ferritin\|ferritin]] - Direct ferritin measurement
+
+### Panel Tests
+- [[entities/labtest/iron panel\|iron panel]] - Part of iron studies panel
 
 ## References
 No references available.

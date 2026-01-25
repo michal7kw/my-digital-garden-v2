@@ -1,28 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/igf1/"}
+{"dg-publish":true,"permalink":"/entities/labtest/igf1/","tags":["labtest"]}
 ---
 
-
-# IGF-1 (Insulin-like Growth Factor 1)
+# igf1
 
 ## Overview
 Growth hormone mediator. Marker for GH deficiency/excess and biological aging research.
 
-**Evidence Level:** ⭐⭐⭐⭐ (4/5)
 
 ## Test Information
 
 | Property | Value |
 |----------|-------|
-| **Subcategory** | Metabolic Hormones || **Test Type** | Standard |
+| **Category** |  |
+| **Subcategory** | Null || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
-| **Turnaround Time** | 2-5 days || **Price Range** | $55-$120 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
+| **Turnaround Time** | null-null days || **Price Range** | $null-$null |
 
-## Biomarkers Measured
 
-This test measures the following biomarkers:
 
-- [[entities/labtest/igf1\|igf1]]
 
 ## Recommended For
 
@@ -46,4 +43,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:26.658704*
+*Last Updated: 2026-01-19T09:32:25.884411*

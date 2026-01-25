@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/total-iron-binding-capacity/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/total-iron-binding-capacity/","tags":["biomarker"]}
 ---
-
 
 # Tibc
 

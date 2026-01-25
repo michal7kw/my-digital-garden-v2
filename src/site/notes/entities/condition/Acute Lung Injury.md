@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/acute-lung-injury/","tags":["condition","respiratory","acute","inflammation","lung"]}
 ---
 
-
 # Acute Lung Injury
 
 ## Overview

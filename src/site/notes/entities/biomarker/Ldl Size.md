@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/ldl-size/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/ldl-size/","tags":["biomarker"]}
 ---
-
 
 # Ldl Size
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Ldl_Size\|Ldl_Size]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:22.356369'
+source: obsidian
+```
 - → [[Ldl_Size\|Ldl_Size]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:22.356369'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

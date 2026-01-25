@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/red-blood-cell-count/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/red-blood-cell-count/","tags":["biomarker"]}
 ---
-
 
 # Rbc
 

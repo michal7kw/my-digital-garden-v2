@@ -2,33 +2,32 @@
 {"dg-publish":true,"permalink":"/entities/drug/omeprazole/","tags":["drug","ppi","gastric","acid_suppression","otc","prescription"]}
 ---
 
-
 # Omeprazole
 
 ## Overview
 Proton pump inhibitor (PPI) for acid-related disorders. Irreversibly inhibits gastric H+/K+ ATPase, reducing stomach acid production. One of the most prescribed medications globally.
 
-**Short Description**: PPI for GERD, ulcers, and acid-related disorders
 
 ## Pharmacological Information
 
-**DrugBank ID**: DB00338
 
-**Drug Class**: Proton Pump Inhibitor
 
-**Synonyms**:
-- Prilosec
-- Losec
 
-### Mechanism of Action
-Irreversibly inhibits gastric proton pump, reducing acid production
 
 ## Clinical Features
 
+
+
+
+
+
 ## Classification
 
+
+
+
+
 ## Chemical Properties
-No content available.
 
 ## Relationships
 
@@ -41,4 +40,12 @@ source: PrimeKG
 
 ### Related
 - ← [[entities/drug/Imipramine\|Imipramine]] (drug)
+```yaml
+last_modified: '2026-01-19T09:31:58.088632'
+source: obsidian
+```
 - → [[entities/drug/Imipramine\|Imipramine]] (drug)
+```yaml
+last_modified: '2026-01-19T09:32:01.339156'
+source: obsidian
+```

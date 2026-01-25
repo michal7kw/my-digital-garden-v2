@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/ibuprofen-sodium/","tags":["drug","nsaid","analgesic","fast-acting"]}
 ---
 
-
 # Ibuprofen Sodium
 
 ## Overview

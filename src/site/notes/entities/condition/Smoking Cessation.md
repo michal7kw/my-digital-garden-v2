@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/smoking-cessation/","tags":["condition","intervention","public_health","preventive_medicine"]}
 ---
 
-
 # Smoking Cessation
 
 ## Overview

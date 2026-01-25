@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/procaine-benzylpenicillin/","tags":["drug","antibiotic","intramuscular","long-acting"]}
 ---
 
-
 # Procaine Benzylpenicillin
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/insulin-fasting/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/insulin-fasting/","tags":["biomarker"]}
 ---
-
 
 # Insulin Fasting
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Insulin_Fasting\|Insulin_Fasting]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:21.246457'
+source: obsidian
+```
 - → [[Insulin_Fasting\|Insulin_Fasting]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:21.246457'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

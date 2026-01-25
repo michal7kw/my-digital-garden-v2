@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/apolipoprotein-b/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/apolipoprotein-b/","tags":["biomarker"]}
 ---
-
 
 # Apob
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/metabolite/nad/"}
+{"dg-publish":true,"permalink":"/entities/metabolite/nad/","tags":["metabolite"]}
 ---
-
 
 # NAD+
 

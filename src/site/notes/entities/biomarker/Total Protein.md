@@ -2,28 +2,50 @@
 {"dg-publish":true,"permalink":"/entities/biomarker/total-protein/","tags":["biomarker","metabolic","nutrition","liver_function","kidney_function"]}
 ---
 
-
 # Total Protein
 
 ## Overview
+A measurement of the total amount of albumin and globulin in the serum, reflecting nutritional status and organ function.
 
-Total protein levels in the blood are made up of two main classes: **Albumin** and **Globulin**. This test is used to evaluate overall health, nutritional status, and diseases of the liver, kidneys, or bone marrow.
+## Reference Ranges
+Reference ranges not available.
 
-## Clinical Significance
 
-- **Low Total Protein:** Malnutrition, malabsorption (Celiac, IBD), liver disease, kidney disease (Nephrotic syndrome).
-- **High Total Protein:** Chronic inflammation, infections (HIV, Hepatitis), multiple myeloma, dehydration.
+## Testing Information
+- **Measurement Unit**: Not specified
+- **Sample Type**: Not specified
+- **Fasting Required**: False
+- **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Liver Disease\|Liver Disease]]
-ASSOCIATED_WITH_CONDITION::[[Kidney Disease\|Kidney Disease]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Albumin\|Albumin]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/globulin\|Globulin]]
-ASSOCIATED_WITH_BIOMARKER::[[Albumin-to-Globulin Ratio\|Albumin-to-Globulin Ratio]]
+### Influences
+No known influences documented.
+
+### Correlations
+No correlations documented.
+
+### Other Relationships
+### Related
+- → [[Total_Protein\|Total_Protein]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:27.650960'
+source: obsidian
+```
+
+## 💊 Supplements That Affect This Biomarker
+
+No supplement effects documented yet. Add effects in the respective supplement notes.
+
+## 🧪 Lab Tests That Measure This Biomarker
+
+No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
 
 ## References
+No references available.
 
-- Busher, J. T. (1990). Serum Albumin and Globulin. Clinical Methods.
-- Mayo Clinic. Total protein test.
-- MedlinePlus. Total Protein.
+## Dataview Queries
+
+{ .block-language-dataview}

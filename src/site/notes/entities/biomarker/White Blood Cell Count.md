@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/white-blood-cell-count/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/white-blood-cell-count/","tags":["biomarker"]}
 ---
-
 
 # Wbc
 

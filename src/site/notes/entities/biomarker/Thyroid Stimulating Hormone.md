@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/thyroid-stimulating-hormone/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/thyroid-stimulating-hormone/","tags":["biomarker"]}
 ---
-
 
 # Tsh
 

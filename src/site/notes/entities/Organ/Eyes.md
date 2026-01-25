@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/organ/eyes/"}
+{"dg-publish":true,"permalink":"/entities/organ/eyes/","tags":["organ"]}
 ---
-
 
 # Eyes
 
@@ -21,13 +20,24 @@ relationships_section: '### Affects Organ
 
   ```
 
+
   ### Related
+
+  - → [[Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (entity)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:33:04.354740''
+
+  source: obsidian
+
+  ```
 
   - ← [[Omega-3_Fatty_Acids\|Omega-3_Fatty_Acids]] (supplement)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:21.166888''
+  last_modified: ''2026-01-19T09:07:12.965838''
 
   source: obsidian
 

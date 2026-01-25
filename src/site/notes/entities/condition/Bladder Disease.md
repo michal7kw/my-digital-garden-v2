@@ -2,31 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/bladder-disease/","tags":["condition","urology","function-health"]}
 ---
 
-
 # Bladder Disease
 
 ## Overview
+A broad category of disorders affecting the urinary bladder, including infections, functional issues, stones, and cancers.
 
-Bladder diseases encompass any condition that impairs the storage or voiding of urine. Common conditions include **Cystitis** (inflammation), **Overactive Bladder**, **Interstitial Cystitis**, and **Bladder Cancer**.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Common Types
 
-- **Cystitis:** Usually bacterial infection.
-- **Neurogenic Bladder:** Nerve damage affecting control.
-- **Bladder Stones:** Mineral buildups.
-- **Bladder Cancer:** Malignant growths in the lining.
 
-## Relationships
+## Diagnostic Information
 
-INCLUDES_CONDITION::[[entities/condition/Cystitis\|Cystitis]]
-INCLUDES_CONDITION::[[entities/condition/Neurogenic Bladder\|Neurogenic Bladder]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Urinary Tract Infection\|Urinary Tract Infection]]
-AFFECTS_ORGAN::[[entities/Organ/Bladder\|Bladder]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/white blood cell urine\|White Blood Cell Urine]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/red blood cell urine\|Red Blood Cell Urine]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[appearance_urine\|appearance_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Bladder_Disease\|Bladder_Disease]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:50.387423'
+source: obsidian
+```
+- → [[appearance_urine\|appearance_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:50.387423'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Urology Care Foundation. Bladder Conditions.
-- Mayo Clinic. Bladder diseases.
-- NIDDK. Your Urinary System.
+No references available.

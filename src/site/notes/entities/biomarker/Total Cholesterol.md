@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/total-cholesterol/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/total-cholesterol/","tags":["biomarker"]}
 ---
-
 
 # Total Cholesterol
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Total_Cholesterol\|Total_Cholesterol]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:27.491036'
+source: obsidian
+```
 - → [[Total_Cholesterol\|Total_Cholesterol]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:27.491036'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 
@@ -35,7 +46,9 @@ No supplement effects documented yet. Add effects in the respective supplement n
 
 ## 🧪 Lab Tests That Measure This Biomarker
 
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
+### Panel Tests
+- [[entities/labtest/lipid panel standard\|lipid panel standard]] - Standard lipid panel (primary measurement)
+- [[entities/labtest/advanced lipid panel\|advanced lipid panel]] - Advanced lipid panel with additional markers
 
 ## References
 No references available.

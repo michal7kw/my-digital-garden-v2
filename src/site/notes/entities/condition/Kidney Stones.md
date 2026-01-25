@@ -2,35 +2,110 @@
 {"dg-publish":true,"permalink":"/entities/condition/kidney-stones/","tags":["condition","urology","nephrology","metabolic","function-health"]}
 ---
 
-
 # Kidney Stones
 
 ## Overview
+Hard deposits made of minerals and salts that form inside the kidneys, often causing severe pain when passing through the urinary tract.
 
-Kidney Stones (Renal Calculi) are solid masses formed from crystals that precipitate out of the urine. They can be very small or grow large enough to obstruct the ureter. Small stones can pass on their own, but larger ones require medical intervention such as lithotripsy or surgery.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Types of Stones
 
-- **Calcium Oxalate:** Most common (80%); often dietary.
-- **Uric Acid:** Linked to gout and high-protein diets.
-- **Struvite:** Result from chronic UTIs.
-- **Cystine:** Rare genetic cause.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Urinary Tract Obstruction\|Urinary Tract Obstruction]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Urinary Tract Infection\|Urinary Tract Infection]]
-ASSOCIATED_WITH_CONDITION::[[Hyperparathyroidism\|Hyperparathyroidism]]
-AFFECTS_ORGAN::[[Kidney\|Kidney]]
-AFFECTS_ORGAN::[[Ureter\|Ureter]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/calcium\|Calcium]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/uric acid\|Uric Acid]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/specific gravity urine\|Specific Gravity Urine]] - High density risk.
-TREATED_BY_INTERVENTION::[[Lithotripsy\|Lithotripsy]]
-TREATED_BY_INTERVENTION::[[Hydration\|Hydration]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[occult_blood_urine\|occult_blood_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[ph_urine\|ph_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[red_blood_cell_urine\|red_blood_cell_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[white_blood_cell_urine\|white_blood_cell_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[uric_acid\|uric_acid]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Kidney_Stones\|Kidney_Stones]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:17.698895'
+source: obsidian
+```
+- → [[occult_blood_urine\|occult_blood_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:17.698895'
+source: obsidian
+```
+- → [[ph_urine\|ph_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:17.698895'
+source: obsidian
+```
+- → [[red_blood_cell_urine\|red_blood_cell_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:17.698895'
+source: obsidian
+```
+- → [[white_blood_cell_urine\|white_blood_cell_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:17.698895'
+source: obsidian
+```
+- → [[uric_acid\|uric_acid]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:17.698895'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Pearle, M. S., et al. (2014). Medical management of kidney stones: AUA guideline. Journal of Urology.
-- Mayo Clinic. Kidney stones.
-- National Kidney Foundation. Kidney Stones.
+No references available.

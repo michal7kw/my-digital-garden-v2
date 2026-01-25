@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/magnesium-rbc/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/magnesium-rbc/","tags":["biomarker"]}
 ---
-
 
 # Magnesium Rbc
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Magnesium_Rbc\|Magnesium_Rbc]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:23.005213'
+source: obsidian
+```
 - → [[Magnesium_Rbc\|Magnesium_Rbc]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:23.005213'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

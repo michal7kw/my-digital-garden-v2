@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/dhea-s/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/dhea-s/","tags":["biomarker"]}
 ---
-
 
 # Dhea S
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Dhea_S\|Dhea_S]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:13.784476'
+source: obsidian
+```
 - → [[Dhea_S\|Dhea_S]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:13.784476'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

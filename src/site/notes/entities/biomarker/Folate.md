@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/folate/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/folate/","tags":["biomarker"]}
 ---
-
 
 # Folate
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,14 +29,51 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
-- ← [[entities/biomarker/Homocysteine\|Homocysteine]] (biomarker)
-- ← [[entities/Metabolite/Methylfolate\|Methylfolate]] (metabolite)
-- ← [[entities/Neurotransmitter/Dopamine\|Dopamine]] (neurotransmitter)
-- ← [[entities/Neurotransmitter/Serotonin\|Serotonin]] (neurotransmitter)
-- ← [[entities/Organ/Blood\|Blood]] (organ)
-- ← [[entities/Organ/Brain\|Brain]] (organ)
-- ← [[Vitamin_B12\|Vitamin_B12]] (supplement)
-- ← [[Vitamin_B6\|Vitamin_B6]] (supplement)
+- → [[entities/biomarker/Homocysteine\|Homocysteine]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[entities/Metabolite/Methylfolate\|Methylfolate]] (metabolite)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[entities/Neurotransmitter/Dopamine\|Dopamine]] (neurotransmitter)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[entities/Neurotransmitter/Serotonin\|Serotonin]] (neurotransmitter)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[entities/Organ/Blood\|Blood]] (organ)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[entities/Organ/Brain\|Brain]] (organ)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[Vitamin_B12\|Vitamin_B12]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[Vitamin_B6\|Vitamin_B6]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
+- → [[entities/biomarker/Folate\|Folate]] (supplement)
+```yaml
+last_modified: '2026-01-19T09:30:15.621784'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

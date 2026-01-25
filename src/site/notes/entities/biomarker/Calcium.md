@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/calcium/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/calcium/","tags":["biomarker"]}
 ---
-
 
 # Calcium
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,10 +29,21 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Vitamin_K2\|Vitamin_K2]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:11.335702'
+source: obsidian
+```
+- → [[entities/biomarker/Calcium\|Calcium]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:11.335702'
+source: obsidian
+```
 - ← [[Vitamin_K2\|Vitamin_K2]] (supplement)
-
-### Synergistic With
-- ← [[Vitamin_K2\|Vitamin_K2]] (supplement)
+```yaml
+last_modified: '2026-01-19T09:07:22.084024'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

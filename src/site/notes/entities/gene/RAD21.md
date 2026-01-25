@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/rad-21/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "RAD21"
 
 ## Overview

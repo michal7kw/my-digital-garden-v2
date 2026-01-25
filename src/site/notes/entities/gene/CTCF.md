@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/entities/gene/ctcf/","tags":["gene","imported","primekg"]}
+{"dg-publish":true,"permalink":"/entities/gene/ctcf/","tags":["gene","chromatin","insulator","transcription_factor","imported","primekg"]}
 ---
 
 
-# "CTCF"
+# CTCF
 
 ## Overview
-Gene imported from PrimeKG. No detailed description available.
+The **CTCF** gene encodes an 11-zinc finger transcription factor that acts as the "master weaver" of the genome. It binds to tens of thousands of sites in the genome to regulate 3D chromatin structure.
+
+Its primary roles are:
+1.  **Insulator**: Blocking the interaction between enhancers and promoters.
+2.  **Loop Formation**: Creating Topologically Associating Domains (TADs) by anchoring chromatin loops.
 
 ## Relationships
-No relationships documented.
+- → [[entities/gene/CTCF\|CTCF]] (protein) - *Encodes*
 
 ## References
-- Imported from PrimeKG knowledge graph
+1. **Function**: Phillips, J. E., & Corces, V. G. (2009). "CTCF: master weaver of the genome." *Cell*.

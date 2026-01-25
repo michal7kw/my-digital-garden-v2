@@ -106,10 +106,10 @@ Dietary patterns rich in anti-inflammatory foods have been shown to reduce CRP b
 - **Priority**: Medium
 
 #### Action Plan
-1. Consider [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] supplementation (200mg daily)
+1. Consider [[entities/Supplement/Coenzyme Q10\|Coenzyme Q10]] supplementation (200mg daily)
 2. Incorporate more [[entities/intervention/Keto Diet\|Keto Diet]] principles (e.g., occasional intermittent fasting, reduced refined carbs)
 3. Explore benefits of [[entities/intervention/Red Light Therapy\|Red Light Therapy]] sessions
-4. Regular moderate-intensity [[Exercise\|Exercise]] to promote mitochondrial biogenesis
+4. Regular moderate-intensity [[entities/intervention/Exercise\|Exercise]] to promote mitochondrial biogenesis
 
 #### Measurements & Tracking
 - Track energy levels and fatigue daily
@@ -117,4 +117,4 @@ Dietary patterns rich in anti-inflammatory foods have been shown to reduce CRP b
 - Consider advanced cellular health markers if available
 
 #### Scientific Rationale
-Mitochondrial dysfunction is linked to fatigue and various chronic diseases. [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] is vital for the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]]. Dietary strategies like the [[entities/intervention/Keto Diet\|Keto Diet]] and interventions such as [[entities/intervention/Red Light Therapy\|Red Light Therapy]] can optimize mitochondrial function and energy production.
+Mitochondrial dysfunction is linked to fatigue and various chronic diseases. [[entities/Supplement/Coenzyme Q10\|Coenzyme Q10]] is vital for the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]]. Dietary strategies like the [[entities/intervention/Keto Diet\|Keto Diet]] and interventions such as [[entities/intervention/Red Light Therapy\|Red Light Therapy]] can optimize mitochondrial function and energy production.

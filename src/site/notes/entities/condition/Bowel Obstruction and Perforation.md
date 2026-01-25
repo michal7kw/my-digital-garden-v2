@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/bowel-obstruction-and-perforation/","tags":["condition","gastroenterology","surgery","emergency","acute","function-health"]}
 ---
 
-
 # Bowel Obstruction and Perforation
 
 ## Overview

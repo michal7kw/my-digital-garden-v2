@@ -2,33 +2,88 @@
 {"dg-publish":true,"permalink":"/entities/condition/depression/","tags":["condition","psychiatry","mental_health","function-health"]}
 ---
 
-
 # Depression
 
 ## Overview
+A serious mood disorder characterized by persistent feelings of sadness, hopelessness, and a loss of interest in activities once enjoyed.
 
-Major Depressive Disorder (MDD) is more than just feeling sad. It is a significant medical condition that affects how you feel, think, and handle daily activities. It is a leading cause of disability worldwide and is thought to involve complex interactions between biological, genetic, and environmental factors.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Types
 
-- **Major Depressive Disorder:** Persistent symptoms for at least 2 weeks.
-- **Persistent Depressive Disorder (Dysthymia):** Long-term low mood (2+ years).
-- **Postpartum Depression.**
-- **Seasonal Affective Disorder (SAD).**
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders\|Anxiety Disorders]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Chronic Stress\|Chronic Stress]]
-ASSOCIATED_WITH_CONDITION::[[Hypothyroidism\|Hypothyroidism]]
-AFFECTS_ORGAN::[[entities/Organ/Brain\|Brain]]
-TREATED_BY_DRUG::[[entities/drug/Sertraline\|Sertraline]] - SSRI.
-TREATED_BY_DRUG::[[Escitalopram\|Escitalopram]]
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy\|Cognitive Behavioral Therapy]]
-IMPROVED_BY_INTERVENTION::[[Exercise\|Exercise]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File                                                                | Effectiveness | Confidence |
+| ------------------------------------------------------------------- | ------------- | ---------- |
+| [[entities/intervention/Mediterranean Diet\|Mediterranean Diet]] | \-            | \-         |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- ← [[entities/drug/Creatine\|Creatine]] (drug)
+```yaml
+last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+```
+- → [[entities/condition/Depression\|Depression]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:02.923985'
+source: obsidian
+```
+- → [[entities/drug/Creatine\|Creatine]] (drug)
+```yaml
+last_modified: '2026-01-19T09:31:02.923985'
+source: obsidian
+```
+- → [[Vitamin_D_Deficiency\|Vitamin_D_Deficiency]] (entity)
+```yaml
+last_modified: '2026-01-19T09:31:02.923985'
+source: obsidian
+```
+- ← [[vitamin_d_deficiency\|vitamin_d_deficiency]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:46.670105'
+source: obsidian
+```
+
+### May Improve Condition
+- ← [[entities/drug/Creatine\|Creatine]] (drug)
+```yaml
+last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+```
+
+### Increases Risk For
+- ← [[vitamin_d_deficiency\|vitamin_d_deficiency]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:43.988175'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- American Psychiatric Association. DSM-5.
-- NIMH. Depression.
-- WHO. Depressive disorder (depression).
+No references available.

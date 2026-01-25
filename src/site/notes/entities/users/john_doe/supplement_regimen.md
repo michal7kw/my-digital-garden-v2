@@ -17,7 +17,7 @@
 | B-Complex | 1 capsule | Morning with breakfast | Energy, methylation support | 2025-05-05 | Recently added for homocysteine support |
 | Zinc | 15mg | Dinner | Immune support | 2025-02-01 | Taking during winter/spring months |
 | [[entities/drug/Creatine\|Creatine]] | 5g | Post-workout | Muscle energy, performance | 2025-06-01 | New addition for athletic performance |
-| [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
+| [[entities/Supplement/Coenzyme Q10\|Coenzyme Q10]] | 100mg | Morning with breakfast | Cellular energy, antioxidant support | 2025-06-15 | Added for mitochondrial health |
 
 ### Cycled Supplements
 
@@ -64,7 +64,7 @@
 - **Current Research**: Widely recognized for improving strength, power, and muscle mass in athletic populations.
 - **Personalization Factors**: John's regular weight training and desire for performance enhancement.
 
-**[[entities/drug/Coenzyme Q10\|Coenzyme Q10]]**
+**[[entities/Supplement/Coenzyme Q10\|Coenzyme Q10]]**
 - **Mechanism**: Essential component of the electron transport chain in [[entities/cellularcomponent/Mitochondria\|Mitochondria]], involved in ATP production and acts as a powerful antioxidant.
 - **Evidence Level**: Moderate to Strong
 - **Current Research**: Research supports its role in cardiovascular health, energy metabolism, and mitigating oxidative stress.

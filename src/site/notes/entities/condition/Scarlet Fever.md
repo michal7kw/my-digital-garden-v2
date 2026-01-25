@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/scarlet-fever/","tags":["condition","ent","dermatology","infection","pediatric"]}
 ---
 
-
 # Scarlet Fever
 
 ## Overview

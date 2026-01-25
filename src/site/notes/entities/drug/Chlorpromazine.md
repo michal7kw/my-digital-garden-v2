@@ -1,56 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/chlorpromazine/","tags":["drug","imported","primekg"]}
+{"dg-publish":true,"permalink":"/entities/drug/chlorpromazine/","tags":["drug","antipsychotic","antiemetic","schizophrenia","imported","primekg"]}
 ---
-
 
 # Chlorpromazine
 
 ## Overview
-...
+Chlorpromazine was the first antipsychotic drug developed (1950s), revolutionizing the treatment of schizophrenia. It is a low-potency **typical antipsychotic** of the phenothiazine class.
 
-## Pharmacological Information
+While less commonly used today for long-term psychosis due to side effects (tardive dyskinesia, sedation), it remains useful for acute agitation, severe nausea/vomiting, and intractable hiccups (singultus).
 
-## Clinical Features
-
-## Classification
-
-## Chemical Properties
-No content available.
+## Indications
+- **Schizophrenia**: Especially positive symptoms.
+- **Bipolar Disorder**: Acute manic episodes.
+- **Nausea and Vomiting**: Severe cases.
+- **Intractable Hiccups**: FDA approved indication.
+- **Acute Intermittent Porphyria**: Adjunct treatment.
+- **Tetanus**: Adjunct treatment.
 
 ## Relationships
 
-### Interactswith
-- ← [[Insulin_human\|Insulin_human]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.605000+00:00'
-source: PrimeKG
-```
-- ← [[entities/drug/Amlodipine\|Amlodipine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:35.696000+00:00'
-source: PrimeKG
-```
-- ← [[Salmon_calcitonin\|Salmon_calcitonin]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.737000+00:00'
-source: PrimeKG
-```
-- ← [[Fluticasone_furoate\|Fluticasone_furoate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.789000+00:00'
-source: PrimeKG
-```
-- ← [[Peginterferon_beta-1a\|Peginterferon_beta-1a]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.796000+00:00'
-source: PrimeKG
-```
-- ← [[Huperzine_A\|Huperzine_A]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.919000+00:00'
-source: PrimeKG
-```
+### Modulates Neurotransmitter
+- ⊣ [[entities/Neurotransmitter/Dopamine\|Dopamine]] (neurotransmitter) - *D2 Receptor Antagonist*
 
-### Related
-- ← [[entities/drug/Amlodipine\|Amlodipine]] (drug)
-- → [[entities/drug/Amlodipine\|Amlodipine]] (drug)
+### Modulates Protein
+- ⊣ [[Dopamine D2 Receptor\|Dopamine D2 Receptor]] (protein) - *Antagonist*
+- ⊣ [[Alpha-1 Adrenergic Receptor\|Alpha-1 Adrenergic Receptor]] (protein) - *Antagonist (Hypotension)*
+- ⊣ [[Histamine H1 Receptor\|Histamine H1 Receptor]] (protein) - *Antagonist (Sedation)*
+- ⊣ [[Muscarinic Acetylcholine Receptor\|Muscarinic Acetylcholine Receptor]] (protein) - *Antagonist*
+
+### Treats Condition
+- → [[Schizophrenia\|Schizophrenia]] (condition)
+- → [[Bipolar Disorder\|Bipolar Disorder]] (condition)
+- → [[entities/phenotype/Nausea\|Nausea]] (condition)
+- → [[Hiccups\|Hiccups]] (condition)
+
+## References
+1. **History**: Ban, T. A. (2007). "Fifty years of chlorpromazine: a historical perspective." *Neuropsychiatric Disease and Treatment*.
+2. **Mechanism**: Seeman, P. (2002). "Atypical antipsychotics: mechanism of action." *Canadian Journal of Psychiatry*.

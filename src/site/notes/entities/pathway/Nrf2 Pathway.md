@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/pathway/nrf2-pathway/","tags":["pathway","regulatory","antioxidant","cytoprotective","detoxification"]}
 ---
 
-
 # Nrf2 Pathway
 
 ## Description

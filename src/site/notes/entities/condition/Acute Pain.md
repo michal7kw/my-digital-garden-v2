@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/acute-pain/","tags":["condition","symptom","neurology","pain_management"]}
 ---
 
-
 # Acute Pain
 
 ## Overview

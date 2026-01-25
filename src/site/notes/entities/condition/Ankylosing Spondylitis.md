@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/ankylosing-spondylitis/","tags":["condition","rheumatology","autoimmune","inflammation","chronic"]}
 ---
 
-
 # Ankylosing Spondylitis
 
 ## Overview

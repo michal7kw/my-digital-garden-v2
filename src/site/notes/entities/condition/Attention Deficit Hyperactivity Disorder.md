@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/attention-deficit-hyperactivity-disorder/","tags":["condition","psychiatry","neurology","pediatric","neurodevelopmental"]}
 ---
 
-
 # Attention Deficit Hyperactivity Disorder
 
 ## Overview

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/corneal-ulcer/","tags":["condition","ophthalmology","infection","acute"]}
 ---
 
-
 # Corneal Ulcer
 
 ## Overview

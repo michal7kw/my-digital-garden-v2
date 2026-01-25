@@ -1,67 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/clozapine/","tags":["drug","imported","primekg"]}
+{"dg-publish":true,"permalink":"/entities/drug/clozapine/","tags":["drug","antipsychotic","schizophrenia","treatment_resistant","imported","primekg"]}
 ---
-
 
 # Clozapine
 
 ## Overview
-...
+Clozapine is the prototype **atypical antipsychotic**. It is the gold standard for **treatment-resistant schizophrenia** (defined as failing at least two other antipsychotics). Unlike typical antipsychotics, it carries a very low risk of extrapyramidal side effects (EPS) and tardive dyskinesia.
 
-## Pharmacological Information
+However, its use is limited by serious side effects, most notably **agranulocytosis** (severe drop in white blood cells), which requires mandatory regular blood monitoring (REMS program in the US). Other risks include myocarditis, seizures, and metabolic syndrome.
 
-## Clinical Features
-
-## Classification
-
-## Chemical Properties
-No content available.
+## Indications
+- **Treatment-Resistant Schizophrenia**: FDA approved.
+- **Suicidal Behavior in Schizophrenia**: FDA approved (only antipsychotic with this indication).
+- **Psychosis in Parkinson's Disease**: Off-label, often effective at low doses.
 
 ## Relationships
 
-### Interactswith
-- ← [[Choline_salicylate\|Choline_salicylate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.041000+00:00'
-source: PrimeKG
-```
-- ← [[Vinyl_ether\|Vinyl_ether]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.122000+00:00'
-source: PrimeKG
-```
-- ← [[Black_cohosh\|Black_cohosh]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.150000+00:00'
-source: PrimeKG
-```
-- ← [[25-Dimethoxy-4-ethylthioamphetamine\|25-Dimethoxy-4-ethylthioamphetamine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.155000+00:00'
-source: PrimeKG
-```
-- ← [[Sodium_sulfate\|Sodium_sulfate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.177000+00:00'
-source: PrimeKG
-```
-- ← [[Gentamicin_C1a\|Gentamicin_C1a]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.183000+00:00'
-source: PrimeKG
-```
-- ← [[Farnesyl_thiopyrophosphate\|Farnesyl_thiopyrophosphate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.250000+00:00'
-source: PrimeKG
-```
-- ← [[Octylphenoxy_polyethoxyethanol\|Octylphenoxy_polyethoxyethanol]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.266000+00:00'
-source: PrimeKG
-```
-- ← [[Sodium_oxybate\|Sodium_oxybate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.288000+00:00'
-source: PrimeKG
-```
+### Modulates Neurotransmitter
+- → [[entities/Neurotransmitter/Dopamine\|Dopamine]] (neurotransmitter) - *Weak D2 antagonism*
+- → [[entities/Neurotransmitter/Serotonin\|Serotonin]] (neurotransmitter) - *Strong 5-HT2A antagonism*
+- → [[entities/Neurotransmitter/Acetylcholine\|Acetylcholine]] (neurotransmitter) - *Muscarinic antagonism*
+
+### Modulates Protein
+- ⊣ [[Dopamine D4 Receptor\|Dopamine D4 Receptor]] (protein) - *High affinity antagonist*
+- ⊣ [[5-HT2A Receptor\|5-HT2A Receptor]] (protein) - *High affinity antagonist*
+- ⊣ [[Muscarinic Acetylcholine Receptor\|Muscarinic Acetylcholine Receptor]] (protein) - *Antagonist (M1, M4 agonist/antagonist mix)*
+- ⊣ [[Histamine H1 Receptor\|Histamine H1 Receptor]] (protein) - *Antagonist (Sedation)*
+
+### Treats Condition
+- → [[Schizophrenia\|Schizophrenia]] (condition)
+- → [[Suicidal Ideation\|Suicidal Ideation]] (condition)
+- → [[Parkinson's Disease Psychosis\|Parkinson's Disease Psychosis]] (condition)
+
+### Adverse Effects
+- → [[Agranulocytosis\|Agranulocytosis]] (condition) - *Severe risk*
+- → [[Myocarditis\|Myocarditis]] (condition)
+- → [[entities/condition/Metabolic Syndrome\|Metabolic Syndrome]] (condition)
+
+## References
+1. **Efficacy**: Kane, J., et al. (1988). "Clozapine for the treatment-resistant schizophrenic." *Archives of General Psychiatry*.
+2. **Mechanism**: Meltzer, H. Y. (1994). "An overview of the mechanism of action of clozapine." *Journal of Clinical Psychiatry*.

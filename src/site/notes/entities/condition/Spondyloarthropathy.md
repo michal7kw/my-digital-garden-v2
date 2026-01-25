@@ -2,37 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/spondyloarthropathy/","tags":["condition","rheumatology","autoimmune","inflammation","chronic"]}
 ---
 
-
 # Spondyloarthropathy
 
 ## Overview
+A family of inflammatory rheumatic diseases that cause arthritis, primarily affecting the spine and sacroiliac joints.
 
-Spondyloarthropathies (or Spondyloarthritis) are a group of interrelated diseases with common clinical features and genetic associations (HLA-B27). They are distinct from rheumatoid arthritis (seronegative).
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Types
 
-1.  **Ankylosing Spondylitis:** Primary spinal involvement.
-2.  **Psoriatic Arthritis:** Associated with psoriasis.
-3.  **Reactive Arthritis:** Triggered by infection.
-4.  **Enteropathic Arthritis:** Associated with IBD (Crohn's/Ulcerative Colitis).
-5.  **Undifferentiated Spondyloarthritis.**
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_GENE::[[HLA-B27\|HLA-B27]]
-INCLUDES_CONDITION::[[entities/condition/Ankylosing Spondylitis\|Ankylosing Spondylitis]]
-INCLUDES_CONDITION::[[Psoriatic Arthritis\|Psoriatic Arthritis]]
-INCLUDES_CONDITION::[[Reactive Arthritis\|Reactive Arthritis]]
-ASSOCIATED_WITH_CONDITION::[[Uveitis\|Uveitis]]
-ASSOCIATED_WITH_CONDITION::[[Inflammatory Bowel Disease\|Inflammatory Bowel Disease]]
-AFFECTS_ORGAN::[[Spine\|Spine]]
-AFFECTS_ORGAN::[[Joint\|Joint]]
-TREATED_BY_DRUG::[[NSAIDs\|NSAIDs]] - First line.
-TREATED_BY_DRUG::[[Secukinumab\|Secukinumab]] - IL-17 inhibitor.
-TREATED_BY_DRUG::[[Adalimumab\|Adalimumab]] - TNF inhibitor.
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[entities/condition/Spondyloarthropathy\|Spondyloarthropathy]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:42.353904'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Assessment of SpondyloArthritis international Society (ASAS).
-- Braun, J., & Sieper, J. (2007). Ankylosing spondylitis. The Lancet.
-- Spondylitis Association of America. Overview of Spondyloarthritis.
+No references available.

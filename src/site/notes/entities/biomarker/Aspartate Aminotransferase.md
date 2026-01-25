@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/aspartate-aminotransferase/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/aspartate-aminotransferase/","tags":["biomarker"]}
 ---
-
 
 # Ast
 

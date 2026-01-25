@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/glucose-fasting/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/glucose-fasting/","tags":["biomarker"]}
 ---
-
 
 # Glucose Fasting
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,15 +29,30 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Glucose_Fasting\|Glucose_Fasting]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:17.407835'
+source: obsidian
+```
 - → [[Glucose_Fasting\|Glucose_Fasting]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:17.407835'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 
-No supplement effects documented yet. Add effects in the respective supplement notes.
+- [[entities/drug/Berberine\|Berberine]] - Decreases fasting glucose (moderate effect, evidence level 4)
+- [[entities/labtest/magnesium\|Magnesium]] - Modulates fasting glucose in deficient individuals
 
 ## 🧪 Lab Tests That Measure This Biomarker
 
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
+### Direct Tests
+- [[entities/labtest/fasting glucose\|fasting glucose]] - Fasting glucose measurement
+
+### Panel Tests
+- [[entities/labtest/comprehensive metabolic panel\|comprehensive metabolic panel]] - Part of CMP
+- [[entities/labtest/basic metabolic panel\|basic metabolic panel]] - Part of BMP
 
 ## References
 No references available.

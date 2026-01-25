@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/low-dose-naltrexone/","tags":["drug","opioid_antagonist","immunomodulator","autoimmune","chronic_pain","off_label","prescription"]}
 ---
 
-
 # Low Dose Naltrexone
 
 ## Overview

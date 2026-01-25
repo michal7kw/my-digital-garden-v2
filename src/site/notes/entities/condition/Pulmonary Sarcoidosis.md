@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/pulmonary-sarcoidosis/","tags":["condition","respiratory","immunology","inflammation","chronic"]}
 ---
 
-
 # Pulmonary Sarcoidosis
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/fibrinogen/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/fibrinogen/","tags":["biomarker"]}
 ---
-
 
 # Fibrinogen
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,6 +29,28 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/Fibrinogen\|Fibrinogen]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:15.318329'
+source: obsidian
+```
+- → [[Chronic_Inflammation\|Chronic_Inflammation]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:15.318329'
+source: obsidian
+```
+- ← [[Chronic_Inflammation\|Chronic_Inflammation]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:57.049485'
+source: obsidian
+```
+
+### Requires Biomarker
+- ← [[Chronic_Inflammation\|Chronic_Inflammation]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:37.999694'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

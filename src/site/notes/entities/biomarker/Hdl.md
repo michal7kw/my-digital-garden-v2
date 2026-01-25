@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/hdl/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/hdl/","tags":["biomarker"]}
 ---
-
 
 # Hdl
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,14 +29,24 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/Hdl\|Hdl]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:18.202911'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 
-No supplement effects documented yet. Add effects in the respective supplement notes.
+- [[entities/Supplement/Omega-3 Fatty Acids\|Omega-3 Fatty Acids]] - Increases HDL cholesterol (mild effect, evidence level 3)
 
 ## 🧪 Lab Tests That Measure This Biomarker
 
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
+### Direct Tests
+- [[entities/labtest/hdl cholesterol\|hdl cholesterol]] - Direct HDL measurement
+
+### Panel Tests
+- [[entities/labtest/lipid panel standard\|lipid panel standard]] - Standard lipid panel
+- [[entities/labtest/advanced lipid panel\|advanced lipid panel]] - Advanced lipid panel with HDL particle analysis
 
 ## References
 No references available.

@@ -1,88 +1,89 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/prazosin/"}
+{"dg-publish":true,"permalink":"/entities/drug/prazosin/","tags":["drug"]}
 ---
-
 
 # PRAZOSIN
 
 ## Overview
 
+
+
 ## Pharmacological Information
 
-**Synonyms**:
-- CP-122991
-- Prazosin
-- Prazosin
-- Prazosin
-- Prazosin
-- Prazosin
-- Prazosina
-- Prazosine
+
+
+
 
 ## Clinical Features
 
+
+
+
+
+
 ## Classification
 
+
+
+
+
 ## Chemical Properties
-No content available.
 
 ## Relationships
 
-### Treats
+### Related
 - → [[entities/condition/Hypertension\|Hypertension]] (condition)
 ```yaml
-created_at: '2025-12-16T18:56:06.027570'
-max_phase: '4.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Stress_Disorders_Post-Traumatic\|Stress_Disorders_Post-Traumatic]] (condition)
+- → [[Stress_Disorders_Post-Traumatic\|Stress_Disorders_Post-Traumatic]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.093072'
-max_phase: '3.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Tobacco_Use_Disorder\|Tobacco_Use_Disorder]] (condition)
+- → [[Tobacco_Use_Disorder\|Tobacco_Use_Disorder]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.101785'
-max_phase: '2.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Amphetamine-Related_Disorders\|Amphetamine-Related_Disorders]] (condition)
+- → [[Amphetamine-Related_Disorders\|Amphetamine-Related_Disorders]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.111695'
-max_phase: '2.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Urinary_Bladder_Neurogenic\|Urinary_Bladder_Neurogenic]] (condition)
+- → [[Urinary_Bladder_Neurogenic\|Urinary_Bladder_Neurogenic]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.137941'
-max_phase: '1.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Kidney_Calculi\|Kidney_Calculi]] (condition)
+- → [[Kidney_Calculi\|Kidney_Calculi]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.196650'
-max_phase: '3.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Substance_Withdrawal_Syndrome\|Substance_Withdrawal_Syndrome]] (condition)
+- → [[Substance_Withdrawal_Syndrome\|Substance_Withdrawal_Syndrome]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.208027'
-max_phase: '1.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-- → [[Severe_Acute_Respiratory_Syndrome\|Severe_Acute_Respiratory_Syndrome]] (condition)
+- → [[Severe_Acute_Respiratory_Syndrome\|Severe_Acute_Respiratory_Syndrome]] (entity)
 ```yaml
-created_at: '2025-12-16T18:56:06.234283'
-max_phase: '2.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
 - → [[entities/condition/Alcoholism\|Alcoholism]] (condition)
 ```yaml
-created_at: '2025-12-16T18:56:06.251398'
-max_phase: '3.0'
-source: ChEMBL
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
 ```
-
-### Related
+- ← [[entities/condition/Alcoholism\|Alcoholism]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:46.790609'
+source: obsidian
+```
 - ← [[entities/condition/Hypertension\|Hypertension]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:11.853683'
+source: obsidian
+```

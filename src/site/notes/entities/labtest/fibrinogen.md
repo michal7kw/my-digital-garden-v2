@@ -1,28 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/fibrinogen/"}
+{"dg-publish":true,"permalink":"/entities/labtest/fibrinogen/","tags":["labtest"]}
 ---
 
-
-# Fibrinogen
+# fibrinogen
 
 ## Overview
 Clotting factor and acute phase reactant. Elevated in inflammation and cardiovascular disease.
 
-**Evidence Level:** ⭐⭐⭐⭐ (4/5)
 
 ## Test Information
 
 | Property | Value |
 |----------|-------|
-| **Subcategory** | Inflammation Markers || **Test Type** | Standard |
+| **Category** |  |
+| **Subcategory** | Null || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
-| **Turnaround Time** | 1-3 days || **Price Range** | $35-$75 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
+| **Turnaround Time** | null-null days || **Price Range** | $null-$null |
 
-## Biomarkers Measured
 
-This test measures the following biomarkers:
 
-- [[entities/labtest/fibrinogen\|fibrinogen]]
 
 ## Recommended For
 
@@ -46,4 +43,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:26.555345*
+*Last Updated: 2026-01-19T09:32:21.833336*

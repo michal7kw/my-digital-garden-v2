@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/blood-urea-nitrogen/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/blood-urea-nitrogen/","tags":["biomarker"]}
 ---
-
 
 # Bun
 

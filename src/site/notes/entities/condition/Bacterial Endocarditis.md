@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/bacterial-endocarditis/","tags":["condition","cardiology","infection","acute"]}
 ---
 
-
 # Bacterial Endocarditis
 
 ## Overview

@@ -2,32 +2,77 @@
 {"dg-publish":true,"permalink":"/entities/condition/subclinical-hypothyroidism/","tags":["condition","endocrinology","thyroid","metabolic","function-health"]}
 ---
 
-
 # Subclinical Hypothyroidism
 
 ## Overview
+A mild form of hypothyroidism characterized by slightly elevated TSH levels despite normal free T4 levels, often asymptomatic but carrying risks for progression.
 
-Subclinical Hypothyroidism (SCH) is defined biochemicaly as an elevated serum **TSH** with a normal **Free T4**. It is often a precursor to overt hypothyroidism. Treatment is controversial, especially for TSH levels < 10 mIU/L, and is often based on the presence of symptoms, age, or pregnancy status.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Clinical Considerations
 
-- **Progression:** 2–5% of patients per year progress to overt hypothyroidism, especially those with positive **TPO Antibodies**.
-- **Cardiovascular Risk:** Linked to increased risk of heart failure and coronary heart disease when TSH > 10.
-- **Pregnancy:** Requires aggressive management to prevent fetal developmental issues.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Hypothyroidism\|Hypothyroidism]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Hashimotos Thyroiditis\|Hashimotos Thyroiditis]]
-ASSOCIATED_WITH_CONDITION::[[Dyslipidemia\|Dyslipidemia]]
-AFFECTS_ORGAN::[[Thyroid Gland\|Thyroid Gland]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/tsh\|TSH]] - Elevated.
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Free T4\|Free T4]] - Normal.
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Tpo Antibodies\|Tpo Antibodies]]
-TREATED_BY_DRUG::[[entities/drug/Levothyroxine\|Levothyroxine]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[thyroglobulin_antibodies_tgab\|thyroglobulin_antibodies_tgab]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[thyroid_stimulating_hormone_tsh\|thyroid_stimulating_hormone_tsh]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Subclinical_Hypothyroidism\|Subclinical_Hypothyroidism]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:43.051287'
+source: obsidian
+```
+- → [[thyroglobulin_antibodies_tgab\|thyroglobulin_antibodies_tgab]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:43.051287'
+source: obsidian
+```
+- → [[thyroid_stimulating_hormone_tsh\|thyroid_stimulating_hormone_tsh]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:43.051287'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Peeters, R. P. (2017). Subclinical Hypothyroidism. NEJM.
-- Mayo Clinic. Subclinical hypothyroidism.
-- ATA. Subclinical Hypothyroidism FAQ.
+No references available.

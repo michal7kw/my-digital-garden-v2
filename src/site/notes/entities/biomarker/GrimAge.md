@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/biomarker/grim-age/","tags":["biomarker","longevity","epigenetics","biological_age"]}
 ---
 
-
 # GrimAge
 
 ## Overview
@@ -26,6 +25,7 @@ Reference ranges not available.
 - GrimAge acceleration (GrimAge - Chronological Age) > 0 indicates faster biological aging.
 - GrimAge acceleration < 0 indicates slower biological aging (longevity benefit).
 
+
 ## Relationships
 
 ### Influences
@@ -36,6 +36,11 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/GrimAge\|GrimAge]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:17.727242'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

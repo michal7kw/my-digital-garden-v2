@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/ibuprofen-lysine/","tags":["drug","nsaid","pediatric","fast-acting"]}
 ---
 
-
 # Ibuprofen Lysine
 
 ## Overview

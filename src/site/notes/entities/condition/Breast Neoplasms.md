@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/breast-neoplasms/","tags":["condition","oncology","cancer","women_health"]}
 ---
 
-
 # Breast Neoplasms
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/carbon-dioxide/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/carbon-dioxide/","tags":["biomarker"]}
 ---
-
 
 # Co2
 

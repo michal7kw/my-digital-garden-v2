@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/alkaline-phosphatase/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/alkaline-phosphatase/","tags":["biomarker"]}
 ---
-
 
 # Alp
 

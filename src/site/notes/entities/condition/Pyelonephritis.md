@@ -2,31 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/pyelonephritis/","tags":["condition","nephrology","urology","infection","function-health"]}
 ---
 
-
 # Pyelonephritis
 
 ## Overview
+A serious type of urinary tract infection (UTI) that affects one or both kidneys, often causing systemic symptoms like fever and flank pain.
 
-Pyelonephritis is an upper urinary tract infection. It most commonly results from bacteria (**Escherichia coli**) ascending from the bladder to the kidneys. Unlike simple cystitis, pyelonephritis carries a risk of permanent kidney scarring and life-threatening **Sepsis**.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Complications
 
-- **Kidney Scarring:** Leading to chronic kidney disease.
-- **Renal Abscess:** Collection of pus in the kidney.
-- **Sepsis:** Systemic inflammatory response.
-- **Acute Kidney Injury (AKI).**
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Urinary Tract Infection\|Urinary Tract Infection]]
-ASSOCIATED_WITH_CONDITION::[[Sepsis\|Sepsis]]
-AFFECTS_ORGAN::[[Kidney\|Kidney]]
-CAUSED_BY::[[Escherichia coli\|Escherichia coli]]
-TREATED_BY_DRUG::[[Antibiotics\|Antibiotics]] - Ciprofloxacin, Ceftriaxone.
-TREATED_BY_INTERVENTION::[[IV Fluids\|IV Fluids]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[entities/condition/Pyelonephritis\|Pyelonephritis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:38.880605'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Johnson, J. R., & Russo, T. A. (2018). Acute Pyelonephritis in Adults. NEJM.
-- Mayo Clinic. Kidney infection.
-- Urology Care Foundation. Kidney Infection (Pyelonephritis).
+No references available.

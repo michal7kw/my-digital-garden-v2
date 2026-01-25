@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/premature-birth/","tags":["condition","obstetrics","pediatrics","neonatology"]}
 ---
 
-
 # Premature Birth
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/estimated-gfr/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/estimated-gfr/","tags":["biomarker"]}
 ---
-
 
 # Egfr
 

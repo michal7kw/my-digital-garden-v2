@@ -2,28 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/pernicious-anemia/","tags":["condition","hematology","immunology","autoimmune","function-health"]}
 ---
 
-
 # Pernicious Anemia
 
 ## Overview
+An autoimmune condition characterized by the body's inability to absorb Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and neurological issues.
 
-Pernicious Anemia is a specific type of **B12 Deficiency Anemia**. It is caused by an autoimmune attack on the parietal cells of the stomach, which produce **Intrinsic Factor**. Without intrinsic factor, the body cannot absorb B12 in the terminal ileum. Chronic deficiency can lead to irreversible neurological damage.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Relationships
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/B Vitamin Deficiency\|B Vitamin Deficiency]]
-ASSOCIATED_WITH_CONDITION::[[Anemia\|Anemia]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Addisons Disease\|Addisons Disease]]
-AFFECTS_ORGAN::[[entities/Organ/Stomach\|Stomach]]
-AFFECTS_ORGAN::[[entities/Organ/Blood\|Blood]]
-AFFECTS_ORGAN::[[Nerve\|Nerve]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/vitamin b12\|Vitamin B12]] - Markedly low.
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/methylmalonic acid\|Methylmalonic Acid]] - Elevated.
-ASSOCIATED_WITH_BIOMARKER::[[Anti-Parietal Cell Antibody\|Anti-Parietal Cell Antibody]]
-TREATED_BY_INTERVENTION::[[Vitamin B12 Injection\|Vitamin B12 Injection]]
+
+## Diagnostic Information
+
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[methylmalonic_acid\|methylmalonic_acid]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Pernicious_Anemia\|Pernicious_Anemia]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:34.644127'
+source: obsidian
+```
+- → [[methylmalonic_acid\|methylmalonic_acid]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:34.644127'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Toh, B. H., et al. (1997). Pernicious Anemia. NEJM.
-- Mayo Clinic. Pernicious anemia.
-- NIH. Vitamin B12 Deficiency Anemia.
+No references available.

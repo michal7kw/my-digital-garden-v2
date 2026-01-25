@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/biomarker/kraft-test/","tags":["biomarker","labtest","metabolic","insulin_resistance"]}
 ---
 
-
 # Kraft Test
 
 ## Overview
@@ -10,6 +9,7 @@ An oral glucose tolerance test with serial insulin measurements (GTIR), used to 
 
 ## Reference Ranges
 Reference ranges not available.
+
 
 ## Testing Information
 - **Measurement Unit**: Not specified
@@ -24,6 +24,7 @@ Reference ranges not available.
 - Pattern IV: Hyperinsulinemic Fasting (Elevated fasting insulin).
 - Pattern V: Insulinopenia (Low insulin production).
 
+
 ## Relationships
 
 ### Influences
@@ -34,7 +35,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Kraft_Test\|Kraft_Test]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:21.570072'
+source: obsidian
+```
 - → [[Kraft_Test\|Kraft_Test]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:21.570072'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

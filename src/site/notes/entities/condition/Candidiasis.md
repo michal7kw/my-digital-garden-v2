@@ -2,34 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/candidiasis/","tags":["condition","infection","fungal","dermatology","gynecology","function-health"]}
 ---
 
-
 # Candidiasis
 
 ## Overview
+A fungal infection caused by an overgrowth of Candida species, primarily Candida albicans, affecting the skin, mucous membranes, or internal organs.
 
-Candidiasis (Yeast Infection) occurs when the normal balance of microorganisms is disrupted, allowing **Candida** to overgrow. It can be superficial (skin/mouth/vagina) or systemic (**Candidemia**), the latter being a life-threatening emergency in immunocompromised patients.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Key Types
 
-- **Oral Thrush:** Affects the mouth and throat.
-- **Vulvovaginal Candidiasis:** Common vaginal yeast infection.
-- **Cutaneous Candidiasis:** Affects skin folds (intertrigo).
-- **Invasive Candidiasis:** Spreads through the bloodstream.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Vaginitis\|Vaginitis]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Diabetes Mellitus\|Diabetes Mellitus]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/HIV Infections\|HIV Infections]]
-AFFECTS_ORGAN::[[Vagina\|Vagina]]
-AFFECTS_ORGAN::[[entities/Organ/Skin\|Skin]]
-AFFECTS_ORGAN::[[Mouth\|Mouth]]
-TREATED_BY_DRUG::[[Fluconazole\|Fluconazole]]
-TREATED_BY_DRUG::[[Nystatin\|Nystatin]]
-TREATED_BY_DRUG::[[Clotrimazole\|Clotrimazole]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[entities/condition/Candidiasis\|Candidiasis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:52.137631'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Pappas, P. G., et al. (2016). Clinical Practice Guideline for the Management of Candidiasis.
-- Mayo Clinic. Yeast infection (vaginal).
-- CDC. Candidiasis.
+No references available.

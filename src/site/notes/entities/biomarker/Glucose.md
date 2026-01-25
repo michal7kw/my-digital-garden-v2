@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/glucose/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/glucose/","tags":["biomarker"]}
 ---
-
 
 # Glucose
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -28,10 +30,20 @@ No correlations documented.
 ### Other Relationships
 ### Related
 - → [[entities/condition/Diabetes\|Diabetes]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:17.188234'
+source: obsidian
+```
+- → [[entities/biomarker/Glucose\|Glucose]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:17.188234'
+source: obsidian
+```
 - ← [[entities/condition/Diabetes\|Diabetes]] (condition)
-
-### Associated With Biomarker
-- ← [[entities/condition/Diabetes\|Diabetes]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:03.553962'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

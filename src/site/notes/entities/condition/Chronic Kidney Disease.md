@@ -2,34 +2,177 @@
 {"dg-publish":true,"permalink":"/entities/condition/chronic-kidney-disease/","tags":["condition","nephrology","chronic","function-health"]}
 ---
 
-
 # Chronic Kidney Disease
 
 ## Overview
+A long-term condition where the kidneys are damaged and gradually lose their ability to filter waste and excess fluid from the blood.
 
-Chronic Kidney Disease (CKD) is characterized by a gradual loss of kidney function over time. If kidney function continues to decline, it can lead to **End-Stage Renal Disease (ESRD)**, requiring dialysis or a transplant. CKD is often "silent" until advanced stages.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Stages
 
-- **Stage 1-2:** Mildly decreased GFR with evidence of kidney damage.
-- **Stage 3:** Moderately decreased GFR (30-59 mL/min).
-- **Stage 4:** Severely decreased GFR (15-29 mL/min).
-- **Stage 5:** Kidney failure (<15 mL/min).
 
-## Relationships
+## Diagnostic Information
 
-CAUSED_BY::[[entities/condition/Diabetes Mellitus\|Diabetes Mellitus]]
-CAUSED_BY::[[entities/condition/Hypertension\|Hypertension]]
-ASSOCIATED_WITH_CONDITION::[[Anemia\|Anemia]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Cardiovascular Disease\|Cardiovascular Disease]]
-AFFECTS_ORGAN::[[Kidney\|Kidney]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/creatinine\|Creatinine]] - Elevated.
-ASSOCIATED_WITH_BIOMARKER::[[entities/gene/EGFR\|EGFR]] - Decreased.
-ASSOCIATED_WITH_BIOMARKER::[[BUN\|BUN]] - Elevated.
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/albumin microalbumin urine\|Albumin Microalbumin Urine]] - Elevated.
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[entities/labtest/lead\|lead]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[entities/labtest/mercury\|mercury]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[entities/labtest/calcium\|calcium]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[methylmalonic_acid\|methylmalonic_acid]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[red_blood_cell_count\|red_blood_cell_count]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[albumin_microalbumin_urine\|albumin_microalbumin_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[entities/labtest/chloride\|chloride]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[creatinine_based_estimated_glomerular_filtration_rate_egfr\|creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[hyaline_casts_urine\|hyaline_casts_urine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[uric_acid\|uric_acid]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Increases Risk For
+- ← [[Kidney_Stress_Pattern\|Kidney_Stress_Pattern]] (clinicalpattern)
+```yaml
+last_modified: '2026-01-19T09:30:40.032727'
+source: obsidian
+```
+
+### Related
+- → [[Chronic_Kidney_Disease\|Chronic_Kidney_Disease]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[entities/labtest/lead\|lead]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[entities/labtest/mercury\|mercury]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[entities/labtest/calcium\|calcium]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[methylmalonic_acid\|methylmalonic_acid]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[red_blood_cell_count\|red_blood_cell_count]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[albumin_microalbumin_urine\|albumin_microalbumin_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[entities/labtest/chloride\|chloride]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[creatinine_based_estimated_glomerular_filtration_rate_egfr\|creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[hyaline_casts_urine\|hyaline_casts_urine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[uric_acid\|uric_acid]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+- → [[Kidney_Stress_Pattern\|Kidney_Stress_Pattern]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:59.540217'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Webster, A. C., et al. (2017). Chronic kidney disease. The Lancet.
-- National Kidney Foundation. CKD Stages.
-- CDC. Chronic Kidney Disease in the United States.
+No references available.

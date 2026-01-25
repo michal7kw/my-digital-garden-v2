@@ -2,35 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/scleroderma/","tags":["condition","rheumatology","autoimmune","dermatology","function-health"]}
 ---
 
-
 # Scleroderma
 
 ## Overview
+A group of rare autoimmune diseases characterized by the hardening and tightening of the skin and connective tissues, often affecting internal organs and blood vessels.
 
-Scleroderma (Systemic Sclerosis) involves the overproduction of **Collagen**. It can be **Localized** (skin only) or **Systemic**. Systemic Sclerosis is further divided into **Limited** (CREST syndrome) and **Diffuse** forms. The latter involves significant internal organ damage, particularly to the lungs and kidneys.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## CREST Syndrome (Limited Sclerosis)
 
-- **C**alcinosis: Calcium deposits in skin.
-- **R**aynaud's: Spasm of blood vessels in response to cold.
-- **E**sophageal dysfunction: Acid reflux/swallowing issues.
-- **S**clerodactyly: Thickening of skin on fingers.
-- **T**elangiectasia: Dilation of small blood vessels.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Pulmonary Hypertension\|Pulmonary Hypertension]] - Common in limited SSc.
-ASSOCIATED_WITH_CONDITION::[[Pulmonary Fibrosis\|Pulmonary Fibrosis]] - Common in diffuse SSc.
-AFFECTS_ORGAN::[[entities/Organ/Skin\|Skin]]
-AFFECTS_ORGAN::[[Connective Tissue\|Connective Tissue]]
-AFFECTS_ORGAN::[[Lung\|Lung]]
-ASSOCIATED_WITH_BIOMARKER::[[Antinuclear Antibodies\|Antinuclear Antibodies]]
-ASSOCIATED_WITH_BIOMARKER::[[Anti-Scl-70\|Anti-Scl-70]] (Topoisomerase I).
-ASSOCIATED_WITH_BIOMARKER::[[Anticentromere Antibody\|Anticentromere Antibody]] - Linked to CREST.
-TREATED_BY_DRUG::[[Mycophenolate Mofetil\|Mycophenolate Mofetil]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[entities/condition/Scleroderma\|Scleroderma]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:40.841230'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Denton, C. P., & Khanna, D. (2017). Systemic sclerosis. The Lancet.
-- Mayo Clinic. Scleroderma.
-- Scleroderma Foundation. What is Scleroderma?
+No references available.

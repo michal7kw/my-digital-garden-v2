@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/aa-epa-ratio/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/aa-epa-ratio/","tags":["biomarker"]}
 ---
-
 
 # Aa Epa Ratio
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Aa_Epa_Ratio\|Aa_Epa_Ratio]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:08.487149'
+source: obsidian
+```
 - → [[Aa_Epa_Ratio\|Aa_Epa_Ratio]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:08.487149'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

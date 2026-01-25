@@ -2,35 +2,99 @@
 {"dg-publish":true,"permalink":"/entities/condition/liver-disease/","tags":["condition","hepatology","gastroenterology","function-health"]}
 ---
 
-
 # Liver Disease
 
 ## Overview
+A broad range of conditions that damage the liver and impair its essential functions, including detoxification, metabolism, and bile production.
 
-Liver disease encompasses over 100 different conditions. It often progresses through predictable stages: Inflammation (**Hepatitis**), followed by scarring (**Fibrosis**), and eventually permanent, irreversible scarring (**Cirrhosis**) and liver failure.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Key Types
 
-- **Viral Hepatitis:** A, B, C, D, E.
-- **Steatotic Liver Disease (Fatty Liver):** MASLD (Non-alcoholic) and Alcohol-related.
-- **Autoimmune Hepatitis.**
-- **Genetic Disorders:** Hemochromatosis, Wilson's Disease.
-- **Biliary Disorders:** PSC, PBC.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Cirrhosis\|Cirrhosis]]
-ASSOCIATED_WITH_CONDITION::[[Hepatitis\|Hepatitis]]
-ASSOCIATED_WITH_CONDITION::[[Hemochromatosis\|Hemochromatosis]]
-AFFECTS_ORGAN::[[entities/Organ/Liver\|Liver]]
-ASSOCIATED_WITH_BIOMARKER::[[ALT\|ALT]]
-ASSOCIATED_WITH_BIOMARKER::[[AST\|AST]]
-ASSOCIATED_WITH_BIOMARKER::[[GGT\|GGT]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Bilirubin Total\|Bilirubin Total]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/albumin\|Albumin]] - Decreased in failure.
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[entities/labtest/iron\|iron]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[iron_saturation\|iron_saturation]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[iron_binding_capacity\|iron_binding_capacity]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[total_protein\|total_protein]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Liver_Disease\|Liver_Disease]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:19.057980'
+source: obsidian
+```
+- → [[entities/labtest/iron\|iron]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:19.057980'
+source: obsidian
+```
+- → [[iron_saturation\|iron_saturation]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:19.057980'
+source: obsidian
+```
+- → [[iron_binding_capacity\|iron_binding_capacity]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:19.057980'
+source: obsidian
+```
+- → [[total_protein\|total_protein]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:19.057980'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- WHO. Liver Disease.
-- Mayo Clinic. Liver disease.
-- British Liver Trust. About Liver Disease.
+No references available.

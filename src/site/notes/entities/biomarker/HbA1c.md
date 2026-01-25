@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/hb-a1c/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/hb-a1c/","tags":["biomarker"]}
 ---
-
 
 # Hba1C
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,14 +29,22 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/HbA1c\|Hba1C]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:17.852736'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 
-No supplement effects documented yet. Add effects in the respective supplement notes.
+- [[entities/drug/Berberine\|Berberine]] - Decreases HbA1c (moderate effect, evidence level 4)
+- [[entities/labtest/magnesium\|Magnesium]] - Decreases HbA1c in type 2 diabetics (mild effect, evidence level 3)
 
 ## 🧪 Lab Tests That Measure This Biomarker
 
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
+### Direct Tests
+- [[entities/biomarker/HbA1c\|hba1c]] - HbA1c measurement
+- [[entities/labtest/hemoglobin a1c hba1c\|hemoglobin a1c hba1c]] - Hemoglobin A1c test
 
 ## References
 No references available.

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/alcoholism/","tags":["condition","substance_use_disorder","chronic","mental_health","addiction"]}
 ---
 
-
 # Alcoholism
 
 ## Overview
@@ -10,22 +9,19 @@ Alcohol Use Disorder (AUD) is a chronic relapsing brain disorder characterized b
 
 ## Clinical Presentation
 ### Symptoms
-- Craving or strong urge to drink
-- Inability to limit drinking
-- Withdrawal symptoms when not drinking
-- Tolerance requiring more alcohol for effect
-- Neglecting responsibilities due to drinking
-- Continued use despite problems
-- Giving up activities to drink
-- Drinking in unsafe situations
+Not specified.
+
+
 
 ## Diagnostic Information
-No diagnostic criteria available.
+
 
 ## Risk Factors
-No risk factors documented.
+
+
 
 ## Management
+
 
 ### Interventions
 | File | Effectiveness | Confidence |
@@ -33,12 +29,32 @@ No risk factors documented.
 
 { .block-language-dataview}
 
-## Other Relationships
-### Treats
-- <- [[entities/drug/PRAZOSIN\|PRAZOSIN]] (drug)
 
+
+
+
+## Other Relationships
 ### Related
-No other relationships documented.
+- → [[entities/drug/PRAZOSIN\|PRAZOSIN]] (entity)
+```yaml
+last_modified: '2026-01-19T08:39:29.799805'
+source: obsidian
+```
+- ← [[entities/drug/PRAZOSIN\|PRAZOSIN]] (drug)
+```yaml
+last_modified: '2026-01-19T09:32:02.527184'
+source: obsidian
+```
+- → [[entities/condition/Alcoholism\|Alcoholism]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:46.790609'
+source: obsidian
+```
+- → [[entities/drug/PRAZOSIN\|PRAZOSIN]] (drug)
+```yaml
+last_modified: '2026-01-19T09:30:46.790609'
+source: obsidian
+```
 
 ## Research
 ### Recent Studies

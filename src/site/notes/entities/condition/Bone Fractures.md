@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/bone-fractures/","tags":["condition","orthopedics","trauma","injury"]}
 ---
 
-
 # Bone Fractures
 
 ## Overview

@@ -2,32 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/rhabdomyolysis/","tags":["condition","musculoskeletal","emergency","nephrology","function-health"]}
 ---
 
-
 # Rhabdomyolysis
 
 ## Overview
+A serious medical condition involving the rapid breakdown of damaged skeletal muscle, releasing toxic cell contents into the bloodstream.
 
-Rhabdomyolysis is characterized by the necrosis of muscle fibers. The release of intracellular contents, especially **Myoglobin**, is highly toxic to the kidneys and can lead to **Acute Kidney Injury (AKI)**. Early and aggressive fluid resuscitation is the cornerstone of treatment.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Complications
 
-- **Acute Kidney Injury:** Due to myoglobin-induced tubular damage.
-- **Electrolyte Imbalance:** Hyperkalemia, hyperphosphatemia.
-- **Compartment Syndrome.**
-- **DIC (Disseminated Intravascular Coagulation).**
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Acute Kidney Injury\|Acute Kidney Injury]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Electrolyte Imbalance\|Electrolyte Imbalance]]
-AFFECTS_ORGAN::[[entities/Organ/Muscle\|Muscle]]
-AFFECTS_ORGAN::[[Kidney\|Kidney]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Creatine Kinase\|Creatine Kinase]] - Markedly elevated.
-ASSOCIATED_WITH_BIOMARKER::[[Myoglobin\|Myoglobin]]
-TREATED_BY_INTERVENTION::[[IV Fluids\|IV Fluids]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[entities/condition/Rhabdomyolysis\|Rhabdomyolysis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:39.464069'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Bosch, X., et al. (2009). Rhabdomyolysis and acute kidney injury. NEJM.
-- Mayo Clinic. Rhabdomyolysis.
-- Cleveland Clinic. Rhabdomyolysis.
+No references available.

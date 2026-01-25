@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/supplement/vitamin-b12/","tags":["supplement","vitamin","b_vitamin","methylation","neurological","energy"]}
 ---
 
-
 # Vitamin B12
 
 ## Overview

@@ -2,34 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/sickle-cell-disease/","tags":["condition","hematology","genetic","function-health"]}
 ---
 
-
 # Sickle Cell Disease
 
 ## Overview
+A group of inherited red blood cell disorders characterized by abnormal hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.
 
-Sickle Cell Disease (SCD) results from a single point mutation in the beta-globin gene. This causes hemoglobin to polymerize under low-oxygen conditions, deforming red blood cells into a "sickle" shape. These cells are fragile (causing **Anemia**) and block small blood vessels (causing **Vaso-occlusive Crisis**).
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Complications
 
-- **Acute Chest Syndrome:** Life-threatening lung complication.
-- **Stroke.**
-- **Splenic Sequestration:** Sudden pooling of blood in the spleen.
-- **Organ Damage:** Kidneys, liver, and bones (Avascular necrosis).
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Anemia\|Anemia]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Pulmonary Hypertension\|Pulmonary Hypertension]]
-AFFECTS_ORGAN::[[entities/Organ/Blood\|Blood]]
-AFFECTS_ORGAN::[[entities/Organ/Spleen\|Spleen]]
-AFFECTS_ORGAN::[[Bone\|Bone]]
-ASSOCIATED_WITH_BIOMARKER::[[Hemoglobin S\|Hemoglobin S]] - Diagnostic marker.
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Bilirubin Total\|Bilirubin Total]] - Elevated (hemolysis).
-TREATED_BY_DRUG::[[Hydroxyurea\|Hydroxyurea]]
-TREATED_BY_INTERVENTION::[[Blood Transfusion\|Blood Transfusion]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[mean_corpuscular_hemoglobin_concentration_mchc\|mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Sickle_Cell_Disease\|Sickle_Cell_Disease]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:41.477897'
+source: obsidian
+```
+- → [[mean_corpuscular_hemoglobin_concentration_mchc\|mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:41.477897'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Piel, F. B., et al. (2017). Sickle Cell Disease. NEJM.
-- CDC. Sickle Cell Disease (SCD).
-- NIH. Sickle Cell Disease.
+No references available.

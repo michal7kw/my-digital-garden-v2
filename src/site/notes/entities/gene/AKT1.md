@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/akt-1/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "AKT1"
 
 ## Overview

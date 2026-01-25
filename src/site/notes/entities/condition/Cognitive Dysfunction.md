@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/cognitive-dysfunction/","tags":["condition","neurology","psychiatry","symptom"]}
 ---
 
-
 # Cognitive Dysfunction
 
 ## Overview
@@ -26,8 +25,8 @@ ASSOCIATED_WITH_CONDITION::[[Chronic Fatigue Syndrome\|Chronic Fatigue Syndrome]
 CAUSED_BY::[[Sleep Deprivation\|Sleep Deprivation]]
 CAUSED_BY::[[entities/condition/Chronic Stress\|Chronic Stress]]
 AFFECTS_ORGAN::[[entities/Organ/Brain\|Brain]]
-IMPROVED_BY_INTERVENTION::[[Exercise\|Exercise]]
-IMPROVED_BY_INTERVENTION::[[Mediterranean Diet\|Mediterranean Diet]]
+IMPROVED_BY_INTERVENTION::[[entities/intervention/Exercise\|Exercise]]
+IMPROVED_BY_INTERVENTION::[[entities/intervention/Mediterranean Diet\|Mediterranean Diet]]
 
 ## References
 

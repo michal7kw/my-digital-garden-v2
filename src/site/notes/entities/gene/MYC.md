@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/myc/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "MYC"
 
 ## Overview

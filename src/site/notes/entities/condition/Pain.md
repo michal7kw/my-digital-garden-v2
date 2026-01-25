@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/condition/pain/"}
+{"dg-publish":true,"permalink":"/entities/condition/pain/","tags":["condition"]}
 ---
-
 
 # Pain
 

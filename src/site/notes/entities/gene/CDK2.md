@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/entities/gene/cdk-2/","tags":["gene","imported","primekg"]}
+{"dg-publish":true,"permalink":"/entities/gene/cdk-2/","tags":["gene","cell_cycle","kinase","imported","primekg"]}
 ---
-
 
 # CDK2
 
 ## Overview
-Gene imported from PrimeKG. No detailed description available.
+The **CDK2** gene encodes a serine/threonine protein kinase that is essential for the G1/S phase transition of the eukaryotic cell cycle. Its activity is regulated by the binding of **Cyclin E** (G1/S) and **Cyclin A** (S/G2).
+
+Dysregulation of CDK2 is observed in various cancers, leading to uncontrolled proliferation.
 
 ## Relationships
-No relationships documented.
+- → [[entities/gene/CDK2\|CDK2]] (protein) - *Encodes*
+- → [[Cell Cycle\|Cell Cycle]] (pathway)
 
 ## References
-- Imported from PrimeKG knowledge graph
+1. **Function**: Morgan, D. O. (1995). "Principles of CDK regulation." *Nature*.

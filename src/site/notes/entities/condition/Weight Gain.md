@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/weight-gain/","tags":["condition","metabolic","endocrinology","symptom"]}
 ---
 
-
 # Weight Gain
 
 ## Overview
@@ -27,7 +26,7 @@ ASSOCIATED_WITH_CONDITION::[[entities/condition/Depressive Disorder\|Depressive 
 ASSOCIATED_WITH_BIOMARKER::[[BMI\|BMI]] - Elevated.
 TREATED_BY_DRUG::[[Orlistat\|Orlistat]]
 TREATED_BY_DRUG::[[entities/drug/Semaglutide\|Semaglutide]] - GLP-1 agonist.
-IMPROVED_BY_INTERVENTION::[[Exercise\|Exercise]]
+IMPROVED_BY_INTERVENTION::[[entities/intervention/Exercise\|Exercise]]
 IMPROVED_BY_INTERVENTION::[[Dietary Modification\|Dietary Modification]]
 
 ## References

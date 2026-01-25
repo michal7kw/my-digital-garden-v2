@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/tg-antibodies/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/tg-antibodies/","tags":["biomarker"]}
 ---
-
 
 # Tg Antibodies
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Tg_Antibodies\|Tg_Antibodies]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:26.522838'
+source: obsidian
+```
 - → [[Tg_Antibodies\|Tg_Antibodies]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:26.522838'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

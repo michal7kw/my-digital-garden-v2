@@ -1,100 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/carbamazepine/","tags":["drug","imported","primekg"]}
+{"dg-publish":true,"permalink":"/entities/drug/carbamazepine/","tags":["drug","anticonvulsant","mood_stabilizer","pain_management","epilepsy","imported","primekg"]}
 ---
-
 
 # Carbamazepine
 
 ## Overview
-...
+Carbamazepine is a first-generation anticonvulsant and mood stabilizer. It is considered the gold standard for **trigeminal neuralgia** and is a first-line treatment for **partial seizures** and **bipolar disorder** (acute manic/mixed episodes).
 
-## Pharmacological Information
+It is a potent **inducer of CYP3A4** and other hepatic enzymes (including its own metabolism - auto-induction), making drug-drug interactions a major clinical consideration.
 
-## Clinical Features
-
-## Classification
-
-## Chemical Properties
-No content available.
+## Indications
+- **Epilepsy**: Partial seizures, generalized tonic-clonic seizures.
+- **Trigeminal Neuralgia**: First-line therapy for pain relief.
+- **Bipolar Disorder**: Acute manic or mixed episodes.
+- **Neuropathic Pain**: Diabetic neuropathy (off-label).
 
 ## Relationships
 
-### Interactswith
-- ← [[Trastuzumab_emtansine\|Trastuzumab_emtansine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.262000+00:00'
-source: PrimeKG
-```
-- ← [[Uric_acid\|Uric_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.283000+00:00'
-source: PrimeKG
-```
-- ← [[Adenovirus_type_7_vaccine_live\|Adenovirus_type_7_vaccine_live]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.299000+00:00'
-source: PrimeKG
-```
-- ← [[Ebola_Zaire_vaccine_live_attenuated\|Ebola_Zaire_vaccine_live_attenuated]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.315000+00:00'
-source: PrimeKG
-```
-- ← [[Rotavirus_vaccine\|Rotavirus_vaccine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.326000+00:00'
-source: PrimeKG
-```
-- ← [[Ceftaroline_fosamil\|Ceftaroline_fosamil]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.331000+00:00'
-source: PrimeKG
-```
-- ← [[Chromic_chloride\|Chromic_chloride]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.354000+00:00'
-source: PrimeKG
-```
-- ← [[Dichlorobenzyl_alcohol\|Dichlorobenzyl_alcohol]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.370000+00:00'
-source: PrimeKG
-```
-- ← [[Acetylsalicylic_acid\|Acetylsalicylic_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.375000+00:00'
-source: PrimeKG
-```
-- ← [[SRP_299\|SRP_299]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.389000+00:00'
-source: PrimeKG
-```
-- ← [[Tiludronic_acid\|Tiludronic_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.458000+00:00'
-source: PrimeKG
-```
-- ← [[Zinc_Substituted_Heme_C\|Zinc_Substituted_Heme_C]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.481000+00:00'
-source: PrimeKG
-```
-- ← [[Emetonium_iodide\|Emetonium_iodide]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.486000+00:00'
-source: PrimeKG
-```
-- ← [[Influenza_A_virus_AVictoria2102009_X-187_H3N2_hemagglutinin_antigen_formaldehyde_inactivated\|Influenza_A_virus_AVictoria2102009_X-187_H3N2_hemagglutinin_antigen_formaldehyde_inactivated]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.498000+00:00'
-source: PrimeKG
-```
-- → [[entities/drug/Clomipramine\|Clomipramine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:36.888000+00:00'
-source: PrimeKG
-```
+### Modulates Protein
+- ⊣ [[Sodium Channel\|Sodium Channel]] (protein) - *Blocks voltage-gated Na+ channels*
+- → [[entities/gene/CYP3A4\|CYP3A4]] (protein) - *Induces expression (Auto-induction)*
 
-### Related
-- → [[entities/drug/Clomipramine\|Clomipramine]] (drug)
+### Treats Condition
+- → [[Epilepsy\|Epilepsy]] (condition)
+- → [[Trigeminal Neuralgia\|Trigeminal Neuralgia]] (condition)
+- → [[Bipolar Disorder\|Bipolar Disorder]] (condition)
+- → [[Neuropathic Pain\|Neuropathic Pain]] (condition)
+
+### Drug Interactions
+- ↔ [[Warfarin\|Warfarin]] - *Decreases effect (via CYP induction)*
+- ↔ [[Oral Contraceptives\|Oral Contraceptives]] - *Decreases effect (via CYP induction)*
+- ↔ [[Grapefruit Juice\|Grapefruit Juice]] - *Increases Carbamazepine levels (CYP3A4 inhibition)*
+
+## References
+1. **Mechanism**: Ambrósio, A. F., et al. (2002). "Mechanisms of action of carbamazepine..." *Neurochemical Research*.
+2. **Trigeminal Neuralgia**: Wiffen, P. J., et al. (2014). "Carbamazepine for acute and chronic pain in adults." *Cochrane Database*.

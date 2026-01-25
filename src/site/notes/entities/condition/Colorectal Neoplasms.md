@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/colorectal-neoplasms/","tags":["condition","oncology","gastroenterology","cancer"]}
 ---
 
-
 # Colorectal Neoplasms
 
 ## Overview

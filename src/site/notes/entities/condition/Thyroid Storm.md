@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/thyroid-storm/","tags":["condition","endocrinology","thyroid","emergency","acute","function-health"]}
 ---
 
-
 # Thyroid Storm
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/gamma-glutamyl-transferase/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/gamma-glutamyl-transferase/","tags":["biomarker"]}
 ---
-
 
 # Ggt
 

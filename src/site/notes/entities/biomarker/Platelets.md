@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/platelets/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/platelets/","tags":["biomarker"]}
 ---
-
 
 # Platelets
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,6 +29,11 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/Platelets\|Platelets]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:24.516868'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/entities/protein/rad-21/","tags":["protein","imported","primekg"]}
 ---
 
-
 # RAD21
-
+(Gene: RAD21)
 ## Function Summary
 No function summary available.
 
@@ -25,8 +24,9 @@ No function summary available.
 
 ## Sequence & Structure
 
+
 ## Relationships
 No relationships found.
 
 ## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-03T08:01:21.707767+00:00
+- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-03T08:01:21+0000

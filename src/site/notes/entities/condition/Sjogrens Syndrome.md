@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/sjogrens-syndrome/","tags":["condition","rheumatology","autoimmune","immunology","function-health"]}
 ---
 
-
 # Sjogrens Syndrome
 
 ## Overview

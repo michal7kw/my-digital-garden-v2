@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/peripheral-neuropathy/","tags":["condition","neurology","chronic_pain","function-health"]}
 ---
 
-
 # Peripheral Neuropathy
 
 ## Overview

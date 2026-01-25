@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/apoe-genotype/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/apoe-genotype/","tags":["biomarker"]}
 ---
-
 
 # Apoe Genotype
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Apoe_Genotype\|Apoe_Genotype]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:09.809803'
+source: obsidian
+```
 - → [[Apoe_Genotype\|Apoe_Genotype]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:09.809803'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

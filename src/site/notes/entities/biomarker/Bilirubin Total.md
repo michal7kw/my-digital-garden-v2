@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/bilirubin-total/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/bilirubin-total/","tags":["biomarker"]}
 ---
-
 
 # Bilirubin Total
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Bilirubin_Total\|Bilirubin_Total]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:10.928869'
+source: obsidian
+```
 - → [[Bilirubin_Total\|Bilirubin_Total]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:10.928869'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

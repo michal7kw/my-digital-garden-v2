@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/potassium/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/potassium/","tags":["biomarker"]}
 ---
-
 
 # Potassium
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,6 +29,11 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/Potassium\|Potassium]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:24.646903'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

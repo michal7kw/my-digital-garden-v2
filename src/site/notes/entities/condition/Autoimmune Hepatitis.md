@@ -2,32 +2,96 @@
 {"dg-publish":true,"permalink":"/entities/condition/autoimmune-hepatitis/","tags":["condition","hepatology","immunology","autoimmune","function-health"]}
 ---
 
-
 # Autoimmune Hepatitis
 
 ## Overview
+A chronic liver disease in which the body's immune system mistakenly attacks liver cells, causing inflammation and liver damage.
 
-Autoimmune Hepatitis (AIH) is a chronic inflammatory liver disease. If untreated, it can lead to **Cirrhosis** and liver failure. It often co-occurs with other autoimmune conditions. Treatment typically involves long-term immunosuppression.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Types
 
-- **Type 1:** Most common, occurs at any age.
-- **Type 2:** Less common, primarily affects children and young adults.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Cirrhosis\|Cirrhosis]]
-ASSOCIATED_WITH_CONDITION::[[Type 1 Diabetes\|Type 1 Diabetes]]
-ASSOCIATED_WITH_CONDITION::[[Celiac Disease\|Celiac Disease]]
-AFFECTS_ORGAN::[[entities/Organ/Liver\|Liver]]
-ASSOCIATED_WITH_BIOMARKER::[[ALT\|ALT]]
-ASSOCIATED_WITH_BIOMARKER::[[AST\|AST]]
-ASSOCIATED_WITH_BIOMARKER::[[Antinuclear Antibodies\|Antinuclear Antibodies]]
-TREATED_BY_DRUG::[[entities/drug/Prednisone\|Prednisone]]
-TREATED_BY_DRUG::[[Azathioprine\|Azathioprine]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[alanine_transaminase_alt\|alanine_transaminase_alt]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- ← [[entities/condition/Arthralgia\|Arthralgia]] (phenotype)
+```yaml
+last_modified: '2026-01-18T17:27:07.420190'
+source: obsidian
+```
+- ← [[Abdominal_pain\|Abdominal_pain]] (phenotype)
+```yaml
+last_modified: '2026-01-18T17:27:18.378061'
+source: obsidian
+```
+- ← [[entities/phenotype/Anxiety\|Anxiety]] (phenotype)
+```yaml
+last_modified: '2026-01-18T17:27:33.556534'
+source: obsidian
+```
+- → [[Autoimmune_Hepatitis\|Autoimmune_Hepatitis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:49.116700'
+source: obsidian
+```
+- → [[alanine_transaminase_alt\|alanine_transaminase_alt]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:49.116700'
+source: obsidian
+```
+- → [[entities/condition/Arthralgia\|Arthralgia]] (phenotype)
+```yaml
+last_modified: '2026-01-19T09:30:49.116700'
+source: obsidian
+```
+- → [[Abdominal_pain\|Abdominal_pain]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:49.116700'
+source: obsidian
+```
+- → [[entities/phenotype/Anxiety\|Anxiety]] (phenotype)
+```yaml
+last_modified: '2026-01-19T09:30:49.116700'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Manns, M. P., et al. (2015). Autoimmune hepatitis. Nature Reviews Disease Primers.
-- Mayo Clinic. Autoimmune hepatitis.
-- American Liver Foundation. Autoimmune Hepatitis.
+No references available.

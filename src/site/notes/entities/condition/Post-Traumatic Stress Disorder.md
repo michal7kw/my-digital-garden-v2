@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/post-traumatic-stress-disorder/","tags":["condition","psychiatry","trauma","anxiety"]}
 ---
 
-
 # Post-Traumatic Stress Disorder
 
 ## Overview

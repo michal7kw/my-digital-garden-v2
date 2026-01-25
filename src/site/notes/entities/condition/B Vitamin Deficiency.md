@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/b-vitamin-deficiency/","tags":["condition","nutrition","metabolic","neurology","function-health"]}
 ---
 
-
 # B Vitamin Deficiency
 
 ## Overview

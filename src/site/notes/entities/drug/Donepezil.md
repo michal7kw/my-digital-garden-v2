@@ -1,34 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/entities/drug/donepezil/","tags":["drug","acetylcholinesterase_inhibitor","dementia","alzheimers","cognitive","prescription"]}
+{"dg-publish":true,"permalink":"/entities/drug/donepezil/","tags":["drug","alzheimers","cognitive_enhancer","cholinergic"]}
 ---
 
 
 # Donepezil
 
 ## Overview
-Acetylcholinesterase inhibitor for Alzheimer's disease and dementia. Increases acetylcholine availability in the brain. First-line symptomatic treatment for mild-moderate Alzheimer's.
+Donepezil (Aricept) is the most widely prescribed drug for **Alzheimer's Disease**. It targets the **cholinergic deficit** characteristic of AD by inhibiting the breakdown of acetylcholine.
 
-**Short Description**: Cholinesterase inhibitor for Alzheimer's dementia
+While it does not stop the underlying neurodegeneration (amyloid/tau pathology), it provides modest symptomatic improvement in cognition and function for 6-12 months.
 
-## Pharmacological Information
-
-**DrugBank ID**: DB00843
-
-**Drug Class**: Acetylcholinesterase Inhibitor
-
-**Synonyms**:
-- Aricept
-
-### Mechanism of Action
-Inhibits acetylcholinesterase, increasing synaptic acetylcholine
-
-## Clinical Features
-
-## Classification
-
-## Chemical Properties
-No content available.
+## Indications
+- **Alzheimer's Disease**: Mild, Moderate, and Severe stages.
+- **Lewy Body Dementia**: Off-label.
+- **Vascular Dementia**: Off-label.
 
 ## Relationships
 
-No relationships found.
+### Modulates Neurotransmitter
+- → [[entities/Neurotransmitter/Acetylcholine\|Acetylcholine]] (neurotransmitter) - *Increases availability*
+
+### Modulates Protein
+- ⊣ [[Acetylcholinesterase\|Acetylcholinesterase]] (protein) - *Reversible Inhibitor*
+
+### Treats Condition
+- → [[entities/condition/Alzheimer's Disease\|Alzheimer's Disease]] (condition) - *Symptomatic*
+- → [[Dementia\|Dementia]] (condition)
+
+## References
+1. **Efficacy**: Birks, J. S., & Harvey, R. J. (2018). "Donepezil for dementia due to Alzheimer's disease." *Cochrane Database of Systematic Reviews*.

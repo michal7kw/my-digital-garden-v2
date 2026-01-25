@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/penicillin-g-sodium/","tags":["drug","antibiotic","intravenous","sodium_salt"]}
 ---
 
-
 # Penicillin G Sodium
 
 ## Overview

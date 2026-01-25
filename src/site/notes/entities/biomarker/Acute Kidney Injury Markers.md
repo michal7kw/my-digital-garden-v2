@@ -2,28 +2,50 @@
 {"dg-publish":true,"permalink":"/entities/biomarker/acute-kidney-injury-markers/","tags":["biomarker","nephrology","protein","acute_kidney_injury"]}
 ---
 
-
 # Acute Kidney Injury Markers
 
 ## Overview
+A group of protein biomarkers used for the early detection and monitoring of acute kidney injury (AKI), reflecting tubular damage or functional decline.
 
-Traditional markers of kidney function like **Creatinine** are often delayed in responding to acute injury. Novel protein biomarkers allow for earlier detection of **Acute Kidney Injury (AKI)**, often hours before creatinine rises.
+## Reference Ranges
+Reference ranges not available.
 
-## Key Markers
 
-- **NGAL (Neutrophil Gelatinase-Associated Lipocalin):** One of the most studied early markers.
-- **KIM-1 (Kidney Injury Molecule-1):** Highly specific for tubular damage.
-- **Cystatin C:** A more sensitive marker of GFR than creatinine.
-- **IL-18 (Interleukin-18):** An inflammatory marker of AKI.
+## Testing Information
+- **Measurement Unit**: Not specified
+- **Sample Type**: Not specified
+- **Fasting Required**: False
+- **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Acute Kidney Injury\|Acute Kidney Injury]]
-AFFECTS_ORGAN::[[Kidney\|Kidney]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Creatinine\|Creatinine]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Cystatin C\|Cystatin C]]
+### Influences
+No known influences documented.
+
+### Correlations
+No correlations documented.
+
+### Other Relationships
+### Related
+- → [[Acute_Kidney_Injury_Markers\|Acute_Kidney_Injury_Markers]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:08.680193'
+source: obsidian
+```
+
+## 💊 Supplements That Affect This Biomarker
+
+No supplement effects documented yet. Add effects in the respective supplement notes.
+
+## 🧪 Lab Tests That Measure This Biomarker
+
+No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
 
 ## References
+No references available.
 
-- Soni, S. S., et al. (2010). Biomarkers in acute kidney injury. Clinical Chemistry and Laboratory Medicine.
-- Kashani, K., et al. (2013). Discovery and validation of cell cycle arrest biomarkers in human acute kidney injury. Critical Care.
+## Dataview Queries
+
+{ .block-language-dataview}

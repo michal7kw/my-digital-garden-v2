@@ -2,32 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/adrenal-disease/","tags":["condition","endocrinology","hormones","function-health"]}
 ---
 
-
 # Adrenal Disease
 
 ## Overview
+A group of disorders occurring when the adrenal glands produce too much or too little of essential hormones, such as cortisol and aldosterone.
 
-Adrenal Disease encompasses various conditions affecting the adrenal glands, which are responsible for producing hormones like cortisol, aldosterone, and adrenaline. Common disorders include **Addison's Disease** (insufficiency), **Cushing's Syndrome** (excess cortisol), and **Pheochromocytoma** (excess adrenaline).
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Types
 
-- **Adrenal Insufficiency:** Inadequate production of cortisol/aldosterone.
-- **Hypercortisolism:** Overproduction of cortisol.
-- **Hyperaldosteronism:** Overproduction of aldosterone, leading to hypertension.
-- **Adrenal Medulla Tumors:** Excess catecholamine production.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Addisons Disease\|Addisons Disease]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Cushings Syndrome\|Cushings Syndrome]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Hypertension\|Hypertension]]
-AFFECTS_ORGAN::[[entities/Organ/Adrenal Glands\|Adrenal Glands]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/Hormone/Cortisol\|Cortisol]]
-ASSOCIATED_WITH_BIOMARKER::[[Aldosterone\|Aldosterone]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/potassium\|Potassium]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[entities/labtest/chloride\|chloride]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Adrenal_Disease\|Adrenal_Disease]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:46.180646'
+source: obsidian
+```
+- → [[entities/labtest/chloride\|chloride]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:46.180646'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Arlt, W., & Allolio, B. (2003). Adrenal insufficiency. The Lancet.
-- Lacroix, A., et al. (2015). Cushing's syndrome. The Lancet.
-- Mayo Clinic. Adrenal gland disorders.
+No references available.

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/hdl-p/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/hdl-p/","tags":["biomarker"]}
 ---
-
 
 # Hdl P
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Hdl_P\|Hdl_P]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:18.353357'
+source: obsidian
+```
 - → [[Hdl_P\|Hdl_P]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:18.353357'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

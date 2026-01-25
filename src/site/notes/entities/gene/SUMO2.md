@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/sumo-2/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "SUMO2"
 
 ## Overview

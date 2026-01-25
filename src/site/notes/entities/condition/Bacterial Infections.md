@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/bacterial-infections/","tags":["condition","infectious_disease","bacterial","microbiology"]}
 ---
 
-
 # Bacterial Infections
 
 ## Overview

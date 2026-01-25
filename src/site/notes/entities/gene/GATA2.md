@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/gata-2/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "GATA2"
 
 ## Overview

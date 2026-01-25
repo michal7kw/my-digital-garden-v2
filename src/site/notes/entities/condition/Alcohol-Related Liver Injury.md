@@ -2,32 +2,88 @@
 {"dg-publish":true,"permalink":"/entities/condition/alcohol-related-liver-injury/","tags":["condition","hepatology","gastroenterology","addiction","function-health"]}
 ---
 
-
 # Alcohol-Related Liver Injury
 
 ## Overview
+A spectrum of liver damage resulting from excessive alcohol consumption, ranging from fatty liver to cirrhosis.
 
-Alcohol-Related Liver Injury (ARLI) includes several stages of liver damage caused by alcohol. It typically begins with **Steatosis** (fatty liver), progresses to **Alcoholic Hepatitis** (inflammation), and finally leads to **Cirrhosis** (permanent scarring).
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Stages
 
-1.  **Alcoholic Fatty Liver:** Accumulation of fat in liver cells.
-2.  **Alcoholic Hepatitis:** Acute inflammation and cell death.
-3.  **Cirrhosis:** Replacement of liver tissue with fibrotic scar tissue.
 
-## Relationships
+## Diagnostic Information
 
-CAUSED_BY::[[Alcohol\|Alcohol]]
-ASSOCIATED_WITH_CONDITION::[[Cirrhosis\|Cirrhosis]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Alcohol Use Disorder\|Alcohol Use Disorder]]
-AFFECTS_ORGAN::[[entities/Organ/Liver\|Liver]]
-ASSOCIATED_WITH_BIOMARKER::[[ALT\|ALT]]
-ASSOCIATED_WITH_BIOMARKER::[[AST\|AST]]
-ASSOCIATED_WITH_BIOMARKER::[[GGT\|GGT]]
-TREATED_BY_INTERVENTION::[[Alcohol Abstinence\|Alcohol Abstinence]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[alanine_transaminase_alt\|alanine_transaminase_alt]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[aspartate_aminotransferase_ast\|aspartate_aminotransferase_ast]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[gamma_glutamyl_transferase_ggt\|gamma_glutamyl_transferase_ggt]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Alcohol-Related_Liver_Injury\|Alcohol-Related_Liver_Injury]] (condition)
+```yaml
+last_modified: '2026-01-19T09:30:46.499532'
+source: obsidian
+```
+- → [[alanine_transaminase_alt\|alanine_transaminase_alt]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:46.499532'
+source: obsidian
+```
+- → [[aspartate_aminotransferase_ast\|aspartate_aminotransferase_ast]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:46.499532'
+source: obsidian
+```
+- → [[gamma_glutamyl_transferase_ggt\|gamma_glutamyl_transferase_ggt]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:30:46.499532'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Seitz, H. K., et al. (2018). Alcoholic liver disease. Nature Reviews Disease Primers.
-- NIAAA. Alcohol's Effects on the Liver.
-- EASL Clinical Practice Guidelines: Management of alcohol-related liver disease.
+No references available.

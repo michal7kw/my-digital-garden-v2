@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/atrial-fibrillation/","tags":["condition","cardiology","arrhythmia","cardiovascular"]}
 ---
 
-
 # Atrial Fibrillation
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/cytokine-panel/"}
+{"dg-publish":true,"permalink":"/entities/labtest/cytokine-panel/","tags":["labtest"]}
 ---
-
 
 # Cytokine Panel (Comprehensive)
 
@@ -14,9 +13,14 @@ Measures inflammatory cytokines: IL-1, IL-6, IL-10, TNF-alpha, IFN-gamma, and ot
 
 | Property | Value |
 |----------|-------|
+| **Category** | Proteomics |
 | **Subcategory** | Cytokines || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
 | **Turnaround Time** | 7-14 days || **Price Range** | $350-$750 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
+
+
+
 
 ## Recommended For
 
@@ -40,4 +44,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:26.443726*
+*Last Updated: 2025-12-28T17:32:26+0000*

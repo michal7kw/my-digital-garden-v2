@@ -2,33 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/urinary-tract-obstruction/","tags":["condition","urology","nephrology","function-health"]}
 ---
 
-
 # Urinary Tract Obstruction
 
 ## Overview
+A blockage that inhibits the normal flow of urine through the urinary tract, potentially leading to kidney damage and infection.
 
-Urinary Tract Obstruction (Obstructive Uropathy) can occur anywhere from the renal pelvis to the urethra. It causes increased pressure upstream, which can lead to **Hydronephrosis** (swelling of the kidney) and permanent renal failure if not relieved promptly.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Potential Causes
 
-- **Lower Tract:** BPH (most common in men), Bladder stones, Urethral strictures.
-- **Upper Tract:** Kidney stones, Ureteral tumors, retroperitoneal fibrosis.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Kidney Calculi\|Kidney Calculi]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Urinary Tract Infection\|Urinary Tract Infection]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Chronic Kidney Disease\|Chronic Kidney Disease]]
-AFFECTS_ORGAN::[[Kidney\|Kidney]]
-AFFECTS_ORGAN::[[Ureter\|Ureter]]
-AFFECTS_ORGAN::[[entities/Organ/Bladder\|Bladder]]
-AFFECTS_ORGAN::[[Urethra\|Urethra]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/creatinine\|Creatinine]] - May be elevated if bilateral or severe.
-TREATED_BY_INTERVENTION::[[Catheterization\|Catheterization]]
-TREATED_BY_INTERVENTION::[[Stent Placement\|Stent Placement]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[entities/labtest/creatinine\|creatinine]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Urinary_Tract_Obstruction\|Urinary_Tract_Obstruction]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:45.856303'
+source: obsidian
+```
+- → [[entities/labtest/creatinine\|creatinine]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:45.856303'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Klahr, S. (2001). Urinary tract obstruction. Seminars in Nephrology.
-- Mayo Clinic. Urinary tract obstruction.
-- NIDDK. Urinary Tract Obstruction.
+No references available.

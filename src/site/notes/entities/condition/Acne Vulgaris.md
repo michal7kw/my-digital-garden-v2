@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/acne-vulgaris/","tags":["condition","dermatology","inflammation","hormonal"]}
 ---
 
-
 # Acne Vulgaris
 
 ## Overview

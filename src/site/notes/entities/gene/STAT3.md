@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/stat-3/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "STAT3"
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/organ/lungs/"}
+{"dg-publish":true,"permalink":"/entities/organ/lungs/","tags":["organ"]}
 ---
-
 
 # Lungs
 
@@ -21,13 +20,14 @@ relationships_section: '### Affects Organ
 
   ```
 
+
   ### Related
 
   - → [[entities/Supplement/NAC\|NAC]] (supplement)
 
   ```yaml
 
-  last_modified: ''2025-12-27T17:55:16.685447''
+  last_modified: ''2026-01-19T09:33:08.578338''
 
   source: obsidian
 
@@ -37,7 +37,7 @@ relationships_section: '### Affects Organ
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:20.060100''
+  last_modified: ''2026-01-19T09:07:10.800458''
 
   source: obsidian
 

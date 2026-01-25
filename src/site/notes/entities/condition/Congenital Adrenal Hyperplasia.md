@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/congenital-adrenal-hyperplasia/","tags":["condition","endocrinology","genetics","hormones","function-health"]}
 ---
 
-
 # Congenital Adrenal Hyperplasia
 
 ## Overview

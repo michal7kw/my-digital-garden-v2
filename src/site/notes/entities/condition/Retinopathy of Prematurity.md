@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/retinopathy-of-prematurity/","tags":["condition","ophthalmology","pediatrics","neonatology"]}
 ---
 
-
 # Retinopathy of Prematurity
 
 ## Overview

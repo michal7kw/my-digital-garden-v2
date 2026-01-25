@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/penicillin-g-benzathine/","tags":["drug","antibiotic","intramuscular","long-acting"]}
 ---
 
-
 # Penicillin G Benzathine
 
 ## Overview

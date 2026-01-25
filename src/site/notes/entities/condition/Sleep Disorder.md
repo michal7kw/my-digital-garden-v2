@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/sleep-disorder/","tags":["condition","neurology","psychiatry","function-health"]}
 ---
 
-
 # Sleep Disorder
 
 ## Overview

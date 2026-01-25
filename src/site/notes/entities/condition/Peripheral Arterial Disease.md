@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/peripheral-arterial-disease/","tags":["condition","cardiology","vascular","chronic"]}
 ---
 
-
 # Peripheral Arterial Disease
 
 ## Overview
@@ -20,7 +19,7 @@ AFFECTS_ORGAN::[[Leg\|Leg]]
 TREATED_BY_DRUG::[[Cilostazol\|Cilostazol]] - Improves walking distance.
 TREATED_BY_DRUG::[[Clopidogrel\|Clopidogrel]] - Antiplatelet.
 TREATED_BY_DRUG::[[entities/drug/Atorvastatin\|Atorvastatin]] - Statin.
-IMPROVED_BY_INTERVENTION::[[Exercise\|Exercise]]
+IMPROVED_BY_INTERVENTION::[[entities/intervention/Exercise\|Exercise]]
 IMPROVED_BY_INTERVENTION::[[entities/condition/Smoking Cessation\|Smoking Cessation]]
 
 ## References

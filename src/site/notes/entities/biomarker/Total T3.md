@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/total-t3/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/total-t3/","tags":["biomarker"]}
 ---
-
 
 # Total T3
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Total_T3\|Total_T3]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:27.768611'
+source: obsidian
+```
 - → [[Total_T3\|Total_T3]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:27.768611'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

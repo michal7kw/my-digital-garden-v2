@@ -2,32 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/zinc-deficiency/","tags":["condition","nutrition","metabolic","mineral","function-health"]}
 ---
 
-
 # Zinc Deficiency
 
 ## Overview
+A nutritional deficiency state characterized by insufficient levels of zinc, an essential trace element involved in immune function, protein synthesis, and wound healing.
 
-Zinc is a critical cofactor for over 300 enzymes. Deficiency affects almost all aspects of health, particularly **Immune Function** and cell division. While severe deficiency is rare in developed countries, subclinical deficiency is common and can impair growth, cognitive development, and resistance to infections.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Clinical Manifestations
 
-- **Skin/Hair:** Dermatitis, brittle nails, alopecia.
-- **Reproductive:** Delayed puberty, hypogonadism.
-- **Neurological:** Mood changes, irritability.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Immune System Disorder\|Immune System Disorder]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Copper Imbalance\|Copper Imbalance]] - High zinc causes copper deficiency.
-AFFECTS_ORGAN::[[entities/Organ/Immune System\|Immune System]]
-AFFECTS_ORGAN::[[entities/Organ/Skin\|Skin]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/zinc serum\|Zinc Serum]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Alkaline Phosphatase\|Alkaline Phosphatase]] - May be decreased.
-TREATED_BY_DRUG::[[Zinc Gluconate\|Zinc Gluconate]]
-TREATED_BY_DRUG::[[Zinc Sulfate\|Zinc Sulfate]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[entities/labtest/zinc\|zinc]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Zinc_Deficiency\|Zinc_Deficiency]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:47.790606'
+source: obsidian
+```
+- → [[entities/labtest/zinc\|zinc]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:47.790606'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Prasad, A. S. (2008). Zinc: mechanisms of host defense agents against agents of infection.
-- Mayo Clinic. Zinc.
-- NIH. Zinc Fact Sheet.
+No references available.

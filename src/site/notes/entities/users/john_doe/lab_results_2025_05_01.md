@@ -99,7 +99,7 @@
    - Vitamin D3 increase to 4000 IU daily
    - Consider omega-3 supplementation (2-3g daily)
    - B-complex with methylfolate and methylcobalamin for homocysteine
-   - Consider [[entities/drug/Coenzyme Q10\|Coenzyme Q10]] supplementation for energy and antioxidant support
+   - Consider [[entities/Supplement/Coenzyme Q10\|Coenzyme Q10]] supplementation for energy and antioxidant support
 
 3. **Lifestyle recommendations**:
    - Continue regular exercise with emphasis on cardiovascular training

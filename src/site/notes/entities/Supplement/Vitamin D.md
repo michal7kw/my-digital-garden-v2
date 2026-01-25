@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/supplement/vitamin-d/","tags":["supplement","vitamin","hormone","immune_system","bone_health","metabolic"]}
 ---
 
-
 # Vitamin D
 
 ## Overview

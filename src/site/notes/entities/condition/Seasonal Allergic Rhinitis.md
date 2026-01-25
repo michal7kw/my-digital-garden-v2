@@ -2,33 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/seasonal-allergic-rhinitis/","tags":["condition","immunology","allergy","ent"]}
 ---
 
-
 # Seasonal Allergic Rhinitis
 
 ## Overview
+An allergic response to specific allergens like pollen that occurs at certain times of the year, commonly known as Hay Fever.
 
-Seasonal Allergic Rhinitis, often called **Hay Fever**, is an inflammation of the inside of the nose caused by an allergen, such as pollen, dust, mold, or flakes of skin from certain animals. It is a type of Type I hypersensitivity reaction involving IgE antibodies.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Triggers
 
-- **Tree Pollen:** Spring.
-- **Grass Pollen:** Late Spring/Summer.
-- **Weed Pollen:** Fall (Ragweed).
-- **Mold Spores.**
 
-## Relationships
+## Diagnostic Information
 
-CAUSED_BY::[[Allergen\|Allergen]]
-ASSOCIATED_WITH_CONDITION::[[Asthma\|Asthma]]
-ASSOCIATED_WITH_CONDITION::[[Eczema\|Eczema]] (Atopic Dermatitis).
-ASSOCIATED_WITH_CONDITION::[[Sinusitis\|Sinusitis]]
-AFFECTS_ORGAN::[[Nose\|Nose]]
-TREATED_BY_DRUG::[[Cetirizine\|Cetirizine]] - Antihistamine.
-TREATED_BY_DRUG::[[Loratadine\|Loratadine]]
-TREATED_BY_DRUG::[[Fluticasone\|Fluticasone]] - Nasal steroid.
-TREATED_BY_INTERVENTION::[[Immunotherapy\|Immunotherapy]] - Allergy shots.
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[Seasonal_Allergic_Rhinitis\|Seasonal_Allergic_Rhinitis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:41.052499'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Wheatley, L. M., & Togias, A. (2015). Allergic rhinitis. NEJM.
-- AAAAI. Rhinitis (Hay Fever).
+No references available.

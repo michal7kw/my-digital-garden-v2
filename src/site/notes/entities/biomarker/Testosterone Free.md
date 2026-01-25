@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/testosterone-free/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/testosterone-free/","tags":["biomarker"]}
 ---
-
 
 # Testosterone Free
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Testosterone_Free\|Testosterone_Free]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:26.022358'
+source: obsidian
+```
 - → [[Testosterone_Free\|Testosterone_Free]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:26.022358'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

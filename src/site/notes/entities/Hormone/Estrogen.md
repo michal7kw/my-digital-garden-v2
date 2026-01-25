@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/hormone/estrogen/"}
+{"dg-publish":true,"permalink":"/entities/hormone/estrogen/","tags":["hormone"]}
 ---
-
 
 # Estrogen
 

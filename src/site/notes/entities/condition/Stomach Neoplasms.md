@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/stomach-neoplasms/","tags":["condition","oncology","gastroenterology","cancer"]}
 ---
 
-
 # Stomach Neoplasms
 
 ## Overview

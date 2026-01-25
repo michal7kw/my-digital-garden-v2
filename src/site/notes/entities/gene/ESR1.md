@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/gene/esr-1/","tags":["gene","imported","primekg"]}
 ---
 
-
 # "ESR1"
 
 ## Overview

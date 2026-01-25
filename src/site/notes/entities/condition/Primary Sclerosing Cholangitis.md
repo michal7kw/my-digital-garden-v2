@@ -2,32 +2,66 @@
 {"dg-publish":true,"permalink":"/entities/condition/primary-sclerosing-cholangitis/","tags":["condition","hepatology","gastroenterology","autoimmune","function-health"]}
 ---
 
-
 # Primary Sclerosing Cholangitis
 
 ## Overview
+A chronic, progressive disease of the bile ducts characterized by inflammation, scarring, and narrowing of the ducts both inside and outside the liver.
 
-Primary Sclerosing Cholangitis (PSC) involves "onion-skin" scarring of the bile ducts. It is strongly associated with **Ulcerative Colitis**. PSC significantly increases the risk of **Cholangiocarcinoma** (bile duct cancer).
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Complications
 
-- **Bile Duct Cancer (Cholangiocarcinoma).**
-- **Cirrhosis and Liver Failure.**
-- **Recurrent Bacterial Cholangitis.**
-- **Colorectal Cancer** (especially if IBD is present).
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Ulcerative Colitis\|Ulcerative Colitis]]
-ASSOCIATED_WITH_CONDITION::[[Inflammatory Bowel Disease\|Inflammatory Bowel Disease]]
-AFFECTS_ORGAN::[[entities/Organ/Liver\|Liver]]
-AFFECTS_ORGAN::[[Bile Duct\|Bile Duct]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Alkaline Phosphatase\|Alkaline Phosphatase]]
-ASSOCIATED_WITH_BIOMARKER::[[GGT\|GGT]]
-TREATED_BY_INTERVENTION::[[Liver Transplant\|Liver Transplant]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[alkaline_phosphatase_alp\|alkaline_phosphatase_alp]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Primary_Sclerosing_Cholangitis\|Primary_Sclerosing_Cholangitis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:37.655705'
+source: obsidian
+```
+- → [[alkaline_phosphatase_alp\|alkaline_phosphatase_alp]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:37.655705'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Karlsen, T. H., et al. (2017). Primary sclerosing cholangitis — a comprehensive review. Journal of Hepatology.
-- Mayo Clinic. Primary sclerosing cholangitis.
-- American Liver Foundation. PSC.
+No references available.

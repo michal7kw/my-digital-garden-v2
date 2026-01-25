@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/mthfr-a1298-c/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/mthfr-a1298-c/","tags":["biomarker"]}
 ---
-
 
 # Mthfr A1298C
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Mthfr_A1298C\|Mthfr_A1298C]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:23.855176'
+source: obsidian
+```
 - → [[Mthfr_A1298C\|Mthfr_A1298C]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:23.855176'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

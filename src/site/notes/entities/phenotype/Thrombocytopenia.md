@@ -2,14 +2,50 @@
 {"dg-publish":true,"permalink":"/entities/phenotype/thrombocytopenia/","tags":["phenotype","imported","primekg"]}
 ---
 
-
 # Thrombocytopenia
 
 ## Description
 
-...
+A condition characterized by an abnormally low number of platelets (thrombocytes) in the blood, which can lead to excessive bleeding and bruising.
 
 ## Relationships
+
+### Related
+- → [[Abnormal_platelet_count\|Abnormal_platelet_count]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
+- → [[Neonatal_alloimmune_thrombocytopenia\|Neonatal_alloimmune_thrombocytopenia]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
+- → [[Post-transfusion_thrombocytopenia\|Post-transfusion_thrombocytopenia]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
+- → [[Autoimmune_thrombocytopenia\|Autoimmune_thrombocytopenia]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
+- → [[Intermittent_thrombocytopenia\|Intermittent_thrombocytopenia]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
+- → [[Amegakaryocytic_thrombocytopenia\|Amegakaryocytic_thrombocytopenia]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
+- → [[Congenital_thrombocytopenia\|Congenital_thrombocytopenia]] (entity)
+```yaml
+last_modified: '2026-01-19T09:06:38.670688'
+source: obsidian
+```
 
 ### Relatedtophenotype
 - ← [[Abnormal_platelet_count\|Abnormal_platelet_count]] (entity)

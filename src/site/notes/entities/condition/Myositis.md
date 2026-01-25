@@ -2,33 +2,53 @@
 {"dg-publish":true,"permalink":"/entities/condition/myositis/","tags":["condition","rheumatology","autoimmune","musculoskeletal","function-health"]}
 ---
 
-
 # Myositis
 
 ## Overview
+A group of rare autoimmune diseases characterized by chronic muscle inflammation and weakness, including polymyositis and dermatomyositis.
 
-Inflammatory Myopathies (Myositis) involve the immune system attacking healthy muscle tissue. **Polymyositis** affects the skeletal muscles on both sides of the body, while **Dermatomyositis** also involves a distinctive skin rash (heliotrope rash).
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Key Types
 
-- **Polymyositis:** Muscle weakness without rash.
-- **Dermatomyositis:** Muscle weakness with characteristic skin findings.
-- **Inclusion Body Myositis:** Often affects older adults; slow progression.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Mixed Connective Tissue Disease\|Mixed Connective Tissue Disease]]
-AFFECTS_ORGAN::[[entities/Organ/Muscle\|Muscle]]
-AFFECTS_ORGAN::[[entities/Organ/Skin\|Skin]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/biomarker/Creatine Kinase\|Creatine Kinase]] - Elevated (muscle damage).
-ASSOCIATED_WITH_BIOMARKER::[[Aldolase\|Aldolase]]
-ASSOCIATED_WITH_BIOMARKER::[[Anti-Jo-1\|Anti-Jo-1]] - Specific antibody.
-TREATED_BY_DRUG::[[entities/drug/Prednisone\|Prednisone]]
-TREATED_BY_DRUG::[[Methotrexate\|Methotrexate]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### Related
+- → [[entities/condition/Myositis\|Myositis]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:27.516749'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Dalakas, M. C. (2015). Inflammatory Muscle Diseases. NEJM.
-- Mayo Clinic. Polymyositis.
-- The Myositis Association. About Myositis.
+No references available.

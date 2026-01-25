@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/biomarker/glycan-age/","tags":["biomarker","longevity","inflammation","immune_system"]}
 ---
 
-
 # GlycanAge
 
 ## Overview
@@ -10,6 +9,7 @@ A biomarker test that measures biological age through the analysis of IgG glycos
 
 ## Reference Ranges
 Reference ranges not available.
+
 
 ## Testing Information
 - **Measurement Unit**: Not specified
@@ -21,6 +21,7 @@ Reference ranges not available.
 - Higher GlycanAge indicates higher levels of 'inflammaging'.
 - Sensitive to short-term lifestyle changes (3-6 months).
 
+
 ## Relationships
 
 ### Influences
@@ -31,6 +32,11 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[entities/biomarker/GlycanAge\|GlycanAge]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:17.564820'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

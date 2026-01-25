@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/chronic-hypoxia/","tags":["condition","respiratory","cardiology","function-health"]}
 ---
 
-
 # Chronic Hypoxia
 
 ## Overview

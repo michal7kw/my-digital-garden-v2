@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/open-angle-glaucoma/","tags":["condition","ophthalmology","chronic","vision_loss"]}
 ---
 
-
 # Open-Angle Glaucoma
 
 ## Overview

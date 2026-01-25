@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/alanine-transaminase/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/alanine-transaminase/","tags":["biomarker"]}
 ---
-
 
 # Alt
 

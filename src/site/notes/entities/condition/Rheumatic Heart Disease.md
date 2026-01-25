@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/rheumatic-heart-disease/","tags":["condition","cardiology","autoimmune","infectious_disease","global_health"]}
 ---
 
-
 # Rheumatic Heart Disease
 
 ## Overview

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/erythrocyte-sedimentation-rate/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/erythrocyte-sedimentation-rate/","tags":["biomarker"]}
 ---
-
 
 # Esr
 

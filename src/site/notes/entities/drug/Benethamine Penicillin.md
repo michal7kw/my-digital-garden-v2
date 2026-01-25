@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/benethamine-penicillin/","tags":["drug","antibiotic","intramuscular","long-acting"]}
 ---
 
-
 # Benethamine Penicillin
 
 ## Overview

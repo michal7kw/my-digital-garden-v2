@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/biomarker/cystatin-c/"}
+{"dg-publish":true,"permalink":"/entities/biomarker/cystatin-c/","tags":["biomarker"]}
 ---
-
 
 # Cystatin C
 
@@ -11,11 +10,14 @@ No description available.
 ## Reference Ranges
 Reference ranges not available.
 
+
 ## Testing Information
 - **Measurement Unit**: Not specified
 - **Sample Type**: Not specified
 - **Fasting Required**: False
 - **Recommended Test Frequency**: Not specified
+
+
 
 ## Relationships
 
@@ -27,7 +29,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[Cystatin_C\|Cystatin_C]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:13.298319'
+source: obsidian
+```
 - → [[Cystatin_C\|Cystatin_C]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:13.298319'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

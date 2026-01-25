@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/chronic-lymphocytic-leukemia/","tags":["condition","oncology","hematology","leukemia"]}
 ---
 
-
 # Chronic Lymphocytic Leukemia
 
 ## Overview

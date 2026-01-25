@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/biomarker/dutch-test/","tags":["biomarker","labtest","endocrine","hormonal_health"]}
 ---
 
-
 # DUTCH Test
 
 ## Overview
@@ -10,6 +9,7 @@ Dried Urine Test for Comprehensive Hormones, providing a detailed look at sex ho
 
 ## Reference Ranges
 Reference ranges not available.
+
 
 ## Testing Information
 - **Measurement Unit**: Not specified
@@ -23,6 +23,7 @@ Reference ranges not available.
 - Measures Estrogen metabolism (2-OH, 4-OH, 16-OH pathways).
 - Measures Methylation capacity (via 2-Methoxyestrone).
 
+
 ## Relationships
 
 ### Influences
@@ -33,7 +34,16 @@ No correlations documented.
 
 ### Other Relationships
 ### Related
+- → [[DUTCH_Test\|DUTCH_Test]] (entity)
+```yaml
+last_modified: '2026-01-19T09:30:14.112652'
+source: obsidian
+```
 - → [[DUTCH_Test\|DUTCH_Test]] (biomarker)
+```yaml
+last_modified: '2026-01-19T09:30:14.112652'
+source: obsidian
+```
 
 ## 💊 Supplements That Affect This Biomarker
 

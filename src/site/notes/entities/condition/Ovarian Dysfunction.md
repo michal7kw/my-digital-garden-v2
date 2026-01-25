@@ -2,32 +2,77 @@
 {"dg-publish":true,"permalink":"/entities/condition/ovarian-dysfunction/","tags":["condition","gynecology","endocrinology","reproductive_health","function-health"]}
 ---
 
-
 # Ovarian Dysfunction
 
 ## Overview
+A range of disorders where the ovaries fail to produce eggs or the correct balance of hormones, affecting fertility and systemic health.
 
-Ovarian Dysfunction covers conditions ranging from **Polycystic Ovary Syndrome (PCOS)** to **Primary Ovarian Insufficiency (POI)**. It results in an imbalance of estrogen, progesterone, and androgens, impacting not just fertility but also bone density and cardiovascular health.
+## Clinical Presentation
+### Symptoms
+Not specified.
 
-## Key Types
 
-- **Primary Ovarian Insufficiency (POI):** Loss of function before age 40.
-- **PCOS:** Hormonal imbalance with overproduction of androgens.
-- **Hypogonadotropic Hypogonadism:** Low hormone levels due to pituitary/hypothalamic issues.
 
-## Relationships
+## Diagnostic Information
 
-ASSOCIATED_WITH_CONDITION::[[Infertility\|Infertility]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Low Ovarian Reserve\|Low Ovarian Reserve]]
-ASSOCIATED_WITH_CONDITION::[[entities/condition/Osteoporosis\|Osteoporosis]]
-AFFECTS_ORGAN::[[Ovary\|Ovary]]
-ASSOCIATED_WITH_BIOMARKER::[[AMH\|AMH]]
-ASSOCIATED_WITH_BIOMARKER::[[entities/labtest/estradiol\|Estradiol]] - Often decreased.
-ASSOCIATED_WITH_BIOMARKER::[[FSH\|FSH]] - Often elevated in POI.
-TREATED_BY_INTERVENTION::[[Hormone Replacement Therapy\|Hormone Replacement Therapy]]
+
+## Risk Factors
+
+
+
+## Management
+
+
+### Interventions
+| File | Effectiveness | Confidence |
+| ---- | ------------- | ---------- |
+
+{ .block-language-dataview}
+
+
+
+
+
+## Other Relationships
+### May Detect
+- ← [[follicle_stimulating_hormone\|follicle_stimulating_hormone]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- ← [[luteinizing_hormone\|luteinizing_hormone]] (labtest)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+
+### Related
+- → [[Ovarian_Dysfunction\|Ovarian_Dysfunction]] (condition)
+```yaml
+last_modified: '2026-01-19T09:31:31.126386'
+source: obsidian
+```
+- → [[follicle_stimulating_hormone\|follicle_stimulating_hormone]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:31.126386'
+source: obsidian
+```
+- → [[luteinizing_hormone\|luteinizing_hormone]] (labtest)
+```yaml
+last_modified: '2026-01-19T09:31:31.126386'
+source: obsidian
+```
+
+## Research
+### Recent Studies
+
+{ .block-language-dataview}
+
+### Clinical Trials
+
+{ .block-language-dataview}
 
 ## References
-
-- Nelson, L. M. (2009). Primary ovarian insufficiency. NEJM.
-- Mayo Clinic. Primary ovarian insufficiency.
-- ACOG. Polycystic Ovary Syndrome.
+No references available.

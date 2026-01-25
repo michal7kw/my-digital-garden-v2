@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/cortisol-am/"}
+{"dg-publish":true,"permalink":"/entities/labtest/cortisol-am/","tags":["labtest"]}
 ---
-
 
 # Cortisol (Morning)
 
@@ -14,7 +13,9 @@ Morning cortisol measurement. Important for adrenal function assessment and Cush
 
 | Property | Value |
 |----------|-------|
+| **Category** | Hormones |
 | **Subcategory** | Adrenal || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
 | **Turnaround Time** | 1-3 days || **Price Range** | $30-$65 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
 
@@ -28,6 +29,7 @@ Morning cortisol measurement. Important for adrenal function assessment and Cush
 This test measures the following biomarkers:
 
 - [[entities/labtest/cortisol\|cortisol]]
+
 
 ## Recommended For
 
@@ -51,4 +53,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:26.428882*
+*Last Updated: 2025-12-28T17:32:26+0000*

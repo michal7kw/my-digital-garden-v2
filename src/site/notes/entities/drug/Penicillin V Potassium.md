@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/drug/penicillin-v-potassium/","tags":["drug","antibiotic","oral","beta-lactam"]}
 ---
 
-
 # Penicillin V Potassium
 
 ## Overview

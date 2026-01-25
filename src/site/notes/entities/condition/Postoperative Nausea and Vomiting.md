@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/postoperative-nausea-and-vomiting/","tags":["condition","anesthesiology","surgery","complication","symptom"]}
 ---
 
-
 # Postoperative Nausea and Vomiting
 
 ## Overview

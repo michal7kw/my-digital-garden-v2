@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/entities/condition/acute-kidney-injury/","tags":["condition","nephrology","acute","renal_failure"]}
 ---
 
-
 # Acute Kidney Injury
 
 ## Overview
