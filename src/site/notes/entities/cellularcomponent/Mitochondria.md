@@ -41,7 +41,7 @@ Mitochondria are double-membrane-bound organelles found in most eukaryotic organ
 
 | Supplement | Mechanism |
 |------------|-----------|
-| **[[entities/Supplement/CoQ10\|CoQ10]]** | Electron carrier (Complex I → III) |
+| **[[CoQ10\|CoQ10]]** | Electron carrier (Complex I → III) |
 | **[[entities/Supplement/PQQ\|PQQ]]** | Induces biogenesis via PGC-1α |
 | **[[entities/Supplement/NMN\|NMN]]** / **[[entities/Metabolite/Nicotinamide Riboside\|Nicotinamide Riboside]]** | NAD+ precursors for sirtuins |
 | **[[entities/Supplement/Alpha Lipoic Acid\|Alpha Lipoic Acid]]** | PDH/α-KGDH cofactor |
@@ -132,7 +132,7 @@ source: obsidian
 ```
 
 ### Supports
-- ← [[entities/Supplement/CoQ10\|CoQ10]] (supplement)
+- ← [[CoQ10\|CoQ10]] (supplement)
 ```yaml
 last_modified: '2025-12-28T11:01:19.740004'
 source: obsidian
@@ -229,7 +229,7 @@ source: obsidian
 last_modified: '2026-01-19T09:30:34.809082'
 source: obsidian
 ```
-- → [[entities/Supplement/CoQ10\|CoQ10]] (supplement)
+- → [[CoQ10\|CoQ10]] (supplement)
 ```yaml
 last_modified: '2026-01-19T09:30:34.809082'
 source: obsidian
@@ -274,7 +274,7 @@ source: obsidian
 last_modified: '2026-01-18T17:28:10.254635'
 source: obsidian
 ```
-- ← [[entities/Supplement/CoQ10\|CoQ10]] (supplement)
+- ← [[CoQ10\|CoQ10]] (supplement)
 ```yaml
 last_modified: '2026-01-19T09:07:00.698822'
 source: obsidian
