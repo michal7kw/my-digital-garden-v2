@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/metabolite/glutathione/"}
+{"dg-publish":true,"permalink":"/entities/metabolite/glutathione/","tags":["metabolite"]}
 ---
-
 
 # Glutathione
 
@@ -41,6 +40,7 @@ relationships_section: '### Increases Metabolite
 
   ```
 
+
   ### Regenerates
 
   - ← [[Vitamin_C\|Vitamin_C]] (supplement)
@@ -53,25 +53,54 @@ relationships_section: '### Increases Metabolite
 
   ```
 
-  ### Targets
+
+  ### Related
+
+  - → [[Alpha_Lipoic_Acid\|Alpha_Lipoic_Acid]] (entity)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:32:55.858153''
+
+  source: obsidian
+
+  ```
+
+  - → [[Vitamin_C\|Vitamin_C]] (entity)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:32:55.858153''
+
+  source: obsidian
+
+  ```
 
   - → [[entities/gene/CYP3A4\|CYP3A4]] (protein)
 
   ```yaml
 
-  imported: ''2025-12-26T09:40:18.412000+00:00''
+  last_modified: ''2026-01-19T09:32:55.858153''
 
-  source: PrimeKG
+  source: obsidian
 
   ```
 
-  ### Related
+  - ← [[entities/gene/CYP3A4\|CYP3A4]] (protein)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:06:45.570959''
+
+  source: obsidian
+
+  ```
 
   - → [[entities/Supplement/Selenium\|Selenium]] (supplement)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:53.187809''
+  last_modified: ''2026-01-19T09:32:55.858153''
 
   source: obsidian
 
@@ -81,7 +110,7 @@ relationships_section: '### Increases Metabolite
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:53.211212''
+  last_modified: ''2026-01-19T09:32:55.858153''
 
   source: obsidian
 
@@ -91,7 +120,7 @@ relationships_section: '### Increases Metabolite
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:14.318570''
+  last_modified: ''2026-01-19T09:06:56.743917''
 
   source: obsidian
 
@@ -101,7 +130,7 @@ relationships_section: '### Increases Metabolite
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:20.128497''
+  last_modified: ''2026-01-19T09:07:10.800458''
 
   source: obsidian
 
@@ -111,7 +140,7 @@ relationships_section: '### Increases Metabolite
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:22.776753''
+  last_modified: ''2026-01-19T09:07:16.719280''
 
   source: obsidian
 
@@ -121,7 +150,7 @@ relationships_section: '### Increases Metabolite
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:24.488098''
+  last_modified: ''2026-01-19T09:07:20.032007''
 
   source: obsidian
 

@@ -1,12 +1,54 @@
 ---
-{"dg-publish":true,"permalink":"/entities/metabolite/homocysteine/"}
+{"dg-publish":true,"permalink":"/entities/metabolite/homocysteine/","tags":["metabolite","cardiovascular_risk","methylation","amino_acid"]}
 ---
 
 
 # Homocysteine
 
 ## Overview
-Sulfur-containing amino acid that is an intermediate in the methylation cycle. Elevated homocysteine is an independent risk factor for cardiovascular disease, cognitive decline, and other conditions. Levels are modifiable through B vitamin supplementation.
+
+**Homocysteine** is a non-proteinogenic amino acid synthesized from methionine. It occupies a central intersection in the methylation cycle and transsulfuration pathway. It is not obtained from the diet directly but is produced via the demethylation of S-adenosylmethionine (SAMe).
+
+Efficient recycling of homocysteine is critical for health. When recycling pathways are impaired (often due to nutrient deficiencies or genetic variants like MTHFR), homocysteine accumulates, causing endothelial damage, oxidative stress, and neurotoxicity.
+
+## Metabolism Pathways
+
+Homocysteine has two metabolic fates:
+
+### 1. Remethylation (Back to Methionine)
+- **Folate-Dependent Pathway:** Requires **5-MTHF** (active folate) and **Vitamin B12**. Catalyzed by Methionine Synthase (MTR).
+- **Betaine-Dependent Pathway:** Uses Betaine (TMG) as a methyl donor. Catalyzed by Betaine-Homocysteine Methyltransferase (BHMT), primarily in the liver.
+
+### 2. Transsulfuration (To Cysteine/Glutathione)
+- Irreversibly converts homocysteine to cystathionine and then cysteine.
+- Requires **Vitamin B6** (P5P).
+- Critical for the synthesis of **Glutathione**, the body's master antioxidant.
+
+## Clinical Significance
+
+- **Cardiovascular Disease:** Hyperhomocysteinemia damages blood vessel linings (endothelial dysfunction) and promotes clotting, increasing the risk of atherosclerosis, heart attack, and stroke.
+- **Cognitive Decline:** High levels are strongly associated with brain atrophy, vascular dementia, and Alzheimer's disease.
+- **Bone Health:** High levels disrupt collagen cross-linking, increasing osteoporosis and fracture risk.
+- **Pregnancy:** Associated with neural tube defects and pre-eclampsia.
 
 ## Relationships
-relationships_section: No relationships found.
+
+PRODUCED_FROM::[[Methionine\|Methionine]] - Via SAMe pathway
+CONVERTED_TO::[[entities/Metabolite/Glutathione\|Glutathione]] - Via transsulfuration (requires B6)
+CONVERTED_TO::[[Methionine\|Methionine]] - Via remethylation (requires B12/Folate)
+REQUIRES_COFACTOR::[[entities/labtest/vitamin b12\|Vitamin B12]] - For remethylation
+REQUIRES_COFACTOR::[[entities/labtest/folate\|Folate]] - For remethylation
+REQUIRES_COFACTOR::[[entities/Supplement/Vitamin B6\|Vitamin B6]] - For transsulfuration
+REQUIRES_COFACTOR::[[Betaine\|Betaine]] - Alternate remethylation donor
+INCREASED_BY::[[entities/Labtestpanel/mthfr gene\|MTHFR Gene]] - MTHFR C677T variant impairs folate cycle
+INCREASED_BY::[[Vitamin B12 Deficiency\|Vitamin B12 Deficiency]]
+INCREASED_BY::[[Folate Deficiency\|Folate Deficiency]]
+ASSOCIATED_WITH_CONDITION::[[entities/condition/Cardiovascular Disease\|Cardiovascular Disease]] - Independent risk factor
+ASSOCIATED_WITH_CONDITION::[[entities/condition/Alzheimer's Disease\|Alzheimer's Disease]] - Risk factor
+ASSOCIATED_WITH_CONDITION::[[entities/condition/Osteoporosis\|Osteoporosis]]
+
+## References
+
+- Seshadri S, et al. Plasma homocysteine as a risk factor for dementia and Alzheimer's disease. N Engl J Med. 2002;346(7):476-83.
+- Refsum H, Smith AD. Ueland PM, et al. Facts and recommendations about total homocysteine determinations: an expert opinion. Clin Chem. 2004;50(1):3-32.
+- Homocysteine Studies Collaboration. Homocysteine and risk of ischemic heart disease and stroke: a meta-analysis. JAMA. 2002;288(16):2015-22.

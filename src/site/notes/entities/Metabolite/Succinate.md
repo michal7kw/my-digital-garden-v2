@@ -86,7 +86,7 @@ PRODUCES::[[entities/Metabolite/FADH2\|FADH2]] - Electron carrier for ETC
 STABILIZES::[[HIF-1alpha\|HIF-1alpha]] - Via PHD inhibition
 ACTIVATES::[[SUCNR1\|SUCNR1]] - Cell surface receptor
 LOCATED_IN::[[entities/cellularcomponent/Mitochondria\|Mitochondria]] - Site of metabolism
-RELATED_TO::[[entities/Supplement/CoQ10\|CoQ10]] - Electron acceptor at Complex II
+RELATED_TO::[[CoQ10\|CoQ10]] - Electron acceptor at Complex II
 AFFECTED_BY::[[Hypoxia\|Hypoxia]] - Accumulates under low oxygen
 
 ## References

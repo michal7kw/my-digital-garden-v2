@@ -1,12 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/entities/metabolite/atp/"}
+{"dg-publish":true,"permalink":"/entities/metabolite/atp/","tags":["metabolite"]}
 ---
-
 
 # ATP
 
 ## Overview
-Adenosine triphosphate, the universal energy currency of all living cells. Provides the energy for virtually all cellular processes including muscle contraction, nerve transmission, and biosynthesis.
+
+Adenosine triphosphate (ATP) is the universal energy currency of all living cells, providing the energy for virtually all cellular processes including muscle contraction, nerve transmission, protein synthesis, active transport, and biosynthetic reactions.
+
+ATP stores energy in its high-energy phosphoanhydride bonds. When hydrolyzed to ADP and phosphate, approximately 30.5 kJ/mol of free energy is released to drive otherwise unfavorable reactions.
+
+## ATP Production Pathways
+
+| Pathway | Location | ATP Yield | Speed |
+|---------|----------|-----------|-------|
+| [[entities/pathway/Oxidative Phosphorylation\|Oxidative Phosphorylation]] | Mitochondria | ~26-28/glucose | Slow but efficient |
+| [[entities/pathway/Glycolysis\|Glycolysis]] | Cytoplasm | 2/glucose | Fast |
+| [[entities/pathway/Citric Acid Cycle\|Citric Acid Cycle]] | Mitochondria | 2 GTP/glucose | Slow |
+| [[entities/drug/Creatine\|Creatine]]-Phosphocreatine | Cytoplasm | Regenerates | Immediate |
+
+## Key Connections
+
+### Produced By
+- **[[entities/pathway/Oxidative Phosphorylation\|Oxidative Phosphorylation]]**: Main ATP source via ATP Synthase
+- **[[entities/pathway/Glycolysis\|Glycolysis]]**: Substrate-level phosphorylation
+- **[[entities/Metabolite/Phosphocreatine\|Phosphocreatine]]**: Rapid regeneration from ADP
+
+### Hydrolyzed To
+- **[[entities/Metabolite/ADP\|ADP]]**: Primary product of ATP utilization
+- **AMP**: During high energy demand
+
+### Regulation
+- **[[entities/protein/AMPK\|AMPK]]**: Activated when ATP levels fall (high AMP/ADP)
+- ATP/ADP ratio signals cellular energy status
+
+### Supplement Support
+- **[[CoQ10\|CoQ10]]**: Supports electron transport chain
+- **[[entities/drug/Creatine\|Creatine]]**: Buffers ATP via phosphocreatine
+- **[[entities/labtest/magnesium\|Magnesium]]**: Required as MgATP complex
+- **[[entities/Supplement/NMN\|NMN]]** / **[[entities/Metabolite/Nicotinamide Riboside\|Nicotinamide Riboside]]**: Support NAD+ for NADH → ATP
 
 ## Relationships
 relationships_section: '### Produces
@@ -21,6 +53,7 @@ relationships_section: '### Produces
 
   ```
 
+
   ### Improves Biomarker
 
   - ← [[Red_Light_Therapy\|Red_Light_Therapy]] (intervention)
@@ -33,9 +66,10 @@ relationships_section: '### Produces
 
   ```
 
+
   ### Increases Metabolite
 
-  - ← [[entities/biomarker/Coq10\|CoQ10]] (supplement)
+  - ← [[CoQ10\|CoQ10]] (supplement)
 
   ```yaml
 
@@ -49,11 +83,12 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2026-01-03T08:01:22.296207''
+  last_modified: ''2026-01-19T09:07:01.825845''
 
   source: obsidian
 
   ```
+
 
   ### Required For Synthesis
 
@@ -67,13 +102,24 @@ relationships_section: '### Produces
 
   ```
 
+
   ### Related
+
+  - → [[Red_Light_Therapy\|Red_Light_Therapy]] (entity)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:32:55.212976''
+
+  source: obsidian
+
+  ```
 
   - ← [[entities/cellularcomponent/Mitochondria\|Mitochondria]] (cellularcomponent)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:20.624210''
+  last_modified: ''2026-01-19T09:30:34.809082''
 
   source: obsidian
 
@@ -83,7 +129,7 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:29.220580''
+  last_modified: ''2026-01-19T09:31:54.843123''
 
   source: obsidian
 
@@ -93,7 +139,7 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:48.045682''
+  last_modified: ''2026-01-19T09:32:11.579627''
 
   source: obsidian
 
@@ -103,7 +149,7 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:52.985521''
+  last_modified: ''2026-01-19T09:32:55.212976''
 
   source: obsidian
 
@@ -113,17 +159,17 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:53.007880''
+  last_modified: ''2026-01-19T09:32:55.212976''
 
   source: obsidian
 
   ```
 
-  - → [[entities/biomarker/Coq10\|CoQ10]] (supplement)
+  - → [[CoQ10\|CoQ10]] (supplement)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:53.030720''
+  last_modified: ''2026-01-19T09:32:55.212976''
 
   source: obsidian
 
@@ -133,17 +179,17 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:53.075597''
+  last_modified: ''2026-01-19T09:32:55.212976''
 
   source: obsidian
 
   ```
 
-  - ← [[entities/biomarker/Coq10\|CoQ10]] (supplement)
+  - ← [[CoQ10\|CoQ10]] (supplement)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:16.065681''
+  last_modified: ''2026-01-19T09:07:00.698822''
 
   source: obsidian
 
@@ -153,7 +199,7 @@ relationships_section: '### Produces
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:19.125906''
+  last_modified: ''2026-01-19T09:07:07.990267''
 
   source: obsidian
 

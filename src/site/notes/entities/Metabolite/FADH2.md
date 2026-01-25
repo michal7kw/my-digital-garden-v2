@@ -72,7 +72,7 @@ PARTICIPATES_IN_PATHWAY::[[entities/pathway/Electron Transport Chain\|Electron T
 PARTICIPATES_IN_PATHWAY::[[entities/pathway/Citric Acid Cycle\|Citric Acid Cycle]]
 LOCATED_IN::[[entities/cellularcomponent/Mitochondria\|Mitochondria]] - Inner membrane/matrix
 AFFECTS::[[entities/Metabolite/ATP\|ATP]] - Contributes to ATP synthesis
-RELATED_TO::[[entities/Supplement/CoQ10\|CoQ10]] - Electron acceptor at Complex II
+RELATED_TO::[[CoQ10\|CoQ10]] - Electron acceptor at Complex II
 RELATED_TO::[[entities/Metabolite/NADH\|NADH]] - Alternative electron carrier
 
 ## References

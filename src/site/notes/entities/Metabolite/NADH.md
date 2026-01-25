@@ -51,7 +51,7 @@ AFFECTS::[[entities/Metabolite/ATP\|ATP]] - Essential for ATP production (~2.5 A
 PRODUCED_FROM::[[entities/Metabolite/Pyruvate\|Pyruvate]] - Via pyruvate dehydrogenase
 PRODUCED_FROM::[[entities/Metabolite/Malate\|Malate]] - Via malate dehydrogenase
 RELATED_TO::[[entities/Supplement/NMN\|NMN]] - Precursor to NAD+ pool
-RELATED_TO::[[entities/Supplement/CoQ10\|CoQ10]] - Downstream electron acceptor
+RELATED_TO::[[CoQ10\|CoQ10]] - Downstream electron acceptor
 RELATED_TO::[[entities/Metabolite/FADH2\|FADH2]] - Alternative electron carrier
 
 ## References

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/entities/metabolite/methylfolate/"}
+{"dg-publish":true,"permalink":"/entities/metabolite/methylfolate/","tags":["metabolite"]}
 ---
-
 
 # Methylfolate
 
@@ -21,9 +20,10 @@ relationships_section: '### Active Form Is
 
   ```
 
+
   ### Supports Synthesis
 
-  - ← [[Vitamin_B12\|Vitamin_B12]] (supplement)
+  - ← [[Vitamin_B12\|Vitamin_B12]] (biomarker)
 
   ```yaml
 
@@ -33,9 +33,10 @@ relationships_section: '### Active Form Is
 
   ```
 
+
   ### Synergistic With
 
-  - ← [[Vitamin_B12\|Vitamin_B12]] (supplement)
+  - ← [[Vitamin_B12\|Vitamin_B12]] (biomarker)
 
   ```yaml
 
@@ -55,13 +56,44 @@ relationships_section: '### Active Form Is
 
   ```
 
+
   ### Related
 
-  - → [[entities/labtest/folate\|Folate]] (biomarker)
+  - → [[entities/labtest/folate\|Folate]] (supplement)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:02:53.398057''
+  last_modified: ''2026-01-19T09:32:56.440562''
+
+  source: obsidian
+
+  ```
+
+  - ← [[entities/labtest/folate\|Folate]] (biomarker)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:30:15.621784''
+
+  source: obsidian
+
+  ```
+
+  - → [[Vitamin_B12\|Vitamin_B12]] (entity)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:32:56.440562''
+
+  source: obsidian
+
+  ```
+
+  - → [[Vitamin_B6\|Vitamin_B6]] (entity)
+
+  ```yaml
+
+  last_modified: ''2026-01-19T09:32:56.440562''
 
   source: obsidian
 
@@ -71,17 +103,17 @@ relationships_section: '### Active Form Is
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:17.205062''
+  last_modified: ''2026-01-19T09:07:03.149967''
 
   source: obsidian
 
   ```
 
-  - ← [[Vitamin_B12\|Vitamin_B12]] (supplement)
+  - ← [[Vitamin_B12\|Vitamin_B12]] (biomarker)
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:23.447570''
+  last_modified: ''2026-01-19T09:30:30.196142''
 
   source: obsidian
 
@@ -91,7 +123,7 @@ relationships_section: '### Active Form Is
 
   ```yaml
 
-  last_modified: ''2025-12-27T18:04:23.826472''
+  last_modified: ''2026-01-19T09:07:18.846152''
 
   source: obsidian
 
