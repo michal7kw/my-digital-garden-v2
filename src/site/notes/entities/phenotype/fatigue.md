@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.738441Z'
+created: '2026-02-08T19:45:44.624214Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 - primekg
 title: Fatigue
 type: phenotype
-updated: '2026-02-08T19:29:31.738441Z'
+updated: '2026-02-08T19:45:44.624214Z'
 ---
 
 # Fatigue

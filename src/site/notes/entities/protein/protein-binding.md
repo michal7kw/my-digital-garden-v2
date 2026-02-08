@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.756912Z'
+created: '2026-02-08T19:45:44.644646Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: protein binding
 type: protein
-updated: '2026-02-08T19:29:31.756912Z'
+updated: '2026-02-08T19:45:44.644646Z'
 ---
 
 # protein binding

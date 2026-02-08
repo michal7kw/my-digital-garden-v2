@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.749670Z'
+created: '2026-02-08T19:45:44.636764Z'
 description: A small heme protein that serves as an essential electron carrier in
   the mitochondrial electron transport chain, shuttling electrons from Complex III
   to Complex IV. Also plays a crucial role in apoptosis when released into the cytoplasm.
@@ -17,7 +17,7 @@ tags:
 - oxidative_phosphorylation
 title: Cytochrome C
 type: protein
-updated: '2026-02-08T19:29:31.749670Z'
+updated: '2026-02-08T19:45:44.636764Z'
 ---
 
 # Cytochrome C

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.586805Z'
+created: '2026-02-08T19:45:44.456569Z'
 description: A condition where the body's pH levels deviate from the normal range
   (7.35-7.45), categorized as acidosis (too much acid) or alkalosis (too much base).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Acid-Base Imbalance
 type: condition
-updated: '2026-02-08T19:29:31.586805Z'
+updated: '2026-02-08T19:45:44.456569Z'
 ---
 
 # Acid-Base Imbalance

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.737917Z'
+created: '2026-02-08T19:45:44.623632Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Elevated hepatic transaminase
 type: phenotype
-updated: '2026-02-08T19:29:31.737917Z'
+updated: '2026-02-08T19:45:44.623632Z'
 ---
 
 # Elevated hepatic transaminase

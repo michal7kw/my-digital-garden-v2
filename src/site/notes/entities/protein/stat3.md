@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.755046Z'
+created: '2026-02-08T19:45:44.642622Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: STAT3
 type: protein
-updated: '2026-02-08T19:29:31.755046Z'
+updated: '2026-02-08T19:45:44.642622Z'
 ---
 
 # STAT3

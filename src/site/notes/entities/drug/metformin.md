@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.644123Z'
+created: '2026-02-08T19:45:44.519869Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -14,7 +14,7 @@ tags:
 - prescription
 title: METFORMIN
 type: drug
-updated: '2026-02-08T19:29:31.644123Z'
+updated: '2026-02-08T19:45:44.519869Z'
 ---
 
 # METFORMIN

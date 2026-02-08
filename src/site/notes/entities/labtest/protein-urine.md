@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.699388Z'
+created: '2026-02-08T19:45:44.580966Z'
 description: Tested twice a year Protein is normally filtered and reabsorbed by the
   kidneys, so healthy urine contains little to no detectable protein. When protein
   appears in higher amounts, a condition known as proteinuria, it can be a sign of
@@ -13,7 +13,7 @@ tags:
 - labtest
 title: protein_urine
 type: labtest
-updated: '2026-02-08T19:29:31.699388Z'
+updated: '2026-02-08T19:45:44.580966Z'
 ---
 
 # Protein, Urine

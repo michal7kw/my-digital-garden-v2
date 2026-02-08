@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.609960Z'
+created: '2026-02-08T19:45:44.482517Z'
 description: A common type of anemia that occurs when the body does not have enough
   iron to produce hemoglobin, the protein in red blood cells that carries oxygen.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Iron Deficiency Anemia
 type: condition
-updated: '2026-02-08T19:29:31.609960Z'
+updated: '2026-02-08T19:45:44.482517Z'
 ---
 
 # Iron Deficiency Anemia

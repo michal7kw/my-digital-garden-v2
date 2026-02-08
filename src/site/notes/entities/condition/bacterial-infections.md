@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.592413Z'
+created: '2026-02-08T19:45:44.462850Z'
 description: Illnesses caused by harmful bacteria, ranging from mild skin infections
   to severe systemic diseases.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - microbiology
 title: Bacterial Infections
 type: condition
-updated: '2026-02-08T19:29:31.592413Z'
+updated: '2026-02-08T19:45:44.462850Z'
 ---
 
 # Bacterial Infections

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.619299Z'
+created: '2026-02-08T19:45:44.492440Z'
 description: The most common form of glaucoma, characterized by a gradual increase
   in intraocular pressure due to clogged drainage canals, leading to optic nerve damage.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - vision_loss
 title: Open-Angle Glaucoma
 type: condition
-updated: '2026-02-08T19:29:31.619299Z'
+updated: '2026-02-08T19:45:44.492440Z'
 ---
 
 # Open-Angle Glaucoma

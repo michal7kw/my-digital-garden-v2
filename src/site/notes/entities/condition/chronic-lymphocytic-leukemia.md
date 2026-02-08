@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.597327Z'
+created: '2026-02-08T19:45:44.468629Z'
 description: A type of cancer of the blood and bone marrow that affects B lymphocytes
   (a type of white blood cell), progressing slowly.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - leukemia
 title: Chronic Lymphocytic Leukemia
 type: condition
-updated: '2026-02-08T19:29:31.597327Z'
+updated: '2026-02-08T19:45:44.468629Z'
 ---
 
 # Chronic Lymphocytic Leukemia

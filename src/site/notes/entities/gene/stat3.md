@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.657604Z'
+created: '2026-02-08T19:45:44.534370Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 - primekg
 title: STAT3
 type: gene
-updated: '2026-02-08T19:29:31.657604Z'
+updated: '2026-02-08T19:45:44.534370Z'
 ---
 
 # "STAT3"

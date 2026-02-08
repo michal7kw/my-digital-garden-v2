@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.739787Z'
+created: '2026-02-08T19:45:44.625777Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Headache
 type: phenotype
-updated: '2026-02-08T19:29:31.739787Z'
+updated: '2026-02-08T19:45:44.625777Z'
 ---
 
 # Headache

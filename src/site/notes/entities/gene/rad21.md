@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.657264Z'
+created: '2026-02-08T19:45:44.534000Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: RAD21
 type: gene
-updated: '2026-02-08T19:29:31.657264Z'
+updated: '2026-02-08T19:45:44.534000Z'
 ---
 
 # "RAD21"

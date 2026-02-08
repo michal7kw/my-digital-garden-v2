@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.668689Z'
+created: '2026-02-08T19:45:44.546658Z'
 description: Tested twice a year Basophils account for around <1% of white blood cells
   that help defend the body, which support immune responses against parasites and
   shape allergic reactions. When their activity is increased, basophils can be associated
@@ -16,7 +16,7 @@ tags:
 - function-health
 title: basophils
 type: labtest
-updated: '2026-02-08T19:29:31.668689Z'
+updated: '2026-02-08T19:45:44.546658Z'
 ---
 
 # Basophils

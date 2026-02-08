@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.600174Z'
+created: '2026-02-08T19:45:44.471905Z'
 description: A common and serious medical illness that negatively affects how you
   feel, the way you think, and how you act.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - mental_health
 title: Depressive Disorder
 type: condition
-updated: '2026-02-08T19:29:31.600174Z'
+updated: '2026-02-08T19:45:44.471905Z'
 ---
 
 # Depressive Disorder

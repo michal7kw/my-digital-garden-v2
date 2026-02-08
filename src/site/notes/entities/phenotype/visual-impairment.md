@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.745165Z'
+created: '2026-02-08T19:45:44.631942Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Visual impairment
 type: phenotype
-updated: '2026-02-08T19:29:31.745165Z'
+updated: '2026-02-08T19:45:44.631942Z'
 ---
 
 # Visual impairment

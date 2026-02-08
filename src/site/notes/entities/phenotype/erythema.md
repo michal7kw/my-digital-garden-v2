@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.738154Z'
+created: '2026-02-08T19:45:44.623882Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Erythema
 type: phenotype
-updated: '2026-02-08T19:29:31.738154Z'
+updated: '2026-02-08T19:45:44.623882Z'
 ---
 
 # Erythema

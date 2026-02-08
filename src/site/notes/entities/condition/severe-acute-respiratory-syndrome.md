@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.630214Z'
+created: '2026-02-08T19:45:44.504828Z'
 description: A viral respiratory illness caused by a coronavirus (SARS-CoV), first
   identified in 2003.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - historical
 title: Severe Acute Respiratory Syndrome
 type: condition
-updated: '2026-02-08T19:29:31.630214Z'
+updated: '2026-02-08T19:45:44.504828Z'
 ---
 
 # Severe Acute Respiratory Syndrome

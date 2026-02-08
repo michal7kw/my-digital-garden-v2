@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.576788Z'
+created: '2026-02-08T19:45:44.445569Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Testosterone Total
 type: biomarker
-updated: '2026-02-08T19:29:31.576788Z'
+updated: '2026-02-08T19:45:44.445569Z'
 ---
 
 # Testosterone Total

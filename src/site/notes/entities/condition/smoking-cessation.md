@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.631088Z'
+created: '2026-02-08T19:45:44.505780Z'
 description: The process of discontinuing tobacco smoking, a critical intervention
   for reducing the risk of smoking-related diseases.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - preventive_medicine
 title: Smoking Cessation
 type: condition
-updated: '2026-02-08T19:29:31.631088Z'
+updated: '2026-02-08T19:45:44.505780Z'
 ---
 
 # Smoking Cessation

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.775537Z'
+created: '2026-02-08T19:45:44.663341Z'
 description: Fat-soluble vitamin essential for calcium metabolism, directing calcium
   to bones and away from arteries. Critical for cardiovascular and bone health, often
   paired with vitamin D.
@@ -16,7 +16,7 @@ tags:
 - calcium_metabolism
 title: Vitamin K2
 type: supplement
-updated: '2026-02-08T19:29:31.775537Z'
+updated: '2026-02-08T19:45:44.663341Z'
 ---
 
 # Vitamin K2

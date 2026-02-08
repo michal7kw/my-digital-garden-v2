@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.748595Z'
+created: '2026-02-08T19:45:44.635601Z'
 description: Histone acetyltransferase that functions as a transcriptional coactivator
   for multiple transcription factors (CREB, TP53, Nuclear Receptors).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - epigenetics
 title: CREBBP
 type: protein
-updated: '2026-02-08T19:29:31.748595Z'
+updated: '2026-02-08T19:45:44.635601Z'
 ---
 
 # CREBBP

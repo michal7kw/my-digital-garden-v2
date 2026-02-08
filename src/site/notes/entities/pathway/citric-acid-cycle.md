@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.726591Z'
+created: '2026-02-08T19:45:44.610796Z'
 description: The central metabolic hub that oxidizes acetyl-CoA to CO2, generating
   NADH, FADH2, and GTP for ATP production. Also known as the TCA cycle or Krebs cycle,
   it connects carbohydrate, fat, and protein metabolism and provides biosynthetic
@@ -18,7 +18,7 @@ tags:
 - catabolic
 title: Citric Acid Cycle
 type: pathway
-updated: '2026-02-08T19:29:31.726591Z'
+updated: '2026-02-08T19:45:44.610796Z'
 ---
 
 # Citric Acid Cycle

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.630879Z'
+created: '2026-02-08T19:45:44.505550Z'
 description: A broad category of conditions that disrupt normal sleep patterns, affecting
   the quality, timing, and amount of sleep.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - function-health
 title: Sleep Disorder
 type: condition
-updated: '2026-02-08T19:29:31.630879Z'
+updated: '2026-02-08T19:45:44.505550Z'
 ---
 
 # Sleep Disorder

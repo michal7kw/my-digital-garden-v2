@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.598198Z'
+created: '2026-02-08T19:45:44.469678Z'
 description: A deficit in intellectual functioning, including problems with memory,
   attention, language, thinking, and judgment.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - symptom
 title: Cognitive Dysfunction
 type: condition
-updated: '2026-02-08T19:29:31.598198Z'
+updated: '2026-02-08T19:45:44.469678Z'
 ---
 
 # Cognitive Dysfunction

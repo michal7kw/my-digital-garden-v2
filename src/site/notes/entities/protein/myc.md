@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.751920Z'
+created: '2026-02-08T19:45:44.639259Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: MYC
 type: protein
-updated: '2026-02-08T19:29:31.751920Z'
+updated: '2026-02-08T19:45:44.639259Z'
 ---
 
 # MYC

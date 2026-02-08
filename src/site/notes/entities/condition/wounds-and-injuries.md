@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.635742Z'
+created: '2026-02-08T19:45:44.510845Z'
 description: Damage to any part of the body caused by external force, ranging from
   minor skin breaks to life-threatening internal trauma.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - emergency
 title: Wounds and Injuries
 type: condition
-updated: '2026-02-08T19:29:31.635742Z'
+updated: '2026-02-08T19:45:44.510845Z'
 ---
 
 # Wounds and Injuries

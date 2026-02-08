@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.709979Z'
+created: '2026-02-08T19:45:44.593286Z'
 description: Complete DNA sequencing at 30x coverage. Most comprehensive genetic test
   available.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 - labtest
 title: whole_genome_sequencing
 type: labtest
-updated: '2026-02-08T19:29:31.709979Z'
+updated: '2026-02-08T19:45:44.593286Z'
 ---
 
 # Whole Genome Sequencing (30x)

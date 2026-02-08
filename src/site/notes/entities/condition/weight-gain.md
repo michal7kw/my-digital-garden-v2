@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.635554Z'
+created: '2026-02-08T19:45:44.510610Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - symptom
 title: Weight Gain
 type: condition
-updated: '2026-02-08T19:29:31.635554Z'
+updated: '2026-02-08T19:45:44.510610Z'
 ---
 
 # Weight Gain

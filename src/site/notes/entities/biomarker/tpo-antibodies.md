@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.578461Z'
+created: '2026-02-08T19:45:44.447294Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Tpo Antibodies
 type: biomarker
-updated: '2026-02-08T19:29:31.578461Z'
+updated: '2026-02-08T19:45:44.447294Z'
 ---
 
 # Tpo Antibodies

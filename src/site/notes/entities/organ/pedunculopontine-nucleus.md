@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.720255Z'
+created: '2026-02-08T19:45:44.604146Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Pedunculopontine Nucleus
 type: organ
-updated: '2026-02-08T19:29:31.720255Z'
+updated: '2026-02-08T19:45:44.604146Z'
 ---
 
 # Pedunculopontine Nucleus (PPN)

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.672473Z'
+created: '2026-02-08T19:45:44.551140Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 - labtest
 title: complete_blood_count
 type: labtest
-updated: '2026-02-08T19:29:31.672473Z'
+updated: '2026-02-08T19:45:44.551140Z'
 ---
 
 # Complete Blood Count (CBC)

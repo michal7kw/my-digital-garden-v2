@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.673537Z'
+created: '2026-02-08T19:45:44.552332Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: cortisol
 type: labtest
-updated: '2026-02-08T19:29:31.673537Z'
+updated: '2026-02-08T19:45:44.552332Z'
 ---
 
 # Cortisol

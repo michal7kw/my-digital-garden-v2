@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.599507Z'
+created: '2026-02-08T19:45:44.471169Z'
 description: A hormonal disorder caused by prolonged exposure to high levels of cortisol,
   resulting in a variety of physical and metabolic changes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Cushings Syndrome
 type: condition
-updated: '2026-02-08T19:29:31.599507Z'
+updated: '2026-02-08T19:45:44.471169Z'
 ---
 
 # Cushings Syndrome

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.694619Z'
+created: '2026-02-08T19:45:44.575556Z'
 description: 'oh-MAY-guh three: E-P-A Eicosapentaenoic acid (EPA) is an omega-3 fatty
   acid that helps regulate inflammation and supports cardiovascular, brain, and joint
   health. It also plays a role in maintaining healthy blood vessel function and overall
@@ -14,7 +14,7 @@ tags:
 - labtest
 title: omega_3_epa
 type: labtest
-updated: '2026-02-08T19:29:31.694619Z'
+updated: '2026-02-08T19:45:44.575556Z'
 ---
 
 # Omega-3: EPA

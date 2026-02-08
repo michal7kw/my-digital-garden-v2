@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.566880Z'
+created: '2026-02-08T19:45:44.434432Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Insulin Fasting
 type: biomarker
-updated: '2026-02-08T19:29:31.566880Z'
+updated: '2026-02-08T19:45:44.434432Z'
 ---
 
 # Insulin Fasting

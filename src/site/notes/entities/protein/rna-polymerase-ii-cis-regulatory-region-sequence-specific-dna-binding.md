@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.753882Z'
+created: '2026-02-08T19:45:44.641412Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
 type: protein
-updated: '2026-02-08T19:29:31.753882Z'
+updated: '2026-02-08T19:45:44.641412Z'
 ---
 
 # RNA polymerase II cis-regulatory region sequence-specific DNA binding

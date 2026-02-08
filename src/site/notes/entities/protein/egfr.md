@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.750521Z'
+created: '2026-02-08T19:45:44.637703Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - receptor
 title: EGFR
 type: protein
-updated: '2026-02-08T19:29:31.750521Z'
+updated: '2026-02-08T19:45:44.637703Z'
 ---
 
 # EGFR

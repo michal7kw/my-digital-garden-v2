@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.712363Z'
+created: '2026-02-08T19:45:44.595947Z'
 description: Evaluates intestinal inflammation, permeability, and microbiome health.
   Fecal calprotectin distinguishes IBD from IBS, while GI-MAP provides comprehensive
   stool analysis including pathogen detection and microbiome composition. Recommended
@@ -13,7 +13,7 @@ tags:
 - labtestpanel
 title: gut_health_comprehensive_panel
 type: labtestpanel
-updated: '2026-02-08T19:29:31.712363Z'
+updated: '2026-02-08T19:45:44.595947Z'
 ---
 
 # Gut Health Comprehensive Panel

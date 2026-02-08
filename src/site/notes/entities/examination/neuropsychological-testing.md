@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.652103Z'
+created: '2026-02-08T19:45:44.528543Z'
 description: Comprehensive cognitive assessment using standardized tests to evaluate
   memory, attention, language, visuospatial function, and executive abilities. Essential
   for dementia diagnosis, staging, and differential diagnosis.
@@ -16,7 +16,7 @@ tags:
 - dementia
 title: Neuropsychological Testing
 type: examination
-updated: '2026-02-08T19:29:31.652103Z'
+updated: '2026-02-08T19:45:44.528543Z'
 ---
 
 # Neuropsychological Testing

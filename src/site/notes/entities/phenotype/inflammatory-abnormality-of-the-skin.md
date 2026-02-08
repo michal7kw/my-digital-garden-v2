@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.740684Z'
+created: '2026-02-08T19:45:44.626837Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Inflammatory abnormality of the skin
 type: phenotype
-updated: '2026-02-08T19:29:31.740684Z'
+updated: '2026-02-08T19:45:44.626837Z'
 ---
 
 # Inflammatory abnormality of the skin

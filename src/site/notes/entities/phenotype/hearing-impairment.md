@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.740121Z'
+created: '2026-02-08T19:45:44.626184Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Hearing impairment
 type: phenotype
-updated: '2026-02-08T19:29:31.740121Z'
+updated: '2026-02-08T19:45:44.626184Z'
 ---
 
 # Hearing impairment

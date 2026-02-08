@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.639619Z'
+created: '2026-02-08T19:45:44.515077Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - primekg
 title: Clozapine
 type: drug
-updated: '2026-02-08T19:29:31.639619Z'
+updated: '2026-02-08T19:45:44.515077Z'
 ---
 
 # Clozapine

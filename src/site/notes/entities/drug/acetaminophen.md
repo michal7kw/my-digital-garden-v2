@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.636618Z'
+created: '2026-02-08T19:45:44.511900Z'
 description: Analgesic and antipyretic with minimal anti-inflammatory effect. First-line
   for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most
   common cause of acute liver failure.
@@ -16,7 +16,7 @@ tags:
 - prescription
 title: Acetaminophen
 type: drug
-updated: '2026-02-08T19:29:31.636618Z'
+updated: '2026-02-08T19:45:44.511900Z'
 ---
 
 # Acetaminophen

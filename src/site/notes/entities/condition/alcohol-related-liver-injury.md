@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.588884Z'
+created: '2026-02-08T19:45:44.458789Z'
 description: A spectrum of liver damage resulting from excessive alcohol consumption,
   ranging from fatty liver to cirrhosis.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Alcohol-Related Liver Injury
 type: condition
-updated: '2026-02-08T19:29:31.588884Z'
+updated: '2026-02-08T19:45:44.458789Z'
 ---
 
 # Alcohol-Related Liver Injury

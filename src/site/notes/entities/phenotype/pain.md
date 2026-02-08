@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.742384Z'
+created: '2026-02-08T19:45:44.628717Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -11,7 +11,7 @@ tags:
 - primekg
 title: Pain
 type: phenotype
-updated: '2026-02-08T19:29:31.742384Z'
+updated: '2026-02-08T19:45:44.628717Z'
 ---
 
 # Pain

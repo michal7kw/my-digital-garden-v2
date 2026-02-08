@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.563107Z'
+created: '2026-02-08T19:45:44.430110Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Folate
 type: biomarker
-updated: '2026-02-08T19:29:31.563107Z'
+updated: '2026-02-08T19:45:44.430110Z'
 ---
 
 # Folate

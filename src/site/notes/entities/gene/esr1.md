@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.655819Z'
+created: '2026-02-08T19:45:44.532462Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 - primekg
 title: ESR1
 type: gene
-updated: '2026-02-08T19:29:31.655819Z'
+updated: '2026-02-08T19:45:44.532462Z'
 ---
 
 # "ESR1"

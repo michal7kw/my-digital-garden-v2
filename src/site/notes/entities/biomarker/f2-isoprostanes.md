@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.562465Z'
+created: '2026-02-08T19:45:44.429407Z'
 description: F2-Isoprostanes are prostaglandin-like compounds formed by free radical-mediated
   peroxidation of arachidonic acid. They are considered the gold standard biomarker
   of in vivo oxidative stress and lipid peroxidation.
@@ -12,7 +12,7 @@ tags:
 - biomarker
 title: F2 Isoprostanes
 type: biomarker
-updated: '2026-02-08T19:29:31.562465Z'
+updated: '2026-02-08T19:45:44.429407Z'
 ---
 
 # F2 Isoprostanes

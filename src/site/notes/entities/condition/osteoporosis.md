@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.619930Z'
+created: '2026-02-08T19:45:44.493127Z'
 description: A chronic condition characterized by decreased bone mass and deterioration
   of bone tissue, making bones fragile and more likely to fracture.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Osteoporosis
 type: condition
-updated: '2026-02-08T19:29:31.619930Z'
+updated: '2026-02-08T19:45:44.493127Z'
 ---
 
 # Osteoporosis

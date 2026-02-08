@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.769400Z'
+created: '2026-02-08T19:45:44.656660Z'
 description: Supplemental form of the sleep hormone melatonin. Supports sleep onset,
   jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - hormone
 title: Melatonin Supplement
 type: supplement
-updated: '2026-02-08T19:29:31.769400Z'
+updated: '2026-02-08T19:45:44.656660Z'
 ---
 
 # Melatonin Supplement

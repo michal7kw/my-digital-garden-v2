@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.577845Z'
+created: '2026-02-08T19:45:44.446661Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Total T3
 type: biomarker
-updated: '2026-02-08T19:29:31.577845Z'
+updated: '2026-02-08T19:45:44.446661Z'
 ---
 
 # Total T3

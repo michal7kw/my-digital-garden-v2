@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.667389Z'
+created: '2026-02-08T19:45:44.545219Z'
 description: Tested twice a year The appearance of urine—its color, clarity, and presence
   of foam—can provide simple but valuable clues about hydration, diet, and overall
   metabolic balance. Possible symptoms CLOUDY URINE FOAMY URINE DARK URINE PINK OR
@@ -13,7 +13,7 @@ tags:
 - labtest
 title: appearance_urine
 type: labtest
-updated: '2026-02-08T19:29:31.667389Z'
+updated: '2026-02-08T19:45:44.545219Z'
 ---
 
 # Appearance, Urine

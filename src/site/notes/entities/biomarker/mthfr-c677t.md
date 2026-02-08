@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.570441Z'
+created: '2026-02-08T19:45:44.438318Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Mthfr C677T
 type: biomarker
-updated: '2026-02-08T19:29:31.570441Z'
+updated: '2026-02-08T19:45:44.438318Z'
 ---
 
 # Mthfr C677T

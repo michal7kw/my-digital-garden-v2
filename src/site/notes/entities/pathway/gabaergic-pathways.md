@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.727655Z'
+created: '2026-02-08T19:45:44.612106Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: GABAergic Pathways
 type: pathway
-updated: '2026-02-08T19:29:31.727655Z'
+updated: '2026-02-08T19:45:44.612106Z'
 ---
 
 # GABAergic Pathways

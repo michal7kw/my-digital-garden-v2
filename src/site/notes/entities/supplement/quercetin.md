@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.771670Z'
+created: '2026-02-08T19:45:44.659061Z'
 description: Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic
   properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast
   cell degranulation.
@@ -17,7 +17,7 @@ tags:
 - allergy
 title: Quercetin
 type: supplement
-updated: '2026-02-08T19:29:31.771670Z'
+updated: '2026-02-08T19:45:44.659061Z'
 ---
 
 # Quercetin

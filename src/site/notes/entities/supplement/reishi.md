@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.771894Z'
+created: '2026-02-08T19:45:44.659296Z'
 description: The 'mushroom of immortality' in traditional Chinese medicine. Powerful
   immune modulator, adaptogen, and sleep supporter. Contains beta-glucans and triterpenes
   with calming and anti-cancer properties.
@@ -18,7 +18,7 @@ tags:
 - stress
 title: Reishi
 type: supplement
-updated: '2026-02-08T19:29:31.771894Z'
+updated: '2026-02-08T19:45:44.659296Z'
 ---
 
 # Reishi

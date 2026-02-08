@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.722874Z'
+created: '2026-02-08T19:45:44.606920Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Subthalamic Nucleus
 type: organ
-updated: '2026-02-08T19:29:31.722874Z'
+updated: '2026-02-08T19:45:44.606920Z'
 ---
 
 # Subthalamic Nucleus (STN)

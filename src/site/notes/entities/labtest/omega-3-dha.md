@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.694091Z'
+created: '2026-02-08T19:45:44.574958Z'
 description: 'oh-MAY-guh three: D-H-A Docosahexaenoic acid (DHA) is a long-chain omega-3
   fatty acid essential for brain, eye, and nervous system function. It supports cognitive
   and visual health and helps maintain the structure and flexibility of cell membranes.
@@ -14,7 +14,7 @@ tags:
 - labtest
 title: omega_3_dha
 type: labtest
-updated: '2026-02-08T19:29:31.694091Z'
+updated: '2026-02-08T19:45:44.574958Z'
 ---
 
 # Omega-3: DHA

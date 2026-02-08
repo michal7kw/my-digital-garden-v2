@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.725941Z'
+created: '2026-02-08T19:45:44.610109Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: Cholinergic Basal Forebrain Pathways
 type: pathway
-updated: '2026-02-08T19:29:31.725941Z'
+updated: '2026-02-08T19:45:44.610109Z'
 ---
 
 # Cholinergic Basal Forebrain Pathways

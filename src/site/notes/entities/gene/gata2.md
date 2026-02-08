@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.656568Z'
+created: '2026-02-08T19:45:44.533244Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: GATA2
 type: gene
-updated: '2026-02-08T19:29:31.656568Z'
+updated: '2026-02-08T19:45:44.533244Z'
 ---
 
 # "GATA2"

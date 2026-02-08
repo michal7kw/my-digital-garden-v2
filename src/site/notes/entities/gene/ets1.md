@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.656043Z'
+created: '2026-02-08T19:45:44.532678Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: ETS1
 type: gene
-updated: '2026-02-08T19:29:31.656043Z'
+updated: '2026-02-08T19:45:44.532678Z'
 ---
 
 # "ETS1"

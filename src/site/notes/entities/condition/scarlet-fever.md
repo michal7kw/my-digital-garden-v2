@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.629571Z'
+created: '2026-02-08T19:45:44.504172Z'
 description: An infectious bacterial illness characterized by a bright red rash, sore
   throat, and fever, caused by Group A Streptococcus.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - pediatric
 title: Scarlet Fever
 type: condition
-updated: '2026-02-08T19:29:31.629571Z'
+updated: '2026-02-08T19:45:44.504172Z'
 ---
 
 # Scarlet Fever

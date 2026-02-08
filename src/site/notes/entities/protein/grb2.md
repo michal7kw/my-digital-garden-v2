@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.751764Z'
+created: '2026-02-08T19:45:44.639085Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: GRB2
 type: protein
-updated: '2026-02-08T19:29:31.751764Z'
+updated: '2026-02-08T19:45:44.639085Z'
 ---
 
 # GRB2

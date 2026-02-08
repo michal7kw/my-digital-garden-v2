@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.737506Z'
+created: '2026-02-08T19:45:44.623181Z'
 description: Abnormal accumulation of fluid in tissues causing swelling.
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Edema
 type: phenotype
-updated: '2026-02-08T19:29:31.737506Z'
+updated: '2026-02-08T19:45:44.623181Z'
 ---
 
 # Edema

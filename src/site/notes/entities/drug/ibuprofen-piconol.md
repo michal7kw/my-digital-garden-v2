@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.641696Z'
+created: '2026-02-08T19:45:44.517282Z'
 description: A topical derivative of ibuprofen used primarily for the treatment of
   acne vulgaris and skin inflammation.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - acne
 title: Ibuprofen Piconol
 type: drug
-updated: '2026-02-08T19:29:31.641696Z'
+updated: '2026-02-08T19:45:44.517282Z'
 ---
 
 # Ibuprofen Piconol

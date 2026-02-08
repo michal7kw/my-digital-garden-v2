@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.583820Z'
+created: '2026-02-08T19:45:44.453121Z'
 description: A cluster of metabolic abnormalities that increase cardiovascular and
   diabetes risk. Requires 3+ of 5 criteria.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - inflammation
 title: Metabolic Syndrome
 type: clinicalpattern
-updated: '2026-02-08T19:29:31.583820Z'
+updated: '2026-02-08T19:45:44.453121Z'
 ---
 
 # Metabolic Syndrome

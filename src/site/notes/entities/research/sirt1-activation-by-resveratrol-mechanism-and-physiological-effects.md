@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.761526Z'
+created: '2026-02-08T19:45:44.647319Z'
 description: This comprehensive mechanistic review elucidates how resveratrol activates
   SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha,
   mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical
@@ -21,63 +21,101 @@ tags:
 - longevity
 title: 'SIRT1 activation by resveratrol: mechanism and physiological effects'
 type: research
-updated: '2026-02-08T19:29:31.761526Z'
+updated: '2026-02-08T19:45:44.647319Z'
 ---
 
-# SIRT1 activation by resveratrol: mechanism and physiological effects 
+# SIRT1 activation by resveratrol: mechanism and physiological effects
+
 ## Study Information
-**Authors**: Price NL, Gomes AP, Ling AJ, Duarte FV, Martin-Montalvo A, North BJ, Agarwal B, Ye L, Ramadori G, Teodoro JS, Hubbard BP, Varela AT, Davis JG, Varamini B, Hafber A, Moaddel R, Rolo AP, Coppari R, Palmeira CM, de Cabo R, Baur JA, Sinclair DA**Journal**: Cell Metabolism
+**Authors**: Price NL, Gomes AP, Ling AJ, Duarte FV, Martin-Montalvo A, North BJ, Agarwal B, Ye L, Ramadori G, Teodoro JS, Hubbard BP, Varela AT, Davis JG, Varamini B, Hafber A, Moaddel R, Rolo AP, Coppari R, Palmeira CM, de Cabo R, Baur JA, Sinclair DA
+**Journal**: Cell Metabolism
 **Publication Date**: 2013-03-15
 **Type**: Mechanistic Review
-**Study Design**: Mechanistic Research (In Vivo/In Vitro)**Citations**: 1547**DOI**: [10.1016/j.cmet.2013.02.011](https://doi.org/10.1016/j.cmet.2013.02.011)**PMID**: [23471411](https://pubmed.ncbi.nlm.nih.gov/23471411/)**PMC**: [PMC3545644](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545644/)**Semantic Scholar**: [View](https://www.semanticscholar.org/paper/PMID:23471411)
+**Study Design**: Mechanistic Research (In Vivo/In Vitro)
+**Evidence Level**: 2a
+**Citations**: 1547
+**DOI**: [10.1016/j.cmet.2013.02.011](https://doi.org/10.1016/j.cmet.2013.02.011)
+**PMID**: [23471411](https://pubmed.ncbi.nlm.nih.gov/23471411/)
+**PMC**: [PMC3545644](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3545644/)
+**Semantic Scholar**: [View](https://www.semanticscholar.org/paper/PMID:23471411)
+
 ## Abstract
-This comprehensive mechanistic review elucidates how resveratrol activates SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha, mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical evidence for resveratrol's role in mimicking caloric restriction benefits through the SIRT1/PGC-1alpha axis. 
+This comprehensive mechanistic review elucidates how resveratrol activates SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha, mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical evidence for resveratrol's role in mimicking caloric restriction benefits through the SIRT1/PGC-1alpha axis.
+
 ## Keywords
 resveratrol, SIRT1, PGC-1alpha, mitochondrial biogenesis, caloric restriction, NAD+, sirtuins, aging
+
 <!-- NEO4J_CONTENT_START -->
 ## Relationships
 No relationships found.
 <!-- NEO4J_CONTENT_END -->
+## Relationships
+STUDIES::[[Resveratrol]] - Primary compound investigated
+ACTIVATES::[[SIRT1]] - Direct allosteric activation mechanism demonstrated
+ACTIVATES::[[PGC-1alpha]] - Downstream target via SIRT1-mediated deacetylation
+INCREASES::[[NAD+]] - Required cofactor for SIRT1 activity
+AFFECTS::[[Mitochondria]] - Enhanced biogenesis and function
+ACTIVATES::[[NRF2]] - Downstream transcription factor
+ACTIVATES::[[TFAM]] - Mitochondrial transcription factor activation
+RELATED_TO::[[AMPK]] - Cross-talk with energy sensing pathway
+AFFECTS::[[Muscle]] - Target tissue for metabolic effects
+AFFECTS::[[Liver]] - Hepatic metabolic improvements
+
 ## Methodology
 ```yaml
-'{"design": "Combined in vitro biochemistry, cell culture, and mouse models", "models_used":
-  ["HEK293T cells", "C2C12 myotubes", "Primary hepatocytes", "SIRT1 knockout mice",
-  "Diet-induced obese mice"], "techniques": ["Fluorescent deacetylation assays", "Western
-  blotting", "Metabolic cage analysis", "Mitochondrial respiration (Seahorse)", "Gene
-  expression profiling"]}'
+design: Combined in vitro biochemistry, cell culture, and mouse models
+models_used:
+  - HEK293T cells
+  - C2C12 myotubes
+  - Primary hepatocytes
+  - SIRT1 knockout mice
+  - Diet-induced obese mice
+techniques:
+  - Fluorescent deacetylation assays
+  - Western blotting
+  - Metabolic cage analysis
+  - Mitochondrial respiration (Seahorse)
+  - Gene expression profiling
 ```
 
 ### Study Design
-- **Duration**: Variable (acute to 15 weeks)#### Population Characteristics
+- **Duration**: Variable (acute to 15 weeks)
+#### Population Characteristics
 ```yaml
-'{"dose_range": "10-400 mg/kg resveratrol (mouse studies)", "in_vitro": "Multiple
-  cell lines including muscle and liver", "in_vivo": "C57BL/6J mice and SIRT1 knockout
-  mice"}'
+in_vitro: Multiple cell lines including muscle and liver
+in_vivo: C57BL/6J mice and SIRT1 knockout mice
+dose_range: 10-400 mg/kg resveratrol (mouse studies)
 ```
 
 ## Results
 ### Key Findings
 ```yaml
-'{"primary": [{"finding": "Activation is substrate-specific, not universal", "name":
-  "SIRT1 activation mechanism", "result": "Resveratrol binds SIRT1 N-terminus, requires
-  specific substrate sequence"}, {"name": "PGC-1alpha deacetylation", "p_value": "<0.001",
-  "result": "Resveratrol increases PGC-1alpha deacetylation via SIRT1"}], "secondary":
-  [{"name": "Mitochondrial biogenesis markers", "result": "Increased expression of
-  NRF1, TFAM, cytochrome c"}, {"name": "Oxygen consumption", "result": "Enhanced mitochondrial
-  respiration"}, {"name": "Metabolic improvements", "result": "Improved glucose tolerance
-  in obese mice"}]}'
+primary:
+  - name: SIRT1 activation mechanism
+    result: Resveratrol binds SIRT1 N-terminus, requires specific substrate sequence
+    finding: Activation is substrate-specific, not universal
+  - name: PGC-1alpha deacetylation
+    result: Resveratrol increases PGC-1alpha deacetylation via SIRT1
+    p_value: <0.001
+secondary:
+  - name: Mitochondrial biogenesis markers
+    result: Increased expression of NRF1, TFAM, cytochrome c
+  - name: Oxygen consumption
+    result: Enhanced mitochondrial respiration
+  - name: Metabolic improvements
+    result: Improved glucose tolerance in obese mice
 ```
 
 ### Statistical Analysis
 #### Statistical Significance
 ```yaml
-'{"mitochondrial_content": "p < 0.01 for mtDNA copy number", "pgc1a_deacetylation":
-  "p < 0.001 vs vehicle"}'
+pgc1a_deacetylation: p < 0.001 vs vehicle
+mitochondrial_content: p < 0.01 for mtDNA copy number
 ```
 #### Effect Sizes
 ```yaml
-'{"mitochondrial_biogenesis": "30-50% increase in mitochondrial markers", "sirt1_activity":
-  "2-5 fold increase depending on substrate"}'
+sirt1_activity: 2-5 fold increase depending on substrate
+mitochondrial_biogenesis: 30-50% increase in mitochondrial markers
 ```
 
 ## Limitations
@@ -104,4 +142,5 @@ Core SIRT1 activation mechanism replicated; some metabolic effects contested in 
 - Lagouge M et al. Cell. 2006;127(6):1109-1122. PMID: 17112576
 
 ## Source Data
-- **Source System:** PubMed - **Last Modified in Source:** 2026-01-25T21:22:09.371022+00:00
+- **Source System:** PubMed
+- **Last Modified in Source:** 2025-01-22

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.659877Z'
+created: '2026-02-08T19:45:44.536903Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
@@ -19,7 +19,7 @@ tags:
 - anti_inflammatory
 title: Exercise
 type: intervention
-updated: '2026-02-08T19:29:31.659877Z'
+updated: '2026-02-08T19:45:44.536903Z'
 ---
 
 # Exercise

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.603097Z'
+created: '2026-02-08T19:45:44.475034Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - condition
 title: Fever
 type: condition
-updated: '2026-02-08T19:29:31.603097Z'
+updated: '2026-02-08T19:45:44.475034Z'
 ---
 
 # Fever

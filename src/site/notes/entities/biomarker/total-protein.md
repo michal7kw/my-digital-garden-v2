@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.577615Z'
+created: '2026-02-08T19:45:44.446412Z'
 description: A measurement of the total amount of albumin and globulin in the serum,
   reflecting nutritional status and organ function.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - kidney_function
 title: Total Protein
 type: biomarker
-updated: '2026-02-08T19:29:31.577615Z'
+updated: '2026-02-08T19:45:44.446412Z'
 ---
 
 # Total Protein

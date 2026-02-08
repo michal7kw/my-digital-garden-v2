@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.637638Z'
+created: '2026-02-08T19:45:44.513085Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet
   effects. Used for pain, fever, inflammation, and cardiovascular protection. One
   of the most widely used medications worldwide.
@@ -17,7 +17,7 @@ tags:
 - otc
 title: Aspirin
 type: drug
-updated: '2026-02-08T19:29:31.637638Z'
+updated: '2026-02-08T19:45:44.513085Z'
 ---
 
 # Aspirin

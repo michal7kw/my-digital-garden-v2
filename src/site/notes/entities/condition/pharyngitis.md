@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.623802Z'
+created: '2026-02-08T19:45:44.497580Z'
 description: Inflammation of the pharynx, causing a sore throat.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 - acute
 title: Pharyngitis
 type: condition
-updated: '2026-02-08T19:29:31.623802Z'
+updated: '2026-02-08T19:45:44.497580Z'
 ---
 
 # Pharyngitis

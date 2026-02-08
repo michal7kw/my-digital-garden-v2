@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.733074Z'
+created: '2026-02-08T19:45:44.618090Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: Serotonergic Raphe Pathways
 type: pathway
-updated: '2026-02-08T19:29:31.733074Z'
+updated: '2026-02-08T19:45:44.618090Z'
 ---
 
 # Serotonergic Raphe Pathways

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.616600Z'
+created: '2026-02-08T19:45:44.489739Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - condition
 title: Myalgia
 type: condition
-updated: '2026-02-08T19:29:31.616600Z'
+updated: '2026-02-08T19:45:44.489739Z'
 ---
 
 # Myalgia

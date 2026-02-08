@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.580621Z'
+created: '2026-02-08T19:45:44.449513Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Vldl
 type: biomarker
-updated: '2026-02-08T19:29:31.580621Z'
+updated: '2026-02-08T19:45:44.449513Z'
 ---
 
 # Vldl

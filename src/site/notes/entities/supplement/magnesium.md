@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.768894Z'
+created: '2026-02-08T19:45:44.656099Z'
 description: Essential mineral cofactor involved in over 300 enzymatic reactions,
   including energy production, protein synthesis, blood glucose control, and blood
   pressure regulation. One of the most common nutritional deficiencies in Western
@@ -18,7 +18,7 @@ tags:
 - sleep
 title: Magnesium
 type: supplement
-updated: '2026-02-08T19:29:31.768894Z'
+updated: '2026-02-08T19:45:44.656099Z'
 ---
 
 # Magnesium

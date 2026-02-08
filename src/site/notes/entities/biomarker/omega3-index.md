@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.571903Z'
+created: '2026-02-08T19:45:44.439832Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Omega3 Index
 type: biomarker
-updated: '2026-02-08T19:29:31.571903Z'
+updated: '2026-02-08T19:45:44.439832Z'
 ---
 
 # Omega3 Index

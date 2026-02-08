@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.760153Z'
+created: '2026-02-08T19:45:44.645665Z'
 description: This comprehensive review examines alpha-lipoic acid's (ALA) dual role
   as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms
   in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione,
@@ -22,99 +22,61 @@ tags:
 title: Alpha-lipoic acid as a biological antioxidant and its role in mitochondrial
   function
 type: research
-updated: '2026-02-08T19:29:31.760153Z'
+updated: '2026-02-08T19:45:44.645665Z'
 ---
 
-# Alpha-lipoic acid as a biological antioxidant and its role in mitochondrial function
-
+# Alpha-lipoic acid as a biological antioxidant and its role in mitochondrial function 
 ## Study Information
-**Authors**: Salehi B, Yılmaz YB, Antika G, Tumer TB, Mahomoodally MF, Lobine D, Akram M, Riaz M, Capanoglu E, Sharopov F, Martins N, Cho WC, Sharifi-Rad J
-**Journal**: Free Radical Biology and Medicine
+**Authors**: Salehi B, Yılmaz YB, Antika G, Tumer TB, Mahomoodally MF, Lobine D, Akram M, Riaz M, Capanoglu E, Sharopov F, Martins N, Cho WC, Sharifi-Rad J**Journal**: Free Radical Biology and Medicine
 **Publication Date**: 2019-06-12
 **Type**: Systematic Review
-**Study Design**: Systematic Review
-**Evidence Level**: 2a
-**Citations**: 487
-**DOI**: [10.1016/j.freeradbiomed.2019.06.021](https://doi.org/10.1016/j.freeradbiomed.2019.06.021)
-**PMID**: [31197632](https://pubmed.ncbi.nlm.nih.gov/31197632/)
-**Semantic Scholar**: [View](https://www.semanticscholar.org/paper/PMID:31197632)
-
+**Study Design**: Systematic Review**Citations**: 487**DOI**: [10.1016/j.freeradbiomed.2019.06.021](https://doi.org/10.1016/j.freeradbiomed.2019.06.021)**PMID**: [31197632](https://pubmed.ncbi.nlm.nih.gov/31197632/)**Semantic Scholar**: [View](https://www.semanticscholar.org/paper/PMID:31197632)
 ## Abstract
-This comprehensive review examines alpha-lipoic acid's (ALA) dual role as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione, vitamin C, vitamin E), and its therapeutic potential in oxidative stress-related conditions including diabetic neuropathy and neurodegenerative diseases.
-
+This comprehensive review examines alpha-lipoic acid's (ALA) dual role as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione, vitamin C, vitamin E), and its therapeutic potential in oxidative stress-related conditions including diabetic neuropathy and neurodegenerative diseases. 
 ## Keywords
 alpha-lipoic acid, mitochondria, antioxidant, oxidative stress, glutathione, diabetic neuropathy, bioenergetics, Krebs cycle
-
+<!-- NEO4J_CONTENT_START -->
 ## Relationships
-STUDIES::[[Alpha Lipoic Acid]] - Primary compound reviewed
-AFFECTS::[[Mitochondria]] - Essential cofactor for mitochondrial enzymes
-INCREASES::[[Glutathione]] - Regenerates reduced glutathione (GSH)
-INCREASES::[[Acetyl-CoA]] - Via pyruvate dehydrogenase complex activation
-AFFECTS::[[Pyruvate]] - Pyruvate dehydrogenase cofactor function
-ACTIVATES::[[AMPK]] - Enhances insulin sensitivity pathway
-TREATS::[[Peripheral Neuropathy]] - Clinical application (diabetic neuropathy)
-RELATED_TO::[[Diabetes]] - Metabolic condition with therapeutic evidence
-AFFECTS::[[Brain]] - Neuroprotective effects demonstrated
-SYNERGIZES_WITH::[[Vitamin C]] - Antioxidant network recycling
-SYNERGIZES_WITH::[[Vitamin E]] - Antioxidant network recycling
-INCREASES::[[Coenzyme Q10]] - Regenerates oxidized CoQ10
-
+No relationships found.
+<!-- NEO4J_CONTENT_END -->
 ## Methodology
 ```yaml
-design: Systematic literature review
-databases_searched:
-  - PubMed
-  - Scopus
-  - Web of Science
-years_covered: 1950-2019
-study_types_included:
-  - RCTs
-  - Observational studies
-  - Mechanistic studies
-  - Animal models
+'{"databases_searched": ["PubMed", "Scopus", "Web of Science"], "design": "Systematic
+  literature review", "study_types_included": ["RCTs", "Observational studies", "Mechanistic
+  studies", "Animal models"], "years_covered": "1950-2019"}'
 ```
 
 ### Study Design
-#### Population Characteristics
+- **Duration**: N/A (Review)#### Population Characteristics
 ```yaml
-studies_reviewed: 150+ primary research articles
-clinical_conditions:
-  - Diabetic neuropathy
-  - Neurodegenerative diseases
-  - Metabolic syndrome
-  - Cancer
+'{"clinical_conditions": ["Diabetic neuropathy", "Neurodegenerative diseases", "Metabolic
+  syndrome", "Cancer"], "studies_reviewed": "150+ primary research articles"}'
 ```
 
 ## Results
 ### Key Findings
 ```yaml
-primary:
-  - name: Mitochondrial cofactor function
-    finding: ALA is essential cofactor for pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase
-    mechanism: Facilitates acetyl-CoA production for Krebs cycle
-  - name: Antioxidant network
-    finding: ALA regenerates glutathione, vitamin C, vitamin E, and CoQ10
-    mechanism: Reduces oxidized forms back to active antioxidants
-secondary:
-  - name: Diabetic neuropathy efficacy
-    finding: 600-1800 mg/day improves neuropathic symptoms
-    evidence_level: Multiple RCTs support efficacy
-  - name: Glucose metabolism
-    finding: Enhances insulin sensitivity via AMPK activation
-  - name: Neuroprotection
-    finding: Reduces oxidative damage in brain mitochondria
+'{"primary": [{"finding": "ALA is essential cofactor for pyruvate dehydrogenase and
+  alpha-ketoglutarate dehydrogenase", "mechanism": "Facilitates acetyl-CoA production
+  for Krebs cycle", "name": "Mitochondrial cofactor function"}, {"finding": "ALA regenerates
+  glutathione, vitamin C, vitamin E, and CoQ10", "mechanism": "Reduces oxidized forms
+  back to active antioxidants", "name": "Antioxidant network"}], "secondary": [{"evidence_level":
+  "Multiple RCTs support efficacy", "finding": "600-1800 mg/day improves neuropathic
+  symptoms", "name": "Diabetic neuropathy efficacy"}, {"finding": "Enhances insulin
+  sensitivity via AMPK activation", "name": "Glucose metabolism"}, {"finding": "Reduces
+  oxidative damage in brain mitochondria", "name": "Neuroprotection"}]}'
 ```
 
 ### Statistical Analysis
 #### Statistical Significance
 ```yaml
-neuropathy_pain: Significant improvement (p < 0.05) in multiple RCTs
-insulin_sensitivity: Significant improvement (p < 0.01) in pooled analyses
+'{"insulin_sensitivity": "Significant improvement (p < 0.01) in pooled analyses",
+  "neuropathy_pain": "Significant improvement (p < 0.05) in multiple RCTs"}'
 ```
 #### Effect Sizes
 ```yaml
-neuropathy_symptom_score: 30-50% improvement vs placebo
-glutathione_increase: 30-70% increase in tissue GSH levels
+'{"glutathione_increase": "30-70% increase in tissue GSH levels", "neuropathy_symptom_score":
+  "30-50% improvement vs placebo"}'
 ```
 
 ## Limitations
@@ -139,5 +101,4 @@ Mitochondrial mechanisms well-established; clinical efficacy in diabetic neuropa
 - Shay KP et al. Biochim Biophys Acta. 2009;1790(10):1149-1160. PMID: 19664690
 
 ## Source Data
-- **Source System:** PubMed
-- **Last Modified in Source:** 2025-01-22
+- **Source System:** PubMed - **Last Modified in Source:** 2026-01-25T21:22:09.438227+00:00

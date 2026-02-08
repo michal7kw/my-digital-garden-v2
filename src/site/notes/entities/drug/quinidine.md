@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.648608Z'
+created: '2026-02-08T19:45:44.524694Z'
 description: Class IA antiarrhythmic agent used for atrial and ventricular arrhythmias.
   Also an antimalarial agent.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - primekg
 title: Quinidine
 type: drug
-updated: '2026-02-08T19:29:31.648608Z'
+updated: '2026-02-08T19:45:44.524694Z'
 ---
 
 # Quinidine

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.569821Z'
+created: '2026-02-08T19:45:44.437652Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Mch
 type: biomarker
-updated: '2026-02-08T19:29:31.569821Z'
+updated: '2026-02-08T19:45:44.437652Z'
 ---
 
 # Mch

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.774775Z'
+created: '2026-02-08T19:45:44.662503Z'
 description: Essential water-soluble vitamin and powerful antioxidant. Supports immune
   function, collagen synthesis, iron absorption, and stress response. Humans cannot
   synthesize it and must obtain it from diet or supplements.
@@ -17,7 +17,7 @@ tags:
 - adrenal
 title: Vitamin C
 type: supplement
-updated: '2026-02-08T19:29:31.774775Z'
+updated: '2026-02-08T19:45:44.662503Z'
 ---
 
 # Vitamin C

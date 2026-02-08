@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.717013Z'
+created: '2026-02-08T19:45:44.600517Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Globus Pallidus
 type: organ
-updated: '2026-02-08T19:29:31.717013Z'
+updated: '2026-02-08T19:45:44.600517Z'
 ---
 
 # Globus Pallidus

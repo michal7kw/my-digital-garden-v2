@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.689577Z'
+created: '2026-02-08T19:45:44.570194Z'
 description: Magnesium is an essential mineral involved in hundreds of processes in
   the body, including building strong bones, maintaining a steady heart rhythm, supporting
   muscle function, and producing energy. Nearly half of U.S. adults don't get enough
@@ -17,7 +17,7 @@ tags:
 - function-health
 title: magnesium
 type: labtest
-updated: '2026-02-08T19:29:31.689577Z'
+updated: '2026-02-08T19:45:44.570194Z'
 ---
 
 # Magnesium

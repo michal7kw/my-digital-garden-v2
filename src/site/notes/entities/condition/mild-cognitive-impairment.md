@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.615305Z'
+created: '2026-02-08T19:45:44.488427Z'
 description: An intermediate stage between normal age-related cognitive decline and
   dementia. Represents increased risk for progression to Alzheimer's disease or other
   dementias, but may remain stable or improve.
@@ -16,7 +16,7 @@ tags:
 - prodromal
 title: Mild Cognitive Impairment
 type: condition
-updated: '2026-02-08T19:29:31.615305Z'
+updated: '2026-02-08T19:45:44.488427Z'
 ---
 
 # Mild Cognitive Impairment

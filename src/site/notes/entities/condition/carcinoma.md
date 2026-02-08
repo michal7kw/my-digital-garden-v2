@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.594361Z'
+created: '2026-02-08T19:45:44.465103Z'
 description: A type of cancer that starts in cells that make up the skin or the tissue
   lining organs, such as the liver or kidneys.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - pathology
 title: Carcinoma
 type: condition
-updated: '2026-02-08T19:29:31.594361Z'
+updated: '2026-02-08T19:45:44.465103Z'
 ---
 
 # Carcinoma

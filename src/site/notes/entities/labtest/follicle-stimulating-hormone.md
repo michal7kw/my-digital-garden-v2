@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.677747Z'
+created: '2026-02-08T19:45:44.556857Z'
 description: Follicle-stimulating hormone (FSH) is made by the pituitary gland in
   the brain. In females, it regulates the menstrual cycle and stimulates the ovaries
   to grow and mature eggs for ovulation. Measuring FSH can provide insight into fertility,
@@ -16,7 +16,7 @@ tags:
 - labtest
 title: follicle_stimulating_hormone
 type: labtest
-updated: '2026-02-08T19:29:31.677747Z'
+updated: '2026-02-08T19:45:44.556857Z'
 ---
 
 # Follicle Stimulating Hormone

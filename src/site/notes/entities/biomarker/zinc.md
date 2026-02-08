@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.580930Z'
+created: '2026-02-08T19:45:44.449844Z'
 description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
   for immune function, wound healing, testosterone production, and thyroid function.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 - biomarker
 title: Zinc
 type: biomarker
-updated: '2026-02-08T19:29:31.580930Z'
+updated: '2026-02-08T19:45:44.449844Z'
 ---
 
 # Zinc

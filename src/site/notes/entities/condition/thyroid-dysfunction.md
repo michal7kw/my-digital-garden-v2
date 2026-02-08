@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.633069Z'
+created: '2026-02-08T19:45:44.507956Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - condition
 title: Thyroid Dysfunction
 type: condition
-updated: '2026-02-08T19:29:31.633069Z'
+updated: '2026-02-08T19:45:44.507956Z'
 ---
 
 # Thyroid Dysfunction

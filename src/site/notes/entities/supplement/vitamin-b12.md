@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.774242Z'
+created: '2026-02-08T19:45:44.661903Z'
 description: Essential water-soluble vitamin critical for nerve function, DNA synthesis,
   red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans
   and older adults.
@@ -17,7 +17,7 @@ tags:
 - energy
 title: Vitamin B12
 type: supplement
-updated: '2026-02-08T19:29:31.774242Z'
+updated: '2026-02-08T19:45:44.661903Z'
 ---
 
 # Vitamin B12

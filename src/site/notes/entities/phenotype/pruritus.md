@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.742732Z'
+created: '2026-02-08T19:45:44.629106Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Pruritus
 type: phenotype
-updated: '2026-02-08T19:29:31.742732Z'
+updated: '2026-02-08T19:45:44.629106Z'
 ---
 
 # Pruritus

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.634043Z'
+created: '2026-02-08T19:45:44.509005Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - bacterial
 title: Urinary Tract Infection
 type: condition
-updated: '2026-02-08T19:29:31.634043Z'
+updated: '2026-02-08T19:45:44.509005Z'
 ---
 
 # Urinary Tract Infection

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.755221Z'
+created: '2026-02-08T19:45:44.642817Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: SUMO2
 type: protein
-updated: '2026-02-08T19:29:31.755221Z'
+updated: '2026-02-08T19:45:44.642817Z'
 ---
 
 # SUMO2

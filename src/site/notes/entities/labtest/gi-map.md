@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.678566Z'
+created: '2026-02-08T19:45:44.557743Z'
 description: Comprehensive stool DNA test for gut microbiome, pathogens, parasites,
   and digestive markers.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 - labtest
 title: gi_map
 type: labtest
-updated: '2026-02-08T19:29:31.678566Z'
+updated: '2026-02-08T19:45:44.557743Z'
 ---
 
 # GI-MAP (GI Microbial Assay Plus)

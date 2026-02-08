@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.773078Z'
+created: '2026-02-08T19:45:44.660598Z'
 description: A natural polyamine that induces autophagy and has been associated with
   increased lifespan and cardiovascular protection.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - cardiovascular
 title: Spermidine
 type: supplement
-updated: '2026-02-08T19:29:31.773078Z'
+updated: '2026-02-08T19:45:44.660598Z'
 ---
 
 # Spermidine

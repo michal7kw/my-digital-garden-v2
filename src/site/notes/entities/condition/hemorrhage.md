@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.606799Z'
+created: '2026-02-08T19:45:44.478958Z'
 description: The release of blood from a broken blood vessel, either inside or outside
   the body.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - emergency
 title: Hemorrhage
 type: condition
-updated: '2026-02-08T19:29:31.606799Z'
+updated: '2026-02-08T19:45:44.478958Z'
 ---
 
 # Hemorrhage

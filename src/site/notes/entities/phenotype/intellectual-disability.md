@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.741026Z'
+created: '2026-02-08T19:45:44.627229Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Intellectual disability
 type: phenotype
-updated: '2026-02-08T19:29:31.741026Z'
+updated: '2026-02-08T19:45:44.627229Z'
 ---
 
 # Intellectual disability

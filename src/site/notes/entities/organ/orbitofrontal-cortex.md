@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.719936Z'
+created: '2026-02-08T19:45:44.603810Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Orbitofrontal Cortex
 type: organ
-updated: '2026-02-08T19:29:31.719936Z'
+updated: '2026-02-08T19:45:44.603810Z'
 ---
 
 # Orbitofrontal Cortex (OFC)

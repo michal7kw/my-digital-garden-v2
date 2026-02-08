@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.735609Z'
+created: '2026-02-08T19:45:44.621060Z'
 description: Joint pain without signs of inflammation.
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Arthralgia
 type: phenotype
-updated: '2026-02-08T19:29:31.735609Z'
+updated: '2026-02-08T19:45:44.621060Z'
 ---
 
 # Arthralgia

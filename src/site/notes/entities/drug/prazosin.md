@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.645461Z'
+created: '2026-02-08T19:45:44.521313Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - drug
 title: PRAZOSIN
 type: drug
-updated: '2026-02-08T19:29:31.645461Z'
+updated: '2026-02-08T19:45:44.521313Z'
 ---
 
 # PRAZOSIN

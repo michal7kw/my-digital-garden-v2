@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.614486Z'
+created: '2026-02-08T19:45:44.487599Z'
 description: A natural biological process marking the end of a woman's reproductive
   years, defined as 12 consecutive months without a menstrual period.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Menopause
 type: condition
-updated: '2026-02-08T19:29:31.614486Z'
+updated: '2026-02-08T19:45:44.487599Z'
 ---
 
 # Menopause

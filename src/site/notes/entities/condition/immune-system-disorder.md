@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.608746Z'
+created: '2026-02-08T19:45:44.481105Z'
 description: A broad category of conditions where the immune system is either underactive
   (deficiency) or overactive (dysfunction/autoimmunity/allergy).
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 - function-health
 title: Immune System Disorder
 type: condition
-updated: '2026-02-08T19:29:31.608746Z'
+updated: '2026-02-08T19:45:44.481105Z'
 ---
 
 # Immune System Disorder

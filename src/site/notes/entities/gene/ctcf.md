@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.654606Z'
+created: '2026-02-08T19:45:44.531233Z'
 description: Encodes CCCTC-binding factor, a master regulator of chromatin architecture
   and gene expression.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - primekg
 title: CTCF
 type: gene
-updated: '2026-02-08T19:29:31.654606Z'
+updated: '2026-02-08T19:45:44.531233Z'
 ---
 
 # CTCF

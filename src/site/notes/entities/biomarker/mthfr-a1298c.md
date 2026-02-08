@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.570281Z'
+created: '2026-02-08T19:45:44.438152Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-02-08T19:29:31.570281Z'
+updated: '2026-02-08T19:45:44.438152Z'
 ---
 
 # Mthfr A1298C

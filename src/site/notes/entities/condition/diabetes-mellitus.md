@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.600382Z'
+created: '2026-02-08T19:45:44.472127Z'
 description: A group of metabolic disorders characterized by high blood sugar levels
   over a prolonged period, resulting from defects in insulin secretion, insulin action,
   or both.
@@ -15,7 +15,7 @@ tags:
 - chronic
 title: Diabetes Mellitus
 type: condition
-updated: '2026-02-08T19:29:31.600382Z'
+updated: '2026-02-08T19:45:44.472127Z'
 ---
 
 # Diabetes Mellitus

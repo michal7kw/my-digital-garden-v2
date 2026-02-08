@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.574738Z'
+created: '2026-02-08T19:45:44.443183Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Rbc
 type: biomarker
-updated: '2026-02-08T19:29:31.574738Z'
+updated: '2026-02-08T19:45:44.443183Z'
 ---
 
 # Rbc

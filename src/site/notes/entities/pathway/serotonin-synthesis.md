@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.733485Z'
+created: '2026-02-08T19:45:44.618551Z'
 description: The serotonin synthesis pathway converts the essential amino acid tryptophan
   to serotonin (5-HT) through two enzymatic steps, producing the neurotransmitter
   crucial for mood, sleep, appetite, and cognition.
@@ -16,7 +16,7 @@ tags:
 - indoleamine
 title: Serotonin Synthesis
 type: pathway
-updated: '2026-02-08T19:29:31.733485Z'
+updated: '2026-02-08T19:45:44.618551Z'
 ---
 
 # Serotonin Synthesis

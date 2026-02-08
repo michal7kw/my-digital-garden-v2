@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.731850Z'
+created: '2026-02-08T19:45:44.616701Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: Noradrenergic Locus Coeruleus Pathways
 type: pathway
-updated: '2026-02-08T19:29:31.731850Z'
+updated: '2026-02-08T19:45:44.616701Z'
 ---
 
 # Noradrenergic Locus Coeruleus Pathways

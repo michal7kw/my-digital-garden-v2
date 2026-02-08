@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.558443Z'
+created: '2026-02-08T19:45:44.425129Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Co2
 type: biomarker
-updated: '2026-02-08T19:29:31.558443Z'
+updated: '2026-02-08T19:45:44.425129Z'
 ---
 
 # Co2

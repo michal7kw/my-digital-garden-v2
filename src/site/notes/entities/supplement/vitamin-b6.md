@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.774475Z'
+created: '2026-02-08T19:45:44.662167Z'
 description: Essential water-soluble vitamin crucial for neurotransmitter synthesis,
   amino acid metabolism, and over 100 enzymatic reactions. The active form P5P bypasses
   liver conversion.
@@ -16,7 +16,7 @@ tags:
 - methylation
 title: Vitamin B6
 type: supplement
-updated: '2026-02-08T19:29:31.774475Z'
+updated: '2026-02-08T19:45:44.662167Z'
 ---
 
 # Vitamin B6

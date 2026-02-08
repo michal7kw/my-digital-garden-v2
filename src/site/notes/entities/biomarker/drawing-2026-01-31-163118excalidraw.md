@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.561102Z'
+created: '2026-02-08T19:45:44.428098Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -11,7 +11,7 @@ tags:
 - diagram
 title: Drawing 2026-01-31 16.31.18.excalidraw
 type: biomarker
-updated: '2026-02-08T19:29:31.561102Z'
+updated: '2026-02-08T19:45:44.428098Z'
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'

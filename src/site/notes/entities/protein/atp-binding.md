@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.747271Z'
+created: '2026-02-08T19:45:44.634184Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: ATP binding
 type: protein
-updated: '2026-02-08T19:29:31.747271Z'
+updated: '2026-02-08T19:45:44.634184Z'
 ---
 
 # ATP binding

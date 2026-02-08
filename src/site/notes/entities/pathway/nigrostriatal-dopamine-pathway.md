@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.731420Z'
+created: '2026-02-08T19:45:44.616243Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-02-08T19:29:31.731420Z'
+updated: '2026-02-08T19:45:44.616243Z'
 ---
 
 # Nigrostriatal Dopamine Pathway

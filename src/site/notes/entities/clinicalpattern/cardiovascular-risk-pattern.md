@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.582455Z'
+created: '2026-02-08T19:45:44.451598Z'
 description: Elevated cardiovascular disease risk based on lipid abnormalities, inflammation,
   and other markers.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - atherosclerosis
 title: Cardiovascular Risk Pattern
 type: clinicalpattern
-updated: '2026-02-08T19:29:31.582455Z'
+updated: '2026-02-08T19:45:44.451598Z'
 ---
 
 # Cardiovascular Risk Pattern

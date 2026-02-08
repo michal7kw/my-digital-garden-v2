@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.756678Z'
+created: '2026-02-08T19:45:44.644390Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: metal ion binding
 type: protein
-updated: '2026-02-08T19:29:31.756678Z'
+updated: '2026-02-08T19:45:44.644390Z'
 ---
 
 # metal ion binding

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.688773Z'
+created: '2026-02-08T19:45:44.569314Z'
 description: Luteinizing hormone (LH) is produced by the pituitary gland in the brain.
   In females, it helps regulate the menstrual cycle, triggers ovulation (the release
   of a mature egg), and supports early pregnancy by stimulating the ovaries to produce
@@ -16,7 +16,7 @@ tags:
 - labtest
 title: luteinizing_hormone
 type: labtest
-updated: '2026-02-08T19:29:31.688773Z'
+updated: '2026-02-08T19:45:44.569314Z'
 ---
 
 # Luteinizing Hormone

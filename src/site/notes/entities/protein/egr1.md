@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.750724Z'
+created: '2026-02-08T19:45:44.637907Z'
 description: Transcriptional regulator involved in differentiation, mitogenesis, and
   synaptic plasticity.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - primekg
 title: EGR1
 type: protein
-updated: '2026-02-08T19:29:31.750724Z'
+updated: '2026-02-08T19:45:44.637907Z'
 ---
 
 # EGR1

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.744731Z'
+created: '2026-02-08T19:45:44.631423Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Vertigo
 type: phenotype
-updated: '2026-02-08T19:29:31.744731Z'
+updated: '2026-02-08T19:45:44.631423Z'
 ---
 
 # Vertigo

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.627518Z'
+created: '2026-02-08T19:45:44.501835Z'
 description: An inflammatory disease characterized by the growth of tiny clumps of
   inflammatory cells (granulomas) in the lungs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - chronic
 title: Pulmonary Sarcoidosis
 type: condition
-updated: '2026-02-08T19:29:31.627518Z'
+updated: '2026-02-08T19:45:44.501835Z'
 ---
 
 # Pulmonary Sarcoidosis

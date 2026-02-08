@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.685650Z'
+created: '2026-02-08T19:45:44.565887Z'
 description: LDL particle number measures how many LDL particles are circulating in
   the blood. Standard LDL cholesterol tests estimate the amount of cholesterol by
   weight, while particle tests count the actual number of cholesterol-carrying particles.
@@ -14,7 +14,7 @@ tags:
 - labtest
 title: ldl_particle_number
 type: labtest
-updated: '2026-02-08T19:29:31.685650Z'
+updated: '2026-02-08T19:45:44.565887Z'
 ---
 
 # LDL Particle Number

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.691905Z'
+created: '2026-02-08T19:45:44.572697Z'
 description: Tested twice a year Monocytes are immune cells important for defense,
   inflammation regulation, and tissue repair. These white blood cells can transform
   into macrophages or dendritic cells to fight infections, clear debris, and promote
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: monocytes
 type: labtest
-updated: '2026-02-08T19:29:31.691905Z'
+updated: '2026-02-08T19:45:44.572697Z'
 ---
 
 # Monocytes

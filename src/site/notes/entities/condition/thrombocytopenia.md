@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.632643Z'
+created: '2026-02-08T19:45:44.507476Z'
 description: A condition characterized by an abnormally low number of platelets (thrombocytes)
   in the blood, which can lead to excessive bleeding and bruising.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 - function-health
 title: Thrombocytopenia
 type: condition
-updated: '2026-02-08T19:29:31.632643Z'
+updated: '2026-02-08T19:45:44.507476Z'
 ---
 
 # Thrombocytopenia

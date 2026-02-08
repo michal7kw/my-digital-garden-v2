@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.568831Z'
+created: '2026-02-08T19:45:44.436542Z'
 description: Lipoprotein-associated phospholipase A2 is a vascular-specific inflammatory
   enzyme produced by macrophages within atherosclerotic plaques. Elevated levels indicate
   active vascular inflammation and unstable plaque, independently predicting coronary
@@ -13,7 +13,7 @@ tags:
 - biomarker
 title: Lp-PLA2
 type: biomarker
-updated: '2026-02-08T19:29:31.568831Z'
+updated: '2026-02-08T19:45:44.436542Z'
 ---
 
 # Lp-PLA2

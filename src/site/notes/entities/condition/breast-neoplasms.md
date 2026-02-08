@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.593952Z'
+created: '2026-02-08T19:45:44.464621Z'
 description: Cancer that forms in the cells of the breasts, most commonly in the ducts
   or lobules.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - women_health
 title: Breast Neoplasms
 type: condition
-updated: '2026-02-08T19:29:31.593952Z'
+updated: '2026-02-08T19:45:44.464621Z'
 ---
 
 # Breast Neoplasms

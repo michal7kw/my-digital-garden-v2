@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.722527Z'
+created: '2026-02-08T19:45:44.606588Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Substantia Nigra
 type: organ
-updated: '2026-02-08T19:29:31.722527Z'
+updated: '2026-02-08T19:45:44.606588Z'
 ---
 
 # Substantia Nigra

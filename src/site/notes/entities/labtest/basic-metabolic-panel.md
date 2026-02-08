@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.668494Z'
+created: '2026-02-08T19:45:44.546435Z'
 description: 8-test panel measuring glucose, calcium, electrolytes, and kidney function
   markers.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 - labtest
 title: basic_metabolic_panel
 type: labtest
-updated: '2026-02-08T19:29:31.668494Z'
+updated: '2026-02-08T19:45:44.546435Z'
 ---
 
 # Basic Metabolic Panel (BMP)

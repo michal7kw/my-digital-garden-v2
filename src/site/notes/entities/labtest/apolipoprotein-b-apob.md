@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.666954Z'
+created: '2026-02-08T19:45:44.544744Z'
 description: Measuring ApoB levels is important because it provides a direct count
   of plaque-forming cholesterol particles in the blood. It is powerful indicator of
   harmful particles that drive cardiovascular risk and contribute to metabolic dysfunction.
@@ -12,7 +12,7 @@ tags:
 - labtest
 title: apolipoprotein_b_apob
 type: labtest
-updated: '2026-02-08T19:29:31.666954Z'
+updated: '2026-02-08T19:45:44.544744Z'
 ---
 
 # Apolipoprotein B (ApoB)

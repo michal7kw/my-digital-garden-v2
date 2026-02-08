@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.721878Z'
+created: '2026-02-08T19:45:44.605857Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Red Nucleus
 type: organ
-updated: '2026-02-08T19:29:31.721878Z'
+updated: '2026-02-08T19:45:44.605857Z'
 ---
 
 # Red Nucleus

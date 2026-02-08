@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.681797Z'
+created: '2026-02-08T19:45:44.561411Z'
 description: Calculated from fasting glucose and insulin. Quantifies insulin resistance.
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 - labtest
 title: homa_ir
 type: labtest
-updated: '2026-02-08T19:29:31.681797Z'
+updated: '2026-02-08T19:45:44.561411Z'
 ---
 
 # HOMA-IR (Insulin Resistance Index)

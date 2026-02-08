@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.736535Z'
+created: '2026-02-08T19:45:44.622131Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Autosomal recessive inheritance
 type: phenotype
-updated: '2026-02-08T19:29:31.736535Z'
+updated: '2026-02-08T19:45:44.622131Z'
 ---
 
 # Autosomal recessive inheritance

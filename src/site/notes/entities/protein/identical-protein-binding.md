@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.756484Z'
+created: '2026-02-08T19:45:44.644187Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: identical protein binding
 type: protein
-updated: '2026-02-08T19:29:31.756484Z'
+updated: '2026-02-08T19:45:44.644187Z'
 ---
 
 # identical protein binding

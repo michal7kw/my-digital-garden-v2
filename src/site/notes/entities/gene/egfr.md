@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.655193Z'
+created: '2026-02-08T19:45:44.531826Z'
 description: Encodes the Epidermal Growth Factor Receptor. Mutations and amplification
   of this gene are common in many cancers.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - primekg
 title: EGFR
 type: gene
-updated: '2026-02-08T19:29:31.655193Z'
+updated: '2026-02-08T19:45:44.531826Z'
 ---
 
 # EGFR

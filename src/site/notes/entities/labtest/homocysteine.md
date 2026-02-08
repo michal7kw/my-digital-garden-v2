@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.681992Z'
+created: '2026-02-08T19:45:44.561627Z'
 description: Amino acid linked to cardiovascular disease and B-vitamin deficiency.
   Elevated levels associated with increased CVD risk.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 - labtest
 title: homocysteine
 type: labtest
-updated: '2026-02-08T19:29:31.681992Z'
+updated: '2026-02-08T19:45:44.561627Z'
 ---
 
 # homocysteine

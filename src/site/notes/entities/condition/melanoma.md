@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.613843Z'
+created: '2026-02-08T19:45:44.486861Z'
 description: A serious type of skin cancer that develops from the pigment-producing
   cells known as melanocytes. It is less common than other skin cancers but much more
   dangerous if it spreads.
@@ -16,7 +16,7 @@ tags:
 - cancer
 title: Melanoma
 type: condition
-updated: '2026-02-08T19:29:31.613843Z'
+updated: '2026-02-08T19:45:44.486861Z'
 ---
 
 # Melanoma

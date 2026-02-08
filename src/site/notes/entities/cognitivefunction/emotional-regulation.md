@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.585011Z'
+created: '2026-02-08T19:45:44.454551Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - cognitivefunction
 title: Emotional Regulation
 type: cognitivefunction
-updated: '2026-02-08T19:29:31.585011Z'
+updated: '2026-02-08T19:45:44.454551Z'
 ---
 
 # Emotional Regulation

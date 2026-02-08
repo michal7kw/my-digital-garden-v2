@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.715098Z'
+created: '2026-02-08T19:45:44.598483Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Amygdala
 type: organ
-updated: '2026-02-08T19:29:31.715098Z'
+updated: '2026-02-08T19:45:44.598483Z'
 ---
 
 # Amygdala

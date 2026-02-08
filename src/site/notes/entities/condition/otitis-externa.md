@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.620161Z'
+created: '2026-02-08T19:45:44.493396Z'
 description: An infection of the outer ear canal, commonly known as swimmer's ear.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 - acute
 title: Otitis Externa
 type: condition
-updated: '2026-02-08T19:29:31.620161Z'
+updated: '2026-02-08T19:45:44.493396Z'
 ---
 
 # Otitis Externa

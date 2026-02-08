@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.560734Z'
+created: '2026-02-08T19:45:44.427695Z'
 description: Continuous, passive monitoring of cognition, motor function, and behavior
   using smartphones, wearables, and digital sensors. Enable early detection and real-world
   tracking of neurodegenerative disease progression.
@@ -17,7 +17,7 @@ tags:
 - smartphone
 title: Digital Biomarkers for Neurodegeneration
 type: biomarker
-updated: '2026-02-08T19:29:31.560734Z'
+updated: '2026-02-08T19:45:44.427695Z'
 ---
 
 # Digital Biomarkers for Neurodegeneration

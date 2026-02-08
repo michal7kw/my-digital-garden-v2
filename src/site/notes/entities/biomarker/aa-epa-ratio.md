@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.553409Z'
+created: '2026-02-08T19:45:44.419228Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Aa Epa Ratio
 type: biomarker
-updated: '2026-02-08T19:29:31.553409Z'
+updated: '2026-02-08T19:45:44.419228Z'
 ---
 
 # Aa Epa Ratio

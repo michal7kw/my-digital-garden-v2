@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.658984Z'
+created: '2026-02-08T19:45:44.535975Z'
 description: A dietary intervention involving sustained reduction of caloric intake
   (typically 20-40% below ad libitum) without malnutrition. The most robust and reproducible
   intervention for extending lifespan and healthspan across multiple species, from
@@ -18,7 +18,7 @@ tags:
 - autophagy
 title: Caloric Restriction
 type: intervention
-updated: '2026-02-08T19:29:31.658984Z'
+updated: '2026-02-08T19:45:44.535975Z'
 ---
 
 # Caloric Restriction

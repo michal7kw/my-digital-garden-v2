@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.734987Z'
+created: '2026-02-08T19:45:44.620316Z'
 description: A feeling of apprehension, fear, nervousness, or dread often accompanied
   by physical symptoms.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 - primekg
 title: Anxiety
 type: phenotype
-updated: '2026-02-08T19:29:31.734987Z'
+updated: '2026-02-08T19:45:44.620316Z'
 ---
 
 # Anxiety

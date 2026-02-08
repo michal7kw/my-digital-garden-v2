@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.756085Z'
+created: '2026-02-08T19:45:44.643746Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: UBC
 type: protein
-updated: '2026-02-08T19:29:31.756085Z'
+updated: '2026-02-08T19:45:44.643746Z'
 ---
 
 # UBC

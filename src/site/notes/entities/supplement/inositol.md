@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.766686Z'
+created: '2026-02-08T19:45:44.653583Z'
 description: A carbocyclic sugar alcohol that mediates cell signal transduction in
   response to a variety of hormones, neurotransmitters, and growth factors. Particularly
   effective for PCOS and insulin sensitivity.
@@ -16,7 +16,7 @@ tags:
 - second_messenger
 title: Inositol
 type: supplement
-updated: '2026-02-08T19:29:31.766686Z'
+updated: '2026-02-08T19:45:44.653583Z'
 ---
 
 # Inositol

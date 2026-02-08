@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.640773Z'
+created: '2026-02-08T19:45:44.516301Z'
 description: First widely prescribed SSRI antidepressant (Prozac). Long half-life
   allows flexible dosing and easier discontinuation. FDA-approved for depression,
   OCD, panic disorder, bulimia, and PMDD.
@@ -17,7 +17,7 @@ tags:
 - prescription
 title: Fluoxetine
 type: drug
-updated: '2026-02-08T19:29:31.640773Z'
+updated: '2026-02-08T19:45:44.516301Z'
 ---
 
 # Fluoxetine

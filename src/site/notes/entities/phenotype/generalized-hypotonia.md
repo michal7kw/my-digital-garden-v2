@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.739053Z'
+created: '2026-02-08T19:45:44.624947Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Generalized hypotonia
 type: phenotype
-updated: '2026-02-08T19:29:31.739053Z'
+updated: '2026-02-08T19:45:44.624947Z'
 ---
 
 # Generalized hypotonia

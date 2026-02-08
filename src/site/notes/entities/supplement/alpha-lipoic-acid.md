@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.762369Z'
+created: '2026-02-08T19:45:44.648743Z'
 description: Powerful antioxidant that works in both water and fat environments. Regenerates
   other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 - diabetic-neuropathy
 title: Alpha Lipoic Acid
 type: supplement
-updated: '2026-02-08T19:29:31.762369Z'
+updated: '2026-02-08T19:45:44.648743Z'
 ---
 
 # Alpha Lipoic Acid

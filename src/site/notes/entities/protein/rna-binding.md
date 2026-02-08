@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.753442Z'
+created: '2026-02-08T19:45:44.640964Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: RNA binding
 type: protein
-updated: '2026-02-08T19:29:31.753442Z'
+updated: '2026-02-08T19:45:44.640964Z'
 ---
 
 # RNA binding

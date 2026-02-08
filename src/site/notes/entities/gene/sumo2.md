@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.657800Z'
+created: '2026-02-08T19:45:44.534575Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: SUMO2
 type: gene
-updated: '2026-02-08T19:29:31.657800Z'
+updated: '2026-02-08T19:45:44.534575Z'
 ---
 
 # "SUMO2"

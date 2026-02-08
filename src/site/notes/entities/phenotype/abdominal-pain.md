@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.734592Z'
+created: '2026-02-08T19:45:44.619854Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: Abdominal pain
 type: phenotype
-updated: '2026-02-08T19:29:31.734592Z'
+updated: '2026-02-08T19:45:44.619854Z'
 ---
 
 # Abdominal pain

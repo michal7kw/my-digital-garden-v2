@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.597982Z'
+created: '2026-02-08T19:45:44.469421Z'
 description: A range of disorders resulting from the use of cocaine, including acute
   intoxication, withdrawal, dependence, and induced mental disorders.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - substance_use
 title: Cocaine-Related Disorders
 type: condition
-updated: '2026-02-08T19:29:31.597982Z'
+updated: '2026-02-08T19:45:44.469421Z'
 ---
 
 # Cocaine-Related Disorders

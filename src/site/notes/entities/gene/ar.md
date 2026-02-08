@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.653805Z'
+created: '2026-02-08T19:45:44.530314Z'
 description: Encodes the Androgen Receptor, a DNA-binding transcription factor that
   regulates gene expression in response to androgens.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - primekg
 title: AR
 type: gene
-updated: '2026-02-08T19:29:31.653805Z'
+updated: '2026-02-08T19:45:44.530314Z'
 ---
 
 # AR

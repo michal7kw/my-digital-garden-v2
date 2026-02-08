@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.582900Z'
+created: '2026-02-08T19:45:44.452104Z'
 description: Impaired cellular response to insulin, leading to elevated blood glucose
   and compensatory hyperinsulinemia. Precursor to type 2 diabetes.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 - endocrine
 title: Insulin Resistance
 type: clinicalpattern
-updated: '2026-02-08T19:29:31.582900Z'
+updated: '2026-02-08T19:45:44.452104Z'
 ---
 
 # Insulin Resistance

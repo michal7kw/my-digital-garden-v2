@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.648268Z'
+created: '2026-02-08T19:45:44.524356Z'
 description: Atypical antipsychotic used for schizophrenia, bipolar disorder, and
   adjunctive treatment of depression. Has sedative properties often used off-label
   for insomnia.
@@ -18,7 +18,7 @@ tags:
 - primekg
 title: Quetiapine
 type: drug
-updated: '2026-02-08T19:29:31.648268Z'
+updated: '2026-02-08T19:45:44.524356Z'
 ---
 
 # Quetiapine

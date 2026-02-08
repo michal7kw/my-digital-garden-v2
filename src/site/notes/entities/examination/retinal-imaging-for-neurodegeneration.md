@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.652413Z'
+created: '2026-02-08T19:45:44.528913Z'
 description: Non-invasive imaging of the retina as a window to the brain. OCT and
   specialized techniques can detect Alzheimer's, Parkinson's, and MS-related changes
   years before symptoms.
@@ -17,7 +17,7 @@ tags:
 - non-invasive
 title: Retinal Imaging for Neurodegeneration
 type: examination
-updated: '2026-02-08T19:29:31.652413Z'
+updated: '2026-02-08T19:45:44.528913Z'
 ---
 
 # Retinal Imaging for Neurodegeneration

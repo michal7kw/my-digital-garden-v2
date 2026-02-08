@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.596790Z'
+created: '2026-02-08T19:45:44.468012Z'
 description: A long-term condition where the kidneys are damaged and gradually lose
   their ability to filter waste and excess fluid from the blood.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - function-health
 title: Chronic Kidney Disease
 type: condition
-updated: '2026-02-08T19:29:31.596790Z'
+updated: '2026-02-08T19:45:44.468012Z'
 ---
 
 # Chronic Kidney Disease

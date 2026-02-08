@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.762993Z'
+created: '2026-02-08T19:45:44.649430Z'
 description: Premier adaptogenic herb that reduces cortisol, supports thyroid function,
   and enhances stress resilience. One of the most well-researched adaptogens with
   evidence for anxiety, stress, and testosterone.
@@ -17,7 +17,7 @@ tags:
 - anxiety
 title: Ashwagandha
 type: supplement
-updated: '2026-02-08T19:29:31.762993Z'
+updated: '2026-02-08T19:45:44.649430Z'
 ---
 
 # Ashwagandha

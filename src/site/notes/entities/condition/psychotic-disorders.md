@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.627081Z'
+created: '2026-02-08T19:45:44.501333Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - neurology
 title: Psychotic Disorders
 type: condition
-updated: '2026-02-08T19:29:31.627081Z'
+updated: '2026-02-08T19:45:44.501333Z'
 ---
 
 # Psychotic Disorders

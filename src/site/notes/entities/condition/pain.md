@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.621340Z'
+created: '2026-02-08T19:45:44.494736Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - condition
 title: Pain
 type: condition
-updated: '2026-02-08T19:29:31.621340Z'
+updated: '2026-02-08T19:45:44.494736Z'
 ---
 
 # Pain

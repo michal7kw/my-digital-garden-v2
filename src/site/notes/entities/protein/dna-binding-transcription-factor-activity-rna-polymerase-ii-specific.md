@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.750288Z'
+created: '2026-02-08T19:45:44.637433Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 - protein
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-02-08T19:29:31.750288Z'
+updated: '2026-02-08T19:45:44.637433Z'
 ---
 
 # DNA-binding transcription factor activity, RNA polymerase II-specific

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.599277Z'
+created: '2026-02-08T19:45:44.470926Z'
 description: A type of heart disease characterized by the narrowing or blockage of
   the coronary arteries, usually caused by atherosclerosis, which reduces blood flow
   to the heart muscle.
@@ -16,7 +16,7 @@ tags:
 - function-health
 title: Coronary Artery Disease
 type: condition
-updated: '2026-02-08T19:29:31.599277Z'
+updated: '2026-02-08T19:45:44.470926Z'
 ---
 
 # Coronary Artery Disease

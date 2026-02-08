@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.757400Z'
+created: '2026-02-08T19:45:44.645167Z'
 description: Research highlighting the longevity and metabolic benefits of BAM15,
   a selective mitochondrial uncoupler that mimics the effects of exercise.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - longevity
 title: 2025 BAM15 Mitochondrial Uncoupling Review
 type: research
-updated: '2026-02-08T19:29:31.757400Z'
+updated: '2026-02-08T19:45:44.645167Z'
 ---
 
 # 2025 BAM15 Mitochondrial Uncoupling Review

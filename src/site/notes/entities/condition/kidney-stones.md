@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.611110Z'
+created: '2026-02-08T19:45:44.483690Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - function-health
 title: Kidney Stones
 type: condition
-updated: '2026-02-08T19:29:31.611110Z'
+updated: '2026-02-08T19:45:44.483690Z'
 ---
 
 # Kidney Stones

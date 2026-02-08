@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.649773Z'
+created: '2026-02-08T19:45:44.525954Z'
 description: Seed Amplification Assay (formerly RT-QuIC) that detects misfolded alpha-synuclein
   in CSF or tissue with >95% sensitivity and specificity for synucleinopathies. FDA
   approved in 2024, revolutionizing Parkinson's disease diagnosis.
@@ -17,7 +17,7 @@ tags:
 - fda-approved
 title: Alpha-Synuclein SAA
 type: examination
-updated: '2026-02-08T19:29:31.649773Z'
+updated: '2026-02-08T19:45:44.525954Z'
 ---
 
 # Alpha-Synuclein Seed Amplification Assay (αSyn-SAA)

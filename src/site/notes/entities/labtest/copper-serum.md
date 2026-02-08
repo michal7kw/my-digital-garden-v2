@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.672944Z'
+created: '2026-02-08T19:45:44.551658Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
@@ -13,7 +13,7 @@ tags:
 - labtest
 title: copper_serum
 type: labtest
-updated: '2026-02-08T19:29:31.672944Z'
+updated: '2026-02-08T19:45:44.551658Z'
 ---
 
 # Copper (Serum)

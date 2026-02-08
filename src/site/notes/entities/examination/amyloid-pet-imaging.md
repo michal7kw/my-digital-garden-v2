@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.650091Z'
+created: '2026-02-08T19:45:44.526310Z'
 description: Positron emission tomography using radiotracers that bind to amyloid-beta
   plaques in the brain. Gold standard for in vivo detection of Alzheimer's pathology
   and essential for anti-amyloid therapy eligibility.
@@ -17,7 +17,7 @@ tags:
 - diagnostic
 title: Amyloid PET Imaging
 type: examination
-updated: '2026-02-08T19:29:31.650091Z'
+updated: '2026-02-08T19:45:44.526310Z'
 ---
 
 # Amyloid PET Imaging

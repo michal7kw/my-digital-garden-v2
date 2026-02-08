@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.646644Z'
+created: '2026-02-08T19:45:44.522576Z'
 description: A potassium salt of Penicillin O (Almecillin), an allylmercaptomethyl
   penicillin used as an alternative for patients with mild penicillin G sensitivity.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 - penicillin
 title: Penicillin O Potassium
 type: drug
-updated: '2026-02-08T19:29:31.646644Z'
+updated: '2026-02-08T19:45:44.522576Z'
 ---
 
 # Penicillin O Potassium

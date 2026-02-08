@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.698837Z'
+created: '2026-02-08T19:45:44.580306Z'
 description: pros-tate speh-sif-ik an-tih-jen (p-s-a) per-sent free Percent free PSA
   (prostate-specific antigen) measures the share of PSA in the blood that is not attached
   to proteins. This percentage is used alongside other information to help assess
@@ -17,7 +17,7 @@ tags:
 - labtest
 title: prostate_specific_antigen_psa_free
 type: labtest
-updated: '2026-02-08T19:29:31.698837Z'
+updated: '2026-02-08T19:45:44.580306Z'
 ---
 
 # Prostate Specific Antigen (PSA) %, Free

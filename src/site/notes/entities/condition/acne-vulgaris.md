@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.587027Z'
+created: '2026-02-08T19:45:44.456820Z'
 description: A common chronic inflammatory skin condition of the pilosebaceous unit,
   characterized by comedones, papules, pustules, and nodules.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - hormonal
 title: Acne Vulgaris
 type: condition
-updated: '2026-02-08T19:29:31.587027Z'
+updated: '2026-02-08T19:45:44.456820Z'
 ---
 
 # Acne Vulgaris

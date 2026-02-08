@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.656207Z'
+created: '2026-02-08T19:45:44.532846Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: FOS
 type: gene
-updated: '2026-02-08T19:29:31.656207Z'
+updated: '2026-02-08T19:45:44.532846Z'
 ---
 
 # "FOS"

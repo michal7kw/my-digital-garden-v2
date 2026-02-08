@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.607451Z'
+created: '2026-02-08T19:45:44.479679Z'
 description: A dietary state characterized by a high proportion of protein consumption,
   which can impact metabolic markers and kidney function.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - function-health
 title: High Protein Intake
 type: condition
-updated: '2026-02-08T19:29:31.607451Z'
+updated: '2026-02-08T19:45:44.479679Z'
 ---
 
 # High Protein Intake

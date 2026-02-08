@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.705678Z'
+created: '2026-02-08T19:45:44.588334Z'
 description: toh-tul koh-les-ter-ol / h-d-l ray-shee-oh Tested twice a year The ratio
   shows the balance between harmful cholesterol particles that cause plaque buildup
   in arteries, and protective cholesterol particles that help remove excess cholesterol
@@ -14,7 +14,7 @@ tags:
 - labtest
 title: total_cholesterol_hdl_ratio
 type: labtest
-updated: '2026-02-08T19:29:31.705678Z'
+updated: '2026-02-08T19:45:44.588334Z'
 ---
 
 # Total Cholesterol / HDL Ratio

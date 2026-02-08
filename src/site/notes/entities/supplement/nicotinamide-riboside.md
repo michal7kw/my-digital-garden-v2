@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.770242Z'
+created: '2026-02-08T19:45:44.657568Z'
 description: An NAD+ precursor that efficiently raises cellular NAD+ levels via the
   NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors
   and has demonstrated safety and efficacy in human clinical trials for boosting NAD+
@@ -18,7 +18,7 @@ tags:
 - sirtuin_activator
 title: Nicotinamide Riboside
 type: supplement
-updated: '2026-02-08T19:29:31.770242Z'
+updated: '2026-02-08T19:45:44.657568Z'
 ---
 
 # Nicotinamide Riboside

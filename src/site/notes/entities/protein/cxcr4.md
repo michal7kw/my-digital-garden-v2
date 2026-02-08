@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.749277Z'
+created: '2026-02-08T19:45:44.636337Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - protein
 title: CXCR4
 type: protein
-updated: '2026-02-08T19:29:31.749277Z'
+updated: '2026-02-08T19:45:44.636337Z'
 ---
 
 # CXCR4

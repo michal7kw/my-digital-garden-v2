@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.725611Z'
+created: '2026-02-08T19:45:44.609788Z'
 description: The mitochondrial pathway for fatty acid catabolism that sequentially
   removes two-carbon units as acetyl-CoA. Each cycle generates NADH and FADH2 for
   ATP production, making it highly efficient for energy generation from stored fat.
@@ -17,7 +17,7 @@ tags:
 - mitochondrial
 title: Beta-Oxidation
 type: pathway
-updated: '2026-02-08T19:29:31.725611Z'
+updated: '2026-02-08T19:45:44.609788Z'
 ---
 
 # Beta-Oxidation

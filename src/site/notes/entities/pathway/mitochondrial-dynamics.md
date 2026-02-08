@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.730052Z'
+created: '2026-02-08T19:45:44.614708Z'
 description: The continuous remodeling of the mitochondrial network through fusion
   and fission events. Essential for maintaining mitochondrial quality, distribution,
   and function.
@@ -15,7 +15,7 @@ tags:
 - quality_control
 title: Mitochondrial Dynamics
 type: pathway
-updated: '2026-02-08T19:29:31.730052Z'
+updated: '2026-02-08T19:45:44.614708Z'
 ---
 
 # Mitochondrial Dynamics

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.576615Z'
+created: '2026-02-08T19:45:44.445350Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - biomarker
 title: Testosterone Free
 type: biomarker
-updated: '2026-02-08T19:29:31.576615Z'
+updated: '2026-02-08T19:45:44.445350Z'
 ---
 
 # Testosterone Free

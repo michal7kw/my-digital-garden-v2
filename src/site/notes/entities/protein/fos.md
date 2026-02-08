@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.751434Z'
+created: '2026-02-08T19:45:44.638705Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 - primekg
 title: FOS
 type: protein
-updated: '2026-02-08T19:29:31.751434Z'
+updated: '2026-02-08T19:45:44.638705Z'
 ---
 
 # FOS

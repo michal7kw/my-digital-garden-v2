@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.682797Z'
+created: '2026-02-08T19:45:44.562580Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -18,7 +18,7 @@ tags:
 - function-health
 title: insulin
 type: labtest
-updated: '2026-02-08T19:29:31.682797Z'
+updated: '2026-02-08T19:45:44.562580Z'
 ---
 
 # Insulin

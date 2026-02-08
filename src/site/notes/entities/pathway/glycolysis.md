@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.728635Z'
+created: '2026-02-08T19:45:44.613156Z'
 description: Glycolysis is the fundamental metabolic pathway that breaks down glucose
   to pyruvate, generating ATP and NADH. It is the central route for glucose metabolism
   in virtually all organisms.
@@ -16,7 +16,7 @@ tags:
 - catabolic
 title: Glycolysis
 type: pathway
-updated: '2026-02-08T19:29:31.728635Z'
+updated: '2026-02-08T19:45:44.613156Z'
 ---
 
 # Glycolysis

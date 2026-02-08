@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.625992Z'
+created: '2026-02-08T19:45:44.500067Z'
 description: Birth that occurs before the 37th week of pregnancy.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 - neonatology
 title: Premature Birth
 type: condition
-updated: '2026-02-08T19:29:31.625992Z'
+updated: '2026-02-08T19:45:44.500067Z'
 ---
 
 # Premature Birth

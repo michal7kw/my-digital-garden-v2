@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.584495Z'
+created: '2026-02-08T19:45:44.453925Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - cognitivefunction
 title: Attention and Focus
 type: cognitivefunction
-updated: '2026-02-08T19:29:31.584495Z'
+updated: '2026-02-08T19:45:44.453925Z'
 ---
 
 # Attention and Focus

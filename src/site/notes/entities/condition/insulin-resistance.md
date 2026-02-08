@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.609375Z'
+created: '2026-02-08T19:45:44.481876Z'
 description: A physiological condition where cells fail to respond normally to the
   hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 - glucose_metabolism
 title: Insulin Resistance
 type: condition
-updated: '2026-02-08T19:29:31.609375Z'
+updated: '2026-02-08T19:45:44.481876Z'
 ---
 
 # Insulin Resistance

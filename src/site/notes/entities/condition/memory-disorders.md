@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.614064Z'
+created: '2026-02-08T19:45:44.487123Z'
 description: A group of conditions that impair the ability to store, retain, and recall
   information, often resulting from neurological damage or degeneration.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - neurodegenerative
 title: Memory Disorders
 type: condition
-updated: '2026-02-08T19:29:31.614064Z'
+updated: '2026-02-08T19:45:44.487123Z'
 ---
 
 # Memory Disorders

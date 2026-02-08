@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:29:31.594944Z'
+created: '2026-02-08T19:45:44.465793Z'
 description: A group of disorders of the heart and blood vessels, including coronary
   heart disease, cerebrovascular disease, and rheumatic heart disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 - global_health
 title: Cardiovascular Diseases
 type: condition
-updated: '2026-02-08T19:29:31.594944Z'
+updated: '2026-02-08T19:45:44.465793Z'
 ---
 
 # Cardiovascular Diseases
