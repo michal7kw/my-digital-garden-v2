@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.937699Z'
+created: '2026-02-08T19:29:31.602880Z'
 description: Infections of the eye or its surrounding structures caused by bacteria,
   viruses, fungi, or parasites.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/eye-infections/
+permalink: /garden/dev_admin/condition/eye-infections/
 slug: eye-infections
 tags:
-- Condition
 - condition
 - ophthalmology
 - infection
 - acute
 title: Eye Infections
-type: Condition
-updated: '2026-02-08T19:25:12.937699Z'
+type: condition
+updated: '2026-02-08T19:29:31.602880Z'
 ---
 
 # Eye Infections

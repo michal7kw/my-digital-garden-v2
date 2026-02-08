@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.076658Z'
+created: '2026-02-08T19:29:31.734592Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/abdominal-pain/
+permalink: /garden/dev_admin/phenotype/abdominal-pain/
 slug: abdominal-pain
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Abdominal pain
-type: Phenotype
-updated: '2026-02-08T19:25:13.076658Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.734592Z'
 ---
 
 # Abdominal pain

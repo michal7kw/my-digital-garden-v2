@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.948317Z'
+created: '2026-02-08T19:29:31.611587Z'
 description: A rare disorder involving the clonal proliferation of Langerhans cells,
   abnormal immune cells that form tumors and damage tissue.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/langerhans-cell-histiocytosis/
+permalink: /garden/dev_admin/condition/langerhans-cell-histiocytosis/
 slug: langerhans-cell-histiocytosis
 tags:
-- Condition
 - condition
 - hematology
 - oncology
 - pediatric
 - rare_disease
 title: Langerhans Cell Histiocytosis
-type: Condition
-updated: '2026-02-08T19:25:12.948317Z'
+type: condition
+updated: '2026-02-08T19:29:31.611587Z'
 ---
 
 # Langerhans Cell Histiocytosis

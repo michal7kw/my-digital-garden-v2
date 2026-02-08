@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.093845Z'
+created: '2026-02-08T19:29:31.751434Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/fos/
+permalink: /garden/dev_admin/protein/fos/
 slug: fos
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: FOS
-type: Protein
-updated: '2026-02-08T19:25:13.093845Z'
+type: protein
+updated: '2026-02-08T19:29:31.751434Z'
 ---
 
 # FOS

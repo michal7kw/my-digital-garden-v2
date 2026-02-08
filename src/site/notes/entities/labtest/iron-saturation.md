@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.025077Z'
+created: '2026-02-08T19:29:31.683864Z'
 description: Iron saturation measures how much of transferrin (the main iron-carrying
   protein in the blood) is bound to iron. Normal levels are usually 20-50%. Low saturation
   often means there isn't enough iron to support healthy red blood cells and energy
@@ -7,14 +7,13 @@ description: Iron saturation measures how much of transferrin (the main iron-car
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/iron-saturation/
+permalink: /garden/dev_admin/labtest/iron-saturation/
 slug: iron-saturation
 tags:
-- LabTest
 - labtest
 title: iron_saturation
-type: LabTest
-updated: '2026-02-08T19:25:13.025077Z'
+type: labtest
+updated: '2026-02-08T19:29:31.683864Z'
 ---
 
 # Iron % Saturation

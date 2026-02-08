@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:13.113353Z'
+created: '2026-02-08T19:29:31.770546Z'
 description: Essential polyunsaturated fatty acids (EPA and DHA) critical for cardiovascular
   health, brain function, and inflammation reduction. Found naturally in fatty fish
   and available as concentrated supplements.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/omega-3-fatty-acids/
+permalink: /garden/dev_admin/supplement/omega-3-fatty-acids/
 slug: omega-3-fatty-acids
 tags:
-- Supplement
 - supplement
 - essential_fatty_acid
 - cardiovascular
 - anti_inflammatory
 - brain_health
 title: Omega-3 Fatty Acids
-type: Supplement
-updated: '2026-02-08T19:25:13.113353Z'
+type: supplement
+updated: '2026-02-08T19:29:31.770546Z'
 ---
 
 # Omega-3 Fatty Acids

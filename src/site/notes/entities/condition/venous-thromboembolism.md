@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.974881Z'
+created: '2026-02-08T19:29:31.635051Z'
 description: A condition where a blood clot forms in a vein, encompassing Deep Vein
   Thrombosis (DVT) and Pulmonary Embolism (PE).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/venous-thromboembolism/
+permalink: /garden/dev_admin/condition/venous-thromboembolism/
 slug: venous-thromboembolism
 tags:
-- Condition
 - condition
 - hematology
 - cardiology
 - vascular
 - emergency
 title: Venous Thromboembolism
-type: Condition
-updated: '2026-02-08T19:25:12.974881Z'
+type: condition
+updated: '2026-02-08T19:29:31.635051Z'
 ---
 
 # Venous Thromboembolism

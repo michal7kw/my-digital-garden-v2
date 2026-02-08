@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.908298Z'
+created: '2026-02-08T19:29:31.580783Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/wbc/
+permalink: /garden/dev_admin/biomarker/wbc/
 slug: wbc
 tags:
-- Biomarker
 - biomarker
 title: Wbc
-type: Biomarker
-updated: '2026-02-08T19:25:12.908298Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.580783Z'
 ---
 
 # Wbc

@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.973380Z'
+created: '2026-02-08T19:29:31.633559Z'
 description: A problematic pattern of tobacco use leading to clinically significant
   impairment or distress, characterized by nicotine dependence.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/tobacco-use-disorder/
+permalink: /garden/dev_admin/condition/tobacco-use-disorder/
 slug: tobacco-use-disorder
 tags:
-- Condition
 - condition
 - psychiatry
 - addiction
 - substance_use
 - public_health
 title: Tobacco Use Disorder
-type: Condition
-updated: '2026-02-08T19:25:12.973380Z'
+type: condition
+updated: '2026-02-08T19:29:31.633559Z'
 ---
 
 # Tobacco Use Disorder

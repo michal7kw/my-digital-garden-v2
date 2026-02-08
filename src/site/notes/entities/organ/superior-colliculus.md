@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.064932Z'
+created: '2026-02-08T19:29:31.723163Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Superior Colliculus
 type: organ
-updated: '2026-02-08T19:25:13.064932Z'
+updated: '2026-02-08T19:29:31.723163Z'
 ---
 
 # Superior Colliculus

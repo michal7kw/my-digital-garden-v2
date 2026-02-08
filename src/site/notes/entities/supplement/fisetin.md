@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:13.108405Z'
+created: '2026-02-08T19:29:31.765706Z'
 description: A plant polyphenol and potent senolytic that selectively clears senescent
   cells and supports cognitive health.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/fisetin/
+permalink: /garden/dev_admin/supplement/fisetin/
 slug: fisetin
 tags:
-- Supplement
 - supplement
 - senolytic
 - neuroprotective
 - longevity
 title: Fisetin
-type: Supplement
-updated: '2026-02-08T19:25:13.108405Z'
+type: supplement
+updated: '2026-02-08T19:29:31.765706Z'
 ---
 
 # Fisetin

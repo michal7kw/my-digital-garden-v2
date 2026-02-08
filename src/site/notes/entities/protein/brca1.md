@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.090192Z'
+created: '2026-02-08T19:29:31.747869Z'
 description: E3 ubiquitin-protein ligase that plays a central role in DNA repair (Homologous
   Recombination). Maintains genomic stability.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/brca1/
+permalink: /garden/dev_admin/protein/brca1/
 slug: brca1
 tags:
-- Protein
 - protein
 - tumor_suppressor
 - dna_repair
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: BRCA1
-type: Protein
-updated: '2026-02-08T19:25:13.090192Z'
+type: protein
+updated: '2026-02-08T19:29:31.747869Z'
 ---
 
 # BRCA1

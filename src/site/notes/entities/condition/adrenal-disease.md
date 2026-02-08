@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.918517Z'
+created: '2026-02-08T19:29:31.588480Z'
 description: A group of disorders occurring when the adrenal glands produce too much
   or too little of essential hormones, such as cortisol and aldosterone.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/adrenal-disease/
+permalink: /garden/dev_admin/condition/adrenal-disease/
 slug: adrenal-disease
 tags:
-- Condition
 - condition
 - endocrinology
 - hormones
 - function-health
 title: Adrenal Disease
-type: Condition
-updated: '2026-02-08T19:25:12.918517Z'
+type: condition
+updated: '2026-02-08T19:29:31.588480Z'
 ---
 
 # Adrenal Disease

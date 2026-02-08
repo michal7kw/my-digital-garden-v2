@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.984274Z'
+created: '2026-02-08T19:29:31.644342Z'
 description: Cardioselective beta-1 blocker for hypertension, angina, heart failure,
   and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most
   prescribed cardiovascular medications.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/metoprolol/
+permalink: /garden/dev_admin/drug/metoprolol/
 slug: metoprolol
 tags:
-- Drug
 - drug
 - beta_blocker
 - antihypertensive
 - cardiovascular
 - prescription
 title: Metoprolol
-type: Drug
-updated: '2026-02-08T19:25:12.984274Z'
+type: drug
+updated: '2026-02-08T19:29:31.644342Z'
 ---
 
 # Metoprolol

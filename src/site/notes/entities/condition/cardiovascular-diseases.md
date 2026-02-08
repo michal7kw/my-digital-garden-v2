@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.927095Z'
+created: '2026-02-08T19:29:31.594944Z'
 description: A group of disorders of the heart and blood vessels, including coronary
   heart disease, cerebrovascular disease, and rheumatic heart disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/cardiovascular-diseases/
+permalink: /garden/dev_admin/condition/cardiovascular-diseases/
 slug: cardiovascular-diseases
 tags:
-- Condition
 - condition
 - cardiology
 - vascular
 - chronic
 - global_health
 title: Cardiovascular Diseases
-type: Condition
-updated: '2026-02-08T19:25:12.927095Z'
+type: condition
+updated: '2026-02-08T19:29:31.594944Z'
 ---
 
 # Cardiovascular Diseases

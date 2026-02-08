@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:12.971506Z'
+created: '2026-02-08T19:29:31.631737Z'
 description: Cancer developing from the lining of the stomach, most commonly adenocarcinoma.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/stomach-neoplasms/
+permalink: /garden/dev_admin/condition/stomach-neoplasms/
 slug: stomach-neoplasms
 tags:
-- Condition
 - condition
 - oncology
 - gastroenterology
 - cancer
 title: Stomach Neoplasms
-type: Condition
-updated: '2026-02-08T19:25:12.971506Z'
+type: condition
+updated: '2026-02-08T19:29:31.631737Z'
 ---
 
 # Stomach Neoplasms

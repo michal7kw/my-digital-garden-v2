@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.947753Z'
+created: '2026-02-08T19:29:31.611110Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/kidney-stones/
+permalink: /garden/dev_admin/condition/kidney-stones/
 slug: kidney-stones
 tags:
-- Condition
 - condition
 - urology
 - nephrology
 - metabolic
 - function-health
 title: Kidney Stones
-type: Condition
-updated: '2026-02-08T19:25:12.947753Z'
+type: condition
+updated: '2026-02-08T19:29:31.611110Z'
 ---
 
 # Kidney Stones

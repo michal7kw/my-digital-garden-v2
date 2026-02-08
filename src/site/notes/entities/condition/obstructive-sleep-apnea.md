@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.956556Z'
+created: '2026-02-08T19:29:31.618635Z'
 description: A sleep disorder where throat muscles intermittently relax and block
   the airway during sleep, causing breathing to stop and start.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/obstructive-sleep-apnea/
+permalink: /garden/dev_admin/condition/obstructive-sleep-apnea/
 slug: obstructive-sleep-apnea
 tags:
-- Condition
 - condition
 - respiratory
 - sleep_medicine
 - chronic
 title: Obstructive Sleep Apnea
-type: Condition
-updated: '2026-02-08T19:25:12.956556Z'
+type: condition
+updated: '2026-02-08T19:29:31.618635Z'
 ---
 
 # Obstructive Sleep Apnea

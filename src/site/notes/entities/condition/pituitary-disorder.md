@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.962840Z'
+created: '2026-02-08T19:29:31.623988Z'
 description: A group of conditions resulting from the dysfunction of the pituitary
   gland, the body's "master gland," typically caused by tumors or inflammation.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pituitary-disorder/
+permalink: /garden/dev_admin/condition/pituitary-disorder/
 slug: pituitary-disorder
 tags:
-- Condition
 - condition
 - endocrinology
 - hormones
 - function-health
 title: Pituitary Disorder
-type: Condition
-updated: '2026-02-08T19:25:12.962840Z'
+type: condition
+updated: '2026-02-08T19:29:31.623988Z'
 ---
 
 # Pituitary Disorder

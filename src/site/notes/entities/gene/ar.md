@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.993805Z'
+created: '2026-02-08T19:29:31.653805Z'
 description: Encodes the Androgen Receptor, a DNA-binding transcription factor that
   regulates gene expression in response to androgens.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/ar/
+permalink: /garden/dev_admin/gene/ar/
 slug: ar
 tags:
-- Gene
 - gene
 - hormone_receptor
 - transcription_factor
 - imported
 - primekg
 title: AR
-type: Gene
-updated: '2026-02-08T19:25:12.993805Z'
+type: gene
+updated: '2026-02-08T19:29:31.653805Z'
 ---
 
 # AR

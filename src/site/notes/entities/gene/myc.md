@@ -1,13 +1,12 @@
 ---
-created: '2026-02-08T19:25:12.996899Z'
+created: '2026-02-08T19:29:31.656868Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/myc/
+permalink: /garden/dev_admin/gene/myc/
 slug: myc
 tags:
-- Gene
 - gene
 - oncogene
 - transcription_factor
@@ -15,8 +14,8 @@ tags:
 - imported
 - primekg
 title: MYC
-type: Gene
-updated: '2026-02-08T19:25:12.996899Z'
+type: gene
+updated: '2026-02-08T19:29:31.656868Z'
 ---
 
 # "MYC"

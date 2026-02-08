@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.082336Z'
+created: '2026-02-08T19:29:31.740121Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/hearing-impairment/
+permalink: /garden/dev_admin/phenotype/hearing-impairment/
 slug: hearing-impairment
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Hearing impairment
-type: Phenotype
-updated: '2026-02-08T19:25:13.082336Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.740121Z'
 ---
 
 # Hearing impairment

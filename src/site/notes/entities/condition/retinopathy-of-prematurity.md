@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.967638Z'
+created: '2026-02-08T19:29:31.628171Z'
 description: An eye disease affecting premature babies where abnormal blood vessels
   grow in the retina, potentially leading to blindness.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/retinopathy-of-prematurity/
+permalink: /garden/dev_admin/condition/retinopathy-of-prematurity/
 slug: retinopathy-of-prematurity
 tags:
-- Condition
 - condition
 - ophthalmology
 - pediatrics
 - neonatology
 title: Retinopathy of Prematurity
-type: Condition
-updated: '2026-02-08T19:25:12.967638Z'
+type: condition
+updated: '2026-02-08T19:29:31.628171Z'
 ---
 
 # Retinopathy of Prematurity

@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:12.972441Z'
+created: '2026-02-08T19:29:31.632643Z'
 description: A condition characterized by an abnormally low number of platelets (thrombocytes)
   in the blood, which can lead to excessive bleeding and bruising.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/thrombocytopenia/
+permalink: /garden/dev_admin/condition/thrombocytopenia/
 slug: thrombocytopenia
 tags:
-- Condition
 - condition
 - hematology
 - function-health
 title: Thrombocytopenia
-type: Condition
-updated: '2026-02-08T19:25:12.972441Z'
+type: condition
+updated: '2026-02-08T19:29:31.632643Z'
 ---
 
 # Thrombocytopenia

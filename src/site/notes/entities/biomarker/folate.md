@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.887459Z'
+created: '2026-02-08T19:29:31.563107Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/folate/
+permalink: /garden/dev_admin/biomarker/folate/
 slug: folate
 tags:
-- Biomarker
 - biomarker
 title: Folate
-type: Biomarker
-updated: '2026-02-08T19:25:12.887459Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.563107Z'
 ---
 
 # Folate

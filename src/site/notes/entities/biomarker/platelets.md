@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.900185Z'
+created: '2026-02-08T19:29:31.574190Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/platelets/
+permalink: /garden/dev_admin/biomarker/platelets/
 slug: platelets
 tags:
-- Biomarker
 - biomarker
 title: Platelets
-type: Biomarker
-updated: '2026-02-08T19:25:12.900185Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.574190Z'
 ---
 
 # Platelets

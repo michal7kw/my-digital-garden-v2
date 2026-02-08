@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.964697Z'
+created: '2026-02-08T19:29:31.625538Z'
 description: An autoimmune inflammatory condition of the thyroid gland that occurs
   within the first year after childbirth, characterized by a transient hyperthyroid
   phase followed by a hypothyroid phase.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/postpartum-thyroiditis/
+permalink: /garden/dev_admin/condition/postpartum-thyroiditis/
 slug: postpartum-thyroiditis
 tags:
-- Condition
 - condition
 - endocrinology
 - thyroid
 - autoimmune
 - function-health
 title: Postpartum Thyroiditis
-type: Condition
-updated: '2026-02-08T19:25:12.964697Z'
+type: condition
+updated: '2026-02-08T19:29:31.625538Z'
 ---
 
 # Postpartum Thyroiditis

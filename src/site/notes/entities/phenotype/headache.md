@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.081968Z'
+created: '2026-02-08T19:29:31.739787Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/headache/
+permalink: /garden/dev_admin/phenotype/headache/
 slug: headache
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Headache
-type: Phenotype
-updated: '2026-02-08T19:25:13.081968Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.739787Z'
 ---
 
 # Headache

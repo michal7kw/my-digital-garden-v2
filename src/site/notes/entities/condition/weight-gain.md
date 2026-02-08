@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.975420Z'
+created: '2026-02-08T19:29:31.635554Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/weight-gain/
+permalink: /garden/dev_admin/condition/weight-gain/
 slug: weight-gain
 tags:
-- Condition
 - condition
 - metabolic
 - endocrinology
 - symptom
 title: Weight Gain
-type: Condition
-updated: '2026-02-08T19:25:12.975420Z'
+type: condition
+updated: '2026-02-08T19:29:31.635554Z'
 ---
 
 # Weight Gain

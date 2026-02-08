@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.094820Z'
+created: '2026-02-08T19:29:31.752386Z'
 description: Nuclear factor erythroid 2-related factor 2, the master regulator of
   antioxidant and cytoprotective gene expression. Normally sequestered in cytoplasm
   by Keap1, oxidative stress or electrophiles release NRF2 to activate the ARE (antioxidant
@@ -7,10 +7,9 @@ description: Nuclear factor erythroid 2-related factor 2, the master regulator o
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/nrf2/
+permalink: /garden/dev_admin/protein/nrf2/
 slug: nrf2
 tags:
-- Protein
 - protein
 - transcription_factor
 - antioxidant
@@ -18,8 +17,8 @@ tags:
 - detoxification
 - longevity
 title: NRF2
-type: Protein
-updated: '2026-02-08T19:25:13.094820Z'
+type: protein
+updated: '2026-02-08T19:29:31.752386Z'
 ---
 
 # NRF2

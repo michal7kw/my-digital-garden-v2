@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.893273Z'
+created: '2026-02-08T19:29:31.568230Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/ldl-size/
+permalink: /garden/dev_admin/biomarker/ldl-size/
 slug: ldl-size
 tags:
-- Biomarker
 - biomarker
 title: Ldl Size
-type: Biomarker
-updated: '2026-02-08T19:25:12.893273Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.568230Z'
 ---
 
 # Ldl Size

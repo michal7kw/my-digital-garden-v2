@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.094021Z'
+created: '2026-02-08T19:29:31.751602Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/gata2/
+permalink: /garden/dev_admin/protein/gata2/
 slug: gata2
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: GATA2
-type: Protein
-updated: '2026-02-08T19:25:13.094021Z'
+type: protein
+updated: '2026-02-08T19:29:31.751602Z'
 ---
 
 # GATA2

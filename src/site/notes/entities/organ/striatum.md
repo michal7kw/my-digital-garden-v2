@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.063959Z'
+created: '2026-02-08T19:29:31.722205Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Striatum
 type: organ
-updated: '2026-02-08T19:25:13.063959Z'
+updated: '2026-02-08T19:29:31.722205Z'
 ---
 
 # Striatum

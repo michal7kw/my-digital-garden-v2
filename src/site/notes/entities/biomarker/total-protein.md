@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.904417Z'
+created: '2026-02-08T19:29:31.577615Z'
 description: A measurement of the total amount of albumin and globulin in the serum,
   reflecting nutritional status and organ function.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/total-protein/
+permalink: /garden/dev_admin/biomarker/total-protein/
 slug: total-protein
 tags:
-- Biomarker
 - biomarker
 - metabolic
 - nutrition
 - liver_function
 - kidney_function
 title: Total Protein
-type: Biomarker
-updated: '2026-02-08T19:25:12.904417Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.577615Z'
 ---
 
 # Total Protein

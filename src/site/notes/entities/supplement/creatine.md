@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.107885Z'
+created: '2026-02-08T19:29:31.765195Z'
 description: Most researched sports supplement. Enhances ATP regeneration for high-intensity
   exercise and supports brain energy. Proven safe and effective.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/creatine/
+permalink: /garden/dev_admin/supplement/creatine/
 slug: creatine
 tags:
-- Supplement
 - supplement
 - amino_acid
 - energy
@@ -16,8 +15,8 @@ tags:
 - brain
 - athletic
 title: Creatine
-type: Supplement
-updated: '2026-02-08T19:25:13.107885Z'
+type: supplement
+updated: '2026-02-08T19:29:31.765195Z'
 ---
 
 # Creatine

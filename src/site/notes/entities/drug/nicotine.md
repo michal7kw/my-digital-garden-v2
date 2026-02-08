@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:12.984912Z'
+created: '2026-02-08T19:29:31.644963Z'
 description: Nicotine is a naturally occurring alkaloid found in tobacco plants that
   acts as a nicotinic acetylcholine receptor agonist. It influences mitochondrial
   function both in vitro and in vivo, affecting the respiratory chain, oxidative stress,
@@ -7,18 +7,17 @@ description: Nicotine is a naturally occurring alkaloid found in tobacco plants 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/nicotine/
+permalink: /garden/dev_admin/drug/nicotine/
 slug: nicotine
 tags:
-- Drug
 - drug
 - alkaloid
 - nicotinic_receptor_agonist
 - mitochondria
 - oxidative_stress
 title: Nicotine
-type: Drug
-updated: '2026-02-08T19:25:12.984912Z'
+type: drug
+updated: '2026-02-08T19:29:31.644963Z'
 ---
 
 # Nicotine

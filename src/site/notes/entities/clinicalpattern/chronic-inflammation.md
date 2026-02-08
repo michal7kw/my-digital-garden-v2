@@ -1,22 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.910625Z'
+created: '2026-02-08T19:29:31.582682Z'
 description: Persistent low-grade inflammation indicated by elevated inflammatory
   biomarkers. Associated with accelerated aging and chronic disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/ClinicalPattern/chronic-inflammation/
+permalink: /garden/dev_admin/clinicalpattern/chronic-inflammation/
 slug: chronic-inflammation
 tags:
-- ClinicalPattern
+- clinicalpattern
 - clinical_pattern
 - inflammation
 - cardiovascular
 - aging
 - autoimmune
 title: Chronic Inflammation
-type: ClinicalPattern
-updated: '2026-02-08T19:25:12.910625Z'
+type: clinicalpattern
+updated: '2026-02-08T19:29:31.582682Z'
 ---
 
 # Chronic Inflammation

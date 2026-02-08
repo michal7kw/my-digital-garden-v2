@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.945695Z'
+created: '2026-02-08T19:29:31.609375Z'
 description: A physiological condition where cells fail to respond normally to the
   hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/insulin-resistance/
+permalink: /garden/dev_admin/condition/insulin-resistance/
 slug: insulin-resistance
 tags:
-- Condition
 - condition
 - metabolic
 - endocrine
 - glucose_metabolism
 title: Insulin Resistance
-type: Condition
-updated: '2026-02-08T19:25:12.945695Z'
+type: condition
+updated: '2026-02-08T19:29:31.609375Z'
 ---
 
 # Insulin Resistance

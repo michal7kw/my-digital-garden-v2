@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.939581Z'
+created: '2026-02-08T19:29:31.604294Z'
 description: A common, harmless genetic liver disorder in which the liver doesn't
   properly process bilirubin, leading to mild, intermittent jaundice.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/gilberts-syndrome/
+permalink: /garden/dev_admin/condition/gilberts-syndrome/
 slug: gilberts-syndrome
 tags:
-- Condition
 - condition
 - hepatology
 - genetic
 - function-health
 title: Gilberts Syndrome
-type: Condition
-updated: '2026-02-08T19:25:12.939581Z'
+type: condition
+updated: '2026-02-08T19:29:31.604294Z'
 ---
 
 # Gilberts Syndrome

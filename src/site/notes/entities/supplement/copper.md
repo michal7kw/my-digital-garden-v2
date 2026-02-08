@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.107439Z'
+created: '2026-02-08T19:29:31.764763Z'
 description: Essential trace mineral crucial for iron metabolism, connective tissue
   formation, and antioxidant defense (SOD). Balance with zinc is critical for optimal
   function.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/copper/
+permalink: /garden/dev_admin/supplement/copper/
 slug: copper
 tags:
-- Supplement
 - supplement
 - mineral
 - essential_nutrient
@@ -17,8 +16,8 @@ tags:
 - connective_tissue
 - iron_metabolism
 title: Copper
-type: Supplement
-updated: '2026-02-08T19:25:13.107439Z'
+type: supplement
+updated: '2026-02-08T19:29:31.764763Z'
 ---
 
 # Copper

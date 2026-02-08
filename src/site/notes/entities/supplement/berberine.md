@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.106162Z'
+created: '2026-02-08T19:29:31.763528Z'
 description: Powerful plant alkaloid with profound effects on blood sugar and metabolism.
   Activates AMPK similar to metformin. One of the most effective natural compounds
   for metabolic health.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/berberine/
+permalink: /garden/dev_admin/supplement/berberine/
 slug: berberine
 tags:
-- Supplement
 - supplement
 - alkaloid
 - blood_sugar
@@ -17,8 +16,8 @@ tags:
 - ampk_activator
 - cholesterol
 title: Berberine
-type: Supplement
-updated: '2026-02-08T19:25:13.106162Z'
+type: supplement
+updated: '2026-02-08T19:29:31.763528Z'
 ---
 
 # Berberine

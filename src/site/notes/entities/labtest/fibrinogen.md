@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.018491Z'
+created: '2026-02-08T19:29:31.677378Z'
 description: Clotting factor and acute phase reactant. Elevated in inflammation and
   cardiovascular disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/fibrinogen/
+permalink: /garden/dev_admin/labtest/fibrinogen/
 slug: fibrinogen
 tags:
-- LabTest
 - labtest
 title: fibrinogen
-type: LabTest
-updated: '2026-02-08T19:25:13.018491Z'
+type: labtest
+updated: '2026-02-08T19:29:31.677378Z'
 ---
 
 # fibrinogen

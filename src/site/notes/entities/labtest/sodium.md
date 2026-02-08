@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.043570Z'
+created: '2026-02-08T19:29:31.701950Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -8,16 +8,15 @@ description: Tested twice a year Sodium, an essential electrolyte commonly consu
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/sodium/
+permalink: /garden/dev_admin/labtest/sodium/
 slug: sodium
 tags:
-- LabTest
 - labtest
 - blood-panel
 - function-health
 title: sodium
-type: LabTest
-updated: '2026-02-08T19:25:13.043570Z'
+type: labtest
+updated: '2026-02-08T19:29:31.701950Z'
 ---
 
 # Sodium

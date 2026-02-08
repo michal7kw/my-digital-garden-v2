@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.085716Z'
+created: '2026-02-08T19:29:31.743485Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/seizure/
+permalink: /garden/dev_admin/phenotype/seizure/
 slug: seizure
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Seizure
-type: Phenotype
-updated: '2026-02-08T19:25:13.085716Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.743485Z'
 ---
 
 # Seizure

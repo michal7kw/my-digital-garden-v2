@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.027188Z'
+created: '2026-02-08T19:29:31.685934Z'
 description: LDL particle pattern measures whether LDL particles are mostly small
   and dense (Pattern B) or larger and lighter (Pattern A). Standard LDL tests measure
   cholesterol by weight, but this test shows particle type. Pattern B is linked to
@@ -8,14 +8,13 @@ description: LDL particle pattern measures whether LDL particles are mostly smal
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/ldl-pattern/
+permalink: /garden/dev_admin/labtest/ldl-pattern/
 slug: ldl-pattern
 tags:
-- LabTest
 - labtest
 title: ldl_pattern
-type: LabTest
-updated: '2026-02-08T19:25:13.027188Z'
+type: labtest
+updated: '2026-02-08T19:29:31.685934Z'
 ---
 
 # LDL Pattern

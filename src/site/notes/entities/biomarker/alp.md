@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.878395Z'
+created: '2026-02-08T19:29:31.554475Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/alp/
+permalink: /garden/dev_admin/biomarker/alp/
 slug: alp
 tags:
-- Biomarker
 - biomarker
 title: Alp
-type: Biomarker
-updated: '2026-02-08T19:25:12.878395Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.554475Z'
 ---
 
 # Alp

@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.110899Z'
+created: '2026-02-08T19:29:31.768142Z'
 description: Amino acid precursor to dopamine, norepinephrine, epinephrine, and thyroid
   hormones. Supports cognitive function under stress and thyroid health.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/l-tyrosine/
+permalink: /garden/dev_admin/supplement/l-tyrosine/
 slug: l-tyrosine
 tags:
-- Supplement
 - supplement
 - amino_acid
 - dopamine
@@ -16,8 +15,8 @@ tags:
 - stress
 - cognitive
 title: L-Tyrosine
-type: Supplement
-updated: '2026-02-08T19:25:13.110899Z'
+type: supplement
+updated: '2026-02-08T19:29:31.768142Z'
 ---
 
 # L-Tyrosine

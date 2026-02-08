@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.998290Z'
+created: '2026-02-08T19:29:31.658176Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/ubc/
+permalink: /garden/dev_admin/gene/ubc/
 slug: ubc
 tags:
-- Gene
 - gene
 - imported
 - primekg
 title: UBC
-type: Gene
-updated: '2026-02-08T19:25:12.998290Z'
+type: gene
+updated: '2026-02-08T19:29:31.658176Z'
 ---
 
 # "UBC"

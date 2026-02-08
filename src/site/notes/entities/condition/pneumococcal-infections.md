@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.963099Z'
+created: '2026-02-08T19:29:31.624206Z'
 description: Infections caused by the bacterium Streptococcus pneumoniae, ranging
   from ear and sinus infections to pneumonia and bloodstream infections.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pneumococcal-infections/
+permalink: /garden/dev_admin/condition/pneumococcal-infections/
 slug: pneumococcal-infections
 tags:
-- Condition
 - condition
 - infectious_disease
 - bacterial
 - respiratory
 title: Pneumococcal Infections
-type: Condition
-updated: '2026-02-08T19:25:12.963099Z'
+type: condition
+updated: '2026-02-08T19:29:31.624206Z'
 ---
 
 # Pneumococcal Infections

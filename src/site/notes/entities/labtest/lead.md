@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.028003Z'
+created: '2026-02-08T19:29:31.686757Z'
 description: Lead is a heavy metal commonly found in contaminated water and soil,
   older houses, and some occupational settings. Lead exposure can impact nearly every
   organ, but it most strongly affects the nervous system, blood, bone marrow, kidneys,
@@ -7,16 +7,15 @@ description: Lead is a heavy metal commonly found in contaminated water and soil
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/lead/
+permalink: /garden/dev_admin/labtest/lead/
 slug: lead
 tags:
-- LabTest
 - labtest
 - toxicology
 - function-health
 title: lead
-type: LabTest
-updated: '2026-02-08T19:25:13.028003Z'
+type: labtest
+updated: '2026-02-08T19:29:31.686757Z'
 ---
 
 # Lead

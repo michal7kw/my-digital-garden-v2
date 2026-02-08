@@ -1,13 +1,12 @@
 ---
-created: '2026-02-08T19:25:12.995830Z'
+created: '2026-02-08T19:29:31.655819Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/esr1/
+permalink: /garden/dev_admin/gene/esr1/
 slug: esr1
 tags:
-- Gene
 - gene
 - endocrine
 - cancer_biology
@@ -15,8 +14,8 @@ tags:
 - imported
 - primekg
 title: ESR1
-type: Gene
-updated: '2026-02-08T19:25:12.995830Z'
+type: gene
+updated: '2026-02-08T19:29:31.655819Z'
 ---
 
 # "ESR1"

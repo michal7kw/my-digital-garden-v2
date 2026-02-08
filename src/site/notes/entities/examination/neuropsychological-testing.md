@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.992192Z'
+created: '2026-02-08T19:29:31.652103Z'
 description: Comprehensive cognitive assessment using standardized tests to evaluate
   memory, attention, language, visuospatial function, and executive abilities. Essential
   for dementia diagnosis, staging, and differential diagnosis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Examination/neuropsychological-testing/
+permalink: /garden/dev_admin/examination/neuropsychological-testing/
 slug: neuropsychological-testing
 tags:
-- Examination
 - examination
 - cognitive
 - assessment
 - diagnosis
 - dementia
 title: Neuropsychological Testing
-type: Examination
-updated: '2026-02-08T19:25:12.992192Z'
+type: examination
+updated: '2026-02-08T19:29:31.652103Z'
 ---
 
 # Neuropsychological Testing

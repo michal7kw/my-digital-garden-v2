@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.031449Z'
+created: '2026-02-08T19:29:31.690186Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin (m-c-h) Tested twice a year Mean
   corpuscular hemoglobin (MCH) measures the average amount of hemoglobin, the oxygen-carrying
   protein, in each red blood cell. Low MCH often points to iron deficiency anemia,
@@ -7,14 +7,13 @@ description: meen kor-pus-kyoo-lur hee-muh-gloh-bin (m-c-h) Tested twice a year 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/mean-corpuscular-hemoglobin-mch/
+permalink: /garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/
 slug: mean-corpuscular-hemoglobin-mch
 tags:
-- LabTest
 - labtest
 title: mean_corpuscular_hemoglobin_mch
-type: LabTest
-updated: '2026-02-08T19:25:13.031449Z'
+type: labtest
+updated: '2026-02-08T19:29:31.690186Z'
 ---
 
 # Mean Corpuscular Hemoglobin (MCH)

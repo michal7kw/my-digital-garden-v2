@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.072236Z'
+created: '2026-02-08T19:29:31.730286Z'
 description: Mitophagy is the selective degradation of damaged or dysfunctional mitochondria
   by autophagy. It is a critical quality control mechanism that maintains cellular
   health by removing mitochondria that could otherwise produce excessive reactive
@@ -7,18 +7,17 @@ description: Mitophagy is the selective degradation of damaged or dysfunctional 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Pathway/mitophagy/
+permalink: /garden/dev_admin/pathway/mitophagy/
 slug: mitophagy
 tags:
-- Pathway
 - pathway
 - autophagy
 - mitochondria
 - quality_control
 - cellular_health
 title: Mitophagy
-type: Pathway
-updated: '2026-02-08T19:25:13.072236Z'
+type: pathway
+updated: '2026-02-08T19:29:31.730286Z'
 ---
 
 # Mitophagy

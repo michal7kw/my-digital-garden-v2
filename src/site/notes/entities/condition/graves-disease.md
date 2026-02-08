@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.941070Z'
+created: '2026-02-08T19:29:31.605387Z'
 description: An autoimmune disorder that causes overactivity of the thyroid gland
   (hyperthyroidism) through the production of stimulating antibodies.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/graves-disease/
+permalink: /garden/dev_admin/condition/graves-disease/
 slug: graves-disease
 tags:
-- Condition
 - condition
 - endocrinology
 - autoimmune
 - thyroid
 - function-health
 title: Graves Disease
-type: Condition
-updated: '2026-02-08T19:25:12.941070Z'
+type: condition
+updated: '2026-02-08T19:29:31.605387Z'
 ---
 
 # Graves Disease

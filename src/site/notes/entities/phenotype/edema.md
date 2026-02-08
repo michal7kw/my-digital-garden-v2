@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.079581Z'
+created: '2026-02-08T19:29:31.737506Z'
 description: Abnormal accumulation of fluid in tissues causing swelling.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/edema/
+permalink: /garden/dev_admin/phenotype/edema/
 slug: edema
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Edema
-type: Phenotype
-updated: '2026-02-08T19:25:13.079581Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.737506Z'
 ---
 
 # Edema

@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.879249Z'
+created: '2026-02-08T19:29:31.555316Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/ast/
+permalink: /garden/dev_admin/biomarker/ast/
 slug: ast
 tags:
-- Biomarker
 - biomarker
 title: Ast
-type: Biomarker
-updated: '2026-02-08T19:25:12.879249Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.555316Z'
 ---
 
 # Ast

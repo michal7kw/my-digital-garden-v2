@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.098972Z'
+created: '2026-02-08T19:29:31.756484Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/identical-protein-binding/
+permalink: /garden/dev_admin/protein/identical-protein-binding/
 slug: identical-protein-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: identical protein binding
-type: Protein
-updated: '2026-02-08T19:25:13.098972Z'
+type: protein
+updated: '2026-02-08T19:29:31.756484Z'
 ---
 
 # identical protein binding

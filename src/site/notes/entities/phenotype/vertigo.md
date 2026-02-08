@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.086998Z'
+created: '2026-02-08T19:29:31.744731Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/vertigo/
+permalink: /garden/dev_admin/phenotype/vertigo/
 slug: vertigo
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Vertigo
-type: Phenotype
-updated: '2026-02-08T19:25:13.086998Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.744731Z'
 ---
 
 # Vertigo

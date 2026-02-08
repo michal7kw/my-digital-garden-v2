@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.113759Z'
+created: '2026-02-08T19:29:31.770946Z'
 description: Pyrroloquinoline quinone - a novel redox cofactor that supports mitochondrial
   biogenesis. Promotes PGC-1α expression, enhances mitochondrial function, and provides
   neuroprotection.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/pqq/
+permalink: /garden/dev_admin/supplement/pqq/
 slug: pqq
 tags:
-- Supplement
 - supplement
 - antioxidant
 - mitochondrial
@@ -17,8 +16,8 @@ tags:
 - longevity
 - energy
 title: PQQ
-type: Supplement
-updated: '2026-02-08T19:25:13.113759Z'
+type: supplement
+updated: '2026-02-08T19:29:31.770946Z'
 ---
 
 # PQQ

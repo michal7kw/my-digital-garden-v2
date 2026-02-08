@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.963869Z'
+created: '2026-02-08T19:29:31.624851Z'
 description: A slow-growing blood cancer in which the bone marrow makes too many red
   blood cells, causing the blood to thicken and increasing the risk of clots.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/polycythemia-vera/
+permalink: /garden/dev_admin/condition/polycythemia-vera/
 slug: polycythemia-vera
 tags:
-- Condition
 - condition
 - hematology
 - oncology
 - function-health
 title: Polycythemia Vera
-type: Condition
-updated: '2026-02-08T19:25:12.963869Z'
+type: condition
+updated: '2026-02-08T19:29:31.624851Z'
 ---
 
 # Polycythemia Vera

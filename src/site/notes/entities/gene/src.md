@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.997495Z'
+created: '2026-02-08T19:29:31.657412Z'
 description: Encodes the proto-oncogene tyrosine-protein kinase Src. The first retroviral
   oncogene discovered.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/src/
+permalink: /garden/dev_admin/gene/src/
 slug: src
 tags:
-- Gene
 - gene
 - oncogene
 - kinase
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: SRC
-type: Gene
-updated: '2026-02-08T19:25:12.997495Z'
+type: gene
+updated: '2026-02-08T19:29:31.657412Z'
 ---
 
 # SRC

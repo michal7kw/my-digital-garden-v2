@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.040085Z'
+created: '2026-02-08T19:29:31.698552Z'
 description: Prolactin is a hormone made by the pituitary gland in the brain. In females,
   it supports breast development, plays a central role in milk production after childbirth,
   and also influences the menstrual cycle. Measuring prolactin can help explain irregular
@@ -8,16 +8,15 @@ description: Prolactin is a hormone made by the pituitary gland in the brain. In
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/prolactin/
+permalink: /garden/dev_admin/labtest/prolactin/
 slug: prolactin
 tags:
-- LabTest
 - labtest
 - hormones
 - function-health
 title: prolactin
-type: LabTest
-updated: '2026-02-08T19:25:13.040085Z'
+type: labtest
+updated: '2026-02-08T19:29:31.698552Z'
 ---
 
 # Prolactin

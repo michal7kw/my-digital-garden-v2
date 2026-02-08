@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.897644Z'
+created: '2026-02-08T19:29:31.571903Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/omega3-index/
+permalink: /garden/dev_admin/biomarker/omega3-index/
 slug: omega3-index
 tags:
-- Biomarker
 - biomarker
 title: Omega3 Index
-type: Biomarker
-updated: '2026-02-08T19:25:12.897644Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.571903Z'
 ---
 
 # Omega3 Index

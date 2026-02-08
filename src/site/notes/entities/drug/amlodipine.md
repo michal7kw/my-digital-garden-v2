@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.977062Z'
+created: '2026-02-08T19:29:31.637131Z'
 description: Long-acting dihydropyridine calcium channel blocker for hypertension
   and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the
   most prescribed antihypertensives.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/amlodipine/
+permalink: /garden/dev_admin/drug/amlodipine/
 slug: amlodipine
 tags:
-- Drug
 - drug
 - calcium_channel_blocker
 - antihypertensive
 - cardiovascular
 - prescription
 title: Amlodipine
-type: Drug
-updated: '2026-02-08T19:25:12.977062Z'
+type: drug
+updated: '2026-02-08T19:29:31.637131Z'
 ---
 
 # Amlodipine

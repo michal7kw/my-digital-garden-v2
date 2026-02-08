@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.095702Z'
+created: '2026-02-08T19:29:31.753280Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/rad21/
+permalink: /garden/dev_admin/protein/rad21/
 slug: rad21
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: RAD21
-type: Protein
-updated: '2026-02-08T19:25:13.095702Z'
+type: protein
+updated: '2026-02-08T19:29:31.753280Z'
 ---
 
 # RAD21

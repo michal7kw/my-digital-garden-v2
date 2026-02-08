@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.956024Z'
+created: '2026-02-08T19:29:31.618184Z'
 description: The most common type of lung cancer, accounting for about 85% of cases,
   characterized by slower growth and spread compared to small cell lung cancer.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/non-small-cell-lung-carcinoma/
+permalink: /garden/dev_admin/condition/non-small-cell-lung-carcinoma/
 slug: non-small-cell-lung-carcinoma
 tags:
-- Condition
 - condition
 - oncology
 - lung
 - carcinoma
 title: Non-Small Cell Lung Carcinoma
-type: Condition
-updated: '2026-02-08T19:25:12.956024Z'
+type: condition
+updated: '2026-02-08T19:29:31.618184Z'
 ---
 
 # Non-Small Cell Lung Carcinoma

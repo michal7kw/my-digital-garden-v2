@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.012657Z'
+created: '2026-02-08T19:29:31.671816Z'
 description: Carcinoembryonic Antigen (CEA) test. Tumor marker primarily used for
   monitoring colorectal cancer treatment response and detecting recurrence. Also elevated
   in pancreatic, lung, breast, and other adenocarcinomas.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/cea/
+permalink: /garden/dev_admin/labtest/cea/
 slug: cea
 tags:
-- LabTest
 - labtest
 title: cea
-type: LabTest
-updated: '2026-02-08T19:25:13.012657Z'
+type: labtest
+updated: '2026-02-08T19:29:31.671816Z'
 ---
 
 # CEA

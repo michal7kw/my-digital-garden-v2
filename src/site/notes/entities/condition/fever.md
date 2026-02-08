@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.937985Z'
+created: '2026-02-08T19:29:31.603097Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/fever/
+permalink: /garden/dev_admin/condition/fever/
 slug: fever
 tags:
-- Condition
 - condition
 title: Fever
-type: Condition
-updated: '2026-02-08T19:25:12.937985Z'
+type: condition
+updated: '2026-02-08T19:29:31.603097Z'
 ---
 
 # Fever

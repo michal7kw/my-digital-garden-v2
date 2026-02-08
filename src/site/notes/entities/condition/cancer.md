@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.976097Z'
+created: '2026-02-08T19:29:31.636175Z'
 description: A large group of diseases characterized by the uncontrolled growth and
   spread of abnormal cells, which can invade nearby tissues and metastasize to distant
   organs.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/cancer/
+permalink: /garden/dev_admin/condition/cancer/
 slug: cancer
 tags:
-- Condition
 - condition
 - oncology
 - malignant_neoplasm
 - genetic_disorder
 title: Cancer
-type: Condition
-updated: '2026-02-08T19:25:12.976097Z'
+type: condition
+updated: '2026-02-08T19:29:31.636175Z'
 ---
 
 # Cancer

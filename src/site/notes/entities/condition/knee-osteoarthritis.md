@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.948053Z'
+created: '2026-02-08T19:29:31.611364Z'
 description: A degenerative joint disease affecting the knee, characterized by the
   breakdown of cartilage and underlying bone, leading to pain and stiffness.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/knee-osteoarthritis/
+permalink: /garden/dev_admin/condition/knee-osteoarthritis/
 slug: knee-osteoarthritis
 tags:
-- Condition
 - condition
 - orthopedics
 - rheumatology
 - chronic
 - degenerative
 title: Knee Osteoarthritis
-type: Condition
-updated: '2026-02-08T19:25:12.948053Z'
+type: condition
+updated: '2026-02-08T19:29:31.611364Z'
 ---
 
 # Knee Osteoarthritis

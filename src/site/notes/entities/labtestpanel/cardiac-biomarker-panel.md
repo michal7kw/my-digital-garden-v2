@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.053835Z'
+created: '2026-02-08T19:29:31.711882Z'
 description: Evaluates cardiac injury and heart failure through key biomarkers including
   troponins for myocardial damage and natriuretic peptides for ventricular stress.
   Essential for emergency chest pain evaluation and heart failure monitoring.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTestPanel/cardiac-biomarker-panel/
+permalink: /garden/dev_admin/labtestpanel/cardiac-biomarker-panel/
 slug: cardiac-biomarker-panel
 tags:
-- LabTestPanel
 - labtestpanel
 title: cardiac_biomarker_panel
-type: LabTestPanel
-updated: '2026-02-08T19:25:13.053835Z'
+type: labtestpanel
+updated: '2026-02-08T19:29:31.711882Z'
 ---
 
 # Cardiac Biomarker Panel

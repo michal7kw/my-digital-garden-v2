@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.114942Z'
+created: '2026-02-08T19:29:31.772088Z'
 description: Polyphenol found in red wine and grapes that activates sirtuins and mimics
   caloric restriction effects. Supports cardiovascular health and longevity pathways.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/resveratrol/
+permalink: /garden/dev_admin/supplement/resveratrol/
 slug: resveratrol
 tags:
-- Supplement
 - supplement
 - polyphenol
 - longevity
@@ -16,8 +15,8 @@ tags:
 - sirtuin_activator
 - antioxidant
 title: Resveratrol
-type: Supplement
-updated: '2026-02-08T19:25:13.114942Z'
+type: supplement
+updated: '2026-02-08T19:29:31.772088Z'
 ---
 
 # Resveratrol

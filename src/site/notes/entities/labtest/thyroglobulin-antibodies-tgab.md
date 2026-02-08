@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.045352Z'
+created: '2026-02-08T19:29:31.703749Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
@@ -7,14 +7,13 @@ description: Thyroglobulin antibodies are proteins made by the immune system tha
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/thyroglobulin-antibodies-tgab/
+permalink: /garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/
 slug: thyroglobulin-antibodies-tgab
 tags:
-- LabTest
 - labtest
 title: thyroglobulin_antibodies_tgab
-type: LabTest
-updated: '2026-02-08T19:25:13.045352Z'
+type: labtest
+updated: '2026-02-08T19:29:31.703749Z'
 ---
 
 # Thyroglobulin Antibodies (TgAb)

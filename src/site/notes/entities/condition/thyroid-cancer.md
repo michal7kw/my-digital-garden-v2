@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.972656Z'
+created: '2026-02-08T19:29:31.632850Z'
 description: A type of cancer that starts in the thyroid gland, with papillary thyroid
   carcinoma being the most common and generally treatable form.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/thyroid-cancer/
+permalink: /garden/dev_admin/condition/thyroid-cancer/
 slug: thyroid-cancer
 tags:
-- Condition
 - condition
 - oncology
 - endocrinology
 - thyroid
 - function-health
 title: Thyroid Cancer
-type: Condition
-updated: '2026-02-08T19:25:12.972656Z'
+type: condition
+updated: '2026-02-08T19:29:31.632850Z'
 ---
 
 # Thyroid Cancer

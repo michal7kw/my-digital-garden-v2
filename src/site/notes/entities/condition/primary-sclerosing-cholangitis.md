@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.965719Z'
+created: '2026-02-08T19:29:31.626416Z'
 description: A chronic, progressive disease of the bile ducts characterized by inflammation,
   scarring, and narrowing of the ducts both inside and outside the liver.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/primary-sclerosing-cholangitis/
+permalink: /garden/dev_admin/condition/primary-sclerosing-cholangitis/
 slug: primary-sclerosing-cholangitis
 tags:
-- Condition
 - condition
 - hepatology
 - gastroenterology
 - autoimmune
 - function-health
 title: Primary Sclerosing Cholangitis
-type: Condition
-updated: '2026-02-08T19:25:12.965719Z'
+type: condition
+updated: '2026-02-08T19:29:31.626416Z'
 ---
 
 # Primary Sclerosing Cholangitis

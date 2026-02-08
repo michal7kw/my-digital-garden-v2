@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.934272Z'
+created: '2026-02-08T19:29:31.600382Z'
 description: A group of metabolic disorders characterized by high blood sugar levels
   over a prolonged period, resulting from defects in insulin secretion, insulin action,
   or both.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/diabetes-mellitus/
+permalink: /garden/dev_admin/condition/diabetes-mellitus/
 slug: diabetes-mellitus
 tags:
-- Condition
 - condition
 - metabolic
 - endocrinology
 - chronic
 title: Diabetes Mellitus
-type: Condition
-updated: '2026-02-08T19:25:12.934272Z'
+type: condition
+updated: '2026-02-08T19:29:31.600382Z'
 ---
 
 # Diabetes Mellitus

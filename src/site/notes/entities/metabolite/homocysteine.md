@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.054622Z'
+created: '2026-02-08T19:29:31.712628Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Metabolite/homocysteine/
+permalink: /garden/dev_admin/metabolite/homocysteine/
 slug: homocysteine
 tags:
-- Metabolite
 - metabolite
 - cardiovascular_risk
 - methylation
 - amino_acid
 title: Homocysteine
-type: Metabolite
-updated: '2026-02-08T19:25:13.054622Z'
+type: metabolite
+updated: '2026-02-08T19:29:31.712628Z'
 ---
 
 # Homocysteine

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.083276Z'
+created: '2026-02-08T19:29:31.741026Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/intellectual-disability/
+permalink: /garden/dev_admin/phenotype/intellectual-disability/
 slug: intellectual-disability
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Intellectual disability
-type: Phenotype
-updated: '2026-02-08T19:25:13.083276Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.741026Z'
 ---
 
 # Intellectual disability

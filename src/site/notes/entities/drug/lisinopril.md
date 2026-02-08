@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.982638Z'
+created: '2026-02-08T19:29:31.642765Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/lisinopril/
+permalink: /garden/dev_admin/drug/lisinopril/
 slug: lisinopril
 tags:
-- Drug
 - drug
 - ace_inhibitor
 - antihypertensive
@@ -17,8 +16,8 @@ tags:
 - nephroprotective
 - prescription
 title: Lisinopril
-type: Drug
-updated: '2026-02-08T19:25:12.982638Z'
+type: drug
+updated: '2026-02-08T19:29:31.642765Z'
 ---
 
 # Lisinopril

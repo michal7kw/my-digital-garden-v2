@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.043385Z'
+created: '2026-02-08T19:29:31.701772Z'
 description: Binds testosterone and estrogen. Important for calculating free hormone
   levels and assessing metabolic health.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/shbg/
+permalink: /garden/dev_admin/labtest/shbg/
 slug: shbg
 tags:
-- LabTest
 - labtest
 title: shbg
-type: LabTest
-updated: '2026-02-08T19:25:13.043385Z'
+type: labtest
+updated: '2026-02-08T19:29:31.701772Z'
 ---
 
 # shbg

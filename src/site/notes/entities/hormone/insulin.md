@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.998911Z'
+created: '2026-02-08T19:29:31.658770Z'
 description: Peptide hormone produced by pancreatic beta cells that regulates glucose
   metabolism, enabling cells to absorb glucose from the bloodstream for energy production
   or storage.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Hormone/insulin/
+permalink: /garden/dev_admin/hormone/insulin/
 slug: insulin
 tags:
-- Hormone
 - hormone
 - peptide
 - metabolic
 - glucose_regulation
 - pancreas
 title: Insulin
-type: Hormone
-updated: '2026-02-08T19:25:12.998911Z'
+type: hormone
+updated: '2026-02-08T19:29:31.658770Z'
 ---
 
 # Insulin

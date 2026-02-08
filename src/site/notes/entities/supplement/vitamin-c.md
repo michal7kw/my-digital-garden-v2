@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.117813Z'
+created: '2026-02-08T19:29:31.774775Z'
 description: Essential water-soluble vitamin and powerful antioxidant. Supports immune
   function, collagen synthesis, iron absorption, and stress response. Humans cannot
   synthesize it and must obtain it from diet or supplements.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/vitamin-c/
+permalink: /garden/dev_admin/supplement/vitamin-c/
 slug: vitamin-c
 tags:
-- Supplement
 - supplement
 - vitamin
 - antioxidant
@@ -17,8 +16,8 @@ tags:
 - collagen
 - adrenal
 title: Vitamin C
-type: Supplement
-updated: '2026-02-08T19:25:13.117813Z'
+type: supplement
+updated: '2026-02-08T19:29:31.774775Z'
 ---
 
 # Vitamin C

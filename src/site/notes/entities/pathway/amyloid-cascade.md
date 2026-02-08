@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:13.066469Z'
+created: '2026-02-08T19:29:31.724676Z'
 description: The hypothesis that amyloid-beta accumulation is the primary initiating
   event in Alzheimer's disease, triggering downstream tau pathology, neuroinflammation,
   synaptic dysfunction, and neuronal death.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Pathway/amyloid-cascade/
+permalink: /garden/dev_admin/pathway/amyloid-cascade/
 slug: amyloid-cascade
 tags:
-- Pathway
 - pathway
 - neurodegeneration
 - alzheimers
 - amyloid-beta
 - hypothesis
 title: Amyloid Cascade
-type: Pathway
-updated: '2026-02-08T19:25:13.066469Z'
+type: pathway
+updated: '2026-02-08T19:29:31.724676Z'
 ---
 
 # Amyloid Cascade

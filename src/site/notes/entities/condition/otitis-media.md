@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:12.958595Z'
+created: '2026-02-08T19:29:31.620359Z'
 description: An infection or inflammation of the middle ear, located behind the eardrum.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/otitis-media/
+permalink: /garden/dev_admin/condition/otitis-media/
 slug: otitis-media
 tags:
-- Condition
 - condition
 - otolaryngology
 - pediatrics
 - infection
 title: Otitis Media
-type: Condition
-updated: '2026-02-08T19:25:12.958595Z'
+type: condition
+updated: '2026-02-08T19:29:31.620359Z'
 ---
 
 # Otitis Media

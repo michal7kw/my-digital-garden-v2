@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.103041Z'
+created: '2026-02-08T19:29:31.760536Z'
 description: This systematic review and meta-analysis of 46 randomized controlled
   trials (n=4,158 participants) evaluated the efficacy and safety of berberine for
   type 2 diabetes. Berberine significantly reduced fasting blood glucose, HbA1c, and
@@ -8,10 +8,10 @@ description: This systematic review and meta-analysis of 46 randomized controlle
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Research/efficacy-and-safety-of-berberine-for-type-2-diabetes-a-systematic-review-and-meta-analysis/
+permalink: /garden/dev_admin/research/efficacy-and-safety-of-berberine-for-type-2-diabetes-a-systematic-review-and-meta-analysis/
 slug: efficacy-and-safety-of-berberine-for-type-2-diabetes-a-systematic-review-and-meta-analysis
 tags:
-- Research
+- research
 - berberine
 - AMPK
 - type 2 diabetes
@@ -20,8 +20,8 @@ tags:
 - systematic review
 title: 'Efficacy and safety of berberine for type 2 diabetes: A systematic review
   and meta-analysis'
-type: Research
-updated: '2026-02-08T19:25:13.103041Z'
+type: research
+updated: '2026-02-08T19:29:31.760536Z'
 ---
 
 # Efficacy and safety of berberine for type 2 diabetes: A systematic review and meta-analysis

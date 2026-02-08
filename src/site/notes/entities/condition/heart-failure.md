@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.942114Z'
+created: '2026-02-08T19:29:31.606320Z'
 description: A chronic, progressive syndrome in which the heart muscle is unable to
   pump enough blood to meet the body's needs for blood and oxygen.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/heart-failure/
+permalink: /garden/dev_admin/condition/heart-failure/
 slug: heart-failure
 tags:
-- Condition
 - condition
 - cardiology
 - chronic
 - vascular
 - function-health
 title: Heart Failure
-type: Condition
-updated: '2026-02-08T19:25:12.942114Z'
+type: condition
+updated: '2026-02-08T19:29:31.606320Z'
 ---
 
 # Heart Failure

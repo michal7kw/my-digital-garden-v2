@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.110377Z'
+created: '2026-02-08T19:29:31.767624Z'
 description: Amino acid found in tea that promotes relaxation without sedation. Increases
   alpha brain waves, enhances GABA, and pairs synergistically with caffeine for calm
   focus.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/l-theanine/
+permalink: /garden/dev_admin/supplement/l-theanine/
 slug: l-theanine
 tags:
-- Supplement
 - supplement
 - amino_acid
 - relaxation
@@ -17,8 +16,8 @@ tags:
 - sleep
 - nootropic
 title: L-Theanine
-type: Supplement
-updated: '2026-02-08T19:25:13.110377Z'
+type: supplement
+updated: '2026-02-08T19:29:31.767624Z'
 ---
 
 # L-Theanine

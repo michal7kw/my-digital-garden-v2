@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.876792Z'
+created: '2026-02-08T19:29:31.552796Z'
 description: 8-hydroxy-2'-deoxyguanosine is a modified nucleoside produced by oxidative
   damage to DNA. It is the most widely used biomarker of oxidative DNA damage and
   reflects the balance between oxidative stress and DNA repair capacity.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/8-ohdg/
+permalink: /garden/dev_admin/biomarker/8-ohdg/
 slug: 8-ohdg
 tags:
-- Biomarker
 - biomarker
 title: 8-OHdG
-type: Biomarker
-updated: '2026-02-08T19:25:12.876792Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.552796Z'
 ---
 
 # 8-OHdG

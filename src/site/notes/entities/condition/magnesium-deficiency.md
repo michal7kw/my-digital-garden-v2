@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.950228Z'
+created: '2026-02-08T19:29:31.613176Z'
 description: A condition where the body does not have enough magnesium, an essential
   mineral involved in over 300 biochemical reactions.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/magnesium-deficiency/
+permalink: /garden/dev_admin/condition/magnesium-deficiency/
 slug: magnesium-deficiency
 tags:
-- Condition
 - condition
 - metabolic
 - nutrition
 - mineral
 - function-health
 title: Magnesium Deficiency
-type: Condition
-updated: '2026-02-08T19:25:12.950228Z'
+type: condition
+updated: '2026-02-08T19:29:31.613176Z'
 ---
 
 # Magnesium Deficiency

@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.962325Z'
+created: '2026-02-08T19:29:31.623567Z'
 description: An autoimmune condition characterized by the body's inability to absorb
   Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and
   neurological issues.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pernicious-anemia/
+permalink: /garden/dev_admin/condition/pernicious-anemia/
 slug: pernicious-anemia
 tags:
-- Condition
 - condition
 - hematology
 - immunology
 - autoimmune
 - function-health
 title: Pernicious Anemia
-type: Condition
-updated: '2026-02-08T19:25:12.962325Z'
+type: condition
+updated: '2026-02-08T19:29:31.623567Z'
 ---
 
 # Pernicious Anemia

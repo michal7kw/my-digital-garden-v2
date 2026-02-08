@@ -1,13 +1,12 @@
 ---
-created: '2026-02-08T19:25:12.997692Z'
+created: '2026-02-08T19:29:31.657604Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/stat3/
+permalink: /garden/dev_admin/gene/stat3/
 slug: stat3
 tags:
-- Gene
 - gene
 - inflammation
 - immune_system
@@ -15,8 +14,8 @@ tags:
 - imported
 - primekg
 title: STAT3
-type: Gene
-updated: '2026-02-08T19:25:12.997692Z'
+type: gene
+updated: '2026-02-08T19:29:31.657604Z'
 ---
 
 # "STAT3"

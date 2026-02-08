@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.117228Z'
+created: '2026-02-08T19:29:31.774242Z'
 description: Essential water-soluble vitamin critical for nerve function, DNA synthesis,
   red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans
   and older adults.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/vitamin-b12/
+permalink: /garden/dev_admin/supplement/vitamin-b12/
 slug: vitamin-b12
 tags:
-- Supplement
 - supplement
 - vitamin
 - b_vitamin
@@ -17,8 +16,8 @@ tags:
 - neurological
 - energy
 title: Vitamin B12
-type: Supplement
-updated: '2026-02-08T19:25:13.117228Z'
+type: supplement
+updated: '2026-02-08T19:29:31.774242Z'
 ---
 
 # Vitamin B12

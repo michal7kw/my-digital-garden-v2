@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.021933Z'
+created: '2026-02-08T19:29:31.680772Z'
 description: Tested twice a year Hemoglobin A1c (HbA1c) measures average blood sugar
   over 2-3 months and is used to assess diabetes risk and management. Higher levels
   mean blood sugar has been above normal, raising risks for heart, kidney, and nerve
@@ -9,14 +9,13 @@ description: Tested twice a year Hemoglobin A1c (HbA1c) measures average blood s
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/hemoglobin-a1c-hba1c/
+permalink: /garden/dev_admin/labtest/hemoglobin-a1c-hba1c/
 slug: hemoglobin-a1c-hba1c
 tags:
-- LabTest
 - labtest
 title: hemoglobin_a1c_hba1c
-type: LabTest
-updated: '2026-02-08T19:25:13.021933Z'
+type: labtest
+updated: '2026-02-08T19:29:31.680772Z'
 ---
 
 # Hemoglobin A1c (HbA1c)

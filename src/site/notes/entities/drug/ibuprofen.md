@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.981935Z'
+created: '2026-02-08T19:29:31.642080Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) for pain, fever, and inflammation.
   Reversibly inhibits COX-1 and COX-2 enzymes. One of the most widely used OTC pain
   relievers.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/ibuprofen/
+permalink: /garden/dev_admin/drug/ibuprofen/
 slug: ibuprofen
 tags:
-- Drug
 - drug
 - nsaid
 - anti_inflammatory
@@ -17,8 +16,8 @@ tags:
 - otc
 - prescription
 title: Ibuprofen
-type: Drug
-updated: '2026-02-08T19:25:12.981935Z'
+type: drug
+updated: '2026-02-08T19:29:31.642080Z'
 ---
 
 # Ibuprofen

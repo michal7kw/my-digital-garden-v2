@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.089574Z'
+created: '2026-02-08T19:29:31.747271Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/atp-binding/
+permalink: /garden/dev_admin/protein/atp-binding/
 slug: atp-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: ATP binding
-type: Protein
-updated: '2026-02-08T19:25:13.089574Z'
+type: protein
+updated: '2026-02-08T19:29:31.747271Z'
 ---
 
 # ATP binding

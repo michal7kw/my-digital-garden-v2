@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.982865Z'
+created: '2026-02-08T19:29:31.642990Z'
 description: Mood stabilizer and gold standard for bipolar disorder. Also studied
   at micro-doses for neuroprotection and longevity. Modulates multiple signaling pathways
   including GSK-3β and inositol.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/lithium/
+permalink: /garden/dev_admin/drug/lithium/
 slug: lithium
 tags:
-- Drug
 - drug
 - mood_stabilizer
 - bipolar
@@ -17,8 +16,8 @@ tags:
 - psychiatry
 - prescription
 title: Lithium
-type: Drug
-updated: '2026-02-08T19:25:12.982865Z'
+type: drug
+updated: '2026-02-08T19:29:31.642990Z'
 ---
 
 # Lithium

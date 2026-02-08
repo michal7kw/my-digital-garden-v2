@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.894972Z'
+created: '2026-02-08T19:29:31.569658Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/magnesium-rbc/
+permalink: /garden/dev_admin/biomarker/magnesium-rbc/
 slug: magnesium-rbc
 tags:
-- Biomarker
 - biomarker
 title: Magnesium Rbc
-type: Biomarker
-updated: '2026-02-08T19:25:12.894972Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.569658Z'
 ---
 
 # Magnesium Rbc

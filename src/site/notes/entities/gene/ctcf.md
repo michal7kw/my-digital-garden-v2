@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.994605Z'
+created: '2026-02-08T19:29:31.654606Z'
 description: Encodes CCCTC-binding factor, a master regulator of chromatin architecture
   and gene expression.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/ctcf/
+permalink: /garden/dev_admin/gene/ctcf/
 slug: ctcf
 tags:
-- Gene
 - gene
 - chromatin
 - insulator
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: CTCF
-type: Gene
-updated: '2026-02-08T19:25:12.994605Z'
+type: gene
+updated: '2026-02-08T19:29:31.654606Z'
 ---
 
 # CTCF

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:12.959076Z'
+created: '2026-02-08T19:29:31.620797Z'
 description: Oxidative stress is an imbalance between the production of reactive oxygen
   species (ROS) and the biological system's ability to detoxify or repair the resulting
   damage. It is implicated in many pathological conditions including neurodegeneration,
@@ -7,18 +7,17 @@ description: Oxidative stress is an imbalance between the production of reactive
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/oxidative-stress/
+permalink: /garden/dev_admin/condition/oxidative-stress/
 slug: oxidative-stress
 tags:
-- Condition
 - condition
 - cellular_stress
 - reactive_oxygen_species
 - mitochondria
 - aging
 title: Oxidative Stress
-type: Condition
-updated: '2026-02-08T19:25:12.959076Z'
+type: condition
+updated: '2026-02-08T19:29:31.620797Z'
 ---
 
 # Oxidative Stress

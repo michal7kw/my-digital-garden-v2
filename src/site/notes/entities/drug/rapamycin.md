@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.988929Z'
+created: '2026-02-08T19:29:31.648876Z'
 description: mTOR inhibitor originally developed as immunosuppressant, now studied
   for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One
   of the most promising longevity interventions.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/rapamycin/
+permalink: /garden/dev_admin/drug/rapamycin/
 slug: rapamycin
 tags:
-- Drug
 - drug
 - mtor_inhibitor
 - longevity
@@ -17,8 +16,8 @@ tags:
 - anti_aging
 - prescription
 title: Rapamycin
-type: Drug
-updated: '2026-02-08T19:25:12.988929Z'
+type: drug
+updated: '2026-02-08T19:29:31.648876Z'
 ---
 
 # Rapamycin

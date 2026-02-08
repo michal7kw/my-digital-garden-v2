@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.895713Z'
+created: '2026-02-08T19:29:31.570281Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/mthfr-a1298c/
+permalink: /garden/dev_admin/biomarker/mthfr-a1298c/
 slug: mthfr-a1298c
 tags:
-- Biomarker
 - biomarker
 title: Mthfr A1298C
-type: Biomarker
-updated: '2026-02-08T19:25:12.895713Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.570281Z'
 ---
 
 # Mthfr A1298C

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.997338Z'
+created: '2026-02-08T19:29:31.657264Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/rad21/
+permalink: /garden/dev_admin/gene/rad21/
 slug: rad21
 tags:
-- Gene
 - gene
 - imported
 - primekg
 title: RAD21
-type: Gene
-updated: '2026-02-08T19:25:12.997338Z'
+type: gene
+updated: '2026-02-08T19:29:31.657264Z'
 ---
 
 # "RAD21"

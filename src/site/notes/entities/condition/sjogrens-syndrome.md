@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.970382Z'
+created: '2026-02-08T19:29:31.630656Z'
 description: A chronic autoimmune disease where the immune system mistakenly attacks
   moisture-producing glands, primarily the salivary and lacrimal glands.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/sjogrens-syndrome/
+permalink: /garden/dev_admin/condition/sjogrens-syndrome/
 slug: sjogrens-syndrome
 tags:
-- Condition
 - condition
 - rheumatology
 - autoimmune
 - immunology
 - function-health
 title: Sjogrens Syndrome
-type: Condition
-updated: '2026-02-08T19:25:12.970382Z'
+type: condition
+updated: '2026-02-08T19:29:31.630656Z'
 ---
 
 # Sjogrens Syndrome

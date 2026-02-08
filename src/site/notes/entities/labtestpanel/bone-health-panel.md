@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.053323Z'
+created: '2026-02-08T19:29:31.711400Z'
 description: Evaluates bone formation and resorption markers alongside calcium-vitamin
   D metabolism. Essential for osteoporosis risk assessment, monitoring treatment efficacy,
   and evaluating metabolic bone diseases.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTestPanel/bone-health-panel/
+permalink: /garden/dev_admin/labtestpanel/bone-health-panel/
 slug: bone-health-panel
 tags:
-- LabTestPanel
 - labtestpanel
 title: bone_health_panel
-type: LabTestPanel
-updated: '2026-02-08T19:25:13.053323Z'
+type: labtestpanel
+updated: '2026-02-08T19:29:31.711400Z'
 ---
 
 # Bone Health Panel

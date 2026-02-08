@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.961536Z'
+created: '2026-02-08T19:29:31.622920Z'
 description: A sore that develops on the lining of the esophagus, stomach, or small
   intestine.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/peptic-ulcer/
+permalink: /garden/dev_admin/condition/peptic-ulcer/
 slug: peptic-ulcer
 tags:
-- Condition
 - condition
 - gastroenterology
 - ulcer
 - chronic
 title: Peptic Ulcer
-type: Condition
-updated: '2026-02-08T19:25:12.961536Z'
+type: condition
+updated: '2026-02-08T19:29:31.622920Z'
 ---
 
 # Peptic Ulcer

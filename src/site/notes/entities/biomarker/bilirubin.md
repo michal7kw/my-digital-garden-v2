@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.880376Z'
+created: '2026-02-08T19:29:31.556334Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/bilirubin/
+permalink: /garden/dev_admin/biomarker/bilirubin/
 slug: bilirubin
 tags:
-- Biomarker
 - biomarker
 title: Bilirubin
-type: Biomarker
-updated: '2026-02-08T19:25:12.880376Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.556334Z'
 ---
 
 # Bilirubin

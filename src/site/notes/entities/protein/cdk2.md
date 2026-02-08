@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:13.090718Z'
+created: '2026-02-08T19:29:31.748382Z'
 description: Serine/threonine-protein kinase essential for the G1/S transition and
   DNA synthesis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/cdk2/
+permalink: /garden/dev_admin/protein/cdk2/
 slug: cdk2
 tags:
-- Protein
 - protein
 - kinase
 - cell_cycle
 - proliferation
 title: CDK2
-type: Protein
-updated: '2026-02-08T19:25:13.090718Z'
+type: protein
+updated: '2026-02-08T19:29:31.748382Z'
 ---
 
 # CDK2

@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.987894Z'
+created: '2026-02-08T19:29:31.647843Z'
 description: Synthetic corticosteroid with potent anti-inflammatory and immunosuppressive
   effects. Used for a wide range of inflammatory and autoimmune conditions. Converted
   to active prednisolone in the liver.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/prednisone/
+permalink: /garden/dev_admin/drug/prednisone/
 slug: prednisone
 tags:
-- Drug
 - drug
 - corticosteroid
 - anti_inflammatory
 - immunosuppressant
 - prescription
 title: Prednisone
-type: Drug
-updated: '2026-02-08T19:25:12.987894Z'
+type: drug
+updated: '2026-02-08T19:29:31.647843Z'
 ---
 
 # Prednisone

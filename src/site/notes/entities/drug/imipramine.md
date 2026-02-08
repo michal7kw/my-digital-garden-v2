@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.982147Z'
+created: '2026-02-08T19:29:31.642291Z'
 description: The first tricyclic antidepressant (TCA) developed. Used for depression
   and nocturnal enuresis (bedwetting) in children.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/imipramine/
+permalink: /garden/dev_admin/drug/imipramine/
 slug: imipramine
 tags:
-- Drug
 - drug
 - antidepressant
 - enuresis
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: Imipramine
-type: Drug
-updated: '2026-02-08T19:25:12.982147Z'
+type: drug
+updated: '2026-02-08T19:29:31.642291Z'
 ---
 
 # Imipramine

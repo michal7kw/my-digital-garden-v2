@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.080001Z'
+created: '2026-02-08T19:29:31.737917Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/elevated-hepatic-transaminase/
+permalink: /garden/dev_admin/phenotype/elevated-hepatic-transaminase/
 slug: elevated-hepatic-transaminase
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Elevated hepatic transaminase
-type: Phenotype
-updated: '2026-02-08T19:25:13.080001Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.737917Z'
 ---
 
 # Elevated hepatic transaminase

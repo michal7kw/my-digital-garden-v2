@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.018294Z'
+created: '2026-02-08T19:29:31.677199Z'
 description: Measures iron stores. Key marker for iron deficiency and overload, also
   an acute phase reactant.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/ferritin/
+permalink: /garden/dev_admin/labtest/ferritin/
 slug: ferritin
 tags:
-- LabTest
 - labtest
 title: ferritin
-type: LabTest
-updated: '2026-02-08T19:25:13.018294Z'
+type: labtest
+updated: '2026-02-08T19:29:31.677199Z'
 ---
 
 # ferritin

@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.994215Z'
+created: '2026-02-08T19:29:31.654216Z'
 description: Encodes Cyclin-Dependent Kinase 2, a catalytic subunit of the protein
   kinase complex regulating the G1/S phase cell cycle transition.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/cdk2/
+permalink: /garden/dev_admin/gene/cdk2/
 slug: cdk2
 tags:
-- Gene
 - gene
 - cell_cycle
 - kinase
 - imported
 - primekg
 title: CDK2
-type: Gene
-updated: '2026-02-08T19:25:12.994215Z'
+type: gene
+updated: '2026-02-08T19:29:31.654216Z'
 ---
 
 # CDK2

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.094186Z'
+created: '2026-02-08T19:29:31.751764Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/grb2/
+permalink: /garden/dev_admin/protein/grb2/
 slug: grb2
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: GRB2
-type: Protein
-updated: '2026-02-08T19:25:13.094186Z'
+type: protein
+updated: '2026-02-08T19:29:31.751764Z'
 ---
 
 # GRB2

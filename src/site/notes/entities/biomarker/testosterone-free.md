@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.903163Z'
+created: '2026-02-08T19:29:31.576615Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/testosterone-free/
+permalink: /garden/dev_admin/biomarker/testosterone-free/
 slug: testosterone-free
 tags:
-- Biomarker
 - biomarker
 title: Testosterone Free
-type: Biomarker
-updated: '2026-02-08T19:25:12.903163Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.576615Z'
 ---
 
 # Testosterone Free

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.057407Z'
+created: '2026-02-08T19:29:31.715800Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Basal Ganglia
 type: organ
-updated: '2026-02-08T19:25:13.057407Z'
+updated: '2026-02-08T19:29:31.715800Z'
 ---
 
 # Basal Ganglia

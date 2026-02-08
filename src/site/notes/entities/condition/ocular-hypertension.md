@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.956816Z'
+created: '2026-02-08T19:29:31.618854Z'
 description: Higher than normal pressure inside the eye (intraocular pressure) without
   signs of glaucoma or optic nerve damage.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/ocular-hypertension/
+permalink: /garden/dev_admin/condition/ocular-hypertension/
 slug: ocular-hypertension
 tags:
-- Condition
 - condition
 - ophthalmology
 - risk_factor
 - eye
 title: Ocular Hypertension
-type: Condition
-updated: '2026-02-08T19:25:12.956816Z'
+type: condition
+updated: '2026-02-08T19:29:31.618854Z'
 ---
 
 # Ocular Hypertension

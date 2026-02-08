@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.056433Z'
+created: '2026-02-08T19:29:31.714558Z'
 description: Monoamine neurotransmitter regulating mood, sleep, appetite, and gut
   function. Approximately 95% is produced in the gut. Commonly known as the "feel-good"
   neurotransmitter, it is central to emotional well-being and is the target of most
@@ -7,10 +7,9 @@ description: Monoamine neurotransmitter regulating mood, sleep, appetite, and gu
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Neurotransmitter/serotonin/
+permalink: /garden/dev_admin/neurotransmitter/serotonin/
 slug: serotonin
 tags:
-- Neurotransmitter
 - neurotransmitter
 - monoamine
 - mood
@@ -18,8 +17,8 @@ tags:
 - gut_brain
 - indoleamine
 title: Serotonin
-type: Neurotransmitter
-updated: '2026-02-08T19:25:13.056433Z'
+type: neurotransmitter
+updated: '2026-02-08T19:29:31.714558Z'
 ---
 
 # Serotonin

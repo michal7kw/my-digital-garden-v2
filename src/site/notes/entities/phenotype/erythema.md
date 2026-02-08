@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.080232Z'
+created: '2026-02-08T19:29:31.738154Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/erythema/
+permalink: /garden/dev_admin/phenotype/erythema/
 slug: erythema
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Erythema
-type: Phenotype
-updated: '2026-02-08T19:25:13.080232Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.738154Z'
 ---
 
 # Erythema

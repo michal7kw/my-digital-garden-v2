@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.083752Z'
+created: '2026-02-08T19:29:31.741557Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/micrognathia/
+permalink: /garden/dev_admin/phenotype/micrognathia/
 slug: micrognathia
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Micrognathia
-type: Phenotype
-updated: '2026-02-08T19:25:13.083752Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.741557Z'
 ---
 
 # Micrognathia

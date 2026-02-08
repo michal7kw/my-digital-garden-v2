@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.081508Z'
+created: '2026-02-08T19:29:31.739348Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/global-developmental-delay/
+permalink: /garden/dev_admin/phenotype/global-developmental-delay/
 slug: global-developmental-delay
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Global developmental delay
-type: Phenotype
-updated: '2026-02-08T19:25:13.081508Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.739348Z'
 ---
 
 # Global developmental delay

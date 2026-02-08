@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.903578Z'
+created: '2026-02-08T19:29:31.576947Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/tg-antibodies/
+permalink: /garden/dev_admin/biomarker/tg-antibodies/
 slug: tg-antibodies
 tags:
-- Biomarker
 - biomarker
 title: Tg Antibodies
-type: Biomarker
-updated: '2026-02-08T19:25:12.903578Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.576947Z'
 ---
 
 # Tg Antibodies

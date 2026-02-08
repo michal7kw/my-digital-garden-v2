@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.889285Z'
+created: '2026-02-08T19:29:31.564751Z'
 description: A biomarker test that measures biological age through the analysis of
   IgG glycosylation patterns, indicating levels of chronic inflammation.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/glycanage/
+permalink: /garden/dev_admin/biomarker/glycanage/
 slug: glycanage
 tags:
-- Biomarker
 - biomarker
 - longevity
 - inflammation
 - immune_system
 title: GlycanAge
-type: Biomarker
-updated: '2026-02-08T19:25:12.889285Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.564751Z'
 ---
 
 # GlycanAge

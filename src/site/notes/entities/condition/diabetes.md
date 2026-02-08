@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:12.934578Z'
+created: '2026-02-08T19:29:31.600606Z'
 description: Diabetes mellitus is a group of metabolic diseases characterized by high
   blood sugar levels over a prolonged period. This high blood sugar can cause symptoms
   such as frequent urination, increased thirst, and increased hunger. If left untreated,
@@ -7,16 +7,15 @@ description: Diabetes mellitus is a group of metabolic diseases characterized by
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/diabetes/
+permalink: /garden/dev_admin/condition/diabetes/
 slug: diabetes
 tags:
-- Condition
 - condition
 - metabolic
 - chronic
 title: Diabetes
-type: Condition
-updated: '2026-02-08T19:25:12.934578Z'
+type: condition
+updated: '2026-02-08T19:29:31.600606Z'
 ---
 
 # Diabetes

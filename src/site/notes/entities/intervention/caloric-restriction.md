@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:12.999153Z'
+created: '2026-02-08T19:29:31.658984Z'
 description: A dietary intervention involving sustained reduction of caloric intake
   (typically 20-40% below ad libitum) without malnutrition. The most robust and reproducible
   intervention for extending lifespan and healthspan across multiple species, from
@@ -7,10 +7,9 @@ description: A dietary intervention involving sustained reduction of caloric int
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Intervention/caloric-restriction/
+permalink: /garden/dev_admin/intervention/caloric-restriction/
 slug: caloric-restriction
 tags:
-- Intervention
 - intervention
 - diet
 - longevity
@@ -18,8 +17,8 @@ tags:
 - metabolic
 - autophagy
 title: Caloric Restriction
-type: Intervention
-updated: '2026-02-08T19:25:12.999153Z'
+type: intervention
+updated: '2026-02-08T19:29:31.658984Z'
 ---
 
 # Caloric Restriction

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.925333Z'
+created: '2026-02-08T19:29:31.593495Z'
 description: A group of disorders affecting the bone marrow's ability to produce healthy
   blood cells (red cells, white cells, or platelets).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/bone-marrow-disorder/
+permalink: /garden/dev_admin/condition/bone-marrow-disorder/
 slug: bone-marrow-disorder
 tags:
-- Condition
 - condition
 - hematology
 - oncology
 - function-health
 title: Bone Marrow Disorder
-type: Condition
-updated: '2026-02-08T19:25:12.925333Z'
+type: condition
+updated: '2026-02-08T19:29:31.593495Z'
 ---
 
 # Bone Marrow Disorder

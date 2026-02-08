@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.905773Z'
+created: '2026-02-08T19:29:31.578631Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/transferrin-saturation/
+permalink: /garden/dev_admin/biomarker/transferrin-saturation/
 slug: transferrin-saturation
 tags:
-- Biomarker
 - biomarker
 title: Transferrin Saturation
-type: Biomarker
-updated: '2026-02-08T19:25:12.905773Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.578631Z'
 ---
 
 # Transferrin Saturation

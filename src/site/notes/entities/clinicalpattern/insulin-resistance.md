@@ -1,22 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.910944Z'
+created: '2026-02-08T19:29:31.582900Z'
 description: Impaired cellular response to insulin, leading to elevated blood glucose
   and compensatory hyperinsulinemia. Precursor to type 2 diabetes.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/ClinicalPattern/insulin-resistance/
+permalink: /garden/dev_admin/clinicalpattern/insulin-resistance/
 slug: insulin-resistance
 tags:
-- ClinicalPattern
+- clinicalpattern
 - clinical_pattern
 - metabolic
 - diabetes
 - prediabetes
 - endocrine
 title: Insulin Resistance
-type: ClinicalPattern
-updated: '2026-02-08T19:25:12.910944Z'
+type: clinicalpattern
+updated: '2026-02-08T19:29:31.582900Z'
 ---
 
 # Insulin Resistance

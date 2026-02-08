@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.950768Z'
+created: '2026-02-08T19:29:31.613630Z'
 description: A problematic pattern of cannabis use leading to clinically significant
   impairment or distress, also known as Cannabis Use Disorder.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/marijuana-abuse/
+permalink: /garden/dev_admin/condition/marijuana-abuse/
 slug: marijuana-abuse
 tags:
-- Condition
 - condition
 - psychiatry
 - addiction
 - substance_use
 title: Marijuana Abuse
-type: Condition
-updated: '2026-02-08T19:25:12.950768Z'
+type: condition
+updated: '2026-02-08T19:29:31.613630Z'
 ---
 
 # Marijuana Abuse

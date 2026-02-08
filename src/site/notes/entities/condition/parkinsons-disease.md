@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.960367Z'
+created: '2026-02-08T19:29:31.621925Z'
 description: A progressive neurodegenerative disorder characterized by motor symptoms
   including tremor, rigidity, and bradykinesia, caused by dopaminergic neuron loss
   in the substantia nigra and alpha-synuclein aggregation.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/parkinsons-disease/
+permalink: /garden/dev_admin/condition/parkinsons-disease/
 slug: parkinsons-disease
 tags:
-- Condition
 - condition
 - neurodegeneration
 - movement-disorder
 - dopamine
 title: Parkinson's Disease
-type: Condition
-updated: '2026-02-08T19:25:12.960367Z'
+type: condition
+updated: '2026-02-08T19:29:31.621925Z'
 ---
 
 # Parkinson's Disease

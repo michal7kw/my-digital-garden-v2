@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.895913Z'
+created: '2026-02-08T19:29:31.570441Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/mthfr-c677t/
+permalink: /garden/dev_admin/biomarker/mthfr-c677t/
 slug: mthfr-c677t
 tags:
-- Biomarker
 - biomarker
 title: Mthfr C677T
-type: Biomarker
-updated: '2026-02-08T19:25:12.895913Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.570441Z'
 ---
 
 # Mthfr C677T

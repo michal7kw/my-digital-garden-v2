@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.904204Z'
+created: '2026-02-08T19:29:31.577454Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/tibc/
+permalink: /garden/dev_admin/biomarker/tibc/
 slug: tibc
 tags:
-- Biomarker
 - biomarker
 title: Tibc
-type: Biomarker
-updated: '2026-02-08T19:25:12.904204Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.577454Z'
 ---
 
 # Tibc

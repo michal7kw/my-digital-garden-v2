@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.987467Z'
+created: '2026-02-08T19:29:31.647434Z'
 description: An oral natural penicillin used for mild to moderate bacterial infections,
   such as strep throat and skin infections.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/penicillin-v/
+permalink: /garden/dev_admin/drug/penicillin-v/
 slug: penicillin-v
 tags:
-- Drug
 - drug
 - antibiotic
 - oral
 - beta-lactam
 title: Penicillin V
-type: Drug
-updated: '2026-02-08T19:25:12.987467Z'
+type: drug
+updated: '2026-02-08T19:29:31.647434Z'
 ---
 
 # Penicillin V

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.059597Z'
+created: '2026-02-08T19:29:31.717938Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Hypothalamus
 type: organ
-updated: '2026-02-08T19:25:13.059597Z'
+updated: '2026-02-08T19:29:31.717938Z'
 ---
 
 # Hypothalamus

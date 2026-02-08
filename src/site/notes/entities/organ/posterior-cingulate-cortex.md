@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.062661Z'
+created: '2026-02-08T19:29:31.720935Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Posterior Cingulate Cortex
 type: organ
-updated: '2026-02-08T19:25:13.062661Z'
+updated: '2026-02-08T19:29:31.720935Z'
 ---
 
 # Posterior Cingulate Cortex (PCC)

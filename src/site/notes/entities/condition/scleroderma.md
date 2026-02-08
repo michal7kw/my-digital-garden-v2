@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.969446Z'
+created: '2026-02-08T19:29:31.629781Z'
 description: A group of rare autoimmune diseases characterized by the hardening and
   tightening of the skin and connective tissues, often affecting internal organs and
   blood vessels.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/scleroderma/
+permalink: /garden/dev_admin/condition/scleroderma/
 slug: scleroderma
 tags:
-- Condition
 - condition
 - rheumatology
 - autoimmune
 - dermatology
 - function-health
 title: Scleroderma
-type: Condition
-updated: '2026-02-08T19:25:12.969446Z'
+type: condition
+updated: '2026-02-08T19:29:31.629781Z'
 ---
 
 # Scleroderma

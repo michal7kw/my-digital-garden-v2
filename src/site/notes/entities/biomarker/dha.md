@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.884584Z'
+created: '2026-02-08T19:29:31.560419Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/dha/
+permalink: /garden/dev_admin/biomarker/dha/
 slug: dha
 tags:
-- Biomarker
 - biomarker
 title: Dha
-type: Biomarker
-updated: '2026-02-08T19:25:12.884584Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.560419Z'
 ---
 
 # Dha

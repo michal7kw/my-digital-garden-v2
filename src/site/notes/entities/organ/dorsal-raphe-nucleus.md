@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.058012Z'
+created: '2026-02-08T19:29:31.716371Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Dorsal Raphe Nucleus
 type: organ
-updated: '2026-02-08T19:25:13.058012Z'
+updated: '2026-02-08T19:29:31.716371Z'
 ---
 
 # Dorsal Raphe Nucleus (DRN)

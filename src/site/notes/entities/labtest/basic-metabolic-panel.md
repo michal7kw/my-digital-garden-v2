@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.009268Z'
+created: '2026-02-08T19:29:31.668494Z'
 description: 8-test panel measuring glucose, calcium, electrolytes, and kidney function
   markers.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/basic-metabolic-panel/
+permalink: /garden/dev_admin/labtest/basic-metabolic-panel/
 slug: basic-metabolic-panel
 tags:
-- LabTest
 - labtest
 title: basic_metabolic_panel
-type: LabTest
-updated: '2026-02-08T19:25:13.009268Z'
+type: labtest
+updated: '2026-02-08T19:29:31.668494Z'
 ---
 
 # Basic Metabolic Panel (BMP)

@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.029588Z'
+created: '2026-02-08T19:29:31.688383Z'
 description: Measures Lp(a), a genetically determined cardiovascular risk factor.
   Testing once in lifetime recommended.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/lipoprotein-a/
+permalink: /garden/dev_admin/labtest/lipoprotein-a/
 slug: lipoprotein-a
 tags:
-- LabTest
 - labtest
 title: lipoprotein_a
-type: LabTest
-updated: '2026-02-08T19:25:13.029588Z'
+type: labtest
+updated: '2026-02-08T19:29:31.688383Z'
 ---
 
 # Lipoprotein(a)

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.949145Z'
+created: '2026-02-08T19:29:31.612280Z'
 description: A broad range of conditions that damage the liver and impair its essential
   functions, including detoxification, metabolism, and bile production.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/liver-disease/
+permalink: /garden/dev_admin/condition/liver-disease/
 slug: liver-disease
 tags:
-- Condition
 - condition
 - hepatology
 - gastroenterology
 - function-health
 title: Liver Disease
-type: Condition
-updated: '2026-02-08T19:25:12.949145Z'
+type: condition
+updated: '2026-02-08T19:29:31.612280Z'
 ---
 
 # Liver Disease

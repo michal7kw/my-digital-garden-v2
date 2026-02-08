@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.925087Z'
+created: '2026-02-08T19:29:31.593294Z'
 description: A complete or partial break in the continuity of bone tissue, usually
   caused by trauma or underlying disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/bone-fractures/
+permalink: /garden/dev_admin/condition/bone-fractures/
 slug: bone-fractures
 tags:
-- Condition
 - condition
 - orthopedics
 - trauma
 - injury
 title: Bone Fractures
-type: Condition
-updated: '2026-02-08T19:25:12.925087Z'
+type: condition
+updated: '2026-02-08T19:29:31.593294Z'
 ---
 
 # Bone Fractures

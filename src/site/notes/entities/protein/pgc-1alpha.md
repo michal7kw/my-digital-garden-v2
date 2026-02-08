@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.095150Z'
+created: '2026-02-08T19:29:31.752722Z'
 description: Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,
   the master regulator of mitochondrial biogenesis. A transcriptional coactivator
   that coordinates the expression of genes involved in energy metabolism, oxidative
@@ -7,10 +7,9 @@ description: Peroxisome proliferator-activated receptor gamma coactivator 1-alph
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/pgc-1alpha/
+permalink: /garden/dev_admin/protein/pgc-1alpha/
 slug: pgc-1alpha
 tags:
-- Protein
 - protein
 - coactivator
 - mitochondrial_biogenesis
@@ -18,8 +17,8 @@ tags:
 - longevity
 - exercise_response
 title: PGC-1alpha
-type: Protein
-updated: '2026-02-08T19:25:13.095150Z'
+type: protein
+updated: '2026-02-08T19:29:31.752722Z'
 ---
 
 # PGC-1alpha

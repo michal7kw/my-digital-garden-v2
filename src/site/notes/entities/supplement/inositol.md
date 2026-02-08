@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:13.109417Z'
+created: '2026-02-08T19:29:31.766686Z'
 description: A carbocyclic sugar alcohol that mediates cell signal transduction in
   response to a variety of hormones, neurotransmitters, and growth factors. Particularly
   effective for PCOS and insulin sensitivity.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/inositol/
+permalink: /garden/dev_admin/supplement/inositol/
 slug: inositol
 tags:
-- Supplement
 - supplement
 - metabolic
 - endocrine
 - reproductive_health
 - second_messenger
 title: Inositol
-type: Supplement
-updated: '2026-02-08T19:25:13.109417Z'
+type: supplement
+updated: '2026-02-08T19:29:31.766686Z'
 ---
 
 # Inositol

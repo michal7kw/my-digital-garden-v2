@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.050360Z'
+created: '2026-02-08T19:29:31.708515Z'
 description: Essential for nerve function and red blood cell production. Deficiency
   common in vegans and elderly.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/vitamin-b12/
+permalink: /garden/dev_admin/labtest/vitamin-b12/
 slug: vitamin-b12
 tags:
-- LabTest
 - labtest
 title: vitamin_b12
-type: LabTest
-updated: '2026-02-08T19:25:13.050360Z'
+type: labtest
+updated: '2026-02-08T19:29:31.708515Z'
 ---
 
 # Vitamin B12

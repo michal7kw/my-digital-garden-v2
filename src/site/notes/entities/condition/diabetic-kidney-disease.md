@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.935285Z'
+created: '2026-02-08T19:29:31.601121Z'
 description: A chronic kidney disease resulting from diabetes mellitus, characterized
   by glomerular damage and progressing from microalbuminuria to end-stage renal disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/diabetic-kidney-disease/
+permalink: /garden/dev_admin/condition/diabetic-kidney-disease/
 slug: diabetic-kidney-disease
 tags:
-- Condition
 - condition
 - nephrology
 - endocrinology
 - diabetes
 - function-health
 title: Diabetic Kidney Disease
-type: Condition
-updated: '2026-02-08T19:25:12.935285Z'
+type: condition
+updated: '2026-02-08T19:29:31.601121Z'
 ---
 
 # Diabetic Kidney Disease

@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.902208Z'
+created: '2026-02-08T19:29:31.575818Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/shbg/
+permalink: /garden/dev_admin/biomarker/shbg/
 slug: shbg
 tags:
-- Biomarker
 - biomarker
 title: Shbg
-type: Biomarker
-updated: '2026-02-08T19:25:12.902208Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.575818Z'
 ---
 
 # Shbg

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.097676Z'
+created: '2026-02-08T19:29:31.755221Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/sumo2/
+permalink: /garden/dev_admin/protein/sumo2/
 slug: sumo2
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: SUMO2
-type: Protein
-updated: '2026-02-08T19:25:13.097676Z'
+type: protein
+updated: '2026-02-08T19:29:31.755221Z'
 ---
 
 # SUMO2

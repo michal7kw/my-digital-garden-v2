@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.936216Z'
+created: '2026-02-08T19:29:31.601802Z'
 description: A condition where the levels of essential minerals (electrolytes) in
   the blood are too high or too low, disrupting vital bodily functions.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/electrolyte-imbalance/
+permalink: /garden/dev_admin/condition/electrolyte-imbalance/
 slug: electrolyte-imbalance
 tags:
-- Condition
 - condition
 - metabolic
 - endocrinology
 - function-health
 title: Electrolyte Imbalance
-type: Condition
-updated: '2026-02-08T19:25:12.936216Z'
+type: condition
+updated: '2026-02-08T19:29:31.601802Z'
 ---
 
 # Electrolyte Imbalance

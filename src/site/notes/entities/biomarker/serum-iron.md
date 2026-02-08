@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.901975Z'
+created: '2026-02-08T19:29:31.575608Z'
 description: A measure of the amount of circulating iron that is bound to transferrin
   in the blood.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/serum-iron/
+permalink: /garden/dev_admin/biomarker/serum-iron/
 slug: serum-iron
 tags:
-- Biomarker
 - biomarker
 - hematology
 - nutrition
 - iron_status
 title: Serum Iron
-type: Biomarker
-updated: '2026-02-08T19:25:12.901975Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.575608Z'
 ---
 
 # Serum Iron

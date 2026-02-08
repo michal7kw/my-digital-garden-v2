@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.037880Z'
+created: '2026-02-08T19:29:31.696394Z'
 description: Comprehensive metabolic assessment measuring 70+ organic acids. Evaluates
   mitochondrial function, neurotransmitter metabolism, detoxification, and gut dysbiosis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/organic-acids-test/
+permalink: /garden/dev_admin/labtest/organic-acids-test/
 slug: organic-acids-test
 tags:
-- LabTest
 - labtest
 title: organic_acids_test
-type: LabTest
-updated: '2026-02-08T19:25:13.037880Z'
+type: labtest
+updated: '2026-02-08T19:29:31.696394Z'
 ---
 
 # Organic Acids Test (OAT)

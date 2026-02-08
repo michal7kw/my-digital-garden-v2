@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:12.887026Z'
+created: '2026-02-08T19:29:31.562710Z'
 description: Ferritin is the main iron storage protein. Low levels indicate iron deficiency;
   high levels may indicate iron overload, inflammation, or liver disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/ferritin/
+permalink: /garden/dev_admin/biomarker/ferritin/
 slug: ferritin
 tags:
-- Biomarker
 - biomarker
 title: Ferritin
-type: Biomarker
-updated: '2026-02-08T19:25:12.887026Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.562710Z'
 ---
 
 # Ferritin

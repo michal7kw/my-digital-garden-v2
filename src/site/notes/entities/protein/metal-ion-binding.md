@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.099170Z'
+created: '2026-02-08T19:29:31.756678Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/metal-ion-binding/
+permalink: /garden/dev_admin/protein/metal-ion-binding/
 slug: metal-ion-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: metal ion binding
-type: Protein
-updated: '2026-02-08T19:25:13.099170Z'
+type: protein
+updated: '2026-02-08T19:29:31.756678Z'
 ---
 
 # metal ion binding

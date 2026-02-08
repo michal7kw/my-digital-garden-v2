@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.044579Z'
+created: '2026-02-08T19:29:31.702952Z'
 description: Measures average telomere length. Shorter telomeres associated with cellular
   aging.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/telomere-length/
+permalink: /garden/dev_admin/labtest/telomere-length/
 slug: telomere-length
 tags:
-- LabTest
 - labtest
 title: telomere_length
-type: LabTest
-updated: '2026-02-08T19:25:13.044579Z'
+type: labtest
+updated: '2026-02-08T19:29:31.702952Z'
 ---
 
 # Telomere Length Test

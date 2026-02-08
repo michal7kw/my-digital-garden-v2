@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.097494Z'
+created: '2026-02-08T19:29:31.755046Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/stat3/
+permalink: /garden/dev_admin/protein/stat3/
 slug: stat3
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: STAT3
-type: Protein
-updated: '2026-02-08T19:25:13.097494Z'
+type: protein
+updated: '2026-02-08T19:29:31.755046Z'
 ---
 
 # STAT3

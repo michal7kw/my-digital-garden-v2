@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:13.080535Z'
+created: '2026-02-08T19:29:31.738441Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/fatigue/
+permalink: /garden/dev_admin/phenotype/fatigue/
 slug: fatigue
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Fatigue
-type: Phenotype
-updated: '2026-02-08T19:25:13.080535Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.738441Z'
 ---
 
 # Fatigue

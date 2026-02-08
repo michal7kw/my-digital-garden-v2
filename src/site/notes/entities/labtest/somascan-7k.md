@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.043858Z'
+created: '2026-02-08T19:29:31.702249Z'
 description: SomaLogic's advanced proteomics platform measuring 7000+ proteins. Research-grade
   comprehensive protein profiling.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/somascan-7k/
+permalink: /garden/dev_admin/labtest/somascan-7k/
 slug: somascan-7k
 tags:
-- LabTest
 - labtest
 title: somascan_7k
-type: LabTest
-updated: '2026-02-08T19:25:13.043858Z'
+type: labtest
+updated: '2026-02-08T19:29:31.702249Z'
 ---
 
 # SomaScan 7K Proteomics

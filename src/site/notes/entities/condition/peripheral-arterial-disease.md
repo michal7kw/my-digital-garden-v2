@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.961786Z'
+created: '2026-02-08T19:29:31.623116Z'
 description: A common circulatory problem in which narrowed arteries reduce blood
   flow to the limbs, usually the legs.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/peripheral-arterial-disease/
+permalink: /garden/dev_admin/condition/peripheral-arterial-disease/
 slug: peripheral-arterial-disease
 tags:
-- Condition
 - condition
 - cardiology
 - vascular
 - chronic
 title: Peripheral Arterial Disease
-type: Condition
-updated: '2026-02-08T19:25:12.961786Z'
+type: condition
+updated: '2026-02-08T19:29:31.623116Z'
 ---
 
 # Peripheral Arterial Disease

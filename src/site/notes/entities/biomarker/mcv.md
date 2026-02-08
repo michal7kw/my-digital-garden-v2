@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.895532Z'
+created: '2026-02-08T19:29:31.570125Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/mcv/
+permalink: /garden/dev_admin/biomarker/mcv/
 slug: mcv
 tags:
-- Biomarker
 - biomarker
 title: Mcv
-type: Biomarker
-updated: '2026-02-08T19:25:12.895532Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.570125Z'
 ---
 
 # Mcv

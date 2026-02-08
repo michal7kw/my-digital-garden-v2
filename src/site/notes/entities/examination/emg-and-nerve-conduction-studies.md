@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.991033Z'
+created: '2026-02-08T19:29:31.650953Z'
 description: Electrodiagnostic testing of peripheral nerves and muscles. Essential
   for diagnosing ALS, distinguishing it from mimics, and evaluating peripheral neuropathy.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Examination/emg-and-nerve-conduction-studies/
+permalink: /garden/dev_admin/examination/emg-and-nerve-conduction-studies/
 slug: emg-and-nerve-conduction-studies
 tags:
-- Examination
 - examination
 - neurophysiology
 - motor-neuron
 - neuropathy
 - als
 title: EMG and Nerve Conduction Studies
-type: Examination
-updated: '2026-02-08T19:25:12.991033Z'
+type: examination
+updated: '2026-02-08T19:29:31.650953Z'
 ---
 
 # EMG and Nerve Conduction Studies

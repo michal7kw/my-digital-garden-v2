@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:13.069012Z'
+created: '2026-02-08T19:29:31.727178Z'
 description: The dopamine synthesis pathway converts the amino acid tyrosine to dopamine
   through two enzymatic steps, providing the neurotransmitter essential for reward,
   motivation, movement, and cognition.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Pathway/dopamine-synthesis/
+permalink: /garden/dev_admin/pathway/dopamine-synthesis/
 slug: dopamine-synthesis
 tags:
-- Pathway
 - pathway
 - biosynthetic
 - neurotransmitter
 - brain
 - catecholamine
 title: Dopamine Synthesis
-type: Pathway
-updated: '2026-02-08T19:25:13.069012Z'
+type: pathway
+updated: '2026-02-08T19:29:31.727178Z'
 ---
 
 # Dopamine Synthesis

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.969710Z'
+created: '2026-02-08T19:29:31.630000Z'
 description: An allergic response to specific allergens like pollen that occurs at
   certain times of the year, commonly known as Hay Fever.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/seasonal-allergic-rhinitis/
+permalink: /garden/dev_admin/condition/seasonal-allergic-rhinitis/
 slug: seasonal-allergic-rhinitis
 tags:
-- Condition
 - condition
 - immunology
 - allergy
 - ent
 title: Seasonal Allergic Rhinitis
-type: Condition
-updated: '2026-02-08T19:25:12.969710Z'
+type: condition
+updated: '2026-02-08T19:29:31.630000Z'
 ---
 
 # Seasonal Allergic Rhinitis

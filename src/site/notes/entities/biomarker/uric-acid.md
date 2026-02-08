@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.906998Z'
+created: '2026-02-08T19:29:31.579605Z'
 description: Uric acid is the final oxidation product of purine metabolism in humans,
   serving as both an antioxidant at physiological levels and a pathological mediator
   when elevated, contributing to gout, kidney stones, and cardiovascular disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/uric-acid/
+permalink: /garden/dev_admin/biomarker/uric-acid/
 slug: uric-acid
 tags:
-- Biomarker
 - biomarker
 title: Uric Acid
-type: Biomarker
-updated: '2026-02-08T19:25:12.906998Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.579605Z'
 ---
 
 # Uric Acid

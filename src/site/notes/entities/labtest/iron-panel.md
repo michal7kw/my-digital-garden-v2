@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.024868Z'
+created: '2026-02-08T19:29:31.683665Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/iron-panel/
+permalink: /garden/dev_admin/labtest/iron-panel/
 slug: iron-panel
 tags:
-- LabTest
 - labtest
 title: iron_panel
-type: LabTest
-updated: '2026-02-08T19:25:13.024868Z'
+type: labtest
+updated: '2026-02-08T19:29:31.683665Z'
 ---
 
 # Iron Panel (Complete)

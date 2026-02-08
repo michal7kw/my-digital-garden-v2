@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.891599Z'
+created: '2026-02-08T19:29:31.566731Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/igf1/
+permalink: /garden/dev_admin/biomarker/igf1/
 slug: igf1
 tags:
-- Biomarker
 - biomarker
 title: Igf1
-type: Biomarker
-updated: '2026-02-08T19:25:12.891599Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.566731Z'
 ---
 
 # Igf1

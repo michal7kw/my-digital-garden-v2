@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.921548Z'
+created: '2026-02-08T19:29:31.590678Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/arthralgia/
+permalink: /garden/dev_admin/condition/arthralgia/
 slug: arthralgia
 tags:
-- Condition
 - condition
 title: Arthralgia
-type: Condition
-updated: '2026-02-08T19:25:12.921548Z'
+type: condition
+updated: '2026-02-08T19:29:31.590678Z'
 ---
 
 # Arthralgia

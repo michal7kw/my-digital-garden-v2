@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.990748Z'
+created: '2026-02-08T19:29:31.650672Z'
 description: Recording of brain electrical activity used for seizure detection, encephalopathy
   assessment, and prognostication after cardiac arrest. Shows characteristic slowing
   in neurodegenerative diseases.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Examination/eeg/
+permalink: /garden/dev_admin/examination/eeg/
 slug: eeg
 tags:
-- Examination
 - examination
 - neurophysiology
 - brain-activity
 - seizure
 - prognosis
 title: EEG
-type: Examination
-updated: '2026-02-08T19:25:12.990748Z'
+type: examination
+updated: '2026-02-08T19:29:31.650672Z'
 ---
 
 # EEG (Electroencephalography)

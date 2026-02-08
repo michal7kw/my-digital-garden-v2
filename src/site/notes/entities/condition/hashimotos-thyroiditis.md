@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.941620Z'
+created: '2026-02-08T19:29:31.605837Z'
 description: A chronic autoimmune disorder where the immune system attacks and gradually
   destroys the thyroid gland, leading to hypothyroidism.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/hashimotos-thyroiditis/
+permalink: /garden/dev_admin/condition/hashimotos-thyroiditis/
 slug: hashimotos-thyroiditis
 tags:
-- Condition
 - condition
 - endocrinology
 - autoimmune
 - thyroid
 - function-health
 title: Hashimotos Thyroiditis
-type: Condition
-updated: '2026-02-08T19:25:12.941620Z'
+type: condition
+updated: '2026-02-08T19:29:31.605837Z'
 ---
 
 # Hashimotos Thyroiditis

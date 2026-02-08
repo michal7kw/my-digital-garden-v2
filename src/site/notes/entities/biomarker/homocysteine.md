@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.891058Z'
+created: '2026-02-08T19:29:31.566249Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/homocysteine/
+permalink: /garden/dev_admin/biomarker/homocysteine/
 slug: homocysteine
 tags:
-- Biomarker
 - biomarker
 title: Homocysteine
-type: Biomarker
-updated: '2026-02-08T19:25:12.891058Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.566249Z'
 ---
 
 # Homocysteine

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.949441Z'
+created: '2026-02-08T19:29:31.612524Z'
 description: A condition where a woman has a lower number of eggs remaining in her
   ovaries than expected for her age, which can impact fertility.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/low-ovarian-reserve/
+permalink: /garden/dev_admin/condition/low-ovarian-reserve/
 slug: low-ovarian-reserve
 tags:
-- Condition
 - condition
 - gynecology
 - reproductive_health
 - function-health
 title: Low Ovarian Reserve
-type: Condition
-updated: '2026-02-08T19:25:12.949441Z'
+type: condition
+updated: '2026-02-08T19:29:31.612524Z'
 ---
 
 # Low Ovarian Reserve

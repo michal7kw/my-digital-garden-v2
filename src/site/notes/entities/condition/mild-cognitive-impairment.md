@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.952781Z'
+created: '2026-02-08T19:29:31.615305Z'
 description: An intermediate stage between normal age-related cognitive decline and
   dementia. Represents increased risk for progression to Alzheimer's disease or other
   dementias, but may remain stable or improve.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/mild-cognitive-impairment/
+permalink: /garden/dev_admin/condition/mild-cognitive-impairment/
 slug: mild-cognitive-impairment
 tags:
-- Condition
 - condition
 - neurodegeneration
 - cognition
 - aging
 - prodromal
 title: Mild Cognitive Impairment
-type: Condition
-updated: '2026-02-08T19:25:12.952781Z'
+type: condition
+updated: '2026-02-08T19:29:31.615305Z'
 ---
 
 # Mild Cognitive Impairment

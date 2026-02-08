@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.966444Z'
+created: '2026-02-08T19:29:31.627081Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/psychotic-disorders/
+permalink: /garden/dev_admin/condition/psychotic-disorders/
 slug: psychotic-disorders
 tags:
-- Condition
 - condition
 - psychiatry
 - mental_health
 - neurology
 title: Psychotic Disorders
-type: Condition
-updated: '2026-02-08T19:25:12.966444Z'
+type: condition
+updated: '2026-02-08T19:29:31.627081Z'
 ---
 
 # Psychotic Disorders

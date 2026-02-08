@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.062330Z'
+created: '2026-02-08T19:29:31.720619Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Periaqueductal Gray
 type: organ
-updated: '2026-02-08T19:25:13.062330Z'
+updated: '2026-02-08T19:29:31.720619Z'
 ---
 
 # Periaqueductal Gray (PAG)

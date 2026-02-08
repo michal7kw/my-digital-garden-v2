@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.947238Z'
+created: '2026-02-08T19:29:31.610671Z'
 description: A metabolic state in which the body uses ketones, produced from the breakdown
   of fats, as its primary energy source instead of glucose.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/ketosis/
+permalink: /garden/dev_admin/condition/ketosis/
 slug: ketosis
 tags:
-- Condition
 - condition
 - metabolic
 - nutrition
 - diet
 - function-health
 title: Ketosis
-type: Condition
-updated: '2026-02-08T19:25:12.947238Z'
+type: condition
+updated: '2026-02-08T19:29:31.610671Z'
 ---
 
 # Ketosis

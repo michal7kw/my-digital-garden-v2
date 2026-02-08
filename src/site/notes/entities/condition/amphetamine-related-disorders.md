@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.920574Z'
+created: '2026-02-08T19:29:31.589927Z'
 description: A group of disorders resulting from the use of amphetamine-type stimulants,
   including intoxication, withdrawal, and use disorder.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/amphetamine-related-disorders/
+permalink: /garden/dev_admin/condition/amphetamine-related-disorders/
 slug: amphetamine-related-disorders
 tags:
-- Condition
 - condition
 - psychiatry
 - addiction
 - substance_use
 title: Amphetamine-Related Disorders
-type: Condition
-updated: '2026-02-08T19:25:12.920574Z'
+type: condition
+updated: '2026-02-08T19:29:31.589927Z'
 ---
 
 # Amphetamine-Related Disorders

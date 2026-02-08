@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.052054Z'
+created: '2026-02-08T19:29:31.710173Z'
 description: Tested twice a year Yeast in the urine, most often Candida species, may
   sometimes reflect contamination from the skin or genital area, but persistent presence
   often signals a fungal urinary tract infection (UTI) known as candiduria.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/yeast-urine/
+permalink: /garden/dev_admin/labtest/yeast-urine/
 slug: yeast-urine
 tags:
-- LabTest
 - labtest
 title: yeast_urine
-type: LabTest
-updated: '2026-02-08T19:25:13.052054Z'
+type: labtest
+updated: '2026-02-08T19:29:31.710173Z'
 ---
 
 # Yeast, Urine

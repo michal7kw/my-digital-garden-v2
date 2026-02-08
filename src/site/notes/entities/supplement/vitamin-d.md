@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.118106Z'
+created: '2026-02-08T19:29:31.775062Z'
 description: Fat-soluble secosteroid hormone critical for calcium absorption, bone
   health, immune function, and numerous other physiological processes. Synthesized
   in skin upon sun exposure or obtained through supplementation.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/vitamin-d/
+permalink: /garden/dev_admin/supplement/vitamin-d/
 slug: vitamin-d
 tags:
-- Supplement
 - supplement
 - vitamin
 - hormone
@@ -17,8 +16,8 @@ tags:
 - bone_health
 - metabolic
 title: Vitamin D
-type: Supplement
-updated: '2026-02-08T19:25:13.118106Z'
+type: supplement
+updated: '2026-02-08T19:29:31.775062Z'
 ---
 
 # Vitamin D

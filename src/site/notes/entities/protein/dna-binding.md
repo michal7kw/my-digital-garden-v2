@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.092331Z'
+created: '2026-02-08T19:29:31.749954Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/dna-binding/
+permalink: /garden/dev_admin/protein/dna-binding/
 slug: dna-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: DNA binding
-type: Protein
-updated: '2026-02-08T19:25:13.092331Z'
+type: protein
+updated: '2026-02-08T19:29:31.749954Z'
 ---
 
 # DNA binding

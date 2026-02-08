@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.118822Z'
+created: '2026-02-08T19:29:31.775773Z'
 description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
   for immune function, wound healing, testosterone production, and thyroid function.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/zinc/
+permalink: /garden/dev_admin/supplement/zinc/
 slug: zinc
 tags:
-- Supplement
 - supplement
 - mineral
 - immune
 - testosterone
 - thyroid
 title: Zinc
-type: Supplement
-updated: '2026-02-08T19:25:13.118822Z'
+type: supplement
+updated: '2026-02-08T19:29:31.775773Z'
 ---
 
 # Zinc

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.970828Z'
+created: '2026-02-08T19:29:31.631088Z'
 description: The process of discontinuing tobacco smoking, a critical intervention
   for reducing the risk of smoking-related diseases.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/smoking-cessation/
+permalink: /garden/dev_admin/condition/smoking-cessation/
 slug: smoking-cessation
 tags:
-- Condition
 - condition
 - intervention
 - public_health
 - preventive_medicine
 title: Smoking Cessation
-type: Condition
-updated: '2026-02-08T19:25:12.970828Z'
+type: condition
+updated: '2026-02-08T19:29:31.631088Z'
 ---
 
 # Smoking Cessation

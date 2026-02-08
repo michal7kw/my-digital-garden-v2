@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.884753Z'
+created: '2026-02-08T19:29:31.560574Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/dhea-s/
+permalink: /garden/dev_admin/biomarker/dhea-s/
 slug: dhea-s
 tags:
-- Biomarker
 - biomarker
 title: Dhea S
-type: Biomarker
-updated: '2026-02-08T19:25:12.884753Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.560574Z'
 ---
 
 # Dhea S

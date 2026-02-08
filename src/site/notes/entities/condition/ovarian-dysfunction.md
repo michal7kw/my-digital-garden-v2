@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.958814Z'
+created: '2026-02-08T19:29:31.620558Z'
 description: A range of disorders where the ovaries fail to produce eggs or the correct
   balance of hormones, affecting fertility and systemic health.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/ovarian-dysfunction/
+permalink: /garden/dev_admin/condition/ovarian-dysfunction/
 slug: ovarian-dysfunction
 tags:
-- Condition
 - condition
 - gynecology
 - endocrinology
 - reproductive_health
 - function-health
 title: Ovarian Dysfunction
-type: Condition
-updated: '2026-02-08T19:25:12.958814Z'
+type: condition
+updated: '2026-02-08T19:29:31.620558Z'
 ---
 
 # Ovarian Dysfunction

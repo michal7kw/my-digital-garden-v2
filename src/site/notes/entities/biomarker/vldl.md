@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.908125Z'
+created: '2026-02-08T19:29:31.580621Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/vldl/
+permalink: /garden/dev_admin/biomarker/vldl/
 slug: vldl
 tags:
-- Biomarker
 - biomarker
 title: Vldl
-type: Biomarker
-updated: '2026-02-08T19:25:12.908125Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.580621Z'
 ---
 
 # Vldl

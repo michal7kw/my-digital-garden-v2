@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.111692Z'
+created: '2026-02-08T19:29:31.768894Z'
 description: Essential mineral cofactor involved in over 300 enzymatic reactions,
   including energy production, protein synthesis, blood glucose control, and blood
   pressure regulation. One of the most common nutritional deficiencies in Western
@@ -7,10 +7,9 @@ description: Essential mineral cofactor involved in over 300 enzymatic reactions
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/magnesium/
+permalink: /garden/dev_admin/supplement/magnesium/
 slug: magnesium
 tags:
-- Supplement
 - supplement
 - mineral
 - essential_nutrient
@@ -18,8 +17,8 @@ tags:
 - cardiovascular
 - sleep
 title: Magnesium
-type: Supplement
-updated: '2026-02-08T19:25:13.111692Z'
+type: supplement
+updated: '2026-02-08T19:29:31.768894Z'
 ---
 
 # Magnesium

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.933990Z'
+created: '2026-02-08T19:29:31.600174Z'
 description: A common and serious medical illness that negatively affects how you
   feel, the way you think, and how you act.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/depressive-disorder/
+permalink: /garden/dev_admin/condition/depressive-disorder/
 slug: depressive-disorder
 tags:
-- Condition
 - condition
 - psychiatry
 - mood_disorder
 - mental_health
 title: Depressive Disorder
-type: Condition
-updated: '2026-02-08T19:25:12.933990Z'
+type: condition
+updated: '2026-02-08T19:29:31.600174Z'
 ---
 
 # Depressive Disorder

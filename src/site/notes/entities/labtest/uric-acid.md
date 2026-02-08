@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.049903Z'
+created: '2026-02-08T19:29:31.708077Z'
 description: Uric acid is a substance the body produces when breaking down certain
   foods and natural waste products. Testing uric acid can provide insight into kidney
   function and how well the body is processing waste. Imbalances may indicate an increased
@@ -7,14 +7,13 @@ description: Uric acid is a substance the body produces when breaking down certa
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/uric-acid/
+permalink: /garden/dev_admin/labtest/uric-acid/
 slug: uric-acid
 tags:
-- LabTest
 - labtest
 title: uric_acid
-type: LabTest
-updated: '2026-02-08T19:25:13.049903Z'
+type: labtest
+updated: '2026-02-08T19:29:31.708077Z'
 ---
 
 # Uric Acid

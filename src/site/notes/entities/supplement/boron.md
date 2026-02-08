@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.106466Z'
+created: '2026-02-08T19:29:31.763827Z'
 description: Trace mineral important for bone health, hormone balance, and cognitive
   function. May support testosterone levels and reduce inflammatory markers. Essential
   for calcium, magnesium, and vitamin D metabolism.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/boron/
+permalink: /garden/dev_admin/supplement/boron/
 slug: boron
 tags:
-- Supplement
 - supplement
 - mineral
 - trace_element
@@ -18,8 +17,8 @@ tags:
 - testosterone
 - brain
 title: Boron
-type: Supplement
-updated: '2026-02-08T19:25:13.106466Z'
+type: supplement
+updated: '2026-02-08T19:29:31.763827Z'
 ---
 
 # Boron

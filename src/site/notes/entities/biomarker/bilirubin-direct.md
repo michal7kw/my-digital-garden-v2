@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.880018Z'
+created: '2026-02-08T19:29:31.555993Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/bilirubin-direct/
+permalink: /garden/dev_admin/biomarker/bilirubin-direct/
 slug: bilirubin-direct
 tags:
-- Biomarker
 - biomarker
 title: Bilirubin Direct
-type: Biomarker
-updated: '2026-02-08T19:25:12.880018Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.555993Z'
 ---
 
 # Bilirubin Direct

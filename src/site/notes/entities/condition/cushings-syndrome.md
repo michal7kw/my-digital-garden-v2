@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.933093Z'
+created: '2026-02-08T19:29:31.599507Z'
 description: A hormonal disorder caused by prolonged exposure to high levels of cortisol,
   resulting in a variety of physical and metabolic changes.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/cushings-syndrome/
+permalink: /garden/dev_admin/condition/cushings-syndrome/
 slug: cushings-syndrome
 tags:
-- Condition
 - condition
 - endocrinology
 - hormones
 - metabolic
 - function-health
 title: Cushings Syndrome
-type: Condition
-updated: '2026-02-08T19:25:12.933093Z'
+type: condition
+updated: '2026-02-08T19:29:31.599507Z'
 ---
 
 # Cushings Syndrome

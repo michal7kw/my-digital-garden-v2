@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.942395Z'
+created: '2026-02-08T19:29:31.606573Z'
 description: The presence of red blood cells in the urine, which can be visible (gross)
   or only detectable under a microscope (microscopic).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/hematuria/
+permalink: /garden/dev_admin/condition/hematuria/
 slug: hematuria
 tags:
-- Condition
 - condition
 - urology
 - nephrology
 - symptom
 - function-health
 title: Hematuria
-type: Condition
-updated: '2026-02-08T19:25:12.942395Z'
+type: condition
+updated: '2026-02-08T19:29:31.606573Z'
 ---
 
 # Hematuria

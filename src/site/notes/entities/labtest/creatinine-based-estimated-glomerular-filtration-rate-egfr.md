@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.014757Z'
+created: '2026-02-08T19:29:31.673791Z'
 description: ess-tih-may-tid gloh-mer-yoo-lur fil-tray-shun rayt Tested twice a year
   Estimated glomerular filtration rate (eGFR) is a calculation that shows how well
   the kidneys are filtering waste from the blood. Low eGFR can signal reduced kidney
@@ -10,14 +10,13 @@ description: ess-tih-may-tid gloh-mer-yoo-lur fil-tray-shun rayt Tested twice a 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/creatinine-based-estimated-glomerular-filtration-rate-egfr/
+permalink: /garden/dev_admin/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/
 slug: creatinine-based-estimated-glomerular-filtration-rate-egfr
 tags:
-- LabTest
 - labtest
 title: creatinine_based_estimated_glomerular_filtration_rate_egfr
-type: LabTest
-updated: '2026-02-08T19:25:13.014757Z'
+type: labtest
+updated: '2026-02-08T19:29:31.673791Z'
 ---
 
 # Creatinine-based Estimated Glomerular Filtration Rate (eGFR)

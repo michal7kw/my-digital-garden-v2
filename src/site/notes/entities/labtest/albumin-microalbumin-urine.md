@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.004735Z'
+created: '2026-02-08T19:29:31.664095Z'
 description: Albumin in the urine, even in small amounts—a condition called microalbuminuria—is
   one of the earliest warning signs that the kidneys’ filters are under stress and
   may be starting to leak protein they normally keep in the blood.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/albumin-microalbumin-urine/
+permalink: /garden/dev_admin/labtest/albumin-microalbumin-urine/
 slug: albumin-microalbumin-urine
 tags:
-- LabTest
 - labtest
 title: albumin_microalbumin_urine
-type: LabTest
-updated: '2026-02-08T19:25:13.004735Z'
+type: labtest
+updated: '2026-02-08T19:29:31.664095Z'
 ---
 
 # Albumin (Microalbumin - Urine)

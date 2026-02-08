@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.979161Z'
+created: '2026-02-08T19:29:31.639242Z'
 description: Tricyclic antidepressant (TCA) with potent serotonin reuptake inhibition.
   The gold standard medication for Obsessive-Compulsive Disorder (OCD).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/clomipramine/
+permalink: /garden/dev_admin/drug/clomipramine/
 slug: clomipramine
 tags:
-- Drug
 - drug
 - antidepressant
 - ocd
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: Clomipramine
-type: Drug
-updated: '2026-02-08T19:25:12.979161Z'
+type: drug
+updated: '2026-02-08T19:29:31.639242Z'
 ---
 
 # Clomipramine

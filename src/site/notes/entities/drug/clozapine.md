@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.979436Z'
+created: '2026-02-08T19:29:31.639619Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/clozapine/
+permalink: /garden/dev_admin/drug/clozapine/
 slug: clozapine
 tags:
-- Drug
 - drug
 - antipsychotic
 - schizophrenia
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: Clozapine
-type: Drug
-updated: '2026-02-08T19:25:12.979436Z'
+type: drug
+updated: '2026-02-08T19:29:31.639619Z'
 ---
 
 # Clozapine

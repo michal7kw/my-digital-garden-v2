@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:13.077054Z'
+created: '2026-02-08T19:29:31.734987Z'
 description: A feeling of apprehension, fear, nervousness, or dread often accompanied
   by physical symptoms.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/anxiety/
+permalink: /garden/dev_admin/phenotype/anxiety/
 slug: anxiety
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Anxiety
-type: Phenotype
-updated: '2026-02-08T19:25:13.077054Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.734987Z'
 ---
 
 # Anxiety

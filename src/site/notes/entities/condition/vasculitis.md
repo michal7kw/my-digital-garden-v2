@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.974656Z'
+created: '2026-02-08T19:29:31.634854Z'
 description: A group of rare disorders characterized by inflammation of the blood
   vessels, which can restrict blood flow and lead to organ and tissue damage.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/vasculitis/
+permalink: /garden/dev_admin/condition/vasculitis/
 slug: vasculitis
 tags:
-- Condition
 - condition
 - rheumatology
 - immunology
 - vascular
 - function-health
 title: Vasculitis
-type: Condition
-updated: '2026-02-08T19:25:12.974656Z'
+type: condition
+updated: '2026-02-08T19:29:31.634854Z'
 ---
 
 # Vasculitis

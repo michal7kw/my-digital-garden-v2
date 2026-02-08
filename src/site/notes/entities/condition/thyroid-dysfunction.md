@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.972884Z'
+created: '2026-02-08T19:29:31.633069Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/thyroid-dysfunction/
+permalink: /garden/dev_admin/condition/thyroid-dysfunction/
 slug: thyroid-dysfunction
 tags:
-- Condition
 - condition
 title: Thyroid Dysfunction
-type: Condition
-updated: '2026-02-08T19:25:12.972884Z'
+type: condition
+updated: '2026-02-08T19:29:31.633069Z'
 ---
 
 # Thyroid Dysfunction

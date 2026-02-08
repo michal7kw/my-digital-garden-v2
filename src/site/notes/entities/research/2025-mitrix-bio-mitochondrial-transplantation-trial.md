@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.100143Z'
+created: '2026-02-08T19:29:31.757633Z'
 description: First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown
   mitochondria to reverse age-related bioenergetic decline.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Research/2025-mitrix-bio-mitochondrial-transplantation-trial/
+permalink: /garden/dev_admin/research/2025-mitrix-bio-mitochondrial-transplantation-trial/
 slug: 2025-mitrix-bio-mitochondrial-transplantation-trial
 tags:
-- Research
 - research
 - mitochondria
 - clinical_trial
 - longevity
 - biotechnology
 title: 2025 Mitrix Bio Mitochondrial Transplantation Trial
-type: Research
-updated: '2026-02-08T19:25:13.100143Z'
+type: research
+updated: '2026-02-08T19:29:31.757633Z'
 ---
 
 # 2025 Mitrix Bio Mitochondrial Transplantation Trial

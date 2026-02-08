@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.964153Z'
+created: '2026-02-08T19:29:31.625092Z'
 description: A mental health condition triggered by experiencing or witnessing a terrifying
   event, characterized by flashbacks, nightmares, and severe anxiety.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/post-traumatic-stress-disorder/
+permalink: /garden/dev_admin/condition/post-traumatic-stress-disorder/
 slug: post-traumatic-stress-disorder
 tags:
-- Condition
 - condition
 - psychiatry
 - trauma
 - anxiety
 title: Post-Traumatic Stress Disorder
-type: Condition
-updated: '2026-02-08T19:25:12.964153Z'
+type: condition
+updated: '2026-02-08T19:29:31.625092Z'
 ---
 
 # Post-Traumatic Stress Disorder

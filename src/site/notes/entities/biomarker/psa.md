@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.898736Z'
+created: '2026-02-08T19:29:31.572844Z'
 description: Prostate-specific antigen is a serine protease produced by prostatic
   epithelial cells. It is the primary screening biomarker for prostate cancer, though
   elevations also occur in benign prostatic hyperplasia and prostatitis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/psa/
+permalink: /garden/dev_admin/biomarker/psa/
 slug: psa
 tags:
-- Biomarker
 - biomarker
 title: PSA
-type: Biomarker
-updated: '2026-02-08T19:25:12.898736Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.572844Z'
 ---
 
 # PSA

@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.112208Z'
+created: '2026-02-08T19:29:31.769400Z'
 description: Supplemental form of the sleep hormone melatonin. Supports sleep onset,
   jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/melatonin-supplement/
+permalink: /garden/dev_admin/supplement/melatonin-supplement/
 slug: melatonin-supplement
 tags:
-- Supplement
 - supplement
 - sleep
 - circadian
 - antioxidant
 - hormone
 title: Melatonin Supplement
-type: Supplement
-updated: '2026-02-08T19:25:13.112208Z'
+type: supplement
+updated: '2026-02-08T19:29:31.769400Z'
 ---
 
 # Melatonin Supplement

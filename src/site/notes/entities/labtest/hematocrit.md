@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.021628Z'
+created: '2026-02-08T19:29:31.680469Z'
 description: Tested twice a year Hematocrit measures the percentage of red blood cells
   in the blood—the cells responsible for carrying oxygen throughout the body. Low
   levels are most often linked to anemia or blood loss, while high levels may reflect
@@ -9,16 +9,15 @@ description: Tested twice a year Hematocrit measures the percentage of red blood
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/hematocrit/
+permalink: /garden/dev_admin/labtest/hematocrit/
 slug: hematocrit
 tags:
-- LabTest
 - labtest
 - blood-panel
 - function-health
 title: hematocrit
-type: LabTest
-updated: '2026-02-08T19:25:13.021628Z'
+type: labtest
+updated: '2026-02-08T19:29:31.680469Z'
 ---
 
 # Hematocrit

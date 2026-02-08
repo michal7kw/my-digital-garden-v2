@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.023358Z'
+created: '2026-02-08T19:29:31.682185Z'
 description: Sensitive marker of systemic inflammation. Important for cardiovascular
   risk stratification.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/hs-crp/
+permalink: /garden/dev_admin/labtest/hs-crp/
 slug: hs-crp
 tags:
-- LabTest
 - labtest
 title: hs_crp
-type: LabTest
-updated: '2026-02-08T19:25:13.023358Z'
+type: labtest
+updated: '2026-02-08T19:29:31.682185Z'
 ---
 
 # hs-CRP (High-Sensitivity C-Reactive Protein)

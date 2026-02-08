@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.995190Z'
+created: '2026-02-08T19:29:31.655193Z'
 description: Encodes the Epidermal Growth Factor Receptor. Mutations and amplification
   of this gene are common in many cancers.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/egfr/
+permalink: /garden/dev_admin/gene/egfr/
 slug: egfr
 tags:
-- Gene
 - gene
 - cancer
 - signaling
 - imported
 - primekg
 title: EGFR
-type: Gene
-updated: '2026-02-08T19:25:12.995190Z'
+type: gene
+updated: '2026-02-08T19:29:31.655193Z'
 ---
 
 # EGFR

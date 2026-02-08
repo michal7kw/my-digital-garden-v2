@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.905551Z'
+created: '2026-02-08T19:29:31.578461Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/tpo-antibodies/
+permalink: /garden/dev_admin/biomarker/tpo-antibodies/
 slug: tpo-antibodies
 tags:
-- Biomarker
 - biomarker
 title: Tpo Antibodies
-type: Biomarker
-updated: '2026-02-08T19:25:12.905551Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.578461Z'
 ---
 
 # Tpo Antibodies

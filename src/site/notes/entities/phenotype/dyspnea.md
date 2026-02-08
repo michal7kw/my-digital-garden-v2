@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.079112Z'
+created: '2026-02-08T19:29:31.737038Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/dyspnea/
+permalink: /garden/dev_admin/phenotype/dyspnea/
 slug: dyspnea
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Dyspnea
-type: Phenotype
-updated: '2026-02-08T19:25:13.079112Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.737038Z'
 ---
 
 # Dyspnea

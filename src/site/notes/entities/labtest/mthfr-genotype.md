@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.033505Z'
+created: '2026-02-08T19:29:31.692183Z'
 description: Tests C677T and A1298C variants affecting folate metabolism and homocysteine
   levels.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/mthfr-genotype/
+permalink: /garden/dev_admin/labtest/mthfr-genotype/
 slug: mthfr-genotype
 tags:
-- LabTest
 - labtest
 title: mthfr_genotype
-type: LabTest
-updated: '2026-02-08T19:25:13.033505Z'
+type: labtest
+updated: '2026-02-08T19:29:31.692183Z'
 ---
 
 # MTHFR Gene Test

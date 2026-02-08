@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.956293Z'
+created: '2026-02-08T19:29:31.618410Z'
 description: A range of liver conditions affecting people who drink little to no alcohol,
   characterized by too much fat stored in liver cells.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/non-alcoholic-fatty-liver-disease/
+permalink: /garden/dev_admin/condition/non-alcoholic-fatty-liver-disease/
 slug: non-alcoholic-fatty-liver-disease
 tags:
-- Condition
 - condition
 - gastroenterology
 - metabolic
 - liver
 title: Non-alcoholic Fatty Liver Disease
-type: Condition
-updated: '2026-02-08T19:25:12.956293Z'
+type: condition
+updated: '2026-02-08T19:29:31.618410Z'
 ---
 
 # Non-alcoholic Fatty Liver Disease

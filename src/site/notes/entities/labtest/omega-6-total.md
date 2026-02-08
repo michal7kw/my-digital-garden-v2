@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.037399Z'
+created: '2026-02-08T19:29:31.695938Z'
 description: Omega-6 Total measures the key omega-6 fatty acids that make up a large
   portion of the body’s essential fat stores. While omega-6s are important building
   blocks for cells and play a role in growth, energy, and normal immune function,
@@ -8,14 +8,13 @@ description: Omega-6 Total measures the key omega-6 fatty acids that make up a l
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/omega-6-total/
+permalink: /garden/dev_admin/labtest/omega-6-total/
 slug: omega-6-total
 tags:
-- LabTest
 - labtest
 title: omega_6_total
-type: LabTest
-updated: '2026-02-08T19:25:13.037399Z'
+type: labtest
+updated: '2026-02-08T19:29:31.695938Z'
 ---
 
 # Omega-6 Total

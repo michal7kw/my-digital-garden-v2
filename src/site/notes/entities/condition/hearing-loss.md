@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.941878Z'
+created: '2026-02-08T19:29:31.606063Z'
 description: A partial or total inability to hear sound in one or both ears, ranging
   from mild to profound.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/hearing-loss/
+permalink: /garden/dev_admin/condition/hearing-loss/
 slug: hearing-loss
 tags:
-- Condition
 - condition
 - audiology
 - sensory
 - disability
 title: Hearing Loss
-type: Condition
-updated: '2026-02-08T19:25:12.941878Z'
+type: condition
+updated: '2026-02-08T19:29:31.606063Z'
 ---
 
 # Hearing Loss

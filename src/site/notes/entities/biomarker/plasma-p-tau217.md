@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.899770Z'
+created: '2026-02-08T19:29:31.573820Z'
 description: The most accurate blood-based biomarker for Alzheimer's disease, showing
   >95% accuracy in detecting AD pathology. Represents a paradigm shift enabling accessible,
   non-invasive AD diagnosis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/plasma-p-tau217/
+permalink: /garden/dev_admin/biomarker/plasma-p-tau217/
 slug: plasma-p-tau217
 tags:
-- Biomarker
 - biomarker
 - blood-test
 - alzheimers
@@ -17,8 +16,8 @@ tags:
 - cutting-edge
 - screening
 title: Plasma p-tau217
-type: Biomarker
-updated: '2026-02-08T19:25:12.899770Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.573820Z'
 ---
 
 # Plasma p-tau217

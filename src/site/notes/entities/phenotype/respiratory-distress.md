@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.085292Z'
+created: '2026-02-08T19:29:31.743071Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/respiratory-distress/
+permalink: /garden/dev_admin/phenotype/respiratory-distress/
 slug: respiratory-distress
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Respiratory distress
-type: Phenotype
-updated: '2026-02-08T19:25:13.085292Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.743071Z'
 ---
 
 # Respiratory distress

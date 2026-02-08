@@ -1,22 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.912532Z'
+created: '2026-02-08T19:29:31.584043Z'
 description: Abnormal thyroid function based on TSH and thyroid hormone levels. Can
   manifest as hypothyroidism or hyperthyroidism affecting metabolism and energy.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/ClinicalPattern/thyroid-dysfunction/
+permalink: /garden/dev_admin/clinicalpattern/thyroid-dysfunction/
 slug: thyroid-dysfunction
 tags:
-- ClinicalPattern
+- clinicalpattern
 - clinical_pattern
 - endocrine
 - thyroid
 - metabolism
 - hormones
 title: Thyroid Dysfunction
-type: ClinicalPattern
-updated: '2026-02-08T19:25:12.912532Z'
+type: clinicalpattern
+updated: '2026-02-08T19:29:31.584043Z'
 ---
 
 # Thyroid Dysfunction

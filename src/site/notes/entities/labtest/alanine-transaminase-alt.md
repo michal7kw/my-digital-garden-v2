@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.004204Z'
+created: '2026-02-08T19:29:31.663591Z'
 description: Tested twice a year Alanine aminotransferase (ALT) is an enzyme found
   in the liver that helps process nutrients and toxins. Elevated ALT levels in the
   blood can signal liver cell damage, making it a useful marker of liver health.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/alanine-transaminase-alt/
+permalink: /garden/dev_admin/labtest/alanine-transaminase-alt/
 slug: alanine-transaminase-alt
 tags:
-- LabTest
 - labtest
 title: alanine_transaminase_alt
-type: LabTest
-updated: '2026-02-08T19:25:13.004204Z'
+type: labtest
+updated: '2026-02-08T19:29:31.663591Z'
 ---
 
 # Alanine Transaminase (ALT)

@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.921241Z'
+created: '2026-02-08T19:29:31.590458Z'
 description: A type of arthritis that causes inflammation in the joints and ligaments
   of the spine, potentially leading to spinal fusion.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/ankylosing-spondylitis/
+permalink: /garden/dev_admin/condition/ankylosing-spondylitis/
 slug: ankylosing-spondylitis
 tags:
-- Condition
 - condition
 - rheumatology
 - autoimmune
 - inflammation
 - chronic
 title: Ankylosing Spondylitis
-type: Condition
-updated: '2026-02-08T19:25:12.921241Z'
+type: condition
+updated: '2026-02-08T19:29:31.590458Z'
 ---
 
 # Ankylosing Spondylitis

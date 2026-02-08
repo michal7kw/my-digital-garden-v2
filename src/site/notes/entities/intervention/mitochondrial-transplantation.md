@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:13.001597Z'
+created: '2026-02-08T19:29:31.661354Z'
 description: The transfer of healthy, functional mitochondria into cells or tissues
   with damaged mitochondria. A cutting-edge "Mitotherapy" for aging and ischemic injury.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Intervention/mitochondrial-transplantation/
+permalink: /garden/dev_admin/intervention/mitochondrial-transplantation/
 slug: mitochondrial-transplantation
 tags:
-- Intervention
 - intervention
 - regenerative_medicine
 - mitochondria
 - longevity
 title: Mitochondrial Transplantation
-type: Intervention
-updated: '2026-02-08T19:25:13.001597Z'
+type: intervention
+updated: '2026-02-08T19:29:31.661354Z'
 ---
 
 # Mitochondrial Transplantation

@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.933393Z'
+created: '2026-02-08T19:29:31.599725Z'
 description: Inflammation of the bladder, most often caused by a bacterial urinary
   tract infection (UTI).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/cystitis/
+permalink: /garden/dev_admin/condition/cystitis/
 slug: cystitis
 tags:
-- Condition
 - condition
 - urology
 - inflammation
 - infection
 - function-health
 title: Cystitis
-type: Condition
-updated: '2026-02-08T19:25:12.933393Z'
+type: condition
+updated: '2026-02-08T19:29:31.599725Z'
 ---
 
 # Cystitis

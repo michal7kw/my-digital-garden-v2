@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.966216Z'
+created: '2026-02-08T19:29:31.626872Z'
 description: A chronic autoimmune disease that speeds up the growth cycle of skin
   cells, causing patches of thick, red skin and silvery scales.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/psoriasis/
+permalink: /garden/dev_admin/condition/psoriasis/
 slug: psoriasis
 tags:
-- Condition
 - condition
 - dermatology
 - autoimmune
 - inflammation
 - chronic
 title: Psoriasis
-type: Condition
-updated: '2026-02-08T19:25:12.966216Z'
+type: condition
+updated: '2026-02-08T19:29:31.626872Z'
 ---
 
 # Psoriasis

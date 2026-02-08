@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.995000Z'
+created: '2026-02-08T19:29:31.655001Z'
 description: Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme
   in the body.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/cyp3a4/
+permalink: /garden/dev_admin/gene/cyp3a4/
 slug: cyp3a4
 tags:
-- Gene
 - gene
 - drug_metabolism
 - liver
 - imported
 - primekg
 title: CYP3A4
-type: Gene
-updated: '2026-02-08T19:25:12.995000Z'
+type: gene
+updated: '2026-02-08T19:29:31.655001Z'
 ---
 
 # CYP3A4

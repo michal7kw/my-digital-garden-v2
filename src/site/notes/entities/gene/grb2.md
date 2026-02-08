@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.996741Z'
+created: '2026-02-08T19:29:31.656723Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/grb2/
+permalink: /garden/dev_admin/gene/grb2/
 slug: grb2
 tags:
-- Gene
 - gene
 - imported
 - primekg
 title: GRB2
-type: Gene
-updated: '2026-02-08T19:25:12.996741Z'
+type: gene
+updated: '2026-02-08T19:29:31.656723Z'
 ---
 
 # "GRB2"

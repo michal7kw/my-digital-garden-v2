@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.077687Z'
+created: '2026-02-08T19:29:31.735609Z'
 description: Joint pain without signs of inflammation.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/arthralgia/
+permalink: /garden/dev_admin/phenotype/arthralgia/
 slug: arthralgia
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Arthralgia
-type: Phenotype
-updated: '2026-02-08T19:25:13.077687Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.735609Z'
 ---
 
 # Arthralgia

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.985798Z'
+created: '2026-02-08T19:29:31.645819Z'
 description: A long-acting, repository form of Penicillin G administered by deep intramuscular
   injection, providing therapeutic levels for weeks.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/penicillin-g-benzathine/
+permalink: /garden/dev_admin/drug/penicillin-g-benzathine/
 slug: penicillin-g-benzathine
 tags:
-- Drug
 - drug
 - antibiotic
 - intramuscular
 - long-acting
 title: Penicillin G Benzathine
-type: Drug
-updated: '2026-02-08T19:25:12.985798Z'
+type: drug
+updated: '2026-02-08T19:29:31.645819Z'
 ---
 
 # Penicillin G Benzathine

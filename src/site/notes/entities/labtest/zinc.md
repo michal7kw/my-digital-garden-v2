@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.052477Z'
+created: '2026-02-08T19:29:31.710628Z'
 description: Zinc is an essential mineral that plays a key role in immune strength,
   wound healing, metabolism, and hormone balance. Testing zinc levels shows whether
   the body has enough to support these functions. Low levels can be linked to issues
@@ -8,16 +8,15 @@ description: Zinc is an essential mineral that plays a key role in immune streng
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/zinc/
+permalink: /garden/dev_admin/labtest/zinc/
 slug: zinc
 tags:
-- LabTest
 - labtest
 - functional-medicine
 - function-health
 title: zinc
-type: LabTest
-updated: '2026-02-08T19:25:13.052477Z'
+type: labtest
+updated: '2026-02-08T19:29:31.710628Z'
 ---
 
 # Zinc

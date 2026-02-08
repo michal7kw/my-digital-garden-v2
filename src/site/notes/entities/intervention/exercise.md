@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.000033Z'
+created: '2026-02-08T19:29:31.659877Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
@@ -7,10 +7,9 @@ description: Physical activity performed to improve or maintain physical fitness
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Intervention/exercise/
+permalink: /garden/dev_admin/intervention/exercise/
 slug: exercise
 tags:
-- Intervention
 - intervention
 - physical_activity
 - longevity
@@ -19,8 +18,8 @@ tags:
 - neuroprotective
 - anti_inflammatory
 title: Exercise
-type: Intervention
-updated: '2026-02-08T19:25:13.000033Z'
+type: intervention
+updated: '2026-02-08T19:29:31.659877Z'
 ---
 
 # Exercise

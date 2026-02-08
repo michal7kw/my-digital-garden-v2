@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:13.115988Z'
+created: '2026-02-08T19:29:31.773078Z'
 description: A natural polyamine that induces autophagy and has been associated with
   increased lifespan and cardiovascular protection.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/spermidine/
+permalink: /garden/dev_admin/supplement/spermidine/
 slug: spermidine
 tags:
-- Supplement
 - supplement
 - longevity
 - autophagy
 - cardiovascular
 title: Spermidine
-type: Supplement
-updated: '2026-02-08T19:25:13.115988Z'
+type: supplement
+updated: '2026-02-08T19:29:31.773078Z'
 ---
 
 # Spermidine

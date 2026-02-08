@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.882037Z'
+created: '2026-02-08T19:29:31.558035Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/calcium/
+permalink: /garden/dev_admin/biomarker/calcium/
 slug: calcium
 tags:
-- Biomarker
 - biomarker
 title: Calcium
-type: Biomarker
-updated: '2026-02-08T19:25:12.882037Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.558035Z'
 ---
 
 # Calcium

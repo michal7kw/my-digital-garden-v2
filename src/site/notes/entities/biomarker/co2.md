@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.882482Z'
+created: '2026-02-08T19:29:31.558443Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/co2/
+permalink: /garden/dev_admin/biomarker/co2/
 slug: co2
 tags:
-- Biomarker
 - biomarker
 title: Co2
-type: Biomarker
-updated: '2026-02-08T19:25:12.882482Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.558443Z'
 ---
 
 # Co2

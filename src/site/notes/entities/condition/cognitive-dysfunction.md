@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.931340Z'
+created: '2026-02-08T19:29:31.598198Z'
 description: A deficit in intellectual functioning, including problems with memory,
   attention, language, thinking, and judgment.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/cognitive-dysfunction/
+permalink: /garden/dev_admin/condition/cognitive-dysfunction/
 slug: cognitive-dysfunction
 tags:
-- Condition
 - condition
 - neurology
 - psychiatry
 - symptom
 title: Cognitive Dysfunction
-type: Condition
-updated: '2026-02-08T19:25:12.931340Z'
+type: condition
+updated: '2026-02-08T19:29:31.598198Z'
 ---
 
 # Cognitive Dysfunction

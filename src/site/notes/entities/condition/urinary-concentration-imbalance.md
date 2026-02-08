@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.973613Z'
+created: '2026-02-08T19:29:31.633785Z'
 description: A condition where the kidneys are unable to properly regulate the concentration
   of urine, leading to urine that is either too concentrated (high specific gravity)
   or too dilute (low specific gravity).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/urinary-concentration-imbalance/
+permalink: /garden/dev_admin/condition/urinary-concentration-imbalance/
 slug: urinary-concentration-imbalance
 tags:
-- Condition
 - condition
 - nephrology
 - metabolic
 - function-health
 title: Urinary Concentration Imbalance
-type: Condition
-updated: '2026-02-08T19:25:12.973613Z'
+type: condition
+updated: '2026-02-08T19:29:31.633785Z'
 ---
 
 # Urinary Concentration Imbalance

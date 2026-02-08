@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.084228Z'
+created: '2026-02-08T19:29:31.742017Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/nausea/
+permalink: /garden/dev_admin/phenotype/nausea/
 slug: nausea
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Nausea
-type: Phenotype
-updated: '2026-02-08T19:25:13.084228Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.742017Z'
 ---
 
 # Nausea

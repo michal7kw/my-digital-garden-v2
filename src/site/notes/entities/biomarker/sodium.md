@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.902402Z'
+created: '2026-02-08T19:29:31.575971Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/sodium/
+permalink: /garden/dev_admin/biomarker/sodium/
 slug: sodium
 tags:
-- Biomarker
 - biomarker
 title: Sodium
-type: Biomarker
-updated: '2026-02-08T19:25:12.902402Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.575971Z'
 ---
 
 # Sodium

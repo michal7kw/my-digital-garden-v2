@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.942636Z'
+created: '2026-02-08T19:29:31.606799Z'
 description: The release of blood from a broken blood vessel, either inside or outside
   the body.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/hemorrhage/
+permalink: /garden/dev_admin/condition/hemorrhage/
 slug: hemorrhage
 tags:
-- Condition
 - condition
 - trauma
 - hematology
 - emergency
 title: Hemorrhage
-type: Condition
-updated: '2026-02-08T19:25:12.942636Z'
+type: condition
+updated: '2026-02-08T19:29:31.606799Z'
 ---
 
 # Hemorrhage

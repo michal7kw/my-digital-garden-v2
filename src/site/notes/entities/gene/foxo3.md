@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.996360Z'
+created: '2026-02-08T19:29:31.656357Z'
 description: Encodes the transcription factor FOXO3, a key "longevity gene" regulating
   stress resistance, autophagy, and apoptosis. Strongly associated with human centenarians.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/foxo3/
+permalink: /garden/dev_admin/gene/foxo3/
 slug: foxo3
 tags:
-- Gene
 - gene
 - longevity
 - transcription_factor
 - stress_response
 - insulin_signaling
 title: FOXO3
-type: Gene
-updated: '2026-02-08T19:25:12.996360Z'
+type: gene
+updated: '2026-02-08T19:29:31.656357Z'
 ---
 
 # FOXO3

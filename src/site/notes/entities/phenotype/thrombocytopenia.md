@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:13.086730Z'
+created: '2026-02-08T19:29:31.744464Z'
 description: A condition characterized by an abnormally low number of platelets (thrombocytes)
   in the blood, which can lead to excessive bleeding and bruising.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/thrombocytopenia/
+permalink: /garden/dev_admin/phenotype/thrombocytopenia/
 slug: thrombocytopenia
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Thrombocytopenia
-type: Phenotype
-updated: '2026-02-08T19:25:13.086730Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.744464Z'
 ---
 
 # Thrombocytopenia

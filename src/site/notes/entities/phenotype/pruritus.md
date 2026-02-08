@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.084947Z'
+created: '2026-02-08T19:29:31.742732Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/pruritus/
+permalink: /garden/dev_admin/phenotype/pruritus/
 slug: pruritus
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Pruritus
-type: Phenotype
-updated: '2026-02-08T19:25:13.084947Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.742732Z'
 ---
 
 # Pruritus

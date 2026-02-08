@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.104968Z'
+created: '2026-02-08T19:29:31.762369Z'
 description: Powerful antioxidant that works in both water and fat environments. Regenerates
   other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/alpha-lipoic-acid/
+permalink: /garden/dev_admin/supplement/alpha-lipoic-acid/
 slug: alpha-lipoic-acid
 tags:
-- Supplement
 - supplement
 - antioxidant
 - blood_sugar
@@ -17,8 +16,8 @@ tags:
 - neuroprotection
 - diabetic-neuropathy
 title: Alpha Lipoic Acid
-type: Supplement
-updated: '2026-02-08T19:25:13.104968Z'
+type: supplement
+updated: '2026-02-08T19:29:31.762369Z'
 ---
 
 # Alpha Lipoic Acid

@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.089005Z'
+created: '2026-02-08T19:29:31.746715Z'
 description: Nuclear steroid hormone receptor that binds testosterone and DHT. Acts
   as a ligand-activated transcription factor regulating male sexual development and
   prostate cell proliferation.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/ar/
+permalink: /garden/dev_admin/protein/ar/
 slug: ar
 tags:
-- Protein
 - protein
 - receptor
 - transcription_factor
@@ -17,8 +16,8 @@ tags:
 - imported
 - primekg
 title: AR
-type: Protein
-updated: '2026-02-08T19:25:13.089005Z'
+type: protein
+updated: '2026-02-08T19:29:31.746715Z'
 ---
 
 # AR

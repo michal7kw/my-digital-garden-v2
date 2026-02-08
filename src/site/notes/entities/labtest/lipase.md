@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.029083Z'
+created: '2026-02-08T19:29:31.687854Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -8,16 +8,15 @@ description: Lipase is a digestive enzyme made by the pancreas that helps break 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/lipase/
+permalink: /garden/dev_admin/labtest/lipase/
 slug: lipase
 tags:
-- LabTest
 - labtest
 - blood-panel
 - function-health
 title: lipase
-type: LabTest
-updated: '2026-02-08T19:25:13.029083Z'
+type: labtest
+updated: '2026-02-08T19:29:31.687854Z'
 ---
 
 # Lipase

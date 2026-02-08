@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.093106Z'
+created: '2026-02-08T19:29:31.750724Z'
 description: Transcriptional regulator involved in differentiation, mitogenesis, and
   synaptic plasticity.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/egr1/
+permalink: /garden/dev_admin/protein/egr1/
 slug: egr1
 tags:
-- Protein
 - protein
 - transcription_factor
 - zinc_finger
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: EGR1
-type: Protein
-updated: '2026-02-08T19:25:13.093106Z'
+type: protein
+updated: '2026-02-08T19:29:31.750724Z'
 ---
 
 # EGR1

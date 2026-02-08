@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.887843Z'
+created: '2026-02-08T19:29:31.563457Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/free-t4/
+permalink: /garden/dev_admin/biomarker/free-t4/
 slug: free-t4
 tags:
-- Biomarker
 - biomarker
 title: Free T4
-type: Biomarker
-updated: '2026-02-08T19:25:12.887843Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.563457Z'
 ---
 
 # Free T4

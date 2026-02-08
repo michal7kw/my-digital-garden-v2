@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.985611Z'
+created: '2026-02-08T19:29:31.645636Z'
 description: A calcium salt form of Penicillin G, historically used as an antibiotic.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/penicillin-calcium/
+permalink: /garden/dev_admin/drug/penicillin-calcium/
 slug: penicillin-calcium
 tags:
-- Drug
 - drug
 - antibiotic
 - penicillin
 title: Penicillin Calcium
-type: Drug
-updated: '2026-02-08T19:25:12.985611Z'
+type: drug
+updated: '2026-02-08T19:29:31.645636Z'
 ---
 
 # Penicillin Calcium

@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:12.965246Z'
+created: '2026-02-08T19:29:31.625992Z'
 description: Birth that occurs before the 37th week of pregnancy.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/premature-birth/
+permalink: /garden/dev_admin/condition/premature-birth/
 slug: premature-birth
 tags:
-- Condition
 - condition
 - obstetrics
 - pediatrics
 - neonatology
 title: Premature Birth
-type: Condition
-updated: '2026-02-08T19:25:12.965246Z'
+type: condition
+updated: '2026-02-08T19:29:31.625992Z'
 ---
 
 # Premature Birth

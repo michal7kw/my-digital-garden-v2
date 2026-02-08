@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.107664Z'
+created: '2026-02-08T19:29:31.764979Z'
 description: Medicinal mushroom traditionally used for energy and endurance. Supports
   ATP production, oxygen utilization, and exercise performance. Contains cordycepin
   with anti-inflammatory and adaptogenic properties.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/cordyceps/
+permalink: /garden/dev_admin/supplement/cordyceps/
 slug: cordyceps
 tags:
-- Supplement
 - supplement
 - mushroom
 - adaptogen
@@ -18,8 +17,8 @@ tags:
 - respiratory
 - longevity
 title: Cordyceps
-type: Supplement
-updated: '2026-02-08T19:25:13.107664Z'
+type: supplement
+updated: '2026-02-08T19:29:31.764979Z'
 ---
 
 # Cordyceps

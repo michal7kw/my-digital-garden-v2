@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.940167Z'
+created: '2026-02-08T19:29:31.604717Z'
 description: An aggressive type of cancer that can occur in the brain or spinal cord,
   formed from cells called astrocytes. It is the most common malignant primary brain
   tumor in adults.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/glioblastoma/
+permalink: /garden/dev_admin/condition/glioblastoma/
 slug: glioblastoma
 tags:
-- Condition
 - condition
 - oncology
 - neurology
 - brain_tumor
 title: Glioblastoma
-type: Condition
-updated: '2026-02-08T19:25:12.940167Z'
+type: condition
+updated: '2026-02-08T19:29:31.604717Z'
 ---
 
 # Glioblastoma

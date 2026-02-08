@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.938953Z'
+created: '2026-02-08T19:29:31.603837Z'
 description: Any bleeding that occurs in the digestive tract, ranging from the esophagus
   to the rectum, which can be acute or chronic.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/gastrointestinal-bleeding/
+permalink: /garden/dev_admin/condition/gastrointestinal-bleeding/
 slug: gastrointestinal-bleeding
 tags:
-- Condition
 - condition
 - gastroenterology
 - emergency
 - function-health
 title: Gastrointestinal Bleeding
-type: Condition
-updated: '2026-02-08T19:25:12.938953Z'
+type: condition
+updated: '2026-02-08T19:29:31.603837Z'
 ---
 
 # Gastrointestinal Bleeding

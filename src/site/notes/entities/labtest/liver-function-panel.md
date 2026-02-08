@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.029784Z'
+created: '2026-02-08T19:29:31.688582Z'
 description: 'Comprehensive liver assessment: ALT, AST, ALP, GGT, bilirubin, albumin,
   and total protein.'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/liver-function-panel/
+permalink: /garden/dev_admin/labtest/liver-function-panel/
 slug: liver-function-panel
 tags:
-- LabTest
 - labtest
 title: liver_function_panel
-type: LabTest
-updated: '2026-02-08T19:25:13.029784Z'
+type: labtest
+updated: '2026-02-08T19:29:31.688582Z'
 ---
 
 # Liver Function Panel

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.082632Z'
+created: '2026-02-08T19:29:31.740408Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/hypotonia/
+permalink: /garden/dev_admin/phenotype/hypotonia/
 slug: hypotonia
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Hypotonia
-type: Phenotype
-updated: '2026-02-08T19:25:13.082632Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.740408Z'
 ---
 
 # Hypotonia

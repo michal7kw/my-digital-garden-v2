@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.013160Z'
+created: '2026-02-08T19:29:31.672265Z'
 description: Tested twice a year Evaluates the pigmentation of urine, which can range
   from pale yellow to dark amber. Variations in color may be influenced by hydration
   status, dietary intake, medication use, or various underlying medical conditions.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/color-urine/
+permalink: /garden/dev_admin/labtest/color-urine/
 slug: color-urine
 tags:
-- LabTest
 - labtest
 title: color_urine
-type: LabTest
-updated: '2026-02-08T19:25:13.013160Z'
+type: labtest
+updated: '2026-02-08T19:29:31.672265Z'
 ---
 
 # Color, Urine

@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.877343Z'
+created: '2026-02-08T19:29:31.553409Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/aa-epa-ratio/
+permalink: /garden/dev_admin/biomarker/aa-epa-ratio/
 slug: aa-epa-ratio
 tags:
-- Biomarker
 - biomarker
 title: Aa Epa Ratio
-type: Biomarker
-updated: '2026-02-08T19:25:12.877343Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.553409Z'
 ---
 
 # Aa Epa Ratio

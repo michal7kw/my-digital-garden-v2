@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.985423Z'
+created: '2026-02-08T19:29:31.645461Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/prazosin/
+permalink: /garden/dev_admin/drug/prazosin/
 slug: prazosin
 tags:
-- Drug
 - drug
 title: PRAZOSIN
-type: Drug
-updated: '2026-02-08T19:25:12.985423Z'
+type: drug
+updated: '2026-02-08T19:29:31.645461Z'
 ---
 
 # PRAZOSIN

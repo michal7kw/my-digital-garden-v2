@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.038089Z'
+created: '2026-02-08T19:29:31.696592Z'
 description: Osteocalcin test. Bone-specific protein produced by osteoblasts during
   bone formation. Serves as a marker of bone turnover and osteoblast activity. Used
   in monitoring osteoporosis treatment and assessing bone metabolic disorders.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/osteocalcin/
+permalink: /garden/dev_admin/labtest/osteocalcin/
 slug: osteocalcin
 tags:
-- LabTest
 - labtest
 title: osteocalcin
-type: LabTest
-updated: '2026-02-08T19:25:13.038089Z'
+type: labtest
+updated: '2026-02-08T19:29:31.696592Z'
 ---
 
 # Osteocalcin

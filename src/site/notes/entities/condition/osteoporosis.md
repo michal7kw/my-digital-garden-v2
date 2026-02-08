@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.958095Z'
+created: '2026-02-08T19:29:31.619930Z'
 description: A chronic condition characterized by decreased bone mass and deterioration
   of bone tissue, making bones fragile and more likely to fracture.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/osteoporosis/
+permalink: /garden/dev_admin/condition/osteoporosis/
 slug: osteoporosis
 tags:
-- Condition
 - condition
 - rheumatology
 - musculoskeletal
 - endocrinology
 - function-health
 title: Osteoporosis
-type: Condition
-updated: '2026-02-08T19:25:12.958095Z'
+type: condition
+updated: '2026-02-08T19:29:31.619930Z'
 ---
 
 # Osteoporosis

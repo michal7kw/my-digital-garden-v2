@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.072504Z'
+created: '2026-02-08T19:29:31.730538Z'
 description: The primary route for NAD+ biosynthesis in mammals, recycling nicotinamide
   released by NAD+-consuming enzymes back into NAD+. Accounts for approximately 85%
   of NAD+ production and is essential for maintaining cellular NAD+ homeostasis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Pathway/nad-salvage-pathway/
+permalink: /garden/dev_admin/pathway/nad-salvage-pathway/
 slug: nad-salvage-pathway
 tags:
-- Pathway
 - pathway
 - metabolic
 - nad_metabolism
@@ -17,8 +16,8 @@ tags:
 - energy_metabolism
 - salvage
 title: NAD+ Salvage Pathway
-type: Pathway
-updated: '2026-02-08T19:25:13.072504Z'
+type: pathway
+updated: '2026-02-08T19:29:31.730538Z'
 ---
 
 # NAD+ Salvage Pathway

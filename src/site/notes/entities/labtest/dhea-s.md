@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.016082Z'
+created: '2026-02-08T19:29:31.675072Z'
 description: Adrenal androgen precursor. Marker for adrenal function and biological
   aging.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/dhea-s/
+permalink: /garden/dev_admin/labtest/dhea-s/
 slug: dhea-s
 tags:
-- LabTest
 - labtest
 title: dhea_s
-type: LabTest
-updated: '2026-02-08T19:25:13.016082Z'
+type: labtest
+updated: '2026-02-08T19:29:31.675072Z'
 ---
 
 # DHEA-S (Dehydroepiandrosterone Sulfate)

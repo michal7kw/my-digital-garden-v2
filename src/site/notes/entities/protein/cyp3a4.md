@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.091790Z'
+created: '2026-02-08T19:29:31.749429Z'
 description: The major Phase I drug-metabolizing enzyme in humans. Oxidizes xenobiotics
   (toxins, drugs) and endogenous steroids.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/cyp3a4/
+permalink: /garden/dev_admin/protein/cyp3a4/
 slug: cyp3a4
 tags:
-- Protein
 - protein
 - enzyme
 - drug_metabolism
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: CYP3A4
-type: Protein
-updated: '2026-02-08T19:25:13.091790Z'
+type: protein
+updated: '2026-02-08T19:29:31.749429Z'
 ---
 
 # CYP3A4

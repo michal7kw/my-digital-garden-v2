@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.959652Z'
+created: '2026-02-08T19:29:31.621340Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pain/
+permalink: /garden/dev_admin/condition/pain/
 slug: pain
 tags:
-- Condition
 - condition
 title: Pain
-type: Condition
-updated: '2026-02-08T19:25:12.959652Z'
+type: condition
+updated: '2026-02-08T19:29:31.621340Z'
 ---
 
 # Pain

@@ -1,22 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.912218Z'
+created: '2026-02-08T19:29:31.583820Z'
 description: A cluster of metabolic abnormalities that increase cardiovascular and
   diabetes risk. Requires 3+ of 5 criteria.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/ClinicalPattern/metabolic-syndrome/
+permalink: /garden/dev_admin/clinicalpattern/metabolic-syndrome/
 slug: metabolic-syndrome
 tags:
-- ClinicalPattern
+- clinicalpattern
 - clinical_pattern
 - metabolic
 - cardiovascular
 - diabetes
 - inflammation
 title: Metabolic Syndrome
-type: ClinicalPattern
-updated: '2026-02-08T19:25:12.912218Z'
+type: clinicalpattern
+updated: '2026-02-08T19:29:31.583820Z'
 ---
 
 # Metabolic Syndrome

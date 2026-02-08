@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.919840Z'
+created: '2026-02-08T19:29:31.589369Z'
 description: An exaggerated immune response to Ordinarily harmless substances (allergens),
   characterized by the production of IgE antibodies and release of inflammatory mediators
   like histamine.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/allergy/
+permalink: /garden/dev_admin/condition/allergy/
 slug: allergy
 tags:
-- Condition
 - condition
 - immunology
 - respiratory
 - dermatology
 - function-health
 title: Allergy
-type: Condition
-updated: '2026-02-08T19:25:12.919840Z'
+type: condition
+updated: '2026-02-08T19:29:31.589369Z'
 ---
 
 # Allergy

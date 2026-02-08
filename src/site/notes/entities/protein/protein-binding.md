@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.099412Z'
+created: '2026-02-08T19:29:31.756912Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/protein-binding/
+permalink: /garden/dev_admin/protein/protein-binding/
 slug: protein-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: protein binding
-type: Protein
-updated: '2026-02-08T19:25:13.099412Z'
+type: protein
+updated: '2026-02-08T19:29:31.756912Z'
 ---
 
 # protein binding

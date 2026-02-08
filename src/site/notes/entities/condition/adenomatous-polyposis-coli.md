@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.918196Z'
+created: '2026-02-08T19:29:31.588269Z'
 description: An inherited disorder characterized by the development of hundreds to
   thousands of adenomatous polyps in the colon and rectum, with a high risk of progression
   to colorectal cancer.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/adenomatous-polyposis-coli/
+permalink: /garden/dev_admin/condition/adenomatous-polyposis-coli/
 slug: adenomatous-polyposis-coli
 tags:
-- Condition
 - condition
 - gastroenterology
 - oncology
 - genetic
 - hereditary
 title: Adenomatous Polyposis Coli
-type: Condition
-updated: '2026-02-08T19:25:12.918196Z'
+type: condition
+updated: '2026-02-08T19:29:31.588269Z'
 ---
 
 # Adenomatous Polyposis Coli

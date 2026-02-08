@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:12.978221Z'
+created: '2026-02-08T19:29:31.638327Z'
 description: Natural alkaloid compound found in several plants including goldenseal
   and barberry. Demonstrates significant blood glucose-lowering effects comparable
   to metformin through AMPK activation. Used traditionally in Chinese and Ayurvedic
@@ -7,10 +7,9 @@ description: Natural alkaloid compound found in several plants including goldens
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/berberine/
+permalink: /garden/dev_admin/drug/berberine/
 slug: berberine
 tags:
-- Drug
 - drug
 - supplement
 - alkaloid
@@ -19,8 +18,8 @@ tags:
 - antidiabetic
 - anti_inflammatory
 title: Berberine
-type: Drug
-updated: '2026-02-08T19:25:12.978221Z'
+type: drug
+updated: '2026-02-08T19:29:31.638327Z'
 ---
 
 # Berberine

@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.984491Z'
+created: '2026-02-08T19:29:31.644554Z'
 description: Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift
   work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from
   traditional stimulants.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/modafinil/
+permalink: /garden/dev_admin/drug/modafinil/
 slug: modafinil
 tags:
-- Drug
 - drug
 - eugeroic
 - wakefulness
@@ -17,8 +16,8 @@ tags:
 - cognitive_enhancer
 - prescription
 title: Modafinil
-type: Drug
-updated: '2026-02-08T19:25:12.984491Z'
+type: drug
+updated: '2026-02-08T19:29:31.644554Z'
 ---
 
 # Modafinil

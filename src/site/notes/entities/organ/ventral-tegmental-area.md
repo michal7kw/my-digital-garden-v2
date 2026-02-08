@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.065581Z'
+created: '2026-02-08T19:29:31.723797Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Ventral Tegmental Area
 type: organ
-updated: '2026-02-08T19:25:13.065581Z'
+updated: '2026-02-08T19:29:31.723797Z'
 ---
 
 # Ventral Tegmental Area (VTA)

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:13.117033Z'
+created: '2026-02-08T19:29:31.774049Z'
 description: A microbial metabolite of ellagitannins that improves mitochondrial health
   by stimulating mitophagy.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/urolithin-a/
+permalink: /garden/dev_admin/supplement/urolithin-a/
 slug: urolithin-a
 tags:
-- Supplement
 - supplement
 - longevity
 - mitochondrial_health
 - muscle_strength
 title: Urolithin A
-type: Supplement
-updated: '2026-02-08T19:25:13.117033Z'
+type: supplement
+updated: '2026-02-08T19:29:31.774049Z'
 ---
 
 # Urolithin A

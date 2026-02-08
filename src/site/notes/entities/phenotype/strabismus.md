@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.086332Z'
+created: '2026-02-08T19:29:31.744083Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/strabismus/
+permalink: /garden/dev_admin/phenotype/strabismus/
 slug: strabismus
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Strabismus
-type: Phenotype
-updated: '2026-02-08T19:25:13.086332Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.744083Z'
 ---
 
 # Strabismus

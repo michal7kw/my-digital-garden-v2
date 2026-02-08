@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:13.075756Z'
+created: '2026-02-08T19:29:31.733705Z'
 description: The pathological process of excessive tau protein phosphorylation leading
   to microtubule destabilization, tau aggregation, and neurofibrillary tangle formation.
   Central to Alzheimer's disease and other tauopathies.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Pathway/tau-phosphorylation/
+permalink: /garden/dev_admin/pathway/tau-phosphorylation/
 slug: tau-phosphorylation
 tags:
-- Pathway
 - pathway
 - neurodegeneration
 - alzheimers
 - tauopathy
 - protein-phosphorylation
 title: Tau Phosphorylation
-type: Pathway
-updated: '2026-02-08T19:25:13.075756Z'
+type: pathway
+updated: '2026-02-08T19:29:31.733705Z'
 ---
 
 # Tau Phosphorylation

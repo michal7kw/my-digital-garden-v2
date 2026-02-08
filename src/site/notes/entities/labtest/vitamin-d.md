@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.050748Z'
+created: '2026-02-08T19:29:31.708894Z'
 description: Vitamin D is an essential nutrient for immune health, strong bones and
   muscles, and optimal brain performance. Unlike most vitamins, it isn't widely available
   in food and is mainly made in the body through sun exposure. Because of this, low
@@ -8,17 +8,17 @@ description: Vitamin D is an essential nutrient for immune health, strong bones 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/vitamin-d/
+permalink: /garden/dev_admin/labtest/vitamin-d/
 slug: vitamin-d
 tags:
-- LabTest
+- labtest
 - nutrient
 - vitamin
 - immune
 - bone
 title: vitamin_d
-type: LabTest
-updated: '2026-02-08T19:25:13.050748Z'
+type: labtest
+updated: '2026-02-08T19:29:31.708894Z'
 ---
 
 # Vitamin D

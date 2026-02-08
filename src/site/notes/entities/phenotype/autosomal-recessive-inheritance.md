@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.078618Z'
+created: '2026-02-08T19:29:31.736535Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/autosomal-recessive-inheritance/
+permalink: /garden/dev_admin/phenotype/autosomal-recessive-inheritance/
 slug: autosomal-recessive-inheritance
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Autosomal recessive inheritance
-type: Phenotype
-updated: '2026-02-08T19:25:13.078618Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.736535Z'
 ---
 
 # Autosomal recessive inheritance

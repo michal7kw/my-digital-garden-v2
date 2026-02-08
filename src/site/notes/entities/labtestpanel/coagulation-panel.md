@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.054090Z'
+created: '2026-02-08T19:29:31.712124Z'
 description: Comprehensive evaluation of blood clotting function covering both intrinsic
   and extrinsic pathways, fibrinolysis markers, and platelet function. Used for bleeding
   disorder evaluation, pre-surgical assessment, and thrombotic risk.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTestPanel/coagulation-panel/
+permalink: /garden/dev_admin/labtestpanel/coagulation-panel/
 slug: coagulation-panel
 tags:
-- LabTestPanel
 - labtestpanel
 title: coagulation_panel
-type: LabTestPanel
-updated: '2026-02-08T19:25:13.054090Z'
+type: labtestpanel
+updated: '2026-02-08T19:29:31.712124Z'
 ---
 
 # Coagulation Panel

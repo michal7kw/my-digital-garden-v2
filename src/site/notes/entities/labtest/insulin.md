@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.023991Z'
+created: '2026-02-08T19:29:31.682797Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -10,16 +10,15 @@ description: Tested twice a year Insulin is a hormone that acts like a key, help
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/insulin/
+permalink: /garden/dev_admin/labtest/insulin/
 slug: insulin
 tags:
-- LabTest
 - labtest
 - blood-panel
 - function-health
 title: insulin
-type: LabTest
-updated: '2026-02-08T19:25:13.023991Z'
+type: labtest
+updated: '2026-02-08T19:29:31.682797Z'
 ---
 
 # Insulin

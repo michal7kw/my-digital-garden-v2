@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.953743Z'
+created: '2026-02-08T19:29:31.616148Z'
 description: A type of blood cancer that develops in the plasma cells of the bone
   marrow, leading to bone damage, kidney failure, and immune suppression.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/multiple-myeloma/
+permalink: /garden/dev_admin/condition/multiple-myeloma/
 slug: multiple-myeloma
 tags:
-- Condition
 - condition
 - oncology
 - hematology
 - cancer
 - function-health
 title: Multiple Myeloma
-type: Condition
-updated: '2026-02-08T19:25:12.953743Z'
+type: condition
+updated: '2026-02-08T19:29:31.616148Z'
 ---
 
 # Multiple Myeloma

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.016263Z'
+created: '2026-02-08T19:29:31.675252Z'
 description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and
   serves as a building block for other hormones, including estrogen and testosterone.
   Measuring DHEA-S can provide insight into reproductive function, adrenal gland health,
@@ -10,14 +10,13 @@ description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/dhea-sulfate/
+permalink: /garden/dev_admin/labtest/dhea-sulfate/
 slug: dhea-sulfate
 tags:
-- LabTest
 - labtest
 title: dhea_sulfate
-type: LabTest
-updated: '2026-02-08T19:25:13.016263Z'
+type: labtest
+updated: '2026-02-08T19:29:31.675252Z'
 ---
 
 # DHEA-Sulfate

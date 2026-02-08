@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.097249Z'
+created: '2026-02-08T19:29:31.754812Z'
 description: Non-receptor tyrosine kinase that integrates signals from cell surface
   receptors to the cytoskeleton and nucleus.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/src/
+permalink: /garden/dev_admin/protein/src/
 slug: src
 tags:
-- Protein
 - protein
 - kinase
 - oncogene
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: SRC
-type: Protein
-updated: '2026-02-08T19:25:13.097249Z'
+type: protein
+updated: '2026-02-08T19:29:31.754812Z'
 ---
 
 # SRC

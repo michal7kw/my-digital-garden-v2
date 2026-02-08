@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.937405Z'
+created: '2026-02-08T19:29:31.602673Z'
 description: A broad category of disorders affecting the eye and its adnexa, ranging
   from acute infections to chronic degenerative conditions.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/eye-diseases/
+permalink: /garden/dev_admin/condition/eye-diseases/
 slug: eye-diseases
 tags:
-- Condition
 - condition
 - ophthalmology
 - eye
 - vision
 title: Eye Diseases
-type: Condition
-updated: '2026-02-08T19:25:12.937405Z'
+type: condition
+updated: '2026-02-08T19:29:31.602673Z'
 ---
 
 # Eye Diseases

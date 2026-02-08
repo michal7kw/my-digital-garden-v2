@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.000666Z'
+created: '2026-02-08T19:29:31.660465Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
@@ -7,10 +7,9 @@ description: Dietary pattern that cycles between periods of eating and voluntary
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Intervention/intermittent-fasting/
+permalink: /garden/dev_admin/intervention/intermittent-fasting/
 slug: intermittent-fasting
 tags:
-- Intervention
 - intervention
 - diet
 - metabolic
@@ -18,8 +17,8 @@ tags:
 - autophagy
 - weight_loss
 title: Intermittent Fasting
-type: Intervention
-updated: '2026-02-08T19:25:13.000666Z'
+type: intervention
+updated: '2026-02-08T19:29:31.660465Z'
 ---
 
 # Intermittent Fasting

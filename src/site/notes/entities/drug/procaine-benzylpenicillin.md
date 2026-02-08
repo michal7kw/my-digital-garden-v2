@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.988125Z'
+created: '2026-02-08T19:29:31.648063Z'
 description: A long-acting form of Penicillin G combined with procaine to slow absorption
   and reduce injection site pain.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/procaine-benzylpenicillin/
+permalink: /garden/dev_admin/drug/procaine-benzylpenicillin/
 slug: procaine-benzylpenicillin
 tags:
-- Drug
 - drug
 - antibiotic
 - intramuscular
 - long-acting
 title: Procaine Benzylpenicillin
-type: Drug
-updated: '2026-02-08T19:25:12.988125Z'
+type: drug
+updated: '2026-02-08T19:29:31.648063Z'
 ---
 
 # Procaine Benzylpenicillin

@@ -1,20 +1,19 @@
 ---
-created: '2026-02-08T19:25:12.958369Z'
+created: '2026-02-08T19:29:31.620161Z'
 description: An infection of the outer ear canal, commonly known as swimmer's ear.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/otitis-externa/
+permalink: /garden/dev_admin/condition/otitis-externa/
 slug: otitis-externa
 tags:
-- Condition
 - condition
 - otolaryngology
 - infection
 - acute
 title: Otitis Externa
-type: Condition
-updated: '2026-02-08T19:25:12.958369Z'
+type: condition
+updated: '2026-02-08T19:29:31.620161Z'
 ---
 
 # Otitis Externa

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.058330Z'
+created: '2026-02-08T19:29:31.716687Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Entorhinal Cortex
 type: organ
-updated: '2026-02-08T19:25:13.058330Z'
+updated: '2026-02-08T19:29:31.716687Z'
 ---
 
 # Entorhinal Cortex

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.929977Z'
+created: '2026-02-08T19:29:31.597091Z'
 description: A broad term for long-term respiratory conditions that impair breathing
   and lung function, including obstructive and restrictive diseases.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/chronic-lung-disease/
+permalink: /garden/dev_admin/condition/chronic-lung-disease/
 slug: chronic-lung-disease
 tags:
-- Condition
 - condition
 - respiratory
 - chronic
 - function-health
 title: Chronic Lung Disease
-type: Condition
-updated: '2026-02-08T19:25:12.929977Z'
+type: condition
+updated: '2026-02-08T19:29:31.597091Z'
 ---
 
 # Chronic Lung Disease

@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.895161Z'
+created: '2026-02-08T19:29:31.569821Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/mch/
+permalink: /garden/dev_admin/biomarker/mch/
 slug: mch
 tags:
-- Biomarker
 - biomarker
 title: Mch
-type: Biomarker
-updated: '2026-02-08T19:25:12.895161Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.569821Z'
 ---
 
 # Mch

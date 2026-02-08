@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.978555Z'
+created: '2026-02-08T19:29:31.638658Z'
 description: Anticonvulsant and mood stabilizer used primarily for epilepsy, trigeminal
   neuralgia, and bipolar disorder. Acts by blocking voltage-gated sodium channels.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/carbamazepine/
+permalink: /garden/dev_admin/drug/carbamazepine/
 slug: carbamazepine
 tags:
-- Drug
 - drug
 - anticonvulsant
 - mood_stabilizer
@@ -17,8 +16,8 @@ tags:
 - imported
 - primekg
 title: Carbamazepine
-type: Drug
-updated: '2026-02-08T19:25:12.978555Z'
+type: drug
+updated: '2026-02-08T19:29:31.638658Z'
 ---
 
 # Carbamazepine

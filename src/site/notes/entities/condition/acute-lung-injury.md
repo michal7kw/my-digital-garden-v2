@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.917256Z'
+created: '2026-02-08T19:29:31.587470Z'
 description: A serious condition characterized by widespread inflammation in the lungs
   and disruption of the alveolar-capillary barrier, rapidly leading to respiratory
   failure.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/acute-lung-injury/
+permalink: /garden/dev_admin/condition/acute-lung-injury/
 slug: acute-lung-injury
 tags:
-- Condition
 - condition
 - respiratory
 - acute
 - inflammation
 - lung
 title: Acute Lung Injury
-type: Condition
-updated: '2026-02-08T19:25:12.917256Z'
+type: condition
+updated: '2026-02-08T19:29:31.587470Z'
 ---
 
 # Acute Lung Injury

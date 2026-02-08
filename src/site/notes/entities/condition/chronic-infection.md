@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.928594Z'
+created: '2026-02-08T19:29:31.596032Z'
 description: A long-term infection where the pathogen remains in the body for an extended
   period, often leading to persistent inflammation and organ damage.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/chronic-infection/
+permalink: /garden/dev_admin/condition/chronic-infection/
 slug: chronic-infection
 tags:
-- Condition
 - condition
 - infectious_disease
 - immunology
 - chronic
 - function-health
 title: Chronic Infection
-type: Condition
-updated: '2026-02-08T19:25:12.928594Z'
+type: condition
+updated: '2026-02-08T19:29:31.596032Z'
 ---
 
 # Chronic Infection

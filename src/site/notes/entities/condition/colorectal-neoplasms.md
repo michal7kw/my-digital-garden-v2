@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.931629Z'
+created: '2026-02-08T19:29:31.598406Z'
 description: Cancer that starts in the colon or rectum, usually beginning as a growth
   called a polyp.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/colorectal-neoplasms/
+permalink: /garden/dev_admin/condition/colorectal-neoplasms/
 slug: colorectal-neoplasms
 tags:
-- Condition
 - condition
 - oncology
 - gastroenterology
 - cancer
 title: Colorectal Neoplasms
-type: Condition
-updated: '2026-02-08T19:25:12.931629Z'
+type: condition
+updated: '2026-02-08T19:29:31.598406Z'
 ---
 
 # Colorectal Neoplasms

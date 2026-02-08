@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.991323Z'
+created: '2026-02-08T19:29:31.651245Z'
 description: Positron emission tomography using fluorodeoxyglucose to measure cerebral
   glucose metabolism. Reveals patterns of hypometabolism characteristic of different
   neurodegenerative diseases.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Examination/fdg-pet/
+permalink: /garden/dev_admin/examination/fdg-pet/
 slug: fdg-pet
 tags:
-- Examination
 - examination
 - neuroimaging
 - pet
 - metabolism
 - neurodegeneration
 title: FDG-PET
-type: Examination
-updated: '2026-02-08T19:25:12.991323Z'
+type: examination
+updated: '2026-02-08T19:29:31.651245Z'
 ---
 
 # FDG-PET (Fluorodeoxyglucose PET)

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.087815Z'
+created: '2026-02-08T19:29:31.745532Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/vomiting/
+permalink: /garden/dev_admin/phenotype/vomiting/
 slug: vomiting
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Vomiting
-type: Phenotype
-updated: '2026-02-08T19:25:13.087815Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.745532Z'
 ---
 
 # Vomiting

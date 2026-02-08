@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.080977Z'
+created: '2026-02-08T19:29:31.738843Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/fever/
+permalink: /garden/dev_admin/phenotype/fever/
 slug: fever
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Fever
-type: Phenotype
-updated: '2026-02-08T19:25:13.080977Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.738843Z'
 ---
 
 # Fever

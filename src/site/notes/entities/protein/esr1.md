@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.093504Z'
+created: '2026-02-08T19:29:31.751105Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/esr1/
+permalink: /garden/dev_admin/protein/esr1/
 slug: esr1
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: ESR1
-type: Protein
-updated: '2026-02-08T19:25:13.093504Z'
+type: protein
+updated: '2026-02-08T19:29:31.751105Z'
 ---
 
 # ESR1

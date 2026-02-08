@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.046307Z'
+created: '2026-02-08T19:29:31.704669Z'
 description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland and
   signals the thyroid to produce T4 and T3. Because TSH rises when thyroid hormone
   levels are low and falls when they are high, measuring TSH is one of the most useful
@@ -7,14 +7,13 @@ description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland an
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/thyroid-stimulating-hormone-tsh/
+permalink: /garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/
 slug: thyroid-stimulating-hormone-tsh
 tags:
-- LabTest
 - labtest
 title: thyroid_stimulating_hormone_tsh
-type: LabTest
-updated: '2026-02-08T19:25:13.046307Z'
+type: labtest
+updated: '2026-02-08T19:29:31.704669Z'
 ---
 
 # Thyroid-Stimulating Hormone (TSH)

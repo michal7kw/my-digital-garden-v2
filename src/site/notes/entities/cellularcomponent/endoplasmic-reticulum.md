@@ -1,22 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.909076Z'
+created: '2026-02-08T19:29:31.581512Z'
 description: An extensive membrane network responsible for protein folding, lipid
   synthesis, and calcium storage. Communicates directly with mitochondria via MAMs.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/CellularComponent/endoplasmic-reticulum/
+permalink: /garden/dev_admin/cellularcomponent/endoplasmic-reticulum/
 slug: endoplasmic-reticulum
 tags:
-- CellularComponent
+- cellularcomponent
 - cellular_component
 - organelle
 - protein_folding
 - calcium_storage
 - stress_response
 title: Endoplasmic Reticulum
-type: CellularComponent
-updated: '2026-02-08T19:25:12.909076Z'
+type: cellularcomponent
+updated: '2026-02-08T19:29:31.581512Z'
 ---
 
 # Endoplasmic Reticulum

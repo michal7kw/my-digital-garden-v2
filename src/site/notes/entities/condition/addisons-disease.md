@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.917889Z'
+created: '2026-02-08T19:29:31.588044Z'
 description: A rare, chronic disorder where the adrenal glands do not produce enough
   cortisol and often insufficient aldosterone, usually due to autoimmune damage.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/addisons-disease/
+permalink: /garden/dev_admin/condition/addisons-disease/
 slug: addisons-disease
 tags:
-- Condition
 - condition
 - endocrinology
 - hormones
 - autoimmune
 - function-health
 title: Addisons Disease
-type: Condition
-updated: '2026-02-08T19:25:12.917889Z'
+type: condition
+updated: '2026-02-08T19:29:31.588044Z'
 ---
 
 # Addisons Disease

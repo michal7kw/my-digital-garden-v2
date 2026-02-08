@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.901082Z'
+created: '2026-02-08T19:29:31.574886Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/reverse-t3/
+permalink: /garden/dev_admin/biomarker/reverse-t3/
 slug: reverse-t3
 tags:
-- Biomarker
 - biomarker
 title: Reverse T3
-type: Biomarker
-updated: '2026-02-08T19:25:12.901082Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.574886Z'
 ---
 
 # Reverse T3

@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.067156Z'
+created: '2026-02-08T19:29:31.725351Z'
 description: The natural, conserved degradation of the cell that removes unnecessary
   or dysfunctional components through a lysosome-dependent regulated mechanism.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Pathway/autophagy/
+permalink: /garden/dev_admin/pathway/autophagy/
 slug: autophagy
 tags:
-- Pathway
 - pathway
 - cellular_health
 - longevity
 - proteostasis
 - metabolic_regulation
 title: Autophagy
-type: Pathway
-updated: '2026-02-08T19:25:13.067156Z'
+type: pathway
+updated: '2026-02-08T19:29:31.725351Z'
 ---
 
 # Autophagy

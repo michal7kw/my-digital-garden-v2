@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.098320Z'
+created: '2026-02-08T19:29:31.755850Z'
 description: Microtubule-associated protein that stabilizes the neuronal cytoskeleton.
   Hyperphosphorylation leads to its detachment and aggregation into neurofibrillary
   tangles (NFTs).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/tau/
+permalink: /garden/dev_admin/protein/tau/
 slug: tau
 tags:
-- Protein
 - protein
 - alzheimers
 - cytoskeleton
 - neurodegeneration
 title: Tau
-type: Protein
-updated: '2026-02-08T19:25:13.098320Z'
+type: protein
+updated: '2026-02-08T19:29:31.755850Z'
 ---
 
 # Tau

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.996043Z'
+created: '2026-02-08T19:29:31.656043Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/ets1/
+permalink: /garden/dev_admin/gene/ets1/
 slug: ets1
 tags:
-- Gene
 - gene
 - imported
 - primekg
 title: ETS1
-type: Gene
-updated: '2026-02-08T19:25:12.996043Z'
+type: gene
+updated: '2026-02-08T19:29:31.656043Z'
 ---
 
 # "ETS1"

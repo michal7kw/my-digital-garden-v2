@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.944343Z'
+created: '2026-02-08T19:29:31.608244Z'
 description: Persistently elevated blood pressure (≥130/80 mmHg) that increases risk
   of heart disease, stroke, kidney disease, and premature death. Often called the
   'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/hypertension/
+permalink: /garden/dev_admin/condition/hypertension/
 slug: hypertension
 tags:
-- Condition
 - condition
 - cardiovascular
 - chronic
 - hypertension
 - modifiable_risk
 title: Hypertension
-type: Condition
-updated: '2026-02-08T19:25:12.944343Z'
+type: condition
+updated: '2026-02-08T19:29:31.608244Z'
 ---
 
 # Hypertension

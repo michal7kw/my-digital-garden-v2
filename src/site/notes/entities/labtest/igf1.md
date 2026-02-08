@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.023805Z'
+created: '2026-02-08T19:29:31.682620Z'
 description: Growth hormone mediator. Marker for GH deficiency/excess and biological
   aging research.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/igf1/
+permalink: /garden/dev_admin/labtest/igf1/
 slug: igf1
 tags:
-- LabTest
 - labtest
 title: igf1
-type: LabTest
-updated: '2026-02-08T19:25:13.023805Z'
+type: labtest
+updated: '2026-02-08T19:29:31.682620Z'
 ---
 
 # igf1

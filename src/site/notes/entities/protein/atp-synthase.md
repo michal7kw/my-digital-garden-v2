@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.089259Z'
+created: '2026-02-08T19:29:31.746955Z'
 description: The molecular turbine that synthesizes ATP from ADP and phosphate using
   the proton gradient across the inner mitochondrial membrane. Also known as Complex
   V of the electron transport chain, it is one of nature's most remarkable molecular
@@ -7,10 +7,9 @@ description: The molecular turbine that synthesizes ATP from ADP and phosphate u
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/atp-synthase/
+permalink: /garden/dev_admin/protein/atp-synthase/
 slug: atp-synthase
 tags:
-- Protein
 - protein
 - enzyme
 - molecular_motor
@@ -18,8 +17,8 @@ tags:
 - atp_synthesis
 - mitochondrial
 title: ATP Synthase
-type: Protein
-updated: '2026-02-08T19:25:13.089259Z'
+type: protein
+updated: '2026-02-08T19:29:31.746955Z'
 ---
 
 # ATP Synthase

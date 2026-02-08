@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.887273Z'
+created: '2026-02-08T19:29:31.562937Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/fibrinogen/
+permalink: /garden/dev_admin/biomarker/fibrinogen/
 slug: fibrinogen
 tags:
-- Biomarker
 - biomarker
 title: Fibrinogen
-type: Biomarker
-updated: '2026-02-08T19:25:12.887273Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.562937Z'
 ---
 
 # Fibrinogen

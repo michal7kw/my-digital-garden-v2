@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.968392Z'
+created: '2026-02-08T19:29:31.628826Z'
 description: A condition in which the heart valves have been permanently damaged by
   rheumatic fever.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/rheumatic-heart-disease/
+permalink: /garden/dev_admin/condition/rheumatic-heart-disease/
 slug: rheumatic-heart-disease
 tags:
-- Condition
 - condition
 - cardiology
 - autoimmune
 - infectious_disease
 - global_health
 title: Rheumatic Heart Disease
-type: Condition
-updated: '2026-02-08T19:25:12.968392Z'
+type: condition
+updated: '2026-02-08T19:29:31.628826Z'
 ---
 
 # Rheumatic Heart Disease

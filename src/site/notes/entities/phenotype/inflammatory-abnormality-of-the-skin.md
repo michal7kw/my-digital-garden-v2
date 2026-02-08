@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.082899Z'
+created: '2026-02-08T19:29:31.740684Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/inflammatory-abnormality-of-the-skin/
+permalink: /garden/dev_admin/phenotype/inflammatory-abnormality-of-the-skin/
 slug: inflammatory-abnormality-of-the-skin
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Inflammatory abnormality of the skin
-type: Phenotype
-updated: '2026-02-08T19:25:13.082899Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.740684Z'
 ---
 
 # Inflammatory abnormality of the skin

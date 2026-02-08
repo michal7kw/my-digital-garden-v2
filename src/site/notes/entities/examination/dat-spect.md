@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.990459Z'
+created: '2026-02-08T19:29:31.650388Z'
 description: Single-photon emission computed tomography imaging of dopamine transporter
   density. Used to confirm dopaminergic deficit in Parkinson's disease and differentiate
   from essential tremor or drug-induced parkinsonism.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Examination/dat-spect/
+permalink: /garden/dev_admin/examination/dat-spect/
 slug: dat-spect
 tags:
-- Examination
 - examination
 - neuroimaging
 - spect
 - dopamine
 - parkinsons
 title: DAT-SPECT
-type: Examination
-updated: '2026-02-08T19:25:12.990459Z'
+type: examination
+updated: '2026-02-08T19:29:31.650388Z'
 ---
 
 # DAT-SPECT (Dopamine Transporter SPECT)

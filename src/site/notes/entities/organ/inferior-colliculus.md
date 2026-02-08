@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.059915Z'
+created: '2026-02-08T19:29:31.718249Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - organ
 title: Inferior Colliculus
 type: organ
-updated: '2026-02-08T19:25:13.059915Z'
+updated: '2026-02-08T19:29:31.718249Z'
 ---
 
 # Inferior Colliculus (IC)

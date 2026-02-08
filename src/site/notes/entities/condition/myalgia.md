@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.954259Z'
+created: '2026-02-08T19:29:31.616600Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/myalgia/
+permalink: /garden/dev_admin/condition/myalgia/
 slug: myalgia
 tags:
-- Condition
 - condition
 title: Myalgia
-type: Condition
-updated: '2026-02-08T19:25:12.954259Z'
+type: condition
+updated: '2026-02-08T19:29:31.616600Z'
 ---
 
 # Myalgia

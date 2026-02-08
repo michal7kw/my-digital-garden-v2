@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.978886Z'
+created: '2026-02-08T19:29:31.638958Z'
 description: First-generation typical antipsychotic used for schizophrenia, manic
   episodes, and nausea. Acts primarily as a dopamine D2 receptor antagonist.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/chlorpromazine/
+permalink: /garden/dev_admin/drug/chlorpromazine/
 slug: chlorpromazine
 tags:
-- Drug
 - drug
 - antipsychotic
 - antiemetic
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: Chlorpromazine
-type: Drug
-updated: '2026-02-08T19:25:12.978886Z'
+type: drug
+updated: '2026-02-08T19:29:31.638958Z'
 ---
 
 # Chlorpromazine

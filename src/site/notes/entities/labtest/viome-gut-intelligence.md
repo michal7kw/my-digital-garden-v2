@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.050168Z'
+created: '2026-02-08T19:29:31.708337Z'
 description: RNA-based gut microbiome analysis providing functional insights and personalized
   recommendations.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/viome-gut-intelligence/
+permalink: /garden/dev_admin/labtest/viome-gut-intelligence/
 slug: viome-gut-intelligence
 tags:
-- LabTest
 - labtest
 title: viome_gut_intelligence
-type: LabTest
-updated: '2026-02-08T19:25:13.050168Z'
+type: labtest
+updated: '2026-02-08T19:29:31.708337Z'
 ---
 
 # Viome Gut Intelligence

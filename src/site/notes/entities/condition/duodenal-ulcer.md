@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.935932Z'
+created: '2026-02-08T19:29:31.601594Z'
 description: A peptic ulcer that develops in the first part of the small intestine
   (duodenum), causing burning abdominal pain.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/duodenal-ulcer/
+permalink: /garden/dev_admin/condition/duodenal-ulcer/
 slug: duodenal-ulcer
 tags:
-- Condition
 - condition
 - gastroenterology
 - ulcer
 - infection
 title: Duodenal Ulcer
-type: Condition
-updated: '2026-02-08T19:25:12.935932Z'
+type: condition
+updated: '2026-02-08T19:29:31.601594Z'
 ---
 
 # Duodenal Ulcer

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.047704Z'
+created: '2026-02-08T19:29:31.705958Z'
 description: Tested twice a year Cholesterol is produced by the liver and is essential
   for various bodily functions like making hormones and vitamin D, building cell membranes,
   and supporting brain function. Total cholesterol is a measure of the total amount
@@ -8,14 +8,13 @@ description: Tested twice a year Cholesterol is produced by the liver and is ess
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/total-cholesterol/
+permalink: /garden/dev_admin/labtest/total-cholesterol/
 slug: total-cholesterol
 tags:
-- LabTest
 - labtest
 title: total_cholesterol
-type: LabTest
-updated: '2026-02-08T19:25:13.047704Z'
+type: labtest
+updated: '2026-02-08T19:29:31.705958Z'
 ---
 
 # Total Cholesterol

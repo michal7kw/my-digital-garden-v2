@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.975102Z'
+created: '2026-02-08T19:29:31.635263Z'
 description: A condition characterized by inadequate levels of vitamin D in the body,
   which is essential for calcium absorption, bone health, and immune function.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/vitamin-d-deficiency/
+permalink: /garden/dev_admin/condition/vitamin-d-deficiency/
 slug: vitamin-d-deficiency
 tags:
-- Condition
 - condition
 - nutrition
 - metabolic
 - bone_health
 - function-health
 title: Vitamin D Deficiency
-type: Condition
-updated: '2026-02-08T19:25:12.975102Z'
+type: condition
+updated: '2026-02-08T19:29:31.635263Z'
 ---
 
 # vitamin_d_deficiency

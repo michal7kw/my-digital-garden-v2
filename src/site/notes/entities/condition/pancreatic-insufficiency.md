@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.959848Z'
+created: '2026-02-08T19:29:31.621495Z'
 description: A condition where the pancreas does not produce enough enzymes to properly
   digest food, leading to malabsorption and nutritional deficiencies.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pancreatic-insufficiency/
+permalink: /garden/dev_admin/condition/pancreatic-insufficiency/
 slug: pancreatic-insufficiency
 tags:
-- Condition
 - condition
 - gastroenterology
 - nutrition
 - metabolic
 - function-health
 title: Pancreatic Insufficiency
-type: Condition
-updated: '2026-02-08T19:25:12.959848Z'
+type: condition
+updated: '2026-02-08T19:29:31.621495Z'
 ---
 
 # Pancreatic Insufficiency

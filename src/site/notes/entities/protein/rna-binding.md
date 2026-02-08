@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.095867Z'
+created: '2026-02-08T19:29:31.753442Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/rna-binding/
+permalink: /garden/dev_admin/protein/rna-binding/
 slug: rna-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: RNA binding
-type: Protein
-updated: '2026-02-08T19:25:13.095867Z'
+type: protein
+updated: '2026-02-08T19:29:31.753442Z'
 ---
 
 # RNA binding

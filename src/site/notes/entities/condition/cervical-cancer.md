@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.927401Z'
+created: '2026-02-08T19:29:31.595179Z'
 description: A type of cancer that develops in the cells of the cervix, almost always
   caused by persistent infection with high-risk human papillomavirus (HPV).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/cervical-cancer/
+permalink: /garden/dev_admin/condition/cervical-cancer/
 slug: cervical-cancer
 tags:
-- Condition
 - condition
 - oncology
 - gynecology
 - cancer
 - infectious_disease
 title: Cervical Cancer
-type: Condition
-updated: '2026-02-08T19:25:12.927401Z'
+type: condition
+updated: '2026-02-08T19:29:31.595179Z'
 ---
 
 # Cervical Cancer

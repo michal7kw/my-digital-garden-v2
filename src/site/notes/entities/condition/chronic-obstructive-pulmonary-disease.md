@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.930498Z'
+created: '2026-02-08T19:29:31.597544Z'
 description: A chronic inflammatory lung disease that causes obstructed airflow from
   the lungs, including emphysema and chronic bronchitis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/chronic-obstructive-pulmonary-disease/
+permalink: /garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/
 slug: chronic-obstructive-pulmonary-disease
 tags:
-- Condition
 - condition
 - respiratory
 - chronic
 - lung
 title: Chronic Obstructive Pulmonary Disease
-type: Condition
-updated: '2026-02-08T19:25:12.930498Z'
+type: condition
+updated: '2026-02-08T19:29:31.597544Z'
 ---
 
 # Chronic Obstructive Pulmonary Disease

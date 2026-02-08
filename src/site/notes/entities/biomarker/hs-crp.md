@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:12.891357Z'
+created: '2026-02-08T19:29:31.566514Z'
 description: High-sensitivity C-reactive protein is a marker of systemic inflammation.
   Elevated levels are associated with cardiovascular disease risk.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/hs-crp/
+permalink: /garden/dev_admin/biomarker/hs-crp/
 slug: hs-crp
 tags:
-- Biomarker
 - biomarker
 title: Hs Crp
-type: Biomarker
-updated: '2026-02-08T19:25:12.891357Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.566514Z'
 ---
 
 # Hs Crp

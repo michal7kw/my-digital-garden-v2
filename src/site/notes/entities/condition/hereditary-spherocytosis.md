@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.942863Z'
+created: '2026-02-08T19:29:31.606985Z'
 description: An inherited blood disorder characterized by spherical red blood cells
   that are fragile and prone to premature destruction in the spleen.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/hereditary-spherocytosis/
+permalink: /garden/dev_admin/condition/hereditary-spherocytosis/
 slug: hereditary-spherocytosis
 tags:
-- Condition
 - condition
 - hematology
 - genetic
 - function-health
 title: Hereditary Spherocytosis
-type: Condition
-updated: '2026-02-08T19:25:12.942863Z'
+type: condition
+updated: '2026-02-08T19:29:31.606985Z'
 ---
 
 # Hereditary Spherocytosis

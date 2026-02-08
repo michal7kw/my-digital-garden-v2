@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.967880Z'
+created: '2026-02-08T19:29:31.628396Z'
 description: A serious medical condition involving the rapid breakdown of damaged
   skeletal muscle, releasing toxic cell contents into the bloodstream.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/rhabdomyolysis/
+permalink: /garden/dev_admin/condition/rhabdomyolysis/
 slug: rhabdomyolysis
 tags:
-- Condition
 - condition
 - musculoskeletal
 - emergency
 - nephrology
 - function-health
 title: Rhabdomyolysis
-type: Condition
-updated: '2026-02-08T19:25:12.967880Z'
+type: condition
+updated: '2026-02-08T19:29:31.628396Z'
 ---
 
 # Rhabdomyolysis

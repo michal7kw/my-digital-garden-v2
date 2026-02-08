@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.928307Z'
+created: '2026-02-08T19:29:31.595825Z'
 description: A sustained condition where the body's tissues are deprived of adequate
   oxygen, usually due to underlying lung or heart disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/chronic-hypoxia/
+permalink: /garden/dev_admin/condition/chronic-hypoxia/
 slug: chronic-hypoxia
 tags:
-- Condition
 - condition
 - respiratory
 - cardiology
 - function-health
 title: Chronic Hypoxia
-type: Condition
-updated: '2026-02-08T19:25:12.928307Z'
+type: condition
+updated: '2026-02-08T19:29:31.595825Z'
 ---
 
 # Chronic Hypoxia

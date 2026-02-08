@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.904935Z'
+created: '2026-02-08T19:29:31.577996Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/total-t4/
+permalink: /garden/dev_admin/biomarker/total-t4/
 slug: total-t4
 tags:
-- Biomarker
 - biomarker
 title: Total T4
-type: Biomarker
-updated: '2026-02-08T19:25:12.904935Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.577996Z'
 ---
 
 # Total T4

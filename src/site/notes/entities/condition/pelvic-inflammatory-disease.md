@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.961271Z'
+created: '2026-02-08T19:29:31.622688Z'
 description: An infection of the female reproductive organs, often caused by some
   sexually transmitted bacteria.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pelvic-inflammatory-disease/
+permalink: /garden/dev_admin/condition/pelvic-inflammatory-disease/
 slug: pelvic-inflammatory-disease
 tags:
-- Condition
 - condition
 - gynecology
 - infection
 - bacterial
 - sexual_health
 title: Pelvic Inflammatory Disease
-type: Condition
-updated: '2026-02-08T19:25:12.961271Z'
+type: condition
+updated: '2026-02-08T19:29:31.622688Z'
 ---
 
 # Pelvic Inflammatory Disease

@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.094353Z'
+created: '2026-02-08T19:29:31.751920Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/myc/
+permalink: /garden/dev_admin/protein/myc/
 slug: myc
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: MYC
-type: Protein
-updated: '2026-02-08T19:25:13.094353Z'
+type: protein
+updated: '2026-02-08T19:29:31.751920Z'
 ---
 
 # MYC

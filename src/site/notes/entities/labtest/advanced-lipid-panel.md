@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.003467Z'
+created: '2026-02-08T19:29:31.663147Z'
 description: NMR spectroscopy-based panel providing LDL particle number, size, HDL
   particles, and lipoprotein(a). Superior cardiovascular risk stratification.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/advanced-lipid-panel/
+permalink: /garden/dev_admin/labtest/advanced-lipid-panel/
 slug: advanced-lipid-panel
 tags:
-- LabTest
 - labtest
 title: advanced_lipid_panel
-type: LabTest
-updated: '2026-02-08T19:25:13.003467Z'
+type: labtest
+updated: '2026-02-08T19:29:31.663147Z'
 ---
 
 # Advanced Lipid Panel (NMR)

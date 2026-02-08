@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.940765Z'
+created: '2026-02-08T19:29:31.605168Z'
 description: A painful form of inflammatory arthritis caused by the accumulation of
   urate crystals in joints, leading to sudden, severe attacks of pain, swelling, and
   redness.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/gouty-arthritis/
+permalink: /garden/dev_admin/condition/gouty-arthritis/
 slug: gouty-arthritis
 tags:
-- Condition
 - condition
 - rheumatology
 - metabolic
 - inflammation
 title: Gouty Arthritis
-type: Condition
-updated: '2026-02-08T19:25:12.940765Z'
+type: condition
+updated: '2026-02-08T19:29:31.605168Z'
 ---
 
 # Gouty Arthritis

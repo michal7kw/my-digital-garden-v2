@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.888386Z'
+created: '2026-02-08T19:29:31.563957Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/ggt/
+permalink: /garden/dev_admin/biomarker/ggt/
 slug: ggt
 tags:
-- Biomarker
 - biomarker
 title: Ggt
-type: Biomarker
-updated: '2026-02-08T19:25:12.888386Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.563957Z'
 ---
 
 # Ggt

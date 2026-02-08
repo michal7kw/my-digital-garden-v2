@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.997889Z'
+created: '2026-02-08T19:29:31.657800Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/sumo2/
+permalink: /garden/dev_admin/gene/sumo2/
 slug: sumo2
 tags:
-- Gene
 - gene
 - imported
 - primekg
 title: SUMO2
-type: Gene
-updated: '2026-02-08T19:25:12.997889Z'
+type: gene
+updated: '2026-02-08T19:29:31.657800Z'
 ---
 
 # "SUMO2"

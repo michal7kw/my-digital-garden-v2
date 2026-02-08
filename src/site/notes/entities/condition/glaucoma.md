@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.939871Z'
+created: '2026-02-08T19:29:31.604506Z'
 description: A group of eye conditions that damage the optic nerve, often caused by
   abnormally high pressure in the eye, leading to progressive vision loss.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/glaucoma/
+permalink: /garden/dev_admin/condition/glaucoma/
 slug: glaucoma
 tags:
-- Condition
 - condition
 - ophthalmology
 - chronic
 - neurodegenerative
 title: Glaucoma
-type: Condition
-updated: '2026-02-08T19:25:12.939871Z'
+type: condition
+updated: '2026-02-08T19:29:31.604506Z'
 ---
 
 # Glaucoma

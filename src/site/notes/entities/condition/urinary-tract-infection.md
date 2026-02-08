@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.973869Z'
+created: '2026-02-08T19:29:31.634043Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/urinary-tract-infection/
+permalink: /garden/dev_admin/condition/urinary-tract-infection/
 slug: urinary-tract-infection
 tags:
-- Condition
 - condition
 - urology
 - infection
 - bacterial
 title: Urinary Tract Infection
-type: Condition
-updated: '2026-02-08T19:25:12.973869Z'
+type: condition
+updated: '2026-02-08T19:29:31.634043Z'
 ---
 
 # Urinary Tract Infection

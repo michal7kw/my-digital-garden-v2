@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.954455Z'
+created: '2026-02-08T19:29:31.616769Z'
 description: A life-threatening condition where blood flow to the heart muscle is
   abruptly cut off, causing tissue death, usually due to a blood clot in a coronary
   artery.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/myocardial-infarction/
+permalink: /garden/dev_admin/condition/myocardial-infarction/
 slug: myocardial-infarction
 tags:
-- Condition
 - condition
 - cardiology
 - emergency
 - vascular
 - function-health
 title: Myocardial Infarction
-type: Condition
-updated: '2026-02-08T19:25:12.954455Z'
+type: condition
+updated: '2026-02-08T19:29:31.616769Z'
 ---
 
 # Myocardial Infarction

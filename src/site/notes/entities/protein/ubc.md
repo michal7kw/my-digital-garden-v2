@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.098557Z'
+created: '2026-02-08T19:29:31.756085Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/ubc/
+permalink: /garden/dev_admin/protein/ubc/
 slug: ubc
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: UBC
-type: Protein
-updated: '2026-02-08T19:25:13.098557Z'
+type: protein
+updated: '2026-02-08T19:29:31.756085Z'
 ---
 
 # UBC

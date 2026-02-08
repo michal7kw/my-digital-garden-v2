@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.071221Z'
+created: '2026-02-08T19:29:31.729296Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: Mesocortical Dopamine Pathway
 type: pathway
-updated: '2026-02-08T19:25:13.071221Z'
+updated: '2026-02-08T19:29:31.729296Z'
 ---
 
 # Mesocortical Dopamine Pathway

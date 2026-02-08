@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.096299Z'
+created: '2026-02-08T19:29:31.753882Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding/
+permalink: /garden/dev_admin/protein/rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding/
 slug: rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding
 tags:
-- Protein
 - protein
 - imported
 - primekg
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
-type: Protein
-updated: '2026-02-08T19:25:13.096299Z'
+type: protein
+updated: '2026-02-08T19:29:31.753882Z'
 ---
 
 # RNA polymerase II cis-regulatory region sequence-specific DNA binding

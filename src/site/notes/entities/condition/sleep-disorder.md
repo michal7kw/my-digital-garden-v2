@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.970605Z'
+created: '2026-02-08T19:29:31.630879Z'
 description: A broad category of conditions that disrupt normal sleep patterns, affecting
   the quality, timing, and amount of sleep.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/sleep-disorder/
+permalink: /garden/dev_admin/condition/sleep-disorder/
 slug: sleep-disorder
 tags:
-- Condition
 - condition
 - neurology
 - psychiatry
 - function-health
 title: Sleep Disorder
-type: Condition
-updated: '2026-02-08T19:25:12.970605Z'
+type: condition
+updated: '2026-02-08T19:29:31.630879Z'
 ---
 
 # Sleep Disorder

@@ -1,17 +1,16 @@
 ---
-created: '2026-02-08T19:25:13.052291Z'
+created: '2026-02-08T19:29:31.710440Z'
 description: Essential mineral for immune function, wound healing, and enzyme activity.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/zinc-serum/
+permalink: /garden/dev_admin/labtest/zinc-serum/
 slug: zinc-serum
 tags:
-- LabTest
 - labtest
 title: zinc_serum
-type: LabTest
-updated: '2026-02-08T19:25:13.052291Z'
+type: labtest
+updated: '2026-02-08T19:29:31.710440Z'
 ---
 
 # Zinc (Serum)

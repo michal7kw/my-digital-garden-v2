@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.954731Z'
+created: '2026-02-08T19:29:31.617095Z'
 description: A group of rare autoimmune diseases characterized by chronic muscle inflammation
   and weakness, including polymyositis and dermatomyositis.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/myositis/
+permalink: /garden/dev_admin/condition/myositis/
 slug: myositis
 tags:
-- Condition
 - condition
 - rheumatology
 - autoimmune
 - musculoskeletal
 - function-health
 title: Myositis
-type: Condition
-updated: '2026-02-08T19:25:12.954731Z'
+type: condition
+updated: '2026-02-08T19:29:31.617095Z'
 ---
 
 # Myositis

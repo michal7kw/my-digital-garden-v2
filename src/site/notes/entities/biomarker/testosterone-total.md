@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.903375Z'
+created: '2026-02-08T19:29:31.576788Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/testosterone-total/
+permalink: /garden/dev_admin/biomarker/testosterone-total/
 slug: testosterone-total
 tags:
-- Biomarker
 - biomarker
 title: Testosterone Total
-type: Biomarker
-updated: '2026-02-08T19:25:12.903375Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.576788Z'
 ---
 
 # Testosterone Total

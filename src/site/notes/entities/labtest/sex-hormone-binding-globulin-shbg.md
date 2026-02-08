@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.043057Z'
+created: '2026-02-08T19:29:31.701451Z'
 description: Sex hormone binding globulin (SHBG) is a protein made by the liver that
   regulates how much estrogen and testosterone are available for the body to use.
   In females, SHBG helps maintain hormone balance and can influence fertility, menstrual
@@ -9,14 +9,13 @@ description: Sex hormone binding globulin (SHBG) is a protein made by the liver 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/sex-hormone-binding-globulin-shbg/
+permalink: /garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/
 slug: sex-hormone-binding-globulin-shbg
 tags:
-- LabTest
 - labtest
 title: sex_hormone_binding_globulin_shbg
-type: LabTest
-updated: '2026-02-08T19:25:13.043057Z'
+type: labtest
+updated: '2026-02-08T19:29:31.701451Z'
 ---
 
 # Sex Hormone Binding Globulin (SHBG)

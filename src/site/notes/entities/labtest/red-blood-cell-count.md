@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.041456Z'
+created: '2026-02-08T19:29:31.699875Z'
 description: red blud sell kownt Tested twice a year Red blood cell (RBC) count is
   a key marker of health that reflects how well the body can carry oxygen to tissues,
   which is essential for energy and overall function. Abnormal RBC levels—too low
@@ -8,14 +8,13 @@ description: red blud sell kownt Tested twice a year Red blood cell (RBC) count 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/red-blood-cell-count/
+permalink: /garden/dev_admin/labtest/red-blood-cell-count/
 slug: red-blood-cell-count
 tags:
-- LabTest
 - labtest
 title: red_blood_cell_count
-type: LabTest
-updated: '2026-02-08T19:25:13.041456Z'
+type: labtest
+updated: '2026-02-08T19:29:31.699875Z'
 ---
 
 # Red Blood Cell Count

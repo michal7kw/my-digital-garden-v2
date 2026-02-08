@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.933662Z'
+created: '2026-02-08T19:29:31.599921Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/depression/
+permalink: /garden/dev_admin/condition/depression/
 slug: depression
 tags:
-- Condition
 - condition
 - psychiatry
 - mental_health
 - function-health
 title: Depression
-type: Condition
-updated: '2026-02-08T19:25:12.933662Z'
+type: condition
+updated: '2026-02-08T19:29:31.599921Z'
 ---
 
 # Depression

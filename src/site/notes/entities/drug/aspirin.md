@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.977579Z'
+created: '2026-02-08T19:29:31.637638Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet
   effects. Used for pain, fever, inflammation, and cardiovascular protection. One
   of the most widely used medications worldwide.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/aspirin/
+permalink: /garden/dev_admin/drug/aspirin/
 slug: aspirin
 tags:
-- Drug
 - drug
 - nsaid
 - antiplatelet
@@ -17,8 +16,8 @@ tags:
 - anti_inflammatory
 - otc
 title: Aspirin
-type: Drug
-updated: '2026-02-08T19:25:12.977579Z'
+type: drug
+updated: '2026-02-08T19:29:31.637638Z'
 ---
 
 # Aspirin

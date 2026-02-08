@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.886013Z'
+created: '2026-02-08T19:29:31.561789Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/epa/
+permalink: /garden/dev_admin/biomarker/epa/
 slug: epa
 tags:
-- Biomarker
 - biomarker
 title: Epa
-type: Biomarker
-updated: '2026-02-08T19:25:12.886013Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.561789Z'
 ---
 
 # Epa

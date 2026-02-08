@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.886181Z'
+created: '2026-02-08T19:29:31.561936Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/esr/
+permalink: /garden/dev_admin/biomarker/esr/
 slug: esr
 tags:
-- Biomarker
 - biomarker
 title: Esr
-type: Biomarker
-updated: '2026-02-08T19:25:12.886181Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.561936Z'
 ---
 
 # Esr

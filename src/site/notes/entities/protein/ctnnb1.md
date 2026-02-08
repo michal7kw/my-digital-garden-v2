@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:13.091388Z'
+created: '2026-02-08T19:29:31.749043Z'
 description: Beta-Catenin. Key component of adherens junctions and the canonical Wnt
   signaling pathway.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/ctnnb1/
+permalink: /garden/dev_admin/protein/ctnnb1/
 slug: ctnnb1
 tags:
-- Protein
 - protein
 - wnt_signaling
 - cell_adhesion
@@ -16,8 +15,8 @@ tags:
 - imported
 - primekg
 title: CTNNB1
-type: Protein
-updated: '2026-02-08T19:25:13.091388Z'
+type: protein
+updated: '2026-02-08T19:29:31.749043Z'
 ---
 
 # CTNNB1

@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.938196Z'
+created: '2026-02-08T19:29:31.603245Z'
 description: A group of neurodegenerative disorders characterized by progressive degeneration
   of the frontal and temporal lobes. Causes changes in personality, behavior, and
   language, typically with earlier onset than Alzheimer's disease.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/frontotemporal-dementia/
+permalink: /garden/dev_admin/condition/frontotemporal-dementia/
 slug: frontotemporal-dementia
 tags:
-- Condition
 - condition
 - neurodegeneration
 - dementia
 - behavior
 - language
 title: Frontotemporal Dementia
-type: Condition
-updated: '2026-02-08T19:25:12.938196Z'
+type: condition
+updated: '2026-02-08T19:29:31.603245Z'
 ---
 
 # Frontotemporal Dementia

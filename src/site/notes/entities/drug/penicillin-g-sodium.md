@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.986231Z'
+created: '2026-02-08T19:29:31.646234Z'
 description: A sodium salt form of Penicillin G, preferred for patients who cannot
   tolerate the potassium load of Penicillin G Potassium.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/penicillin-g-sodium/
+permalink: /garden/dev_admin/drug/penicillin-g-sodium/
 slug: penicillin-g-sodium
 tags:
-- Drug
 - drug
 - antibiotic
 - intravenous
 - sodium_salt
 title: Penicillin G Sodium
-type: Drug
-updated: '2026-02-08T19:25:12.986231Z'
+type: drug
+updated: '2026-02-08T19:29:31.646234Z'
 ---
 
 # Penicillin G Sodium

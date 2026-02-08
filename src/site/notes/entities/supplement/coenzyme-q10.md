@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:13.107149Z'
+created: '2026-02-08T19:29:31.764473Z'
 description: A vitamin-like substance found in every cell of the body, essential for
   mitochondrial ATP production and acting as a powerful lipid-soluble antioxidant.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/coenzyme-q10/
+permalink: /garden/dev_admin/supplement/coenzyme-q10/
 slug: coenzyme-q10
 tags:
-- Supplement
 - supplement
 - antioxidant
 - mitochondria
 - cardiovascular_health
 - energy_metabolism
 title: Coenzyme Q10
-type: Supplement
-updated: '2026-02-08T19:25:13.107149Z'
+type: supplement
+updated: '2026-02-08T19:29:31.764473Z'
 ---
 
 # Coenzyme Q10

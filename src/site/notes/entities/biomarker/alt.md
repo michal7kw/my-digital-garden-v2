@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.877992Z'
+created: '2026-02-08T19:29:31.554055Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/alt/
+permalink: /garden/dev_admin/biomarker/alt/
 slug: alt
 tags:
-- Biomarker
 - biomarker
 title: Alt
-type: Biomarker
-updated: '2026-02-08T19:25:12.877992Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.554055Z'
 ---
 
 # Alt

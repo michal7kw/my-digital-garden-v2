@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:13.056163Z'
+created: '2026-02-08T19:29:31.714135Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Neurotransmitter/norepinephrine/
+permalink: /garden/dev_admin/neurotransmitter/norepinephrine/
 slug: norepinephrine
 tags:
-- Neurotransmitter
 - neurotransmitter
 - monoamine
 - catecholamine
@@ -17,8 +16,8 @@ tags:
 - alertness
 - focus
 title: Norepinephrine
-type: Neurotransmitter
-updated: '2026-02-08T19:25:13.056163Z'
+type: neurotransmitter
+updated: '2026-02-08T19:29:31.714135Z'
 ---
 
 # Norepinephrine

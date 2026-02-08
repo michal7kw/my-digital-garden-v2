@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.923943Z'
+created: '2026-02-08T19:29:31.592413Z'
 description: Illnesses caused by harmful bacteria, ranging from mild skin infections
   to severe systemic diseases.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/bacterial-infections/
+permalink: /garden/dev_admin/condition/bacterial-infections/
 slug: bacterial-infections
 tags:
-- Condition
 - condition
 - infectious_disease
 - bacterial
 - microbiology
 title: Bacterial Infections
-type: Condition
-updated: '2026-02-08T19:25:12.923943Z'
+type: condition
+updated: '2026-02-08T19:29:31.592413Z'
 ---
 
 # Bacterial Infections

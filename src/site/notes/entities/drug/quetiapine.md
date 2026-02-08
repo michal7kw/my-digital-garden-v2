@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.988339Z'
+created: '2026-02-08T19:29:31.648268Z'
 description: Atypical antipsychotic used for schizophrenia, bipolar disorder, and
   adjunctive treatment of depression. Has sedative properties often used off-label
   for insomnia.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/quetiapine/
+permalink: /garden/dev_admin/drug/quetiapine/
 slug: quetiapine
 tags:
-- Drug
 - drug
 - antipsychotic
 - mood_stabilizer
@@ -18,8 +17,8 @@ tags:
 - imported
 - primekg
 title: Quetiapine
-type: Drug
-updated: '2026-02-08T19:25:12.988339Z'
+type: drug
+updated: '2026-02-08T19:29:31.648268Z'
 ---
 
 # Quetiapine

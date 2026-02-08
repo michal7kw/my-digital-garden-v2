@@ -1,16 +1,16 @@
 ---
-created: '2026-02-08T19:25:13.116866Z'
+created: '2026-02-08T19:29:31.773890Z'
 description: Test supplement for content preservation
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/test-content-preservation/
+permalink: /garden/dev_admin/supplement/test-content-preservation/
 slug: test-content-preservation
 tags:
-- Supplement
+- supplement
 title: Test Content Preservation
-type: Supplement
-updated: '2026-02-08T19:25:13.116866Z'
+type: supplement
+updated: '2026-02-08T19:29:31.773890Z'
 ---
 
 # Test Content Preservation

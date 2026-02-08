@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:13.087445Z'
+created: '2026-02-08T19:29:31.745165Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/visual-impairment/
+permalink: /garden/dev_admin/phenotype/visual-impairment/
 slug: visual-impairment
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Visual impairment
-type: Phenotype
-updated: '2026-02-08T19:25:13.087445Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.745165Z'
 ---
 
 # Visual impairment

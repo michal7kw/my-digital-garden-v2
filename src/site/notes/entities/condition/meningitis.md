@@ -1,22 +1,21 @@
 ---
-created: '2026-02-08T19:25:12.951558Z'
+created: '2026-02-08T19:29:31.614286Z'
 description: Inflammation of the protective membranes (meninges) covering the brain
   and spinal cord, typically caused by an infection.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/meningitis/
+permalink: /garden/dev_admin/condition/meningitis/
 slug: meningitis
 tags:
-- Condition
 - condition
 - neurology
 - infectious_disease
 - acute
 - emergency
 title: Meningitis
-type: Condition
-updated: '2026-02-08T19:25:12.951558Z'
+type: condition
+updated: '2026-02-08T19:29:31.614286Z'
 ---
 
 # Meningitis

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.113055Z'
+created: '2026-02-08T19:29:31.770242Z'
 description: An NAD+ precursor that efficiently raises cellular NAD+ levels via the
   NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors
   and has demonstrated safety and efficacy in human clinical trials for boosting NAD+
@@ -7,10 +7,9 @@ description: An NAD+ precursor that efficiently raises cellular NAD+ levels via 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Supplement/nicotinamide-riboside/
+permalink: /garden/dev_admin/supplement/nicotinamide-riboside/
 slug: nicotinamide-riboside
 tags:
-- Supplement
 - supplement
 - nad_precursor
 - longevity
@@ -18,8 +17,8 @@ tags:
 - mitochondrial
 - sirtuin_activator
 title: Nicotinamide Riboside
-type: Supplement
-updated: '2026-02-08T19:25:13.113055Z'
+type: supplement
+updated: '2026-02-08T19:29:31.770242Z'
 ---
 
 # Nicotinamide Riboside

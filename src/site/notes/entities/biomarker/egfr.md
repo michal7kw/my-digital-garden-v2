@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:12.886356Z'
+created: '2026-02-08T19:29:31.562086Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/egfr/
+permalink: /garden/dev_admin/biomarker/egfr/
 slug: egfr
 tags:
-- Biomarker
 - biomarker
 title: EGFR
-type: Biomarker
-updated: '2026-02-08T19:25:12.886356Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.562086Z'
 ---
 
 # Egfr

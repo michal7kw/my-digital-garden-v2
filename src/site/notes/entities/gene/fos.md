@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.996202Z'
+created: '2026-02-08T19:29:31.656207Z'
 description: '...'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Gene/fos/
+permalink: /garden/dev_admin/gene/fos/
 slug: fos
 tags:
-- Gene
 - gene
 - imported
 - primekg
 title: FOS
-type: Gene
-updated: '2026-02-08T19:25:12.996202Z'
+type: gene
+updated: '2026-02-08T19:29:31.656207Z'
 ---
 
 # "FOS"

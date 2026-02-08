@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.963360Z'
+created: '2026-02-08T19:29:31.624423Z'
 description: An infection that inflames the air sacs (alveoli) in one or both lungs,
   which may fill with fluid or pus.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pneumonia/
+permalink: /garden/dev_admin/condition/pneumonia/
 slug: pneumonia
 tags:
-- Condition
 - condition
 - respiratory
 - infection
 - acute
 title: Pneumonia
-type: Condition
-updated: '2026-02-08T19:25:12.963360Z'
+type: condition
+updated: '2026-02-08T19:29:31.624423Z'
 ---
 
 # Pneumonia

@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.966685Z'
+created: '2026-02-08T19:29:31.627300Z'
 description: A type of high blood pressure that affects the arteries in the lungs
   and the right side of the heart.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/pulmonary-hypertension/
+permalink: /garden/dev_admin/condition/pulmonary-hypertension/
 slug: pulmonary-hypertension
 tags:
-- Condition
 - condition
 - cardiology
 - respiratory
 - vascular
 title: Pulmonary Hypertension
-type: Condition
-updated: '2026-02-08T19:25:12.966685Z'
+type: condition
+updated: '2026-02-08T19:29:31.627300Z'
 ---
 
 # Pulmonary Hypertension

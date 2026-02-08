@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:13.001203Z'
+created: '2026-02-08T19:29:31.660988Z'
 description: A dietary pattern emphasizing fruits, vegetables, whole grains, legumes,
   nuts, olive oil, and fish. Associated with reduced risk of cardiovascular disease,
   cognitive decline, and dementia.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Intervention/mediterranean-diet/
+permalink: /garden/dev_admin/intervention/mediterranean-diet/
 slug: mediterranean-diet
 tags:
-- Intervention
 - intervention
 - diet
 - neuroprotection
 - cardiovascular
 - longevity
 title: Mediterranean Diet
-type: Intervention
-updated: '2026-02-08T19:25:13.001203Z'
+type: intervention
+updated: '2026-02-08T19:29:31.660988Z'
 ---
 
 # Mediterranean Diet

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:12.983562Z'
+created: '2026-02-08T19:29:31.643656Z'
 description: MCT8 Oil refers to medium-chain triglyceride oil, but the '8' is likely
   a typo for C8 (caprylic acid), a specific MCT known for its rapid conversion to
   ketones and potential cognitive benefits. It is a dietary fat derived from coconut
@@ -7,17 +7,17 @@ description: MCT8 Oil refers to medium-chain triglyceride oil, but the '8' is li
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/mct8-oil/
+permalink: /garden/dev_admin/drug/mct8-oil/
 slug: mct8-oil
 tags:
-- Drug
+- drug
 - supplement
 - dietary_fat
 - ketogenic
 - cognitive_enhancer
 title: MCT8 Oil
-type: Drug
-updated: '2026-02-08T19:25:12.983562Z'
+type: drug
+updated: '2026-02-08T19:29:31.643656Z'
 ---
 
 # MCT8 Oil

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.076092Z'
+created: '2026-02-08T19:29:31.734038Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,7 +9,7 @@ tags:
 - pathway
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-02-08T19:25:13.076092Z'
+updated: '2026-02-08T19:29:31.734038Z'
 ---
 
 # Tuberoinfundibular Dopamine Pathway

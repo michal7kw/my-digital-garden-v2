@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.013613Z'
+created: '2026-02-08T19:29:31.672693Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/comprehensive-metabolic-panel/
+permalink: /garden/dev_admin/labtest/comprehensive-metabolic-panel/
 slug: comprehensive-metabolic-panel
 tags:
-- LabTest
 - labtest
 title: comprehensive_metabolic_panel
-type: LabTest
-updated: '2026-02-08T19:25:13.013613Z'
+type: labtest
+updated: '2026-02-08T19:29:31.672693Z'
 ---
 
 # Comprehensive Metabolic Panel (CMP)

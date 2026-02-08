@@ -1,23 +1,22 @@
 ---
-created: '2026-02-08T19:25:12.923117Z'
+created: '2026-02-08T19:29:31.591782Z'
 description: A deficiency in one or more of the B-complex vitamins (e.g., Folate,
   B6, B12), which are essential for energy metabolism, red blood cell production,
   and neurological function.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/b-vitamin-deficiency/
+permalink: /garden/dev_admin/condition/b-vitamin-deficiency/
 slug: b-vitamin-deficiency
 tags:
-- Condition
 - condition
 - nutrition
 - metabolic
 - neurology
 - function-health
 title: B Vitamin Deficiency
-type: Condition
-updated: '2026-02-08T19:25:12.923117Z'
+type: condition
+updated: '2026-02-08T19:29:31.591782Z'
 ---
 
 # B Vitamin Deficiency

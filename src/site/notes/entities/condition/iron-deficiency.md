@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:12.947006Z'
+created: '2026-02-08T19:29:31.610482Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/iron-deficiency/
+permalink: /garden/dev_admin/condition/iron-deficiency/
 slug: iron-deficiency
 tags:
-- Condition
 - condition
 title: Iron Deficiency
-type: Condition
-updated: '2026-02-08T19:25:12.947006Z'
+type: condition
+updated: '2026-02-08T19:29:31.610482Z'
 ---
 
 # Iron Deficiency

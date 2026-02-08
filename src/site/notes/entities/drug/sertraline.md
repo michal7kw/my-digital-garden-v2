@@ -1,15 +1,14 @@
 ---
-created: '2026-02-08T19:25:12.989385Z'
+created: '2026-02-08T19:29:31.649321Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/sertraline/
+permalink: /garden/dev_admin/drug/sertraline/
 slug: sertraline
 tags:
-- Drug
 - drug
 - ssri
 - antidepressant
@@ -17,8 +16,8 @@ tags:
 - psychiatry
 - prescription
 title: Sertraline
-type: Drug
-updated: '2026-02-08T19:25:12.989385Z'
+type: drug
+updated: '2026-02-08T19:29:31.649321Z'
 ---
 
 # Sertraline

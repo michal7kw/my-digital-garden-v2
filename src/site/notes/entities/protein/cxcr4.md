@@ -1,16 +1,15 @@
 ---
-created: '2026-02-08T19:25:13.091629Z'
+created: '2026-02-08T19:29:31.749277Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Protein/cxcr4/
+permalink: /garden/dev_admin/protein/cxcr4/
 slug: cxcr4
 tags:
-- Protein
 - protein
 title: CXCR4
-type: Protein
-updated: '2026-02-08T19:25:13.091629Z'
+type: protein
+updated: '2026-02-08T19:29:31.749277Z'
 ---
 
 # CXCR4

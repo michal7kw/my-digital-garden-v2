@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:12.893470Z'
+created: '2026-02-08T19:29:31.568390Z'
 description: Low-density lipoprotein (LDL) cholesterol carries cholesterol to tissues.
   High levels increase cardiovascular disease risk.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/ldl/
+permalink: /garden/dev_admin/biomarker/ldl/
 slug: ldl
 tags:
-- Biomarker
 - biomarker
 title: Ldl
-type: Biomarker
-updated: '2026-02-08T19:25:12.893470Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.568390Z'
 ---
 
 # Ldl

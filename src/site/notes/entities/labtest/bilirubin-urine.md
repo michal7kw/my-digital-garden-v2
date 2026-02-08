@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:25:13.009771Z'
+created: '2026-02-08T19:29:31.668976Z'
 description: Tested twice a year Bilirubin is a natural substance produced when the
   body breaks down old red blood cells. Under healthy conditions, the liver processes
   bilirubin, and it is not usually present in urine. When bilirubin does appear in
@@ -7,14 +7,13 @@ description: Tested twice a year Bilirubin is a natural substance produced when 
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/LabTest/bilirubin-urine/
+permalink: /garden/dev_admin/labtest/bilirubin-urine/
 slug: bilirubin-urine
 tags:
-- LabTest
 - labtest
 title: bilirubin_urine
-type: LabTest
-updated: '2026-02-08T19:25:13.009771Z'
+type: labtest
+updated: '2026-02-08T19:29:31.668976Z'
 ---
 
 # Bilirubin, Urine

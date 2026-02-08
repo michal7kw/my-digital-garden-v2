@@ -1,14 +1,13 @@
 ---
-created: '2026-02-08T19:25:12.980314Z'
+created: '2026-02-08T19:29:31.640494Z'
 description: Tricyclic antidepressant (TCA) with very potent antihistamine properties.
   Used for depression, anxiety, and at low doses for insomnia.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Drug/doxepin/
+permalink: /garden/dev_admin/drug/doxepin/
 slug: doxepin
 tags:
-- Drug
 - drug
 - antidepressant
 - insomnia
@@ -17,8 +16,8 @@ tags:
 - imported
 - primekg
 title: Doxepin
-type: Drug
-updated: '2026-02-08T19:25:12.980314Z'
+type: drug
+updated: '2026-02-08T19:29:31.640494Z'
 ---
 
 # Doxepin

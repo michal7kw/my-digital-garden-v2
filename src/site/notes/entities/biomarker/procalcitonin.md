@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.900575Z'
+created: '2026-02-08T19:29:31.574490Z'
 description: Procalcitonin is a precursor peptide of calcitonin that is markedly elevated
   in systemic bacterial infections and sepsis, serving as a key biomarker for distinguishing
   bacterial from viral infections and guiding antibiotic stewardship.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/procalcitonin/
+permalink: /garden/dev_admin/biomarker/procalcitonin/
 slug: procalcitonin
 tags:
-- Biomarker
 - biomarker
 title: Procalcitonin
-type: Biomarker
-updated: '2026-02-08T19:25:12.900575Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.574490Z'
 ---
 
 # Procalcitonin

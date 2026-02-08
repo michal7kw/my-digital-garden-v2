@@ -1,21 +1,20 @@
 ---
-created: '2026-02-08T19:25:12.926368Z'
+created: '2026-02-08T19:29:31.594361Z'
 description: A type of cancer that starts in cells that make up the skin or the tissue
   lining organs, such as the liver or kidneys.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Condition/carcinoma/
+permalink: /garden/dev_admin/condition/carcinoma/
 slug: carcinoma
 tags:
-- Condition
 - condition
 - oncology
 - cancer
 - pathology
 title: Carcinoma
-type: Condition
-updated: '2026-02-08T19:25:12.926368Z'
+type: condition
+updated: '2026-02-08T19:29:31.594361Z'
 ---
 
 # Carcinoma

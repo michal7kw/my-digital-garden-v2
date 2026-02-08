@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:13.084599Z'
+created: '2026-02-08T19:29:31.742384Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Phenotype/pain/
+permalink: /garden/dev_admin/phenotype/pain/
 slug: pain
 tags:
-- Phenotype
 - phenotype
 - imported
 - primekg
 title: Pain
-type: Phenotype
-updated: '2026-02-08T19:25:13.084599Z'
+type: phenotype
+updated: '2026-02-08T19:29:31.742384Z'
 ---
 
 # Pain

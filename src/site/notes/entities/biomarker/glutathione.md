@@ -1,19 +1,18 @@
 ---
-created: '2026-02-08T19:25:12.888986Z'
+created: '2026-02-08T19:29:31.564495Z'
 description: Glutathione is the most abundant intracellular antioxidant, a tripeptide
   critical for detoxification, immune function, and protection against oxidative damage.
   Low levels are associated with chronic disease, aging, and increased oxidative stress.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/glutathione/
+permalink: /garden/dev_admin/biomarker/glutathione/
 slug: glutathione
 tags:
-- Biomarker
 - biomarker
 title: Glutathione
-type: Biomarker
-updated: '2026-02-08T19:25:12.888986Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.564495Z'
 ---
 
 # Glutathione

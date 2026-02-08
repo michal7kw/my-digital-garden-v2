@@ -1,18 +1,17 @@
 ---
-created: '2026-02-08T19:25:12.878161Z'
+created: '2026-02-08T19:29:31.554205Z'
 description: The most abundant protein in the blood, produced by the liver. Maintains
   fluid balance and transports nutrients, hormones, and drugs through the bloodstream.
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
-permalink: /garden/dev_admin/Biomarker/albumin/
+permalink: /garden/dev_admin/biomarker/albumin/
 slug: albumin
 tags:
-- Biomarker
 - biomarker
 title: Albumin
-type: Biomarker
-updated: '2026-02-08T19:25:12.878161Z'
+type: biomarker
+updated: '2026-02-08T19:29:31.554205Z'
 ---
 
 # Albumin
