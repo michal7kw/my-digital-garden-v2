@@ -1,5 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/homocysteine/","tags":["labtest"]}
+created: '2026-02-08T19:25:13.023164Z'
+description: Amino acid linked to cardiovascular disease and B-vitamin deficiency.
+  Elevated levels associated with increased CVD risk.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/homocysteine/
+slug: homocysteine
+tags:
+- LabTest
+- labtest
+title: homocysteine
+type: LabTest
+updated: '2026-02-08T19:25:13.023164Z'
 ---
 
 # homocysteine
@@ -33,6 +46,15 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[homocysteine]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:15.446472'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

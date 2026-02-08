@@ -1,5 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/shbg/","tags":["labtest"]}
+created: '2026-02-08T19:25:13.043385Z'
+description: Binds testosterone and estrogen. Important for calculating free hormone
+  levels and assessing metabolic health.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/shbg/
+slug: shbg
+tags:
+- LabTest
+- labtest
+title: shbg
+type: LabTest
+updated: '2026-02-08T19:25:13.043385Z'
 ---
 
 # shbg
@@ -33,6 +46,15 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[shbg]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:25.792377'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

@@ -1,5 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/fibrinogen/","tags":["labtest"]}
+created: '2026-02-08T19:25:13.018491Z'
+description: Clotting factor and acute phase reactant. Elevated in inflammation and
+  cardiovascular disease.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/fibrinogen/
+slug: fibrinogen
+tags:
+- LabTest
+- labtest
+title: fibrinogen
+type: LabTest
+updated: '2026-02-08T19:25:13.018491Z'
 ---
 
 # fibrinogen
@@ -33,6 +46,15 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[fibrinogen]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:12.850826'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

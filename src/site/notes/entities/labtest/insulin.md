@@ -1,7 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/insulin/","tags":["labtest","blood-panel","function-health"]}
+created: '2026-02-08T19:25:13.023991Z'
+description: Tested twice a year Insulin is a hormone that acts like a key, helping
+  sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
+  tested in standard checkups, but measuring it can sometimes detect signs of diabetes
+  risk even earlier. High insulin levels may mean the body is becoming resistant to
+  insulin, raising the risk for type 2 diabetes, while very low levels may suggest
+  the pancreas isn't making enough, as in type 1 diabetes. Tracking both insulin and
+  glucose gives a fuller picture of metabolic health.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/insulin/
+slug: insulin
+tags:
+- LabTest
+- labtest
+- blood-panel
+- function-health
+title: insulin
+type: LabTest
+updated: '2026-02-08T19:25:13.023991Z'
 ---
-
 
 # Insulin
 
@@ -31,16 +50,104 @@ No specific supplement monitoring recommendations.
 ### Conditions
 Useful for monitoring or diagnosing:
 
-- [[entities/condition/Insulin Resistance\|Insulin Resistance]]
-- [[Type 2 Diabetes\|Type 2 Diabetes]]
-- [[entities/condition/Metabolic Syndrome\|Metabolic Syndrome]]
-- [[Mafld (Metabolic Dysfunction-Associated Fatty Liver Disease)\|Mafld (Metabolic Dysfunction-Associated Fatty Liver Disease)]]
-- [[Pcos (Polycystic Ovary Syndrome)\|Pcos (Polycystic Ovary Syndrome)]]
+- [[Insulin Resistance]]
+- [[Type 2 Diabetes]]
+- [[Metabolic Syndrome]]
+- [[Mafld (Metabolic Dysfunction-Associated Fatty Liver Disease)]]
+- [[Pcos (Polycystic Ovary Syndrome)]]
 
 ## Reference Ranges
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[Metabolic_Syndrome]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:15.822692'
+source: obsidian
+```
+- → [[Pcos_Polycystic_Ovary_Syndrome]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:15.822692'
+source: obsidian
+```
+- → [[Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:15.822692'
+source: obsidian
+```
+- → [[Insulin]] (biomarker)
+```yaml
+last_modified: '2026-01-26T06:48:15.822692'
+source: obsidian
+```
+- → [[Insulin_Resistance]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:15.822692'
+source: obsidian
+```
+- → [[Type_2_Diabetes]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:15.822692'
+source: obsidian
+```
+- → [[Type_2_Diabetes]] (entity)
+```yaml
+last_modified: '2026-01-26T07:07:54.576387'
+source: obsidian
+```
+- → [[Pcos_Polycystic_Ovary_Syndrome]] (entity)
+```yaml
+last_modified: '2026-01-26T07:07:54.576387'
+source: obsidian
+```
+- → [[Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T07:07:54.576387'
+source: obsidian
+```
+- ← [[Insulin]] (biomarker)
+```yaml
+last_modified: '2026-01-26T07:07:14.070090'
+source: obsidian
+```
+- → [[Insulin_Resistance]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:54.576387'
+source: obsidian
+```
+- → [[Metabolic_Syndrome]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:54.576387'
+source: obsidian
+```
+- ← [[Metabolic_Syndrome]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+```
+- ← [[Insulin_Resistance]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:30.181114'
+source: obsidian
+```
+
+### May Detect
+- → [[Metabolic_Syndrome]] (condition)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- → [[Insulin_Resistance]] (condition)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

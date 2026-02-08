@@ -1,5 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/hba1c/","tags":["labtest"]}
+created: '2026-02-08T19:25:13.020937Z'
+description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
+  monitoring.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/hba1c/
+slug: hba1c
+tags:
+- LabTest
+- labtest
+title: hba1c
+type: LabTest
+updated: '2026-02-08T19:25:13.020937Z'
 ---
 
 # hba1c
@@ -33,6 +46,20 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[Hba1C]] (biomarker)
+```yaml
+last_modified: '2026-01-26T06:48:13.914575'
+source: obsidian
+```
+- ← [[Hba1C]] (biomarker)
+```yaml
+last_modified: '2026-01-26T07:07:13.190565'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

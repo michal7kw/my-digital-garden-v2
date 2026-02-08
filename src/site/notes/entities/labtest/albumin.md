@@ -1,7 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/albumin/","tags":["labtest","blood-panel","function-health"]}
+created: '2026-02-08T19:25:13.004992Z'
+description: Tested twice a year Albumin is the most abundant protein in the blood
+  and plays a vital role in maintaining fluid balance and transporting nutrients.
+  Healthy albumin levels are a good indicator of liver function and overall health.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/albumin/
+slug: albumin
+tags:
+- LabTest
+- labtest
+- blood-panel
+- function-health
+title: albumin
+type: LabTest
+updated: '2026-02-08T19:25:13.004992Z'
 ---
-
 
 # Albumin
 
@@ -31,16 +46,119 @@ No specific supplement monitoring recommendations.
 ### Conditions
 Useful for monitoring or diagnosing:
 
-- [[Chronic Liver Disease\|Chronic Liver Disease]]
-- [[entities/condition/Nephrotic Syndrome\|Nephrotic Syndrome]]
-- [[Malnutrition\|Malnutrition]]
-- [[Chronic Inflammation (E.G., Autoimmune Disease)\|Chronic Inflammation (E.G., Autoimmune Disease)]]
-- [[entities/condition/Heart Failure\|Heart Failure]]
+- [[Chronic Liver Disease]]
+- [[Nephrotic Syndrome]]
+- [[Malnutrition]]
+- [[Chronic Inflammation (E.G., Autoimmune Disease)]]
+- [[Heart Failure]]
 
 ## Reference Ranges
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[Chronic_Liver_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- → [[comprehensive_metabolic_panel]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- → [[Nephrotic_Syndrome]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- → [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- → [[Albumin]] (biomarker)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- → [[Heart_Failure]] (entity)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- → [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T07:07:49.479652'
+source: obsidian
+```
+- → [[Chronic_Liver_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T07:07:49.479652'
+source: obsidian
+```
+- → [[Malnutrition]] (entity)
+```yaml
+last_modified: '2026-01-26T07:07:49.479652'
+source: obsidian
+```
+- ← [[Albumin]] (biomarker)
+```yaml
+last_modified: '2026-01-26T07:07:09.703173'
+source: obsidian
+```
+- ← [[comprehensive_metabolic_panel]] (labtest)
+```yaml
+last_modified: '2026-01-26T07:07:51.872326'
+source: obsidian
+```
+- → [[Heart_Failure]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:49.479652'
+source: obsidian
+```
+- → [[Nephrotic_Syndrome]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:49.479652'
+source: obsidian
+```
+- → [[liver_function_panel]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:07.123823'
+source: obsidian
+```
+- ← [[Nephrotic_Syndrome]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:34.185599'
+source: obsidian
+```
+- ← [[Heart_Failure]] (condition)
+```yaml
+last_modified: '2026-01-26T07:07:28.815607'
+source: obsidian
+```
+- ← [[liver_function_panel]] (labtest)
+```yaml
+last_modified: '2026-01-26T07:07:56.401672'
+source: obsidian
+```
+
+### May Detect
+- → [[Heart_Failure]] (condition)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+- → [[Nephrotic_Syndrome]] (condition)
+```yaml
+confidence: suggested
+created_at: '2026-01-18T16:02:36.677740'
+source: function-health
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

@@ -1,28 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/ferritin/"}
+created: '2026-02-08T19:25:13.018294Z'
+description: Measures iron stores. Key marker for iron deficiency and overload, also
+  an acute phase reactant.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/ferritin/
+slug: ferritin
+tags:
+- LabTest
+- labtest
+title: ferritin
+type: LabTest
+updated: '2026-02-08T19:25:13.018294Z'
 ---
 
-
-# Ferritin
+# ferritin
 
 ## Overview
 Measures iron stores. Key marker for iron deficiency and overload, also an acute phase reactant.
 
-**Evidence Level:** ⭐⭐⭐⭐⭐ (5/5)
 
 ## Test Information
 
 | Property | Value |
 |----------|-------|
-| **Subcategory** | Iron Panel || **Test Type** | Standard |
+| **Category** |  |
+| **Subcategory** | Null || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
-| **Turnaround Time** | 1-2 days || **Price Range** | $20-$45 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
+| **Turnaround Time** | null-null days || **Price Range** | $null-$null |
 
-## Biomarkers Measured
 
-This test measures the following biomarkers:
 
-- [[entities/labtest/ferritin\|ferritin]]
 
 ## Recommended For
 
@@ -36,6 +46,35 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[Ferritin]] (biomarker)
+```yaml
+last_modified: '2026-01-26T06:48:12.778690'
+source: obsidian
+```
+- ← [[Ferritin]] (biomarker)
+```yaml
+last_modified: '2026-01-26T07:07:12.099734'
+source: obsidian
+```
+- → [[iron_panel]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:12.778690'
+source: obsidian
+```
+- ← [[iron_panel]] (labtest)
+```yaml
+last_modified: '2026-01-26T07:07:54.772492'
+source: obsidian
+```
+- → [[ferritin]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:12.778690'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 
@@ -46,4 +85,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:26.543024*
+*Last Updated: 2026-01-19T09:32:21.669949*

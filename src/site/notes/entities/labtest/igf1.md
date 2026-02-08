@@ -1,5 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/igf1/","tags":["labtest"]}
+created: '2026-02-08T19:25:13.023805Z'
+description: Growth hormone mediator. Marker for GH deficiency/excess and biological
+  aging research.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/igf1/
+slug: igf1
+tags:
+- LabTest
+- labtest
+title: igf1
+type: LabTest
+updated: '2026-02-08T19:25:13.023805Z'
 ---
 
 # igf1
@@ -33,6 +46,15 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[igf1]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:15.749257'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 

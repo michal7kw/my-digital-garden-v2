@@ -1,28 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/esr/"}
+created: '2026-02-08T19:25:13.017266Z'
+description: Non-specific marker of inflammation. Used in monitoring inflammatory
+  conditions.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/esr/
+slug: esr
+tags:
+- LabTest
+- labtest
+title: esr
+type: LabTest
+updated: '2026-02-08T19:25:13.017266Z'
 ---
 
-
-# ESR (Erythrocyte Sedimentation Rate)
+# esr
 
 ## Overview
 Non-specific marker of inflammation. Used in monitoring inflammatory conditions.
 
-**Evidence Level:** ⭐⭐⭐⭐ (4/5)
 
 ## Test Information
 
 | Property | Value |
 |----------|-------|
-| **Subcategory** | Inflammation Markers || **Test Type** | Standard |
+| **Category** |  |
+| **Subcategory** | Null || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
-| **Turnaround Time** | 1-2 days || **Price Range** | $15-$35 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
+| **Turnaround Time** | null-null days || **Price Range** | $null-$null |
 
-## Biomarkers Measured
 
-This test measures the following biomarkers:
 
-- [[entities/labtest/esr\|esr]]
 
 ## Recommended For
 
@@ -36,6 +46,15 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[esr]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:12.556580'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 
@@ -46,4 +65,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:26.493199*
+*Last Updated: 2026-01-19T09:32:21.084026*

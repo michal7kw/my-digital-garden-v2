@@ -1,28 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/tsh/"}
+created: '2026-02-08T19:25:13.049712Z'
+description: Primary screening test for thyroid function. Elevated in hypothyroidism,
+  low in hyperthyroidism.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/tsh/
+slug: tsh
+tags:
+- LabTest
+- labtest
+title: tsh
+type: LabTest
+updated: '2026-02-08T19:25:13.049712Z'
 ---
 
-
-# TSH (Thyroid Stimulating Hormone)
+# tsh
 
 ## Overview
 Primary screening test for thyroid function. Elevated in hypothyroidism, low in hyperthyroidism.
 
-**Evidence Level:** ⭐⭐⭐⭐⭐ (5/5)
 
 ## Test Information
 
 | Property | Value |
 |----------|-------|
-| **Subcategory** | Thyroid || **Test Type** | Standard |
+| **Category** |  |
+| **Subcategory** | Null || **Test Type** | Standard |
+| **Sample Type** | Blood |
 | **Collection Method** | Venipuncture |
-| **Turnaround Time** | 1-2 days || **Price Range** | $25-$55 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
+| **Turnaround Time** | null-null days || **Price Range** | $null-$null |
 
-## Biomarkers Measured
 
-This test measures the following biomarkers:
 
-- [[entities/labtest/tsh\|tsh]]
 
 ## Recommended For
 
@@ -36,6 +46,35 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[thyroid_panel_complete]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:28.633850'
+source: obsidian
+```
+- ← [[thyroid_panel_complete]] (labtest)
+```yaml
+last_modified: '2026-01-26T07:08:00.388451'
+source: obsidian
+```
+- → [[thyroid_panel_basic]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:28.633850'
+source: obsidian
+```
+- ← [[thyroid_panel_basic]] (labtest)
+```yaml
+last_modified: '2026-01-26T07:08:00.286859'
+source: obsidian
+```
+- → [[tsh]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:28.633850'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 
@@ -46,4 +85,4 @@ No relationships found.
 - Individual factors (age, sex, health status) affect interpretation
 
 ---
-*Last Updated: 2025-12-28T17:32:27.009624*
+*Last Updated: 2026-01-19T09:32:44.438882*

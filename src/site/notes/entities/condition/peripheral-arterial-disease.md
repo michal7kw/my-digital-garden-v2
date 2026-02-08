@@ -1,0 +1,59 @@
+---
+created: '2026-02-08T19:25:12.961786Z'
+description: A common circulatory problem in which narrowed arteries reduce blood
+  flow to the limbs, usually the legs.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/Condition/peripheral-arterial-disease/
+slug: peripheral-arterial-disease
+tags:
+- Condition
+- condition
+- cardiology
+- vascular
+- chronic
+title: Peripheral Arterial Disease
+type: Condition
+updated: '2026-02-08T19:25:12.961786Z'
+---
+
+# Peripheral Arterial Disease
+
+## Overview
+
+Peripheral Arterial Disease (PAD) is caused by **atherosclerosis** (hardening of the arteries). Plaque builds up in the arteries that carry blood to the head, organs, and limbs. When plaque hardens, it narrows the arteries and limits the flow of oxygen-rich blood to the body. It most commonly affects the legs, causing pain during walking (claudication) that resolves with rest.
+
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[Peripheral_Arterial_Disease]] (entity)
+```yaml
+last_modified: '2026-01-26T06:47:50.140580'
+source: obsidian
+```
+- → [[Peripheral_Arterial_Disease]] (condition)
+```yaml
+last_modified: '2026-01-26T06:03:54.155776'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
+## Relationships
+
+CAUSED_BY::[[Atherosclerosis]]
+ASSOCIATED_WITH_CONDITION::[[Coronary Artery Disease]]
+ASSOCIATED_WITH_CONDITION::[[Stroke]]
+ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]
+AFFECTS_ORGAN::[[Artery]]
+AFFECTS_ORGAN::[[Leg]]
+TREATED_BY_DRUG::[[Cilostazol]] - Improves walking distance.
+TREATED_BY_DRUG::[[Clopidogrel]] - Antiplatelet.
+TREATED_BY_DRUG::[[Atorvastatin]] - Statin.
+IMPROVED_BY_INTERVENTION::[[Exercise]]
+IMPROVED_BY_INTERVENTION::[[Smoking Cessation]]
+
+## References
+
+- Gerhard-Herman, M. D., et al. (2017). 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease. Circulation.
+- CDC. Peripheral Arterial Disease (PAD).
+- Fowkes, F. G., et al. (2013). Comparison of global estimates of prevalence and risk factors for peripheral artery disease in 2000 and 2010. The Lancet.

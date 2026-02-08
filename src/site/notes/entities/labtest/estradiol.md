@@ -1,5 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entities/labtest/estradiol/","tags":["labtest"]}
+created: '2026-02-08T19:25:13.017461Z'
+description: Primary estrogen in reproductive-age women. Important for fertility,
+  menopause assessment, and hormone therapy monitoring.
+dg-home: false
+dg-publish: true
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/LabTest/estradiol/
+slug: estradiol
+tags:
+- LabTest
+- labtest
+title: estradiol
+type: LabTest
+updated: '2026-02-08T19:25:13.017461Z'
 ---
 
 # estradiol
@@ -33,6 +46,15 @@ General health screening.
 
 Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
 
+<!-- NEO4J_CONTENT_START -->
+## Relationships
+### Related
+- → [[estradiol]] (labtest)
+```yaml
+last_modified: '2026-01-26T06:48:12.597092'
+source: obsidian
+```
+<!-- NEO4J_CONTENT_END -->
 ## Relationships
 No relationships found.
 
