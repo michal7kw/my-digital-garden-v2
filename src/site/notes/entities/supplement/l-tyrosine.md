@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.209627Z'
+created: '2026-02-09T05:54:33.193003Z'
 description: Amino acid precursor to dopamine, norepinephrine, epinephrine, and thyroid
   hormones. Supports cognitive function under stress and thyroid health.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tyrosine
 type: supplement
-updated: '2026-02-09T05:40:22.209627Z'
+updated: '2026-02-09T05:54:33.193003Z'
 ---
 
 {% raw %}

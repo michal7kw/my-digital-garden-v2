@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.932312Z'
+created: '2026-02-09T05:54:31.986260Z'
 description: A chronic lung condition where the air sacs (alveoli) are damaged and
   enlarged, causing breathlessness. It is a main type of COPD.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Emphysema
 type: condition
-updated: '2026-02-09T05:40:20.932312Z'
+updated: '2026-02-09T05:54:31.986260Z'
 ---
 
 {% raw %}

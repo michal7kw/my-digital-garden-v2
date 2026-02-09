@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.877029Z'
+created: '2026-02-09T05:54:31.932415Z'
 description: A complete or partial break in the continuity of bone tissue, usually
   caused by trauma or underlying disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bone Fractures
 type: condition
-updated: '2026-02-09T05:40:20.877029Z'
+updated: '2026-02-09T05:54:31.932415Z'
 ---
 
 {% raw %}

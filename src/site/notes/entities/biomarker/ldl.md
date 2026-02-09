@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.669089Z'
+created: '2026-02-09T05:54:31.675755Z'
 description: Low-density lipoprotein (LDL) cholesterol carries cholesterol to tissues.
   High levels increase cardiovascular disease risk.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Ldl
 type: biomarker
-updated: '2026-02-09T05:40:20.669089Z'
+updated: '2026-02-09T05:54:31.675755Z'
 ---
 
 {% raw %}

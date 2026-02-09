@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.173622Z'
+created: '2026-02-09T05:54:32.209671Z'
 description: The original nootropic drug, a cyclic derivative of GABA. Enhances membrane
   fluidity and modulates neurotransmission. Used in Europe for cognitive disorders;
   not approved in US.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Piracetam
 type: drug
-updated: '2026-02-09T05:40:21.173622Z'
+updated: '2026-02-09T05:54:32.209671Z'
 ---
 
 {% raw %}

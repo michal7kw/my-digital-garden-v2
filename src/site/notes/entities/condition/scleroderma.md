@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.081362Z'
+created: '2026-02-09T05:54:32.120537Z'
 description: A group of rare autoimmune diseases characterized by the hardening and
   tightening of the skin and connective tissues, often affecting internal organs and
   blood vessels.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Scleroderma
 type: condition
-updated: '2026-02-09T05:40:21.081362Z'
+updated: '2026-02-09T05:54:32.120537Z'
 ---
 
 {% raw %}

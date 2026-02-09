@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.177042Z'
+created: '2026-02-09T05:54:33.155045Z'
 description: Powerful antioxidant that works in both water and fat environments. Regenerates
   other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
 dg-home: false
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha Lipoic Acid
 type: supplement
-updated: '2026-02-09T05:40:22.177042Z'
+updated: '2026-02-09T05:54:33.155045Z'
 ---
 
 {% raw %}

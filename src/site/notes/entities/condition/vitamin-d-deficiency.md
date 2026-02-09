@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.108906Z'
+created: '2026-02-09T05:54:32.146362Z'
 description: A condition characterized by inadequate levels of vitamin D in the body,
   which is essential for calcium absorption, bone health, and immune function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D Deficiency
 type: condition
-updated: '2026-02-09T05:40:21.108906Z'
+updated: '2026-02-09T05:54:32.146362Z'
 ---
 
 {% raw %}

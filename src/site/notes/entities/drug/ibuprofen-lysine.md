@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.149824Z'
+created: '2026-02-09T05:54:32.186068Z'
 description: A lysine salt of ibuprofen used for rapid pain relief and specifically
   for the closure of patent ductus arteriosus in premature infants.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen Lysine
 type: drug
-updated: '2026-02-09T05:40:21.149824Z'
+updated: '2026-02-09T05:54:32.186068Z'
 ---
 
 {% raw %}

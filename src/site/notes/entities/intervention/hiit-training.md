@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.248166Z'
+created: '2026-02-09T05:54:32.280776Z'
 description: High-Intensity Interval Training - exercise protocol alternating short
   bursts of intense anaerobic activity with recovery periods. Highly time-efficient
   method for improving cardiovascular fitness, insulin sensitivity, mitochondrial
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: HIIT Training
 type: intervention
-updated: '2026-02-09T05:40:21.248166Z'
+updated: '2026-02-09T05:54:32.280776Z'
 ---
 
 {% raw %}

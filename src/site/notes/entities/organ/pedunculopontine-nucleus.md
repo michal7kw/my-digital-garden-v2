@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.642654Z'
+created: '2026-02-09T05:54:32.637461Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Pedunculopontine Nucleus
 type: organ
-updated: '2026-02-09T05:40:21.642654Z'
+updated: '2026-02-09T05:54:32.637461Z'
 ---
 
 {% raw %}

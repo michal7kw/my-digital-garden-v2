@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.270203Z'
+created: '2026-02-09T05:54:32.301700Z'
 description: Tested twice a year Alanine aminotransferase (ALT) is an enzyme found
   in the liver that helps process nutrients and toxins. Elevated ALT levels in the
   blood can signal liver cell damage, making it a useful marker of liver health.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: alanine_transaminase_alt
 type: labtest
-updated: '2026-02-09T05:40:21.270203Z'
+updated: '2026-02-09T05:54:32.301700Z'
 ---
 
 {% raw %}

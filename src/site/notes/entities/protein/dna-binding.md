@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.094063Z'
+created: '2026-02-09T05:54:33.072525Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: DNA binding
 type: protein
-updated: '2026-02-09T05:40:22.094063Z'
+updated: '2026-02-09T05:54:33.072525Z'
 ---
 
 {% raw %}

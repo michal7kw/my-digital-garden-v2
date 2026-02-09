@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.076954Z'
+created: '2026-02-09T05:54:32.116539Z'
 description: A condition in which the heart valves have been permanently damaged by
   rheumatic fever.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Heart Disease
 type: condition
-updated: '2026-02-09T05:40:21.076954Z'
+updated: '2026-02-09T05:54:32.116539Z'
 ---
 
 {% raw %}

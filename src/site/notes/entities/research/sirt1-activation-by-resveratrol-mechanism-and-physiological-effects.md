@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.170782Z'
+created: '2026-02-09T05:54:33.148445Z'
 description: This comprehensive mechanistic review elucidates how resveratrol activates
   SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha,
   mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: 'SIRT1 activation by resveratrol: mechanism and physiological effects'
 type: research
-updated: '2026-02-09T05:40:22.170782Z'
+updated: '2026-02-09T05:54:33.148445Z'
 ---
 
 {% raw %}

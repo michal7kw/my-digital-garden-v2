@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.944845Z'
+created: '2026-02-09T05:54:32.870515Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Fever
 type: phenotype
-updated: '2026-02-09T05:40:21.944845Z'
+updated: '2026-02-09T05:54:32.870515Z'
 ---
 
 {% raw %}

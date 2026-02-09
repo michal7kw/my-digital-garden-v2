@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.080410Z'
+created: '2026-02-09T05:54:32.119667Z'
 description: An infectious bacterial illness characterized by a bright red rash, sore
   throat, and fever, caused by Group A Streptococcus.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Scarlet Fever
 type: condition
-updated: '2026-02-09T05:40:21.080410Z'
+updated: '2026-02-09T05:54:32.119667Z'
 ---
 
 {% raw %}

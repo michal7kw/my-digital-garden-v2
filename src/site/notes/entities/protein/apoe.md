@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.078123Z'
+created: '2026-02-09T05:54:33.056008Z'
 description: Lipid transport protein. The E4 isoform fails to effectively clear Amyloid
   Beta from the brain.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: ApoE
 type: protein
-updated: '2026-02-09T05:40:22.078123Z'
+updated: '2026-02-09T05:54:33.056008Z'
 ---
 
 {% raw %}

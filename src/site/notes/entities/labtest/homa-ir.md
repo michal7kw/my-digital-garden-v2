@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.373036Z'
+created: '2026-02-09T05:54:32.393541Z'
 description: Calculated from fasting glucose and insulin. Quantifies insulin resistance.
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: homa_ir
 type: labtest
-updated: '2026-02-09T05:40:21.373036Z'
+updated: '2026-02-09T05:54:32.393541Z'
 ---
 
 {% raw %}

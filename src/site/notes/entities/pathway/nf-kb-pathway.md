@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.827380Z'
+created: '2026-02-09T05:54:32.756406Z'
 description: The nuclear factor kappa B (NF-κB) pathway is a central regulator of
   inflammation, immunity, and cell survival, controlling the expression of pro-inflammatory
   cytokines, chemokines, and anti-apoptotic genes.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NF-kB Pathway
 type: pathway
-updated: '2026-02-09T05:40:21.827380Z'
+updated: '2026-02-09T05:54:32.756406Z'
 ---
 
 {% raw %}

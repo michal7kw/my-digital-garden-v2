@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.905662Z'
+created: '2026-02-09T05:54:32.831101Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal recessive inheritance
 type: phenotype
-updated: '2026-02-09T05:40:21.905662Z'
+updated: '2026-02-09T05:54:32.831101Z'
 ---
 
 {% raw %}

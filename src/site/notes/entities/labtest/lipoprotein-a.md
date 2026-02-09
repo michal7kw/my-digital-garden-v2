@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.412319Z'
+created: '2026-02-09T05:54:32.429836Z'
 description: Measures Lp(a), a genetically determined cardiovascular risk factor.
   Testing once in lifetime recommended.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: lipoprotein_a
 type: labtest
-updated: '2026-02-09T05:40:21.412319Z'
+updated: '2026-02-09T05:54:32.429836Z'
 ---
 
 {% raw %}

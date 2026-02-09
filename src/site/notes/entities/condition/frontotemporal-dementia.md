@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.936956Z'
+created: '2026-02-09T05:54:31.990606Z'
 description: A group of neurodegenerative disorders characterized by progressive degeneration
   of the frontal and temporal lobes. Causes changes in personality, behavior, and
   language, typically with earlier onset than Alzheimer's disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Frontotemporal Dementia
 type: condition
-updated: '2026-02-09T05:40:20.936956Z'
+updated: '2026-02-09T05:54:31.990606Z'
 ---
 
 {% raw %}

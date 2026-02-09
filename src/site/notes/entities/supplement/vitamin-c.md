@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.253049Z'
+created: '2026-02-09T05:54:33.240464Z'
 description: Essential water-soluble vitamin and powerful antioxidant. Supports immune
   function, collagen synthesis, iron absorption, and stress response. Humans cannot
   synthesize it and must obtain it from diet or supplements.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin C
 type: supplement
-updated: '2026-02-09T05:40:22.253049Z'
+updated: '2026-02-09T05:54:33.240464Z'
 ---
 
 {% raw %}

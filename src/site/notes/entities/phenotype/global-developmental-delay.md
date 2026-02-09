@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.952124Z'
+created: '2026-02-09T05:54:32.925613Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Global developmental delay
 type: phenotype
-updated: '2026-02-09T05:40:21.952124Z'
+updated: '2026-02-09T05:54:32.925613Z'
 ---
 
 {% raw %}

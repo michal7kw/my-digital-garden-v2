@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.723671Z'
+created: '2026-02-09T05:54:32.657742Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Prefrontal Cortex
 type: organ
-updated: '2026-02-09T05:40:21.723671Z'
+updated: '2026-02-09T05:54:32.657742Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.402516Z'
+created: '2026-02-09T05:54:32.420576Z'
 description: Lead is a heavy metal commonly found in contaminated water and soil,
   older houses, and some occupational settings. Lead exposure can impact nearly every
   organ, but it most strongly affects the nervous system, blood, bone marrow, kidneys,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: lead
 type: labtest
-updated: '2026-02-09T05:40:21.402516Z'
+updated: '2026-02-09T05:54:32.420576Z'
 ---
 
 {% raw %}

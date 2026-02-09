@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.251842Z'
+created: '2026-02-09T05:54:32.284231Z'
 description: A dietary pattern emphasizing fruits, vegetables, whole grains, legumes,
   nuts, olive oil, and fish. Associated with reduced risk of cardiovascular disease,
   cognitive decline, and dementia.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mediterranean Diet
 type: intervention
-updated: '2026-02-09T05:40:21.251842Z'
+updated: '2026-02-09T05:54:32.284231Z'
 ---
 
 {% raw %}

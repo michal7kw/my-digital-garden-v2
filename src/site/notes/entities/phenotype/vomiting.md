@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.059794Z'
+created: '2026-02-09T05:54:33.037456Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Vomiting
 type: phenotype
-updated: '2026-02-09T05:40:22.059794Z'
+updated: '2026-02-09T05:54:33.037456Z'
 ---
 
 {% raw %}

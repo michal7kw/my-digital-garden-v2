@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.166017Z'
+created: '2026-02-09T05:54:32.201199Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: PRAZOSIN
 type: drug
-updated: '2026-02-09T05:40:21.166017Z'
+updated: '2026-02-09T05:54:32.201199Z'
 ---
 
 {% raw %}

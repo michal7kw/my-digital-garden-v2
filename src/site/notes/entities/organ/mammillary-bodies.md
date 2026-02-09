@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.626878Z'
+created: '2026-02-09T05:54:32.623642Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mammillary Bodies
 type: organ
-updated: '2026-02-09T05:40:21.626878Z'
+updated: '2026-02-09T05:54:32.623642Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.670805Z'
+created: '2026-02-09T05:54:31.677324Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-02-09T05:40:20.670805Z'
+updated: '2026-02-09T05:54:31.677324Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.131322Z'
+created: '2026-02-09T05:54:32.167651Z'
 description: First-generation typical antipsychotic used for schizophrenia, manic
   episodes, and nausea. Acts primarily as a dopamine D2 receptor antagonist.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Chlorpromazine
 type: drug
-updated: '2026-02-09T05:40:21.131322Z'
+updated: '2026-02-09T05:54:32.167651Z'
 ---
 
 {% raw %}

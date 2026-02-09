@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.172282Z'
+created: '2026-02-09T05:54:32.208117Z'
 description: The potassium salt form of Penicillin V, designed for oral administration
   to treat mild to moderate bacterial infections.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Potassium
 type: drug
-updated: '2026-02-09T05:40:21.172282Z'
+updated: '2026-02-09T05:54:32.208117Z'
 ---
 
 {% raw %}

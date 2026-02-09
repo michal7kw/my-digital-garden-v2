@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.705661Z'
+created: '2026-02-09T05:54:31.707014Z'
 description: Hyperphosphorylated tau protein measured in CSF or blood, indicating
   tau pathology and neurofibrillary tangle formation. A core biomarker for Alzheimer's
   disease diagnosis within the ATN framework.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Phospho-Tau
 type: biomarker
-updated: '2026-02-09T05:40:20.705661Z'
+updated: '2026-02-09T05:54:31.707014Z'
 ---
 
 {% raw %}

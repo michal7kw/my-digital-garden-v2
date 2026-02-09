@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.413153Z'
+created: '2026-02-09T05:54:32.430611Z'
 description: 'Comprehensive liver assessment: ALT, AST, ALP, GGT, bilirubin, albumin,
   and total protein.'
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: liver_function_panel
 type: labtest
-updated: '2026-02-09T05:40:21.413153Z'
+updated: '2026-02-09T05:54:32.430611Z'
 ---
 
 {% raw %}

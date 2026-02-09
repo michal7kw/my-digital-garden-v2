@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.056834Z'
+created: '2026-02-09T05:54:32.098274Z'
 description: A group of conditions resulting from the dysfunction of the pituitary
   gland, the body's "master gland," typically caused by tumors or inflammation.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pituitary Disorder
 type: condition
-updated: '2026-02-09T05:40:21.056834Z'
+updated: '2026-02-09T05:54:32.098274Z'
 ---
 
 {% raw %}

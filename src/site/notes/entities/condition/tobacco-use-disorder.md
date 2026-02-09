@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.098877Z'
+created: '2026-02-09T05:54:32.137574Z'
 description: A problematic pattern of tobacco use leading to clinically significant
   impairment or distress, characterized by nicotine dependence.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tobacco Use Disorder
 type: condition
-updated: '2026-02-09T05:40:21.098877Z'
+updated: '2026-02-09T05:54:32.137574Z'
 ---
 
 {% raw %}

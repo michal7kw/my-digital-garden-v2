@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.790119Z'
+created: '2026-02-09T05:54:31.779046Z'
 description: Impaired kidney function indicated by elevated creatinine, BUN, and reduced
   eGFR. Early detection enables intervention to slow progression.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stress Pattern
 type: clinicalpattern
-updated: '2026-02-09T05:40:20.790119Z'
+updated: '2026-02-09T05:54:31.779046Z'
 ---
 
 {% raw %}

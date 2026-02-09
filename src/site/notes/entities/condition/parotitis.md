@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.049593Z'
+created: '2026-02-09T05:54:32.091618Z'
 description: Inflammation of one or both parotid glands, the major salivary glands
   located on either side of the face.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Parotitis
 type: condition
-updated: '2026-02-09T05:40:21.049593Z'
+updated: '2026-02-09T05:54:32.091618Z'
 ---
 
 {% raw %}

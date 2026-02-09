@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.583522Z'
+created: '2026-02-09T05:54:31.587298Z'
 description: The most abundant protein in the blood, produced by the liver. Maintains
   fluid balance and transports nutrients, hormones, and drugs through the bloodstream.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Albumin
 type: biomarker
-updated: '2026-02-09T05:40:20.583522Z'
+updated: '2026-02-09T05:54:31.587298Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.383288Z'
+created: '2026-02-09T05:54:32.402933Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: iron_panel
 type: labtest
-updated: '2026-02-09T05:40:21.383288Z'
+updated: '2026-02-09T05:54:32.402933Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.306055Z'
+created: '2026-02-09T05:54:32.332499Z'
 description: B-type Natriuretic Peptide (BNP) test. Neurohormonal biomarker released
   by ventricular cardiomyocytes in response to myocardial wall stress. Used for heart
   failure screening, diagnosis, and monitoring of treatment response.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: bnp
 type: labtest
-updated: '2026-02-09T05:40:21.306055Z'
+updated: '2026-02-09T05:54:32.332499Z'
 ---
 
 {% raw %}

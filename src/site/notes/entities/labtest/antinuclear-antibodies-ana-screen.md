@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.285061Z'
+created: '2026-02-09T05:54:32.314569Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (ANA)
   screen looks for antibodies that sometimes target the body’s own cells. A positive
   result may suggest autoimmune activity, but it is also found in many healthy people.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_screen
 type: labtest
-updated: '2026-02-09T05:40:21.285061Z'
+updated: '2026-02-09T05:54:32.314569Z'
 ---
 
 {% raw %}

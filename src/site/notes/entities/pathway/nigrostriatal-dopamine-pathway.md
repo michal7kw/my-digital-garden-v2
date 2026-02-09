@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.832895Z'
+created: '2026-02-09T05:54:32.761505Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-02-09T05:40:21.832895Z'
+updated: '2026-02-09T05:54:32.761505Z'
 ---
 
 {% raw %}

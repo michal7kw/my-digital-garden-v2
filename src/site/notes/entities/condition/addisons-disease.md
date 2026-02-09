@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.848567Z'
+created: '2026-02-09T05:54:31.901804Z'
 description: A rare, chronic disorder where the adrenal glands do not produce enough
   cortisol and often insufficient aldosterone, usually due to autoimmune damage.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Addisons Disease
 type: condition
-updated: '2026-02-09T05:40:20.848567Z'
+updated: '2026-02-09T05:54:31.901804Z'
 ---
 
 {% raw %}

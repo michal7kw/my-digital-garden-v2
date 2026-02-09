@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.267333Z'
+created: '2026-02-09T05:54:32.299051Z'
 description: NMR spectroscopy-based panel providing LDL particle number, size, HDL
   particles, and lipoprotein(a). Superior cardiovascular risk stratification.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: advanced_lipid_panel
 type: labtest
-updated: '2026-02-09T05:40:21.267333Z'
+updated: '2026-02-09T05:54:32.299051Z'
 ---
 
 {% raw %}

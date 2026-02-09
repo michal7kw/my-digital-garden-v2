@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.018188Z'
+created: '2026-02-09T05:54:32.993534Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Respiratory distress
 type: phenotype
-updated: '2026-02-09T05:40:22.018188Z'
+updated: '2026-02-09T05:54:32.993534Z'
 ---
 
 {% raw %}

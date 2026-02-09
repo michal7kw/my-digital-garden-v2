@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.223070Z'
+created: '2026-02-09T05:54:32.256607Z'
 description: Encodes the Epidermal Growth Factor Receptor. Mutations and amplification
   of this gene are common in many cancers.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR
 type: gene
-updated: '2026-02-09T05:40:21.223070Z'
+updated: '2026-02-09T05:54:32.256607Z'
 ---
 
 {% raw %}

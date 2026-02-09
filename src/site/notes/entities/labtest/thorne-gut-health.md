@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.493838Z'
+created: '2026-02-09T05:54:32.504120Z'
 description: At-home gut microbiome test analyzing bacterial diversity and digestive
   function markers.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: thorne_gut_health
 type: labtest
-updated: '2026-02-09T05:40:21.493838Z'
+updated: '2026-02-09T05:54:32.504120Z'
 ---
 
 {% raw %}

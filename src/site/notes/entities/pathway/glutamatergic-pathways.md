@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.801861Z'
+created: '2026-02-09T05:54:32.732019Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamatergic Pathways
 type: pathway
-updated: '2026-02-09T05:40:21.801861Z'
+updated: '2026-02-09T05:54:32.732019Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.995027Z'
+created: '2026-02-09T05:54:32.037587Z'
 description: A broad range of conditions that damage the liver and impair its essential
   functions, including detoxification, metabolism, and bile production.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Liver Disease
 type: condition
-updated: '2026-02-09T05:40:20.995027Z'
+updated: '2026-02-09T05:54:32.037587Z'
 ---
 
 {% raw %}

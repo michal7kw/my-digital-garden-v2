@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.171268Z'
+created: '2026-02-09T05:54:32.206971Z'
 description: A sodium salt of Penicillin O (Almecillin), used as an antimicrobial
   agent.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin O Sodium
 type: drug
-updated: '2026-02-09T05:40:21.171268Z'
+updated: '2026-02-09T05:54:32.206971Z'
 ---
 
 {% raw %}

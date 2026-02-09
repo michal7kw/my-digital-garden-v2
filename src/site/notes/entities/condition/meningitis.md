@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.003740Z'
+created: '2026-02-09T05:54:32.045938Z'
 description: Inflammation of the protective membranes (meninges) covering the brain
   and spinal cord, typically caused by an infection.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Meningitis
 type: condition
-updated: '2026-02-09T05:40:21.003740Z'
+updated: '2026-02-09T05:54:32.045938Z'
 ---
 
 {% raw %}

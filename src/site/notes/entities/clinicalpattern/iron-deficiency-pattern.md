@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.789171Z'
+created: '2026-02-09T05:54:31.778047Z'
 description: Iron deficiency indicated by low ferritin, elevated TIBC, and low transferrin
   saturation. Most common nutritional deficiency worldwide.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency Pattern
 type: clinicalpattern
-updated: '2026-02-09T05:40:20.789171Z'
+updated: '2026-02-09T05:54:31.778047Z'
 ---
 
 {% raw %}

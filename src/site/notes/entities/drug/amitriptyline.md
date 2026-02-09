@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.117491Z'
+created: '2026-02-09T05:54:32.154107Z'
 description: Tricyclic antidepressant (TCA) that inhibits the reuptake of serotonin
   and norepinephrine. Widely used for depression, neuropathic pain, and migraine prophylaxis.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Amitriptyline
 type: drug
-updated: '2026-02-09T05:40:21.117491Z'
+updated: '2026-02-09T05:54:32.154107Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.052150Z'
+created: '2026-02-09T05:54:32.093979Z'
 description: A sore that develops on the lining of the esophagus, stomach, or small
   intestine.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Peptic Ulcer
 type: condition
-updated: '2026-02-09T05:40:21.052150Z'
+updated: '2026-02-09T05:54:32.093979Z'
 ---
 
 {% raw %}

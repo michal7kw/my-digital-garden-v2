@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.809535Z'
+created: '2026-02-09T05:54:32.739376Z'
 description: The insulin signaling pathway mediates the metabolic effects of insulin,
   promoting glucose uptake, glycogen synthesis, lipogenesis, and protein synthesis
   while inhibiting gluconeogenesis and lipolysis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Signaling
 type: pathway
-updated: '2026-02-09T05:40:21.809535Z'
+updated: '2026-02-09T05:54:32.739376Z'
 ---
 
 {% raw %}

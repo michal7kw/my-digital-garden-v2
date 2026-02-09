@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.418205Z'
+created: '2026-02-09T05:54:32.435429Z'
 description: Intracellular magnesium. More accurate than serum for assessing true
   magnesium status.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: magnesium_rbc
 type: labtest
-updated: '2026-02-09T05:40:21.418205Z'
+updated: '2026-02-09T05:54:32.435429Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:21.637384Z'
+created: '2026-02-09T05:54:32.632716Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Orbitofrontal Cortex
 type: organ
-updated: '2026-02-09T05:40:21.637384Z'
+updated: '2026-02-09T05:54:32.632716Z'
 ---
 
 {% raw %}

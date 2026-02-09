@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.727446Z'
+created: '2026-02-09T05:54:31.725453Z'
 description: Secretory Immunoglobulin A is the predominant antibody in mucosal secretions,
   forming the first line of immune defense in the gut, respiratory tract, and other
   mucosal surfaces. It prevents pathogen adherence and neutralizes toxins without
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Secretory IgA
 type: biomarker
-updated: '2026-02-09T05:40:20.727446Z'
+updated: '2026-02-09T05:54:31.725453Z'
 ---
 
 {% raw %}

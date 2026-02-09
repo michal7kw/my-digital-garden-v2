@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:22.074045Z'
+created: '2026-02-09T05:54:33.051758Z'
 description: The molecular turbine that synthesizes ATP from ADP and phosphate using
   the proton gradient across the inner mitochondrial membrane. Also known as Complex
   V of the electron transport chain, it is one of nature's most remarkable molecular
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: ATP Synthase
 type: protein
-updated: '2026-02-09T05:40:22.074045Z'
+updated: '2026-02-09T05:54:33.051758Z'
 ---
 
 {% raw %}

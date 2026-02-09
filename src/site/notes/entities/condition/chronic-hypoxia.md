@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:40:20.892206Z'
+created: '2026-02-09T05:54:31.946760Z'
 description: A sustained condition where the body's tissues are deprived of adequate
   oxygen, usually due to underlying lung or heart disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Hypoxia
 type: condition
-updated: '2026-02-09T05:40:20.892206Z'
+updated: '2026-02-09T05:54:31.946760Z'
 ---
 
 {% raw %}
