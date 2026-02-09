@@ -325,6 +325,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addTransform("dataview-js-links", function (str) {
+    if (!str || !str.includes('data-href')) return str;
     const parsed = parse(str);
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
       const notePath = dataViewJsLink.getAttribute("data-href");
@@ -340,6 +341,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addTransform("callout-block", function (str) {
+    if (!str || !str.includes('[!')) return str;
     const parsed = parse(str);
 
     const transformCalloutBlocks = (
@@ -445,6 +447,7 @@ module.exports = function (eleventyConfig) {
 
 
   eleventyConfig.addTransform("picture", function (str) {
+    if (!str || !str.includes('<img')) return str;
     if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
       return str;
     }
@@ -476,6 +479,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addTransform("table", function (str) {
+    if (!str || !str.includes('<table')) return str;
     const parsed = parse(str);
     for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
       let inner = t.innerHTML;
