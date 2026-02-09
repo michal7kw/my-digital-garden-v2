@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.061513Z'
+created: '2026-02-09T08:04:40.259759Z'
 description: A state of impaired mitochondrial function characterized by reduced ATP
   production, increased oxidative stress, and defective mitophagy.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Dysfunction
 type: condition
-updated: '2026-02-09T05:54:32.061513Z'
+updated: '2026-02-09T08:04:40.259759Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mitochondrial_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a> (condition)</li>
 </ul>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
@@ -84,13 +84,13 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mitochondrial_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.561865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondrial_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.561865'
 source: obsidian

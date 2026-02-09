@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.233947Z'
+created: '2026-02-09T08:04:41.622331Z'
 description: Potent Nrf2 activator derived from cruciferous vegetables, especially
   broccoli sprouts. Powerful inducer of phase II detoxification enzymes and antioxidant
   defenses.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Sulforaphane
 type: supplement
-updated: '2026-02-09T05:54:33.233947Z'
+updated: '2026-02-09T08:04:41.622331Z'
 ---
 
 {% raw %}
@@ -29,13 +29,13 @@ updated: '2026-02-09T05:54:33.233947Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[NRF2]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:54.639321'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NRF2]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
 source: obsidian

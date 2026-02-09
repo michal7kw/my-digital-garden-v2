@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.667278Z'
+created: '2026-02-09T08:04:39.914404Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Fasting
 type: biomarker
-updated: '2026-02-09T05:54:31.667278Z'
+updated: '2026-02-09T08:04:39.914404Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.667278Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Insulin_Fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.959492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Fasting]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.959492'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Insulin_Fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:21.246457'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Fasting]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:21.246457'
 source: obsidian

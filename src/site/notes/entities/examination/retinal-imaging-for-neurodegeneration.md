@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.244283Z'
+created: '2026-02-09T08:04:40.459307Z'
 description: Non-invasive imaging of the retina as a window to the brain. OCT and
   specialized techniques can detect Alzheimer's, Parkinson's, and MS-related changes
   years before symptoms.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Retinal Imaging for Neurodegeneration
 type: examination
-updated: '2026-02-09T05:54:32.244283Z'
+updated: '2026-02-09T08:04:40.459307Z'
 ---
 
 {% raw %}
@@ -222,27 +222,27 @@ updated: '2026-02-09T05:54:32.244283Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>RNFL thinning, vascular changes</em></li>
-<li>→ [[Parkinson's Disease]] (condition) - <em>RNFL and foveal changes</em></li>
-<li>→ [[Multiple Sclerosis]] (condition) - <em>Established use for monitoring</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Retinal vascular changes</em></li>
-<li>→ [[Glaucoma]] (condition) - <em>RNFL monitoring (confounder)</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>RNFL thinning, vascular changes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>RNFL and foveal changes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Established use for monitoring</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Retinal vascular changes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/glaucoma/" class="internal-link">Glaucoma</a> (condition) - <em>RNFL monitoring (confounder)</em></li>
 </ul>
 <h3>Brain Regions (Correlations)</h3>
 <ul>
-<li>→ [[Hippocampus]] (organ) - <em>RNFL correlates with volume</em></li>
-<li>→ [[Visual Cortex]] (organ) - <em>Retrograde degeneration</em></li>
-<li>→ [[Optic Nerve]] (organ) - <em>Direct connection</em></li>
+<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>RNFL correlates with volume</em></li>
+<li>→ <a href="/garden/dev_admin/organ/visual-cortex/" class="internal-link">Visual Cortex</a> (organ) - <em>Retrograde degeneration</em></li>
+<li>→ <a href="/garden/dev_admin/organ/optic-nerve/" class="internal-link">Optic Nerve</a> (organ) - <em>Direct connection</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[Plasma p-tau217]] (biomarker) - <em>Complementary blood marker</em></li>
-<li>→ [[Blood NfL]] (biomarker) - <em>Neurodegeneration correlation</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a> (biomarker) - <em>Complementary blood marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood NfL</a> (biomarker) - <em>Neurodegeneration correlation</em></li>
 </ul>
 <h3>Related Imaging</h3>
 <ul>
-<li>← [[MRI Volumetry]] (examination) - <em>Brain structural correlate</em></li>
-<li>← [[Amyloid PET Imaging]] (examination) - <em>Gold standard for amyloid</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Brain structural correlate</em></li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Gold standard for amyloid</em></li>
 </ul>
 <h2>Clinical Utility Today</h2>
 <h3>Where It's Used Clinically</h3>

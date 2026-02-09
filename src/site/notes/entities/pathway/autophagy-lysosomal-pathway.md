@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.703557Z'
+created: '2026-02-09T08:04:40.981732Z'
 description: The cellular degradation and recycling system that removes damaged organelles
   and protein aggregates. Dysfunction contributes to accumulation of toxic proteins
   in neurodegenerative diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy-Lysosomal Pathway
 type: pathway
-updated: '2026-02-09T05:54:32.703557Z'
+updated: '2026-02-09T08:04:40.981732Z'
 ---
 
 {% raw %}
@@ -133,181 +133,181 @@ updated: '2026-02-09T05:54:32.703557Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Parkinsons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ubiquitin-Proteasome_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Ubiquitin-Proteasome_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Intermittent_Fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mTOR_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">mTOR_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Phosphorylation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Caloric_Restriction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric_Restriction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Phosphorylation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[AMPK]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mTOR_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">mTOR_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ubiquitin-Proteasome_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Ubiquitin-Proteasome_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitophagy]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rapamycin]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/rapamycin/" class="internal-link">Rapamycin</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Spermidine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Caloric_Restriction]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric_Restriction</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Intermittent_Fasting]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
@@ -316,32 +316,32 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Neurodegenerative Diseases</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Lysosomal dysfunction</em></li>
-<li>→ [[Parkinson's Disease]] (condition) - <em>Mitophagy defects</em></li>
-<li>→ [[Huntington's Disease]] (condition) - <em>Cargo recognition impaired</em></li>
-<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Autophagy gene mutations</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>C9orf72, GRN involvement</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Lysosomal dysfunction</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Mitophagy defects</em></li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Cargo recognition impaired</em></li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>Autophagy gene mutations</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>C9orf72, GRN involvement</em></li>
 </ul>
 <h3>Related Pathways</h3>
 <ul>
-<li>→ [[Mitophagy]] (pathway) - <em>Selective mitochondria autophagy</em></li>
-<li>→ [[Ubiquitin-Proteasome System]] (pathway) - <em>Complementary degradation</em></li>
-<li>→ [[mTOR Signaling]] (pathway) - <em>Master regulator</em></li>
-<li>← [[AMPK]] (protein) - <em>Autophagy activator</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway) - <em>Selective mitochondria autophagy</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/ubiquitin-proteasome-system/" class="internal-link">Ubiquitin-Proteasome System</a> (pathway) - <em>Complementary degradation</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/mtor-signaling/" class="internal-link">mTOR Signaling</a> (pathway) - <em>Master regulator</em></li>
+<li>← <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein) - <em>Autophagy activator</em></li>
 </ul>
 <h3>Pathological Cargo</h3>
 <ul>
-<li>← [[Alpha-Synuclein Aggregation]] (pathway) - <em>Cleared by autophagy</em></li>
-<li>← [[Tau Phosphorylation]] (pathway) - <em>Tau degraded by autophagy/CMA</em></li>
-<li>← [[Amyloid Cascade]] (pathway) - <em>Aβ cleared by autophagy</em></li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Cleared by autophagy</em></li>
+<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>Tau degraded by autophagy/CMA</em></li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Aβ cleared by autophagy</em></li>
 </ul>
 <h3>Interventions</h3>
 <ul>
-<li>← [[Caloric Restriction]] (intervention) - <em>Potent autophagy inducer</em></li>
-<li>← [[Exercise]] (intervention) - <em>Activates AMPK, autophagy</em></li>
-<li>← [[Rapamycin]] (drug) - <em>mTOR inhibitor; autophagy inducer</em></li>
-<li>← [[Spermidine]] (supplement) - <em>Autophagy enhancer</em></li>
-<li>← [[Intermittent Fasting]] (intervention) - <em>Autophagy activation</em></li>
+<li>← <a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> (intervention) - <em>Potent autophagy inducer</em></li>
+<li>← <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>Activates AMPK, autophagy</em></li>
+<li>← <a href="/garden/dev_admin/drug/rapamycin/" class="internal-link">Rapamycin</a> (drug) - <em>mTOR inhibitor; autophagy inducer</em></li>
+<li>← <a href="/garden/dev_admin/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement) - <em>Autophagy enhancer</em></li>
+<li>← <a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (intervention) - <em>Autophagy activation</em></li>
 </ul>
 <h2>Therapeutic Strategies</h2>
 <h3>Autophagy Inducers</h3>

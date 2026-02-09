@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.407649Z'
+created: '2026-02-09T08:04:40.644754Z'
 description: Tested twice a year Ketones are energy molecules the body makes when
   it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged
   exercise. This can be a normal response, but high levels of ketones in urine (ketonuria)
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ketones_urine
 type: labtest
-updated: '2026-02-09T05:54:32.407649Z'
+updated: '2026-02-09T08:04:40.644754Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.407649Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Type 1 Or Type 2 Diabetes]]</li>
-<li>[[Prediabetes]]</li>
-<li>[[Low-Carbohydrate Diet State (Ketosis)]]</li>
-<li>[[Prolonged Fasting]]</li>
-<li>[[Dehydration]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Type 1 Or Type 2 Diabetes</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Prediabetes</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Low-Carbohydrate Diet State (Ketosis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Prolonged Fasting</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,49 +71,49 @@ updated: '2026-02-09T05:54:32.407649Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Prolonged_Fasting]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Prolonged_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.811809'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_1_Or_Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_1_Or_Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.811809'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Low-Carbohydrate_Diet_State_Ketosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Low-Carbohydrate_Diet_State_Ketosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.811809'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_1_Or_Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_1_Or_Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prediabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Prediabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prolonged_Fasting]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Prolonged_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Low-Carbohydrate_Diet_State_Ketosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Low-Carbohydrate_Diet_State_Ketosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian

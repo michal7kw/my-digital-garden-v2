@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.663302Z'
+created: '2026-02-09T08:04:39.910224Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Homocysteine
 type: biomarker
-updated: '2026-02-09T05:54:31.663302Z'
+updated: '2026-02-09T08:04:39.910224Z'
 ---
 
 {% raw %}
@@ -33,99 +33,99 @@ updated: '2026-02-09T05:54:31.663302Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.188711'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.188711'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mediterranean_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vascular_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Folate]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Folate]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.831836'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Folate]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.975406'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
@@ -143,7 +143,7 @@ study_references:
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Blood]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: medium
 function_indicated: Vascular Health / Methylation
@@ -158,75 +158,75 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>← [[Folate]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:03.149967'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:18.846152'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Folate]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Folate]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4

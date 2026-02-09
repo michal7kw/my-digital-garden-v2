@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.045108Z'
+created: '2026-02-09T08:04:40.238575Z'
 description: A group of conditions that impair the ability to store, retain, and recall
   information, often resulting from neurological damage or degeneration.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Memory Disorders
 type: condition
-updated: '2026-02-09T05:54:32.045108Z'
+updated: '2026-02-09T08:04:40.238575Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.045108Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Memory_Disorders]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/memory-disorders/" class="internal-link">Memory_Disorders</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.875671'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Memory_Disorders]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/memory-disorders/" class="internal-link">Memory_Disorders</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:45.996121'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Alzheimers Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Vascular Dementia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Traumatic Brain Injury]]<br />
-ASSOCIATED_WITH_CONDITION::[[Wernicke-Korsakoff Syndrome]] - Alcohol-related.<br />
-CAUSED_BY::[[Stroke]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-AFFECTS_ORGAN::[[Hippocampus]]<br />
-IMPROVED_BY_INTERVENTION::[[Cognitive Rehabilitation]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Traumatic Brain Injury</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Wernicke-Korsakoff Syndrome</a> - Alcohol-related.<br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Rehabilitation</a></p>
 <h2>References</h2>
 <ul>
 <li>Budson, A. E., &amp; Solomon, P. R. (2016). Memory Loss, Alzheimer's Disease, and Dementia.</li>

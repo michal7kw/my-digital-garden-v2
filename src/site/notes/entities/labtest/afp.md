@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.300477Z'
+created: '2026-02-09T08:04:40.521462Z'
 description: Alpha-Fetoprotein (AFP) test. Tumor marker used for hepatocellular carcinoma
   surveillance in high-risk patients and monitoring of testicular germ cell tumors.
   Also used in prenatal screening for neural tube defects.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: afp
 type: labtest
-updated: '2026-02-09T05:54:32.300477Z'
+updated: '2026-02-09T08:04:40.521462Z'
 ---
 
 {% raw %}
@@ -103,20 +103,20 @@ updated: '2026-02-09T05:54:32.300477Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Hepatocellular Carcinoma]]</li>
-<li>[[Testicular Cancer]]</li>
-<li>[[Cirrhosis]]</li>
-<li>[[Chronic Hepatitis B]]</li>
-<li>[[Chronic Hepatitis C]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Hepatocellular Carcinoma</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Testicular Cancer</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cirrhosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Hepatitis B</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Hepatitis C</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[AFP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/afp/" class="internal-link">AFP</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cancer screening panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/cancer-screening-panel/" class="internal-link">cancer screening panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

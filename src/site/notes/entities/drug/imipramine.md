@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.188430Z'
+created: '2026-02-09T08:04:40.397370Z'
 description: The first tricyclic antidepressant (TCA) developed. Used for depression
   and nocturnal enuresis (bedwetting) in children.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Imipramine
 type: drug
-updated: '2026-02-09T05:54:32.188430Z'
+updated: '2026-02-09T08:04:40.397370Z'
 ---
 
 {% raw %}
@@ -36,212 +36,212 @@ updated: '2026-02-09T05:54:32.188430Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Haloperidol]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/haloperidol/" class="internal-link">Haloperidol</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Serotonin]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Norepinephrine]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Acetylcholine]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Depression]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Piracetam]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/piracetam/" class="internal-link">Piracetam</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.176232'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omeprazole]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/omeprazole/" class="internal-link">Omeprazole</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.821128'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Memantine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/memantine/" class="internal-link">Memantine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.667638'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omeprazole]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/omeprazole/" class="internal-link">Omeprazole</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plantago_ovata_seed]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Plantago_ovata_seed</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Panic_Disorder]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Panic_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyl_Nitrite]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyl_Nitrite</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Technetium_Tc-99m_mebrofenin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Technetium_Tc-99m_mebrofenin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Enuresis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Enuresis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SERT]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SERT</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NET]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NET</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Panic_Disorder]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Panic_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acetylcholine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Haloperidol]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/haloperidol/" class="internal-link">Haloperidol</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Memantine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/memantine/" class="internal-link">Memantine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Piracetam]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/piracetam/" class="internal-link">Piracetam</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <h3>Interactswith</h3>
 <ul>
-<li>← [[Haloperidol]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/haloperidol/" class="internal-link">Haloperidol</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.989000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Piracetam]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/piracetam/" class="internal-link">Piracetam</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.956000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Amyl_Nitrite]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Amyl_Nitrite</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.016000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Memantine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/memantine/" class="internal-link">Memantine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.022000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Technetium_Tc-99m_mebrofenin]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Technetium_Tc-99m_mebrofenin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.033000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Plantago_ovata_seed]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Plantago_ovata_seed</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.164000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Omeprazole]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/omeprazole/" class="internal-link">Omeprazole</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.212000+00:00'
 source: PrimeKG
@@ -250,22 +250,22 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter) - <em>Strong Reuptake Inhibition</em></li>
-<li>→ [[Serotonin]] (neurotransmitter) - <em>Reuptake Inhibition</em></li>
-<li>→ [[Acetylcholine]] (neurotransmitter) - <em>Antagonism (Anticholinergic)</em></li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter) - <em>Strong Reuptake Inhibition</em></li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter) - <em>Reuptake Inhibition</em></li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (neurotransmitter) - <em>Antagonism (Anticholinergic)</em></li>
 </ul>
 <h3>Modulates Protein</h3>
 <ul>
-<li>⊣ [[NET]] (protein) - <em>Primary Target</em></li>
-<li>⊣ [[SERT]] (protein) - <em>Secondary Target</em></li>
-<li>⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - <em>Antagonist (Dry mouth, constipation)</em></li>
-<li>⊣ [[Histamine H1 Receptor]] (protein) - <em>Antagonist (Sedation)</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/net/" class="internal-link">NET</a> (protein) - <em>Primary Target</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/sert/" class="internal-link">SERT</a> (protein) - <em>Secondary Target</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/muscarinic-acetylcholine-receptor/" class="internal-link">Muscarinic Acetylcholine Receptor</a> (protein) - <em>Antagonist (Dry mouth, constipation)</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/histamine-h1-receptor/" class="internal-link">Histamine H1 Receptor</a> (protein) - <em>Antagonist (Sedation)</em></li>
 </ul>
 <h3>Treats Condition</h3>
 <ul>
-<li>→ [[Depression]] (condition)</li>
-<li>→ [[Enuresis]] (condition)</li>
-<li>→ [[Panic Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/enuresis/" class="internal-link">Enuresis</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/panic-disorder/" class="internal-link">Panic Disorder</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

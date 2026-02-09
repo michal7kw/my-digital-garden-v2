@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.328950Z'
+created: '2026-02-09T08:04:40.554193Z'
 description: Tested twice a year Bilirubin is a natural substance produced when the
   body breaks down old red blood cells. Under healthy conditions, the liver processes
   bilirubin, and it is not usually present in urine. When bilirubin does appear in
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: bilirubin_urine
 type: labtest
-updated: '2026-02-09T05:54:32.328950Z'
+updated: '2026-02-09T08:04:40.554193Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.328950Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Liver Dysfunction]]</li>
-<li>[[Gallbladder Disease]]</li>
-<li>[[Bile Duct Obstruction]]</li>
-<li>[[Hepatitis]]</li>
-<li>[[Drug-Induced Liver Injury]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
+<li><a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bile Duct Obstruction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hepatitis</a></li>
+<li><a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,81 +71,81 @@ updated: '2026-02-09T05:54:32.328950Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bile_Duct_Obstruction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Obstruction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.509596'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.509596'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gallbladder_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.509596'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.509596'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bile_Duct_Obstruction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Obstruction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hepatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hepatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gallbladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Gallbladder_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Gallbladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

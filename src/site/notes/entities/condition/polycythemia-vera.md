@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.101547Z'
+created: '2026-02-09T08:04:40.299619Z'
 description: A slow-growing blood cancer in which the bone marrow makes too many red
   blood cells, causing the blood to thicken and increasing the risk of clots.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Polycythemia Vera
 type: condition
-updated: '2026-02-09T05:54:32.101547Z'
+updated: '2026-02-09T08:04:40.299619Z'
 ---
 
 {% raw %}
@@ -38,21 +38,21 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -60,25 +60,25 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:35.956480'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hematocrit]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:35.956480'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:35.956480'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:35.956480'
 source: obsidian
@@ -99,70 +99,70 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Polycythemia_Vera]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hematocrit]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

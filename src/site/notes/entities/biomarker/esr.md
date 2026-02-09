@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.635662Z'
+created: '2026-02-09T08:04:39.883230Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Esr
 type: biomarker
-updated: '2026-02-09T05:54:31.635662Z'
+updated: '2026-02-09T08:04:39.883230Z'
 ---
 
 {% raw %}
@@ -30,14 +30,14 @@ updated: '2026-02-09T05:54:31.635662Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Esr]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/esr/" class="internal-link">Esr</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.923706'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Immune System]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune System</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: very_low
 function_indicated: Systemic Inflammation

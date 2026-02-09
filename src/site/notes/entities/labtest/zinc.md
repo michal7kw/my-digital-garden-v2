@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.542304Z'
+created: '2026-02-09T08:04:40.799500Z'
 description: Zinc is an essential mineral that plays a key role in immune strength,
   wound healing, metabolism, and hormone balance. Testing zinc levels shows whether
   the body has enough to support these functions. Low levels can be linked to issues
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: zinc
 type: labtest
-updated: '2026-02-09T05:54:32.542304Z'
+updated: '2026-02-09T08:04:40.799500Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.542304Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Zinc Deficiency]]</li>
-<li>[[Poor Nutrient Absorption]]</li>
-<li>[[Malnutrition]]</li>
-<li>[[Impaired Immune Function]]</li>
-<li>[[Copper Imbalance]]</li>
+<li><a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Poor Nutrient Absorption</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
+<li><a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,117 +74,117 @@ updated: '2026-02-09T05:54:32.542304Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Zinc_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Impaired_Immune_Function]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Poor_Nutrient_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Copper_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Impaired_Immune_Function]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Poor_Nutrient_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malnutrition]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Copper_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mthfr_gene]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[zinc_serum]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc_serum</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Zinc_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Copper_Imbalance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.592612'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[zinc_serum]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc_serum</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.018670'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Copper_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Zinc_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -192,8 +192,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

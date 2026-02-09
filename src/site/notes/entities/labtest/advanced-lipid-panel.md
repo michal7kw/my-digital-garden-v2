@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.299051Z'
+created: '2026-02-09T08:04:40.519746Z'
 description: NMR spectroscopy-based panel providing LDL particle number, size, HDL
   particles, and lipoprotein(a). Superior cardiovascular risk stratification.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: advanced_lipid_panel
 type: labtest
-updated: '2026-02-09T05:54:32.299051Z'
+updated: '2026-02-09T08:04:40.519746Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.299051Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[ldl_p]]</li>
-<li>[[ldl_size]]</li>
-<li>[[hdl_p]]</li>
-<li>[[lp_a]]</li>
-<li>[[apoB]]</li>
+<li><a href="/garden/dev_admin/biomarker/ldl-p/" class="internal-link">ldl_p</a></li>
+<li><a href="/garden/dev_admin/biomarker/ldl-size/" class="internal-link">ldl_size</a></li>
+<li><a href="/garden/dev_admin/biomarker/hdl-p/" class="internal-link">hdl_p</a></li>
+<li><a class="internal-link is-unresolved" href="/404">lp_a</a></li>
+<li><a href="/garden/dev_admin/biomarker/apob/" class="internal-link">apoB</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -78,79 +78,79 @@ updated: '2026-02-09T05:54:32.299051Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Triglycerides]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.527789'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.527789'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hdl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.527789'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ldl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.527789'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Triglycerides]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.411186'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Total_Cholesterol]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Ldl]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.114995'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hdl]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.760722'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_size]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-size/" class="internal-link">ldl_size</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.133041'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[apoB]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/apob/" class="internal-link">apoB</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.133041'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hdl_p]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl-p/" class="internal-link">hdl_p</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.133041'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_p]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-p/" class="internal-link">ldl_p</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.133041'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lp_a]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lp_a</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.133041'
 source: obsidian

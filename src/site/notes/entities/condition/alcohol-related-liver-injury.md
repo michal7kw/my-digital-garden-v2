@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.905467Z'
+created: '2026-02-09T08:04:40.087482Z'
 description: A spectrum of liver damage resulting from excessive alcohol consumption,
   ranging from fatty liver to cirrhosis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Alcohol-Related Liver Injury
 type: condition
-updated: '2026-02-09T05:54:31.905467Z'
+updated: '2026-02-09T08:04:40.087482Z'
 ---
 
 {% raw %}
@@ -39,21 +39,21 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[alanine_transaminase_alt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[aspartate_aminotransferase_ast]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/aspartate-aminotransferase-ast/" class="internal-link">aspartate_aminotransferase_ast</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma_glutamyl_transferase_ggt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -61,25 +61,25 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.499532'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.499532'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[aspartate_aminotransferase_ast]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/aspartate-aminotransferase-ast/" class="internal-link">aspartate_aminotransferase_ast</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.499532'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma_glutamyl_transferase_ggt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.499532'
 source: obsidian
@@ -100,70 +100,70 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma_glutamyl_transferase_ggt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[aspartate_aminotransferase_ast]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/aspartate-aminotransferase-ast/" class="internal-link">aspartate_aminotransferase_ast</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.445548'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[alanine_transaminase_alt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma_glutamyl_transferase_ggt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[aspartate_aminotransferase_ast]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/aspartate-aminotransferase-ast/" class="internal-link">aspartate_aminotransferase_ast</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma_glutamyl_transferase_ggt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[aspartate_aminotransferase_ast]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/aspartate-aminotransferase-ast/" class="internal-link">aspartate_aminotransferase_ast</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[alanine_transaminase_alt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

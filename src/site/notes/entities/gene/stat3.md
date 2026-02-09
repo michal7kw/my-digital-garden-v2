@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.264623Z'
+created: '2026-02-09T08:04:40.481448Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: STAT3
 type: gene
-updated: '2026-02-09T05:54:32.264623Z'
+updated: '2026-02-09T08:04:40.481448Z'
 ---
 
 {% raw %}
@@ -42,18 +42,18 @@ updated: '2026-02-09T05:54:32.264623Z'
 <li><strong>Autoimmunity:</strong> Gain-of-function mutations lead to early-onset autoimmunity.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ENCODES::[[STAT3 Protein]]<br />
-ACTIVATED_BY::[[IL-6]] - Primary cytokine activator<br />
-ACTIVATED_BY::[[JAK2]] - Upstream kinase<br />
-ACTIVATED_BY::[[EGFR]]<br />
-PARTICIPATES_IN_PATHWAY::[[JAK-STAT Pathway]]<br />
-REGULATES::[[Inflammation]]<br />
-REGULATES::[[Th17 Cells]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cancer]] - Promotes survival/metastasis<br />
-ASSOCIATED_WITH_CONDITION::[[Hyper-IgE Syndrome]] - Loss of function<br />
-ASSOCIATED_WITH_CONDITION::[[Psoriasis]] - Driven by Th17/STAT3 axis<br />
-TARGETS::[[BCL2]] - Anti-apoptotic gene<br />
-TARGETS::[[VEGF]] - Angiogenesis gene</p>
+<p>ENCODES::<a class="internal-link is-unresolved" href="/404">STAT3 Protein</a><br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">IL-6</a> - Primary cytokine activator<br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">JAK2</a> - Upstream kinase<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a><br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">JAK-STAT Pathway</a><br />
+REGULATES::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Th17 Cells</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> - Promotes survival/metastasis<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyper-IgE Syndrome</a> - Loss of function<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a> - Driven by Th17/STAT3 axis<br />
+TARGETS::<a class="internal-link is-unresolved" href="/404">BCL2</a> - Anti-apoptotic gene<br />
+TARGETS::<a class="internal-link is-unresolved" href="/404">VEGF</a> - Angiogenesis gene</p>
 <h2>References</h2>
 <ul>
 <li>Yu H, Lee H, Herrmann A, Buettner R, Jove R. Revisiting STAT3 signalling in cancer: new and unexpected biological functions. Nat Rev Cancer. 2014;14(11):736-46.</li>

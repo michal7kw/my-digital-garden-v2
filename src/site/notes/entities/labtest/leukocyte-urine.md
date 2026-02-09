@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.425467Z'
+created: '2026-02-09T08:04:40.665537Z'
 description: Tested twice a year Leukocytes (white blood cells) are part of the immune
   system and normally help the body fight infection. When they appear in urine, which
   is called leukocyturia, it can signal inflammation in the urinary tract.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: leukocyte_urine
 type: labtest
-updated: '2026-02-09T05:54:32.425467Z'
+updated: '2026-02-09T08:04:40.665537Z'
 ---
 
 {% raw %}
@@ -58,11 +58,11 @@ updated: '2026-02-09T05:54:32.425467Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Urinary Tract Infection (Uti)]]</li>
-<li>[[Kidney Infection]]</li>
-<li>[[Bladder Inflammation]]</li>
-<li>[[Interstitial Cystitis]]</li>
-<li>[[Urinary Tract Inflammation]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Infection</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bladder Inflammation</a></li>
+<li><a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Inflammation</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -70,74 +70,74 @@ updated: '2026-02-09T05:54:32.425467Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Interstitial_Cystitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.903309'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Inflammation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.903309'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Inflammation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bladder_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.903309'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.903309'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.903309'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Inflammation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.078688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.078688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.078688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Inflammation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bladder_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.078688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Interstitial_Cystitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.078688'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Interstitial_Cystitis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.533635'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Interstitial_Cystitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.904386Z'
+created: '2026-02-09T08:04:40.086540Z'
 description: A chronic relapsing brain disease characterized by an impaired ability
   to stop or control alcohol use despite adverse social, occupational, or health consequences.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alcohol Use Disorder
 type: condition
-updated: '2026-02-09T05:54:31.904386Z'
+updated: '2026-02-09T08:04:40.086540Z'
 ---
 
 {% raw %}
@@ -33,29 +33,29 @@ updated: '2026-02-09T05:54:31.904386Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alcohol_Use_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-use-disorder/" class="internal-link">Alcohol_Use_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.662976'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol_Use_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-use-disorder/" class="internal-link">Alcohol_Use_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:22.408089'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Alcohol]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cirrhosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Wernicke-Korsakoff Syndrome]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-AFFECTS_ORGAN::[[Liver]]<br />
-TREATED_BY_DRUG::[[Naltrexone]]<br />
-TREATED_BY_DRUG::[[Acamprosate]]<br />
-TREATED_BY_DRUG::[[Disulfiram]]<br />
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Alcohol</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Wernicke-Korsakoff Syndrome</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Naltrexone</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Acamprosate</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Disulfiram</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

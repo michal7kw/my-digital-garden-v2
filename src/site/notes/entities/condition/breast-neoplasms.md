@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.935589Z'
+created: '2026-02-09T08:04:40.117922Z'
 description: Cancer that forms in the cells of the breasts, most commonly in the ducts
   or lobules.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Breast Neoplasms
 type: condition
-updated: '2026-02-09T05:54:31.935589Z'
+updated: '2026-02-09T08:04:40.117922Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:31.935589Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Breast_Neoplasms]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/breast-neoplasms/" class="internal-link">Breast_Neoplasms</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.601101'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Breast_Neoplasms]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/breast-neoplasms/" class="internal-link">Breast_Neoplasms</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.695974'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[BRCA1]]<br />
-ASSOCIATED_WITH_GENE::[[BRCA2]]<br />
-ASSOCIATED_WITH_GENE::[[HER2]]<br />
-CAUSED_BY::[[Genetic Mutation]]<br />
-AFFECTS_ORGAN::[[Breast]]<br />
-TREATED_BY_DRUG::[[Tamoxifen]]<br />
-TREATED_BY_DRUG::[[Trastuzumab]]<br />
-TREATED_BY_INTERVENTION::[[Mastectomy]]</p>
+<p>ASSOCIATED_WITH_GENE::<a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a><br />
+ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">BRCA2</a><br />
+ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">HER2</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Genetic Mutation</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Breast</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Tamoxifen</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Trastuzumab</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Mastectomy</a></p>
 <h2>References</h2>
 <ul>
 <li>Harbeck, N., &amp; Gnant, M. (2017). Breast cancer. The Lancet.</li>

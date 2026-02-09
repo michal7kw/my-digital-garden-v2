@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.995602Z'
+created: '2026-02-09T08:04:40.185176Z'
 description: Any bleeding that occurs in the digestive tract, ranging from the esophagus
   to the rectum, which can be acute or chronic.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Gastrointestinal Bleeding
 type: condition
-updated: '2026-02-09T05:54:31.995602Z'
+updated: '2026-02-09T08:04:40.185176Z'
 ---
 
 {% raw %}
@@ -38,14 +38,14 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[blood_urea_nitrogen]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">blood_urea_nitrogen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[bun_creatinine_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -53,19 +53,19 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Gastrointestinal_Bleeding]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.616781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[blood_urea_nitrogen]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">blood_urea_nitrogen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.616781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bun_creatinine_ratio]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.616781'
 source: obsidian
@@ -86,51 +86,51 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Gastrointestinal_Bleeding]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[bun_creatinine_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[blood_urea_nitrogen]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">blood_urea_nitrogen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gastrointestinal_Bleeding]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bun_creatinine_ratio]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[blood_urea_nitrogen]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">blood_urea_nitrogen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[bun_creatinine_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[blood_urea_nitrogen]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">blood_urea_nitrogen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

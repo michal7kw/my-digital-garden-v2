@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.241316Z'
+created: '2026-02-09T08:04:40.456032Z'
 description: Comprehensive cognitive assessment using standardized tests to evaluate
   memory, attention, language, visuospatial function, and executive abilities. Essential
   for dementia diagnosis, staging, and differential diagnosis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neuropsychological Testing
 type: examination
-updated: '2026-02-09T05:54:32.241316Z'
+updated: '2026-02-09T08:04:40.456032Z'
 ---
 
 {% raw %}
@@ -314,29 +314,29 @@ updated: '2026-02-09T05:54:32.241316Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Amnestic pattern</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>1-2 SD below normal</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>Executive/behavioral pattern</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Processing speed, executive</em></li>
-<li>→ [[Lewy Body Dementia]] (condition) - <em>Visuospatial, attention</em></li>
-<li>→ [[ADHD]] (condition) - <em>Attention, executive</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Amnestic pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>1-2 SD below normal</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Executive/behavioral pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Processing speed, executive</em></li>
+<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Visuospatial, attention</em></li>
+<li>→ <a href="/garden/dev_admin/condition/adhd/" class="internal-link">ADHD</a> (condition) - <em>Attention, executive</em></li>
 </ul>
 <h3>Brain Regions (Correlation)</h3>
 <ul>
-<li>→ [[Hippocampus]] (organ) - <em>Memory tests</em></li>
-<li>→ [[Prefrontal Cortex]] (organ) - <em>Executive function</em></li>
-<li>→ [[Temporal Lobe]] (organ) - <em>Language, semantic memory</em></li>
-<li>→ [[Parietal Lobe]] (organ) - <em>Visuospatial</em></li>
+<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Memory tests</em></li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>Executive function</em></li>
+<li>→ <a href="/garden/dev_admin/organ/temporal-lobe/" class="internal-link">Temporal Lobe</a> (organ) - <em>Language, semantic memory</em></li>
+<li>→ <a href="/garden/dev_admin/organ/parietal-lobe/" class="internal-link">Parietal Lobe</a> (organ) - <em>Visuospatial</em></li>
 </ul>
 <h3>Related Examinations</h3>
 <ul>
-<li>← [[MRI Volumetry]] (examination) - <em>Structural correlate</em></li>
-<li>← [[FDG-PET]] (examination) - <em>Metabolic correlate</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Structural correlate</em></li>
+<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination) - <em>Metabolic correlate</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[BDNF]] (biomarker) - <em>Cognitive reserve</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Correlates with decline</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker) - <em>Cognitive reserve</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Correlates with decline</em></li>
 </ul>
 <h2>Clinical Applications</h2>
 <h3>Diagnosis</h3>

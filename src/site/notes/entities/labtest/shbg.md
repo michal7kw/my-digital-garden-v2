@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.496983Z'
+created: '2026-02-09T08:04:40.748173Z'
 description: Binds testosterone and estrogen. Important for calculating free hormone
   levels and assessing metabolic health.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: shbg
 type: labtest
-updated: '2026-02-09T05:54:32.496983Z'
+updated: '2026-02-09T08:04:40.748173Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.496983Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[shbg]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/shbg/" class="internal-link">shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.792377'
 source: obsidian

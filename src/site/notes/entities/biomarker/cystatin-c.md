@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.624118Z'
+created: '2026-02-09T08:04:39.872643Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Cystatin C
 type: biomarker
-updated: '2026-02-09T05:54:31.624118Z'
+updated: '2026-02-09T08:04:39.872643Z'
 ---
 
 {% raw %}
@@ -30,20 +30,20 @@ updated: '2026-02-09T05:54:31.624118Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cystatin_C]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">Cystatin_C</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.257952'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cystatin_C]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">Cystatin_C</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.257952'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Kidneys]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: very_high
 function_indicated: Glomerular Filtration
@@ -58,13 +58,13 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cystatin_C]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">Cystatin_C</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:13.298319'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cystatin_C]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">Cystatin_C</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:13.298319'
 source: obsidian

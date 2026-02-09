@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.438031Z'
+created: '2026-02-09T08:04:40.680080Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin kon-sen-tray-shun (m-c-h-c) Tested
   twice a year Mean corpuscular hemoglobin (MCH) measures the average amount of hemoglobin—the
   protein that carries oxygen—in each red blood cell. Low MCH often points to iron
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: mean_corpuscular_hemoglobin_concentration_mchc
 type: labtest
-updated: '2026-02-09T05:54:32.438031Z'
+updated: '2026-02-09T08:04:40.680080Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.438031Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Iron Deficiency Anemia]]</li>
-<li>[[Thalassemia]]</li>
-<li>[[Hereditary Spherocytosis]]</li>
-<li>[[Autoimmune Hemolytic Anemia]]</li>
-<li>[[Sickle Cell Disease]]</li>
+<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Thalassemia</a></li>
+<li><a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary Spherocytosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Autoimmune Hemolytic Anemia</a></li>
+<li><a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle Cell Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,94 +73,94 @@ updated: '2026-02-09T05:54:32.438031Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sickle_Cell_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hereditary_Spherocytosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hemolytic_Anemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Autoimmune_Hemolytic_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hemolytic_Anemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Autoimmune_Hemolytic_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thalassemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thalassemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hereditary_Spherocytosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sickle_Cell_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sickle_Cell_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hereditary_Spherocytosis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.032147'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Sickle_Cell_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Hereditary_Spherocytosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

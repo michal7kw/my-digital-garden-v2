@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.094791Z'
+created: '2026-02-09T08:04:40.292704Z'
 description: A common circulatory problem in which narrowed arteries reduce blood
   flow to the limbs, usually the legs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Peripheral Arterial Disease
 type: condition
-updated: '2026-02-09T05:54:32.094791Z'
+updated: '2026-02-09T08:04:40.292704Z'
 ---
 
 {% raw %}
@@ -26,30 +26,30 @@ updated: '2026-02-09T05:54:32.094791Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Peripheral_Arterial_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/peripheral-arterial-disease/" class="internal-link">Peripheral_Arterial_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.140580'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Peripheral_Arterial_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/peripheral-arterial-disease/" class="internal-link">Peripheral_Arterial_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.155776'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Atherosclerosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Coronary Artery Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Stroke]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-AFFECTS_ORGAN::[[Artery]]<br />
-AFFECTS_ORGAN::[[Leg]]<br />
-TREATED_BY_DRUG::[[Cilostazol]] - Improves walking distance.<br />
-TREATED_BY_DRUG::[[Clopidogrel]] - Antiplatelet.<br />
-TREATED_BY_DRUG::[[Atorvastatin]] - Statin.<br />
-IMPROVED_BY_INTERVENTION::[[Exercise]]<br />
-IMPROVED_BY_INTERVENTION::[[Smoking Cessation]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Artery</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Leg</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Cilostazol</a> - Improves walking distance.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Clopidogrel</a> - Antiplatelet.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/atorvastatin/" class="internal-link">Atorvastatin</a> - Statin.<br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/condition/smoking-cessation/" class="internal-link">Smoking Cessation</a></p>
 <h2>References</h2>
 <ul>
 <li>Gerhard-Herman, M. D., et al. (2017). 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease. Circulation.</li>

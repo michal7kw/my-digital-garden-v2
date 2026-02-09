@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.426842Z'
+created: '2026-02-09T08:04:40.667097Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: lipase
 type: labtest
-updated: '2026-02-09T05:54:32.426842Z'
+updated: '2026-02-09T08:04:40.667097Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.426842Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Pancreatitis (Acute Or Chronic)]]</li>
-<li>[[Gallbladder Disease]]</li>
-<li>[[Stomach Flu (Gastroenteritis)]]</li>
-<li>[[Kidney Disease]]</li>
-<li>[[Bowel Blockage Or Perforation]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Pancreatitis (Acute Or Chronic)</a></li>
+<li><a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Stomach Flu (Gastroenteritis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,74 +74,74 @@ updated: '2026-02-09T05:54:32.426842Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bowel_Blockage_Or_Perforation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Stomach_Flu_Gastroenteritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gallbladder_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreatitis_Acute_Or_Chronic]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Stomach_Flu_Gastroenteritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreatitis_Acute_Or_Chronic]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bowel_Blockage_Or_Perforation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gallbladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Gallbladder_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Gallbladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.326266Z'
+created: '2026-02-09T08:04:40.550988Z'
 description: 8-test panel measuring glucose, calcium, electrolytes, and kidney function
   markers.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: basic_metabolic_panel
 type: labtest
-updated: '2026-02-09T05:54:32.326266Z'
+updated: '2026-02-09T08:04:40.550988Z'
 ---
 
 {% raw %}
@@ -69,25 +69,25 @@ updated: '2026-02-09T05:54:32.326266Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Glucose_Fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.217964'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatinine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.217964'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Glucose_Fasting]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.191984'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Creatinine]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian

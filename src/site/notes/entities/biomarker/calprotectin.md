@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.614108Z'
+created: '2026-02-09T08:04:39.862979Z'
 description: Fecal calprotectin is a neutrophil-derived protein that serves as a non-invasive
   marker of gastrointestinal inflammation. It is the gold standard stool biomarker
   for distinguishing inflammatory bowel disease from irritable bowel syndrome.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Calprotectin
 type: biomarker
-updated: '2026-02-09T05:54:31.614108Z'
+updated: '2026-02-09T08:04:39.862979Z'
 ---
 
 {% raw %}
@@ -68,21 +68,21 @@ updated: '2026-02-09T05:54:31.614108Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Curcumin]] - May decrease fecal calprotectin in IBD patients as adjunct therapy (moderate, evidence level 3)</li>
-<li>[[Omega-3 Fatty Acids]] - May decrease intestinal inflammation and calprotectin levels (mild, evidence level 3)</li>
-<li>[[Probiotics]] - May decrease calprotectin in mild-moderate IBD (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> - May decrease fecal calprotectin in IBD patients as adjunct therapy (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May decrease intestinal inflammation and calprotectin levels (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease calprotectin in mild-moderate IBD (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[fecal calprotectin]] - Quantitative fecal calprotectin measurement by ELISA</li>
+<li><a href="/garden/dev_admin/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a> - Quantitative fecal calprotectin measurement by ELISA</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Zonulin]] (biomarker) - Both assess intestinal health; zonulin measures permeability while calprotectin measures inflammation</li>
-<li>→ [[Hs Crp]] (biomarker) - Systemic inflammation marker; calprotectin is more specific for GI inflammation</li>
-<li>→ [[Erythrocyte Sedimentation Rate]] (biomarker) - Non-specific inflammation marker co-monitored in IBD</li>
+<li>→ <a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">Zonulin</a> (biomarker) - Both assess intestinal health; zonulin measures permeability while calprotectin measures inflammation</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Systemic inflammation marker; calprotectin is more specific for GI inflammation</li>
+<li>→ <a href="/garden/dev_admin/biomarker/erythrocyte-sedimentation-rate/" class="internal-link">Erythrocyte Sedimentation Rate</a> (biomarker) - Non-specific inflammation marker co-monitored in IBD</li>
 </ul>
 <h2>References</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.484483Z'
+created: '2026-02-09T08:04:40.733682Z'
 description: Tested twice a year Protein is normally filtered and reabsorbed by the
   kidneys, so healthy urine contains little to no detectable protein. When protein
   appears in higher amounts, a condition known as proteinuria, it can be a sign of
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: protein_urine
 type: labtest
-updated: '2026-02-09T05:54:32.484483Z'
+updated: '2026-02-09T08:04:40.733682Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.484483Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Kidney Disease]]</li>
-<li>[[Chronic Inflammation]]</li>
-<li>[[High Blood Pressure (Hypertension)]]</li>
-<li>[[Metabolic Dysfunction]]</li>
-<li>[[Immune Deficiency]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
+<li><a class="internal-link is-unresolved" href="/404">High Blood Pressure (Hypertension)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Immune Deficiency</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,74 +71,74 @@ updated: '2026-02-09T05:54:32.484483Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.558802'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.558802'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.558802'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[High_Blood_Pressure_Hypertension]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">High_Blood_Pressure_Hypertension</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.558802'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.558802'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[High_Blood_Pressure_Hypertension]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">High_Blood_Pressure_Hypertension</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.118633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.118633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.118633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.118633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.118633'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

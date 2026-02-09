@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.289539Z'
+created: '2026-02-09T08:04:40.508937Z'
 description: A metabolic intervention where the proton gradient in mitochondria is
   dissipated (leaked) without generating ATP, forcing the cell to burn more fuel to
   maintain the potential. Mimics exercise and activates thermogenesis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Uncoupling
 type: intervention
-updated: '2026-02-09T05:54:32.289539Z'
+updated: '2026-02-09T08:04:40.508937Z'
 ---
 
 {% raw %}
@@ -42,11 +42,11 @@ updated: '2026-02-09T05:54:32.289539Z'
 <li><strong>Hyperthermia:</strong> Excessive uncoupling generates uncontrollable heat (the mechanism of DNP toxicity). Safer, self-limiting agents like BAM15 are under development.</li>
 </ul>
 <h2>Relationships</h2>
-<h2>TARGETS::[[Mitochondria]]<br />
-MIMICS::[[Exercise]]<br />
-MIMICS::[[Caloric Restriction]]<br />
-ACTIVATED_BY::[[Cold Exposure]] - Natural uncoupling<br />
-ACTIVATED_BY::[[BAM15]] - Synthetic uncoupler<br />
-ASSOCIATED_WITH_RESEARCH::[[2025 BAM15 Mitochondrial Uncoupling Review]]</h2>
+<h2>TARGETS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+MIMICS::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
+MIMICS::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a><br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> - Natural uncoupling<br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">BAM15</a> - Synthetic uncoupler<br />
+ASSOCIATED_WITH_RESEARCH::<a href="/garden/dev_admin/research/2025-bam15-mitochondrial-uncoupling-review/" class="internal-link">2025 BAM15 Mitochondrial Uncoupling Review</a></h2>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.920406Z'
+created: '2026-02-09T08:04:40.101921Z'
 description: A common heart rhythm disorder (arrhythmia) characterized by rapid and
   irregular beating of the atrial chambers of the heart.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Atrial Fibrillation
 type: condition
-updated: '2026-02-09T05:54:31.920406Z'
+updated: '2026-02-09T08:04:40.101921Z'
 ---
 
 {% raw %}
@@ -33,51 +33,51 @@ updated: '2026-02-09T05:54:31.920406Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Quinidine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quinidine/" class="internal-link">Quinidine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.355660'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Atrial_Fibrillation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.355660'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.355660'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Quinidine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/quinidine/" class="internal-link">Quinidine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.728314'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vascular_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Atrial_Fibrillation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:24.522270'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>INCREASED_RISK_OF::[[Stroke]] - Due to thromboembolism.<br />
-INCREASED_RISK_OF::[[Heart Failure]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hypertension]]<br />
-ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_CONDITION::[[Sleep Apnea]]<br />
-REDUCED_BY_DRUG::[[Warfarin]] - Stroke prevention.<br />
-REDUCED_BY_DRUG::[[Amiodarone]] - Rhythm control.<br />
-AFFECTS_ORGAN::[[Heart]]</p>
+<p>INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Stroke</a> - Due to thromboembolism.<br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Apnea</a><br />
+REDUCED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Warfarin</a> - Stroke prevention.<br />
+REDUCED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amiodarone</a> - Rhythm control.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></p>
 <h2>References</h2>
 <ul>
 <li>January, C. T., et al. (2019). 2019 AHA/ACC/HRS Focused Update of the 2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation. Circulation.</li>

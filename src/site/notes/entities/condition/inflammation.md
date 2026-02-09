@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.019435Z'
+created: '2026-02-09T08:04:40.210098Z'
 description: The immune system's response to injury or infection, characterized by
   redness, heat, swelling, and pain. Can be acute (healing) or chronic (damaging).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammation
 type: condition
-updated: '2026-02-09T05:54:32.019435Z'
+updated: '2026-02-09T08:04:40.210098Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.018196'
 source: obsidian
@@ -59,19 +59,19 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Apigenin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/apigenin/" class="internal-link">Apigenin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.619170'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Apigenin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/apigenin/" class="internal-link">Apigenin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.039493'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.943447Z'
+created: '2026-02-09T08:04:40.128096Z'
 description: A group of disorders of the heart and blood vessels, including coronary
   heart disease, cerebrovascular disease, and rheumatic heart disease.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Diseases
 type: condition
-updated: '2026-02-09T05:54:31.943447Z'
+updated: '2026-02-09T08:04:40.128096Z'
 ---
 
 {% raw %}
@@ -36,30 +36,30 @@ updated: '2026-02-09T05:54:31.943447Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cardiovascular_Diseases]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-diseases/" class="internal-link">Cardiovascular_Diseases</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:33.760330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Diseases]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-diseases/" class="internal-link">Cardiovascular_Diseases</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:28.538943'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Atherosclerosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hypertension]]<br />
-ASSOCIATED_WITH_CONDITION::[[Type 2 Diabetes]]<br />
-ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[LDL Cholesterol]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Triglycerides]]<br />
-AFFECTS_ORGAN::[[Heart]]<br />
-AFFECTS_ORGAN::[[Blood Vessel]]<br />
-TREATED_BY_DRUG::[[Atorvastatin]] - Statin.<br />
-TREATED_BY_DRUG::[[Lisinopril]] - ACE Inhibitor.<br />
-TREATED_BY_DRUG::[[Aspirin]] - Antiplatelet.</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Blood Vessel</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/atorvastatin/" class="internal-link">Atorvastatin</a> - Statin.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/lisinopril/" class="internal-link">Lisinopril</a> - ACE Inhibitor.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/aspirin/" class="internal-link">Aspirin</a> - Antiplatelet.</p>
 <h2>References</h2>
 <ul>
 <li>World Health Organization. Cardiovascular diseases (CVDs).</li>

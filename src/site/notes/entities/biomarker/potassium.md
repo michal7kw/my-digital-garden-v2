@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.719092Z'
+created: '2026-02-09T08:04:39.967665Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Potassium
 type: biomarker
-updated: '2026-02-09T05:54:31.719092Z'
+updated: '2026-02-09T08:04:39.967665Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.719092Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Potassium]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/potassium/" class="internal-link">Potassium</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.471521'
 source: obsidian
@@ -44,7 +44,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Potassium]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/potassium/" class="internal-link">Potassium</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:24.646903'
 source: obsidian

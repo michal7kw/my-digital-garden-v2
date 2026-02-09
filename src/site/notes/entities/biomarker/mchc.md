@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.685945Z'
+created: '2026-02-09T08:04:39.933448Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mchc
 type: biomarker
-updated: '2026-02-09T05:54:31.685945Z'
+updated: '2026-02-09T08:04:39.933448Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.685945Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mchc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mchc/" class="internal-link">Mchc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.793163'
 source: obsidian
@@ -44,7 +44,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mchc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mchc/" class="internal-link">Mchc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.289303'
 source: obsidian

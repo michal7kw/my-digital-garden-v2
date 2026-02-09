@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.218555Z'
+created: '2026-02-09T08:04:40.431104Z'
 description: Turmeric is a spice derived from the root of the Curcuma longa plant,
   known for its active compound curcumin, which possesses potent anti-inflammatory
   and antioxidant properties.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Turmeric
 type: drug
-updated: '2026-02-09T05:54:32.218555Z'
+updated: '2026-02-09T08:04:40.431104Z'
 ---
 
 {% raw %}
@@ -32,58 +32,58 @@ updated: '2026-02-09T05:54:32.218555Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[supplement_regimen]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">supplement_regimen</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[health_goals]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Curcumin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.742492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <h3>Contains</h3>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.447198'
 source: obsidian
 </code></pre>
 <h3>Reduced By Drug</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.143561'
 source: obsidian
 </code></pre>
 <h3>Reduces Condition</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.383582'
 source: obsidian
@@ -92,70 +92,70 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Reduces Condition</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.383582'
 source: obsidian
 </code></pre>
 <h3>Reduced By Drug</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.143561'
 source: obsidian
 </code></pre>
 <h3>Contains</h3>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.447198'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[health_goals]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:42:06.512352'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[supplement_regimen]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">supplement_regimen</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:42:07.311290'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[health_goals]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[supplement_regimen]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">supplement_regimen</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Curcumin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:02.331491'
 source: obsidian

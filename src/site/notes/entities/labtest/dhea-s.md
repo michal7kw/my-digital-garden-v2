@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.359396Z'
+created: '2026-02-09T08:04:40.589200Z'
 description: Adrenal androgen precursor. Marker for adrenal function and biological
   aging.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: dhea_s
 type: labtest
-updated: '2026-02-09T05:54:32.359396Z'
+updated: '2026-02-09T08:04:40.589200Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.359396Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[dhea_s]]</li>
+<li><a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">dhea_s</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-02-09T05:54:32.359396Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[dhea_s]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">dhea_s</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.362942'
 source: obsidian

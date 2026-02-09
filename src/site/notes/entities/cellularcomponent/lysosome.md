@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.766569Z'
+created: '2026-02-09T08:04:40.015204Z'
 description: Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling
   center and a central hub for nutrient sensing via mTOR/AMPK.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lysosome
 type: cellularcomponent
-updated: '2026-02-09T05:54:31.766569Z'
+updated: '2026-02-09T08:04:40.015204Z'
 ---
 
 {% raw %}
@@ -44,15 +44,15 @@ updated: '2026-02-09T05:54:31.766569Z'
 <li><strong>Longevity:</strong> Lysosomal function declines with age. Enhancing lysosomal activity extends lifespan in model organisms.</li>
 </ul>
 <h2>Relationships</h2>
-<p>PARTICIPATES_IN_PATHWAY::[[Autophagy]] - Terminal step<br />
-REGULATES::[[mTOR Pathway]] - Site of activation<br />
-REGULATED_BY::[[TFEB]] - Master transcriptional regulator<br />
-CONTAINS::[[Hydrolytic Enzymes]]<br />
-REQUIRES::[[Acidic pH]] - Maintained by V-ATPase proton pumps<br />
-DEGRADES::[[Amyloid Beta]]<br />
-DEGRADES::[[Damaged Mitochondria]] - Via Mitophagy<br />
-ASSOCIATED_WITH_CONDITION::[[Lysosomal Storage Diseases]]<br />
-ASSOCIATED_WITH_CONDITION::[[Alzheimer's Disease]] - Failure of clearance</p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Terminal step<br />
+REGULATES::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Site of activation<br />
+REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a> - Master transcriptional regulator<br />
+CONTAINS::<a class="internal-link is-unresolved" href="/404">Hydrolytic Enzymes</a><br />
+REQUIRES::<a class="internal-link is-unresolved" href="/404">Acidic pH</a> - Maintained by V-ATPase proton pumps<br />
+DEGRADES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a><br />
+DEGRADES::<a class="internal-link is-unresolved" href="/404">Damaged Mitochondria</a> - Via Mitophagy<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lysosomal Storage Diseases</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Failure of clearance</p>
 <h2>References</h2>
 <ul>
 <li>Settembre C, et al. TFEB links autophagy to lysosomal biogenesis. Science. 2011;332(6036):1429-33.</li>

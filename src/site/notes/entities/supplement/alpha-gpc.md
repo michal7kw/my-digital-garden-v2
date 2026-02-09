@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.153846Z'
+created: '2026-02-09T08:04:41.531801Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-02-09T05:54:33.153846Z'
+updated: '2026-02-09T08:04:41.531801Z'
 ---
 
 {% raw %}
@@ -115,15 +115,15 @@ Choline → Acetylcholine (ACh)
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::[[Brain]] - Cholinergic enhancement<br />
-PRODUCES::[[Acetylcholine]] - Direct precursor<br />
-INCREASES_EXPRESSION::[[Growth_Hormone]]<br />
-SYNERGISTIC_WITH::[[Caffeine]] - Athletic performance<br />
-SYNERGISTIC_WITH::[[Phosphatidylserine]]<br />
-SYNERGISTIC_WITH::[[Lions_Mane]]<br />
-MAY_IMPROVE_CONDITION::[[Cognitive_Impairment]]<br />
-MAY_IMPROVE_CONDITION::[[Alzheimers_Disease]]<br />
-IMPROVES_BIOMARKER::[[Power_Output]]</p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a> - Cholinergic enhancement<br />
+PRODUCES::<a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> - Direct precursor<br />
+INCREASES_EXPRESSION::<a class="internal-link is-unresolved" href="/404">Growth_Hormone</a><br />
+SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Caffeine</a> - Athletic performance<br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a><br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/lions-mane/" class="internal-link">Lions_Mane</a><br />
+MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a><br />
+MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+IMPROVES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Power_Output</a></p>
 <h2>References</h2>
 <ul>
 <li>Parnetti L, et al. Multicentre study of l-alpha-glyceryl-phosphorylcholine vs ST200 among patients with probable senile dementia of Alzheimer's type. Drugs Aging. 1993;3(2):159-164.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.288871Z'
+created: '2026-02-09T08:04:40.508239Z'
 description: The transfer of healthy, functional mitochondria into cells or tissues
   with damaged mitochondria. A cutting-edge "Mitotherapy" for aging and ischemic injury.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Transplantation
 type: intervention
-updated: '2026-02-09T05:54:32.288871Z'
+updated: '2026-02-09T08:04:40.508239Z'
 ---
 
 {% raw %}
@@ -35,9 +35,9 @@ updated: '2026-02-09T05:54:32.288871Z'
 <li><strong>Rare Diseases:</strong> Treating primary mitochondrial disorders.</li>
 </ul>
 <h2>Relationships</h2>
-<h2>TARGETS::[[Mitochondria]]<br />
-TREATS::[[Mitochondrial Dysfunction]]<br />
-TREATS::[[Sarcopenia]]<br />
-ASSOCIATED_WITH_RESEARCH::[[2025 Mitrix Bio Mitochondrial Transplantation Trial]]</h2>
+<h2>TARGETS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+TREATS::<a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+TREATS::<a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
+ASSOCIATED_WITH_RESEARCH::<a href="/garden/dev_admin/research/2025-mitrix-bio-mitochondrial-transplantation-trial/" class="internal-link">2025 Mitrix Bio Mitochondrial Transplantation Trial</a></h2>
 
 {% endraw %}

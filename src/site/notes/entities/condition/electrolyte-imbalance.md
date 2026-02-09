@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.985334Z'
+created: '2026-02-09T08:04:40.173520Z'
 description: A condition where the levels of essential minerals (electrolytes) in
   the blood are too high or too low, disrupting vital bodily functions.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Electrolyte Imbalance
 type: condition
-updated: '2026-02-09T05:54:31.985334Z'
+updated: '2026-02-09T08:04:40.173520Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[carbon_dioxide]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -46,13 +46,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Electrolyte_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:05.647256'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[carbon_dioxide]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:05.647256'
 source: obsidian
@@ -73,32 +73,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Electrolyte_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.525508'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[carbon_dioxide]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Electrolyte_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.525508'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[carbon_dioxide]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.525508'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[carbon_dioxide]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

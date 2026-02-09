@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.084326Z'
+created: '2026-02-09T08:04:40.280973Z'
 description: Polycystic Ovary Syndrome, a complex hormonal and metabolic disorder
   affecting women of reproductive age.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: PCOS
 type: condition
-updated: '2026-02-09T05:54:32.084326Z'
+updated: '2026-02-09T08:04:40.280973Z'
 ---
 
 {% raw %}
@@ -38,57 +38,57 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Berberine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.252065'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:33.234080'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:33.234080'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:50.148655'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PCOS]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:33.234080'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-27T18:02:22.303164'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
@@ -109,57 +109,57 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.529927'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.282261'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.529927'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-27T18:02:22.303164'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PCOS]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.529927'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Berberine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.252065'
 source: obsidian

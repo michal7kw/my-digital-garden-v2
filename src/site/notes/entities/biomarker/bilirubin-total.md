@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.601238Z'
+created: '2026-02-09T08:04:39.851442Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Total
 type: biomarker
-updated: '2026-02-09T05:54:31.601238Z'
+updated: '2026-02-09T08:04:39.851442Z'
 ---
 
 {% raw %}
@@ -30,20 +30,20 @@ updated: '2026-02-09T05:54:31.601238Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bilirubin_Total]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin_Total</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.430737'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bilirubin_Total]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin_Total</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.430737'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Bilirubin Metabolism
@@ -58,13 +58,13 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bilirubin_Total]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin_Total</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:10.928869'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bilirubin_Total]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin_Total</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:10.928869'
 source: obsidian

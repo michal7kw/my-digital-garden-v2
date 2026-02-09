@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.990174Z'
+created: '2026-02-09T08:04:40.179060Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Fever
 type: condition
-updated: '2026-02-09T05:54:31.990174Z'
+updated: '2026-02-09T08:04:40.179060Z'
 ---
 
 {% raw %}
@@ -33,7 +33,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Treats</h3>
 <ul>
-<li>← [[DEXIBUPROFEN]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/dexibuprofen/" class="internal-link">DEXIBUPROFEN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">created_at: '2025-12-16T18:56:20.196353'
 max_phase: '3.0'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.988559Z'
+created: '2026-02-09T08:04:40.177305Z'
 description: A broad category of disorders affecting the eye and its adnexa, ranging
   from acute infections to chronic degenerative conditions.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Eye Diseases
 type: condition
-updated: '2026-02-09T05:54:31.988559Z'
+updated: '2026-02-09T08:04:40.177305Z'
 ---
 
 {% raw %}
@@ -34,24 +34,24 @@ updated: '2026-02-09T05:54:31.988559Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Eye_Diseases]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/eye-diseases/" class="internal-link">Eye_Diseases</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.303183'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Eye_Diseases]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/eye-diseases/" class="internal-link">Eye_Diseases</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:35.757978'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]] - Diabetic Retinopathy.<br />
-ASSOCIATED_WITH_CONDITION::[[Hypertension]]<br />
-CAUSED_BY::[[Aging]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-INCREASED_RISK_OF::[[Blindness]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a> - Diabetic Retinopathy.<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Blindness</a></p>
 <h2>References</h2>
 <ul>
 <li>World Health Organization (WHO). Blindness and vision impairment.</li>

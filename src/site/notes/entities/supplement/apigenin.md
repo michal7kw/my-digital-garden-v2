@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.159632Z'
+created: '2026-02-09T08:04:41.539597Z'
 description: A natural flavonoid found in chamomile, parsley, and celery with antioxidant,
   anti-inflammatory, neuroprotective, and sedative properties. It is known to inhibit
   CD38 (boosting NAD+ levels) and modulate GABA receptors.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Apigenin
 type: supplement
-updated: '2026-02-09T05:54:33.159632Z'
+updated: '2026-02-09T08:04:41.539597Z'
 ---
 
 {% raw %}
@@ -35,103 +35,103 @@ updated: '2026-02-09T05:54:33.159632Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[GABA]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:50.295594'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAD]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NAD</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:48.099461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotinamide_Riboside]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:48.099461'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Anxiety]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:43.311207'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Nicotinamide_Riboside]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.490822'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NAD]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.302675'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.619170'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cortisol]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insomnia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Insomnia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.445715'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anxiety]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAD]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cortisol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotinamide_Riboside]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GABA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
@@ -140,32 +140,32 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Increases Metabolite</h3>
 <ul>
-<li>→ [[NAD+]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD+</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">mechanism: CD38 Inhibition
 source: research
 </code></pre>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>→ [[GABA]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">effect: Positive Allosteric Modulation
 source: research
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Anxiety]] (condition)</li>
-<li>→ [[Insomnia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insomnia/" class="internal-link">Insomnia</a> (condition)</li>
 </ul>
 <h3>Reduces Biomarker</h3>
 <ul>
-<li>→ [[Inflammation]] (biomarker)</li>
-<li>→ [[Cortisol]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (hormone)</li>
 </ul>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[NMN]] (supplement) - <em>Via NAD+ pathway</em></li>
-<li>→ [[Nicotinamide Riboside]] (supplement) - <em>Via NAD+ pathway</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement) - <em>Via NAD+ pathway</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a> (supplement) - <em>Via NAD+ pathway</em></li>
 </ul>
 <h2>References</h2>
 <ol>

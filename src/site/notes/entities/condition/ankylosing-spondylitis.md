@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.919011Z'
+created: '2026-02-09T08:04:40.100576Z'
 description: A type of arthritis that causes inflammation in the joints and ligaments
   of the spine, potentially leading to spinal fusion.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Ankylosing Spondylitis
 type: condition
-updated: '2026-02-09T05:54:31.919011Z'
+updated: '2026-02-09T08:04:40.100576Z'
 ---
 
 {% raw %}
@@ -27,29 +27,29 @@ updated: '2026-02-09T05:54:31.919011Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ankylosing_Spondylitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing_Spondylitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.226980'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ankylosing_Spondylitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing_Spondylitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:24.269548'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[HLA-B27]]<br />
-ASSOCIATED_WITH_CONDITION::[[Uveitis]] - Common eye complication.<br />
-ASSOCIATED_WITH_CONDITION::[[Inflammatory Bowel Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Psoriasis]]<br />
-AFFECTS_ORGAN::[[Spine]]<br />
-AFFECTS_ORGAN::[[Sacroiliac Joint]]<br />
-TREATED_BY_DRUG::[[NSAIDs]] - First line.<br />
-TREATED_BY_DRUG::[[Adalimumab]] - TNF Inhibitor.<br />
-TREATED_BY_DRUG::[[Secukinumab]] - IL-17 Inhibitor.<br />
-IMPROVED_BY_INTERVENTION::[[Physical Therapy]]</p>
+<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">HLA-B27</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Uveitis</a> - Common eye complication.<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spine</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Sacroiliac Joint</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">NSAIDs</a> - First line.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Adalimumab</a> - TNF Inhibitor.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Secukinumab</a> - IL-17 Inhibitor.<br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Physical Therapy</a></p>
 <h2>References</h2>
 <ul>
 <li>Sieper, J., &amp; Poddubnyy, D. (2017). Axial spondyloarthritis. The Lancet.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.050251Z'
+created: '2026-02-09T08:04:41.408010Z'
 description: Nuclear steroid hormone receptor that binds testosterone and DHT. Acts
   as a ligand-activated transcription factor regulating male sexual development and
   prostate cell proliferation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AR
 type: protein
-updated: '2026-02-09T05:54:33.050251Z'
+updated: '2026-02-09T08:04:41.408010Z'
 ---
 
 {% raw %}
@@ -35,85 +35,85 @@ updated: '2026-02-09T05:54:33.050251Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Androgen_Insensitivity_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Androgen_Insensitivity_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.123603'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prostate_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Prostate_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.123603'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Testosterone]] (hormone)</li>
+<li>← <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:04.678296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Spironolactone]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Spironolactone</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acne]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Acne</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bicalutamide]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bicalutamide</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Enzalutamide]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Enzalutamide</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PSA]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/psa/" class="internal-link">PSA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dihydrotestosterone]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dihydrotestosterone</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HSP90]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">HSP90</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Androgen_Insensitivity_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Androgen_Insensitivity_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prostate_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Prostate_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Testosterone]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.960236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[AR]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ar/" class="internal-link">AR</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.960358'
 source: obsidian
@@ -122,22 +122,22 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Interacts With</h3>
 <ul>
-<li>← [[Testosterone]] (hormone) - <em>Agonist</em></li>
-<li>← [[Dihydrotestosterone]] (hormone) - <em>Potent Agonist</em></li>
-<li>→ [[HSP90]] (protein) - <em>Chaperone</em></li>
-<li>→ [[PSA]] (protein) - <em>Target Gene Product</em></li>
+<li>← <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone) - <em>Agonist</em></li>
+<li>← <a href="/garden/dev_admin/hormone/dihydrotestosterone/" class="internal-link">Dihydrotestosterone</a> (hormone) - <em>Potent Agonist</em></li>
+<li>→ <a href="/garden/dev_admin/protein/hsp90/" class="internal-link">HSP90</a> (protein) - <em>Chaperone</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/psa/" class="internal-link">PSA</a> (protein) - <em>Target Gene Product</em></li>
 </ul>
 <h3>Targeted By</h3>
 <ul>
-<li>⊣ [[Enzalutamide]] (drug) - <em>Antagonist</em></li>
-<li>⊣ [[Bicalutamide]] (drug) - <em>Antagonist</em></li>
-<li>⊣ [[Spironolactone]] (drug) - <em>Weak Antagonist</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/enzalutamide/" class="internal-link">Enzalutamide</a> (drug) - <em>Antagonist</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/bicalutamide/" class="internal-link">Bicalutamide</a> (drug) - <em>Antagonist</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/spironolactone/" class="internal-link">Spironolactone</a> (drug) - <em>Weak Antagonist</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Prostate Cancer]] (condition)</li>
-<li>→ [[Androgen Insensitivity Syndrome]] (condition)</li>
-<li>→ [[Acne]] (condition) - <em>Androgen driven</em></li>
+<li>→ <a href="/garden/dev_admin/condition/prostate-cancer/" class="internal-link">Prostate Cancer</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/androgen-insensitivity-syndrome/" class="internal-link">Androgen Insensitivity Syndrome</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/acne/" class="internal-link">Acne</a> (condition) - <em>Androgen driven</em></li>
 </ul>
 <h2>References</h2>
 <ol>

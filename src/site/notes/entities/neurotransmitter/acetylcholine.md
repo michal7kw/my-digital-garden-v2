@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.551816Z'
+created: '2026-02-09T08:04:40.810021Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-02-09T05:54:32.551816Z'
+updated: '2026-02-09T08:04:40.810021Z'
 ---
 
 {% raw %}
@@ -29,37 +29,37 @@ updated: '2026-02-09T05:54:32.551816Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Clozapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Donepezil]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/donepezil/" class="internal-link">Donepezil</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Donepezil]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/donepezil/" class="internal-link">Donepezil</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Clozapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.651128Z'
+created: '2026-02-09T08:04:39.898295Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Ggt
 type: biomarker
-updated: '2026-02-09T05:54:31.651128Z'
+updated: '2026-02-09T08:04:39.898295Z'
 ---
 
 {% raw %}
@@ -30,14 +30,14 @@ updated: '2026-02-09T05:54:31.651128Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ggt]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ggt/" class="internal-link">Ggt</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.583550'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: medium
 function_indicated: Bile Duct Function

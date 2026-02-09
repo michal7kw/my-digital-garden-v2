@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.080175Z'
+created: '2026-02-09T08:04:40.276826Z'
 description: An infection of the outer ear canal, commonly known as swimmer's ear.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Otitis Externa
 type: condition
-updated: '2026-02-09T05:54:32.080175Z'
+updated: '2026-02-09T08:04:40.276826Z'
 ---
 
 {% raw %}
@@ -30,25 +30,25 @@ updated: '2026-02-09T05:54:32.080175Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Otitis_Externa]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/otitis-externa/" class="internal-link">Otitis_Externa</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.634074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Otitis_Externa]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/otitis-externa/" class="internal-link">Otitis_Externa</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.880004'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Pseudomonas aeruginosa]]<br />
-CAUSED_BY::[[Staphylococcus aureus]]<br />
-AFFECTS_ORGAN::[[Ear]]<br />
-TREATED_BY_DRUG::[[Ciprofloxacin]] - Ear drops.<br />
-TREATED_BY_DRUG::[[Hydrocortisone]] - To reduce swelling.<br />
-ASSOCIATED_WITH_CONDITION::[[Eczema]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Pseudomonas aeruginosa</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Staphylococcus aureus</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Ear</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ciprofloxacin</a> - Ear drops.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Hydrocortisone</a> - To reduce swelling.<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Eczema</a></p>
 <h2>References</h2>
 <ul>
 <li>Rosenfeld, R. M., et al. (2014). Clinical practice guideline: acute otitis externa. Otolaryngology–Head and Neck Surgery.</li>

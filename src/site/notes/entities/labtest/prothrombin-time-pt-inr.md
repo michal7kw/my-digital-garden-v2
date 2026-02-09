@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.485851Z'
+created: '2026-02-09T08:04:40.735191Z'
 description: Prothrombin Time (PT) with International Normalized Ratio (INR) test.
   Evaluates the extrinsic and common coagulation pathways (Factors I, II, V, VII,
   X). Essential for monitoring warfarin therapy and assessing liver synthetic function.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: prothrombin_time_pt_inr
 type: labtest
-updated: '2026-02-09T05:54:32.485851Z'
+updated: '2026-02-09T08:04:40.735191Z'
 ---
 
 {% raw %}
@@ -108,20 +108,20 @@ updated: '2026-02-09T05:54:32.485851Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Warfarin Therapy Monitoring]]</li>
-<li>[[Liver Disease]]</li>
-<li>[[Coagulopathy]]</li>
-<li>[[Vitamin K Deficiency]]</li>
-<li>[[DIC]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Warfarin Therapy Monitoring</a></li>
+<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Coagulopathy</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Vitamin K Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">DIC</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Prothrombin Time]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/prothrombin-time/" class="internal-link">Prothrombin Time</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[coagulation panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

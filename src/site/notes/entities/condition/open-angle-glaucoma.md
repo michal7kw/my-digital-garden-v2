@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.076614Z'
+created: '2026-02-09T08:04:40.273505Z'
 description: The most common form of glaucoma, characterized by a gradual increase
   in intraocular pressure due to clogged drainage canals, leading to optic nerve damage.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Open-Angle Glaucoma
 type: condition
-updated: '2026-02-09T05:54:32.076614Z'
+updated: '2026-02-09T08:04:40.273505Z'
 ---
 
 {% raw %}
@@ -28,28 +28,28 @@ updated: '2026-02-09T05:54:32.076614Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Open-Angle_Glaucoma]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/open-angle-glaucoma/" class="internal-link">Open-Angle_Glaucoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.349689'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Open-Angle_Glaucoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/open-angle-glaucoma/" class="internal-link">Open-Angle_Glaucoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.499305'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_BIOMARKER::[[Intraocular Pressure]]<br />
-CAUSED_BY::[[Optic Nerve Damage]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-AFFECTS_ORGAN::[[Optic Nerve]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hypertension]]<br />
-TREATED_BY_DRUG::[[Latanoprost]]<br />
-TREATED_BY_DRUG::[[Timolol]]<br />
-TREATED_BY_INTERVENTION::[[Laser Trabeculoplasty]]</p>
+<p>ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Intraocular Pressure</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Optic Nerve Damage</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Optic Nerve</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Latanoprost</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Timolol</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Laser Trabeculoplasty</a></p>
 <h2>References</h2>
 <ul>
 <li>Weinreb, R. N., &amp; Khaw, P. T. (2004). Primary open-angle glaucoma. The Lancet.</li>

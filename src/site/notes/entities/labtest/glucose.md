@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.379373Z'
+created: '2026-02-09T08:04:40.612164Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: glucose
 type: labtest
-updated: '2026-02-09T05:54:32.379373Z'
+updated: '2026-02-09T08:04:40.612164Z'
 ---
 
 {% raw %}
@@ -63,11 +63,11 @@ updated: '2026-02-09T05:54:32.379373Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Type 1 / Type 2 Diabetes]]</li>
-<li>[[Prediabetes]]</li>
-<li>[[Hyperglycemia / Hypoglycemia]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Pancreatic Dysfunction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Type 1 / Type 2 Diabetes</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Prediabetes</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hyperglycemia / Hypoglycemia</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pancreatic Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -75,80 +75,80 @@ updated: '2026-02-09T05:54:32.379373Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pancreatic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pancreatic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.767974'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.767974'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_1__Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.767974'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperglycemia__Hypoglycemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hyperglycemia__Hypoglycemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.767974'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.767974'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperglycemia__Hypoglycemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hyperglycemia__Hypoglycemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreatic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pancreatic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prediabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Prediabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_1__Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

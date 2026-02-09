@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.774939Z'
+created: '2026-02-09T08:04:40.024790Z'
 description: Elevated cardiovascular disease risk based on lipid abnormalities, inflammation,
   and other markers.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Risk Pattern
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.774939Z'
+updated: '2026-02-09T08:04:40.024790Z'
 ---
 
 {% raw %}
@@ -36,20 +36,20 @@ Risk Multiplier: 2.2x for cardiovascular events</p>
 </ul>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[LDL Cholesterol]]</li>
-<li>REQUIRES_BIOMARKER::[[ApoB]]</li>
-<li>REQUIRES_BIOMARKER::[[Lp(a)]]</li>
-<li>REQUIRES_BIOMARKER::[[hs-CRP]]</li>
-<li>REQUIRES_BIOMARKER::[[Triglycerides]]</li>
-<li>INCREASES_RISK_FOR::[[Coronary Artery Disease]]</li>
-<li>INCREASES_RISK_FOR::[[Myocardial Infarction]]</li>
-<li>INCREASES_RISK_FOR::[[Stroke]]</li>
-<li>AFFECTS_ORGAN::[[Heart]]</li>
-<li>AFFECTS_ORGAN::[[Blood Vessels]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Omega-3 Fatty Acids]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Red Yeast Rice]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[CoQ10]]</li>
-<li>RELATED_PATTERN::[[Chronic Inflammation]]</li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/apob/" class="internal-link">ApoB</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/lpa/" class="internal-link">Lp(a)</a></li>
+<li>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Stroke</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Blood Vessels</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Red Yeast Rice</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">CoQ10</a></li>
+<li>RELATED_PATTERN::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
 </ul>
 <h2>References</h2>
 <ul>

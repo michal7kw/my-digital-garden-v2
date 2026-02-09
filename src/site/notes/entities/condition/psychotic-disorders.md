@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.110219Z'
+created: '2026-02-09T08:04:40.308538Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Psychotic Disorders
 type: condition
-updated: '2026-02-09T05:54:32.110219Z'
+updated: '2026-02-09T08:04:40.308538Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.110219Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Psychotic_Disorders]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/psychotic-disorders/" class="internal-link">Psychotic_Disorders</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.543275'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Psychotic_Disorders]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/psychotic-disorders/" class="internal-link">Psychotic_Disorders</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:56.559724'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Schizophrenia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Bipolar Disorder]]<br />
-CAUSED_BY::[[Dopamine Imbalance]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-TREATED_BY_DRUG::[[Risperidone]] - Antipsychotic.<br />
-TREATED_BY_DRUG::[[Olanzapine]]<br />
-TREATED_BY_DRUG::[[Clozapine]]<br />
-TREATED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Bipolar Disorder</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Dopamine Imbalance</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Risperidone</a> - Antipsychotic.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Olanzapine</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

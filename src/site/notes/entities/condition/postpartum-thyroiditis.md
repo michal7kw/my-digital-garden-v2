@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.104604Z'
+created: '2026-02-09T08:04:40.302786Z'
 description: An autoimmune inflammatory condition of the thyroid gland that occurs
   within the first year after childbirth, characterized by a transient hyperthyroid
   phase followed by a hypothyroid phase.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Postpartum Thyroiditis
 type: condition
-updated: '2026-02-09T05:54:32.104604Z'
+updated: '2026-02-09T08:04:40.302786Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -48,13 +48,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Postpartum_Thyroiditis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:36.711401'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:36.711401'
 source: obsidian
@@ -75,32 +75,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Postpartum_Thyroiditis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.280450'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.528520'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.280450'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Postpartum_Thyroiditis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.280450'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

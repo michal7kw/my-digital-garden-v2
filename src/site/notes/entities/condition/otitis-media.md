@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.080955Z'
+created: '2026-02-09T08:04:40.277588Z'
 description: An infection or inflammation of the middle ear, located behind the eardrum.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Otitis Media
 type: condition
-updated: '2026-02-09T05:54:32.080955Z'
+updated: '2026-02-09T08:04:40.277588Z'
 ---
 
 {% raw %}
@@ -31,25 +31,25 @@ updated: '2026-02-09T05:54:32.080955Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Otitis_Media]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/otitis-media/" class="internal-link">Otitis_Media</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.683496'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Otitis_Media]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/otitis-media/" class="internal-link">Otitis_Media</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.946099'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Streptococcus pneumoniae]]<br />
-CAUSED_BY::[[Haemophilus influenzae]]<br />
-ASSOCIATED_WITH_CONDITION::[[Common Cold]]<br />
-AFFECTS_ORGAN::[[Ear]]<br />
-TREATED_BY_DRUG::[[Amoxicillin]]<br />
-TREATED_BY_INTERVENTION::[[Tympanostomy Tubes]] - Ear tubes.</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus pneumoniae</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Haemophilus influenzae</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Common Cold</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Ear</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amoxicillin</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Tympanostomy Tubes</a> - Ear tubes.</p>
 <h2>References</h2>
 <ul>
 <li>Lieberthal, A. S., et al. (2013). The diagnosis and management of acute otitis media. Pediatrics.</li>

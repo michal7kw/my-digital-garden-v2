@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.968127Z'
+created: '2026-02-09T08:04:40.156824Z'
 description: Cancer that starts in the colon or rectum, usually beginning as a growth
   called a polyp.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Colorectal Neoplasms
 type: condition
-updated: '2026-02-09T05:54:31.968127Z'
+updated: '2026-02-09T08:04:40.156824Z'
 ---
 
 {% raw %}
@@ -33,26 +33,26 @@ updated: '2026-02-09T05:54:31.968127Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Colorectal_Neoplasms]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-neoplasms/" class="internal-link">Colorectal_Neoplasms</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.371286'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Neoplasms]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-neoplasms/" class="internal-link">Colorectal_Neoplasms</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.888130'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Inflammatory Bowel Disease]] - Increases risk.<br />
-ASSOCIATED_WITH_CONDITION::[[Type 2 Diabetes]]<br />
-CAUSED_BY::[[Polyps]]<br />
-AFFECTS_ORGAN::[[Colon]]<br />
-AFFECTS_ORGAN::[[Rectum]]<br />
-IMPROVED_BY_INTERVENTION::[[Fiber Rich Diet]]<br />
-TREATED_BY_DRUG::[[Fluorouracil]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a> - Increases risk.<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Polyps</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Colon</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Rectum</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Fiber Rich Diet</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Fluorouracil</a></p>
 <h2>References</h2>
 <ul>
 <li>American Cancer Society. Colorectal Cancer Facts &amp; Figures.</li>

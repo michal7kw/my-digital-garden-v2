@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.646649Z'
+created: '2026-02-09T08:04:39.893802Z'
 description: Glial Fibrillary Acidic Protein, an astrocyte-specific marker released
   during brain injury and neuroinflammation. FDA-cleared for TBI and emerging as important
   marker in neurodegeneration.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: GFAP
 type: biomarker
-updated: '2026-02-09T05:54:31.646649Z'
+updated: '2026-02-09T08:04:39.893802Z'
 ---
 
 {% raw %}
@@ -147,223 +147,223 @@ updated: '2026-02-09T05:54:31.646649Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Frontotemporal_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NSE]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Stroke]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Stroke</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Astrocyte]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Astrocyte</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[S100B]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[UCH-L1]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Lumbar_Puncture]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.028418'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[UCH-L1]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Total_Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.683830'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[S100B]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_p-tau217]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NSE]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
@@ -372,27 +372,27 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Traumatic Brain Injury]] (condition) - <em>FDA-cleared indication</em></li>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Emerging marker</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>Elevated</em></li>
-<li>→ [[Multiple Sclerosis]] (condition) - <em>Acute relapses</em></li>
-<li>→ [[Stroke]] (condition) - <em>Acute elevation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/traumatic-brain-injury/" class="internal-link">Traumatic Brain Injury</a> (condition) - <em>FDA-cleared indication</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Emerging marker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Elevated</em></li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Acute relapses</em></li>
+<li>→ <a href="/garden/dev_admin/condition/stroke/" class="internal-link">Stroke</a> (condition) - <em>Acute elevation</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[S100B]] (biomarker) - <em>Related astrocyte marker</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neuronal counterpart</em></li>
-<li>→ [[Plasma p-tau217]] (biomarker) - <em>Complementary</em></li>
-<li>→ [[UCH-L1]] (biomarker) - <em>Combined in TBI test</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker) - <em>Related astrocyte marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neuronal counterpart</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a> (biomarker) - <em>Complementary</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker) - <em>Combined in TBI test</em></li>
 </ul>
 <h3>Pathways</h3>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway) - <em>Reflects astrogliosis</em></li>
-<li>→ [[Amyloid Cascade]] (pathway) - <em>Reactive astrocytes around plaques</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway) - <em>Reflects astrogliosis</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Reactive astrocytes around plaques</em></li>
 </ul>
 <h3>Brain Cells</h3>
 <ul>
-<li>→ [[Astrocyte]] (cell) - <em>Primary source</em></li>
+<li>→ <a href="/garden/dev_admin/cell/astrocyte/" class="internal-link">Astrocyte</a> (cell) - <em>Primary source</em></li>
 </ul>
 <h2>Measurement Platforms</h2>
 <h3>Available Assays</h3>

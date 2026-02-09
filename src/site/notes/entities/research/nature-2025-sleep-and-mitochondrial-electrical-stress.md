@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.147703Z'
+created: '2026-02-09T08:04:41.525111Z'
 description: A breakthrough study identifying mitochondrial electrical stress as a
   direct trigger for sleep pressure in fruit flies.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nature 2025: Sleep and Mitochondrial Electrical Stress'
 type: research
-updated: '2026-02-09T05:54:33.147703Z'
+updated: '2026-02-09T08:04:41.525111Z'
 ---
 
 {% raw %}
@@ -38,9 +38,9 @@ updated: '2026-02-09T05:54:33.147703Z'
 <li><strong>Aging:</strong> Age-related mitochondrial dysfunction could explain sleep fragmentation in the elderly.</li>
 </ul>
 <h2>Relationships</h2>
-<h2>STUDIED_TOPIC::[[Mitochondria]]<br />
-STUDIED_TOPIC::[[Sleep Optimization]]<br />
-STUDIED_TOPIC::[[Reactive Oxygen Species]]<br />
-SUPPORTS_HYPOTHESIS::[[Mitochondrial Theory of Aging]]</h2>
+<h2>STUDIED_TOPIC::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+STUDIED_TOPIC::<a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
+STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Reactive Oxygen Species</a><br />
+SUPPORTS_HYPOTHESIS::<a class="internal-link is-unresolved" href="/404">Mitochondrial Theory of Aging</a></h2>
 
 {% endraw %}

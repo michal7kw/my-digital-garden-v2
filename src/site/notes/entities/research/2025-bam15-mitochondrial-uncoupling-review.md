@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.141639Z'
+created: '2026-02-09T08:04:41.518388Z'
 description: Research highlighting the longevity and metabolic benefits of BAM15,
   a selective mitochondrial uncoupler that mimics the effects of exercise.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 2025 BAM15 Mitochondrial Uncoupling Review
 type: research
-updated: '2026-02-09T05:54:33.141639Z'
+updated: '2026-02-09T08:04:41.518388Z'
 ---
 
 {% raw %}
@@ -32,10 +32,10 @@ updated: '2026-02-09T05:54:33.141639Z'
 <li><strong>Longevity:</strong> Extended lifespan in mouse models of leukemia and improved healthspan metrics (glucose control, liver health) in diabetic models.</li>
 </ol>
 <h2>Relationships</h2>
-<h2>STUDIED_TOPIC::[[Mitochondrial Uncoupling]]<br />
-STUDIED_TOPIC::[[Sarcopenia]]<br />
-STUDIED_TOPIC::[[Obesity]]<br />
-STUDIED_TOPIC::[[Inflammation]]<br />
-INVESTIGATED_INTERVENTION::[[BAM15]]</h2>
+<h2>STUDIED_TOPIC::<a href="/garden/dev_admin/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a><br />
+STUDIED_TOPIC::<a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
+STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+STUDIED_TOPIC::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+INVESTIGATED_INTERVENTION::<a class="internal-link is-unresolved" href="/404">BAM15</a></h2>
 
 {% endraw %}

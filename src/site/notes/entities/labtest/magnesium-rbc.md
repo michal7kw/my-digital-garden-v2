@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.435429Z'
+created: '2026-02-09T08:04:40.677134Z'
 description: Intracellular magnesium. More accurate than serum for assessing true
   magnesium status.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: magnesium_rbc
 type: labtest
-updated: '2026-02-09T05:54:32.435429Z'
+updated: '2026-02-09T08:04:40.677134Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.435429Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[magnesium_rbc]]</li>
+<li><a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-02-09T05:54:32.435429Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[magnesium_rbc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.743277'
 source: obsidian

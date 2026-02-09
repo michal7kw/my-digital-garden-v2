@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.932415Z'
+created: '2026-02-09T08:04:40.114311Z'
 description: A complete or partial break in the continuity of bone tissue, usually
   caused by trauma or underlying disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bone Fractures
 type: condition
-updated: '2026-02-09T05:54:31.932415Z'
+updated: '2026-02-09T08:04:40.114311Z'
 ---
 
 {% raw %}
@@ -34,28 +34,28 @@ updated: '2026-02-09T05:54:31.932415Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bone_Fractures]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-fractures/" class="internal-link">Bone_Fractures</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.356629'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Fractures]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-fractures/" class="internal-link">Bone_Fractures</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.355558'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Trauma]]<br />
-ASSOCIATED_WITH_CONDITION::[[Osteoporosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Osteopenia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Bone Cancer]]<br />
-AFFECTS_ORGAN::[[Bone]]<br />
-TREATED_BY_INTERVENTION::[[Immobilization]] - Casting/Splinting.<br />
-TREATED_BY_INTERVENTION::[[Surgery]] - ORIF (Open Reduction Internal Fixation).<br />
-REQUIRES_COFACTOR::[[Calcium]] - For healing.<br />
-REQUIRES_COFACTOR::[[Vitamin D]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Trauma</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Osteopenia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Bone Cancer</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Immobilization</a> - Casting/Splinting.<br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Surgery</a> - ORIF (Open Reduction Internal Fixation).<br />
+REQUIRES_COFACTOR::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> - For healing.<br />
+REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h2>References</h2>
 <ul>
 <li>American Academy of Orthopaedic Surgeons (AAOS). Fractures (Broken Bones).</li>

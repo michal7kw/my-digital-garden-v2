@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.986920Z'
+created: '2026-02-09T08:04:40.175193Z'
 description: A state of adaptation or dysregulation of the thyroid axis during severe
   non-thyroidal illness, characterized by abnormal thyroid tests in the absence of
   primary thyroid disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Euthyroid Sick Syndrome
 type: condition
-updated: '2026-02-09T05:54:31.986920Z'
+updated: '2026-02-09T08:04:40.175193Z'
 ---
 
 {% raw %}
@@ -30,26 +30,26 @@ updated: '2026-02-09T05:54:31.986920Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Euthyroid_Sick_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/euthyroid-sick-syndrome/" class="internal-link">Euthyroid_Sick_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.104460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Euthyroid_Sick_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/euthyroid-sick-syndrome/" class="internal-link">Euthyroid_Sick_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:35.414163'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Sepsis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Chronic Kidney Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Liver Disease]]<br />
-AFFECTS_ORGAN::[[Thyroid Gland]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Free T3]] - Typically low.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Reverse T3]] - Typically elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[TSH]] - Often normal.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Thyroid Gland</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free T3</a> - Typically low.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">Reverse T3</a> - Typically elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> - Often normal.</p>
 <h2>References</h2>
 <ul>
 <li>Fliers, E., et al. (2015). White Paper: Thyroid Function in Critically Ill Patients.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.041789Z'
+created: '2026-02-09T08:04:40.235132Z'
 description: A condition where the body does not have enough magnesium, an essential
   mineral involved in over 300 biochemical reactions.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Deficiency
 type: condition
-updated: '2026-02-09T05:54:32.041789Z'
+updated: '2026-02-09T08:04:40.235132Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[magnesium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,13 +47,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Magnesium_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:19.970894'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[magnesium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:19.970894'
 source: obsidian
@@ -74,32 +74,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Magnesium_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.188508'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[magnesium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.188508'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[magnesium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.188508'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[magnesium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

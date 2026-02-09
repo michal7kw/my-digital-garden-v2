@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.191280Z'
+created: '2026-02-09T08:04:40.400461Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lisinopril
 type: drug
-updated: '2026-02-09T05:54:32.191280Z'
+updated: '2026-02-09T08:04:40.400461Z'
 ---
 
 {% raw %}
@@ -33,20 +33,20 @@ updated: '2026-02-09T05:54:32.191280Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Quetiapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.172265'
 source: obsidian
 </code></pre>
 <h3>Interactswith</h3>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
 source: PrimeKG
@@ -55,20 +55,20 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Interactswith</h3>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:58.772897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Quetiapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:03.350124'
 source: obsidian

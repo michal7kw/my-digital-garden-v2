@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.724536Z'
+created: '2026-02-09T08:04:41.006539Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Pathways
 type: pathway
-updated: '2026-02-09T05:54:32.724536Z'
+updated: '2026-02-09T08:04:41.006539Z'
 ---
 
 {% raw %}

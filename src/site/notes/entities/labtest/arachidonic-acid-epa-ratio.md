@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.322083Z'
+created: '2026-02-09T08:04:40.546354Z'
 description: uh-rak-ih-don-ik as-id / e-p-a ray-shee-oh The AA/EPA ratio measures
   the balance between arachidonic acid (AA), a pro-inflammatory omega-6 fatty acid,
   and eicosapentaenoic acid (EPA), an anti-inflammatory omega-3 fatty acid. A higher
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: arachidonic_acid_epa_ratio
 type: labtest
-updated: '2026-02-09T05:54:32.322083Z'
+updated: '2026-02-09T08:04:40.546354Z'
 ---
 
 {% raw %}
@@ -60,10 +60,10 @@ updated: '2026-02-09T05:54:32.322083Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Chronic Inflammation]]</li>
-<li>[[Cardiovascular Disease]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Atherosclerosis]]</li>
+<li><a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,106 +71,106 @@ updated: '2026-02-09T05:54:32.322083Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.836413'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.836413'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.836413'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Atherosclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Atherosclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.356432'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.356432'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.356432'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.356432'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mthfr_gene]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.836413'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.836413'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cardiovascular_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -178,8 +178,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

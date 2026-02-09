@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.185013Z'
+created: '2026-02-09T08:04:41.567824Z'
 description: A carbocyclic sugar alcohol that mediates cell signal transduction in
   response to a variety of hormones, neurotransmitters, and growth factors. Particularly
   effective for PCOS and insulin sensitivity.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Inositol
 type: supplement
-updated: '2026-02-09T05:54:33.185013Z'
+updated: '2026-02-09T08:04:41.567824Z'
 ---
 
 {% raw %}
@@ -52,18 +52,18 @@ updated: '2026-02-09T05:54:33.185013Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>PARTICIPATES_IN_PATHWAY::[[Insulin Signaling]] - Critical second messenger<br />
-IMPROVES_CONDITION::[[PCOS]] - First-line non-pharmaceutical treatment<br />
-IMPROVES_CONDITION::[[Insulin Resistance]]<br />
-IMPROVES_CONDITION::[[Metabolic Syndrome]]<br />
-IMPROVES_CONDITION::[[Anxiety]] - High dose<br />
-IMPROVES_CONDITION::[[Gestational Diabetes]]<br />
-SYNERGISTIC_WITH::[[Folate]] - Often combined for fertility<br />
-SYNERGISTIC_WITH::[[Melatonin]] - For egg quality<br />
-REDUCES_BIOMARKER::[[Testosterone]] - In PCOS<br />
-REDUCES_BIOMARKER::[[Triglycerides]]<br />
-REDUCES_BIOMARKER::[[HOMA-IR]]<br />
-AFFECTED_BY::[[High Glucose]] - Inhibits cellular uptake of inositol</p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> - Critical second messenger<br />
+IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a> - First-line non-pharmaceutical treatment<br />
+IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+IMPROVES_CONDITION::<a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> - High dose<br />
+IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/gestational-diabetes/" class="internal-link">Gestational Diabetes</a><br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> - Often combined for fertility<br />
+SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Melatonin</a> - For egg quality<br />
+REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Testosterone</a> - In PCOS<br />
+REDUCES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a><br />
+AFFECTED_BY::<a class="internal-link is-unresolved" href="/404">High Glucose</a> - Inhibits cellular uptake of inositol</p>
 <h2>References</h2>
 <ul>
 <li>Unfer V, et al. Myo-inositol effects in women with PCOS: a meta-analysis of randomized controlled trials. Endocr Connect. 2017;6(8):647-658.</li>

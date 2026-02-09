@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.760072Z'
+created: '2026-02-09T08:04:40.008405Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Wbc
 type: biomarker
-updated: '2026-02-09T05:54:31.760072Z'
+updated: '2026-02-09T08:04:40.008405Z'
 ---
 
 {% raw %}
@@ -30,14 +30,14 @@ updated: '2026-02-09T05:54:31.760072Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Wbc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.048509'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: medium
 function_indicated: Leukopoiesis

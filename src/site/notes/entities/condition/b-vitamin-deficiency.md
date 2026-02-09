@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.925895Z'
+created: '2026-02-09T08:04:40.107749Z'
 description: A deficiency in one or more of the B-complex vitamins (e.g., Folate,
   B6, B12), which are essential for energy metabolism, red blood cell production,
   and neurological function.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: B Vitamin Deficiency
 type: condition
-updated: '2026-02-09T05:54:31.925895Z'
+updated: '2026-02-09T08:04:40.107749Z'
 ---
 
 {% raw %}
@@ -34,28 +34,28 @@ updated: '2026-02-09T05:54:31.925895Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[B_Vitamin_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/b-vitamin-deficiency/" class="internal-link">B_Vitamin_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.956639'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[B_Vitamin_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/b-vitamin-deficiency/" class="internal-link">B_Vitamin_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.763399'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Anemia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Neuropathy]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-AFFECTS_ORGAN::[[Blood]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-AFFECTS_ORGAN::[[Nerve]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Vitamin B12]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Methylmalonic Acid]] - Elevated in B12 deficiency.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Homocysteine]] - Elevated in B12/Folate deficiency.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Neuropathy</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Blood</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Nerve</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">Methylmalonic Acid</a> - Elevated in B12 deficiency.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> - Elevated in B12/Folate deficiency.</p>
 <h2>References</h2>
 <ul>
 <li>Stabler, S. P. (2013). Vitamin B12 deficiency. NEJM.</li>

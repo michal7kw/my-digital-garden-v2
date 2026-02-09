@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.672001Z'
+created: '2026-02-09T08:04:39.919733Z'
 description: An oral glucose tolerance test with serial insulin measurements (GTIR),
   used to detect early-stage insulin resistance and occult diabetes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Kraft Test
 type: biomarker
-updated: '2026-02-09T05:54:31.672001Z'
+updated: '2026-02-09T08:04:39.919733Z'
 ---
 
 {% raw %}
@@ -43,13 +43,13 @@ updated: '2026-02-09T05:54:31.672001Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kraft_Test]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.243375'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kraft_Test]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.243375'
 source: obsidian
@@ -63,13 +63,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kraft_Test]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:21.570072'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kraft_Test]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:21.570072'
 source: obsidian

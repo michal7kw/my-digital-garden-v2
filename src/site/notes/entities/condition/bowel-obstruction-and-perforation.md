@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.934666Z'
+created: '2026-02-09T08:04:40.116864Z'
 description: Serious gastrointestinal emergencies involving either a blockage of the
   intestines (obstruction) or a tear in the intestinal wall (perforation).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Bowel Obstruction and Perforation
 type: condition
-updated: '2026-02-09T05:54:31.934666Z'
+updated: '2026-02-09T08:04:40.116864Z'
 ---
 
 {% raw %}
@@ -34,25 +34,25 @@ updated: '2026-02-09T05:54:31.934666Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bowel_Obstruction_and_Perforation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bowel-obstruction-and-perforation/" class="internal-link">Bowel_Obstruction_and_Perforation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.553050'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bowel_Obstruction_and_Perforation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bowel-obstruction-and-perforation/" class="internal-link">Bowel_Obstruction_and_Perforation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.603806'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Sepsis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Inflammatory Bowel Disease]]<br />
-AFFECTS_ORGAN::[[Intestine]]<br />
-AFFECTS_ORGAN::[[Stomach]]<br />
-TREATED_BY_INTERVENTION::[[Surgery]]<br />
-TREATED_BY_INTERVENTION::[[Nasogastric Intubation]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestine</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Stomach</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Surgery</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Nasogastric Intubation</a></p>
 <h2>References</h2>
 <ul>
 <li>Catel, L., et al. (2019). Small bowel obstruction.</li>

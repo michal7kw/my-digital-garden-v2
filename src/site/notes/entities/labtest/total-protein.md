@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.519245Z'
+created: '2026-02-09T08:04:40.774430Z'
 description: Tested twice a year Total protein measures the combined levels of albumin
   and globulin in the blood. Maintaining adequate protein levels is important for
   overall health, as proteins support tissue repair, immune function, and general
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: total_protein
 type: labtest
-updated: '2026-02-09T05:54:32.519245Z'
+updated: '2026-02-09T08:04:40.774430Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.519245Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Liver Disease]]</li>
-<li>[[Kidney Disease]]</li>
-<li>[[Malnutrition Or Poor Absorption]]</li>
-<li>[[Chronic Inflammation (E.G., Autoimmune Disease)]]</li>
-<li>[[Blood Cancers (E.G., Multiple Myeloma)]]</li>
+<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Malnutrition Or Poor Absorption</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Inflammation (E.G., Autoimmune Disease)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Blood Cancers (E.G., Multiple Myeloma)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,98 +72,98 @@ updated: '2026-02-09T05:54:32.519245Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malnutrition_Or_Poor_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Cancers_EG_Multiple_Myeloma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Blood_Cancers_EG_Multiple_Myeloma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.071987'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.071987'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Cancers_EG_Multiple_Myeloma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Blood_Cancers_EG_Multiple_Myeloma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.071987'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malnutrition_Or_Poor_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.071987'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.071987'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[liver_function_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Liver_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.893481'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[liver_function_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Liver_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

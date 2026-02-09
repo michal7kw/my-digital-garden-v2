@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.674939Z'
+created: '2026-02-09T08:04:39.922470Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Ldl Size
 type: biomarker
-updated: '2026-02-09T05:54:31.674939Z'
+updated: '2026-02-09T08:04:39.922470Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.674939Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ldl_Size]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-size/" class="internal-link">Ldl_Size</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.388917'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ldl_Size]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-size/" class="internal-link">Ldl_Size</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.388917'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ldl_Size]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-size/" class="internal-link">Ldl_Size</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:22.356369'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ldl_Size]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-size/" class="internal-link">Ldl_Size</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:22.356369'
 source: obsidian

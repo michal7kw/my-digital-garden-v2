@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.314569Z'
+created: '2026-02-09T08:04:40.537888Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (ANA)
   screen looks for antibodies that sometimes target the body’s own cells. A positive
   result may suggest autoimmune activity, but it is also found in many healthy people.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_screen
 type: labtest
-updated: '2026-02-09T05:54:32.314569Z'
+updated: '2026-02-09T08:04:40.537888Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.314569Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Systemic Lupus Erythematosus (Sle)]]</li>
-<li>[[Sjögren’S Syndrome]]</li>
-<li>[[Systemic Sclerosis (Scleroderma)]]</li>
-<li>[[Mixed Connective Tissue Disease]]</li>
-<li>[[Polymyositis Or Dermatomyositis]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Systemic Lupus Erythematosus (Sle)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Sjögren’S Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Systemic Sclerosis (Scleroderma)</a></li>
+<li><a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed Connective Tissue Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Polymyositis Or Dermatomyositis</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,98 +74,98 @@ updated: '2026-02-09T05:54:32.314569Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mixed_Connective_Tissue_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Sclerosis_Scleroderma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Sclerosis_Scleroderma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polymyositis_Or_Dermatomyositis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polymyositis_Or_Dermatomyositis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SjgrenS_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Lupus_Erythematosus_Sle]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Lupus_Erythematosus_Sle]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polymyositis_Or_Dermatomyositis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polymyositis_Or_Dermatomyositis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SjgrenS_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Sclerosis_Scleroderma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Sclerosis_Scleroderma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_autoimmunity]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.700050'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.325688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_autoimmunity]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -173,8 +173,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_autoimmunity]] (labtestpanel)</li>
-<li>→ [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

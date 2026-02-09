@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.264123Z'
+created: '2026-02-09T08:04:40.480929Z'
 description: Encodes the proto-oncogene tyrosine-protein kinase Src. The first retroviral
   oncogene discovered.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SRC
 type: gene
-updated: '2026-02-09T05:54:32.264123Z'
+updated: '2026-02-09T08:04:40.480929Z'
 ---
 
 {% raw %}
@@ -27,8 +27,8 @@ updated: '2026-02-09T05:54:32.264123Z'
 <p>It plays a pivotal role in regulating cell growth, adhesion, and migration. Mutations or overexpression lead to malignant transformation.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[SRC]] (protein) - <em>Encodes</em></li>
-<li>→ [[Cancer]] (condition) - <em>Driver</em></li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition) - <em>Driver</em></li>
 </ul>
 <h2>References</h2>
 <ol>

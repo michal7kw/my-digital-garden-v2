@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.759416Z'
+created: '2026-02-09T08:04:40.007782Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Vldl
 type: biomarker
-updated: '2026-02-09T05:54:31.759416Z'
+updated: '2026-02-09T08:04:40.007782Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.759416Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vldl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/vldl/" class="internal-link">Vldl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.995199'
 source: obsidian
@@ -44,7 +44,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vldl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/vldl/" class="internal-link">Vldl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:32.729710'
 source: obsidian

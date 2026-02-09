@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.002775Z'
+created: '2026-02-09T08:04:40.192425Z'
 description: A chronic viral infection that attacks the body's immune system, specifically
   CD4 T cells, potentially leading to AIDS if untreated.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: HIV Infections
 type: condition
-updated: '2026-02-09T05:54:32.002775Z'
+updated: '2026-02-09T08:04:40.192425Z'
 ---
 
 {% raw %}
@@ -28,27 +28,27 @@ updated: '2026-02-09T05:54:32.002775Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[HIV_Infections]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hiv-infections/" class="internal-link">HIV_Infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.509480'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HIV_Infections]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hiv-infections/" class="internal-link">HIV_Infections</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:39.195069'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Human Immunodeficiency Virus]]<br />
-ASSOCIATED_WITH_CONDITION::[[Acquired Immunodeficiency Syndrome]]<br />
-ASSOCIATED_WITH_CONDITION::[[Tuberculosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Kaposi Sarcoma]]<br />
-TREATED_BY_DRUG::[[Tenofovir]]<br />
-TREATED_BY_DRUG::[[Emtricitabine]]<br />
-TREATED_BY_DRUG::[[Dolutegravir]]<br />
-AFFECTS_ORGAN::[[Immune System]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Human Immunodeficiency Virus</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acquired Immunodeficiency Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Tuberculosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kaposi Sarcoma</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Tenofovir</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Emtricitabine</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Dolutegravir</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a></p>
 <h2>References</h2>
 <ul>
 <li>CDC. HIV Basics.</li>

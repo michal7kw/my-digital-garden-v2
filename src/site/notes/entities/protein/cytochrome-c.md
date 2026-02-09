@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.070410Z'
+created: '2026-02-09T08:04:41.430330Z'
 description: A small heme protein that serves as an essential electron carrier in
   the mitochondrial electron transport chain, shuttling electrons from Complex III
   to Complex IV. Also plays a crucial role in apoptosis when released into the cytoplasm.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Cytochrome C
 type: protein
-updated: '2026-02-09T05:54:33.070410Z'
+updated: '2026-02-09T08:04:41.430330Z'
 ---
 
 {% raw %}
@@ -142,19 +142,19 @@ updated: '2026-02-09T05:54:33.070410Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>PART_OF::[[Electron Transport Chain]] - Essential electron carrier<br />
-TRANSFERS_ELECTRONS_FROM::[[Complex III]] - Receives electrons<br />
-TRANSFERS_ELECTRONS_TO::[[Complex IV]] - Donates electrons<br />
-LOCATED_IN::[[Mitochondria]] - Intermembrane space<br />
-TRIGGERS::[[Apoptosis]] - Intrinsic pathway<br />
-BINDS::[[Cardiolipin]] - Inner membrane attachment<br />
-ACTIVATES::[[Apaf-1]] - Apoptosome formation<br />
-AFFECTED_BY::[[Oxidative Stress]] - Cardiolipin peroxidation<br />
-PARTICIPATES_IN_PATHWAY::[[Oxidative Phosphorylation]]<br />
-RELATED_TO::[[CoQ10]] - Upstream electron carrier<br />
-RELATED_TO::[[ATP]] - Supports synthesis<br />
-RELATED_TO::[[Bcl-2]] - Anti-apoptotic antagonist<br />
-ENCODED_BY::[[CYCS]] - Nuclear gene</p>
+<p>PART_OF::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Essential electron carrier<br />
+TRANSFERS_ELECTRONS_FROM::<a class="internal-link is-unresolved" href="/404">Complex III</a> - Receives electrons<br />
+TRANSFERS_ELECTRONS_TO::<a class="internal-link is-unresolved" href="/404">Complex IV</a> - Donates electrons<br />
+LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Intermembrane space<br />
+TRIGGERS::<a class="internal-link is-unresolved" href="/404">Apoptosis</a> - Intrinsic pathway<br />
+BINDS::<a class="internal-link is-unresolved" href="/404">Cardiolipin</a> - Inner membrane attachment<br />
+ACTIVATES::<a class="internal-link is-unresolved" href="/404">Apaf-1</a> - Apoptosome formation<br />
+AFFECTED_BY::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a> - Cardiolipin peroxidation<br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Upstream electron carrier<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">ATP</a> - Supports synthesis<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Bcl-2</a> - Anti-apoptotic antagonist<br />
+ENCODED_BY::<a class="internal-link is-unresolved" href="/404">CYCS</a> - Nuclear gene</p>
 <h2>References</h2>
 <ul>
 <li>Liu X, et al. Induction of apoptotic program in cell-free extracts: requirement for dATP and cytochrome c. Cell. 1996;86(1):147-57. PMID: 8689682</li>

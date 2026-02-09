@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.947627Z'
+created: '2026-02-09T08:04:40.132610Z'
 description: A long-term infection where the pathogen remains in the body for an extended
   period, often leading to persistent inflammation and organ damage.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Infection
 type: condition
-updated: '2026-02-09T05:54:31.947627Z'
+updated: '2026-02-09T08:04:40.132610Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[monocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,13 +47,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Infection]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:56.127712'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[monocytes]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:56.127712'
 source: obsidian
@@ -74,32 +74,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Infection]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[monocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Infection]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[monocytes]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[monocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

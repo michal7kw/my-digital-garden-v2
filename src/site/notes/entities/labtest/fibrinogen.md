@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.370446Z'
+created: '2026-02-09T08:04:40.601748Z'
 description: Clotting factor and acute phase reactant. Elevated in inflammation and
   cardiovascular disease.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: fibrinogen
 type: labtest
-updated: '2026-02-09T05:54:32.370446Z'
+updated: '2026-02-09T08:04:40.601748Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.370446Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[fibrinogen]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">fibrinogen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.850826'
 source: obsidian

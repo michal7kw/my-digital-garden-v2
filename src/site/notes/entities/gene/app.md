@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.252425Z'
+created: '2026-02-09T08:04:40.468300Z'
 description: Encodes the Amyloid-Beta Precursor Protein. Mutations in this gene are
   associated with early-onset Alzheimer's disease.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: APP
 type: gene
-updated: '2026-02-09T05:54:32.252425Z'
+updated: '2026-02-09T08:04:40.468300Z'
 ---
 
 {% raw %}
@@ -25,8 +25,8 @@ updated: '2026-02-09T05:54:32.252425Z'
 <p>The <strong>APP</strong> gene encodes a cell surface receptor and transmembrane precursor protein that is cleaved by secretases to form a number of peptides. Some of these peptides are secreted and can bind to the acetyltransferase complex APBB1/TIP60 to promote transcriptional activation, while others form the protein basis of the <strong>amyloid plaques</strong> found in the brains of patients with Alzheimer disease.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[APP]] (protein) - <em>Encodes</em></li>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Associated with mutations</em></li>
+<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Associated with mutations</em></li>
 </ul>
 <h2>References</h2>
 <ol>

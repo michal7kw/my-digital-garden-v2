@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.148445Z'
+created: '2026-02-09T08:04:41.525926Z'
 description: This comprehensive mechanistic review elucidates how resveratrol activates
   SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha,
   mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: 'SIRT1 activation by resveratrol: mechanism and physiological effects'
 type: research
-updated: '2026-02-09T05:54:33.148445Z'
+updated: '2026-02-09T08:04:41.525926Z'
 ---
 
 {% raw %}
@@ -48,16 +48,16 @@ updated: '2026-02-09T05:54:33.148445Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>STUDIES::[[Resveratrol]] - Primary compound investigated<br />
-ACTIVATES::[[SIRT1]] - Direct allosteric activation mechanism demonstrated<br />
-ACTIVATES::[[PGC-1alpha]] - Downstream target via SIRT1-mediated deacetylation<br />
-INCREASES::[[NAD+]] - Required cofactor for SIRT1 activity<br />
-AFFECTS::[[Mitochondria]] - Enhanced biogenesis and function<br />
-ACTIVATES::[[NRF2]] - Downstream transcription factor<br />
-ACTIVATES::[[TFAM]] - Mitochondrial transcription factor activation<br />
-RELATED_TO::[[AMPK]] - Cross-talk with energy sensing pathway<br />
-AFFECTS::[[Muscle]] - Target tissue for metabolic effects<br />
-AFFECTS::[[Liver]] - Hepatic metabolic improvements</p>
+<p>STUDIES::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Primary compound investigated<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Direct allosteric activation mechanism demonstrated<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> - Downstream target via SIRT1-mediated deacetylation<br />
+INCREASES::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Required cofactor for SIRT1 activity<br />
+AFFECTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Enhanced biogenesis and function<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> - Downstream transcription factor<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> - Mitochondrial transcription factor activation<br />
+RELATED_TO::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Cross-talk with energy sensing pathway<br />
+AFFECTS::<a class="internal-link is-unresolved" href="/404">Muscle</a> - Target tissue for metabolic effects<br />
+AFFECTS::<a class="internal-link is-unresolved" href="/404">Liver</a> - Hepatic metabolic improvements</p>
 <h2>Methodology</h2>
 <pre><code class="language-yaml">design: Combined in vitro biochemistry, cell culture, and mouse models
 models_used:

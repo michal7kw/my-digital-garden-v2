@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.228062Z'
+created: '2026-02-09T08:04:40.441483Z'
 description: Recording of brain electrical activity used for seizure detection, encephalopathy
   assessment, and prognostication after cardiac arrest. Shows characteristic slowing
   in neurodegenerative diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EEG
 type: examination
-updated: '2026-02-09T05:54:32.228062Z'
+updated: '2026-02-09T08:04:40.441483Z'
 ---
 
 {% raw %}
@@ -149,22 +149,22 @@ updated: '2026-02-09T05:54:32.228062Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Creutzfeldt-Jakob Disease]] (condition) - <em>PSWCs diagnostic</em></li>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Diffuse slowing</em></li>
-<li>→ [[Lewy Body Dementia]] (condition) - <em>Marked slowing</em></li>
-<li>→ [[Epilepsy]] (condition) - <em>Primary indication</em></li>
-<li>→ [[Delirium]] (condition) - <em>Triphasic waves, slowing</em></li>
+<li>→ <a href="/garden/dev_admin/condition/creutzfeldt-jakob-disease/" class="internal-link">Creutzfeldt-Jakob Disease</a> (condition) - <em>PSWCs diagnostic</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Diffuse slowing</em></li>
+<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Marked slowing</em></li>
+<li>→ <a href="/garden/dev_admin/condition/epilepsy/" class="internal-link">Epilepsy</a> (condition) - <em>Primary indication</em></li>
+<li>→ <a href="/garden/dev_admin/condition/delirium/" class="internal-link">Delirium</a> (condition) - <em>Triphasic waves, slowing</em></li>
 </ul>
 <h3>Related Examinations</h3>
 <ul>
-<li>← [[Neuropsychological Testing]] (examination) - <em>Cognitive correlate</em></li>
-<li>← [[MRI Volumetry]] (examination) - <em>Structural correlate</em></li>
-<li>→ [[Evoked Potentials]] (examination) - <em>Related technique</em></li>
+<li>← <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological Testing</a> (examination) - <em>Cognitive correlate</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Structural correlate</em></li>
+<li>→ <a href="/garden/dev_admin/examination/evoked-potentials/" class="internal-link">Evoked Potentials</a> (examination) - <em>Related technique</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[NSE]] (biomarker) - <em>Combined in cardiac arrest prognosis</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neurodegeneration</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker) - <em>Combined in cardiac arrest prognosis</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration</em></li>
 </ul>
 <h2>Interpretation Guide</h2>
 <h3>Normal Findings</h3>

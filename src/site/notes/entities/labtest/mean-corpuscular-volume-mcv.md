@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.441052Z'
+created: '2026-02-09T08:04:40.683711Z'
 description: Tested twice a year Mean corpuscular volume (MCV) looks at the average
   size of red blood cells, the cells that carry oxygen throughout the body. Smaller-than-normal
   cells (low MCV) are often linked to iron deficiency anemia or thalassemia, while
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: mean_corpuscular_volume_mcv
 type: labtest
-updated: '2026-02-09T05:54:32.441052Z'
+updated: '2026-02-09T08:04:40.683711Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.441052Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Iron Deficiency Anemia]]</li>
-<li>[[Thalassemia]]</li>
-<li>[[Vitamin B12 Deficiency]]</li>
-<li>[[Folate Deficiency]]</li>
-<li>[[Liver Dysfunction]]</li>
+<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Thalassemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Folate Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,68 +74,68 @@ updated: '2026-02-09T05:54:32.441052Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Folate_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Folate_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.786335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.786335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.786335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.786335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thalassemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thalassemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.098298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Folate_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Folate_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.098298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.098298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.098298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.098298'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

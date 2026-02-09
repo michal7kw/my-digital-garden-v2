@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.247299Z'
+created: '2026-02-09T08:04:40.462443Z'
 description: Positron emission tomography using radiotracers that bind to tau neurofibrillary
   tangles. Correlates strongly with cognitive symptoms and disease progression in
   Alzheimer's disease and other tauopathies.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tau PET Imaging
 type: examination
-updated: '2026-02-09T05:54:32.247299Z'
+updated: '2026-02-09T08:04:40.462443Z'
 ---
 
 {% raw %}
@@ -188,27 +188,27 @@ updated: '2026-02-09T05:54:32.247299Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Correlates with symptoms</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>4R tauopathies</em></li>
-<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>4R tau pattern</em></li>
-<li>→ [[Corticobasal Degeneration]] (condition) - <em>Asymmetric 4R tau</em></li>
-<li>→ [[Chronic Traumatic Encephalopathy]] (condition) - <em>Distinct pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Correlates with symptoms</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>4R tauopathies</em></li>
+<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>4R tau pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/corticobasal-degeneration/" class="internal-link">Corticobasal Degeneration</a> (condition) - <em>Asymmetric 4R tau</em></li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-traumatic-encephalopathy/" class="internal-link">Chronic Traumatic Encephalopathy</a> (condition) - <em>Distinct pattern</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker) - <em>CSF/plasma correlate</em></li>
-<li>→ [[Total Tau]] (biomarker) - <em>Neurodegeneration marker</em></li>
-<li>← [[Amyloid PET Imaging]] (examination) - <em>Combined ATN staging</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>CSF/plasma correlate</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration marker</em></li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Combined ATN staging</em></li>
 </ul>
 <h3>Brain Regions (Affected)</h3>
 <ul>
-<li>→ [[Entorhinal Cortex]] (organ) - <em>Earliest involvement</em></li>
-<li>→ [[Hippocampus]] (organ) - <em>Memory symptoms</em></li>
-<li>→ [[Posterior Cingulate Cortex]] (organ) - <em>Early neocortical</em></li>
+<li>→ <a href="/garden/dev_admin/organ/entorhinal-cortex/" class="internal-link">Entorhinal Cortex</a> (organ) - <em>Earliest involvement</em></li>
+<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Memory symptoms</em></li>
+<li>→ <a href="/garden/dev_admin/organ/posterior-cingulate-cortex/" class="internal-link">Posterior Cingulate Cortex</a> (organ) - <em>Early neocortical</em></li>
 </ul>
 <h3>Pathways</h3>
 <ul>
-<li>→ [[Tau Phosphorylation]] (pathway) - <em>Visualizes endpoint</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>Visualizes endpoint</em></li>
 </ul>
 <h2>Combined ATN Imaging</h2>
 <h3>Complete Biomarker Profile</h3>

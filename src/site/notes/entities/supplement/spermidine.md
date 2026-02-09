@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.232943Z'
+created: '2026-02-09T08:04:41.621316Z'
 description: A natural polyamine that induces autophagy and has been associated with
   increased lifespan and cardiovascular protection.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Spermidine
 type: supplement
-updated: '2026-02-09T05:54:33.232943Z'
+updated: '2026-02-09T08:04:41.621316Z'
 ---
 
 {% raw %}
@@ -26,13 +26,13 @@ updated: '2026-02-09T05:54:33.232943Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:54.543507'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian

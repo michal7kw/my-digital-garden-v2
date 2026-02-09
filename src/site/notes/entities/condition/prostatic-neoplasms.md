@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.108949Z'
+created: '2026-02-09T08:04:40.307180Z'
 description: Cancer of the prostate gland, a small walnut-shaped gland in males that
   produces seminal fluid. It is one of the most common types of cancer in men.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Prostatic Neoplasms
 type: condition
-updated: '2026-02-09T05:54:32.108949Z'
+updated: '2026-02-09T08:04:40.307180Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Prostatic_Neoplasms]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/prostatic-neoplasms/" class="internal-link">Prostatic_Neoplasms</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.889256'
 source: obsidian
@@ -60,13 +60,13 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Prostatic_Neoplasms]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/prostatic-neoplasms/" class="internal-link">Prostatic_Neoplasms</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.670493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prostatic_Neoplasms]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/prostatic-neoplasms/" class="internal-link">Prostatic_Neoplasms</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.670493'
 source: obsidian

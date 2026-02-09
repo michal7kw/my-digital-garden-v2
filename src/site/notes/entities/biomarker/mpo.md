@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.679845Z'
+created: '2026-02-09T08:04:39.927362Z'
 description: Myeloperoxidase is a heme peroxidase enzyme released by activated neutrophils
   and monocytes. Elevated levels indicate oxidative stress and vascular inflammation,
   independently predicting acute coronary events and heart failure outcomes.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: MPO
 type: biomarker
-updated: '2026-02-09T05:54:31.679845Z'
+updated: '2026-02-09T08:04:39.927362Z'
 ---
 
 {% raw %}
@@ -63,9 +63,9 @@ updated: '2026-02-09T05:54:31.679845Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[NAC]] - May decrease MPO activity through antioxidant mechanisms (moderate effect, evidence level 3)</li>
-<li>[[Vitamin C]] - Scavenges MPO-derived oxidants (mild effect, evidence level 3)</li>
-<li>[[Omega-3 Fatty Acids]] - May reduce neutrophil activation and MPO release (mild effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> - May decrease MPO activity through antioxidant mechanisms (moderate effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Scavenges MPO-derived oxidants (mild effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May reduce neutrophil activation and MPO release (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
@@ -75,17 +75,17 @@ updated: '2026-02-09T05:54:31.679845Z'
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Oxidized LDL]] (biomarker) - MPO directly oxidizes LDL particles</li>
-<li>→ [[Lp-PLA2]] (biomarker) - Both indicate vascular-specific inflammation</li>
-<li>→ [[Hs Crp]] (biomarker) - Complementary inflammatory markers</li>
-<li>→ [[White Blood Cell Count]] (biomarker) - MPO released from activated leukocytes</li>
-<li>→ [[Troponin]] (biomarker) - MPO may rise before troponin in ACS</li>
+<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker) - MPO directly oxidizes LDL particles</li>
+<li>→ <a href="/garden/dev_admin/biomarker/lp-pla2/" class="internal-link">Lp-PLA2</a> (biomarker) - Both indicate vascular-specific inflammation</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Complementary inflammatory markers</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker) - MPO released from activated leukocytes</li>
+<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker) - MPO may rise before troponin in ACS</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Cardiovascular Disease]] (condition)</li>
-<li>→ [[Heart Failure]] (condition)</li>
-<li>→ [[Atherosclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/atherosclerosis/" class="internal-link">Atherosclerosis</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ul>

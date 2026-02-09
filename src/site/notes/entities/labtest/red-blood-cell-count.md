@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.487081Z'
+created: '2026-02-09T08:04:40.736587Z'
 description: red blud sell kownt Tested twice a year Red blood cell (RBC) count is
   a key marker of health that reflects how well the body can carry oxygen to tissues,
   which is essential for energy and overall function. Abnormal RBC levels—too low
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: red_blood_cell_count
 type: labtest
-updated: '2026-02-09T05:54:32.487081Z'
+updated: '2026-02-09T08:04:40.736587Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.487081Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Anemia]]</li>
-<li>[[Polycythemia Vera]]</li>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Dehydration]]</li>
-<li>[[Metabolic Syndrome]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Anemia</a></li>
+<li><a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,88 +72,88 @@ updated: '2026-02-09T05:54:32.487081Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.733637'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.733637'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.733637'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Polycythemia_Vera]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

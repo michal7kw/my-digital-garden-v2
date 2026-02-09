@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.528647Z'
+created: '2026-02-09T08:04:40.784606Z'
 description: Uric acid is a substance the body produces when breaking down certain
   foods and natural waste products. Testing uric acid can provide insight into kidney
   function and how well the body is processing waste. Imbalances may indicate an increased
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: uric_acid
 type: labtest
-updated: '2026-02-09T05:54:32.528647Z'
+updated: '2026-02-09T08:04:40.784606Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.528647Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Gout]]</li>
-<li>[[Kidney Stones]]</li>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Cardiovascular Disease]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Gout</a></li>
+<li><a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,107 +71,107 @@ updated: '2026-02-09T05:54:32.528647Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gout]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gout</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Kidney_Stones]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cardiovascular_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.353516Z'
+created: '2026-02-09T08:04:40.582333Z'
 description: ess-tih-may-tid gloh-mer-yoo-lur fil-tray-shun rayt Tested twice a year
   Estimated glomerular filtration rate (eGFR) is a calculation that shows how well
   the kidneys are filtering waste from the blood. Low eGFR can signal reduced kidney
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine_based_estimated_glomerular_filtration_rate_egfr
 type: labtest
-updated: '2026-02-09T05:54:32.353516Z'
+updated: '2026-02-09T08:04:40.582333Z'
 ---
 
 {% raw %}
@@ -62,9 +62,9 @@ updated: '2026-02-09T05:54:32.353516Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Acute Kidney Dysfunction]]</li>
-<li>[[Diabetes-Related Kidney Disease]]</li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Acute Kidney Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Diabetes-Related Kidney Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,50 +72,50 @@ updated: '2026-02-09T05:54:32.353516Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Diabetes-Related_Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Diabetes-Related_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.687573'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.687573'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acute_Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Acute_Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.687573'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes-Related_Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Diabetes-Related_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.186846'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acute_Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Acute_Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.186846'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.186846'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

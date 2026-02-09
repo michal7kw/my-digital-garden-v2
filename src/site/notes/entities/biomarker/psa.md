@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.705998Z'
+created: '2026-02-09T08:04:39.954139Z'
 description: Prostate-specific antigen is a serine protease produced by prostatic
   epithelial cells. It is the primary screening biomarker for prostate cancer, though
   elevations also occur in benign prostatic hyperplasia and prostatitis.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: PSA
 type: biomarker
-updated: '2026-02-09T05:54:31.705998Z'
+updated: '2026-02-09T08:04:39.954139Z'
 ---
 
 {% raw %}
@@ -63,20 +63,20 @@ updated: '2026-02-09T05:54:31.705998Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Saw Palmetto]] - May decrease PSA in men with BPH (mild, evidence level 3)</li>
-<li>[[Lycopene]] - May reduce PSA levels in men with elevated PSA (mild, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Saw Palmetto</a> - May decrease PSA in men with BPH (mild, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Lycopene</a> - May reduce PSA levels in men with elevated PSA (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[prostate specific antigen psa total]] - Total PSA measurement</li>
-<li>[[prostate specific antigen psa free]] - Free PSA for calculating free-to-total ratio</li>
+<li><a href="/garden/dev_admin/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a> - Total PSA measurement</li>
+<li><a href="/garden/dev_admin/labtest/prostate-specific-antigen-psa-free/" class="internal-link">prostate specific antigen psa free</a> - Free PSA for calculating free-to-total ratio</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Testosterone Total]] (biomarker) - Testosterone influences prostate growth and PSA production</li>
-<li>→ [[Testosterone Free]] (biomarker) - Free testosterone directly affects prostatic tissue</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">Testosterone Total</a> (biomarker) - Testosterone influences prostate growth and PSA production</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">Testosterone Free</a> (biomarker) - Free testosterone directly affects prostatic tissue</li>
 </ul>
 <h2>References</h2>
 <ul>

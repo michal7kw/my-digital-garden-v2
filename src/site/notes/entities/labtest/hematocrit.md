@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.386126Z'
+created: '2026-02-09T08:04:40.619973Z'
 description: Tested twice a year Hematocrit measures the percentage of red blood cells
   in the blood—the cells responsible for carrying oxygen throughout the body. Low
   levels are most often linked to anemia or blood loss, while high levels may reflect
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: hematocrit
 type: labtest
-updated: '2026-02-09T05:54:32.386126Z'
+updated: '2026-02-09T08:04:40.619973Z'
 ---
 
 {% raw %}
@@ -63,11 +63,11 @@ updated: '2026-02-09T05:54:32.386126Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Iron Deficiency Anemia]]</li>
-<li>[[Anemia Of Chronic Disease]]</li>
-<li>[[Polycythemia Vera]]</li>
-<li>[[Dehydration]]</li>
-<li>[[Chronic Lung Disease]]</li>
+<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a></li>
+<li><a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -75,106 +75,106 @@ updated: '2026-02-09T05:54:32.386126Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Anemia_Of_Chronic_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anemia_Of_Chronic_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[complete_blood_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Polycythemia_Vera]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Lung_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[complete_blood_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.728293Z'
+created: '2026-02-09T08:04:39.976566Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium
 type: biomarker
-updated: '2026-02-09T05:54:31.728293Z'
+updated: '2026-02-09T08:04:39.976566Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.728293Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sodium]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/sodium/" class="internal-link">Sodium</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.960657'
 source: obsidian
@@ -44,7 +44,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sodium]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/sodium/" class="internal-link">Sodium</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:25.591629'
 source: obsidian

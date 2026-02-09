@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.071160Z'
+created: '2026-02-09T08:04:40.268499Z'
 description: A broad term for diseases that affect the nerves that control voluntary
   muscles and the communication between nerves and muscles.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Neuromuscular Disorder
 type: condition
-updated: '2026-02-09T05:54:32.071160Z'
+updated: '2026-02-09T08:04:40.268499Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Neuromuscular_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:28.488159'
 source: obsidian
@@ -59,13 +59,13 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Neuromuscular_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.327317'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuromuscular_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.327317'
 source: obsidian

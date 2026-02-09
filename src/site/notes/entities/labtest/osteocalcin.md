@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.471666Z'
+created: '2026-02-09T08:04:40.719263Z'
 description: Osteocalcin test. Bone-specific protein produced by osteoblasts during
   bone formation. Serves as a marker of bone turnover and osteoblast activity. Used
   in monitoring osteoporosis treatment and assessing bone metabolic disorders.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: osteocalcin
 type: labtest
-updated: '2026-02-09T05:54:32.471666Z'
+updated: '2026-02-09T08:04:40.719263Z'
 ---
 
 {% raw %}
@@ -103,20 +103,20 @@ updated: '2026-02-09T05:54:32.471666Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Osteoporosis]]</li>
-<li>[[Osteopenia]]</li>
-<li>[[Paget's Disease]]</li>
-<li>[[Hyperparathyroidism]]</li>
-<li>[[Renal Osteodystrophy]]</li>
+<li><a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Osteopenia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Paget's Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Renal Osteodystrophy</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Osteocalcin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[bone health panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/bone-health-panel/" class="internal-link">bone health panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

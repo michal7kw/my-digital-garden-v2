@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.086169Z'
+created: '2026-02-09T08:04:40.282930Z'
 description: A condition where the pancreas does not produce enough enzymes to properly
   digest food, leading to malabsorption and nutritional deficiencies.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreatic Insufficiency
 type: condition
-updated: '2026-02-09T05:54:32.086169Z'
+updated: '2026-02-09T08:04:40.282930Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.086169Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pancreatic_Insufficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/pancreatic-insufficiency/" class="internal-link">Pancreatic_Insufficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.189375'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreatic_Insufficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pancreatic-insufficiency/" class="internal-link">Pancreatic_Insufficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:52.669173'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Pancreatitis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-ASSOCIATED_WITH_CONDITION::[[Malnutrition and Malabsorption]]<br />
-AFFECTS_ORGAN::[[Pancreas]]<br />
-AFFECTS_ORGAN::[[Intestine]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Fecal Elastase]] - Key diagnostic test.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Vitamin D]] - Often low.<br />
-TREATED_BY_DRUG::[[Pancrelipase]] - Enzyme replacement (PERT).</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pancreatitis/" class="internal-link">Pancreatitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/malnutrition-and-malabsorption/" class="internal-link">Malnutrition and Malabsorption</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestine</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Fecal Elastase</a> - Key diagnostic test.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Often low.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Pancrelipase</a> - Enzyme replacement (PERT).</p>
 <h2>References</h2>
 <ul>
 <li>Lindkvist, B. (2013). Diagnosis and treatment of pancreatic exocrine insufficiency. World Journal of Gastroenterology.</li>

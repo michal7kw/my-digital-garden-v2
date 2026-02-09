@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.962025Z'
+created: '2026-02-09T08:04:40.151134Z'
 description: A broad term for long-term respiratory conditions that impair breathing
   and lung function, including obstructive and restrictive diseases.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Lung Disease
 type: condition
-updated: '2026-02-09T05:54:31.962025Z'
+updated: '2026-02-09T08:04:40.151134Z'
 ---
 
 {% raw %}
@@ -32,51 +32,51 @@ updated: '2026-02-09T05:54:31.962025Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[carbon_dioxide]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[carbon_dioxide]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hematocrit]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.155467'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[carbon_dioxide]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -84,13 +84,13 @@ source: function-health
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>INCLUDES_CONDITION::[[Chronic Obstructive Pulmonary Disease]]<br />
-INCLUDES_CONDITION::[[Asthma]]<br />
-INCLUDES_CONDITION::[[Pulmonary Fibrosis]]<br />
-AFFECTS_ORGAN::[[Lung]]<br />
-ASSOCIATED_WITH_CONDITION::[[Chronic Hypoxia]]<br />
-TREATED_BY_DRUG::[[Bronchodilators]]<br />
-TREATED_BY_INTERVENTION::[[Oxygen Therapy]]</p>
+<p>INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/" class="internal-link">Chronic Obstructive Pulmonary Disease</a><br />
+INCLUDES_CONDITION::<a class="internal-link is-unresolved" href="/404">Asthma</a><br />
+INCLUDES_CONDITION::<a class="internal-link is-unresolved" href="/404">Pulmonary Fibrosis</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-hypoxia/" class="internal-link">Chronic Hypoxia</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Bronchodilators</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Oxygen Therapy</a></p>
 <h2>References</h2>
 <ul>
 <li>WHO. Chronic respiratory diseases.</li>

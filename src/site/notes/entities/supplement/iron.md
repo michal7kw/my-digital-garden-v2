@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.187637Z'
+created: '2026-02-09T08:04:41.570282Z'
 description: Essential trace mineral critical for oxygen transport, energy production,
   and neurotransmitter synthesis. Required cofactor for numerous enzymes including
   those in dopamine and serotonin pathways.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Iron
 type: supplement
-updated: '2026-02-09T05:54:33.187637Z'
+updated: '2026-02-09T08:04:41.570282Z'
 ---
 
 {% raw %}
@@ -28,65 +28,65 @@ updated: '2026-02-09T05:54:33.187637Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_C]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.659844'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_C]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.117515'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.057218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Tyrosine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.659844'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.659844'
 source: obsidian
 </code></pre>
 <h3>Competes With</h3>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.889622'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Vitamin_C]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.486195'
 source: obsidian
 </code></pre>
 <h3>Requires Cofactor</h3>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.733101'
 source: obsidian
 </code></pre>
 <h3>Affects Biomarker</h3>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 magnitude: strong
@@ -94,7 +94,7 @@ evidence_level: 5
 source: curated
 </code></pre>
 <ul>
-<li>→ [[Ferritin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 magnitude: strong
@@ -105,58 +105,58 @@ source: curated
 <h2>Relationships</h2>
 <h3>Requires Cofactor</h3>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.733101'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Vitamin_C]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.486195'
 source: obsidian
 </code></pre>
 <h3>Competes With</h3>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.889622'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_C]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.890717'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.890717'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Tyrosine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.890717'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:06.449515'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_C]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:20.032007'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian

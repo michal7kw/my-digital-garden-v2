@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.430611Z'
+created: '2026-02-09T08:04:40.671448Z'
 description: 'Comprehensive liver assessment: ALT, AST, ALP, GGT, bilirubin, albumin,
   and total protein.'
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: liver_function_panel
 type: labtest
-updated: '2026-02-09T05:54:32.430611Z'
+updated: '2026-02-09T08:04:40.671448Z'
 ---
 
 {% raw %}
@@ -54,14 +54,14 @@ updated: '2026-02-09T05:54:32.430611Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[alt]]</li>
-<li>[[ast]]</li>
-<li>[[alp]]</li>
-<li>[[ggt]]</li>
-<li>[[bilirubin_total]]</li>
-<li>[[bilirubin_direct]]</li>
-<li>[[albumin]]</li>
-<li>[[total_protein]]</li>
+<li><a href="/garden/dev_admin/biomarker/alt/" class="internal-link">alt</a></li>
+<li><a href="/garden/dev_admin/biomarker/ast/" class="internal-link">ast</a></li>
+<li><a href="/garden/dev_admin/biomarker/alp/" class="internal-link">alp</a></li>
+<li><a href="/garden/dev_admin/biomarker/ggt/" class="internal-link">ggt</a></li>
+<li><a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">bilirubin_total</a></li>
+<li><a href="/garden/dev_admin/biomarker/bilirubin-direct/" class="internal-link">bilirubin_direct</a></li>
+<li><a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a></li>
+<li><a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -74,73 +74,73 @@ updated: '2026-02-09T05:54:32.430611Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Albumin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.480389'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bilirubin_total]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">bilirubin_total</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alt]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alt/" class="internal-link">alt</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ggt]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ggt/" class="internal-link">ggt</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ast]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ast/" class="internal-link">ast</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bilirubin_direct]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-direct/" class="internal-link">bilirubin_direct</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alp]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alp/" class="internal-link">alp</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Albumin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.652856'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[total_protein]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[albumin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_protein]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian

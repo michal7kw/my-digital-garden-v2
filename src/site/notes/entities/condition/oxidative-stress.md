@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.082960Z'
+created: '2026-02-09T08:04:40.279529Z'
 description: Oxidative stress is an imbalance between the production of reactive oxygen
   species (ROS) and the biological system's ability to detoxify or repair the resulting
   damage. It is implicated in many pathological conditions including neurodegeneration,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Stress
 type: condition
-updated: '2026-02-09T05:54:32.082960Z'
+updated: '2026-02-09T08:04:40.279529Z'
 ---
 
 {% raw %}
@@ -41,58 +41,58 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Involves</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Electron_Transport_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
 </code></pre>
 <h3>Modulated By</h3>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
 </code></pre>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Nrf2_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Oxidative_Stress]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Electron_Transport_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nrf2_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
@@ -113,63 +113,63 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.905499'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Oxidative_Stress]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Electron_Transport_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nrf2_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Oxidative_Stress]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
 </code></pre>
 <h3>Modulated By</h3>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
 source: obsidian
 </code></pre>
 <h3>Involves</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
 source: obsidian

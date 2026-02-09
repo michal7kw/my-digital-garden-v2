@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.644214Z'
+created: '2026-02-09T08:04:39.891247Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Free T3
 type: biomarker
-updated: '2026-02-09T05:54:31.644214Z'
+updated: '2026-02-09T08:04:39.891247Z'
 ---
 
 {% raw %}
@@ -30,45 +30,45 @@ updated: '2026-02-09T05:54:31.644214Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.431668'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.431668'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.431668'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-25T20:32:12.387828'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.431668'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Thyroid_Dysfunction]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Thyroid]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Active Thyroid Hormone
@@ -83,26 +83,26 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Free_T3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:16.338429'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:16.338429'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:16.338429'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[thyroid_dysfunction]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian

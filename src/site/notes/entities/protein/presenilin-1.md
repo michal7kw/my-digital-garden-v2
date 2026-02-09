@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.096534Z'
+created: '2026-02-09T08:04:41.460797Z'
 description: Catalytic core of the Gamma-Secretase complex. Cleaves APP to release
   Amyloid Beta.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Presenilin-1
 type: protein
-updated: '2026-02-09T05:54:33.096534Z'
+updated: '2026-02-09T08:04:41.460797Z'
 ---
 
 {% raw %}
@@ -27,73 +27,73 @@ updated: '2026-02-09T05:54:33.096534Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Notch_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Notch_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PSEN1]] (gene)</li>
+<li>→ <a href="/garden/dev_admin/gene/psen1/" class="internal-link">PSEN1</a> (gene)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloidogenic_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Notch]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Notch</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Notch_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Notch_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloidogenic_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[APP]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[PSEN1]] (gene)</li>
+<li>← <a href="/garden/dev_admin/gene/psen1/" class="internal-link">PSEN1</a> (gene)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.822035'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[APP]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
@@ -102,17 +102,17 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Amyloidogenic Pathway]] (pathway)</li>
-<li>→ [[Notch Signaling]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloidogenic-pathway/" class="internal-link">Amyloidogenic Pathway</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/notch-signaling/" class="internal-link">Notch Signaling</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[APP]] (protein) - <em>Substrate</em></li>
-<li>→ [[Notch]] (protein) - <em>Substrate (developmental signaling)</em></li>
+<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein) - <em>Substrate</em></li>
+<li>→ <a href="/garden/dev_admin/protein/notch/" class="internal-link">Notch</a> (protein) - <em>Substrate (developmental signaling)</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

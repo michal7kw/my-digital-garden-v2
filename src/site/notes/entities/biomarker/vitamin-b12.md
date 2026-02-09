@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.751518Z'
+created: '2026-02-09T08:04:39.999030Z'
 description: Essential water-soluble vitamin critical for nerve function, DNA synthesis,
   red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans
   and older adults.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: biomarker
-updated: '2026-02-09T05:54:31.751518Z'
+updated: '2026-02-09T08:04:39.999030Z'
 ---
 
 {% raw %}
@@ -33,128 +33,128 @@ updated: '2026-02-09T05:54:31.751518Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Anxiety]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_b12]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">vitamin_b12</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MMA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MMA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serum_B12]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_b12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">vitamin_b12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Fatigue]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Anxiety]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:13.859142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Folate]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nerves]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>→ [[MMA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MMA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
@@ -171,7 +171,7 @@ study_references:
 - PMID:12190251
 </code></pre>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
@@ -189,7 +189,7 @@ study_references:
 </code></pre>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>→ [[Serum_B12]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
@@ -206,7 +206,7 @@ study_references:
 - PMID:24667752
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -223,64 +223,64 @@ study_references:
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Vitamin_B6]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.544179'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.973644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.514247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Folate]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.852799'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.336512'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nerves]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.389145'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.362418'
 source: obsidian
 </code></pre>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.613432'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.587753'
 source: obsidian
 </code></pre>
 <h3>Supports Synthesis</h3>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.453635'
 source: obsidian
@@ -294,156 +294,156 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Folate]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.852799'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.514247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.973644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.544179'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Blood]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.362418'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nerves]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.389145'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.336512'
 source: obsidian
 </code></pre>
 <h3>Supports Synthesis</h3>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.453635'
 source: obsidian
 </code></pre>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.587753'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.613432'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Folate]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serum_B12]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MMA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MMA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nerves]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>→ [[Serum_B12]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
@@ -460,7 +460,7 @@ study_references:
 - PMID:24667752
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -477,7 +477,7 @@ study_references:
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>→ [[MMA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MMA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
@@ -494,7 +494,7 @@ study_references:
 - PMID:12190251
 </code></pre>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
@@ -515,7 +515,7 @@ study_references:
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[vitamin b12]] - Serum vitamin B12 measurement</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">vitamin b12</a> - Serum vitamin B12 measurement</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

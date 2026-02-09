@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.292057Z'
+created: '2026-02-09T08:04:40.511741Z'
 description: Strategies to improve sleep quality, duration, and architecture for brain
   health. Adequate sleep supports glymphatic clearance of neurotoxins, memory consolidation,
   and cognitive function.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Optimization
 type: intervention
-updated: '2026-02-09T05:54:32.292057Z'
+updated: '2026-02-09T08:04:40.511741Z'
 ---
 
 {% raw %}
@@ -196,175 +196,175 @@ updated: '2026-02-09T05:54:32.292057Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glymphatic_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Glymphatic_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.210803'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glymphatic_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Glymphatic_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mediterranean_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cognitive_Training]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cortisol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glycine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BDNF]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Melatonin]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
@@ -373,35 +373,35 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Neurodegenerative Diseases</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Bidirectional; glymphatic impairment</em></li>
-<li>→ [[Parkinson's Disease]] (condition) - <em>RBD as prodrome</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Risk factor for progression</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Sleep apnea connection</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Bidirectional; glymphatic impairment</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>RBD as prodrome</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Risk factor for progression</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Sleep apnea connection</em></li>
 </ul>
 <h3>Pathways</h3>
 <ul>
-<li>→ [[Glymphatic System]] (pathway) - <em>Waste clearance during sleep</em></li>
-<li>→ [[Amyloid Cascade]] (pathway) - <em>Sleep deprivation increases Aβ</em></li>
-<li>→ [[Neuroinflammation]] (pathway) - <em>Sleep regulates immune function</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/glymphatic-system/" class="internal-link">Glymphatic System</a> (pathway) - <em>Waste clearance during sleep</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Sleep deprivation increases Aβ</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway) - <em>Sleep regulates immune function</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>Affected by sleep</em></li>
-<li>→ [[Cortisol]] (biomarker) - <em>Sleep regulates HPA axis</em></li>
-<li>→ [[BDNF]] (biomarker) - <em>Sleep supports expression</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>Affected by sleep</em></li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker) - <em>Sleep regulates HPA axis</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker) - <em>Sleep supports expression</em></li>
 </ul>
 <h3>Synergistic Interventions</h3>
 <ul>
-<li>→ [[Exercise]] (intervention) - <em>Improves sleep quality</em></li>
-<li>→ [[Mediterranean Diet]] (intervention) - <em>Comprehensive lifestyle</em></li>
-<li>→ [[Cognitive Training]] (intervention) - <em>Memory consolidation</em></li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>Improves sleep quality</em></li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (intervention) - <em>Comprehensive lifestyle</em></li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive Training</a> (intervention) - <em>Memory consolidation</em></li>
 </ul>
 <h3>Supplements</h3>
 <ul>
-<li>→ [[Melatonin]] (supplement) - <em>Sleep onset; circadian timing</em></li>
-<li>→ [[Magnesium]] (supplement) - <em>Relaxation; GABA modulation</em></li>
-<li>→ [[Glycine]] (supplement) - <em>Sleep quality</em></li>
-<li>→ [[L-Theanine]] (supplement) - <em>Relaxation without sedation</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/melatonin/" class="internal-link">Melatonin</a> (supplement) - <em>Sleep onset; circadian timing</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement) - <em>Relaxation; GABA modulation</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement) - <em>Sleep quality</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement) - <em>Relaxation without sedation</em></li>
 </ul>
 <h2>CBT-I Components</h2>
 <h3>Sleep Restriction</h3>

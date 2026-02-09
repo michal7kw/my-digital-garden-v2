@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.966225Z'
+created: '2026-02-09T08:04:40.154975Z'
 description: A range of disorders resulting from the use of cocaine, including acute
   intoxication, withdrawal, dependence, and induced mental disorders.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cocaine-Related Disorders
 type: condition
-updated: '2026-02-09T05:54:31.966225Z'
+updated: '2026-02-09T08:04:40.154975Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:31.966225Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cocaine-Related_Disorders]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cocaine-related-disorders/" class="internal-link">Cocaine-Related_Disorders</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.280090'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cocaine-Related_Disorders]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cocaine-related-disorders/" class="internal-link">Cocaine-Related_Disorders</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.642148'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Cocaine]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-AFFECTS_ORGAN::[[Heart]]<br />
-INCREASED_RISK_OF::[[Myocardial Infarction]]<br />
-INCREASED_RISK_OF::[[Stroke]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
-INTERACTS_WITH::[[Alcohol]] - Forms toxic cocaethylene.</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Cocaine</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">Alcohol</a> - Forms toxic cocaethylene.</p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. (2013). Diagnostic and Statistical Manual of Mental Disorders (DSM-5).</li>

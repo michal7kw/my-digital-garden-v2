@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.446821Z'
+created: '2026-02-09T08:04:40.690600Z'
 description: Methylmalonic acid (MMA) is a substance involved in metabolism and energy
   production. MMA levels rise when vitamin B12 is low, making this one of the most
   sensitive tests for early or mild B12 deficiency—even before symptoms appear. While
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: methylmalonic_acid
 type: labtest
-updated: '2026-02-09T05:54:32.446821Z'
+updated: '2026-02-09T08:04:40.690600Z'
 ---
 
 {% raw %}
@@ -62,10 +62,10 @@ updated: '2026-02-09T05:54:32.446821Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Vitamin B12 Deficiency]]</li>
-<li>[[Pernicious Anemia]]</li>
-<li>[[Malabsorption]]</li>
-<li>[[Chronic Kidney Disease]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a></li>
+<li><a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Malabsorption</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,93 +73,93 @@ updated: '2026-02-09T05:54:32.446821Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pernicious_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malabsorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malabsorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pernicious_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mthfr_gene]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Pernicious_Anemia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Pernicious_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -167,8 +167,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

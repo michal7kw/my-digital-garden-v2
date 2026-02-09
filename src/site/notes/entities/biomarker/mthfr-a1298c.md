@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.687213Z'
+created: '2026-02-09T08:04:39.934715Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-02-09T05:54:31.687213Z'
+updated: '2026-02-09T08:04:39.934715Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.687213Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mthfr_A1298C]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mthfr-a1298c/" class="internal-link">Mthfr_A1298C</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.034115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mthfr_A1298C]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mthfr-a1298c/" class="internal-link">Mthfr_A1298C</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.034115'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mthfr_A1298C]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mthfr-a1298c/" class="internal-link">Mthfr_A1298C</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.855176'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mthfr_A1298C]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mthfr-a1298c/" class="internal-link">Mthfr_A1298C</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.855176'
 source: obsidian

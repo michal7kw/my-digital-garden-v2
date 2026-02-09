@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.400008Z'
+created: '2026-02-09T08:04:40.635812Z'
 description: Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures
   the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and
   is elevated in infections, autoimmune conditions, cardiovascular disease, and various
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: interleukin_6
 type: labtest
-updated: '2026-02-09T05:54:32.400008Z'
+updated: '2026-02-09T08:04:40.635812Z'
 ---
 
 {% raw %}
@@ -98,21 +98,21 @@ updated: '2026-02-09T05:54:32.400008Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Rheumatoid Arthritis]]</li>
-<li>[[Sepsis]]</li>
-<li>[[Cardiovascular Disease]]</li>
-<li>[[Castleman Disease]]</li>
-<li>[[Systemic Lupus Erythematosus]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Sepsis</a></li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Castleman Disease</a></li>
+<li><a href="/garden/dev_admin/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic Lupus Erythematosus</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Interleukin 6]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cytokine panel]] (labtestpanel)</li>
-<li>→ [[advanced inflammation panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cytokine-panel/" class="internal-link">cytokine panel</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

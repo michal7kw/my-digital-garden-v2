@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.043574Z'
+created: '2026-02-09T08:04:40.236986Z'
 description: A problematic pattern of cannabis use leading to clinically significant
   impairment or distress, also known as Cannabis Use Disorder.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Marijuana Abuse
 type: condition
-updated: '2026-02-09T05:54:32.043574Z'
+updated: '2026-02-09T08:04:40.236986Z'
 ---
 
 {% raw %}
@@ -35,26 +35,26 @@ updated: '2026-02-09T05:54:32.043574Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Marijuana_Abuse]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/marijuana-abuse/" class="internal-link">Marijuana_Abuse</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.729253'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Marijuana_Abuse]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/marijuana-abuse/" class="internal-link">Marijuana_Abuse</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:45.818791'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Cannabis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Schizophrenia]] - Heavy use in adolescence increases risk.<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
-IMPROVED_BY_INTERVENTION::[[Motivational Enhancement Therapy]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Cannabis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a> - Heavy use in adolescence increases risk.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Motivational Enhancement Therapy</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

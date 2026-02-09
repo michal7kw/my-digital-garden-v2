@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.658115Z'
+created: '2026-02-09T08:04:39.905072Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Hdl P
 type: biomarker
-updated: '2026-02-09T05:54:31.658115Z'
+updated: '2026-02-09T08:04:39.905072Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.658115Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hdl_P]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl-p/" class="internal-link">Hdl_P</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.296378'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hdl_P]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl-p/" class="internal-link">Hdl_P</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.296378'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hdl_P]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl-p/" class="internal-link">Hdl_P</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:18.353357'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hdl_P]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl-p/" class="internal-link">Hdl_P</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:18.353357'
 source: obsidian

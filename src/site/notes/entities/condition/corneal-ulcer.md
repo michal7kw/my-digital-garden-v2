@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.970838Z'
+created: '2026-02-09T08:04:40.159518Z'
 description: An open sore on the cornea, usually caused by an eye infection, severe
   dry eye, or other eye disorders.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Corneal Ulcer
 type: condition
-updated: '2026-02-09T05:54:31.970838Z'
+updated: '2026-02-09T08:04:40.159518Z'
 ---
 
 {% raw %}
@@ -33,25 +33,25 @@ updated: '2026-02-09T05:54:31.970838Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Corneal_Ulcer]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/corneal-ulcer/" class="internal-link">Corneal_Ulcer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.569911'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Corneal_Ulcer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/corneal-ulcer/" class="internal-link">Corneal_Ulcer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:33.290342'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Infection]]<br />
-ASSOCIATED_WITH_CONDITION::[[Dry Eye Syndrome]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-TREATED_BY_DRUG::[[Ciprofloxacin]] - Antibiotic eye drops.<br />
-TREATED_BY_DRUG::[[Acyclovir]] - For HSV.<br />
-COMPLICATION_OF::[[Contact Lens Use]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Dry Eye Syndrome</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ciprofloxacin</a> - Antibiotic eye drops.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Acyclovir</a> - For HSV.<br />
+COMPLICATION_OF::<a class="internal-link is-unresolved" href="/404">Contact Lens Use</a></p>
 <h2>References</h2>
 <ul>
 <li>American Academy of Ophthalmology. Corneal Ulcer.</li>

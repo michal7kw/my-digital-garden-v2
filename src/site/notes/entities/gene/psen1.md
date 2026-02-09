@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.262498Z'
+created: '2026-02-09T08:04:40.479221Z'
 description: Encodes Presenilin-1, the catalytic subunit of the Gamma-Secretase complex.
   Mutations are the most common cause of Familial Early-Onset Alzheimer's.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: PSEN1
 type: gene
-updated: '2026-02-09T05:54:32.262498Z'
+updated: '2026-02-09T08:04:40.479221Z'
 ---
 
 {% raw %}
@@ -44,15 +44,15 @@ updated: '2026-02-09T05:54:32.262498Z'
 <li><strong>Acne Inversa:</strong> Rare mutations are linked to this chronic skin condition.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ENCODES::[[Presenilin-1 Protein]]<br />
-PART_OF::[[Gamma-Secretase Complex]] - Catalytic subunit<br />
-CLEAVES::[[Amyloid Precursor Protein]] - Substrate<br />
-CLEAVES::[[Notch Receptor]] - Substrate<br />
-REGULATES::[[Amyloid Beta]] - Production ratio<br />
-ASSOCIATED_WITH_CONDITION::[[Familial Alzheimer's Disease]] - Primary cause<br />
-ASSOCIATED_WITH_CONDITION::[[Alzheimer's Disease]]<br />
-INTERACTS_WITH::[[PSEN2]] - Functional paralog (Presenilin-2)<br />
-INTERACTS_WITH::[[Nicastrin]] - Complex partner</p>
+<p>ENCODES::<a class="internal-link is-unresolved" href="/404">Presenilin-1 Protein</a><br />
+PART_OF::<a class="internal-link is-unresolved" href="/404">Gamma-Secretase Complex</a> - Catalytic subunit<br />
+CLEAVES::<a class="internal-link is-unresolved" href="/404">Amyloid Precursor Protein</a> - Substrate<br />
+CLEAVES::<a class="internal-link is-unresolved" href="/404">Notch Receptor</a> - Substrate<br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a> - Production ratio<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Familial Alzheimer's Disease</a> - Primary cause<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">PSEN2</a> - Functional paralog (Presenilin-2)<br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">Nicastrin</a> - Complex partner</p>
 <h2>References</h2>
 <ul>
 <li>Sherrington R, et al. Cloning of a gene bearing missense mutations in early-onset familial Alzheimer's disease. Nature. 1995;375(6534):754-60.</li>
@@ -62,37 +62,37 @@ INTERACTS_WITH::[[Nicastrin]] - Complex partner</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Presenilin-1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/presenilin-1/" class="internal-link">Presenilin-1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Familial_Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Familial_Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:04.131236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:04.131236'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Presenilin-1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/presenilin-1/" class="internal-link">Presenilin-1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.822035'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Familial_Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Familial_Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.822035'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian

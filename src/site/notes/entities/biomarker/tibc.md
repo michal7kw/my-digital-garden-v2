@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.735421Z'
+created: '2026-02-09T08:04:39.983489Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Tibc
 type: biomarker
-updated: '2026-02-09T05:54:31.735421Z'
+updated: '2026-02-09T08:04:39.983489Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.735421Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Tibc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">Tibc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.378639'
 source: obsidian

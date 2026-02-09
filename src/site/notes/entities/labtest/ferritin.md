@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.369606Z'
+created: '2026-02-09T08:04:40.600777Z'
 description: Measures iron stores. Key marker for iron deficiency and overload, also
   an acute phase reactant.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ferritin
 type: labtest
-updated: '2026-02-09T05:54:32.369606Z'
+updated: '2026-02-09T08:04:40.600777Z'
 ---
 
 {% raw %}
@@ -61,31 +61,31 @@ updated: '2026-02-09T05:54:32.369606Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ferritin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Ferritin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[iron_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/iron-panel/" class="internal-link">iron_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[iron_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/iron-panel/" class="internal-link">iron_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ferritin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
 source: obsidian

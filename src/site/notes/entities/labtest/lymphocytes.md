@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.433759Z'
+created: '2026-02-09T08:04:40.675219Z'
 description: Tested twice a year Lymphocytes are specialized white blood cells (WBCs)
   consisting of T cells, B cells, and natural killer (NK) cells, each orchestrating
   a different arm of immune defense. Their counts can rise or fall with various conditions,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: lymphocytes
 type: labtest
-updated: '2026-02-09T05:54:32.433759Z'
+updated: '2026-02-09T08:04:40.675219Z'
 ---
 
 {% raw %}
@@ -62,10 +62,10 @@ updated: '2026-02-09T05:54:32.433759Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Viral Infection]]</li>
-<li>[[Impaired Immune Function]]</li>
-<li>[[Autoimmune Disease]]</li>
-<li>[[Chronic Inflammation]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Viral Infection</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
+<li><a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,99 +73,99 @@ updated: '2026-02-09T05:54:32.433759Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Viral_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Viral_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.899153'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Impaired_Immune_Function]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.899153'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.899153'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.899153'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Impaired_Immune_Function]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.658204'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Viral_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Viral_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.658204'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.658204'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.658204'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_immune_regulation]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.434318'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[chronic_inflammatory_response_mold_response]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.490694'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_immune_regulation]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.899153'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chronic_inflammatory_response_mold_response]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.899153'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autoimmune_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -173,8 +173,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_immune_regulation]] (labtestpanel)</li>
-<li>→ [[chronic_inflammatory_response_mold_response]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.307296Z'
+created: '2026-02-09T08:04:40.529316Z'
 description: Tested twice a year Alkaline phosphatase (ALP) is an enzyme found in
   the liver, bones, and other tissues that helps break down proteins and support growth.
   Abnormal ALP levels can point to conditions affecting the liver, bones, or nutrition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: alkaline_phosphatase_alp
 type: labtest
-updated: '2026-02-09T05:54:32.307296Z'
+updated: '2026-02-09T08:04:40.529316Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.307296Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Primary Biliary Cholangitis]]</li>
-<li>[[Bone Disease]]</li>
-<li>[[Primary Sclerosing Cholangitis]]</li>
-<li>[[Vitamin D Deficiency]]</li>
-<li>[[Biliary Obstruction (Gallstones, Tumors)]]</li>
+<li><a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary Biliary Cholangitis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bone Disease</a></li>
+<li><a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary Sclerosing Cholangitis</a></li>
+<li><a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Biliary Obstruction (Gallstones, Tumors)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,93 +72,93 @@ updated: '2026-02-09T05:54:32.307296Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bone_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.333065'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.333065'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Biliary_Cholangitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.333065'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Sclerosing_Cholangitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.333065'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Biliary_Obstruction_Gallstones_Tumors]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Biliary_Obstruction_Gallstones_Tumors</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.333065'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Biliary_Obstruction_Gallstones_Tumors]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Biliary_Obstruction_Gallstones_Tumors</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Sclerosing_Cholangitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Biliary_Cholangitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_D_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Primary_Sclerosing_Cholangitis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Primary_Biliary_Cholangitis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.489490'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Primary_Sclerosing_Cholangitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Primary_Biliary_Cholangitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

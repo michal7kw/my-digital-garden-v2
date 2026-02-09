@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.779046Z'
+created: '2026-02-09T08:04:40.028914Z'
 description: Impaired kidney function indicated by elevated creatinine, BUN, and reduced
   eGFR. Early detection enables intervention to slow progression.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stress Pattern
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.779046Z'
+updated: '2026-02-09T08:04:40.028914Z'
 ---
 
 {% raw %}
@@ -76,17 +76,17 @@ Risk Multiplier: 2.0x for CKD progression and cardiovascular events</p>
 </table>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[eGFR]]</li>
-<li>REQUIRES_BIOMARKER::[[Creatinine]]</li>
-<li>REQUIRES_BIOMARKER::[[BUN]]</li>
-<li>INCREASES_RISK_FOR::[[Chronic Kidney Disease]]</li>
-<li>INCREASES_RISK_FOR::[[Cardiovascular Disease]]</li>
-<li>INCREASES_RISK_FOR::[[Anemia]]</li>
-<li>AFFECTS_ORGAN::[[Kidneys]]</li>
-<li>AFFECTS_ORGAN::[[Heart]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Omega-3 Fatty Acids]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Alpha-Lipoic Acid]]</li>
-<li>RELATED_PATTERN::[[Chronic Inflammation]]</li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/protein/egfr/" class="internal-link">eGFR</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/bun/" class="internal-link">BUN</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Anemia</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidneys</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a></li>
+<li>RELATED_PATTERN::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
 </ul>
 <h2>References</h2>
 <ul>

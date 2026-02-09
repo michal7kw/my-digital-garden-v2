@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.087605Z'
+created: '2026-02-09T08:04:40.284393Z'
 description: A progressive neurodegenerative disorder characterized by motor symptoms
   including tremor, rigidity, and bradykinesia, caused by dopaminergic neuron loss
   in the substantia nigra and alpha-synuclein aggregation.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Parkinson's Disease
 type: condition
-updated: '2026-02-09T05:54:32.087605Z'
+updated: '2026-02-09T08:04:40.284393Z'
 ---
 
 {% raw %}
@@ -56,319 +56,319 @@ updated: '2026-02-09T05:54:32.087605Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Alpha-Synuclein_SAA]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.082636'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[DAT-SPECT]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.395203'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Retinal_Imaging_for_Neurodegeneration]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.549973'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sleep_Optimization]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[BDNF]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.191066'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Locus_Coeruleus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nigrostriatal_Dopamine_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/nigrostriatal-dopamine-pathway/" class="internal-link">Nigrostriatal_Dopamine_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Substantia_Nigra]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia_Nigra</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Locus_Coeruleus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Basal_Ganglia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/basal-ganglia/" class="internal-link">Basal_Ganglia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitophagy]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Coenzyme_Q10]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Striatum]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/striatum/" class="internal-link">Striatum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DAT-SPECT]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Levodopa]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Levodopa</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pramipexole]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pramipexole</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Carbidopa]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Carbidopa</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rasagiline]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Rasagiline</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_CSF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_CSF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Deep_Brain_Stimulation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deep_Brain_Stimulation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Substantia_Nigra]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia_Nigra</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_CSF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_CSF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Retinal_Imaging_for_Neurodegeneration]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Digital_Biomarkers_for_Neurodegeneration]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Deep_Brain_Stimulation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deep_Brain_Stimulation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Basal_Ganglia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/basal-ganglia/" class="internal-link">Basal_Ganglia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nigrostriatal_Dopamine_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/nigrostriatal-dopamine-pathway/" class="internal-link">Nigrostriatal_Dopamine_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_SAA]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Coenzyme_Q10]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BDNF]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:53.109152'
 source: obsidian
@@ -377,36 +377,36 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affected Brain Regions</h3>
 <ul>
-<li>→ [[Substantia Nigra]] (organ) - <em>Primary site of dopaminergic neuron loss</em></li>
-<li>→ [[Striatum]] (organ) - <em>Dopamine depletion target</em></li>
-<li>→ [[Locus Coeruleus]] (organ) - <em>Noradrenergic degeneration</em></li>
-<li>→ [[Basal Ganglia]] (organ) - <em>Motor circuit dysfunction</em></li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a> (organ) - <em>Primary site of dopaminergic neuron loss</em></li>
+<li>→ <a href="/garden/dev_admin/organ/striatum/" class="internal-link">Striatum</a> (organ) - <em>Dopamine depletion target</em></li>
+<li>→ <a href="/garden/dev_admin/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a> (organ) - <em>Noradrenergic degeneration</em></li>
+<li>→ <a href="/garden/dev_admin/organ/basal-ganglia/" class="internal-link">Basal Ganglia</a> (organ) - <em>Motor circuit dysfunction</em></li>
 </ul>
 <h3>Associated Pathways</h3>
 <ul>
-<li>→ [[Nigrostriatal Dopamine Pathway]] (pathway) - <em>Primary affected pathway</em></li>
-<li>→ [[Mitophagy]] (pathway) - <em>Impaired mitochondrial quality control</em></li>
-<li>→ [[Alpha-Synuclein Aggregation]] (pathway) - <em>Core pathological process</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/nigrostriatal-dopamine-pathway/" class="internal-link">Nigrostriatal Dopamine Pathway</a> (pathway) - <em>Primary affected pathway</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway) - <em>Impaired mitochondrial quality control</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Core pathological process</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>← [[Neurofilament Light Chain]] (biomarker) - <em>Marker of neurodegeneration</em></li>
-<li>← [[Alpha-Synuclein CSF]] (biomarker) - <em>Diagnostic potential</em></li>
-<li>← [[DAT-SPECT]] (examination) - <em>Dopamine transporter imaging</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Marker of neurodegeneration</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/alpha-synuclein-csf/" class="internal-link">Alpha-Synuclein CSF</a> (biomarker) - <em>Diagnostic potential</em></li>
+<li>← <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination) - <em>Dopamine transporter imaging</em></li>
 </ul>
 <h3>Treatments</h3>
 <ul>
-<li>← [[Levodopa]] (drug) - <em>Gold standard dopamine replacement</em></li>
-<li>← [[Carbidopa]] (drug) - <em>Peripheral decarboxylase inhibitor</em></li>
-<li>← [[Pramipexole]] (drug) - <em>Dopamine agonist</em></li>
-<li>← [[Rasagiline]] (drug) - <em>MAO-B inhibitor</em></li>
-<li>← [[Deep Brain Stimulation]] (intervention) - <em>Surgical treatment</em></li>
+<li>← <a href="/garden/dev_admin/drug/levodopa/" class="internal-link">Levodopa</a> (drug) - <em>Gold standard dopamine replacement</em></li>
+<li>← <a href="/garden/dev_admin/drug/carbidopa/" class="internal-link">Carbidopa</a> (drug) - <em>Peripheral decarboxylase inhibitor</em></li>
+<li>← <a href="/garden/dev_admin/drug/pramipexole/" class="internal-link">Pramipexole</a> (drug) - <em>Dopamine agonist</em></li>
+<li>← <a href="/garden/dev_admin/drug/rasagiline/" class="internal-link">Rasagiline</a> (drug) - <em>MAO-B inhibitor</em></li>
+<li>← <a href="/garden/dev_admin/intervention/deep-brain-stimulation/" class="internal-link">Deep Brain Stimulation</a> (intervention) - <em>Surgical treatment</em></li>
 </ul>
 <h3>Neuroprotective Supplements</h3>
 <ul>
-<li>← [[Coenzyme Q10]] (supplement) - <em>Mitochondrial support</em></li>
-<li>← [[Creatine]] (supplement) - <em>Energy metabolism</em></li>
-<li>← [[Omega-3 DHA]] (supplement) - <em>Anti-inflammatory</em></li>
+<li>← <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement) - <em>Mitochondrial support</em></li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (supplement) - <em>Energy metabolism</em></li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement) - <em>Anti-inflammatory</em></li>
 </ul>
 <h2>References</h2>
 <ol>

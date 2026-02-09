@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.616596Z'
+created: '2026-02-09T08:04:39.865291Z'
 description: Copper is an essential trace mineral required as a cofactor for numerous
   enzymes involved in energy production, iron metabolism, connective tissue synthesis,
   neurotransmitter synthesis, and antioxidant defense (superoxide dismutase). Both
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Copper
 type: biomarker
-updated: '2026-02-09T05:54:31.616596Z'
+updated: '2026-02-09T08:04:39.865291Z'
 ---
 
 {% raw %}
@@ -64,31 +64,31 @@ updated: '2026-02-09T05:54:31.616596Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Copper]] (supplement) - Directly increases serum copper (strong effect, evidence level 2)</li>
-<li>[[Zinc]] - Competes for absorption, may decrease copper with high-dose supplementation (moderate effect, evidence level 3)</li>
-<li>[[Vitamin C]] - High-dose may reduce copper absorption (mild effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement) - Directly increases serum copper (strong effect, evidence level 2)</li>
+<li><a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> - Competes for absorption, may decrease copper with high-dose supplementation (moderate effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - High-dose may reduce copper absorption (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[zinc serum]] - Often ordered alongside copper for ratio</li>
+<li><a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc serum</a> - Often ordered alongside copper for ratio</li>
 <li>Serum copper test - Direct measurement via atomic absorption spectrophotometry</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Zinc]] (biomarker) - Copper:zinc ratio is a key health indicator</li>
-<li>→ [[Ferritin]] (biomarker) - Ceruloplasmin (copper protein) required for iron metabolism</li>
-<li>→ [[Serum Iron]] (biomarker) - Copper deficiency impairs iron utilization</li>
-<li>→ [[Hs Crp]] (biomarker) - Ceruloplasmin is an acute-phase reactant; copper rises with inflammation</li>
-<li>→ [[White Blood Cell Count]] (biomarker) - Copper deficiency causes neutropenia</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker) - Copper:zinc ratio is a key health indicator</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker) - Ceruloplasmin (copper protein) required for iron metabolism</li>
+<li>→ <a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">Serum Iron</a> (biomarker) - Copper deficiency impairs iron utilization</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Ceruloplasmin is an acute-phase reactant; copper rises with inflammation</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker) - Copper deficiency causes neutropenia</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Wilson's Disease]] (condition)</li>
-<li>→ [[Menkes Disease]] (condition)</li>
-<li>→ [[Anemia]] (condition)</li>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/wilsons-disease/" class="internal-link">Wilson's Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/menkes-disease/" class="internal-link">Menkes Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/anemia/" class="internal-link">Anemia</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ul>

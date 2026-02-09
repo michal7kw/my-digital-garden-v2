@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.497665Z'
+created: '2026-02-09T08:04:40.748968Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-02-09T05:54:32.497665Z'
+updated: '2026-02-09T08:04:40.748968Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.497665Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Dehydration]]</li>
-<li>[[Fluid Imbalance (Low Or High Sodium)]]</li>
-<li>[[Kidney Dysfunction]]</li>
-<li>[[Hormonal Imbalance (Adrenal Or Thyroid)]]</li>
-<li>[[Medication Effect]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Fluid Imbalance (Low Or High Sodium)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hormonal Imbalance (Adrenal Or Thyroid)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Medication Effect</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,67 +74,67 @@ updated: '2026-02-09T05:54:32.497665Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Medication_Effect]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance_Adrenal_Or_Thyroid]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fluid_Imbalance_Low_Or_High_Sodium]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance_Adrenal_Or_Thyroid]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fluid_Imbalance_Low_Or_High_Sodium]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication_Effect]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.151223Z'
+created: '2026-02-09T08:04:40.353695Z'
 description: A nutritional deficiency state characterized by insufficient levels of
   zinc, an essential trace element involved in immune function, protein synthesis,
   and wound healing.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc Deficiency
 type: condition
-updated: '2026-02-09T05:54:32.151223Z'
+updated: '2026-02-09T08:04:40.353695Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[zinc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -48,13 +48,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Zinc_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:47.790606'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[zinc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:47.790606'
 source: obsidian
@@ -75,32 +75,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Zinc_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[zinc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[zinc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[zinc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

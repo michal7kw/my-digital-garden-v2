@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.261627Z'
+created: '2026-02-09T08:04:40.478292Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: gene
-updated: '2026-02-09T05:54:32.261627Z'
+updated: '2026-02-09T08:04:40.478292Z'
 ---
 
 {% raw %}
@@ -38,16 +38,16 @@ updated: '2026-02-09T05:54:32.261627Z'
 <li><strong>Drug Target:</strong> Directly targeting MYC has been difficult (&quot;undruggable&quot;) due to its lack of a deep binding pocket. Strategies focus on inhibiting its transcription (BET inhibitors) or destabilizing the protein.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ENCODES::[[c-Myc Protein]]<br />
-INTERACTS_WITH::[[MAX]] - Obligate partner for DNA binding<br />
-REGULATES::[[Cell Cycle]] - Promotes G1/S transition<br />
-REGULATES::[[Glycolysis]] - Increases glucose metabolism<br />
-REGULATES::[[Ribosome Biogenesis]] - Drives protein synthesis capacity<br />
-ASSOCIATED_WITH_CONDITION::[[Burkitt's Lymphoma]] - Hallmark translocation<br />
-ASSOCIATED_WITH_CONDITION::[[Cancer]] - Universal driver<br />
-INHIBITED_BY::[[MXD1]] - Competes for MAX binding<br />
-ACTIVATED_BY::[[Wnt Signaling]]<br />
-ACTIVATED_BY::[[MAPK Pathway]]</p>
+<p>ENCODES::<a class="internal-link is-unresolved" href="/404">c-Myc Protein</a><br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">MAX</a> - Obligate partner for DNA binding<br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Cell Cycle</a> - Promotes G1/S transition<br />
+REGULATES::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Increases glucose metabolism<br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Ribosome Biogenesis</a> - Drives protein synthesis capacity<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Burkitt's Lymphoma</a> - Hallmark translocation<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> - Universal driver<br />
+INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">MXD1</a> - Competes for MAX binding<br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Wnt Signaling</a><br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">MAPK Pathway</a></p>
 <h2>References</h2>
 <ul>
 <li>Dang CV. MYC on the path to cancer. Cell. 2012;149(1):22-35.</li>

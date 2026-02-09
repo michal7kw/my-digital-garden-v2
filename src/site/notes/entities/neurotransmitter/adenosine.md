@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.552402Z'
+created: '2026-02-09T08:04:40.810655Z'
 description: A purine nucleoside that acts as a neuromodulator. Accumulates during
   wakefulness to create 'sleep pressure' and is the target of caffeine antagonism.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Adenosine
 type: neurotransmitter
-updated: '2026-02-09T05:54:32.552402Z'
+updated: '2026-02-09T08:04:40.810655Z'
 ---
 
 {% raw %}
@@ -31,12 +31,12 @@ updated: '2026-02-09T05:54:32.552402Z'
 <h2>Recent Research (2025)</h2>
 <p>A breakthrough 2025 study linked adenosine accumulation directly to <strong>mitochondrial electrical stress</strong> (electron leak) in sleep-regulating neurons, unifying the theories of energy metabolism and sleep function.</p>
 <h2>Relationships</h2>
-<p>PRODUCED_FROM::[[ATP]] - Breakdown product<br />
-REGULATES::[[Sleep Optimization]] - Primary driver of sleep pressure<br />
-ANTAGONIZED_BY::[[Caffeine]] - Blocks receptors<br />
-BINDS_TO::[[Adenosine Receptors]]<br />
-LINKED_TO::[[Mitochondria]] - 2025 Research link<br />
-ASSOCIATED_WITH_RESEARCH::[[Nature 2025 Sleep and Mitochondria]]</p>
+<p>PRODUCED_FROM::<a class="internal-link is-unresolved" href="/404">ATP</a> - Breakdown product<br />
+REGULATES::<a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> - Primary driver of sleep pressure<br />
+ANTAGONIZED_BY::<a class="internal-link is-unresolved" href="/404">Caffeine</a> - Blocks receptors<br />
+BINDS_TO::<a class="internal-link is-unresolved" href="/404">Adenosine Receptors</a><br />
+LINKED_TO::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - 2025 Research link<br />
+ASSOCIATED_WITH_RESEARCH::<a class="internal-link is-unresolved" href="/404">Nature 2025 Sleep and Mitochondria</a></p>
 <h2>References</h2>
 <ul>
 <li>Porkka-Heiskanen T, et al. Adenosine: a mediator of the sleep-inducing effects of prolonged wakefulness. Science. 1997.</li>

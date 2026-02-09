@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.277745Z'
+created: '2026-02-09T08:04:40.495193Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise
 type: intervention
-updated: '2026-02-09T05:54:32.277745Z'
+updated: '2026-02-09T08:04:40.495193Z'
 ---
 
 {% raw %}
@@ -128,135 +128,135 @@ updated: '2026-02-09T05:54:32.277745Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cognitive_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BDNF]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cognitive_Training]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vascular_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[BDNF]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.191066'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sleep_Optimization]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mediterranean_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ACTIVATES::[[AMPK Pathway]] - Energy sensing pathway<br />
-ACTIVATES::[[Mitophagy]] - Mitochondrial quality control<br />
-ACTIVATES::[[Autophagy]] - Cellular cleanup<br />
-SUPPORTS::[[Mitochondria]] - Mitochondrial biogenesis via PGC-1α<br />
-INCREASES_METABOLITE::[[NAD+]] - Elevated with exercise<br />
-IMPROVES_BIOMARKER::[[Fasting Glucose]]<br />
-IMPROVES_BIOMARKER::[[HbA1c]]<br />
-REDUCES_BIOMARKER::[[Triglycerides]]<br />
-REDUCES_BIOMARKER::[[LDL Cholesterol]]<br />
-REDUCES_BIOMARKER::[[hsCRP]]<br />
-IMPROVES_BIOMARKER::[[HDL Cholesterol]]<br />
-SYNERGISTIC_WITH::[[Caloric Restriction]] - Complementary longevity benefits<br />
-SYNERGISTIC_WITH::[[Intermittent Fasting]] - Enhanced metabolic flexibility<br />
-RELATED_TO::[[HIIT Training]] - High-intensity exercise variant<br />
-RELATED_TO::[[Zone 2 Training]] - Low-intensity aerobic training<br />
-MAY_IMPROVE_CONDITION::[[Type 2 Diabetes]]<br />
-MAY_IMPROVE_CONDITION::[[Metabolic Syndrome]]<br />
-MAY_IMPROVE_CONDITION::[[Hypertension]]<br />
-AFFECTS_ORGAN::[[Brain]] - Neuroprotective effects via BDNF<br />
-AFFECTS_ORGAN::[[Muscle]] - Primary target tissue</p>
+<p>ACTIVATES::<a href="/garden/dev_admin/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> - Energy sensing pathway<br />
+ACTIVATES::<a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> - Mitochondrial quality control<br />
+ACTIVATES::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Cellular cleanup<br />
+SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Mitochondrial biogenesis via PGC-1α<br />
+INCREASES_METABOLITE::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Elevated with exercise<br />
+IMPROVES_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
+IMPROVES_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+REDUCES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+REDUCES_BIOMARKER::<a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
+REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hsCRP</a><br />
+IMPROVES_BIOMARKER::<a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> - Complementary longevity benefits<br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> - Enhanced metabolic flexibility<br />
+RELATED_TO::<a href="/garden/dev_admin/intervention/hiit-training/" class="internal-link">HIIT Training</a> - High-intensity exercise variant<br />
+RELATED_TO::<a href="/garden/dev_admin/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a> - Low-intensity aerobic training<br />
+MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a> - Neuroprotective effects via BDNF<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a> - Primary target tissue</p>
 <h2>References</h2>
 <ul>
 <li>Pedersen BK, Saltin B. Exercise as medicine - evidence for prescribing exercise as therapy in 26 different chronic diseases. Scand J Med Sci Sports. 2015;25 Suppl 3:1-72. PMID: 26606383</li>

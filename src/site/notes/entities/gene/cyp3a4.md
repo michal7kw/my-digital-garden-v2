@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.256072Z'
+created: '2026-02-09T08:04:40.472449Z'
 description: Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme
   in the body.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CYP3A4
 type: gene
-updated: '2026-02-09T05:54:32.256072Z'
+updated: '2026-02-09T08:04:40.472449Z'
 ---
 
 {% raw %}
@@ -26,9 +26,9 @@ updated: '2026-02-09T05:54:32.256072Z'
 <p>Genetic polymorphisms in this gene can influence drug efficacy and toxicity, although they are less common/impactful than those of CYP2D6 or CYP2C19.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[CYP3A4]] (protein) - <em>Encodes</em></li>
-<li>→ [[Liver]] (organ) - <em>Primary expression site</em></li>
-<li>→ [[Intestine]] (organ) - <em>Significant expression site</em></li>
+<li>→ <a href="/garden/dev_admin/protein/cyp3a4/" class="internal-link">CYP3A4</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ) - <em>Primary expression site</em></li>
+<li>→ <a href="/garden/dev_admin/organ/intestine/" class="internal-link">Intestine</a> (organ) - <em>Significant expression site</em></li>
 </ul>
 <h2>References</h2>
 <ol>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.908029Z'
+created: '2026-02-09T08:04:40.089858Z'
 description: An exaggerated immune response to Ordinarily harmless substances (allergens),
   characterized by the production of IgE antibodies and release of inflammatory mediators
   like histamine.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Allergy
 type: condition
-updated: '2026-02-09T05:54:31.908029Z'
+updated: '2026-02-09T08:04:40.089858Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Allergy]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/allergy/" class="internal-link">Allergy</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:47.246560'
 source: obsidian
@@ -61,7 +61,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Allergy]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/allergy/" class="internal-link">Allergy</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.108761'
 source: obsidian

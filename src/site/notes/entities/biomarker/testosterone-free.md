@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.731305Z'
+created: '2026-02-09T08:04:39.979475Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone Free
 type: biomarker
-updated: '2026-02-09T05:54:31.731305Z'
+updated: '2026-02-09T08:04:39.979475Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.731305Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Testosterone_Free]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">Testosterone_Free</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.018697'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Testosterone_Free]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">Testosterone_Free</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.018697'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Testosterone_Free]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">Testosterone_Free</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:26.022358'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Testosterone_Free]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">Testosterone_Free</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:26.022358'
 source: obsidian

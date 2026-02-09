@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.169885Z'
+created: '2026-02-09T08:04:40.374380Z'
 description: Tricyclic antidepressant (TCA) with potent serotonin reuptake inhibition.
   The gold standard medication for Obsessive-Compulsive Disorder (OCD).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clomipramine
 type: drug
-updated: '2026-02-09T05:54:32.169885Z'
+updated: '2026-02-09T08:04:40.374380Z'
 ---
 
 {% raw %}
@@ -36,200 +36,200 @@ updated: '2026-02-09T05:54:32.169885Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Carbamazepine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.519455'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Serotonin]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Norepinephrine]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Depression]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Carbamazepine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iobenguane_sulfate_I-123]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Iobenguane_sulfate_I-123</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Benzyl_alcohol]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Benzyl_alcohol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium_salicylate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Magnesium_salicylate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Clocortolone_acetate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Clocortolone_acetate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[5-methoxy-NN-dimethyltryptamine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">5-methoxy-NN-dimethyltryptamine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Oxazepam_acetate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Oxazepam_acetate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polymyxin_B]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polymyxin_B</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Interferon_alfa-2b]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Interferon_alfa-2b</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Testosterone_propionate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Testosterone_propionate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polyestradiol_phosphate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polyestradiol_phosphate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cataplexy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cataplexy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[OCD]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">OCD</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NET]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NET</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SERT]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SERT</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <h3>Interactswith</h3>
 <ul>
-<li>← [[Carbamazepine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.888000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Oxazepam_acetate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Oxazepam_acetate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.685000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Polyestradiol_phosphate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Polyestradiol_phosphate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.695000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Interferon_alfa-2b]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Interferon_alfa-2b</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.745000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Magnesium_salicylate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Magnesium_salicylate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.768000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[5-methoxy-NN-dimethyltryptamine]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">5-methoxy-NN-dimethyltryptamine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.804000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Testosterone_propionate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Testosterone_propionate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.896000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Clocortolone_acetate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Clocortolone_acetate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.901000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Benzyl_alcohol]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Benzyl_alcohol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.920000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Polymyxin_B]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Polymyxin_B</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.926000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Iobenguane_sulfate_I-123]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Iobenguane_sulfate_I-123</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.942000+00:00'
 source: PrimeKG
@@ -238,19 +238,19 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter) - <em>Potent Reuptake Inhibition</em></li>
-<li>→ [[Norepinephrine]] (neurotransmitter) - <em>Reuptake Inhibition (via metabolite)</em></li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter) - <em>Potent Reuptake Inhibition</em></li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter) - <em>Reuptake Inhibition (via metabolite)</em></li>
 </ul>
 <h3>Modulates Protein</h3>
 <ul>
-<li>⊣ [[SERT]] (protein) - <em>Primary target</em></li>
-<li>⊣ [[NET]] (protein) - <em>Secondary target</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/sert/" class="internal-link">SERT</a> (protein) - <em>Primary target</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/net/" class="internal-link">NET</a> (protein) - <em>Secondary target</em></li>
 </ul>
 <h3>Treats Condition</h3>
 <ul>
-<li>→ [[OCD]] (condition)</li>
-<li>→ [[Depression]] (condition)</li>
-<li>→ [[Cataplexy]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ocd/" class="internal-link">OCD</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cataplexy/" class="internal-link">Cataplexy</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

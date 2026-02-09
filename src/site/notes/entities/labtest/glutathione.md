@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.380863Z'
+created: '2026-02-09T08:04:40.613849Z'
 description: Glutathione test measures the body's master antioxidant in blood. Glutathione
   (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification,
   immune function, and protection against oxidative damage. Both total glutathione
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: glutathione
 type: labtest
-updated: '2026-02-09T05:54:32.380863Z'
+updated: '2026-02-09T08:04:40.613849Z'
 ---
 
 {% raw %}
@@ -99,21 +99,21 @@ updated: '2026-02-09T05:54:32.380863Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Chronic Fatigue Syndrome]]</li>
-<li>[[Liver Disease]]</li>
-<li>[[Autoimmune Disease]]</li>
-<li>[[Neurodegenerative Disease]]</li>
-<li>[[Cancer]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Fatigue Syndrome</a></li>
+<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Neurodegenerative Disease</a></li>
+<li><a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Glutathione]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (biomarker)</li>
 </ul>
 <h3>Related Tests</h3>
 <ul>
-<li>→ [[nutreval fmv]] (labtest) - May include glutathione assessment</li>
-<li>→ [[organic acids test]] (labtest) - Indirect markers of glutathione status</li>
+<li>→ <a href="/garden/dev_admin/labtest/nutreval-fmv/" class="internal-link">nutreval fmv</a> (labtest) - May include glutathione assessment</li>
+<li>→ <a href="/garden/dev_admin/labtest/organic-acids-test/" class="internal-link">organic acids test</a> (labtest) - Indirect markers of glutathione status</li>
 </ul>
 <h2>Notes</h2>
 <ul>

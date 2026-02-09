@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.976084Z'
+created: '2026-02-09T08:04:40.164636Z'
 description: A common and serious medical illness that negatively affects how you
   feel, the way you think, and how you act.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Depressive Disorder
 type: condition
-updated: '2026-02-09T05:54:31.976084Z'
+updated: '2026-02-09T08:04:40.164636Z'
 ---
 
 {% raw %}
@@ -33,28 +33,28 @@ updated: '2026-02-09T05:54:31.976084Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Depressive_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/depressive-disorder/" class="internal-link">Depressive_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:37.111713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depressive_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depressive-disorder/" class="internal-link">Depressive_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:33.980139'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
-ASSOCIATED_WITH_CONDITION::[[Chronic Pain]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Serotonin]] - Often low levels.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Cortisol]] - Often elevated.<br />
-TREATED_BY_DRUG::[[Fluoxetine]] - SSRI.<br />
-TREATED_BY_DRUG::[[Sertraline]]<br />
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
-IMPROVED_BY_INTERVENTION::[[Exercise]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Pain</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> - Often low levels.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> - Often elevated.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/fluoxetine/" class="internal-link">Fluoxetine</a> - SSRI.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/sertraline/" class="internal-link">Sertraline</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

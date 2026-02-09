@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.213879Z'
+created: '2026-02-09T08:04:41.599390Z'
 description: An NAD+ precursor that efficiently raises cellular NAD+ levels via the
   NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors
   and has demonstrated safety and efficacy in human clinical trials for boosting NAD+
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotinamide Riboside
 type: supplement
-updated: '2026-02-09T05:54:33.213879Z'
+updated: '2026-02-09T08:04:41.599390Z'
 ---
 
 {% raw %}
@@ -196,20 +196,20 @@ updated: '2026-02-09T05:54:33.213879Z'
 <li>Look for third-party testing</li>
 </ul>
 <h2>Relationships</h2>
-<p>CONVERTED_TO::[[NMN]] - Via NRK1/NRK2 kinases<br />
-PRECURSOR_TO::[[NAD+]] - Ultimate metabolic product<br />
-ACTIVATES::[[SIRT1]] - Via NAD+ elevation<br />
-ACTIVATES::[[SIRT3]] - Mitochondrial sirtuin<br />
-SUPPORTS::[[Mitochondria]] - Via NAD+ and sirtuins<br />
-SUPPORTS::[[PGC-1alpha]] - Via SIRT1 activation<br />
-PARTICIPATES_IN_PATHWAY::[[NAD+ Salvage Pathway]]<br />
-SYNERGISTIC_WITH::[[Resveratrol]] - Complementary SIRT1 effects<br />
-SYNERGISTIC_WITH::[[Pterostilbene]] - Enhanced NAD+ effects<br />
-SYNERGISTIC_WITH::[[Apigenin]] - CD38 inhibition prevents NAD+ degradation<br />
-ALTERNATIVE_TO::[[NMN]] - Similar NAD+ precursor function<br />
-AFFECTS_PROTEIN::[[PARP]] - DNA repair enzyme<br />
-RELATED_TO::[[Aging]] - Longevity intervention<br />
-RELATED_TO::[[Niacin]] - Vitamin B3 family</p>
+<p>CONVERTED_TO::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> - Via NRK1/NRK2 kinases<br />
+PRECURSOR_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Ultimate metabolic product<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Via NAD+ elevation<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - Mitochondrial sirtuin<br />
+SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Via NAD+ and sirtuins<br />
+SUPPORTS::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> - Via SIRT1 activation<br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a><br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Complementary SIRT1 effects<br />
+SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Pterostilbene</a> - Enhanced NAD+ effects<br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/apigenin/" class="internal-link">Apigenin</a> - CD38 inhibition prevents NAD+ degradation<br />
+ALTERNATIVE_TO::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> - Similar NAD+ precursor function<br />
+AFFECTS_PROTEIN::<a class="internal-link is-unresolved" href="/404">PARP</a> - DNA repair enzyme<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Aging</a> - Longevity intervention<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Niacin</a> - Vitamin B3 family</p>
 <h2>References</h2>
 <ul>
 <li>Trammell SA, et al. Nicotinamide riboside is uniquely and orally bioavailable in mice and humans. Nat Commun. 2016;7:12948. PMID: 27721479</li>

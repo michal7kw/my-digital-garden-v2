@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.583940Z'
+created: '2026-02-09T08:04:39.833744Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Aa Epa Ratio
 type: biomarker
-updated: '2026-02-09T05:54:31.583940Z'
+updated: '2026-02-09T08:04:39.833744Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.583940Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Aa_Epa_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">Aa_Epa_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.490540'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Aa_Epa_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">Aa_Epa_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.490540'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Aa_Epa_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">Aa_Epa_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:08.487149'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Aa_Epa_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">Aa_Epa_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:08.487149'
 source: obsidian

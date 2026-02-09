@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.056008Z'
+created: '2026-02-09T08:04:41.414098Z'
 description: Lipid transport protein. The E4 isoform fails to effectively clear Amyloid
   Beta from the brain.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: ApoE
 type: protein
-updated: '2026-02-09T05:54:33.056008Z'
+updated: '2026-02-09T08:04:41.414098Z'
 ---
 
 {% raw %}
@@ -32,85 +32,85 @@ updated: '2026-02-09T05:54:33.056008Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lipid_Metabolism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lipid_Metabolism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Beta]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid_Beta</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Clearance]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid_Clearance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lipid_Metabolism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lipid_Metabolism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[LDLR]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">LDLR</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Beta]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid_Beta</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Atherosclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Atherosclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Clearance]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid_Clearance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ApoE]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/apoe/" class="internal-link">ApoE</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.851454'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
@@ -119,18 +119,18 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Lipid Metabolism]] (pathway)</li>
-<li>→ [[Amyloid Clearance]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/lipid-metabolism/" class="internal-link">Lipid Metabolism</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-clearance/" class="internal-link">Amyloid Clearance</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[Amyloid Beta]] (protein) - <em>Direct binding</em></li>
-<li>→ [[LDLR]] (protein) - <em>Receptor</em></li>
+<li>→ <a href="/garden/dev_admin/protein/amyloid-beta/" class="internal-link">Amyloid Beta</a> (protein) - <em>Direct binding</em></li>
+<li>→ <a href="/garden/dev_admin/protein/ldlr/" class="internal-link">LDLR</a> (protein) - <em>Receptor</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition)</li>
-<li>→ [[Atherosclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/atherosclerosis/" class="internal-link">Atherosclerosis</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

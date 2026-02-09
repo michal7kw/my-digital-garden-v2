@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.096792Z'
+created: '2026-02-09T08:04:40.294784Z'
 description: An autoimmune condition characterized by the body's inability to absorb
   Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and
   neurological issues.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Pernicious Anemia
 type: condition
-updated: '2026-02-09T05:54:32.096792Z'
+updated: '2026-02-09T08:04:40.294784Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[methylmalonic_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -48,13 +48,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pernicious_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:34.644127'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[methylmalonic_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:34.644127'
 source: obsidian
@@ -75,32 +75,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pernicious_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[methylmalonic_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pernicious_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[methylmalonic_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[methylmalonic_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

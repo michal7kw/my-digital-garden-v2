@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.127345Z'
+created: '2026-02-09T08:04:41.499006Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: identical protein binding
 type: protein
-updated: '2026-02-09T05:54:33.127345Z'
+updated: '2026-02-09T08:04:41.499006Z'
 ---
 
 {% raw %}
@@ -42,38 +42,38 @@ updated: '2026-02-09T05:54:33.127345Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[protein_homodimerization_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.270540'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[protein_binding]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/protein-binding/" class="internal-link">protein_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.270540'
 source: obsidian
 </code></pre>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[protein_binding]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/protein-binding/" class="internal-link">protein_binding</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.358000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[protein_homodimerization_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.366000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[protein_homodimerization_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.371000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[protein_binding]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/protein-binding/" class="internal-link">protein_binding</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.376000+00:00'
 source: PrimeKG
@@ -82,38 +82,38 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[protein_binding]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/protein-binding/" class="internal-link">protein_binding</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.358000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[protein_homodimerization_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.366000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[protein_homodimerization_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.371000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[protein_binding]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/protein-binding/" class="internal-link">protein_binding</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.376000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[protein_binding]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/protein-binding/" class="internal-link">protein_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.243848'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[protein_homodimerization_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.243848'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.503315Z'
+created: '2026-02-09T08:04:40.755622Z'
 description: Measures total testosterone levels. Important for assessing hypogonadism,
   PCOS, and hormonal balance.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: testosterone_total
 type: labtest
-updated: '2026-02-09T05:54:32.503315Z'
+updated: '2026-02-09T08:04:40.755622Z'
 ---
 
 {% raw %}
@@ -59,7 +59,7 @@ updated: '2026-02-09T05:54:32.503315Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[testosterone_total]]</li>
+<li><a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">testosterone_total</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,7 +72,7 @@ updated: '2026-02-09T05:54:32.503315Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[testosterone_total]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">testosterone_total</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.082032'
 source: obsidian

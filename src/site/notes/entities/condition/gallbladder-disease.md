@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.994378Z'
+created: '2026-02-09T08:04:40.183857Z'
 description: A range of conditions affecting the gallbladder, most commonly involving
   gallstones or inflammation (cholecystitis).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Gallbladder Disease
 type: condition
-updated: '2026-02-09T05:54:31.994378Z'
+updated: '2026-02-09T08:04:40.183857Z'
 ---
 
 {% raw %}
@@ -37,21 +37,21 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[amylase]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/amylase/" class="internal-link">amylase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[lipase]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lipase/" class="internal-link">lipase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[bilirubin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/bilirubin-urine/" class="internal-link">bilirubin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -59,25 +59,25 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Gallbladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[amylase]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/amylase/" class="internal-link">amylase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lipase]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lipase/" class="internal-link">lipase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bilirubin_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bilirubin-urine/" class="internal-link">bilirubin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
@@ -98,70 +98,70 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Gallbladder_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[lipase]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lipase/" class="internal-link">lipase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[bilirubin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/bilirubin-urine/" class="internal-link">bilirubin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[amylase]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/amylase/" class="internal-link">amylase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.692341'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gallbladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lipase]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lipase/" class="internal-link">lipase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bilirubin_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bilirubin-urine/" class="internal-link">bilirubin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[amylase]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/amylase/" class="internal-link">amylase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[bilirubin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/bilirubin-urine/" class="internal-link">bilirubin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[lipase]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lipase/" class="internal-link">lipase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[amylase]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/amylase/" class="internal-link">amylase</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

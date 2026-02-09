@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.915033Z'
+created: '2026-02-09T08:04:40.096805Z'
 description: A fatal neurodegenerative disease characterized by progressive loss of
   upper and lower motor neurons, leading to muscle weakness, paralysis, and death
   typically within 2-5 years of symptom onset.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amyotrophic Lateral Sclerosis
 type: condition
-updated: '2026-02-09T05:54:31.915033Z'
+updated: '2026-02-09T08:04:40.096805Z'
 ---
 
 {% raw %}
@@ -68,247 +68,247 @@ updated: '2026-02-09T05:54:31.915033Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:23.904081'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine_Kinase]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Digital_Biomarkers_for_Neurodegeneration]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Neurofilament_Heavy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Phospho-Neurofilament_Heavy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Motor_Cortex]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Motor_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Brain_and_Spine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MRI_Brain_and_Spine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EMG_Electromyography]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EMG_Electromyography</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Spinal_Cord]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Spinal_Cord</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EMG_and_Nerve_Conduction_Studies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progressive_Muscular_Atrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progressive_Muscular_Atrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nerve_Conduction_Studies]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Nerve_Conduction_Studies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Non-Invasive_Ventilation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Non-Invasive_Ventilation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Primary_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brainstem]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Brainstem</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Primary_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nerve_Conduction_Studies]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Nerve_Conduction_Studies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Neurofilament_Heavy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Phospho-Neurofilament_Heavy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Edaravone]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Edaravone</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EMG_Electromyography]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EMG_Electromyography</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Brain_and_Spine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MRI_Brain_and_Spine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Riluzole]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Riluzole</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progressive_Muscular_Atrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progressive_Muscular_Atrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Non-Invasive_Ventilation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Non-Invasive_Ventilation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Motor_Cortex]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Motor_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Spinal_Cord]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Spinal_Cord</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EMG_and_Nerve_Conduction_Studies]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.705253'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Frontotemporal_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine_Kinase]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
@@ -317,33 +317,33 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affected Regions</h3>
 <ul>
-<li>→ [[Motor Cortex]] (organ) - <em>Upper motor neurons</em></li>
-<li>→ [[Spinal Cord]] (organ) - <em>Lower motor neurons</em></li>
-<li>→ [[Brainstem]] (organ) - <em>Bulbar motor neurons</em></li>
+<li>→ <a href="/garden/dev_admin/organ/motor-cortex/" class="internal-link">Motor Cortex</a> (organ) - <em>Upper motor neurons</em></li>
+<li>→ <a href="/garden/dev_admin/organ/spinal-cord/" class="internal-link">Spinal Cord</a> (organ) - <em>Lower motor neurons</em></li>
+<li>→ <a href="/garden/dev_admin/organ/brainstem/" class="internal-link">Brainstem</a> (organ) - <em>Bulbar motor neurons</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>← [[Neurofilament Light Chain]] (biomarker) - <em>Strongly elevated; prognostic value</em></li>
-<li>← [[Phospho-Neurofilament Heavy]] (biomarker) - <em>CSF marker</em></li>
-<li>← [[Creatine Kinase]] (biomarker) - <em>Muscle damage marker</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Strongly elevated; prognostic value</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/phospho-neurofilament-heavy/" class="internal-link">Phospho-Neurofilament Heavy</a> (biomarker) - <em>CSF marker</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker) - <em>Muscle damage marker</em></li>
 </ul>
 <h3>Diagnostic Tests</h3>
 <ul>
-<li>← [[EMG Electromyography]] (examination) - <em>Shows denervation</em></li>
-<li>← [[Nerve Conduction Studies]] (examination) - <em>Normal sensory</em></li>
-<li>← [[MRI Brain and Spine]] (examination) - <em>Exclude mimics</em></li>
+<li>← <a href="/garden/dev_admin/examination/emg-electromyography/" class="internal-link">EMG Electromyography</a> (examination) - <em>Shows denervation</em></li>
+<li>← <a href="/garden/dev_admin/examination/nerve-conduction-studies/" class="internal-link">Nerve Conduction Studies</a> (examination) - <em>Normal sensory</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-brain-and-spine/" class="internal-link">MRI Brain and Spine</a> (examination) - <em>Exclude mimics</em></li>
 </ul>
 <h3>Treatments</h3>
 <ul>
-<li>← [[Riluzole]] (drug) - <em>Glutamate modulator; extends survival ~3 months</em></li>
-<li>← [[Edaravone]] (drug) - <em>Antioxidant; slows decline in some patients</em></li>
-<li>← [[Non-Invasive Ventilation]] (intervention) - <em>Respiratory support</em></li>
+<li>← <a href="/garden/dev_admin/drug/riluzole/" class="internal-link">Riluzole</a> (drug) - <em>Glutamate modulator; extends survival ~3 months</em></li>
+<li>← <a href="/garden/dev_admin/drug/edaravone/" class="internal-link">Edaravone</a> (drug) - <em>Antioxidant; slows decline in some patients</em></li>
+<li>← <a href="/garden/dev_admin/intervention/non-invasive-ventilation/" class="internal-link">Non-Invasive Ventilation</a> (intervention) - <em>Respiratory support</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>ALS-FTD spectrum</em></li>
-<li>→ [[Primary Lateral Sclerosis]] (condition) - <em>UMN-only variant</em></li>
-<li>→ [[Progressive Muscular Atrophy]] (condition) - <em>LMN-only variant</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>ALS-FTD spectrum</em></li>
+<li>→ <a href="/garden/dev_admin/condition/primary-lateral-sclerosis/" class="internal-link">Primary Lateral Sclerosis</a> (condition) - <em>UMN-only variant</em></li>
+<li>→ <a href="/garden/dev_admin/condition/progressive-muscular-atrophy/" class="internal-link">Progressive Muscular Atrophy</a> (condition) - <em>LMN-only variant</em></li>
 </ul>
 <h2>References</h2>
 <ol>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.990606Z'
+created: '2026-02-09T08:04:40.179544Z'
 description: A group of neurodegenerative disorders characterized by progressive degeneration
   of the frontal and temporal lobes. Causes changes in personality, behavior, and
   language, typically with earlier onset than Alzheimer's disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Frontotemporal Dementia
 type: condition
-updated: '2026-02-09T05:54:31.990606Z'
+updated: '2026-02-09T08:04:40.179544Z'
 ---
 
 {% raw %}
@@ -57,325 +57,325 @@ updated: '2026-02-09T05:54:31.990606Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[FDG-PET]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.865410'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MRI_Volumetry]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.199836'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuropsychological_Testing]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.380650'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Tau_PET_Imaging]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.698956'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MAPT]] (gene)</li>
+<li>← <a href="/garden/dev_admin/gene/mapt/" class="internal-link">MAPT</a> (gene)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.703132'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[GFAP]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MTBR-tau243]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.924796'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Phospho-Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_p-tau217]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Tau_Phosphorylation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Tau]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/tau/" class="internal-link">Tau</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Temporal_Pole]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Temporal_Pole</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuropsychological_Testing]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insula]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/insula/" class="internal-link">Insula</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anterior_Cingulate_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/anterior-cingulate-cortex/" class="internal-link">Anterior_Cingulate_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Orbitofrontal_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/orbitofrontal-cortex/" class="internal-link">Orbitofrontal_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prefrontal_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[FDG-PET]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Corticobasal_Degeneration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Corticobasal_Degeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progressive_Supranuclear_Palsy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progressive_Supranuclear_Palsy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Temporal_Pole]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Temporal_Pole</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progranulin_Plasma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progranulin_Plasma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progranulin_Plasma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progranulin_Plasma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MAPT]] (gene)</li>
+<li>→ <a href="/garden/dev_admin/gene/mapt/" class="internal-link">MAPT</a> (gene)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progressive_Supranuclear_Palsy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progressive_Supranuclear_Palsy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Corticobasal_Degeneration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Corticobasal_Degeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_PET_Imaging]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GFAP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anterior_Cingulate_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/anterior-cingulate-cortex/" class="internal-link">Anterior_Cingulate_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/tau/" class="internal-link">Tau</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MTBR-tau243]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Phosphorylation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prefrontal_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Orbitofrontal_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/orbitofrontal-cortex/" class="internal-link">Orbitofrontal_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:36.240463'
 source: obsidian
@@ -384,24 +384,24 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affected Brain Regions</h3>
 <ul>
-<li>→ [[Prefrontal Cortex]] (organ) - <em>Behavioral control</em></li>
-<li>→ [[Orbitofrontal Cortex]] (organ) - <em>Decision-making and social behavior</em></li>
-<li>→ [[Anterior Cingulate Cortex]] (organ) - <em>Motivation and emotion</em></li>
-<li>→ [[Insula]] (organ) - <em>Interoception and empathy</em></li>
-<li>→ [[Temporal Pole]] (organ) - <em>Semantic knowledge</em></li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>Behavioral control</em></li>
+<li>→ <a href="/garden/dev_admin/organ/orbitofrontal-cortex/" class="internal-link">Orbitofrontal Cortex</a> (organ) - <em>Decision-making and social behavior</em></li>
+<li>→ <a href="/garden/dev_admin/organ/anterior-cingulate-cortex/" class="internal-link">Anterior Cingulate Cortex</a> (organ) - <em>Motivation and emotion</em></li>
+<li>→ <a href="/garden/dev_admin/organ/insula/" class="internal-link">Insula</a> (organ) - <em>Interoception and empathy</em></li>
+<li>→ <a href="/garden/dev_admin/organ/temporal-pole/" class="internal-link">Temporal Pole</a> (organ) - <em>Semantic knowledge</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>← [[Neurofilament Light Chain]] (biomarker) - <em>Elevated; tracks disease progression</em></li>
-<li>← [[Progranulin Plasma]] (biomarker) - <em>Low in GRN mutations</em></li>
-<li>← [[FDG-PET]] (examination) - <em>Frontal/temporal hypometabolism</em></li>
-<li>← [[MRI Volumetry]] (examination) - <em>Frontal/temporal atrophy</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Elevated; tracks disease progression</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/progranulin-plasma/" class="internal-link">Progranulin Plasma</a> (biomarker) - <em>Low in GRN mutations</em></li>
+<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination) - <em>Frontal/temporal hypometabolism</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Frontal/temporal atrophy</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>FTD-ALS spectrum</em></li>
-<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>Related tauopathy</em></li>
-<li>→ [[Corticobasal Degeneration]] (condition) - <em>Related tauopathy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>FTD-ALS spectrum</em></li>
+<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>Related tauopathy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/corticobasal-degeneration/" class="internal-link">Corticobasal Degeneration</a> (condition) - <em>Related tauopathy</em></li>
 </ul>
 <h3>Differentiation from Alzheimer's</h3>
 <ul>

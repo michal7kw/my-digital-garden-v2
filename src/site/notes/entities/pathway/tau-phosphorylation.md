@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.786616Z'
+created: '2026-02-09T08:04:41.122595Z'
 description: The pathological process of excessive tau protein phosphorylation leading
   to microtubule destabilization, tau aggregation, and neurofibrillary tangle formation.
   Central to Alzheimer's disease and other tauopathies.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Tau Phosphorylation
 type: pathway
-updated: '2026-02-09T05:54:32.786616Z'
+updated: '2026-02-09T08:04:41.122595Z'
 ---
 
 {% raw %}
@@ -141,217 +141,217 @@ updated: '2026-02-09T05:54:32.786616Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Total_Tau]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Antisense_Oligonucleotides]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Antisense_Oligonucleotides</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Corticobasal_Degeneration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Corticobasal_Degeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_PET_Imaging]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GSK-3_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GSK-3_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Traumatic_Encephalopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Traumatic_Encephalopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progressive_Supranuclear_Palsy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progressive_Supranuclear_Palsy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Immunotherapy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Tau_Immunotherapy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MTBR-tau243]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:42.217327'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Progressive_Supranuclear_Palsy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Progressive_Supranuclear_Palsy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Corticobasal_Degeneration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Corticobasal_Degeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GSK-3_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GSK-3_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Traumatic_Encephalopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Traumatic_Encephalopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Antisense_Oligonucleotides]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Antisense_Oligonucleotides</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Immunotherapy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Tau_Immunotherapy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Tau_PET_Imaging]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.698956'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MTBR-tau243]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.924796'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_PET_Imaging]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lithium]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/lithium/" class="internal-link">Lithium</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
@@ -360,29 +360,29 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Associated Diseases</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Core pathology</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>MAPT mutations</em></li>
-<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>4R tauopathy</em></li>
-<li>→ [[Corticobasal Degeneration]] (condition) - <em>4R tauopathy</em></li>
-<li>→ [[Chronic Traumatic Encephalopathy]] (condition) - <em>Post-trauma</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Core pathology</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>MAPT mutations</em></li>
+<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>4R tauopathy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/corticobasal-degeneration/" class="internal-link">Corticobasal Degeneration</a> (condition) - <em>4R tauopathy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-traumatic-encephalopathy/" class="internal-link">Chronic Traumatic Encephalopathy</a> (condition) - <em>Post-trauma</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker) - <em>CSF and plasma</em></li>
-<li>→ [[Total Tau]] (biomarker) - <em>Neurodegeneration marker</em></li>
-<li>← [[Tau PET Imaging]] (examination) - <em>Visualize tangles</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>CSF and plasma</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration marker</em></li>
+<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>Visualize tangles</em></li>
 </ul>
 <h3>Related Pathways</h3>
 <ul>
-<li>→ [[Amyloid Cascade]] (pathway) - <em>May trigger tau phosphorylation</em></li>
-<li>→ [[Neuroinflammation]] (pathway) - <em>Kinase activation</em></li>
-<li>→ [[GSK-3β Signaling]] (pathway) - <em>Key kinase</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>May trigger tau phosphorylation</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway) - <em>Kinase activation</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/gsk-3-signaling/" class="internal-link">GSK-3β Signaling</a> (pathway) - <em>Key kinase</em></li>
 </ul>
 <h3>Therapeutic Approaches</h3>
 <ul>
-<li>← [[Lithium]] (drug) - <em>GSK-3β inhibitor</em></li>
-<li>← [[Tau Immunotherapy]] (intervention) - <em>Anti-tau antibodies</em></li>
-<li>← [[Antisense Oligonucleotides]] (intervention) - <em>MAPT reduction</em></li>
+<li>← <a href="/garden/dev_admin/drug/lithium/" class="internal-link">Lithium</a> (drug) - <em>GSK-3β inhibitor</em></li>
+<li>← <a href="/garden/dev_admin/intervention/tau-immunotherapy/" class="internal-link">Tau Immunotherapy</a> (intervention) - <em>Anti-tau antibodies</em></li>
+<li>← <a href="/garden/dev_admin/intervention/antisense-oligonucleotides/" class="internal-link">Antisense Oligonucleotides</a> (intervention) - <em>MAPT reduction</em></li>
 </ul>
 <h2>Therapeutic Strategies</h2>
 <h3>Kinase Inhibition</h3>

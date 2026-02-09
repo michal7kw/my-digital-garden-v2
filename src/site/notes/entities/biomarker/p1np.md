@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.704755Z'
+created: '2026-02-09T08:04:39.952910Z'
 description: Procollagen type I N-terminal propeptide is the most sensitive marker
   of bone formation. It is cleaved from type I collagen during bone synthesis and
   reflects osteoblast activity. Used to monitor osteoporosis treatment response and
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: P1NP
 type: biomarker
-updated: '2026-02-09T05:54:31.704755Z'
+updated: '2026-02-09T08:04:39.952910Z'
 ---
 
 {% raw %}
@@ -64,10 +64,10 @@ updated: '2026-02-09T05:54:31.704755Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Vitamin D]] - Increases P1NP by supporting osteoblast function (moderate effect, evidence level 2)</li>
-<li>[[Calcium]] - Supports bone formation when adequate (moderate effect, evidence level 2)</li>
-<li>[[Vitamin K2]] - Supports osteocalcin carboxylation and bone formation (mild effect, evidence level 3)</li>
-<li>[[Collagen Peptides]] - May increase P1NP through providing collagen precursors (mild effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Increases P1NP by supporting osteoblast function (moderate effect, evidence level 2)</li>
+<li><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> - Supports bone formation when adequate (moderate effect, evidence level 2)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> - Supports osteocalcin carboxylation and bone formation (mild effect, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Collagen Peptides</a> - May increase P1NP through providing collagen precursors (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
@@ -78,17 +78,17 @@ updated: '2026-02-09T05:54:31.704755Z'
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Osteocalcin]] (biomarker) - Both are bone formation markers (complementary)</li>
-<li>→ [[CTX]] (biomarker) - Formation vs resorption; ratio indicates bone balance</li>
-<li>→ [[Alkaline Phosphatase]] (biomarker) - ALP partly reflects bone-specific formation</li>
-<li>→ [[Vitamin D]] (biomarker) - Vitamin D status affects bone formation rate</li>
-<li>→ [[Calcium]] (biomarker) - Calcium homeostasis linked to bone turnover</li>
+<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a> (biomarker) - Both are bone formation markers (complementary)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ctx/" class="internal-link">CTX</a> (biomarker) - Formation vs resorption; ratio indicates bone balance</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a> (biomarker) - ALP partly reflects bone-specific formation</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (biomarker) - Vitamin D status affects bone formation rate</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> (biomarker) - Calcium homeostasis linked to bone turnover</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
-<li>→ [[Osteopenia]] (condition)</li>
-<li>→ [[Paget's Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteopenia/" class="internal-link">Osteopenia</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pagets-disease/" class="internal-link">Paget's Disease</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ul>

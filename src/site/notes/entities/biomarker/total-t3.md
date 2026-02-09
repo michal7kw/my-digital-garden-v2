@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.736894Z'
+created: '2026-02-09T08:04:39.984805Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Total T3
 type: biomarker
-updated: '2026-02-09T05:54:31.736894Z'
+updated: '2026-02-09T08:04:39.984805Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.736894Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Total_T3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">Total_T3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.496927'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_T3]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">Total_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.496927'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Total_T3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">Total_T3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.768611'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_T3]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">Total_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.768611'
 source: obsidian

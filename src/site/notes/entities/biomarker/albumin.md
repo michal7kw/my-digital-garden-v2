@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.587298Z'
+created: '2026-02-09T08:04:39.837400Z'
 description: The most abundant protein in the blood, produced by the liver. Maintains
   fluid balance and transports nutrients, hormones, and drugs through the bloodstream.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Albumin
 type: biomarker
-updated: '2026-02-09T05:54:31.587298Z'
+updated: '2026-02-09T08:04:39.837400Z'
 ---
 
 {% raw %}
@@ -32,74 +32,74 @@ updated: '2026-02-09T05:54:31.587298Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[liver_function_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.480389'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.031900'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[albumin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.703173'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[liver_function_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.703173'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.652856'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Edema]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/edema/" class="internal-link">Edema</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.652856'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[liver_function_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.652856'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Edema]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/edema/" class="internal-link">Edema</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.447357'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.703173'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Albumin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.703173'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Protein Synthesis
@@ -114,7 +114,7 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Albumin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:08.882759'
 source: obsidian
@@ -124,12 +124,12 @@ source: obsidian
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[albumin]] - Direct albumin measurement</li>
+<li><a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> - Direct albumin measurement</li>
 </ul>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[comprehensive metabolic panel]] - Part of standard CMP</li>
-<li>[[liver function panel]] - Part of liver function assessment</li>
+<li><a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a> - Part of standard CMP</li>
+<li><a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver function panel</a> - Part of liver function assessment</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

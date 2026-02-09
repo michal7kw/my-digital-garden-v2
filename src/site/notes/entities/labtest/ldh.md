@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.409936Z'
+created: '2026-02-09T08:04:40.647371Z'
 description: Lactate Dehydrogenase (LDH) test. Non-specific tissue damage marker present
   in nearly all body tissues. Elevated in hemolytic anemia, liver disease, lymphoma,
   and myocardial infarction. Also a prognostic marker in oncology.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ldh
 type: labtest
-updated: '2026-02-09T05:54:32.409936Z'
+updated: '2026-02-09T08:04:40.647371Z'
 ---
 
 {% raw %}
@@ -98,17 +98,17 @@ updated: '2026-02-09T05:54:32.409936Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Hemolytic Anemia]]</li>
-<li>[[Liver Disease]]</li>
-<li>[[Lymphoma]]</li>
-<li>[[Myocardial Infarction]]</li>
-<li>[[Pulmonary Embolism]]</li>
-<li>[[Megaloblastic Anemia]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Hemolytic Anemia</a></li>
+<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Lymphoma</a></li>
+<li><a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pulmonary Embolism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Megaloblastic Anemia</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Lactate Dehydrogenase]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a> (biomarker)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

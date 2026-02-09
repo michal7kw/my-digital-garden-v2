@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.456889Z'
+created: '2026-02-09T08:04:40.702273Z'
 description: Tested twice a year Occult blood in urine, means there are traces of
   blood not visible to the naked eye and may sometimes occur after exercise or minor
   irritation without indicating disease. Persistent or unexplained occult blood in
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: occult_blood_urine
 type: labtest
-updated: '2026-02-09T05:54:32.456889Z'
+updated: '2026-02-09T08:04:40.702273Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.456889Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Urinary Tract Infection (Uti)]]</li>
-<li>[[Kidney Stones]]</li>
-<li>[[Bladder Inflammation (Cystitis)]]</li>
-<li>[[Kidney Inflammation (Glomerulonephritis)]]</li>
-<li>[[Strenuous Exercise Or Muscle Injury]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
+<li><a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bladder Inflammation (Cystitis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Inflammation (Glomerulonephritis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Strenuous Exercise Or Muscle Injury</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,74 +72,74 @@ updated: '2026-02-09T05:54:32.456889Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.325257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Inflammation_Cystitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bladder_Inflammation_Cystitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.325257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.325257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Inflammation_Glomerulonephritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Inflammation_Glomerulonephritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.325257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Strenuous_Exercise_Or_Muscle_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Strenuous_Exercise_Or_Muscle_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.325257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Inflammation_Cystitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bladder_Inflammation_Cystitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Inflammation_Glomerulonephritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Inflammation_Glomerulonephritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Strenuous_Exercise_Or_Muscle_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Strenuous_Exercise_Or_Muscle_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Kidney_Stones]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

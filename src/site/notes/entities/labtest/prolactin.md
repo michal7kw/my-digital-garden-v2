@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.481394Z'
+created: '2026-02-09T08:04:40.730185Z'
 description: Prolactin is a hormone made by the pituitary gland in the brain. In females,
   it supports breast development, plays a central role in milk production after childbirth,
   and also influences the menstrual cycle. Measuring prolactin can help explain irregular
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: prolactin
 type: labtest
-updated: '2026-02-09T05:54:32.481394Z'
+updated: '2026-02-09T08:04:40.730185Z'
 ---
 
 {% raw %}
@@ -62,10 +62,10 @@ updated: '2026-02-09T05:54:32.481394Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Hormonal Imbalance]]</li>
-<li>[[Pituitary Dysfunction Or Adenoma]]</li>
-<li>[[Hypothyroidism]]</li>
-<li>[[Adrenal Dysfunction]]</li>
+<li><a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pituitary Dysfunction Or Adenoma</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Adrenal Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,80 +73,80 @@ updated: '2026-02-09T05:54:32.481394Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pituitary_Dysfunction_Or_Adenoma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction_Or_Adenoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pituitary_Dysfunction_Or_Adenoma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction_Or_Adenoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[pregnancy_hcg]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_hormone_health]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hormonal_Imbalance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -154,8 +154,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
-<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.451048Z'
+created: '2026-02-09T08:04:40.695438Z'
 description: Tested twice a year Neutrophils are the most abundant type of white blood
   cell (WBC) and act as frontline defenders against infection by engulfing and digesting
   pathogens. They are produced in the bone marrow and rapidly mobilize to sites of
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: neutrophils
 type: labtest
-updated: '2026-02-09T05:54:32.451048Z'
+updated: '2026-02-09T08:04:40.695438Z'
 ---
 
 {% raw %}
@@ -64,9 +64,9 @@ updated: '2026-02-09T05:54:32.451048Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Bacterial Infection]]</li>
-<li>[[Immune Deficiency]]</li>
-<li>[[Chronic Inflammation]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Bacterial Infection</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Immune Deficiency</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,74 +74,74 @@ updated: '2026-02-09T05:54:32.451048Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.922156'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.922156'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacterial_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bacterial_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.922156'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.605433'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacterial_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bacterial_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.605433'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.605433'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_immune_regulation]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.434318'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[chronic_inflammatory_response_mold_response]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.490694'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chronic_inflammatory_response_mold_response]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.922156'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_immune_regulation]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.922156'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -149,8 +149,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_immune_regulation]] (labtestpanel)</li>
-<li>→ [[chronic_inflammatory_response_mold_response]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

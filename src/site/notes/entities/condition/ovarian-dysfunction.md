@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.081782Z'
+created: '2026-02-09T08:04:40.278342Z'
 description: A range of disorders where the ovaries fail to produce eggs or the correct
   balance of hormones, affecting fertility and systemic health.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Ovarian Dysfunction
 type: condition
-updated: '2026-02-09T05:54:32.081782Z'
+updated: '2026-02-09T08:04:40.278342Z'
 ---
 
 {% raw %}
@@ -39,14 +39,14 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[follicle_stimulating_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[luteinizing_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -54,19 +54,19 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ovarian_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.126386'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[follicle_stimulating_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.126386'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[luteinizing_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.126386'
 source: obsidian
@@ -87,51 +87,51 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ovarian_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.791556'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[luteinizing_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.551127'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[follicle_stimulating_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[follicle_stimulating_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.791556'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[luteinizing_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.791556'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ovarian_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.791556'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[luteinizing_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[follicle_stimulating_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

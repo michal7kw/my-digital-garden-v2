@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.524121Z'
+created: '2026-02-09T08:04:40.779836Z'
 description: High-sensitivity cardiac troponin I (hs-cTnI) test. Detects myocardial
   injury by measuring cardiac-specific troponin I protein released from damaged cardiomyocytes.
   Essential for acute coronary syndrome diagnosis and risk stratification.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: troponin_i
 type: labtest
-updated: '2026-02-09T05:54:32.524121Z'
+updated: '2026-02-09T08:04:40.779836Z'
 ---
 
 {% raw %}
@@ -98,20 +98,20 @@ updated: '2026-02-09T05:54:32.524121Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Myocardial Infarction]]</li>
-<li>[[Heart Failure]]</li>
-<li>[[Myocarditis]]</li>
-<li>[[Pulmonary Embolism]]</li>
-<li>[[Cardiac Contusion]]</li>
+<li><a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
+<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Myocarditis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pulmonary Embolism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cardiac Contusion</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Troponin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cardiac biomarker panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

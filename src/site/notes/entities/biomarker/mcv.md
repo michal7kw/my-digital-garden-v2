@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.686582Z'
+created: '2026-02-09T08:04:39.934082Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mcv
 type: biomarker
-updated: '2026-02-09T05:54:31.686582Z'
+updated: '2026-02-09T08:04:39.934082Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.686582Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mcv]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">Mcv</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.849265'
 source: obsidian
@@ -44,7 +44,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mcv]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">Mcv</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.418507'
 source: obsidian

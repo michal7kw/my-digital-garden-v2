@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.998432Z'
+created: '2026-02-09T08:04:40.188034Z'
 description: A group of eye conditions that damage the optic nerve, often caused by
   abnormally high pressure in the eye, leading to progressive vision loss.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glaucoma
 type: condition
-updated: '2026-02-09T05:54:31.998432Z'
+updated: '2026-02-09T08:04:40.188034Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Glaucoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/glaucoma/" class="internal-link">Glaucoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:08.276896'
 source: obsidian
@@ -59,19 +59,19 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Retinal_Imaging_for_Neurodegeneration]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.359650'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Retinal_Imaging_for_Neurodegeneration]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.549973'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glaucoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/glaucoma/" class="internal-link">Glaucoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.389126'
 source: obsidian

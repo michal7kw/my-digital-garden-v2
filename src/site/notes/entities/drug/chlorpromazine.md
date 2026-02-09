@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.167651Z'
+created: '2026-02-09T08:04:40.371878Z'
 description: First-generation typical antipsychotic used for schizophrenia, manic
   episodes, and nausea. Acts primarily as a dopamine D2 receptor antagonist.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Chlorpromazine
 type: drug
-updated: '2026-02-09T05:54:32.167651Z'
+updated: '2026-02-09T08:04:40.371878Z'
 ---
 
 {% raw %}
@@ -38,176 +38,176 @@ updated: '2026-02-09T05:54:32.167651Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Amlodipine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/amlodipine/" class="internal-link">Amlodipine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.825584'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Nausea]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/nausea/" class="internal-link">Nausea</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:53.078701'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Dopamine]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.905107'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amlodipine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/amlodipine/" class="internal-link">Amlodipine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huperzine_A]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Huperzine_A</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fluticasone_furoate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Fluticasone_furoate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dopamine_D2_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_human]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Insulin_human</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alpha-1_Adrenergic_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bipolar_Disorder]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bipolar_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Peginterferon_beta-1a]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Peginterferon_beta-1a</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Salmon_calcitonin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Salmon_calcitonin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Schizophrenia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Schizophrenia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dopamine_D2_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bipolar_Disorder]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bipolar_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hiccups]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hiccups</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alpha-1_Adrenergic_Receptor</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nausea]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/nausea/" class="internal-link">Nausea</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
 </code></pre>
 <h3>Interactswith</h3>
 <ul>
-<li>← [[Insulin_human]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Insulin_human</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:35.605000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Amlodipine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/amlodipine/" class="internal-link">Amlodipine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:35.696000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Salmon_calcitonin]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Salmon_calcitonin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:35.737000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Fluticasone_furoate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Fluticasone_furoate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:35.789000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Peginterferon_beta-1a]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Peginterferon_beta-1a</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:35.796000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Huperzine_A]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Huperzine_A</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:35.919000+00:00'
 source: PrimeKG
@@ -216,21 +216,21 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>⊣ [[Dopamine]] (neurotransmitter) - <em>D2 Receptor Antagonist</em></li>
+<li>⊣ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter) - <em>D2 Receptor Antagonist</em></li>
 </ul>
 <h3>Modulates Protein</h3>
 <ul>
-<li>⊣ [[Dopamine D2 Receptor]] (protein) - <em>Antagonist</em></li>
-<li>⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - <em>Antagonist (Hypotension)</em></li>
-<li>⊣ [[Histamine H1 Receptor]] (protein) - <em>Antagonist (Sedation)</em></li>
-<li>⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - <em>Antagonist</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/dopamine-d2-receptor/" class="internal-link">Dopamine D2 Receptor</a> (protein) - <em>Antagonist</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/alpha-1-adrenergic-receptor/" class="internal-link">Alpha-1 Adrenergic Receptor</a> (protein) - <em>Antagonist (Hypotension)</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/histamine-h1-receptor/" class="internal-link">Histamine H1 Receptor</a> (protein) - <em>Antagonist (Sedation)</em></li>
+<li>⊣ <a href="/garden/dev_admin/protein/muscarinic-acetylcholine-receptor/" class="internal-link">Muscarinic Acetylcholine Receptor</a> (protein) - <em>Antagonist</em></li>
 </ul>
 <h3>Treats Condition</h3>
 <ul>
-<li>→ [[Schizophrenia]] (condition)</li>
-<li>→ [[Bipolar Disorder]] (condition)</li>
-<li>→ [[Nausea]] (condition)</li>
-<li>→ [[Hiccups]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/schizophrenia/" class="internal-link">Schizophrenia</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bipolar-disorder/" class="internal-link">Bipolar Disorder</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/nausea/" class="internal-link">Nausea</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hiccups/" class="internal-link">Hiccups</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

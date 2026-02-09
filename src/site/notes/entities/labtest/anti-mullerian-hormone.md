@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.311910Z'
+created: '2026-02-09T08:04:40.534709Z'
 description: AMH reflects ovarian reserve (egg count) and fertility potential, at
   the time of the test. This test sheds light on the body’s ability to produce eggs
   for fertilization, particularly if one is nearing menopause or experiencing a hormonal
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: anti_mullerian_hormone
 type: labtest
-updated: '2026-02-09T05:54:32.311910Z'
+updated: '2026-02-09T08:04:40.534709Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.311910Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Polycystic Ovary Syndrome (Pcos)]]</li>
-<li>[[Low Ovarian Reserve]]</li>
-<li>[[Premature Ovarian Insufficiency]]</li>
-<li>[[Perimenopause]]</li>
-<li>[[Infertility]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome (Pcos)</a></li>
+<li><a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low Ovarian Reserve</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Premature Ovarian Insufficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Perimenopause</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Infertility</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,86 +72,86 @@ updated: '2026-02-09T05:54:32.311910Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Low_Ovarian_Reserve]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Premature_Ovarian_Insufficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Premature_Ovarian_Insufficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Infertility]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Infertility</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Premature_Ovarian_Insufficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Premature_Ovarian_Insufficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Perimenopause]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Perimenopause</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Low_Ovarian_Reserve]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[pregnancy_hcg]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_hormone_health]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Low_Ovarian_Reserve]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.038200'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Low_Ovarian_Reserve]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -159,8 +159,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
-<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

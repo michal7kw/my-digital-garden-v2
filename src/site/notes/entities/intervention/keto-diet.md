@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.282409Z'
+created: '2026-02-09T08:04:40.500590Z'
 description: The ketogenic diet is a very low-carb, high-fat diet that involves drastically
   reducing carbohydrate intake and replacing it with fat. This reduction in carbs
   puts your body into a metabolic state called ketosis.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Keto Diet
 type: intervention
-updated: '2026-02-09T05:54:32.282409Z'
+updated: '2026-02-09T08:04:40.500590Z'
 ---
 
 {% raw %}
@@ -30,92 +30,92 @@ updated: '2026-02-09T05:54:32.282409Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Keto_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MCT8_Oil]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[health_goals]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Keto_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
 </code></pre>
 <h3>Related To</h3>
 <ul>
-<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.650561'
 source: obsidian
 </code></pre>
 <h3>Affects Cellular Component</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.394807'
 source: obsidian
 </code></pre>
 <h3>Requires Supplement</h3>
 <ul>
-<li>→ [[MCT8_Oil]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.353448'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.311911'
 source: obsidian
 </code></pre>
 <h3>Requires Intervention</h3>
 <ul>
-<li>← [[MCT8_Oil]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.978922'
 source: obsidian
 </code></pre>
 <h3>Worsened By Intervention</h3>
 <ul>
-<li>← [[Diabetes]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.449897'
 source: obsidian
 </code></pre>
 <h3>Affected By Diet</h3>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.639479'
 source: obsidian
@@ -124,98 +124,98 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affected By Diet</h3>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.639479'
 source: obsidian
 </code></pre>
 <h3>Worsened By Intervention</h3>
 <ul>
-<li>← [[Diabetes]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.449897'
 source: obsidian
 </code></pre>
 <h3>Requires Intervention</h3>
 <ul>
-<li>← [[MCT8_Oil]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.978922'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.311911'
 source: obsidian
 </code></pre>
 <h3>Requires Supplement</h3>
 <ul>
-<li>→ [[MCT8_Oil]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.353448'
 source: obsidian
 </code></pre>
 <h3>Affects Cellular Component</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.394807'
 source: obsidian
 </code></pre>
 <h3>Related To</h3>
 <ul>
-<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.650561'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[health_goals]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:42:06.512352'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MCT8_Oil]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[health_goals]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Keto_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Keto_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian

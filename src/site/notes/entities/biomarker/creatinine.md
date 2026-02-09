@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.622287Z'
+created: '2026-02-09T08:04:39.870865Z'
 description: Creatinine is a waste product from muscle metabolism filtered by the
   kidneys. Elevated levels indicate reduced kidney function.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Creatinine
 type: biomarker
-updated: '2026-02-09T05:54:31.622287Z'
+updated: '2026-02-09T08:04:39.870865Z'
 ---
 
 {% raw %}
@@ -32,111 +32,111 @@ updated: '2026-02-09T05:54:31.622287Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[kidney_function_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.954326'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.031900'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[basic_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/basic-metabolic-panel/" class="internal-link">basic_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.217964'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[creatinine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[basic_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/basic-metabolic-panel/" class="internal-link">basic_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Edema]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/edema/" class="internal-link">Edema</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[kidney_function_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[kidney_function_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[basic_metabolic_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/basic-metabolic-panel/" class="internal-link">basic_metabolic_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Edema]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/edema/" class="internal-link">Edema</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.447357'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[creatinine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.071221'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatinine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.334944'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Kidneys]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Glomerular Filtration
@@ -151,26 +151,26 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Creatinine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.971686'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.971686'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:40.674431'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:40.032727'
 source: obsidian
@@ -180,13 +180,13 @@ source: obsidian
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[creatinine]] - Direct creatinine measurement</li>
+<li><a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> - Direct creatinine measurement</li>
 </ul>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[comprehensive metabolic panel]] - Part of CMP</li>
-<li>[[basic metabolic panel]] - Part of BMP</li>
-<li>[[kidney function panel]] - Part of renal function assessment</li>
+<li><a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a> - Part of CMP</li>
+<li><a href="/garden/dev_admin/labtest/basic-metabolic-panel/" class="internal-link">basic metabolic panel</a> - Part of BMP</li>
+<li><a href="/garden/dev_admin/labtest/kidney-function-panel/" class="internal-link">kidney function panel</a> - Part of renal function assessment</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.541477Z'
+created: '2026-02-09T08:04:40.798600Z'
 description: Essential mineral for immune function, wound healing, and enzyme activity.
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: zinc_serum
 type: labtest
-updated: '2026-02-09T05:54:32.541477Z'
+updated: '2026-02-09T08:04:40.798600Z'
 ---
 
 {% raw %}
@@ -60,7 +60,7 @@ updated: '2026-02-09T05:54:32.541477Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[zinc]]</li>
+<li><a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -73,13 +73,13 @@ updated: '2026-02-09T05:54:32.541477Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[zinc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[zinc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.018670'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.011956Z'
+created: '2026-02-09T08:04:40.202104Z'
 description: An autosomal dominant neurodegenerative disorder caused by CAG trinucleotide
   repeat expansion in the huntingtin gene. Characterized by chorea, cognitive decline,
   and psychiatric symptoms.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Huntington's Disease
 type: condition
-updated: '2026-02-09T05:54:32.011956Z'
+updated: '2026-02-09T08:04:40.202104Z'
 ---
 
 {% raw %}
@@ -75,223 +75,223 @@ updated: '2026-02-09T05:54:32.011956Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Huntingtons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Globus_Pallidus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/globus-pallidus/" class="internal-link">Globus_Pallidus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Substantia_Nigra]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia_Nigra</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:39.931804'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prefrontal_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Digital_Biomarkers_for_Neurodegeneration]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Genetic_Testing]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Genetic_Testing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gene_Therapy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gene_Therapy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mutant_Huntingtin_CSF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mutant_Huntingtin_CSF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Antisense_Oligonucleotides]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Antisense_Oligonucleotides</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Genetic_Testing]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Genetic_Testing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SSRIs]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SSRIs</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tetrabenazine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Tetrabenazine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Antipsychotics]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Antipsychotics</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Deutetrabenazine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deutetrabenazine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mutant_Huntingtin_CSF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mutant_Huntingtin_CSF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gene_Therapy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gene_Therapy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chorea]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chorea</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dementia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Antisense_Oligonucleotides]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Antisense_Oligonucleotides</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MRI_Volumetry]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.199836'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Globus_Pallidus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/globus-pallidus/" class="internal-link">Globus_Pallidus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Striatum]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/striatum/" class="internal-link">Striatum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Prefrontal_Cortex]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Substantia_Nigra]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia_Nigra</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
@@ -300,34 +300,34 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affected Brain Regions</h3>
 <ul>
-<li>→ [[Striatum]] (organ) - <em>Primary degeneration site</em></li>
-<li>→ [[Globus Pallidus]] (organ) - <em>Indirect pathway affected</em></li>
-<li>→ [[Prefrontal Cortex]] (organ) - <em>Executive dysfunction</em></li>
-<li>→ [[Substantia Nigra]] (organ) - <em>Late involvement</em></li>
+<li>→ <a href="/garden/dev_admin/organ/striatum/" class="internal-link">Striatum</a> (organ) - <em>Primary degeneration site</em></li>
+<li>→ <a href="/garden/dev_admin/organ/globus-pallidus/" class="internal-link">Globus Pallidus</a> (organ) - <em>Indirect pathway affected</em></li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>Executive dysfunction</em></li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a> (organ) - <em>Late involvement</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>← [[Neurofilament Light Chain]] (biomarker) - <em>Elevated; tracks progression</em></li>
-<li>← [[Mutant Huntingtin CSF]] (biomarker) - <em>Disease-specific</em></li>
-<li>← [[MRI Volumetry]] (examination) - <em>Caudate atrophy</em></li>
-<li>← [[Genetic Testing]] (examination) - <em>Definitive diagnosis</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Elevated; tracks progression</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/mutant-huntingtin-csf/" class="internal-link">Mutant Huntingtin CSF</a> (biomarker) - <em>Disease-specific</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Caudate atrophy</em></li>
+<li>← <a href="/garden/dev_admin/examination/genetic-testing/" class="internal-link">Genetic Testing</a> (examination) - <em>Definitive diagnosis</em></li>
 </ul>
 <h3>Symptomatic Treatments</h3>
 <ul>
-<li>← [[Tetrabenazine]] (drug) - <em>VMAT2 inhibitor for chorea</em></li>
-<li>← [[Deutetrabenazine]] (drug) - <em>Improved tetrabenazine</em></li>
-<li>← [[Antipsychotics]] (drug) - <em>Chorea and psychiatric symptoms</em></li>
-<li>← [[SSRIs]] (drug) - <em>Depression management</em></li>
+<li>← <a href="/garden/dev_admin/drug/tetrabenazine/" class="internal-link">Tetrabenazine</a> (drug) - <em>VMAT2 inhibitor for chorea</em></li>
+<li>← <a href="/garden/dev_admin/drug/deutetrabenazine/" class="internal-link">Deutetrabenazine</a> (drug) - <em>Improved tetrabenazine</em></li>
+<li>← <a href="/garden/dev_admin/drug/antipsychotics/" class="internal-link">Antipsychotics</a> (drug) - <em>Chorea and psychiatric symptoms</em></li>
+<li>← <a href="/garden/dev_admin/drug/ssris/" class="internal-link">SSRIs</a> (drug) - <em>Depression management</em></li>
 </ul>
 <h3>Disease-Modifying Approaches (Investigational)</h3>
 <ul>
-<li>← [[Antisense Oligonucleotides]] (intervention) - <em>HTT lowering</em></li>
-<li>← [[Gene Therapy]] (intervention) - <em>HTT silencing</em></li>
+<li>← <a href="/garden/dev_admin/intervention/antisense-oligonucleotides/" class="internal-link">Antisense Oligonucleotides</a> (intervention) - <em>HTT lowering</em></li>
+<li>← <a href="/garden/dev_admin/intervention/gene-therapy/" class="internal-link">Gene Therapy</a> (intervention) - <em>HTT silencing</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Chorea]] (condition) - <em>Primary motor manifestation</em></li>
-<li>→ [[Dementia]] (condition) - <em>Late-stage progression</em></li>
+<li>→ <a href="/garden/dev_admin/condition/chorea/" class="internal-link">Chorea</a> (condition) - <em>Primary motor manifestation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/dementia/" class="internal-link">Dementia</a> (condition) - <em>Late-stage progression</em></li>
 </ul>
 <h2>Prognosis</h2>
 <ul>

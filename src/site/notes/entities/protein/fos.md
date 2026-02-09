@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.085303Z'
+created: '2026-02-09T08:04:41.447812Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: FOS
 type: protein
-updated: '2026-02-09T05:54:33.085303Z'
+updated: '2026-02-09T08:04:41.447812Z'
 ---
 
 {% raw %}
@@ -43,13 +43,13 @@ updated: '2026-02-09T05:54:33.085303Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[SUMO2]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/sumo2/" class="internal-link">SUMO2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.048500'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SUMO2]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/sumo2/" class="internal-link">SUMO2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.179644'
 source: obsidian
@@ -58,13 +58,13 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[SUMO2]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/sumo2/" class="internal-link">SUMO2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.061704'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SUMO2]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/sumo2/" class="internal-link">SUMO2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.346019'
 source: obsidian

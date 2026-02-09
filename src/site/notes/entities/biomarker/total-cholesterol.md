@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.734385Z'
+created: '2026-02-09T08:04:39.982500Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Total Cholesterol
 type: biomarker
-updated: '2026-02-09T05:54:31.734385Z'
+updated: '2026-02-09T08:04:39.982500Z'
 ---
 
 {% raw %}
@@ -30,37 +30,37 @@ updated: '2026-02-09T05:54:31.734385Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[lipid_panel_standard]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lipid-panel-standard/" class="internal-link">lipid_panel_standard</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[advanced_lipid_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lipid_panel_standard]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lipid-panel-standard/" class="internal-link">lipid_panel_standard</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[advanced_lipid_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Cholesterol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
@@ -74,13 +74,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Total_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.491036'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Cholesterol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.491036'
 source: obsidian
@@ -90,8 +90,8 @@ source: obsidian
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[lipid panel standard]] - Standard lipid panel (primary measurement)</li>
-<li>[[advanced lipid panel]] - Advanced lipid panel with additional markers</li>
+<li><a href="/garden/dev_admin/labtest/lipid-panel-standard/" class="internal-link">lipid panel standard</a> - Standard lipid panel (primary measurement)</li>
+<li><a href="/garden/dev_admin/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a> - Advanced lipid panel with additional markers</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

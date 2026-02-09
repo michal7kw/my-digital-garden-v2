@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.589140Z'
+created: '2026-02-09T08:04:39.839328Z'
 description: The ratio of amyloid-beta 42 to amyloid-beta 40 peptides in CSF or plasma.
   A decreased ratio indicates amyloid pathology and is a core biomarker for Alzheimer's
   disease within the ATN framework.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid-Beta 42/40 Ratio
 type: biomarker
-updated: '2026-02-09T05:54:31.589140Z'
+updated: '2026-02-09T08:04:39.839328Z'
 ---
 
 {% raw %}
@@ -90,241 +90,241 @@ updated: '2026-02-09T05:54:31.589140Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amyloid_PET_Imaging]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Down_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Down_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.883320'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Down_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Down_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:01.894650'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_PET_Imaging]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sleep_Optimization]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Lumbar_Puncture]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.028418'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_PET_Imaging]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.235597'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Total_Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.683830'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_p-tau217]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Phospho-Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
@@ -333,27 +333,27 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Conditions with Decreased Ratio</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Core diagnostic biomarker</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>If progressing to AD</em></li>
-<li>→ [[Down Syndrome]] (condition) - <em>Early amyloid deposition</em></li>
-<li>→ [[Cerebral Amyloid Angiopathy]] (condition) - <em>Vascular amyloid</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Core diagnostic biomarker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>If progressing to AD</em></li>
+<li>→ <a href="/garden/dev_admin/condition/down-syndrome/" class="internal-link">Down Syndrome</a> (condition) - <em>Early amyloid deposition</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cerebral-amyloid-angiopathy/" class="internal-link">Cerebral Amyloid Angiopathy</a> (condition) - <em>Vascular amyloid</em></li>
 </ul>
 <h3>Conditions with Normal Ratio</h3>
 <ul>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>Usually normal</em></li>
-<li>→ [[Parkinson's Disease]] (condition) - <em>Usually normal</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Unless mixed with AD</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Usually normal</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Usually normal</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Unless mixed with AD</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker) - <em>Tau pathology marker</em></li>
-<li>→ [[Total Tau]] (biomarker) - <em>Neurodegeneration marker</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Axonal damage</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>Tau pathology marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Axonal damage</em></li>
 </ul>
 <h3>Imaging Correlates</h3>
 <ul>
-<li>← [[Amyloid PET Imaging]] (examination) - <em>Direct plaque visualization</em></li>
-<li>← [[MRI Volumetry]] (examination) - <em>Hippocampal atrophy</em></li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Direct plaque visualization</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Hippocampal atrophy</em></li>
 </ul>
 <h2>Sample Handling Considerations</h2>
 <h3>Preanalytical Factors</h3>

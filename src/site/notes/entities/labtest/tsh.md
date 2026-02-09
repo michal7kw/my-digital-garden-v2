@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.527785Z'
+created: '2026-02-09T08:04:40.783708Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-02-09T05:54:32.527785Z'
+updated: '2026-02-09T08:04:40.783708Z'
 ---
 
 {% raw %}
@@ -61,31 +61,31 @@ updated: '2026-02-09T05:54:32.527785Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[thyroid_panel_complete]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[thyroid_panel_complete]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_panel_basic]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[thyroid_panel_basic]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.286859'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tsh]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian

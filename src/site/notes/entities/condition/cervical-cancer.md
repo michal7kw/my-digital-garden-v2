@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.944504Z'
+created: '2026-02-09T08:04:40.129180Z'
 description: A type of cancer that develops in the cells of the cervix, almost always
   caused by persistent infection with high-risk human papillomavirus (HPV).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cervical Cancer
 type: condition
-updated: '2026-02-09T05:54:31.944504Z'
+updated: '2026-02-09T08:04:40.129180Z'
 ---
 
 {% raw %}
@@ -29,27 +29,27 @@ updated: '2026-02-09T05:54:31.944504Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cervical_Cancer]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cervical-cancer/" class="internal-link">Cervical_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:33.808505'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cervical_Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cervical-cancer/" class="internal-link">Cervical_Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:28.630794'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Human Papillomavirus]]<br />
-ASSOCIATED_WITH_CONDITION::[[HIV Infections]]<br />
-AFFECTS_ORGAN::[[Cervix]]<br />
-AFFECTS_ORGAN::[[Uterus]]<br />
-TREATED_BY_INTERVENTION::[[Hysterectomy]]<br />
-TREATED_BY_INTERVENTION::[[Radiation Therapy]]<br />
-TREATED_BY_INTERVENTION::[[Chemotherapy]]<br />
-PREVENTED_BY_INTERVENTION::[[HPV Vaccine]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Human Papillomavirus</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hiv-infections/" class="internal-link">HIV Infections</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cervix</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Uterus</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Hysterectomy</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Radiation Therapy</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Chemotherapy</a><br />
+PREVENTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">HPV Vaccine</a></p>
 <h2>References</h2>
 <ul>
 <li>Canfell, K., et al. (2020). Mortality impact of achieving WHO cervical cancer elimination targets. The Lancet.</li>

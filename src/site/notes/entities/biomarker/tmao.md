@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.728981Z'
+created: '2026-02-09T08:04:39.977174Z'
 description: Trimethylamine N-oxide is a gut microbiome-derived metabolite produced
   from dietary choline, betaine, and L-carnitine. Elevated levels are strongly associated
   with increased cardiovascular disease risk, atherosclerosis, and thrombotic events.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: TMAO
 type: biomarker
-updated: '2026-02-09T05:54:31.728981Z'
+updated: '2026-02-09T08:04:39.977174Z'
 ---
 
 {% raw %}
@@ -63,28 +63,28 @@ updated: '2026-02-09T05:54:31.728981Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Probiotics]] - May decrease TMAO by modulating gut microbiome composition (moderate effect, evidence level 3)</li>
-<li>[[Resveratrol]] - May decrease TMAO via gut microbiome modulation (mild effect, evidence level 3)</li>
-<li>[[Berberine]] - May reduce TMAO through gut bacteria modification (moderate effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease TMAO by modulating gut microbiome composition (moderate effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - May decrease TMAO via gut microbiome modulation (mild effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - May reduce TMAO through gut bacteria modification (moderate effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[metabolon global]] - Includes TMAO in comprehensive metabolomics panel</li>
+<li><a href="/garden/dev_admin/labtest/metabolon-global/" class="internal-link">metabolon global</a> - Includes TMAO in comprehensive metabolomics panel</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Hs Crp]] (biomarker) - Both elevated in cardiovascular inflammation</li>
-<li>→ [[Apolipoprotein B]] (biomarker) - Synergistic cardiovascular risk when both elevated</li>
-<li>→ [[Oxidized LDL]] (biomarker) - TMAO promotes LDL oxidation</li>
-<li>→ [[Homocysteine]] (biomarker) - Both involve methylation pathway metabolites</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Both elevated in cardiovascular inflammation</li>
+<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a> (biomarker) - Synergistic cardiovascular risk when both elevated</li>
+<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker) - TMAO promotes LDL oxidation</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker) - Both involve methylation pathway metabolites</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Cardiovascular Disease]] (condition)</li>
-<li>→ [[Atherosclerosis]] (condition)</li>
-<li>→ [[Chronic Kidney Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/atherosclerosis/" class="internal-link">Atherosclerosis</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ul>

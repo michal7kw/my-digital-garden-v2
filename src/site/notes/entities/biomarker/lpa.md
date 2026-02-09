@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.677324Z'
+created: '2026-02-09T08:04:39.924946Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-02-09T05:54:31.677324Z'
+updated: '2026-02-09T08:04:39.924946Z'
 ---
 
 {% raw %}
@@ -43,15 +43,15 @@ updated: '2026-02-09T05:54:31.677324Z'
 <li><strong>Emerging Therapies:</strong> Antisense oligonucleotides (e.g., Pelacarsen) and siRNAs (e.g., Olpasiran) in clinical trials show potent reductions &gt;80%.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[LPA Gene]] - Determines &gt;90% of levels<br />
-RISK_FACTOR_FOR::[[Cardiovascular Disease]] - Independent causal factor<br />
-RISK_FACTOR_FOR::[[Aortic Valve Stenosis]]<br />
-RISK_FACTOR_FOR::[[Myocardial Infarction]]<br />
-SIMILAR_TO::[[LDL]] - Structural core<br />
-INHIBITS::[[Plasminogen]] - Pro-thrombotic mechanism<br />
-AFFECTED_BY::[[PCSK9 Inhibitors]] - Modest reduction<br />
-UNAFFECTED_BY::[[Diet]] - Generally resistant to lifestyle change<br />
-UNAFFECTED_BY::[[Statins]]</p>
+<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">LPA Gene</a> - Determines &gt;90% of levels<br />
+RISK_FACTOR_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Independent causal factor<br />
+RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Aortic Valve Stenosis</a><br />
+RISK_FACTOR_FOR::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a><br />
+SIMILAR_TO::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">LDL</a> - Structural core<br />
+INHIBITS::<a class="internal-link is-unresolved" href="/404">Plasminogen</a> - Pro-thrombotic mechanism<br />
+AFFECTED_BY::<a class="internal-link is-unresolved" href="/404">PCSK9 Inhibitors</a> - Modest reduction<br />
+UNAFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Diet</a> - Generally resistant to lifestyle change<br />
+UNAFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Statins</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
@@ -65,13 +65,13 @@ UNAFFECTED_BY::[[Statins]]</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Lp_A]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lp_A</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.579785'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lp_A]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/lp-a/" class="internal-link">Lp_A</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.579785'
 source: obsidian

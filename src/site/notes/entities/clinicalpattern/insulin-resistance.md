@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.776997Z'
+created: '2026-02-09T08:04:40.026872Z'
 description: Impaired cellular response to insulin, leading to elevated blood glucose
   and compensatory hyperinsulinemia. Precursor to type 2 diabetes.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Resistance
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.776997Z'
+updated: '2026-02-09T08:04:40.026872Z'
 ---
 
 {% raw %}
@@ -35,20 +35,20 @@ Risk Multiplier: 2.0x for progression to type 2 diabetes</p>
 </ul>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[HOMA-IR]]</li>
-<li>REQUIRES_BIOMARKER::[[Fasting Insulin]]</li>
-<li>REQUIRES_BIOMARKER::[[Triglycerides]]</li>
-<li>REQUIRES_BIOMARKER::[[HDL Cholesterol]]</li>
-<li>INCREASES_RISK_FOR::[[Type 2 Diabetes]]</li>
-<li>INCREASES_RISK_FOR::[[PCOS]]</li>
-<li>PRECURSOR_TO::[[Metabolic Syndrome]]</li>
-<li>AFFECTS_ORGAN::[[Pancreas]]</li>
-<li>AFFECTS_ORGAN::[[Liver]]</li>
-<li>AFFECTS_ORGAN::[[Muscle]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Berberine]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Chromium]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Alpha-Lipoic Acid]]</li>
-<li>MODULATED_BY_PATHWAY::[[Insulin Signaling]]</li>
+<li>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a></li>
+<li>PRECURSOR_TO::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a></li>
+<li>MODULATED_BY_PATHWAY::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a></li>
 </ul>
 <h2>References</h2>
 <ul>

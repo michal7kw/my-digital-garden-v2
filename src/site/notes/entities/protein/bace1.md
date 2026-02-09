@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.057337Z'
+created: '2026-02-09T08:04:41.415628Z'
 description: Beta-secretase 1. The rate-limiting enzyme in the production of Amyloid
   Beta (Aβ).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: BACE1
 type: protein
-updated: '2026-02-09T05:54:33.057337Z'
+updated: '2026-02-09T08:04:41.415628Z'
 ---
 
 {% raw %}
@@ -27,49 +27,49 @@ updated: '2026-02-09T05:54:33.057337Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloidogenic_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.467500'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.467500'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloidogenic_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuregulin-1]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neuregulin-1</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[APP]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[APP]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
@@ -78,16 +78,16 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Amyloidogenic Pathway]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloidogenic-pathway/" class="internal-link">Amyloidogenic Pathway</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[APP]] (protein) - <em>Substrate</em></li>
-<li>→ [[Neuregulin-1]] (protein) - <em>Physiological substrate (myelination)</em></li>
+<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein) - <em>Substrate</em></li>
+<li>→ <a href="/garden/dev_admin/protein/neuregulin-1/" class="internal-link">Neuregulin-1</a> (protein) - <em>Physiological substrate (myelination)</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

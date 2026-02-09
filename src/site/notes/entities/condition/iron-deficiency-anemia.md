@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.025421Z'
+created: '2026-02-09T08:04:40.217102Z'
 description: A common type of anemia that occurs when the body does not have enough
   iron to produce hemoglobin, the protein in red blood cells that carries oxygen.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency Anemia
 type: condition
-updated: '2026-02-09T05:54:32.025421Z'
+updated: '2026-02-09T08:04:40.217102Z'
 ---
 
 {% raw %}
@@ -39,49 +39,49 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_mch]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/" class="internal-link">mean_corpuscular_hemoglobin_mch</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_volume_mcv]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-volume-mcv/" class="internal-link">mean_corpuscular_volume_mcv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[platelet_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_cell_distribution_width_rdw]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-cell-distribution-width-rdw/" class="internal-link">red_cell_distribution_width_rdw</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -89,62 +89,62 @@ source: function-health
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Iron_Deficiency_Pattern]] (condition)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hematocrit]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_hemoglobin_mch]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/" class="internal-link">mean_corpuscular_hemoglobin_mch</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_volume_mcv]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-volume-mcv/" class="internal-link">mean_corpuscular_volume_mcv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[platelet_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_cell_distribution_width_rdw]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-cell-distribution-width-rdw/" class="internal-link">red_cell_distribution_width_rdw</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.043448'
 source: obsidian
@@ -165,165 +165,165 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Iron_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:42.532749'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[red_cell_distribution_width_rdw]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-cell-distribution-width-rdw/" class="internal-link">red_cell_distribution_width_rdw</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.426098'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[platelet_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_volume_mcv]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-volume-mcv/" class="internal-link">mean_corpuscular_volume_mcv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.098298'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_mch]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/" class="internal-link">mean_corpuscular_hemoglobin_mch</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.014948'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[platelet_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_cell_distribution_width_rdw]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-cell-distribution-width-rdw/" class="internal-link">red_cell_distribution_width_rdw</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_volume_mcv]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-volume-mcv/" class="internal-link">mean_corpuscular_volume_mcv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_hemoglobin_mch]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/" class="internal-link">mean_corpuscular_hemoglobin_mch</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hematocrit]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Iron_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[red_cell_distribution_width_rdw]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-cell-distribution-width-rdw/" class="internal-link">red_cell_distribution_width_rdw</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[platelet_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_volume_mcv]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-volume-mcv/" class="internal-link">mean_corpuscular_volume_mcv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_mch]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/" class="internal-link">mean_corpuscular_hemoglobin_mch</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.003614Z'
+created: '2026-02-09T08:04:40.193201Z'
 description: A chronic autoimmune disorder where the immune system attacks and gradually
   destroys the thyroid gland, leading to hypothyroidism.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hashimotos Thyroiditis
 type: condition
-updated: '2026-02-09T05:54:32.003614Z'
+updated: '2026-02-09T08:04:40.193201Z'
 ---
 
 {% raw %}
@@ -29,28 +29,28 @@ updated: '2026-02-09T05:54:32.003614Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hashimotos_Thyroiditis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos_Thyroiditis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.748521'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hashimotos_Thyroiditis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos_Thyroiditis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:38.022073'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]<br />
-ASSOCIATED_WITH_CONDITION::[[Celiac Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Type 1 Diabetes]]<br />
-AFFECTS_ORGAN::[[Thyroid Gland]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[TSH]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Free T4]] - Decreased.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Tpo Antibodies]] - Key diagnostic marker.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Tg Antibodies]]<br />
-TREATED_BY_DRUG::[[Levothyroxine]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Celiac Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 1 Diabetes</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Thyroid Gland</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free T4</a> - Decreased.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/tpo-antibodies/" class="internal-link">Tpo Antibodies</a> - Key diagnostic marker.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">Tg Antibodies</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/levothyroxine/" class="internal-link">Levothyroxine</a></p>
 <h2>References</h2>
 <ul>
 <li>Caturegli, P., et al. (2014). Hashimoto thyroiditis: clinical and diagnostic criteria.</li>

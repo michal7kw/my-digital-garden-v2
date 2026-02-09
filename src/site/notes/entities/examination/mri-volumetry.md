@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.238418Z'
+created: '2026-02-09T08:04:40.452745Z'
 description: Quantitative magnetic resonance imaging measuring brain structure volumes,
   particularly hippocampal atrophy. Used for neurodegeneration assessment in the ATN
   framework and clinical trials.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: MRI Volumetry
 type: examination
-updated: '2026-02-09T05:54:32.238418Z'
+updated: '2026-02-09T08:04:40.452745Z'
 ---
 
 {% raw %}
@@ -231,28 +231,28 @@ updated: '2026-02-09T05:54:32.238418Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Hippocampal atrophy</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Predicts conversion</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>Frontal pattern</em></li>
-<li>→ [[Huntington's Disease]] (condition) - <em>Caudate atrophy</em></li>
-<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>Midbrain atrophy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Hippocampal atrophy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts conversion</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Frontal pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Caudate atrophy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>Midbrain atrophy</em></li>
 </ul>
 <h3>Brain Regions</h3>
 <ul>
-<li>→ [[Hippocampus]] (organ) - <em>Key measurement</em></li>
-<li>→ [[Entorhinal Cortex]] (organ) - <em>Earliest change</em></li>
-<li>→ [[Prefrontal Cortex]] (organ) - <em>FTD involvement</em></li>
+<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Key measurement</em></li>
+<li>→ <a href="/garden/dev_admin/organ/entorhinal-cortex/" class="internal-link">Entorhinal Cortex</a> (organ) - <em>Earliest change</em></li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>FTD involvement</em></li>
 </ul>
 <h3>Related Imaging</h3>
 <ul>
-<li>← [[Amyloid PET Imaging]] (examination) - <em>ATN A component</em></li>
-<li>← [[Tau PET Imaging]] (examination) - <em>ATN T component</em></li>
-<li>← [[FDG-PET]] (examination) - <em>Functional correlate</em></li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>ATN A component</em></li>
+<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>ATN T component</em></li>
+<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination) - <em>Functional correlate</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Correlates with atrophy</em></li>
-<li>→ [[Total Tau]] (biomarker) - <em>Neurodegeneration marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Correlates with atrophy</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration marker</em></li>
 </ul>
 <h2>Advantages and Limitations</h2>
 <h3>Advantages</h3>

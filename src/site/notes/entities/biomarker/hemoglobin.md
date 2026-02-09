@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.661060Z'
+created: '2026-02-09T08:04:39.907983Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Hemoglobin
 type: biomarker
-updated: '2026-02-09T05:54:31.661060Z'
+updated: '2026-02-09T08:04:39.907983Z'
 ---
 
 {% raw %}
@@ -30,80 +30,80 @@ updated: '2026-02-09T05:54:31.661060Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[complete_blood_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.815417'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dyspnea]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/dyspnea/" class="internal-link">Dyspnea</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[complete_blood_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[complete_blood_count]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Fatigue]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Dyspnea]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/dyspnea/" class="internal-link">Dyspnea</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:16.835648'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
 </code></pre>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -120,7 +120,7 @@ study_references:
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Erythropoiesis
@@ -135,26 +135,26 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_B12]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:18.663564'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:18.663564'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
 </code></pre>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -174,11 +174,11 @@ study_references:
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[hemoglobin]] - Direct hemoglobin measurement</li>
+<li><a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> - Direct hemoglobin measurement</li>
 </ul>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[complete blood count]] - Part of CBC panel</li>
+<li><a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete blood count</a> - Part of CBC panel</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

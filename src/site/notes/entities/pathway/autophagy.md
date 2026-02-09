@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.707182Z'
+created: '2026-02-09T08:04:40.986271Z'
 description: The natural, conserved degradation of the cell that removes unnecessary
   or dysfunctional components through a lysosome-dependent regulated mechanism.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy
 type: pathway
-updated: '2026-02-09T05:54:32.707182Z'
+updated: '2026-02-09T08:04:40.986271Z'
 ---
 
 {% raw %}
@@ -68,19 +68,19 @@ updated: '2026-02-09T05:54:32.707182Z'
 <li><strong>Immunity:</strong> Eliminates intracellular pathogens (xenophagy).</li>
 </ul>
 <h2>Relationships</h2>
-<p>REGULATED_BY::[[mTOR Pathway]] - Inhibits<br />
-REGULATED_BY::[[AMPK Pathway]] - Activates<br />
-ACTIVATED_BY::[[Fasting]] - Potent inducer<br />
-ACTIVATED_BY::[[Caloric Restriction]]<br />
-ACTIVATED_BY::[[Exercise]]<br />
-ACTIVATED_BY::[[Rapamycin]] - Pharmacological inducer (mTOR inhibitor)<br />
-ACTIVATED_BY::[[Spermidine]]<br />
-REMOVES::[[Amyloid Beta]]<br />
-REMOVES::[[Tau Protein]]<br />
-REMOVES::[[Damaged Mitochondria]] - Specific form called Mitophagy<br />
-ASSOCIATED_WITH_CONDITION::[[Alzheimer's Disease]] - Impaired autophagy<br />
-ASSOCIATED_WITH_CONDITION::[[Parkinson's Disease]]<br />
-RELATED_TO::[[Mitophagy]] - Selective autophagy of mitochondria</p>
+<p>REGULATED_BY::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Inhibits<br />
+REGULATED_BY::<a href="/garden/dev_admin/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> - Activates<br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Fasting</a> - Potent inducer<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a><br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
+ACTIVATED_BY::<a href="/garden/dev_admin/drug/rapamycin/" class="internal-link">Rapamycin</a> - Pharmacological inducer (mTOR inhibitor)<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/supplement/spermidine/" class="internal-link">Spermidine</a><br />
+REMOVES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a><br />
+REMOVES::<a class="internal-link is-unresolved" href="/404">Tau Protein</a><br />
+REMOVES::<a class="internal-link is-unresolved" href="/404">Damaged Mitochondria</a> - Specific form called Mitophagy<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Impaired autophagy<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+RELATED_TO::<a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> - Selective autophagy of mitochondria</p>
 <h2>References</h2>
 <ul>
 <li>Mizushima N, Komatsu M. Autophagy: renovation of cells and tissues. Cell. 2011;147(4):728-41.</li>
@@ -90,14 +90,14 @@ RELATED_TO::[[Mitophagy]] - Selective autophagy of mitochondria</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mitophagy]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.481193'
 source: obsidian
 </code></pre>
 <h3>Subtype Of</h3>
 <ul>
-<li>← [[Mitophagy]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian

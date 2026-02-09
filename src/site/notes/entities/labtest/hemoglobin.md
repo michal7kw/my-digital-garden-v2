@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.389306Z'
+created: '2026-02-09T08:04:40.623760Z'
 description: Tested twice a year Hemoglobin is the protein in red blood cells that
   carries oxygen from the lungs to the rest of the body, supporting energy and healthy
   organ function. Low hemoglobin may indicate anemia due to vitamin deficiencies,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: hemoglobin
 type: labtest
-updated: '2026-02-09T05:54:32.389306Z'
+updated: '2026-02-09T08:04:40.623760Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.389306Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Iron Deficiency Anemia]]</li>
-<li>[[Anemia Of Chronic Disease]]</li>
-<li>[[Polycythemia Vera]]</li>
-<li>[[High Altitude Adaptation]]</li>
-<li>[[Chronic Hypoxia (Lung Or Heart Disease)]]</li>
+<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a></li>
+<li><a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></li>
+<li><a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Hypoxia (Lung Or Heart Disease)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,124 +74,124 @@ updated: '2026-02-09T05:54:32.389306Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Anemia_Of_Chronic_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[High_Altitude_Adaptation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Hypoxia_Lung_Or_Heart_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Hypoxia_Lung_Or_Heart_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anemia_Of_Chronic_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Hypoxia_Lung_Or_Heart_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Hypoxia_Lung_Or_Heart_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hemoglobin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[High_Altitude_Adaptation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[complete_blood_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Polycythemia_Vera]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[High_Altitude_Adaptation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.111188'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[complete_blood_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[High_Altitude_Adaptation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Polycythemia_Vera]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

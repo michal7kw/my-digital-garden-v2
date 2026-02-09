@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.222742Z'
+created: '2026-02-09T08:04:40.435839Z'
 description: Positron emission tomography using radiotracers that bind to amyloid-beta
   plaques in the brain. Gold standard for in vivo detection of Alzheimer's pathology
   and essential for anti-amyloid therapy eligibility.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid PET Imaging
 type: examination
-updated: '2026-02-09T05:54:32.222742Z'
+updated: '2026-02-09T08:04:40.435839Z'
 ---
 
 {% raw %}
@@ -172,25 +172,25 @@ updated: '2026-02-09T05:54:32.222742Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Diagnostic biomarker</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Predicts progression</em></li>
-<li>→ [[Cerebral Amyloid Angiopathy]] (condition) - <em>Vascular amyloid</em></li>
-<li>→ [[Down Syndrome]] (condition) - <em>Early amyloid</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Diagnostic biomarker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts progression</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cerebral-amyloid-angiopathy/" class="internal-link">Cerebral Amyloid Angiopathy</a> (condition) - <em>Vascular amyloid</em></li>
+<li>→ <a href="/garden/dev_admin/condition/down-syndrome/" class="internal-link">Down Syndrome</a> (condition) - <em>Early amyloid</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>CSF/plasma alternative</em></li>
-<li>→ [[Phospho-Tau]] (biomarker) - <em>Complementary tau marker</em></li>
-<li>← [[Tau PET Imaging]] (examination) - <em>Combined ATN assessment</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>CSF/plasma alternative</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>Complementary tau marker</em></li>
+<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>Combined ATN assessment</em></li>
 </ul>
 <h3>Pathways</h3>
 <ul>
-<li>→ [[Amyloid Cascade]] (pathway) - <em>Visualizes plaque burden</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Visualizes plaque burden</em></li>
 </ul>
 <h3>Therapeutics Requiring PET</h3>
 <ul>
-<li>← [[Lecanemab]] (drug) - <em>Eligibility and monitoring</em></li>
-<li>← [[Donanemab]] (drug) - <em>Eligibility and monitoring</em></li>
+<li>← <a href="/garden/dev_admin/drug/lecanemab/" class="internal-link">Lecanemab</a> (drug) - <em>Eligibility and monitoring</em></li>
+<li>← <a href="/garden/dev_admin/drug/donanemab/" class="internal-link">Donanemab</a> (drug) - <em>Eligibility and monitoring</em></li>
 </ul>
 <h2>Comparison: Amyloid PET vs CSF Aβ42/40</h2>
 <table>

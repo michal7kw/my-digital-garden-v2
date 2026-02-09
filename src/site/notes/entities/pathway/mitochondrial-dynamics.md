@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.752020Z'
+created: '2026-02-09T08:04:41.083976Z'
 description: The continuous remodeling of the mitochondrial network through fusion
   and fission events. Essential for maintaining mitochondrial quality, distribution,
   and function.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Dynamics
 type: pathway
-updated: '2026-02-09T05:54:32.752020Z'
+updated: '2026-02-09T08:04:41.083976Z'
 ---
 
 {% raw %}
@@ -57,16 +57,16 @@ updated: '2026-02-09T05:54:32.752020Z'
 <li><strong>Aging:</strong> Dynamics shift towards fission/fragmentation with age.</li>
 </ul>
 <h2>Relationships</h2>
-<p>REGULATES::[[Mitochondria]] - Network morphology<br />
-REGULATES::[[Mitophagy]] - Fission required to isolate cargo<br />
-DRIVEN_BY::[[Drp1]] - Fission protein<br />
-DRIVEN_BY::[[Mfn1]] - Fusion protein<br />
-DRIVEN_BY::[[Mfn2]] - Fusion protein<br />
-DRIVEN_BY::[[OPA1]] - Fusion protein<br />
-ACTIVATED_BY::[[AMPK]] - Promotes fission to clear damage (mitophagy)<br />
-INHIBITED_BY::[[mTOR Pathway]] - Can suppress quality control<br />
-ASSOCIATED_WITH_CONDITION::[[Parkinson's Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes]]</p>
+<p>REGULATES::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Network morphology<br />
+REGULATES::<a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> - Fission required to isolate cargo<br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Drp1</a> - Fission protein<br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Mfn1</a> - Fusion protein<br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Mfn2</a> - Fusion protein<br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">OPA1</a> - Fusion protein<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Promotes fission to clear damage (mitophagy)<br />
+INHIBITED_BY::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Can suppress quality control<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h2>References</h2>
 <ul>
 <li>Chan DC. Fusion and fission: interlinked processes critical for mitochondrial health. Annu Rev Genet. 2012.</li>

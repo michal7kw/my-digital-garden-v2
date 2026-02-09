@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.345886Z'
+created: '2026-02-09T08:04:40.573689Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: complete_blood_count
 type: labtest
-updated: '2026-02-09T05:54:32.345886Z'
+updated: '2026-02-09T08:04:40.573689Z'
 ---
 
 {% raw %}
@@ -54,14 +54,14 @@ updated: '2026-02-09T05:54:32.345886Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[wbc]]</li>
-<li>[[rbc]]</li>
-<li>[[hemoglobin]]</li>
-<li>[[hematocrit]]</li>
-<li>[[platelets]]</li>
-<li>[[mcv]]</li>
-<li>[[mch]]</li>
-<li>[[mchc]]</li>
+<li><a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">wbc</a></li>
+<li><a href="/garden/dev_admin/biomarker/rbc/" class="internal-link">rbc</a></li>
+<li><a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
+<li><a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a></li>
+<li><a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">platelets</a></li>
+<li><a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">mcv</a></li>
+<li><a href="/garden/dev_admin/biomarker/mch/" class="internal-link">mch</a></li>
+<li><a href="/garden/dev_admin/biomarker/mchc/" class="internal-link">mchc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -74,73 +74,73 @@ updated: '2026-02-09T05:54:32.345886Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.815417'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hemoglobin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mch]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mch/" class="internal-link">mch</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mchc]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mchc/" class="internal-link">mchc</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[wbc]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">wbc</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[rbc]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/rbc/" class="internal-link">rbc</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[platelets]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">platelets</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mcv]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">mcv</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hemoglobin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hematocrit]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hematocrit]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.095633Z'
+created: '2026-02-09T08:04:40.293579Z'
 description: A condition caused by damage to the nerves outside the brain and spinal
   cord (peripheral nerves), often resulting in numbness, tingling, and pain.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Peripheral Neuropathy
 type: condition
-updated: '2026-02-09T05:54:32.095633Z'
+updated: '2026-02-09T08:04:40.293579Z'
 ---
 
 {% raw %}
@@ -33,44 +33,44 @@ updated: '2026-02-09T05:54:32.095633Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Peripheral_Neuropathy]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.197040'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EMG_and_Nerve_Conduction_Studies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.197040'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EMG_and_Nerve_Conduction_Studies]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.705253'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[lead]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lead]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.197040'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Peripheral_Neuropathy]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.243794'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[lead]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -78,15 +78,15 @@ source: function-health
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-ASSOCIATED_WITH_CONDITION::[[B Vitamin Deficiency]]<br />
-ASSOCIATED_WITH_CONDITION::[[Chronic Stress]]<br />
-AFFECTS_ORGAN::[[Nerve]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[HbA1c]] - Management is key.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Vitamin B12]]<br />
-TREATED_BY_DRUG::[[Gabapentin]]<br />
-TREATED_BY_DRUG::[[Pregabalin]]<br />
-TREATED_BY_DRUG::[[Alpha Lipoic Acid]] - Shown to reduce symptoms.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Nerve</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> - Management is key.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/gabapentin/" class="internal-link">Gabapentin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Pregabalin</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> - Shown to reduce symptoms.</p>
 <h2>References</h2>
 <ul>
 <li>Hughes, R. A. (2002). Peripheral neuropathy. BMJ.</li>

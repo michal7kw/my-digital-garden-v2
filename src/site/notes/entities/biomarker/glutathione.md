@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.653993Z'
+created: '2026-02-09T08:04:39.901158Z'
 description: Glutathione is the most abundant intracellular antioxidant, a tripeptide
   critical for detoxification, immune function, and protection against oxidative damage.
   Low levels are associated with chronic disease, aging, and increased oxidative stress.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Glutathione
 type: biomarker
-updated: '2026-02-09T05:54:31.653993Z'
+updated: '2026-02-09T08:04:39.901158Z'
 ---
 
 {% raw %}
@@ -63,24 +63,24 @@ updated: '2026-02-09T05:54:31.653993Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[NAC]] - Increases glutathione by providing rate-limiting cysteine precursor (moderate, evidence level 2)</li>
-<li>[[Liposomal Glutathione]] - Directly increases glutathione levels via oral liposomal delivery (moderate, evidence level 3)</li>
-<li>[[Alpha Lipoic Acid]] - Increases glutathione recycling by regenerating GSH from GSSG (mild, evidence level 3)</li>
-<li>[[Vitamin C]] - Supports glutathione recycling and spares GSH consumption (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> - Increases glutathione by providing rate-limiting cysteine precursor (moderate, evidence level 2)</li>
+<li><a class="internal-link is-unresolved" href="/404">Liposomal Glutathione</a> - Directly increases glutathione levels via oral liposomal delivery (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> - Increases glutathione recycling by regenerating GSH from GSSG (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Supports glutathione recycling and spares GSH consumption (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[glutathione]] - Total glutathione measurement (reduced + oxidized)</li>
-<li>[[glutathione reduced]] - Reduced glutathione (GSH) specifically</li>
-<li>[[gsh gssg ratio]] - Ratio of reduced to oxidized glutathione (redox status)</li>
+<li><a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">glutathione</a> - Total glutathione measurement (reduced + oxidized)</li>
+<li><a class="internal-link is-unresolved" href="/404">glutathione reduced</a> - Reduced glutathione (GSH) specifically</li>
+<li><a class="internal-link is-unresolved" href="/404">gsh gssg ratio</a> - Ratio of reduced to oxidized glutathione (redox status)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Vitamin D]] (biomarker) - Vitamin D supports glutathione synthesis gene expression</li>
-<li>→ [[Homocysteine]] (biomarker) - Shared transsulfuration pathway; elevated homocysteine may indicate impaired glutathione synthesis</li>
-<li>→ [[Ferritin]] (biomarker) - Iron overload increases oxidative stress and depletes glutathione</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (biomarker) - Vitamin D supports glutathione synthesis gene expression</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker) - Shared transsulfuration pathway; elevated homocysteine may indicate impaired glutathione synthesis</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker) - Iron overload increases oxidative stress and depletes glutathione</li>
 </ul>
 <h2>References</h2>
 <ul>

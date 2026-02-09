@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.472866Z'
+created: '2026-02-09T08:04:40.720668Z'
 description: Oxidized LDL (ox-LDL) test measures LDL cholesterol particles that have
   been modified by oxidation. Oxidized LDL is a key driver of atherosclerosis, promoting
   foam cell formation, endothelial dysfunction, and plaque instability. More specific
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: oxidized_ldl
 type: labtest
-updated: '2026-02-09T05:54:32.472866Z'
+updated: '2026-02-09T08:04:40.720668Z'
 ---
 
 {% raw %}
@@ -93,21 +93,21 @@ updated: '2026-02-09T05:54:32.472866Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Cardiovascular Disease]]</li>
-<li>[[Atherosclerosis]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Type 2 Diabetes]]</li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Oxidized LDL]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker)</li>
 </ul>
 <h3>Related Tests</h3>
 <ul>
-<li>→ [[ldl cholesterol]] (labtest) - Standard LDL measurement</li>
-<li>→ [[ldl particle number]] (labtest) - Particle count assessment</li>
-<li>→ [[ldl small]] (labtest) - Small dense LDL (more susceptible to oxidation)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a> (labtest) - Standard LDL measurement</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a> (labtest) - Particle count assessment</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl small</a> (labtest) - Small dense LDL (more susceptible to oxidation)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

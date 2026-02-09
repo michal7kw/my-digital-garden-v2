@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.120537Z'
+created: '2026-02-09T08:04:40.320116Z'
 description: A group of rare autoimmune diseases characterized by the hardening and
   tightening of the skin and connective tissues, often affecting internal organs and
   blood vessels.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Scleroderma
 type: condition
-updated: '2026-02-09T05:54:32.120537Z'
+updated: '2026-02-09T08:04:40.320116Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Scleroderma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/scleroderma/" class="internal-link">Scleroderma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.841230'
 source: obsidian
@@ -61,7 +61,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Scleroderma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/scleroderma/" class="internal-link">Scleroderma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.315625'
 source: obsidian

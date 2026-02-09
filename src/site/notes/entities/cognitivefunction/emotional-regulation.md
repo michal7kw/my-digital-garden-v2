@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.795259Z'
+created: '2026-02-09T08:04:40.044125Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Emotional Regulation
 type: cognitivefunction
-updated: '2026-02-09T05:54:31.795259Z'
+updated: '2026-02-09T08:04:40.044125Z'
 ---
 
 {% raw %}

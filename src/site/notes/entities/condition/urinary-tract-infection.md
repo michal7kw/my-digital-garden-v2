@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.139523Z'
+created: '2026-02-09T08:04:40.340809Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Infection
 type: condition
-updated: '2026-02-09T05:54:32.139523Z'
+updated: '2026-02-09T08:04:40.340809Z'
 ---
 
 {% raw %}
@@ -26,29 +26,29 @@ updated: '2026-02-09T05:54:32.139523Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Urinary_Tract_Infection]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary_Tract_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.962054'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary_Tract_Infection</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:04:00.836580'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Escherichia coli]]<br />
-ASSOCIATED_WITH_CONDITION::[[Kidney Calculi]]<br />
-ASSOCIATED_WITH_CONDITION::[[Sepsis]] - Urosepsis.<br />
-AFFECTS_ORGAN::[[Bladder]]<br />
-AFFECTS_ORGAN::[[Kidney]]<br />
-AFFECTS_ORGAN::[[Urethra]]<br />
-TREATED_BY_DRUG::[[Nitrofurantoin]]<br />
-TREATED_BY_DRUG::[[Trimethoprim-Sulfamethoxazole]]<br />
-TREATED_BY_DRUG::[[Ciprofloxacin]]<br />
-IMPROVED_BY_INTERVENTION::[[Hydration]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Escherichia coli</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/kidney-calculi/" class="internal-link">Kidney Calculi</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a> - Urosepsis.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bladder</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Urethra</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Nitrofurantoin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Trimethoprim-Sulfamethoxazole</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ciprofloxacin</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Hydration</a></p>
 <h2>References</h2>
 <ul>
 <li>Gupta, K., et al. (2011). International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women.</li>

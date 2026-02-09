@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.672968Z'
+created: '2026-02-09T08:04:39.920715Z'
 description: Lactate Dehydrogenase is an intracellular enzyme found in virtually all
   body tissues that catalyzes the interconversion of lactate and pyruvate, serving
   as a nonspecific marker of tissue damage and cellular turnover.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Lactate Dehydrogenase
 type: biomarker
-updated: '2026-02-09T05:54:31.672968Z'
+updated: '2026-02-09T08:04:39.920715Z'
 ---
 
 {% raw %}
@@ -63,23 +63,23 @@ updated: '2026-02-09T05:54:31.672968Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[N-Acetyl Cysteine]] - May reduce LDH levels in liver conditions through glutathione replenishment and hepatoprotection (mild, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">N-Acetyl Cysteine</a> - May reduce LDH levels in liver conditions through glutathione replenishment and hepatoprotection (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[ldh]] - Lactate dehydrogenase total activity (enzymatic assay)</li>
+<li><a href="/garden/dev_admin/labtest/ldh/" class="internal-link">ldh</a> - Lactate dehydrogenase total activity (enzymatic assay)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Alanine Transaminase]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Alanine Transaminase]] (biomarker) - Both elevated in hepatocellular injury; ALT more liver-specific than LDH</li>
-<li>→ [[Aspartate Aminotransferase]] (biomarker) - Both elevated in liver and muscle damage; AST/LDH ratio helps differentiate etiologies</li>
-<li>→ [[Creatine Kinase]] (biomarker) - Both elevated in muscle injury and myocardial infarction; CK more specific for muscle</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a> (biomarker) - Both elevated in hepatocellular injury; ALT more liver-specific than LDH</li>
+<li>→ <a href="/garden/dev_admin/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a> (biomarker) - Both elevated in liver and muscle damage; AST/LDH ratio helps differentiate etiologies</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker) - Both elevated in muscle injury and myocardial infarction; CK more specific for muscle</li>
 </ul>
 <h2>References</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.067675Z'
+created: '2026-02-09T08:04:41.427377Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: CXCR4
 type: protein
-updated: '2026-02-09T05:54:33.067675Z'
+updated: '2026-02-09T08:04:41.427377Z'
 ---
 
 {% raw %}
@@ -38,31 +38,31 @@ updated: '2026-02-09T05:54:33.067675Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[unnamed]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">unnamed</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CTNNB1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MYC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.590073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MYC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CTNNB1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
 source: obsidian
@@ -71,31 +71,31 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[unnamed]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">unnamed</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MYC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CTNNB1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MYC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:49.074450'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CTNNB1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.151669'
 source: obsidian

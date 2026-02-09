@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.780159Z'
+created: '2026-02-09T08:04:40.029956Z'
 description: Elevated liver enzymes indicating hepatocyte damage or stress. May suggest
   fatty liver disease, medication toxicity, or other hepatic conditions.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Liver Stress Pattern
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.780159Z'
+updated: '2026-02-09T08:04:40.029956Z'
 ---
 
 {% raw %}
@@ -35,17 +35,17 @@ Risk Multiplier: 1.8x for liver disease progression</p>
 </ul>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[ALT]]</li>
-<li>REQUIRES_BIOMARKER::[[AST]]</li>
-<li>REQUIRES_BIOMARKER::[[GGT]]</li>
-<li>INCREASES_RISK_FOR::[[Non-Alcoholic Fatty Liver Disease]]</li>
-<li>INCREASES_RISK_FOR::[[Cirrhosis]]</li>
-<li>AFFECTS_ORGAN::[[Liver]]</li>
-<li>AFFECTS_ORGAN::[[Gallbladder]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Milk Thistle]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[N-Acetyl Cysteine]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin E]]</li>
-<li>RELATED_PATTERN::[[Metabolic Syndrome]]</li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/alt/" class="internal-link">ALT</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/ast/" class="internal-link">AST</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/ggt/" class="internal-link">GGT</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-Alcoholic Fatty Liver Disease</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gallbladder</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Milk Thistle</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">N-Acetyl Cysteine</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a></li>
+<li>RELATED_PATTERN::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 </ul>
 <h2>References</h2>
 <ul>

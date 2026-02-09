@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.017953Z'
+created: '2026-02-09T08:04:40.208561Z'
 description: A broad category of conditions where the immune system is either underactive
   (deficiency) or overactive (dysfunction/autoimmunity/allergy).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Immune System Disorder
 type: condition
-updated: '2026-02-09T05:54:32.017953Z'
+updated: '2026-02-09T08:04:40.208561Z'
 ---
 
 {% raw %}
@@ -32,28 +32,28 @@ updated: '2026-02-09T05:54:32.017953Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Immune_System_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/immune-system-disorder/" class="internal-link">Immune_System_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.507172'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/immune-system-disorder/" class="internal-link">Immune_System_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:40.666639'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[HIV Infections]]<br />
-ASSOCIATED_WITH_CONDITION::[[Rheumatoid Arthritis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Inflammation]]<br />
-AFFECTS_ORGAN::[[Immune System]]<br />
-AFFECTS_ORGAN::[[Lymph Node]]<br />
-AFFECTS_ORGAN::[[Bone Marrow]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[White Blood Cell Count]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[C-Reactive Protein]]<br />
-TREATED_BY_DRUG::[[Immunosuppressants]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hiv-infections/" class="internal-link">HIV Infections</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lymph Node</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">C-Reactive Protein</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Immunosuppressants</a></p>
 <h2>References</h2>
 <ul>
 <li>Chapel, H., et al. (2014). Essentials of Clinical Immunology.</li>

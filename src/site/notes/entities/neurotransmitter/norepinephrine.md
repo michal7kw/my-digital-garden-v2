@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.558511Z'
+created: '2026-02-09T08:04:40.817977Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Norepinephrine
 type: neurotransmitter
-updated: '2026-02-09T05:54:32.558511Z'
+updated: '2026-02-09T08:04:40.817977Z'
 ---
 
 {% raw %}
@@ -29,118 +29,118 @@ updated: '2026-02-09T05:54:32.558511Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amitriptyline]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/amitriptyline/" class="internal-link">Amitriptyline</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Doxepin]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Clomipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rhodiola_Rosea]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.117461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.117461'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Quetiapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Doxepin]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.513007'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Clomipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amitriptyline]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/amitriptyline/" class="internal-link">Amitriptyline</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.831836'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Rhodiola_Rosea]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.057218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Tyrosine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.117461'
 source: obsidian
 </code></pre>
 <h3>Required For Synthesis</h3>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.931928'
 source: obsidian
 </code></pre>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>← [[Rhodiola_Rosea]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
 source: obsidian
 </code></pre>
 <h3>Precursor Of</h3>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.556035'
 source: obsidian
@@ -149,58 +149,58 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Precursor Of</h3>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.556035'
 source: obsidian
 </code></pre>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>← [[Rhodiola_Rosea]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
 source: obsidian
 </code></pre>
 <h3>Required For Synthesis</h3>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.931928'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Rhodiola_Rosea]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.490628'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_B6]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.490628'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Tyrosine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.490628'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Tyrosine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:06.449515'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Rhodiola_Rosea]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:18.846152'
 source: obsidian

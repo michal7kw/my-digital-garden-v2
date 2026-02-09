@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.251216Z'
+created: '2026-02-09T08:04:40.466920Z'
 description: Encodes Apolipoprotein E, a major cholesterol carrier in the brain. The
   APOE4 allele is the strongest genetic risk factor for late-onset Alzheimer's disease.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: APOE
 type: gene
-updated: '2026-02-09T05:54:32.251216Z'
+updated: '2026-02-09T08:04:40.466920Z'
 ---
 
 {% raw %}
@@ -50,17 +50,17 @@ updated: '2026-02-09T05:54:32.251216Z'
 <li><strong>Cerebral Amyloid Angiopathy (CAA):</strong> Impaired clearance leads to amyloid deposition in blood vessel walls.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ENCODES::[[ApoE Protein]]<br />
-REGULATES::[[Lipid Metabolism]] - Brain and systemic<br />
-REGULATES::[[Amyloid Beta]] - Clearance<br />
-ASSOCIATED_WITH_CONDITION::[[Alzheimer's Disease]] - Major risk factor (ε4)<br />
-ASSOCIATED_WITH_CONDITION::[[Cardiovascular Disease]] - Increased risk (ε4)<br />
-ASSOCIATED_WITH_CONDITION::[[Hyperlipoproteinemia Type III]] - Associated with ε2<br />
-INTERACTS_WITH::[[LDLR]] - LDL Receptor<br />
-INTERACTS_WITH::[[LRP1]] - LRP Receptor<br />
-AFFECTED_BY::[[Saturated Fat]] - ε4 carriers often have exaggerated response<br />
-AFFECTED_BY::[[Omega-3 Fatty Acids]] - May be less effective in ε4 carriers<br />
-RISK_FACTOR_FOR::[[Blood Brain Barrier]] - Disruption (ε4)</p>
+<p>ENCODES::<a class="internal-link is-unresolved" href="/404">ApoE Protein</a><br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Lipid Metabolism</a> - Brain and systemic<br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a> - Clearance<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Major risk factor (ε4)<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Increased risk (ε4)<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperlipoproteinemia Type III</a> - Associated with ε2<br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">LDLR</a> - LDL Receptor<br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">LRP1</a> - LRP Receptor<br />
+AFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Saturated Fat</a> - ε4 carriers often have exaggerated response<br />
+AFFECTED_BY::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May be less effective in ε4 carriers<br />
+RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Blood Brain Barrier</a> - Disruption (ε4)</p>
 <h2>References</h2>
 <ul>
 <li>Corder EH, et al. Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer's disease in late onset families. Science. 1993;261(5123):921-3.</li>

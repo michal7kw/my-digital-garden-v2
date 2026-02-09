@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.502540Z'
+created: '2026-02-09T08:04:40.754726Z'
 description: Measures bioavailable testosterone. More accurate than total testosterone
   for assessing androgen status.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: testosterone_free
 type: labtest
-updated: '2026-02-09T05:54:32.502540Z'
+updated: '2026-02-09T08:04:40.754726Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.502540Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[testosterone_free]]</li>
+<li><a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">testosterone_free</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-02-09T05:54:32.502540Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[testosterone_free]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">testosterone_free</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.038972'
 source: obsidian

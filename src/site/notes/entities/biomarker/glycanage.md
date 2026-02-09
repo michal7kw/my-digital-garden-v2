@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.655239Z'
+created: '2026-02-09T08:04:39.902348Z'
 description: A biomarker test that measures biological age through the analysis of
   IgG glycosylation patterns, indicating levels of chronic inflammation.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GlycanAge
 type: biomarker
-updated: '2026-02-09T05:54:31.655239Z'
+updated: '2026-02-09T08:04:39.902348Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-02-09T05:54:31.655239Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[GlycanAge]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glycanage/" class="internal-link">GlycanAge</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.003067'
 source: obsidian
@@ -54,7 +54,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[GlycanAge]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glycanage/" class="internal-link">GlycanAge</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.564820'
 source: obsidian

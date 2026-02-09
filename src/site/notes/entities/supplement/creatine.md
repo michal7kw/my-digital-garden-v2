@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.172818Z'
+created: '2026-02-09T08:04:41.555756Z'
 description: Most researched sports supplement. Enhances ATP regeneration for high-intensity
   exercise and supports brain energy. Proven safe and effective.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine
 type: supplement
-updated: '2026-02-09T05:54:33.172818Z'
+updated: '2026-02-09T08:04:41.555756Z'
 ---
 
 {% raw %}
@@ -27,21 +27,21 @@ updated: '2026-02-09T05:54:33.172818Z'
 <p>Evidence Level: 5/5 (Extensively researched, proven effective and safe)</p>
 <h2>Relationships</h2>
 <ul>
-<li>AFFECTS_ORGAN::[[Muscle]]</li>
-<li>AFFECTS_ORGAN::[[Brain]]</li>
-<li>AFFECTS_ORGAN::[[Heart]]</li>
-<li>INCREASES_METABOLITE::[[ATP]] - Via phosphocreatine system</li>
-<li>INCREASES_METABOLITE::[[Phosphocreatine]] - Primary storage form</li>
-<li>SUPPORTS::[[Mitochondria]] - Energy buffer system</li>
-<li>PARTICIPATES_IN_PATHWAY::[[Creatine Phosphate Shuttle]]</li>
-<li>SYNERGISTIC_WITH::[[Carbohydrates]]</li>
-<li>SYNERGISTIC_WITH::[[Beta-Alanine]]</li>
-<li>SYNERGISTIC_WITH::[[HMB]]</li>
-<li>MAY_IMPROVE_CONDITION::[[Sarcopenia]]</li>
-<li>MAY_IMPROVE_CONDITION::[[Depression]]</li>
-<li>MAY_IMPROVE_CONDITION::[[Cognitive Decline]]</li>
-<li>RELATED_TO::[[ADP]] - Phosphate acceptor</li>
-<li>RELATED_TO::[[Oxidative Phosphorylation]] - Buffers ATP output</li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></li>
+<li>INCREASES_METABOLITE::<a class="internal-link is-unresolved" href="/404">ATP</a> - Via phosphocreatine system</li>
+<li>INCREASES_METABOLITE::<a class="internal-link is-unresolved" href="/404">Phosphocreatine</a> - Primary storage form</li>
+<li>SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Energy buffer system</li>
+<li>PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Creatine Phosphate Shuttle</a></li>
+<li>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Carbohydrates</a></li>
+<li>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Beta-Alanine</a></li>
+<li>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">HMB</a></li>
+<li>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a></li>
+<li>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a></li>
+<li>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive Decline</a></li>
+<li>RELATED_TO::<a class="internal-link is-unresolved" href="/404">ADP</a> - Phosphate acceptor</li>
+<li>RELATED_TO::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a> - Buffers ATP output</li>
 </ul>
 <h2>References</h2>
 <ul>

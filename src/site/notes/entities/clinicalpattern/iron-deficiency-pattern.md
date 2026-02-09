@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.778047Z'
+created: '2026-02-09T08:04:40.027931Z'
 description: Iron deficiency indicated by low ferritin, elevated TIBC, and low transferrin
   saturation. Most common nutritional deficiency worldwide.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency Pattern
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.778047Z'
+updated: '2026-02-09T08:04:40.027931Z'
 ---
 
 {% raw %}
@@ -40,16 +40,16 @@ Risk Multiplier: 1.3x for anemia-related complications</p>
 </ol>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[Ferritin]]</li>
-<li>REQUIRES_BIOMARKER::[[TIBC]]</li>
-<li>REQUIRES_BIOMARKER::[[Transferrin Saturation]]</li>
-<li>INCREASES_RISK_FOR::[[Iron Deficiency Anemia]]</li>
-<li>INCREASES_RISK_FOR::[[Restless Leg Syndrome]]</li>
-<li>AFFECTS_ORGAN::[[Bone Marrow]]</li>
-<li>AFFECTS_ORGAN::[[Brain]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Iron Bisglycinate]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin C]]</li>
-<li>MODULATED_BY_PATHWAY::[[Iron Metabolism]]</li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">TIBC</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Restless Leg Syndrome</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Iron Bisglycinate</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a></li>
+<li>MODULATED_BY_PATHWAY::<a class="internal-link is-unresolved" href="/404">Iron Metabolism</a></li>
 </ul>
 <h2>References</h2>
 <ul>

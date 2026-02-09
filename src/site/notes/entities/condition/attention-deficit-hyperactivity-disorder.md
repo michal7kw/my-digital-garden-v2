@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.921538Z'
+created: '2026-02-09T08:04:40.103008Z'
 description: A neurodevelopmental disorder characterized by persistent patterns of
   inattention, hyperactivity, and impulsivity that interfere with functioning or development.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Attention Deficit Hyperactivity Disorder
 type: condition
-updated: '2026-02-09T05:54:31.921538Z'
+updated: '2026-02-09T08:04:40.103008Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:31.921538Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Attention_Deficit_Hyperactivity_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention_Deficit_Hyperactivity_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.424915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Attention_Deficit_Hyperactivity_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention_Deficit_Hyperactivity_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:24.640322'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
-ASSOCIATED_WITH_CONDITION::[[Learning Disabilities]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-CAUSED_BY::[[Dopamine Imbalance]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-TREATED_BY_DRUG::[[Methylphenidate]]<br />
-TREATED_BY_DRUG::[[Amphetamine]]<br />
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Learning Disabilities</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Dopamine Imbalance</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Methylphenidate</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amphetamine</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

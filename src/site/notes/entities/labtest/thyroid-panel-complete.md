@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.507239Z'
+created: '2026-02-09T08:04:40.759985Z'
 description: 'Comprehensive thyroid assessment: TSH, Free T4, Free T3, Total T4, Total
   T3, Reverse T3, TPO antibodies, thyroglobulin antibodies.'
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_panel_complete
 type: labtest
-updated: '2026-02-09T05:54:32.507239Z'
+updated: '2026-02-09T08:04:40.759985Z'
 ---
 
 {% raw %}
@@ -54,14 +54,14 @@ updated: '2026-02-09T05:54:32.507239Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[tsh]]</li>
-<li>[[free_t4]]</li>
-<li>[[free_t3]]</li>
-<li>[[total_t4]]</li>
-<li>[[total_t3]]</li>
-<li>[[reverse_t3]]</li>
-<li>[[tpo_antibodies]]</li>
-<li>[[tg_antibodies]]</li>
+<li><a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a></li>
+<li><a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a></li>
+<li><a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">free_t3</a></li>
+<li><a href="/garden/dev_admin/biomarker/total-t4/" class="internal-link">total_t4</a></li>
+<li><a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">total_t3</a></li>
+<li><a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
+<li><a href="/garden/dev_admin/biomarker/tpo-antibodies/" class="internal-link">tpo_antibodies</a></li>
+<li><a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">tg_antibodies</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -74,61 +74,61 @@ updated: '2026-02-09T05:54:32.507239Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[tsh]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[reverse_t3]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.282104'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_t3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">total_t3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tg_antibodies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">tg_antibodies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_t4]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-t4/" class="internal-link">total_t4</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[free_t3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">free_t3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[free_t4]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tpo_antibodies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tpo-antibodies/" class="internal-link">tpo_antibodies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[reverse_t3]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tsh]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian

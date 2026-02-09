@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.114154Z'
+created: '2026-02-09T08:04:40.312703Z'
 description: An eye disease affecting premature babies where abnormal blood vessels
   grow in the retina, potentially leading to blindness.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Retinopathy of Prematurity
 type: condition
-updated: '2026-02-09T05:54:32.114154Z'
+updated: '2026-02-09T08:04:40.312703Z'
 ---
 
 {% raw %}
@@ -28,27 +28,27 @@ updated: '2026-02-09T05:54:32.114154Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Retinopathy_of_Prematurity]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/retinopathy-of-prematurity/" class="internal-link">Retinopathy_of_Prematurity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.830772'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Retinopathy_of_Prematurity]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/retinopathy-of-prematurity/" class="internal-link">Retinopathy_of_Prematurity</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:57.092041'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Premature Birth]]<br />
-ASSOCIATED_WITH_CONDITION::[[Retinal Detachment]]<br />
-ASSOCIATED_WITH_CONDITION::[[Strabismus]]<br />
-ASSOCIATED_WITH_CONDITION::[[Amblyopia]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-AFFECTS_ORGAN::[[Retina]]<br />
-TREATED_BY_INTERVENTION::[[Laser Photocoagulation]]<br />
-TREATED_BY_DRUG::[[Bevacizumab]] - Anti-VEGF injection.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature Birth</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Retinal Detachment</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/phenotype/strabismus/" class="internal-link">Strabismus</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Amblyopia</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Retina</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Laser Photocoagulation</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Bevacizumab</a> - Anti-VEGF injection.</p>
 <h2>References</h2>
 <ul>
 <li>Hellström, A., et al. (2013). Retinopathy of prematurity. The Lancet.</li>

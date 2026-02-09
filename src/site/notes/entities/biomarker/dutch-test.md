@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.626243Z'
+created: '2026-02-09T08:04:39.874523Z'
 description: Dried Urine Test for Comprehensive Hormones, providing a detailed look
   at sex hormones, adrenal function (cortisol), and their metabolites.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: DUTCH Test
 type: biomarker
-updated: '2026-02-09T05:54:31.626243Z'
+updated: '2026-02-09T08:04:39.874523Z'
 ---
 
 {% raw %}
@@ -42,13 +42,13 @@ updated: '2026-02-09T05:54:31.626243Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[DUTCH_Test]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.561833'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DUTCH_Test]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.561833'
 source: obsidian
@@ -62,13 +62,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[DUTCH_Test]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.112652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DUTCH_Test]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.112652'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.191930Z'
+created: '2026-02-09T08:04:40.401321Z'
 description: Mood stabilizer and gold standard for bipolar disorder. Also studied
   at micro-doses for neuroprotection and longevity. Modulates multiple signaling pathways
   including GSK-3β and inositol.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lithium
 type: drug
-updated: '2026-02-09T05:54:32.191930Z'
+updated: '2026-02-09T08:04:40.401321Z'
 ---
 
 {% raw %}
@@ -33,13 +33,13 @@ updated: '2026-02-09T05:54:32.191930Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Tau_Phosphorylation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.488112'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Tau_Phosphorylation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian

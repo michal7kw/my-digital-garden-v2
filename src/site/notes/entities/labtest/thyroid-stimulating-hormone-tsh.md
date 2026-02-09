@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.510248Z'
+created: '2026-02-09T08:04:40.763446Z'
 description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland and
   signals the thyroid to produce T4 and T3. Because TSH rises when thyroid hormone
   levels are low and falls when they are high, measuring TSH is one of the most useful
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_stimulating_hormone_tsh
 type: labtest
-updated: '2026-02-09T05:54:32.510248Z'
+updated: '2026-02-09T08:04:40.763446Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.510248Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Hypothyroidism (E.G. Hashimoto’S Disease)]]</li>
-<li>[[Hyperthyroidism (E.G. Graves’ Disease, Toxic Nodular Goiter)]]</li>
-<li>[[Subclinical Hypothyroidism]]</li>
-<li>[[Dyslipidemia Or High Cholesterol]]</li>
-<li>[[Bone Loss Or Osteoporosis]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Hypothyroidism (E.G. Hashimoto’S Disease)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hyperthyroidism (E.G. Graves’ Disease, Toxic Nodular Goiter)</a></li>
+<li><a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dyslipidemia Or High Cholesterol</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bone Loss Or Osteoporosis</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,86 +71,86 @@ updated: '2026-02-09T05:54:32.510248Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bone_Loss_Or_Osteoporosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism_EG_HashimotoS_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dyslipidemia_Or_High_Cholesterol]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Subclinical_Hypothyroidism]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Loss_Or_Osteoporosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dyslipidemia_Or_High_Cholesterol]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism_EG_HashimotoS_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Subclinical_Hypothyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_thyroid_health]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_thyroid_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Subclinical_Hypothyroidism]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Subclinical_Hypothyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -158,7 +158,7 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_thyroid_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

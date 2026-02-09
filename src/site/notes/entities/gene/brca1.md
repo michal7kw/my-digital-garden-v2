@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.253433Z'
+created: '2026-02-09T08:04:40.469460Z'
 description: Encodes a tumor suppressor protein involved in DNA repair. Mutations
   significantly increase the risk of breast and ovarian cancer.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BRCA1
 type: gene
-updated: '2026-02-09T05:54:32.253433Z'
+updated: '2026-02-09T08:04:40.469460Z'
 ---
 
 {% raw %}
@@ -27,9 +27,9 @@ updated: '2026-02-09T05:54:32.253433Z'
 <p>Germline mutations in BRCA1 are responsible for approximately 40% of inherited breast cancers and more than 80% of inherited breast and ovarian cancers.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[BRCA1]] (protein) - <em>Encodes</em></li>
-<li>→ [[Breast Cancer]] (condition) - <em>Associated with mutations</em></li>
-<li>→ [[Ovarian Cancer]] (condition) - <em>Associated with mutations</em></li>
+<li>→ <a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/breast-cancer/" class="internal-link">Breast Cancer</a> (condition) - <em>Associated with mutations</em></li>
+<li>→ <a href="/garden/dev_admin/condition/ovarian-cancer/" class="internal-link">Ovarian Cancer</a> (condition) - <em>Associated with mutations</em></li>
 </ul>
 <h2>References</h2>
 <ol>

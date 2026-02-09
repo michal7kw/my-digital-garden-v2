@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.367507Z'
+created: '2026-02-09T08:04:40.598275Z'
 description: Measures insulin levels after fasting. Key marker for insulin resistance
   and metabolic health.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: fasting_insulin
 type: labtest
-updated: '2026-02-09T05:54:32.367507Z'
+updated: '2026-02-09T08:04:40.598275Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.367507Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[insulin_fasting]]</li>
+<li><a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -74,19 +74,19 @@ updated: '2026-02-09T05:54:32.367507Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.710967'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.652699'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[insulin_fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.764973'
 source: obsidian

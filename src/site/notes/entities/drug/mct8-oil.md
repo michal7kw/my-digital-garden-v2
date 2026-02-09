@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.193439Z'
+created: '2026-02-09T08:04:40.403235Z'
 description: MCT8 Oil refers to medium-chain triglyceride oil, but the '8' is likely
   a typo for C8 (caprylic acid), a specific MCT known for its rapid conversion to
   ketones and potential cognitive benefits. It is a dietary fat derived from coconut
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: MCT8 Oil
 type: drug
-updated: '2026-02-09T05:54:32.193439Z'
+updated: '2026-02-09T08:04:40.403235Z'
 ---
 
 {% raw %}
@@ -33,40 +33,40 @@ updated: '2026-02-09T05:54:32.193439Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[supplement_regimen]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">supplement_regimen</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.297818'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Keto_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.297818'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.297818'
 source: obsidian
 </code></pre>
 <h3>Requires Supplement</h3>
 <ul>
-<li>← [[Keto_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.353448'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.075478'
 source: obsidian
 </code></pre>
 <h3>Requires Intervention</h3>
 <ul>
-<li>→ [[Keto_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.978922'
 source: obsidian
@@ -75,46 +75,46 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Requires Intervention</h3>
 <ul>
-<li>→ [[Keto_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.978922'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.075478'
 source: obsidian
 </code></pre>
 <h3>Requires Supplement</h3>
 <ul>
-<li>← [[Keto_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.353448'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[supplement_regimen]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">supplement_regimen</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:42:07.311290'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Keto_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:59.408123'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[supplement_regimen]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">supplement_regimen</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:59.408123'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:59.408123'
 source: obsidian

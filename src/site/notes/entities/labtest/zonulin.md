@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.544032Z'
+created: '2026-02-09T08:04:40.801512Z'
 description: Zonulin test measures the serum or stool level of this protein that regulates
   intestinal permeability by modulating tight junctions between enterocytes. Elevated
   zonulin indicates increased intestinal permeability (leaky gut) and is associated
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: zonulin
 type: labtest
-updated: '2026-02-09T05:54:32.544032Z'
+updated: '2026-02-09T08:04:40.801512Z'
 ---
 
 {% raw %}
@@ -93,22 +93,22 @@ updated: '2026-02-09T05:54:32.544032Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Celiac Disease]]</li>
-<li>[[Type 1 Diabetes]]</li>
-<li>[[Inflammatory Bowel Disease]]</li>
-<li>[[Autoimmune Disease]]</li>
-<li>[[Food Sensitivities]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Celiac Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Type 1 Diabetes</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a></li>
+<li><a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Food Sensitivities</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Zonulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">Zonulin</a> (biomarker)</li>
 </ul>
 <h3>Related Tests</h3>
 <ul>
-<li>→ [[fecal calprotectin]] (labtest) - Complementary gut inflammation marker</li>
-<li>→ [[gi map]] (labtest) - Comprehensive stool analysis</li>
-<li>→ [[food sensitivity igg]] (labtest) - Food reactivity testing</li>
+<li>→ <a href="/garden/dev_admin/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a> (labtest) - Complementary gut inflammation marker</li>
+<li>→ <a href="/garden/dev_admin/labtest/gi-map/" class="internal-link">gi map</a> (labtest) - Comprehensive stool analysis</li>
+<li>→ <a href="/garden/dev_admin/labtest/food-sensitivity-igg/" class="internal-link">food sensitivity igg</a> (labtest) - Food reactivity testing</li>
 </ul>
 <h2>Notes</h2>
 <ul>

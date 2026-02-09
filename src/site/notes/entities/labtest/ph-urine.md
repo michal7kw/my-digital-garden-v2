@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.475185Z'
+created: '2026-02-09T08:04:40.723294Z'
 description: Tested twice a year Urine pH reflects how acidic or alkaline the urine
   is, and it plays a key role in helping the body maintain overall acid–base balance.
   Abnormal urine pH can increase the risk of kidney stones, or indicate metabolic
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ph_urine
 type: labtest
-updated: '2026-02-09T05:54:32.475185Z'
+updated: '2026-02-09T08:04:40.723294Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.475185Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Urinary Tract Infection (Uti)]]</li>
-<li>[[Kidney Stones]]</li>
-<li>[[Metabolic Dysfunction]]</li>
-<li>[[Dehydration]]</li>
-<li>[[Dietary Or Medication Effect]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
+<li><a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dietary Or Medication Effect</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,68 +71,68 @@ updated: '2026-02-09T05:54:32.475185Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Dietary_Or_Medication_Effect]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dietary_Or_Medication_Effect</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dietary_Or_Medication_Effect]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dietary_Or_Medication_Effect</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Kidney_Stones]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

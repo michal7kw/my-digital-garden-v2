@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.356376Z'
+created: '2026-02-09T08:04:40.585777Z'
 description: C-Terminal Telopeptide (CTX or beta-CrossLaps) measures a collagen degradation
   fragment released during bone resorption. It is the most widely used marker of bone
   resorption and is recommended by the IOF/IFCC as the reference resorption marker.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ctx
 type: labtest
-updated: '2026-02-09T05:54:32.356376Z'
+updated: '2026-02-09T08:04:40.585777Z'
 ---
 
 {% raw %}
@@ -98,25 +98,25 @@ updated: '2026-02-09T05:54:32.356376Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Osteoporosis]]</li>
-<li>[[Osteopenia]]</li>
-<li>[[Paget's Disease]]</li>
-<li>[[Hyperparathyroidism]]</li>
+<li><a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Osteopenia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Paget's Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[CTX]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ctx/" class="internal-link">CTX</a> (biomarker)</li>
 </ul>
 <h3>Related Tests</h3>
 <ul>
-<li>→ [[osteocalcin]] (labtest) - Bone formation marker (complementary)</li>
-<li>→ [[vitamin d 25oh]] (labtest) - Vitamin D status affects bone turnover</li>
-<li>→ [[calcium]] (labtest) - Calcium homeostasis and bone health</li>
+<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">osteocalcin</a> (labtest) - Bone formation marker (complementary)</li>
+<li>→ <a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a> (labtest) - Vitamin D status affects bone turnover</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest) - Calcium homeostasis and bone health</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[bone health panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/bone-health-panel/" class="internal-link">bone health panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

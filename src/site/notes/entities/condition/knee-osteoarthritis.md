@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.034267Z'
+created: '2026-02-09T08:04:40.226925Z'
 description: A degenerative joint disease affecting the knee, characterized by the
   breakdown of cartilage and underlying bone, leading to pain and stiffness.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Knee Osteoarthritis
 type: condition
-updated: '2026-02-09T05:54:32.034267Z'
+updated: '2026-02-09T08:04:40.226925Z'
 ---
 
 {% raw %}
@@ -29,30 +29,30 @@ updated: '2026-02-09T05:54:32.034267Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Knee_Osteoarthritis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/knee-osteoarthritis/" class="internal-link">Knee_Osteoarthritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:43.943893'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Knee_Osteoarthritis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/knee-osteoarthritis/" class="internal-link">Knee_Osteoarthritis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:44.370943'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
-CAUSED_BY::[[Aging]]<br />
-CAUSED_BY::[[Trauma]]<br />
-AFFECTS_ORGAN::[[Knee]]<br />
-TREATED_BY_DRUG::[[Ibuprofen]]<br />
-TREATED_BY_DRUG::[[Acetaminophen]]<br />
-TREATED_BY_DRUG::[[Cortisone]] - Injection.<br />
-IMPROVED_BY_INTERVENTION::[[Weight Loss]]<br />
-IMPROVED_BY_INTERVENTION::[[Physical Therapy]]<br />
-TREATED_BY_INTERVENTION::[[Knee Replacement]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Trauma</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Knee</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/acetaminophen/" class="internal-link">Acetaminophen</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Cortisone</a> - Injection.<br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Weight Loss</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Physical Therapy</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Knee Replacement</a></p>
 <h2>References</h2>
 <ul>
 <li>American Academy of Orthopaedic Surgeons (AAOS). Osteoarthritis of the Knee.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.477225Z'
+created: '2026-02-09T08:04:40.725670Z'
 description: Tested twice a year Platelet count measures the number of platelets—tiny
   blood cells that help blood clot and support healing. Low counts (thrombocytopenia)
   can make bruising or bleeding more noticeable, while high counts (thrombocytosis)
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: platelet_count
 type: labtest
-updated: '2026-02-09T05:54:32.477225Z'
+updated: '2026-02-09T08:04:40.725670Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.477225Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Thrombocytopenia (Low Platelets)]]</li>
-<li>[[Bone Marrow Disorder]]</li>
-<li>[[Liver Dysfunction]]</li>
-<li>[[Iron Deficiency Anemia]]</li>
-<li>[[Chronic Inflammation]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Thrombocytopenia (Low Platelets)</a></li>
+<li><a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
+<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,100 +73,100 @@ updated: '2026-02-09T05:54:32.477225Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.971293'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.971293'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.971293'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.971293'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thrombocytopenia_Low_Platelets]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thrombocytopenia_Low_Platelets</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.971293'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thrombocytopenia_Low_Platelets]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thrombocytopenia_Low_Platelets</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Bone_Marrow_Disorder]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

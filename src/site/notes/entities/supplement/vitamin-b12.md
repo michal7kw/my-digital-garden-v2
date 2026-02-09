@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.235942Z'
+created: '2026-02-09T08:04:41.624319Z'
 description: Essential water-soluble vitamin critical for nerve function, DNA synthesis,
   red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans
   and older adults.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: supplement
-updated: '2026-02-09T05:54:33.235942Z'
+updated: '2026-02-09T08:04:41.624319Z'
 ---
 
 {% raw %}
@@ -28,20 +28,20 @@ updated: '2026-02-09T05:54:33.235942Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Vitamin_B12]] (biomarker)</li>
-<li>→ [[Homocysteine]] (biomarker)</li>
-<li>→ [[Hemoglobin]] (biomarker)</li>
-<li>→ [[Methylfolate]] (metabolite)</li>
-<li>→ [[Folate]] (biomarker)</li>
-<li>→ [[Brain]] (organ)</li>
-<li>→ [[Nerves]] (organ)</li>
-<li>→ [[Blood]] (organ)</li>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin_B12</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -58,33 +58,33 @@ study_references:
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Folate]] (supplement)</li>
-<li>→ [[Methylfolate]] (metabolite)</li>
-<li>← [[Vitamin_B6]] (supplement)</li>
-<li>→ [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Blood]] (organ)</li>
-<li>→ [[Nerves]] (organ)</li>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <h3>Decreases Metabolite</h3>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <h3>Supports Synthesis</h3>
 <ul>
-<li>→ [[Methylfolate]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a> (metabolite)</li>
 </ul>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
@@ -102,7 +102,7 @@ study_references:
 </code></pre>
 <h3>Affects Biomarker</h3>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 magnitude: moderate
@@ -110,7 +110,7 @@ evidence_level: 4
 source: curated
 </code></pre>
 <ul>
-<li>→ [[Hemoglobin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 magnitude: moderate

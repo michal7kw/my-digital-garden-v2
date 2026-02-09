@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.093979Z'
+created: '2026-02-09T08:04:40.291872Z'
 description: A sore that develops on the lining of the esophagus, stomach, or small
   intestine.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Peptic Ulcer
 type: condition
-updated: '2026-02-09T05:54:32.093979Z'
+updated: '2026-02-09T08:04:40.291872Z'
 ---
 
 {% raw %}
@@ -26,29 +26,29 @@ updated: '2026-02-09T05:54:32.093979Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Peptic_Ulcer]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/peptic-ulcer/" class="internal-link">Peptic_Ulcer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.095076'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Peptic_Ulcer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/peptic-ulcer/" class="internal-link">Peptic_Ulcer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.034813'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Helicobacter pylori]]<br />
-CAUSED_BY::[[Ibuprofen]]<br />
-CAUSED_BY::[[Aspirin]]<br />
-ASSOCIATED_WITH_CONDITION::[[Gastritis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anemia]] - If bleeding occurs.<br />
-AFFECTS_ORGAN::[[Stomach]]<br />
-AFFECTS_ORGAN::[[Duodenum]]<br />
-TREATED_BY_DRUG::[[Omeprazole]]<br />
-TREATED_BY_DRUG::[[Pantoprazole]]<br />
-TREATED_BY_DRUG::[[Clarithromycin]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Helicobacter pylori</a><br />
+CAUSED_BY::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
+CAUSED_BY::<a href="/garden/dev_admin/drug/aspirin/" class="internal-link">Aspirin</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Gastritis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anemia</a> - If bleeding occurs.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Stomach</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Duodenum</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Pantoprazole</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Clarithromycin</a></p>
 <h2>References</h2>
 <ul>
 <li>Lanas, A., &amp; Chan, F. K. (2017). Peptic ulcer disease. The Lancet.</li>

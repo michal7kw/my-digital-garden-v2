@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.031536Z'
+created: '2026-02-09T08:04:40.223951Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Calculi
 type: condition
-updated: '2026-02-09T05:54:32.031536Z'
+updated: '2026-02-09T08:04:40.223951Z'
 ---
 
 {% raw %}
@@ -33,28 +33,28 @@ updated: '2026-02-09T05:54:32.031536Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Calculi]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-calculi/" class="internal-link">Kidney_Calculi</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:43.642531'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Calculi]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-calculi/" class="internal-link">Kidney_Calculi</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:43.988309'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Dehydration]]<br />
-ASSOCIATED_WITH_CONDITION::[[Gout]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hyperparathyroidism]]<br />
-ASSOCIATED_WITH_CONDITION::[[Urinary Tract Infection]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Uric Acid]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Calcium]]<br />
-TREATED_BY_DRUG::[[Tamsulosin]] - Alpha-blocker to help pass stones.<br />
-TREATED_BY_DRUG::[[Allopurinol]] - For uric acid stones.<br />
-TREATED_BY_INTERVENTION::[[Lithotripsy]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Gout</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Tamsulosin</a> - Alpha-blocker to help pass stones.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Allopurinol</a> - For uric acid stones.<br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Lithotripsy</a></p>
 <h2>References</h2>
 <ul>
 <li>American Urological Association. Kidney Stones Guidelines.</li>

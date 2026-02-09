@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.963306Z'
+created: '2026-02-09T08:04:40.152301Z'
 description: A type of cancer of the blood and bone marrow that affects B lymphocytes
   (a type of white blood cell), progressing slowly.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Lymphocytic Leukemia
 type: condition
-updated: '2026-02-09T05:54:31.963306Z'
+updated: '2026-02-09T08:04:40.152301Z'
 ---
 
 {% raw %}
@@ -28,28 +28,28 @@ updated: '2026-02-09T05:54:31.963306Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Lymphocytic_Leukemia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lymphocytic-leukemia/" class="internal-link">Chronic_Lymphocytic_Leukemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.139263'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lymphocytic_Leukemia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lymphocytic-leukemia/" class="internal-link">Chronic_Lymphocytic_Leukemia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.300870'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::[[Bone Marrow]]<br />
-AFFECTS_ORGAN::[[Lymph Node]]<br />
-AFFECTS_ORGAN::[[Spleen]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[White Blood Cell Count]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anemia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Thrombocytopenia]]<br />
-TREATED_BY_DRUG::[[Ibrutinib]] - BTK Inhibitor.<br />
-TREATED_BY_DRUG::[[Venetoclax]] - BCL-2 Inhibitor.<br />
-TREATED_BY_DRUG::[[Rituximab]] - Monoclonal antibody.</p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lymph Node</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spleen</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/phenotype/thrombocytopenia/" class="internal-link">Thrombocytopenia</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ibrutinib</a> - BTK Inhibitor.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Venetoclax</a> - BCL-2 Inhibitor.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Rituximab</a> - Monoclonal antibody.</p>
 <h2>References</h2>
 <ul>
 <li>Hallek, M. (2019). Chronic lymphocytic leukemia: 2020 update on diagnosis, risk stratification and treatment. American Journal of Hematology.</li>

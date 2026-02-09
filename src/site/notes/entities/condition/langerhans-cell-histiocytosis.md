@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.035095Z'
+created: '2026-02-09T08:04:40.227845Z'
 description: A rare disorder involving the clonal proliferation of Langerhans cells,
   abnormal immune cells that form tumors and damage tissue.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Langerhans Cell Histiocytosis
 type: condition
-updated: '2026-02-09T05:54:32.035095Z'
+updated: '2026-02-09T08:04:40.227845Z'
 ---
 
 {% raw %}
@@ -29,27 +29,27 @@ updated: '2026-02-09T05:54:32.035095Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Langerhans_Cell_Histiocytosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/langerhans-cell-histiocytosis/" class="internal-link">Langerhans_Cell_Histiocytosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:43.989665'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Langerhans_Cell_Histiocytosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/langerhans-cell-histiocytosis/" class="internal-link">Langerhans_Cell_Histiocytosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:44.454280'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[BRAF]]<br />
-AFFECTS_ORGAN::[[Bone]]<br />
-AFFECTS_ORGAN::[[Skin]]<br />
-AFFECTS_ORGAN::[[Pituitary Gland]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Insipidus]]<br />
-TREATED_BY_DRUG::[[Vinblastine]]<br />
-TREATED_BY_DRUG::[[Prednisone]]<br />
-TREATED_BY_DRUG::[[Dabrafenib]] - BRAF inhibitor.</p>
+<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">BRAF</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pituitary Gland</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Diabetes Insipidus</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Vinblastine</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/prednisone/" class="internal-link">Prednisone</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Dabrafenib</a> - BRAF inhibitor.</p>
 <h2>References</h2>
 <ul>
 <li>Allen, C. E., et al. (2010). Langerhans-cell histiocytosis. NEJM.</li>

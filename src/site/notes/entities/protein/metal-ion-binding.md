@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.128578Z'
+created: '2026-02-09T08:04:41.500456Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: metal ion binding
 type: protein
-updated: '2026-02-09T05:54:33.128578Z'
+updated: '2026-02-09T08:04:41.500456Z'
 ---
 
 {% raw %}
@@ -42,128 +42,128 @@ updated: '2026-02-09T05:54:33.128578Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[lead_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lead_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[transition_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[metal_chelating_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[calcium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[magnesium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alkali_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[cation_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cation_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.411185'
 source: obsidian
 </code></pre>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[cation_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">cation_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:11.989000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[lead_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">lead_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:11.995000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[alkali_metal_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[calcium_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.006000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[magnesium_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.012000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[metal_chelating_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.018000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[transition_metal_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.023000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[calcium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.028000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[cation_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cation_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.097000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[magnesium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.103000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[lead_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lead_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.108000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[transition_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.114000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[metal_chelating_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.119000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[alkali_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.125000+00:00'
 source: PrimeKG
@@ -172,128 +172,128 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[cation_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">cation_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:11.989000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[lead_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">lead_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:11.995000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[alkali_metal_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[calcium_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.006000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[magnesium_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.012000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[metal_chelating_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.018000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[transition_metal_ion_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.023000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[calcium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.028000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[cation_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cation_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.097000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[magnesium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.103000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[lead_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lead_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.108000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[transition_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.114000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[metal_chelating_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.119000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[alkali_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:12.125000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[cation_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cation_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lead_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lead_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alkali_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[calcium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[magnesium_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[metal_chelating_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[transition_metal_ion_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.539074'
 source: obsidian

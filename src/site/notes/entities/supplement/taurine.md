@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.234482Z'
+created: '2026-02-09T08:04:41.622870Z'
 description: Conditionally essential sulfur-containing amino acid abundant in heart,
   brain, and retina. Key roles in bile acid conjugation, osmoregulation, calcium signaling,
   and mitochondrial function.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Taurine
 type: supplement
-updated: '2026-02-09T05:54:33.234482Z'
+updated: '2026-02-09T08:04:41.622870Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ updated: '2026-02-09T05:54:33.234482Z'
 <h2>Relationships</h2>
 <h3>Affects Biomarker</h3>
 <ul>
-<li>→ [[Alt]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alt/" class="internal-link">Alt</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
@@ -37,7 +37,7 @@ evidence_level: 3
 source: curated
 </code></pre>
 <ul>
-<li>→ [[Hs Crp]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild

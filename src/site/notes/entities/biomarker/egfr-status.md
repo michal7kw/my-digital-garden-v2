@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.633613Z'
+created: '2026-02-09T08:04:39.881266Z'
 description: Predictive biomarker for lung and colorectal cancer. Measures EGFR protein
   expression (IHC) or gene mutations (PCR/NGS).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR Status
 type: biomarker
-updated: '2026-02-09T05:54:31.633613Z'
+updated: '2026-02-09T08:04:39.881266Z'
 ---
 
 {% raw %}
@@ -37,74 +37,74 @@ updated: '2026-02-09T05:54:31.633613Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[EGFR_Status]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/egfr-status/" class="internal-link">EGFR_Status</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.613705'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lung_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lung_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR_Status]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/egfr-status/" class="internal-link">EGFR_Status</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lung_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lung_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.649703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gefitinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gefitinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Osimertinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Osimertinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Erlotinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Erlotinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.649703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cetuximab]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cetuximab</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Kidneys]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: very_high
 function_indicated: Glomerular Filtration Rate
@@ -114,19 +114,19 @@ source: curated
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[EGFR]] (protein) - <em>Expression/Sequence</em></li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (protein) - <em>Expression/Sequence</em></li>
 </ul>
 <h3>Predicts Response To</h3>
 <ul>
-<li>→ [[Gefitinib]] (drug)</li>
-<li>→ [[Erlotinib]] (drug)</li>
-<li>→ [[Osimertinib]] (drug)</li>
-<li>→ [[Cetuximab]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/gefitinib/" class="internal-link">Gefitinib</a> (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/erlotinib/" class="internal-link">Erlotinib</a> (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/osimertinib/" class="internal-link">Osimertinib</a> (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/cetuximab/" class="internal-link">Cetuximab</a> (drug)</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Lung Cancer]] (condition)</li>
-<li>→ [[Colorectal Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/lung-cancer/" class="internal-link">Lung Cancer</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-cancer/" class="internal-link">Colorectal Cancer</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

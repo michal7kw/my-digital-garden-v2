@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.254462Z'
+created: '2026-02-09T08:04:40.470692Z'
 description: Encodes CREB-binding protein, a histone acetyltransferase and transcriptional
   coactivator.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CREBBP
 type: gene
-updated: '2026-02-09T05:54:32.254462Z'
+updated: '2026-02-09T08:04:40.470692Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-02-09T05:54:32.254462Z'
 <p>Mutations in CREBBP are associated with <strong>Rubinstein-Taybi syndrome</strong> and various cancers (lymphoma).</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[CREBBP]] (protein) - <em>Encodes</em></li>
-<li>→ [[Rubinstein-Taybi Syndrome]] (condition) - <em>Associated with mutations</em></li>
+<li>→ <a href="/garden/dev_admin/protein/crebbp/" class="internal-link">CREBBP</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/rubinstein-taybi-syndrome/" class="internal-link">Rubinstein-Taybi Syndrome</a> (condition) - <em>Associated with mutations</em></li>
 </ul>
 <h2>References</h2>
 <ol>

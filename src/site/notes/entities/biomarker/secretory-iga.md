@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.725453Z'
+created: '2026-02-09T08:04:39.973793Z'
 description: Secretory Immunoglobulin A is the predominant antibody in mucosal secretions,
   forming the first line of immune defense in the gut, respiratory tract, and other
   mucosal surfaces. It prevents pathogen adherence and neutralizes toxins without
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Secretory IgA
 type: biomarker
-updated: '2026-02-09T05:54:31.725453Z'
+updated: '2026-02-09T08:04:39.973793Z'
 ---
 
 {% raw %}
@@ -64,31 +64,31 @@ updated: '2026-02-09T05:54:31.725453Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Probiotics]] - Increases sIgA by stimulating mucosal immune cells (moderate effect, evidence level 3)</li>
-<li>[[Glutamine]] - Supports mucosal cell integrity and sIgA production (mild effect, evidence level 3)</li>
-<li>[[Vitamin A]] - Essential for mucosal immunity and IgA class switching (mild effect, evidence level 3)</li>
-<li>[[Colostrum]] - Contains sIgA and stimulates endogenous production (moderate effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - Increases sIgA by stimulating mucosal immune cells (moderate effect, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Glutamine</a> - Supports mucosal cell integrity and sIgA production (mild effect, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Vitamin A</a> - Essential for mucosal immunity and IgA class switching (mild effect, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Colostrum</a> - Contains sIgA and stimulates endogenous production (moderate effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[gi map]] - Includes fecal sIgA in comprehensive stool analysis</li>
-<li>[[thorne gut health]] - Includes sIgA measurement</li>
+<li><a href="/garden/dev_admin/labtest/gi-map/" class="internal-link">gi map</a> - Includes fecal sIgA in comprehensive stool analysis</li>
+<li><a href="/garden/dev_admin/labtest/thorne-gut-health/" class="internal-link">thorne gut health</a> - Includes sIgA measurement</li>
 <li>Salivary sIgA test - Non-invasive saliva-based measurement</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Zonulin]] (biomarker) - Gut permeability affects mucosal immune function</li>
-<li>→ [[Calprotectin]] (biomarker) - Both reflect gut immune status</li>
-<li>→ [[Cortisol]] (biomarker) - Chronic elevated cortisol suppresses sIgA</li>
+<li>→ <a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">Zonulin</a> (biomarker) - Gut permeability affects mucosal immune function</li>
+<li>→ <a href="/garden/dev_admin/biomarker/calprotectin/" class="internal-link">Calprotectin</a> (biomarker) - Both reflect gut immune status</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker) - Chronic elevated cortisol suppresses sIgA</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[IgA Deficiency]] (condition)</li>
-<li>→ [[Inflammatory Bowel Disease]] (condition)</li>
-<li>→ [[Celiac Disease]] (condition)</li>
-<li>→ [[Recurrent Infections]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/iga-deficiency/" class="internal-link">IgA Deficiency</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/inflammatory-bowel-disease/" class="internal-link">Inflammatory Bowel Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/celiac-disease/" class="internal-link">Celiac Disease</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/recurrent-infections/" class="internal-link">Recurrent Infections</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ul>

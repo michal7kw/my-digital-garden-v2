@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.492349Z'
+created: '2026-02-09T08:04:40.742841Z'
 description: Rheumatoid factor (RF) is an antibody commonly associated with autoimmune
   conditions like rheumatoid arthritis, rheumatoid vasculitis, or Sjögren’s syndrome.
   Higher levels of RF typically point to more severe complications of the autoimmune
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: rheumatoid_factor_rf
 type: labtest
-updated: '2026-02-09T05:54:32.492349Z'
+updated: '2026-02-09T08:04:40.742841Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.492349Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Rheumatoid Arthritis]]</li>
-<li>[[Sjögren’S Syndrome]]</li>
-<li>[[Systemic Lupus Erythematosus (Sle)]]</li>
-<li>[[Chronic Infections (Hepatitis C, Endocarditis, Tuberculosis)]]</li>
-<li>[[Vasculitis (Cryoglobulinemic Vasculitis)]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Sjögren’S Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Systemic Lupus Erythematosus (Sle)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Infections (Hepatitis C, Endocarditis, Tuberculosis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Vasculitis (Cryoglobulinemic Vasculitis)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,93 +71,93 @@ updated: '2026-02-09T05:54:32.492349Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[SjgrenS_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Infections_Hepatitis_C_Endocarditis_Tuberculosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Infections_Hepatitis_C_Endocarditis_Tuberculosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Lupus_Erythematosus_Sle]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vasculitis_Cryoglobulinemic_Vasculitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vasculitis_Cryoglobulinemic_Vasculitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rheumatoid_Arthritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Rheumatoid_Arthritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rheumatoid_Arthritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Rheumatoid_Arthritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.588397'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Lupus_Erythematosus_Sle]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.588397'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vasculitis_Cryoglobulinemic_Vasculitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vasculitis_Cryoglobulinemic_Vasculitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.588397'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Infections_Hepatitis_C_Endocarditis_Tuberculosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Infections_Hepatitis_C_Endocarditis_Tuberculosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.588397'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SjgrenS_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.588397'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_autoimmunity]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.700050'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.325688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_autoimmunity]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.382182'
 source: obsidian
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_autoimmunity]] (labtestpanel)</li>
-<li>→ [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

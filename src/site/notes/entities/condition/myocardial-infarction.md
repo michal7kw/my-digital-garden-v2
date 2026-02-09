@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.066611Z'
+created: '2026-02-09T08:04:40.264305Z'
 description: A life-threatening condition where blood flow to the heart muscle is
   abruptly cut off, causing tissue death, usually due to a blood clot in a coronary
   artery.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Myocardial Infarction
 type: condition
-updated: '2026-02-09T05:54:32.066611Z'
+updated: '2026-02-09T08:04:40.264305Z'
 ---
 
 {% raw %}
@@ -40,20 +40,20 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:36.399745'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Myocardial_Infarction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.286895'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.286895'
 source: obsidian
@@ -74,26 +74,26 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Myocardial_Infarction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Myocardial_Infarction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
 source: obsidian

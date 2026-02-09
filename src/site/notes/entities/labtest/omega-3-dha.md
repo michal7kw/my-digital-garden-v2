@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.459018Z'
+created: '2026-02-09T08:04:40.704813Z'
 description: 'oh-MAY-guh three: D-H-A Docosahexaenoic acid (DHA) is a long-chain omega-3
   fatty acid essential for brain, eye, and nervous system function. It supports cognitive
   and visual health and helps maintain the structure and flexibility of cell membranes.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: omega_3_dha
 type: labtest
-updated: '2026-02-09T05:54:32.459018Z'
+updated: '2026-02-09T08:04:40.704813Z'
 ---
 
 {% raw %}
@@ -65,33 +65,33 @@ updated: '2026-02-09T05:54:32.459018Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[mthfr_gene]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.504801'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.504801'
 source: obsidian
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

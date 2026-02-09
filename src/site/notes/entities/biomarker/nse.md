@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.690011Z'
+created: '2026-02-09T08:04:39.937581Z'
 description: Neuron-Specific Enolase, a glycolytic enzyme found in neurons and neuroendocrine
   cells. Used as a biomarker for neuronal injury and as a tumor marker for small cell
   lung cancer and neuroblastoma.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NSE
 type: biomarker
-updated: '2026-02-09T05:54:31.690011Z'
+updated: '2026-02-09T08:04:39.937581Z'
 ---
 
 {% raw %}
@@ -102,157 +102,157 @@ updated: '2026-02-09T05:54:31.690011Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[UCH-L1]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Brain]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MRI_Brain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Small_Cell_Lung_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Small_Cell_Lung_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiac_Arrest]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Somatosensory_Evoked_Potentials]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Somatosensory_Evoked_Potentials</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[GFAP]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Brain]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MRI_Brain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Small_Cell_Lung_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Small_Cell_Lung_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lactate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lactate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiac_Arrest]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Somatosensory_Evoked_Potentials]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Somatosensory_Evoked_Potentials</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroblastoma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neuroblastoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Stroke]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Stroke</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EEG]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[S100B]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EEG]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.540742'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[UCH-L1]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[S100B]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GFAP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
@@ -261,25 +261,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Conditions with Elevated NSE</h3>
 <ul>
-<li>→ [[Hypoxic Brain Injury]] (condition) - <em>Prognostic marker</em></li>
-<li>→ [[Cardiac Arrest]] (condition) - <em>Outcome prediction</em></li>
-<li>→ [[Traumatic Brain Injury]] (condition) - <em>Injury marker</em></li>
-<li>→ [[Small Cell Lung Cancer]] (condition) - <em>Tumor marker</em></li>
-<li>→ [[Neuroblastoma]] (condition) - <em>Tumor marker</em></li>
-<li>→ [[Stroke]] (condition) - <em>Injury marker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/hypoxic-brain-injury/" class="internal-link">Hypoxic Brain Injury</a> (condition) - <em>Prognostic marker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cardiac-arrest/" class="internal-link">Cardiac Arrest</a> (condition) - <em>Outcome prediction</em></li>
+<li>→ <a href="/garden/dev_admin/condition/traumatic-brain-injury/" class="internal-link">Traumatic Brain Injury</a> (condition) - <em>Injury marker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/small-cell-lung-cancer/" class="internal-link">Small Cell Lung Cancer</a> (condition) - <em>Tumor marker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/neuroblastoma/" class="internal-link">Neuroblastoma</a> (condition) - <em>Tumor marker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/stroke/" class="internal-link">Stroke</a> (condition) - <em>Injury marker</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[S100B]] (biomarker) - <em>Astrocyte injury</em></li>
-<li>→ [[GFAP]] (biomarker) - <em>Astrocyte injury</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Axonal injury</em></li>
-<li>→ [[Lactate]] (biomarker) - <em>Hypoxia marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker) - <em>Astrocyte injury</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte injury</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Axonal injury</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/lactate/" class="internal-link">Lactate</a> (biomarker) - <em>Hypoxia marker</em></li>
 </ul>
 <h3>Diagnostic Context</h3>
 <ul>
-<li>← [[EEG]] (examination) - <em>Combined prognostication</em></li>
-<li>← [[MRI Brain]] (examination) - <em>Imaging correlation</em></li>
-<li>← [[Somatosensory Evoked Potentials]] (examination) - <em>Multimodal assessment</em></li>
+<li>← <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination) - <em>Combined prognostication</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-brain/" class="internal-link">MRI Brain</a> (examination) - <em>Imaging correlation</em></li>
+<li>← <a href="/garden/dev_admin/examination/somatosensory-evoked-potentials/" class="internal-link">Somatosensory Evoked Potentials</a> (examination) - <em>Multimodal assessment</em></li>
 </ul>
 <h2>Prognostication After Cardiac Arrest</h2>
 <h3>European Guidelines (ERC/ESICM 2021)</h3>

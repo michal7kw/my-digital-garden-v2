@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.613099Z'
+created: '2026-02-09T08:04:39.862165Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Calcium
 type: biomarker
-updated: '2026-02-09T05:54:31.613099Z'
+updated: '2026-02-09T08:04:39.862165Z'
 ---
 
 {% raw %}
@@ -30,19 +30,19 @@ updated: '2026-02-09T05:54:31.613099Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_K2]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.766631'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_K2]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.690925'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Calcium]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.766631'
 source: obsidian
@@ -56,19 +56,19 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_K2]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:11.335702'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Calcium]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:11.335702'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_K2]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:22.084024'
 source: obsidian

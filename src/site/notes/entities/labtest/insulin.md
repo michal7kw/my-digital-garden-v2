@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.398334Z'
+created: '2026-02-09T08:04:40.633785Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: insulin
 type: labtest
-updated: '2026-02-09T05:54:32.398334Z'
+updated: '2026-02-09T08:04:40.633785Z'
 ---
 
 {% raw %}
@@ -64,11 +64,11 @@ updated: '2026-02-09T05:54:32.398334Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Insulin Resistance]]</li>
-<li>[[Type 2 Diabetes]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Mafld (Metabolic Dysfunction-Associated Fatty Liver Disease)]]</li>
-<li>[[Pcos (Polycystic Ovary Syndrome)]]</li>
+<li><a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Mafld (Metabolic Dysfunction-Associated Fatty Liver Disease)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pcos (Polycystic Ovary Syndrome)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -76,99 +76,99 @@ updated: '2026-02-09T05:54:32.398334Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.822692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pcos_Polycystic_Ovary_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pcos_Polycystic_Ovary_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.822692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.822692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.822692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.822692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.822692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pcos_Polycystic_Ovary_Syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pcos_Polycystic_Ovary_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.070090'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

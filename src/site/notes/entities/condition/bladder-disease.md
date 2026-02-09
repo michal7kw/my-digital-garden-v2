@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.930519Z'
+created: '2026-02-09T08:04:40.112256Z'
 description: A broad category of disorders affecting the urinary bladder, including
   infections, functional issues, stones, and cancers.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Bladder Disease
 type: condition
-updated: '2026-02-09T05:54:31.930519Z'
+updated: '2026-02-09T08:04:40.112256Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[appearance_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/appearance-urine/" class="internal-link">appearance_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -45,13 +45,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:50.387423'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[appearance_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/appearance-urine/" class="internal-link">appearance_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:50.387423'
 source: obsidian
@@ -72,32 +72,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bladder_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[appearance_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/appearance-urine/" class="internal-link">appearance_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[appearance_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/appearance-urine/" class="internal-link">appearance_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[appearance_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/appearance-urine/" class="internal-link">appearance_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

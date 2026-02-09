@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.931457Z'
+created: '2026-02-09T08:04:40.113213Z'
 description: A state where blood sugar levels are either too high (hyperglycemia)
   or too low (hypoglycemia), often due to impaired insulin regulation.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Blood Glucose Imbalance
 type: condition
-updated: '2026-02-09T05:54:31.931457Z'
+updated: '2026-02-09T08:04:40.113213Z'
 ---
 
 {% raw %}
@@ -32,29 +32,29 @@ updated: '2026-02-09T05:54:31.931457Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Blood_Glucose_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/blood-glucose-imbalance/" class="internal-link">Blood_Glucose_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.311061'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Glucose_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/blood-glucose-imbalance/" class="internal-link">Blood_Glucose_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.135293'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-ASSOCIATED_WITH_CONDITION::[[Insulin Resistance]]<br />
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
-AFFECTS_ORGAN::[[Pancreas]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Blood Glucose]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[HbA1c]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Fasting Insulin]]<br />
-TREATED_BY_DRUG::[[Insulin]]<br />
-TREATED_BY_DRUG::[[Metformin]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Glucose</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/metformin/" class="internal-link">Metformin</a></p>
 <h2>References</h2>
 <ul>
 <li>ADA. Standards of Medical Care in Diabetes.</li>

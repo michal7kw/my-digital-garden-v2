@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.977113Z'
+created: '2026-02-09T08:04:40.165549Z'
 description: A group of metabolic disorders characterized by high blood sugar levels
   over a prolonged period, resulting from defects in insulin secretion, insulin action,
   or both.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetes Mellitus
 type: condition
-updated: '2026-02-09T05:54:31.977113Z'
+updated: '2026-02-09T08:04:40.165549Z'
 ---
 
 {% raw %}
@@ -33,32 +33,32 @@ updated: '2026-02-09T05:54:31.977113Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Diabetes_Mellitus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes_Mellitus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:37.159622'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes_Mellitus]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes_Mellitus</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:34.416260'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_BIOMARKER::[[HbA1c]] - Standard diagnostic marker.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Blood Glucose]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Insulin]]<br />
-INCREASED_RISK_OF::[[Cardiovascular Disease]]<br />
-INCREASED_RISK_OF::[[Chronic Kidney Disease]]<br />
-INCREASED_RISK_OF::[[Diabetic Retinopathy]]<br />
-INCREASED_RISK_OF::[[Diabetic Neuropathy]]<br />
-IMPROVED_BY_INTERVENTION::[[Exercise]]<br />
-IMPROVED_BY_INTERVENTION::[[Intermittent Fasting]]<br />
-REDUCED_BY_DRUG::[[Metformin]]<br />
-REDUCED_BY_DRUG::[[Insulin]]<br />
-AFFECTS_ORGAN::[[Pancreas]]<br />
-AFFECTS_ORGAN::[[Kidney]]</p>
+<p>ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> - Standard diagnostic marker.<br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Glucose</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Diabetic Retinopathy</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Diabetic Neuropathy</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a><br />
+REDUCED_BY_DRUG::<a href="/garden/dev_admin/drug/metformin/" class="internal-link">Metformin</a><br />
+REDUCED_BY_DRUG::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a></p>
 <h2>References</h2>
 <ul>
 <li>American Diabetes Association. (2024). Standards of Care in Diabetes—2024. Diabetes Care.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.225440Z'
+created: '2026-02-09T08:04:40.438674Z'
 description: Single-photon emission computed tomography imaging of dopamine transporter
   density. Used to confirm dopaminergic deficit in Parkinson's disease and differentiate
   from essential tremor or drug-induced parkinsonism.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: DAT-SPECT
 type: examination
-updated: '2026-02-09T05:54:32.225440Z'
+updated: '2026-02-09T08:04:40.438674Z'
 ---
 
 {% raw %}
@@ -174,27 +174,27 @@ updated: '2026-02-09T05:54:32.225440Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Parkinson's Disease]] (condition) - <em>Confirms dopaminergic deficit</em></li>
-<li>→ [[Lewy Body Dementia]] (condition) - <em>Distinguishes from AD</em></li>
-<li>→ [[Multiple System Atrophy]] (condition) - <em>Abnormal</em></li>
-<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>Variable abnormality</em></li>
-<li>→ [[Essential Tremor]] (condition) - <em>Normal (excludes PD)</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Confirms dopaminergic deficit</em></li>
+<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Distinguishes from AD</em></li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-system-atrophy/" class="internal-link">Multiple System Atrophy</a> (condition) - <em>Abnormal</em></li>
+<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>Variable abnormality</em></li>
+<li>→ <a href="/garden/dev_admin/condition/essential-tremor/" class="internal-link">Essential Tremor</a> (condition) - <em>Normal (excludes PD)</em></li>
 </ul>
 <h3>Brain Regions</h3>
 <ul>
-<li>→ [[Substantia Nigra]] (organ) - <em>Source of dopamine neurons</em></li>
-<li>→ [[Striatum]] (organ) - <em>Imaging target</em></li>
-<li>→ [[Putamen]] (organ) - <em>First affected in PD</em></li>
+<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a> (organ) - <em>Source of dopamine neurons</em></li>
+<li>→ <a href="/garden/dev_admin/organ/striatum/" class="internal-link">Striatum</a> (organ) - <em>Imaging target</em></li>
+<li>→ <a href="/garden/dev_admin/organ/putamen/" class="internal-link">Putamen</a> (organ) - <em>First affected in PD</em></li>
 </ul>
 <h3>Related Pathways</h3>
 <ul>
-<li>→ [[Nigrostriatal Dopamine Pathway]] (pathway) - <em>Assessed pathway</em></li>
-<li>→ [[Alpha-Synuclein Aggregation]] (pathway) - <em>Underlying pathology</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/nigrostriatal-dopamine-pathway/" class="internal-link">Nigrostriatal Dopamine Pathway</a> (pathway) - <em>Assessed pathway</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Underlying pathology</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[Alpha-Synuclein CSF]] (biomarker) - <em>Complementary</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neurodegeneration</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/alpha-synuclein-csf/" class="internal-link">Alpha-Synuclein CSF</a> (biomarker) - <em>Complementary</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration</em></li>
 </ul>
 <h2>Practical Considerations</h2>
 <h3>Patient Preparation</h3>

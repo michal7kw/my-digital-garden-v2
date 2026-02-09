@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.454929Z'
+created: '2026-02-09T08:04:40.699972Z'
 description: N-terminal pro-B-type Natriuretic Peptide (NT-proBNP) test. Inactive
   fragment released during BNP synthesis. More stable than BNP with age-dependent
   cutoffs. Preferred for monitoring patients on sacubitril/valsartan therapy.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: nt_probnp
 type: labtest
-updated: '2026-02-09T05:54:32.454929Z'
+updated: '2026-02-09T08:04:40.699972Z'
 ---
 
 {% raw %}
@@ -103,19 +103,19 @@ updated: '2026-02-09T05:54:32.454929Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Heart Failure]]</li>
-<li>[[Cardiomyopathy]]</li>
-<li>[[Dyspnea]]</li>
-<li>[[Atrial Fibrillation]]</li>
+<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cardiomyopathy</a></li>
+<li><a href="/garden/dev_admin/phenotype/dyspnea/" class="internal-link">Dyspnea</a></li>
+<li><a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[BNP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cardiac biomarker panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

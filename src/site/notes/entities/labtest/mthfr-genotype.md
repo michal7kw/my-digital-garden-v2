@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.450212Z'
+created: '2026-02-09T08:04:40.694507Z'
 description: Tests C677T and A1298C variants affecting folate metabolism and homocysteine
   levels.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: mthfr_genotype
 type: labtest
-updated: '2026-02-09T05:54:32.450212Z'
+updated: '2026-02-09T08:04:40.694507Z'
 ---
 
 {% raw %}
@@ -54,8 +54,8 @@ updated: '2026-02-09T05:54:32.450212Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[mthfr_c677t]]</li>
-<li>[[mthfr_a1298c]]</li>
+<li><a href="/garden/dev_admin/biomarker/mthfr-c677t/" class="internal-link">mthfr_c677t</a></li>
+<li><a href="/garden/dev_admin/biomarker/mthfr-a1298c/" class="internal-link">mthfr_a1298c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -68,13 +68,13 @@ updated: '2026-02-09T05:54:32.450212Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[mthfr_a1298c]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mthfr-a1298c/" class="internal-link">mthfr_a1298c</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.523405'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_c677t]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mthfr-c677t/" class="internal-link">mthfr_c677t</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.523405'
 source: obsidian

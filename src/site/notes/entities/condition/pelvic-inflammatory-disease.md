@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.093069Z'
+created: '2026-02-09T08:04:40.290929Z'
 description: An infection of the female reproductive organs, often caused by some
   sexually transmitted bacteria.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pelvic Inflammatory Disease
 type: condition
-updated: '2026-02-09T05:54:32.093069Z'
+updated: '2026-02-09T08:04:40.290929Z'
 ---
 
 {% raw %}
@@ -34,29 +34,29 @@ updated: '2026-02-09T05:54:32.093069Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pelvic_Inflammatory_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/pelvic-inflammatory-disease/" class="internal-link">Pelvic_Inflammatory_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.046364'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pelvic_Inflammatory_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pelvic-inflammatory-disease/" class="internal-link">Pelvic_Inflammatory_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:53.912232'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Neisseria gonorrhoeae]]<br />
-CAUSED_BY::[[Chlamydia trachomatis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Infertility]]<br />
-ASSOCIATED_WITH_CONDITION::[[Ectopic Pregnancy]]<br />
-AFFECTS_ORGAN::[[Uterus]]<br />
-AFFECTS_ORGAN::[[Fallopian Tube]]<br />
-AFFECTS_ORGAN::[[Ovary]]<br />
-TREATED_BY_DRUG::[[Ceftriaxone]]<br />
-TREATED_BY_DRUG::[[Doxycycline]]<br />
-TREATED_BY_DRUG::[[Metronidazole]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Neisseria gonorrhoeae</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Chlamydia trachomatis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Infertility</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Ectopic Pregnancy</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Uterus</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Fallopian Tube</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Ovary</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ceftriaxone</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Doxycycline</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Metronidazole</a></p>
 <h2>References</h2>
 <ul>
 <li>CDC. Pelvic Inflammatory Disease (PID) - CDC Fact Sheet.</li>

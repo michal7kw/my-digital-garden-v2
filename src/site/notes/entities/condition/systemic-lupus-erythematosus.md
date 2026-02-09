@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.130705Z'
+created: '2026-02-09T08:04:40.331180Z'
 description: A chronic autoimmune disease where the immune system attacks various
   tissues, causing widespread inflammation and tissue damage in multiple organs.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Systemic Lupus Erythematosus
 type: condition
-updated: '2026-02-09T05:54:32.130705Z'
+updated: '2026-02-09T08:04:40.331180Z'
 ---
 
 {% raw %}
@@ -34,29 +34,29 @@ updated: '2026-02-09T05:54:32.130705Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Systemic_Lupus_Erythematosus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.133111'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Systemic_Lupus_Erythematosus]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:59.265213'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Nephrotic Syndrome]]<br />
-ASSOCIATED_WITH_CONDITION::[[Rheumatoid Arthritis]]<br />
-AFFECTS_ORGAN::[[Immune System]]<br />
-AFFECTS_ORGAN::[[Kidney]]<br />
-AFFECTS_ORGAN::[[Joint]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Antinuclear Antibodies]] - Key screening test.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Anti-dsDNA]] - Highly specific for SLE.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Anti-Smith]]<br />
-TREATED_BY_DRUG::[[Hydroxychloroquine]] - Essential maintenance.<br />
-TREATED_BY_DRUG::[[Prednisone]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Joint</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Antinuclear Antibodies</a> - Key screening test.<br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Anti-dsDNA</a> - Highly specific for SLE.<br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Anti-Smith</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Hydroxychloroquine</a> - Essential maintenance.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/prednisone/" class="internal-link">Prednisone</a></p>
 <h2>References</h2>
 <ul>
 <li>Lisnevskaia, L., et al. (2014). Systemic lupus erythematosus. The Lancet.</li>

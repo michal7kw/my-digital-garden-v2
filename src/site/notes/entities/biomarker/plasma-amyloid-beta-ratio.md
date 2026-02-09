@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.710459Z'
+created: '2026-02-09T08:04:39.958803Z'
 description: Blood-based measurement of amyloid-beta 42/40 ratio using mass spectrometry
   or immunoassay. Enables non-invasive screening for brain amyloid pathology with
   moderate accuracy.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Plasma Amyloid-Beta Ratio
 type: biomarker
-updated: '2026-02-09T05:54:31.710459Z'
+updated: '2026-02-09T08:04:39.958803Z'
 ---
 
 {% raw %}
@@ -176,139 +176,139 @@ causes     discussion
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_PET_Imaging]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.284460'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:11.835566'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_PET_Imaging]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GFAP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
@@ -317,25 +317,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Amyloid biomarker</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Risk stratification</em></li>
-<li>→ [[Cerebral Amyloid Angiopathy]] (condition) - <em>May be abnormal</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Amyloid biomarker</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Risk stratification</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cerebral-amyloid-angiopathy/" class="internal-link">Cerebral Amyloid Angiopathy</a> (condition) - <em>May be abnormal</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>CSF gold standard</em></li>
-<li>→ [[Plasma p-tau217]] (biomarker) - <em>Combination panel</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neurodegeneration</em></li>
-<li>→ [[GFAP]] (biomarker) - <em>Astrocyte marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>CSF gold standard</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a> (biomarker) - <em>Combination panel</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte marker</em></li>
 </ul>
 <h3>Examinations</h3>
 <ul>
-<li>← [[Amyloid PET Imaging]] (examination) - <em>Gold standard confirmation</em></li>
-<li>← [[Lumbar Puncture]] (examination) - <em>CSF alternative</em></li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Gold standard confirmation</em></li>
+<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar Puncture</a> (examination) - <em>CSF alternative</em></li>
 </ul>
 <h3>Pathways</h3>
 <ul>
-<li>→ [[Amyloid Cascade]] (pathway) - <em>Reflects plaque burden</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Reflects plaque burden</em></li>
 </ul>
 <h2>Comparison: Plasma Aβ vs p-tau217</h2>
 <table>

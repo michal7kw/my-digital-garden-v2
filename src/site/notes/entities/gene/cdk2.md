@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.253971Z'
+created: '2026-02-09T08:04:40.470087Z'
 description: Encodes Cyclin-Dependent Kinase 2, a catalytic subunit of the protein
   kinase complex regulating the G1/S phase cell cycle transition.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CDK2
 type: gene
-updated: '2026-02-09T05:54:32.253971Z'
+updated: '2026-02-09T08:04:40.470087Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-02-09T05:54:32.253971Z'
 <p>Dysregulation of CDK2 is observed in various cancers, leading to uncontrolled proliferation.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[CDK2]] (protein) - <em>Encodes</em></li>
-<li>→ [[Cell Cycle]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/protein/cdk2/" class="internal-link">CDK2</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/cell-cycle/" class="internal-link">Cell Cycle</a> (pathway)</li>
 </ul>
 <h2>References</h2>
 <ol>

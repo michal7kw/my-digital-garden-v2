@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.109619Z'
+created: '2026-02-09T08:04:40.307899Z'
 description: A chronic autoimmune disease that speeds up the growth cycle of skin
   cells, causing patches of thick, red skin and silvery scales.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Psoriasis
 type: condition
-updated: '2026-02-09T05:54:32.109619Z'
+updated: '2026-02-09T08:04:40.307899Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Psoriasis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:38.065994'
 source: obsidian
@@ -60,7 +60,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Psoriasis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.727953'
 source: obsidian

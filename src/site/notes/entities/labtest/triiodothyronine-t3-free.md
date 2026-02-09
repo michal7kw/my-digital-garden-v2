@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.522654Z'
+created: '2026-02-09T08:04:40.778221Z'
 description: try-eye-oh-doh-thigh-ruh-neen tee-three free Triiodothyronine (T3) Free
   is the active thyroid hormone that directly regulates metabolism, energy levels,
   and body temperature. Most T3 is made by converting T4 into this active form. Measuring
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: triiodothyronine_t3_free
 type: labtest
-updated: '2026-02-09T05:54:32.522654Z'
+updated: '2026-02-09T08:04:40.778221Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.522654Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Grave'S Disease]]</li>
-<li>[[Hypothyroidism]]</li>
-<li>[[Thyroiditis]]</li>
-<li>[[Euthyroid Sick Syndrome (Low T3 Syndrome In Critical Illness)]]</li>
-<li>[[Pituitary Or Hypothalamic Dysfunction (Central Hypothyroidism)]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Grave'S Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Thyroiditis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Euthyroid Sick Syndrome (Low T3 Syndrome In Critical Illness)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pituitary Or Hypothalamic Dysfunction (Central Hypothyroidism)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,68 +72,68 @@ updated: '2026-02-09T05:54:32.522654Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[GraveS_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.446243'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Euthyroid_Sick_Syndrome_Low_T3_Syndrome_In_Critical_Illness]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Euthyroid_Sick_Syndrome_Low_T3_Syndrome_In_Critical_Illness</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.446243'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pituitary_Or_Hypothalamic_Dysfunction_Central_Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Or_Hypothalamic_Dysfunction_Central_Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.446243'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pituitary_Or_Hypothalamic_Dysfunction_Central_Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Or_Hypothalamic_Dysfunction_Central_Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.245071'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GraveS_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.245071'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Euthyroid_Sick_Syndrome_Low_T3_Syndrome_In_Critical_Illness]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Euthyroid_Sick_Syndrome_Low_T3_Syndrome_In_Critical_Illness</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.245071'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.245071'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroiditis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroiditis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.245071'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_thyroid_health]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_thyroid_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.446243'
 source: obsidian
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_thyroid_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

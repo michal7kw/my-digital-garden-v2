@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.396158Z'
+created: '2026-02-09T08:04:40.631375Z'
 description: Tested twice a year Hyaline casts are the most common type of urinary
   casts and can appear in small numbers in healthy people. When found in larger amounts,
   hyaline casts may point to underlying kidney strain or indicate an underlying kidney
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: hyaline_casts_urine
 type: labtest
-updated: '2026-02-09T05:54:32.396158Z'
+updated: '2026-02-09T08:04:40.631375Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.396158Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Dehydration]]</li>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Exercise-Induced Proteinuria]]</li>
-<li>[[Heart Failure]]</li>
-<li>[[Kidney Dysfunction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a></li>
+<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,94 +71,94 @@ updated: '2026-02-09T05:54:32.396158Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Exercise-Induced_Proteinuria]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.580627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.580627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.580627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart_Failure]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.580627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise-Induced_Proteinuria]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart_Failure]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Heart_Failure]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Exercise-Induced_Proteinuria]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.684328'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Heart_Failure]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Exercise-Induced_Proteinuria]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.397654Z'
+created: '2026-02-09T08:04:40.633015Z'
 description: Growth hormone mediator. Marker for GH deficiency/excess and biological
   aging research.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: igf1
 type: labtest
-updated: '2026-02-09T05:54:32.397654Z'
+updated: '2026-02-09T08:04:40.633015Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.397654Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[igf1]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/igf1/" class="internal-link">igf1</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.749257'
 source: obsidian

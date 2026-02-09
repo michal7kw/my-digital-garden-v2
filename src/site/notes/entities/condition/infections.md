@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.018871Z'
+created: '2026-02-09T08:04:40.209509Z'
 description: A broad category of diseases caused by the invasion and multiplication
   of pathogenic microorganisms (bacteria, viruses, fungi, parasites) in the body.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Infections
 type: condition
-updated: '2026-02-09T05:54:32.018871Z'
+updated: '2026-02-09T08:04:40.209509Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Infections]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/infections/" class="internal-link">Infections</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:12.847082'
 source: obsidian
@@ -59,7 +59,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Infections]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/infections/" class="internal-link">Infections</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.969520'
 source: obsidian

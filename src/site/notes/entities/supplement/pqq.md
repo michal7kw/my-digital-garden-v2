@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.220425Z'
+created: '2026-02-09T08:04:41.607791Z'
 description: Pyrroloquinoline quinone - a novel redox cofactor that supports mitochondrial
   biogenesis. Promotes PGC-1α expression, enhances mitochondrial function, and provides
   neuroprotection.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: PQQ
 type: supplement
-updated: '2026-02-09T05:54:33.220425Z'
+updated: '2026-02-09T08:04:41.607791Z'
 ---
 
 {% raw %}
@@ -29,55 +29,55 @@ updated: '2026-02-09T05:54:33.220425Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[PGC-1alpha]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TFAM]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Oxidative_Phosphorylation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CoQ10]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.297812'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[TFAM]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[PGC-1alpha]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Oxidative_Phosphorylation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
@@ -86,20 +86,20 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[CoQ10]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/coq10/" class="internal-link">CoQ10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.687549'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[CoQ10]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/coq10/" class="internal-link">CoQ10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:00.698822'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CoQ10]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coq10/" class="internal-link">CoQ10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:14.053054'
 source: obsidian

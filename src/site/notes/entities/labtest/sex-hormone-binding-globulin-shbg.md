@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.495155Z'
+created: '2026-02-09T08:04:40.745988Z'
 description: Sex hormone binding globulin (SHBG) is a protein made by the liver that
   regulates how much estrogen and testosterone are available for the body to use.
   In females, SHBG helps maintain hormone balance and can influence fertility, menstrual
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: sex_hormone_binding_globulin_shbg
 type: labtest
-updated: '2026-02-09T05:54:32.495155Z'
+updated: '2026-02-09T08:04:40.745988Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.495155Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Polycystic Ovary Syndrome (Pcos)]]</li>
-<li>[[Hormonal Imbalance]]</li>
-<li>[[Insulin Resistance]]</li>
-<li>[[Liver Dysfunction]]</li>
-<li>[[Thyroid Dysfunction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome (Pcos)</a></li>
+<li><a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
+<li><a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
+<li><a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,117 +73,117 @@ updated: '2026-02-09T05:54:32.495155Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Thyroid_Dysfunction]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[pregnancy_hcg]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_hormone_health]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.586589'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hormonal_Imbalance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -191,8 +191,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
-<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

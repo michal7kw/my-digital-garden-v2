@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.062589Z'
+created: '2026-02-09T08:04:40.260712Z'
 description: A rare autoimmune disorder characterized by overlapping features of at
   least two other systemic autoimmune diseases, such as lupus, scleroderma, and polymyositis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mixed Connective Tissue Disease
 type: condition
-updated: '2026-02-09T05:54:32.062589Z'
+updated: '2026-02-09T08:04:40.260712Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/antinuclear-antibodies-ana-screen/" class="internal-link">antinuclear_antibodies_ana_screen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,13 +47,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.029056'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/antinuclear-antibodies-ana-screen/" class="internal-link">antinuclear_antibodies_ana_screen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.029056'
 source: obsidian
@@ -74,32 +74,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mixed_Connective_Tissue_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/antinuclear-antibodies-ana-screen/" class="internal-link">antinuclear_antibodies_ana_screen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/antinuclear-antibodies-ana-screen/" class="internal-link">antinuclear_antibodies_ana_screen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/antinuclear-antibodies-ana-screen/" class="internal-link">antinuclear_antibodies_ana_screen</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

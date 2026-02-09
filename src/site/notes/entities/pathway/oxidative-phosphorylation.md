@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.774368Z'
+created: '2026-02-09T08:04:41.108250Z'
 description: The mitochondrial process that couples electron transport from NADH and
   FADH2 to oxygen with ATP synthesis. Produces the vast majority (~90%) of cellular
   ATP through chemiosmotic coupling across the inner mitochondrial membrane.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Phosphorylation
 type: pathway
-updated: '2026-02-09T05:54:32.774368Z'
+updated: '2026-02-09T08:04:41.108250Z'
 ---
 
 {% raw %}
@@ -135,23 +135,23 @@ updated: '2026-02-09T05:54:32.774368Z'
 </thead>
 <tbody>
 <tr>
-<td><strong>[[CoQ10]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">CoQ10</a></strong></td>
 <td>Electron carrier between CI/CII and CIII</td>
 </tr>
 <tr>
-<td><strong>[[PQQ]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a></strong></td>
 <td>Supports mitochondrial biogenesis</td>
 </tr>
 <tr>
-<td><strong>[[NMN]]</strong> / <strong>[[Nicotinamide Riboside]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a></strong> / <strong><a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></strong></td>
 <td>NAD+ precursor for Complex I</td>
 </tr>
 <tr>
-<td><strong>[[Alpha Lipoic Acid]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
 <td>Antioxidant, supports NAD+ metabolism</td>
 </tr>
 <tr>
-<td><strong>[[Creatine]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a></strong></td>
 <td>Buffers ATP via phosphocreatine</td>
 </tr>
 </tbody>
@@ -181,113 +181,113 @@ updated: '2026-02-09T05:54:32.774368Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotinamide_Riboside]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CoQ10]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ATP]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotinamide_Riboside]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PQQ]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
 </code></pre>
 <h3>Related To</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>LOCATED_IN::[[Mitochondria]] - Inner membrane<br />
-CONSUMES::[[NADH]] - Primary electron donor<br />
-CONSUMES::[[FADH2]] - Secondary electron donor<br />
-CONSUMES::[[Oxygen]] - Terminal electron acceptor<br />
-PRODUCES::[[ATP]] - Primary product<br />
-PRODUCES::[[Water]] - Reduction product<br />
-PRODUCES::[[NAD+]] - Regenerated for metabolism<br />
-UTILIZES::[[CoQ10]] - Mobile electron carrier<br />
-INCLUDES::[[Electron Transport Chain]] - Electron flow<br />
-INCLUDES::[[ATP Synthase]] - ATP synthesis<br />
-REGULATED_BY::[[ADP]] - Respiratory control<br />
-SUPPORTED_BY::[[NMN]] - NAD+ precursor<br />
-SUPPORTED_BY::[[CoQ10]] - Electron carrier<br />
-CONNECTED_TO::[[Citric Acid Cycle]] - NADH source<br />
-CONNECTED_TO::[[Beta-Oxidation]] - NADH/FADH2 source</p>
+<p>LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Inner membrane<br />
+CONSUMES::<a class="internal-link is-unresolved" href="/404">NADH</a> - Primary electron donor<br />
+CONSUMES::<a class="internal-link is-unresolved" href="/404">FADH2</a> - Secondary electron donor<br />
+CONSUMES::<a class="internal-link is-unresolved" href="/404">Oxygen</a> - Terminal electron acceptor<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">ATP</a> - Primary product<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">Water</a> - Reduction product<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Regenerated for metabolism<br />
+UTILIZES::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Mobile electron carrier<br />
+INCLUDES::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Electron flow<br />
+INCLUDES::<a href="/garden/dev_admin/protein/atp-synthase/" class="internal-link">ATP Synthase</a> - ATP synthesis<br />
+REGULATED_BY::<a class="internal-link is-unresolved" href="/404">ADP</a> - Respiratory control<br />
+SUPPORTED_BY::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> - NAD+ precursor<br />
+SUPPORTED_BY::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Electron carrier<br />
+CONNECTED_TO::<a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a> - NADH source<br />
+CONNECTED_TO::<a href="/garden/dev_admin/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> - NADH/FADH2 source</p>
 <h2>References</h2>
 <ul>
 <li>Mitchell P. Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. Nature. 1961;191:144-8. PMID: 13771349</li>

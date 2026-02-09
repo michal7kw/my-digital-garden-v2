@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.332499Z'
+created: '2026-02-09T08:04:40.558351Z'
 description: B-type Natriuretic Peptide (BNP) test. Neurohormonal biomarker released
   by ventricular cardiomyocytes in response to myocardial wall stress. Used for heart
   failure screening, diagnosis, and monitoring of treatment response.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: bnp
 type: labtest
-updated: '2026-02-09T05:54:32.332499Z'
+updated: '2026-02-09T08:04:40.558351Z'
 ---
 
 {% raw %}
@@ -98,20 +98,20 @@ updated: '2026-02-09T05:54:32.332499Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Heart Failure]]</li>
-<li>[[Dyspnea]]</li>
-<li>[[Cardiomyopathy]]</li>
-<li>[[Pulmonary Hypertension]]</li>
-<li>[[Valvular Heart Disease]]</li>
+<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a href="/garden/dev_admin/phenotype/dyspnea/" class="internal-link">Dyspnea</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cardiomyopathy</a></li>
+<li><a href="/garden/dev_admin/condition/pulmonary-hypertension/" class="internal-link">Pulmonary Hypertension</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Valvular Heart Disease</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[BNP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cardiac biomarker panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

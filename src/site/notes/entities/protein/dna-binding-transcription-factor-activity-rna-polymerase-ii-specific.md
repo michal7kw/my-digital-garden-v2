@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.078152Z'
+created: '2026-02-09T08:04:41.439950Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-02-09T05:54:33.078152Z'
+updated: '2026-02-09T08:04:41.439950Z'
 ---
 
 {% raw %}
@@ -40,74 +40,74 @@ updated: '2026-02-09T05:54:33.078152Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_factor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[nuclear_receptor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nuclear_receptor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
 </code></pre>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[DNA-binding_transcription_factor_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_factor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.119000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[nuclear_receptor_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">nuclear_receptor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.124000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.130000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.135000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.140000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_factor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.145000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.151000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[nuclear_receptor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nuclear_receptor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.157000+00:00'
 source: PrimeKG
@@ -116,74 +116,74 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[DNA-binding_transcription_factor_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_factor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.119000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[nuclear_receptor_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">nuclear_receptor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.124000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.130000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.135000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.140000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_factor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.145000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.151000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[nuclear_receptor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nuclear_receptor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.157000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_factor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[nuclear_receptor_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nuclear_receptor_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
 source: obsidian

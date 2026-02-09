@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.081510Z'
+created: '2026-02-09T08:04:41.443720Z'
 description: Transcriptional regulator involved in differentiation, mitogenesis, and
   synaptic plasticity.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EGR1
 type: protein
-updated: '2026-02-09T05:54:33.081510Z'
+updated: '2026-02-09T08:04:41.443720Z'
 ---
 
 {% raw %}
@@ -29,79 +29,79 @@ updated: '2026-02-09T05:54:33.081510Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[EP300]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ep300/" class="internal-link">EP300</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.559232'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Synaptic_Plasticity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Synaptic_Plasticity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Synaptic_Plasticity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Synaptic_Plasticity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ischemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Ischemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAB2]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NAB2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAB1]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NAB1</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Schizophrenia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Schizophrenia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EP300]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ep300/" class="internal-link">EP300</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGR1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/egr1/" class="internal-link">EGR1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.458474'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CTNNB1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CTNNB1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
@@ -110,19 +110,19 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Synaptic Plasticity]] (pathway) - <em>Long-Term Potentiation</em></li>
-<li>→ [[MAPK Signaling Pathway]] (pathway) - <em>Upstream activator</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/synaptic-plasticity/" class="internal-link">Synaptic Plasticity</a> (pathway) - <em>Long-Term Potentiation</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/mapk-signaling-pathway/" class="internal-link">MAPK Signaling Pathway</a> (pathway) - <em>Upstream activator</em></li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[EP300]] (protein) - <em>Coactivator</em></li>
-<li>→ [[NAB1]] (protein) - <em>Corepressor</em></li>
-<li>→ [[NAB2]] (protein) - <em>Corepressor</em></li>
+<li>→ <a href="/garden/dev_admin/protein/ep300/" class="internal-link">EP300</a> (protein) - <em>Coactivator</em></li>
+<li>→ <a href="/garden/dev_admin/protein/nab1/" class="internal-link">NAB1</a> (protein) - <em>Corepressor</em></li>
+<li>→ <a href="/garden/dev_admin/protein/nab2/" class="internal-link">NAB2</a> (protein) - <em>Corepressor</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Schizophrenia]] (condition) - <em>Downregulated in PFC</em></li>
-<li>→ [[Ischemia]] (condition) - <em>Rapidly induced</em></li>
+<li>→ <a href="/garden/dev_admin/condition/schizophrenia/" class="internal-link">Schizophrenia</a> (condition) - <em>Downregulated in PFC</em></li>
+<li>→ <a href="/garden/dev_admin/condition/ischemia/" class="internal-link">Ischemia</a> (condition) - <em>Rapidly induced</em></li>
 </ul>
 <h2>References</h2>
 <ol>

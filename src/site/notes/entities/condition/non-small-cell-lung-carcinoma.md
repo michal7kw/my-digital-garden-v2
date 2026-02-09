@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.071922Z'
+created: '2026-02-09T08:04:40.269157Z'
 description: The most common type of lung cancer, accounting for about 85% of cases,
   characterized by slower growth and spread compared to small cell lung cancer.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Non-Small Cell Lung Carcinoma
 type: condition
-updated: '2026-02-09T05:54:32.071922Z'
+updated: '2026-02-09T08:04:40.269157Z'
 ---
 
 {% raw %}
@@ -32,27 +32,27 @@ updated: '2026-02-09T05:54:32.071922Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Non-Small_Cell_Lung_Carcinoma]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/non-small-cell-lung-carcinoma/" class="internal-link">Non-Small_Cell_Lung_Carcinoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.131933'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Non-Small_Cell_Lung_Carcinoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/non-small-cell-lung-carcinoma/" class="internal-link">Non-Small_Cell_Lung_Carcinoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.138347'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[EGFR]] - Common mutation target for therapy.<br />
-ASSOCIATED_WITH_GENE::[[ALK]] - Common mutation target.<br />
-ASSOCIATED_WITH_GENE::[[KRAS]]<br />
-CAUSED_BY::[[Tobacco Smoking]]<br />
-CAUSED_BY::[[Radon]]<br />
-AFFECTS_ORGAN::[[Lung]]<br />
-TREATED_BY_DRUG::[[Cisplatin]]<br />
-TREATED_BY_DRUG::[[Pembrolizumab]]</p>
+<p>ASSOCIATED_WITH_GENE::<a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> - Common mutation target for therapy.<br />
+ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">ALK</a> - Common mutation target.<br />
+ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">KRAS</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Tobacco Smoking</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Radon</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Cisplatin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Pembrolizumab</a></p>
 <h2>References</h2>
 <ul>
 <li>National Comprehensive Cancer Network (NCCN). Guidelines for Non-Small Cell Lung Cancer.</li>

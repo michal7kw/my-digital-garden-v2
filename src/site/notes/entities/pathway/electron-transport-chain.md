@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.723328Z'
+created: '2026-02-09T08:04:41.005055Z'
 description: The electron transport chain (ETC) is a series of protein complexes embedded
   in the inner mitochondrial membrane that transfers electrons from NADH and FADH2
   to oxygen, generating the proton gradient used for ATP synthesis. It is the final
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Electron Transport Chain
 type: pathway
-updated: '2026-02-09T05:54:32.723328Z'
+updated: '2026-02-09T08:04:41.005055Z'
 ---
 
 {% raw %}
@@ -46,59 +46,59 @@ updated: '2026-02-09T05:54:32.723328Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[CoQ10]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Coenzyme_Q10]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
 source: obsidian
 </code></pre>
 <h3>Component</h3>
 <ul>
-<li>→ [[Coenzyme_Q10]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
 source: obsidian
 </code></pre>
 <h3>Supported By</h3>
 <ul>
-<li>→ [[CoQ10]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
 source: obsidian
 </code></pre>
 <h3>Affected By</h3>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
 source: obsidian
 </code></pre>
 <h3>Located In</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
 source: obsidian
@@ -106,12 +106,12 @@ source: obsidian
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <ul>
-<li>located_in:: [[Mitochondria]]</li>
+<li>located_in:: <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></li>
 <li>produces:: ATP</li>
 <li>generates:: Reactive Oxygen Species</li>
-<li>affected_by:: [[Nicotine]]</li>
-<li>supported_by:: [[CoQ10]]</li>
-<li>component:: [[Coenzyme_Q10]]</li>
+<li>affected_by:: <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a></li>
+<li>supported_by:: <a class="internal-link is-unresolved" href="/404">CoQ10</a></li>
+<li>component:: <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a></li>
 </ul>
 <h2>References</h2>
 <ul>

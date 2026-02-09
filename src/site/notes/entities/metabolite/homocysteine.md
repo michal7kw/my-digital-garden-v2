@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.550723Z'
+created: '2026-02-09T08:04:40.808869Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Homocysteine
 type: metabolite
-updated: '2026-02-09T05:54:32.550723Z'
+updated: '2026-02-09T08:04:40.808869Z'
 ---
 
 {% raw %}
@@ -45,19 +45,19 @@ updated: '2026-02-09T05:54:32.550723Z'
 <li><strong>Pregnancy:</strong> Associated with neural tube defects and pre-eclampsia.</li>
 </ul>
 <h2>Relationships</h2>
-<p>PRODUCED_FROM::[[Methionine]] - Via SAMe pathway<br />
-CONVERTED_TO::[[Glutathione]] - Via transsulfuration (requires B6)<br />
-CONVERTED_TO::[[Methionine]] - Via remethylation (requires B12/Folate)<br />
-REQUIRES_COFACTOR::[[Vitamin B12]] - For remethylation<br />
-REQUIRES_COFACTOR::[[Folate]] - For remethylation<br />
-REQUIRES_COFACTOR::[[Vitamin B6]] - For transsulfuration<br />
-REQUIRES_COFACTOR::[[Betaine]] - Alternate remethylation donor<br />
-INCREASED_BY::[[MTHFR Gene]] - MTHFR C677T variant impairs folate cycle<br />
-INCREASED_BY::[[Vitamin B12 Deficiency]]<br />
-INCREASED_BY::[[Folate Deficiency]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cardiovascular Disease]] - Independent risk factor<br />
-ASSOCIATED_WITH_CONDITION::[[Alzheimer's Disease]] - Risk factor<br />
-ASSOCIATED_WITH_CONDITION::[[Osteoporosis]]</p>
+<p>PRODUCED_FROM::<a class="internal-link is-unresolved" href="/404">Methionine</a> - Via SAMe pathway<br />
+CONVERTED_TO::<a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> - Via transsulfuration (requires B6)<br />
+CONVERTED_TO::<a class="internal-link is-unresolved" href="/404">Methionine</a> - Via remethylation (requires B12/Folate)<br />
+REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a> - For remethylation<br />
+REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> - For remethylation<br />
+REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a> - For transsulfuration<br />
+REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Betaine</a> - Alternate remethylation donor<br />
+INCREASED_BY::<a class="internal-link is-unresolved" href="/404">MTHFR Gene</a> - MTHFR C677T variant impairs folate cycle<br />
+INCREASED_BY::<a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a><br />
+INCREASED_BY::<a class="internal-link is-unresolved" href="/404">Folate Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Independent risk factor<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Risk factor<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a></p>
 <h2>References</h2>
 <ul>
 <li>Seshadri S, et al. Plasma homocysteine as a risk factor for dementia and Alzheimer's disease. N Engl J Med. 2002;346(7):476-83.</li>

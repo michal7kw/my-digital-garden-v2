@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.045128Z'
+created: '2026-02-09T08:04:41.402774Z'
 description: AMP-activated protein kinase, the master cellular energy sensor that
   responds to decreased ATP/AMP ratio by activating catabolic pathways (fatty acid
   oxidation, autophagy) and inhibiting anabolic pathways (protein synthesis, lipogenesis).
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: AMPK
 type: protein
-updated: '2026-02-09T05:54:33.045128Z'
+updated: '2026-02-09T08:04:41.402774Z'
 ---
 
 {% raw %}
@@ -185,7 +185,7 @@ updated: '2026-02-09T05:54:33.045128Z'
 <td>First-line diabetes drug</td>
 </tr>
 <tr>
-<td><strong>[[Berberine]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
 <td>Similar to metformin</td>
 <td>Natural compound</td>
 </tr>
@@ -243,27 +243,27 @@ updated: '2026-02-09T05:54:33.045128Z'
 </thead>
 <tbody>
 <tr>
-<td><strong>[[Berberine]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
 <td>Potent activator (similar to metformin)</td>
 </tr>
 <tr>
-<td><strong>[[Alpha Lipoic Acid]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
 <td>May activate AMPK</td>
 </tr>
 <tr>
-<td><strong>[[Resveratrol]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
 <td>Indirect via SIRT1, also direct effects</td>
 </tr>
 <tr>
-<td><strong>[[Quercetin]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/quercetin/" class="internal-link">Quercetin</a></strong></td>
 <td>May activate AMPK</td>
 </tr>
 <tr>
-<td><strong>[[EGCG]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">EGCG</a></strong></td>
 <td>Activates AMPK</td>
 </tr>
 <tr>
-<td><strong>[[Curcumin]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a></strong></td>
 <td>May activate AMPK</td>
 </tr>
 </tbody>
@@ -272,131 +272,131 @@ updated: '2026-02-09T05:54:33.045128Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.933138'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Quercetin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/quercetin/" class="internal-link">Quercetin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.794401'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Curcumin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:49.757693'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.583262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.583262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.583262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.583262'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.150744'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGCG]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EGCG</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ATP]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Resveratrol]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Quercetin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/quercetin/" class="internal-link">Quercetin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ACTIVATED_BY::[[AMP]] - Primary energy signal<br />
-ACTIVATED_BY::[[ADP]] - Secondary energy signal<br />
-ACTIVATED_BY::[[Exercise]] - Via AMP rise and Ca²⁺<br />
-ACTIVATED_BY::[[Berberine]] - Pharmacological activator<br />
-ACTIVATED_BY::[[Metformin]] - Via Complex I inhibition<br />
-ACTIVATED_BY::[[Caloric Restriction]] - Fasting state<br />
-PHOSPHORYLATES::[[PGC-1alpha]] - Mitochondrial biogenesis<br />
-PHOSPHORYLATES::[[ACC]] - Inhibits lipogenesis<br />
-INHIBITS::[[mTORC1]] - Protein synthesis suppression<br />
-INHIBITS::[[Gluconeogenesis]] - Acute suppression<br />
-PROMOTES::[[Autophagy]] - Via ULK1<br />
-PROMOTES::[[Fatty Acid Oxidation]] - Via ACC inhibition<br />
-REGULATED_BY::[[LKB1]] - Upstream kinase<br />
-RELATED_TO::[[NAD+]] - Linked to energy status<br />
-RELATED_TO::[[ATP]] - Senses ATP levels<br />
-RELATED_TO::[[Mitochondria]] - Energy metabolism hub</p>
+<p>ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">AMP</a> - Primary energy signal<br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">ADP</a> - Secondary energy signal<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Via AMP rise and Ca²⁺<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - Pharmacological activator<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/drug/metformin/" class="internal-link">Metformin</a> - Via Complex I inhibition<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> - Fasting state<br />
+PHOSPHORYLATES::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> - Mitochondrial biogenesis<br />
+PHOSPHORYLATES::<a class="internal-link is-unresolved" href="/404">ACC</a> - Inhibits lipogenesis<br />
+INHIBITS::<a class="internal-link is-unresolved" href="/404">mTORC1</a> - Protein synthesis suppression<br />
+INHIBITS::<a href="/garden/dev_admin/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a> - Acute suppression<br />
+PROMOTES::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Via ULK1<br />
+PROMOTES::<a class="internal-link is-unresolved" href="/404">Fatty Acid Oxidation</a> - Via ACC inhibition<br />
+REGULATED_BY::<a class="internal-link is-unresolved" href="/404">LKB1</a> - Upstream kinase<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Linked to energy status<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">ATP</a> - Senses ATP levels<br />
+RELATED_TO::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Energy metabolism hub</p>
 <h2>References</h2>
 <ul>
 <li>Hardie DG. AMPK: a key regulator of energy balance in the single cell and the whole organism. Int J Obes. 2008;32 Suppl 4:S7-12. PMID: 18719601</li>

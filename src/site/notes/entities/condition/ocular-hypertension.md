@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.074768Z'
+created: '2026-02-09T08:04:40.271859Z'
 description: Higher than normal pressure inside the eye (intraocular pressure) without
   signs of glaucoma or optic nerve damage.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ocular Hypertension
 type: condition
-updated: '2026-02-09T05:54:32.074768Z'
+updated: '2026-02-09T08:04:40.271859Z'
 ---
 
 {% raw %}
@@ -28,25 +28,25 @@ updated: '2026-02-09T05:54:32.074768Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ocular_Hypertension]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/ocular-hypertension/" class="internal-link">Ocular_Hypertension</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.232118'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ocular_Hypertension]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ocular-hypertension/" class="internal-link">Ocular_Hypertension</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.310971'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_BIOMARKER::[[Intraocular Pressure]]<br />
-INCREASED_RISK_OF::[[Open-Angle Glaucoma]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-TREATED_BY_DRUG::[[Latanoprost]]<br />
-TREATED_BY_DRUG::[[Timolol]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]</p>
+<p>ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Intraocular Pressure</a><br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/open-angle-glaucoma/" class="internal-link">Open-Angle Glaucoma</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Latanoprost</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Timolol</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a></p>
 <h2>References</h2>
 <ul>
 <li>Kass, M. A., et al. (2002). The Ocular Hypertension Treatment Study. Archives of Ophthalmology.</li>

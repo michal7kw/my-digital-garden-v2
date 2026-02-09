@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.339809Z'
+created: '2026-02-09T08:04:40.566629Z'
 description: Tested twice a year Carbon dioxide levels monitor pH and are an indirect
   measure of bicarbonate, a key buffer involved in maintaining the body’s acid-base
   balance. When the body’s acid–base balance is thrown off—called acidosis or alkalosis—carbon
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: carbon_dioxide
 type: labtest
-updated: '2026-02-09T05:54:32.339809Z'
+updated: '2026-02-09T08:04:40.566629Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.339809Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Metabolic Acidosis]]</li>
-<li>[[Metabolic Alkalosis]]</li>
-<li>[[Chronic Lung Disease]]</li>
-<li>[[Kidney Dysfunction]]</li>
-<li>[[Electrolyte Imbalance]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Acidosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Alkalosis</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
+<li><a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,87 +72,87 @@ updated: '2026-02-09T05:54:32.339809Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Metabolic_Acidosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Electrolyte_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Alkalosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Alkalosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Alkalosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Alkalosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Acidosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Electrolyte_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Electrolyte_Imbalance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.525508'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Lung_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Electrolyte_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

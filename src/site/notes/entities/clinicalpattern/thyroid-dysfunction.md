@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.782298Z'
+created: '2026-02-09T08:04:40.031868Z'
 description: Abnormal thyroid function based on TSH and thyroid hormone levels. Can
   manifest as hypothyroidism or hyperthyroidism affecting metabolism and energy.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.782298Z'
+updated: '2026-02-09T08:04:40.031868Z'
 ---
 
 {% raw %}
@@ -41,17 +41,17 @@ Risk Multiplier: 1.5x for metabolic and cardiovascular complications</p>
 </ul>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[TSH]]</li>
-<li>REQUIRES_BIOMARKER::[[Free T4]]</li>
-<li>REQUIRES_BIOMARKER::[[Free T3]]</li>
-<li>INCREASES_RISK_FOR::[[Hypothyroidism]]</li>
-<li>INCREASES_RISK_FOR::[[Hyperthyroidism]]</li>
-<li>INCREASES_RISK_FOR::[[Cardiovascular Disease]]</li>
-<li>AFFECTS_ORGAN::[[Thyroid]]</li>
-<li>AFFECTS_ORGAN::[[Heart]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Selenium]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Zinc]]</li>
-<li>MODULATED_BY_PATHWAY::[[Thyroid Hormone Synthesis]]</li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free T4</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free T3</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Thyroid</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a></li>
+<li>MODULATED_BY_PATHWAY::<a class="internal-link is-unresolved" href="/404">Thyroid Hormone Synthesis</a></li>
 </ul>
 <h2>References</h2>
 <ul>

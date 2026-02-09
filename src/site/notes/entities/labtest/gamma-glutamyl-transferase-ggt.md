@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.374280Z'
+created: '2026-02-09T08:04:40.606327Z'
 description: Gamma-glutamyl transferase (GGT) is an enzyme found in the liver and
   bile ducts that plays a role in processing toxins and medications. Elevated GGT
   levels in the blood can signal stress or damage to the liver or bile ducts, so this
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: gamma_glutamyl_transferase_ggt
 type: labtest
-updated: '2026-02-09T05:54:32.374280Z'
+updated: '2026-02-09T08:04:40.606327Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.374280Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Cholestatic Liver Disease (Primary Biliary Cholangitis, Primary Sclerosing Cholangitis)]]</li>
-<li>[[Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)]]</li>
-<li>[[Alcohol-Related Liver Injury]]</li>
-<li>[[Bile Duct Obstruction (Gallstones, Tumors)]]</li>
-<li>[[Drug-Induced Liver Injury]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Cholestatic Liver Disease (Primary Biliary Cholangitis, Primary Sclerosing Cholangitis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)</a></li>
+<li><a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bile Duct Obstruction (Gallstones, Tumors)</a></li>
+<li><a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,87 +72,87 @@ updated: '2026-02-09T05:54:32.374280Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.246393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.246393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.246393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bile_Duct_Obstruction_Gallstones_Tumors]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Obstruction_Gallstones_Tumors</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.246393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cholestatic_Liver_Disease_Primary_Biliary_Cholangitis_Primary_Sclerosing_Cholangitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cholestatic_Liver_Disease_Primary_Biliary_Cholangitis_Primary_Sclerosing_Cholangitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.246393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cholestatic_Liver_Disease_Primary_Biliary_Cholangitis_Primary_Sclerosing_Cholangitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cholestatic_Liver_Disease_Primary_Biliary_Cholangitis_Primary_Sclerosing_Cholangitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bile_Duct_Obstruction_Gallstones_Tumors]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Obstruction_Gallstones_Tumors</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

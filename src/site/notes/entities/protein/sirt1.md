@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.112447Z'
+created: '2026-02-09T08:04:41.481833Z'
 description: Sirtuin 1, an NAD+-dependent deacetylase that regulates cellular metabolism,
   stress responses, and aging. Key longevity protein that removes acetyl groups from
   histone and non-histone proteins, affecting gene expression and metabolic pathways.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: SIRT1
 type: protein
-updated: '2026-02-09T05:54:33.112447Z'
+updated: '2026-02-09T08:04:41.481833Z'
 ---
 
 {% raw %}
@@ -83,32 +83,32 @@ updated: '2026-02-09T05:54:33.112447Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.523353'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>REQUIRES_COFACTOR::[[NAD+]] - Absolute requirement for catalytic activity<br />
-ACTIVATED_BY::[[Nicotinamide Riboside]] - Via NAD+ elevation<br />
-ACTIVATED_BY::[[Resveratrol]] - Direct allosteric activator<br />
-ACTIVATED_BY::[[Caloric Restriction]] - Elevated NAD+/NADH ratio<br />
-ACTIVATED_BY::[[Exercise]] - Metabolic activation<br />
-ACTIVATED_BY::[[Intermittent Fasting]] - Via NAD+ elevation<br />
-INHIBITED_BY::[[Nicotinamide]] - Product inhibition<br />
-PARTICIPATES_IN_PATHWAY::[[NAD+ Salvage Pathway]] - NAD+ consumer<br />
-ACTIVATES::[[Autophagy]] - Via FOXO deacetylation<br />
-ACTIVATES::[[Mitochondria]] - Via PGC-1α deacetylation<br />
-SUPPRESSES::[[NF-kB Pathway]] - Anti-inflammatory effect<br />
-RELATED_TO::[[SIRT3]] - Mitochondrial sirtuin family member<br />
-ENCODED_BY::[[SIRT1]] - SIRT1 gene</p>
+<p>REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Absolute requirement for catalytic activity<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a> - Via NAD+ elevation<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Direct allosteric activator<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> - Elevated NAD+/NADH ratio<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Metabolic activation<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> - Via NAD+ elevation<br />
+INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Nicotinamide</a> - Product inhibition<br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a> - NAD+ consumer<br />
+ACTIVATES::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Via FOXO deacetylation<br />
+ACTIVATES::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Via PGC-1α deacetylation<br />
+SUPPRESSES::<a href="/garden/dev_admin/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a> - Anti-inflammatory effect<br />
+RELATED_TO::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - Mitochondrial sirtuin family member<br />
+ENCODED_BY::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - SIRT1 gene</p>
 <h2>References</h2>
 <ul>
 <li>Haigis MC, Sinclair DA. Mammalian sirtuins: biological insights and disease relevance. Annu Rev Pathol. 2010;5:253-95. PMID: 20078221</li>

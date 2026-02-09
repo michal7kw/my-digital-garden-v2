@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.548852Z'
+created: '2026-02-09T08:04:40.806837Z'
 description: Comprehensive evaluation of blood clotting function covering both intrinsic
   and extrinsic pathways, fibrinolysis markers, and platelet function. Used for bleeding
   disorder evaluation, pre-surgical assessment, and thrombotic risk.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: coagulation_panel
 type: labtestpanel
-updated: '2026-02-09T05:54:32.548852Z'
+updated: '2026-02-09T08:04:40.806837Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.548852Z'
 </thead>
 <tbody>
 <tr>
-<td>[[prothrombin time pt inr]]</td>
+<td><a href="/garden/dev_admin/labtest/prothrombin-time-pt-inr/" class="internal-link">prothrombin time pt inr</a></td>
 <td>PT/INR</td>
 <td>Evaluate extrinsic clotting pathway; monitor warfarin therapy</td>
 </tr>
 <tr>
-<td>[[partial thromboplastin time ptt]]</td>
+<td><a href="/garden/dev_admin/labtest/partial-thromboplastin-time-ptt/" class="internal-link">partial thromboplastin time ptt</a></td>
 <td>PTT/aPTT</td>
 <td>Evaluate intrinsic clotting pathway; monitor heparin therapy</td>
 </tr>
 <tr>
-<td>[[d-dimer]]</td>
+<td><a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">d-dimer</a></td>
 <td>D-Dimer</td>
 <td>Detect fibrin degradation; screen for VTE and DIC</td>
 </tr>
 <tr>
-<td>[[fibrinogen]]</td>
+<td><a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">fibrinogen</a></td>
 <td>Fibrinogen</td>
 <td>Assess clotting protein levels and acute-phase inflammation</td>
 </tr>
 <tr>
-<td>[[platelet count]]</td>
+<td><a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet count</a></td>
 <td>Platelet Count</td>
 <td>Quantify platelet numbers for primary hemostasis assessment</td>
 </tr>
@@ -73,11 +73,11 @@ updated: '2026-02-09T05:54:32.548852Z'
 <h2>Relationships</h2>
 <h3>Included In</h3>
 <ul>
-<li>[[prothrombin time pt inr]] (labtest)</li>
-<li>[[partial thromboplastin time ptt]] (labtest)</li>
-<li>[[d-dimer]] (labtest)</li>
-<li>[[fibrinogen]] (labtest)</li>
-<li>[[platelet count]] (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/prothrombin-time-pt-inr/" class="internal-link">prothrombin time pt inr</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/partial-thromboplastin-time-ptt/" class="internal-link">partial thromboplastin time ptt</a> (labtest)</li>
+<li><a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">d-dimer</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">fibrinogen</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet count</a> (labtest)</li>
 </ul>
 <hr />
 <p><em>Last Updated: 2026-02-07</em></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.776029Z'
+created: '2026-02-09T08:04:40.025916Z'
 description: Persistent low-grade inflammation indicated by elevated inflammatory
   biomarkers. Associated with accelerated aging and chronic disease.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Inflammation
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.776029Z'
+updated: '2026-02-09T08:04:40.025916Z'
 ---
 
 {% raw %}
@@ -35,17 +35,17 @@ Risk Multiplier: 1.5x for cardiovascular events</p>
 </ul>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[hs-CRP]]</li>
-<li>REQUIRES_BIOMARKER::[[ESR]]</li>
-<li>REQUIRES_BIOMARKER::[[Homocysteine]]</li>
-<li>REQUIRES_BIOMARKER::[[Fibrinogen]]</li>
-<li>INCREASES_RISK_FOR::[[Cardiovascular Disease]]</li>
-<li>INCREASES_RISK_FOR::[[Alzheimer's Disease]]</li>
-<li>INCREASES_RISK_FOR::[[Cancer]]</li>
-<li>MODULATED_BY_PATHWAY::[[NF-kB Pathway]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Fish Oil]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Curcumin]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin D]]</li>
+<li>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/esr/" class="internal-link">ESR</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a></li>
+<li>MODULATED_BY_PATHWAY::<a href="/garden/dev_admin/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Fish Oil</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a></li>
 </ul>
 <h2>References</h2>
 <ul>

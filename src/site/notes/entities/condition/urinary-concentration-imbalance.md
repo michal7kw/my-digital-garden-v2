@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.138509Z'
+created: '2026-02-09T08:04:40.339744Z'
 description: A condition where the kidneys are unable to properly regulate the concentration
   of urine, leading to urine that is either too concentrated (high specific gravity)
   or too dilute (low specific gravity).
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Concentration Imbalance
 type: condition
-updated: '2026-02-09T05:54:32.138509Z'
+updated: '2026-02-09T08:04:40.339744Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[specific_gravity_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/specific-gravity-urine/" class="internal-link">specific_gravity_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,13 +47,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Urinary_Concentration_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:45.422595'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[specific_gravity_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/specific-gravity-urine/" class="internal-link">specific_gravity_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:45.422595'
 source: obsidian
@@ -74,32 +74,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Urinary_Concentration_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.546204'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[specific_gravity_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/specific-gravity-urine/" class="internal-link">specific_gravity_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[specific_gravity_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/specific-gravity-urine/" class="internal-link">specific_gravity_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.546204'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Concentration_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.546204'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[specific_gravity_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/specific-gravity-urine/" class="internal-link">specific_gravity_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.209671Z'
+created: '2026-02-09T08:04:40.421205Z'
 description: The original nootropic drug, a cyclic derivative of GABA. Enhances membrane
   fluidity and modulates neurotransmission. Used in Europe for cognitive disorders;
   not approved in US.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Piracetam
 type: drug
-updated: '2026-02-09T05:54:32.209671Z'
+updated: '2026-02-09T08:04:40.421205Z'
 ---
 
 {% raw %}
@@ -32,20 +32,20 @@ updated: '2026-02-09T05:54:32.209671Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.176232'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <h3>Interactswith</h3>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.956000+00:00'
 source: PrimeKG
@@ -54,20 +54,20 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Interactswith</h3>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:36.956000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:58.088632'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:02.242644'
 source: obsidian

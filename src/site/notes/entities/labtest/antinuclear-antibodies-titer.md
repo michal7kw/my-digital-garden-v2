@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.316378Z'
+created: '2026-02-09T08:04:40.540073Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies (ANA)
   titer measures the concentration of autoantibodies present linked to an autoimmune
   condition. Higher titers can signal more autoimmune activity, but does not confirm
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_titer
 type: labtest
-updated: '2026-02-09T05:54:32.316378Z'
+updated: '2026-02-09T08:04:40.540073Z'
 ---
 
 {% raw %}
@@ -65,33 +65,33 @@ updated: '2026-02-09T05:54:32.316378Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[extended_autoimmunity]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.700050'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.325688'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_autoimmunity]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.220876'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.220876'
 source: obsidian
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_autoimmunity]] (labtestpanel)</li>
-<li>→ [[celiac_gluten_intolerance]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.945284Z'
+created: '2026-02-09T08:04:40.130050Z'
 description: A condition where the flow of bile from the liver stops or slows, leading
   to a buildup of bilirubin and bile salts in the blood.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cholestasis
 type: condition
-updated: '2026-02-09T05:54:31.945284Z'
+updated: '2026-02-09T08:04:40.130050Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cholestasis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cholestasis/" class="internal-link">Cholestasis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:54.258233'
 source: obsidian
@@ -60,7 +60,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cholestasis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cholestasis/" class="internal-link">Cholestasis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.198477'
 source: obsidian

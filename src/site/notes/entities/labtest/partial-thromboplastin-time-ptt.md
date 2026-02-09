@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.473970Z'
+created: '2026-02-09T08:04:40.721950Z'
 description: Activated Partial Thromboplastin Time (aPTT) test. Evaluates the intrinsic
   and common coagulation pathways (Factors XII, XI, IX, VIII, X, V, II, I). Used for
   monitoring unfractionated heparin therapy and screening for coagulation disorders.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: partial_thromboplastin_time_ptt
 type: labtest
-updated: '2026-02-09T05:54:32.473970Z'
+updated: '2026-02-09T08:04:40.721950Z'
 ---
 
 {% raw %}
@@ -98,21 +98,21 @@ updated: '2026-02-09T05:54:32.473970Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Hemophilia A]]</li>
-<li>[[Hemophilia B]]</li>
-<li>[[Von Willebrand Disease]]</li>
-<li>[[Heparin Therapy Monitoring]]</li>
-<li>[[Antiphospholipid Syndrome]]</li>
-<li>[[DIC]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Hemophilia A</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hemophilia B</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Von Willebrand Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Heparin Therapy Monitoring</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Antiphospholipid Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">DIC</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Partial Thromboplastin Time]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/partial-thromboplastin-time/" class="internal-link">Partial Thromboplastin Time</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[coagulation panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

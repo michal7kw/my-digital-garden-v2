@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.115573Z'
+created: '2026-02-09T08:04:40.314364Z'
 description: A broad group of conditions characterized by inflammation and pain in
   the joints, muscles, and connective tissues.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Diseases
 type: condition
-updated: '2026-02-09T05:54:32.115573Z'
+updated: '2026-02-09T08:04:40.314364Z'
 ---
 
 {% raw %}
@@ -35,28 +35,28 @@ updated: '2026-02-09T05:54:32.115573Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Rheumatic_Diseases]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/rheumatic-diseases/" class="internal-link">Rheumatic_Diseases</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.940330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rheumatic_Diseases]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/rheumatic-diseases/" class="internal-link">Rheumatic_Diseases</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:57.288334'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>INCLUDES_CONDITION::[[Knee Osteoarthritis]]<br />
-INCLUDES_CONDITION::[[Gouty Arthritis]]<br />
-INCLUDES_CONDITION::[[Spondyloarthropathy]]<br />
-CAUSED_BY::[[Autoimmune Reaction]]<br />
-AFFECTS_ORGAN::[[Joint]]<br />
-AFFECTS_ORGAN::[[Connective Tissue]]<br />
-TREATED_BY_DRUG::[[Methotrexate]] - DMARD.<br />
-TREATED_BY_DRUG::[[Adalimumab]] - Biologic.<br />
-TREATED_BY_DRUG::[[NSAIDs]]</p>
+<p>INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/knee-osteoarthritis/" class="internal-link">Knee Osteoarthritis</a><br />
+INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/gouty-arthritis/" class="internal-link">Gouty Arthritis</a><br />
+INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/spondyloarthropathy/" class="internal-link">Spondyloarthropathy</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Autoimmune Reaction</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Joint</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Connective Tissue</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Methotrexate</a> - DMARD.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Adalimumab</a> - Biologic.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">NSAIDs</a></p>
 <h2>References</h2>
 <ul>
 <li>American College of Rheumatology. Diseases and Conditions.</li>

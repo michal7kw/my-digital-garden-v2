@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.478838Z'
+created: '2026-02-09T08:04:40.727402Z'
 description: Tested twice a year Potassium is an essential electrolyte that helps
   regulate muscle contractions, nerve signals, and fluid balance. Balanced potassium
   levels are especially important for heart function, kidney health, and overall metabolic
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: potassium
 type: labtest
-updated: '2026-02-09T05:54:32.478838Z'
+updated: '2026-02-09T08:04:40.727402Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.478838Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Kidney Dysfunction]]</li>
-<li>[[Dehydration]]</li>
-<li>[[Metabolic Dysfunction]]</li>
-<li>[[Hormonal Imbalance (E.G., Adrenal Or Thyroid)]]</li>
-<li>[[Medication Effect]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hormonal Imbalance (E.G., Adrenal Or Thyroid)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Medication Effect</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,67 +73,67 @@ updated: '2026-02-09T05:54:32.478838Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.166096'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.166096'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication_Effect]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.166096'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.166096'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance_EG_Adrenal_Or_Thyroid]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_EG_Adrenal_Or_Thyroid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.166096'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance_EG_Adrenal_Or_Thyroid]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_EG_Adrenal_Or_Thyroid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.841990'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.841990'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.841990'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.841990'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication_Effect]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.841990'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.047084Z'
+created: '2026-02-09T08:04:40.240665Z'
 description: Cluster of metabolic abnormalities including central obesity, insulin
   resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular
   disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Metabolic Syndrome
 type: condition
-updated: '2026-02-09T05:54:32.047084Z'
+updated: '2026-02-09T08:04:40.240665Z'
 ---
 
 {% raw %}
@@ -41,512 +41,512 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.227358'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Curcumin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.562067'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Magnesium]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.513950'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.885333'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.404652'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.433786'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_D]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[METFORMIN]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/drug/metformin/" class="internal-link">METFORMIN</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:38.034391'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[METFORMIN]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/metformin/" class="internal-link">METFORMIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[apolipoprotein_b_apob]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein_b_apob</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hdl_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hdl_large]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-large/" class="internal-link">hdl_large</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_medium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-medium/" class="internal-link">ldl_medium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_particle_number]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_pattern]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-pattern/" class="internal-link">ldl_pattern</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_peak_size]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-peak-size/" class="internal-link">ldl_peak_size</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_small]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl_small</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[non_hdl_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/non-hdl-cholesterol/" class="internal-link">non_hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_cholesterol_hdl_ratio]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total_cholesterol_hdl_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[triglycerides]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[dhea_sulfate]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-sulfate/" class="internal-link">dhea_sulfate</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[arachidonic_acid_epa_ratio]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic_acid_epa_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin_microalbumin_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[glucose_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[glucose]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin_a1c_hba1c]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin_a1c_hba1c</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[insulin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">insulin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leptin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[uric_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Triglycerides]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HDL_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Pressure]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Blood_Pressure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAFLD]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Stress_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver_Stress_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreas]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/pancreas/" class="internal-link">Pancreas</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Resveratrol]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.888122'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[apolipoprotein_b_apob]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein_b_apob</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hdl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hdl_large]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hdl-large/" class="internal-link">hdl_large</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_medium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-medium/" class="internal-link">ldl_medium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_particle_number]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_pattern]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-pattern/" class="internal-link">ldl_pattern</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_peak_size]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-peak-size/" class="internal-link">ldl_peak_size</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_small]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl_small</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[non_hdl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/non-hdl-cholesterol/" class="internal-link">non_hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[total_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[total_cholesterol_hdl_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total_cholesterol_hdl_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[triglycerides]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[dhea_sulfate]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/dhea-sulfate/" class="internal-link">dhea_sulfate</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[arachidonic_acid_epa_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic_acid_epa_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[glucose_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[glucose]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin_a1c_hba1c</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[insulin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">insulin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[leptin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -554,102 +554,102 @@ source: function-health
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Triglycerides]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HDL_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Pressure]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Blood_Pressure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:27.192703'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAFLD]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <h3>Precursor To</h3>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
 </code></pre>
 <h3>Related Pattern</h3>
 <ul>
-<li>← [[Liver_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:41.400464'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreas]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/pancreas/" class="internal-link">Pancreas</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
@@ -670,770 +670,770 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Quetiapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Clozapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[triglycerides]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.151970'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[total_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.993626'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[total_cholesterol_hdl_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total_cholesterol_hdl_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.896437'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[non_hdl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/non-hdl-cholesterol/" class="internal-link">non_hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.721942'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[leptin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ldl_small]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl_small</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.657574'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ldl_peak_size]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-peak-size/" class="internal-link">ldl_peak_size</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.569821'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ldl_pattern]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-pattern/" class="internal-link">ldl_pattern</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.480705'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ldl_particle_number]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.401389'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ldl_medium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-medium/" class="internal-link">ldl_medium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.300667'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ldl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.218776'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[insulin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">insulin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.105921'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin_a1c_hba1c</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hdl_large]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hdl-large/" class="internal-link">hdl_large</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.665896'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hdl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[glucose]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[glucose_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.338942'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[dhea_sulfate]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/dhea-sulfate/" class="internal-link">dhea_sulfate</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[arachidonic_acid_epa_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic_acid_epa_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.356432'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[apolipoprotein_b_apob]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein_b_apob</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.100619'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Resveratrol]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Clozapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HDL_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Pressure]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Blood_Pressure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Stress_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver_Stress_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAFLD]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[triglycerides]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[glucose_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hemoglobin_a1c_hba1c]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin_a1c_hba1c</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_cholesterol_hdl_ratio]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total_cholesterol_hdl_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_particle_number]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[apolipoprotein_b_apob]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein_b_apob</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[dhea_sulfate]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-sulfate/" class="internal-link">dhea_sulfate</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[uric_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[non_hdl_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/non-hdl-cholesterol/" class="internal-link">non_hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreas]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/pancreas/" class="internal-link">Pancreas</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[glucose]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_pattern]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-pattern/" class="internal-link">ldl_pattern</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Triglycerides]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin_microalbumin_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[insulin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">insulin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_peak_size]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-peak-size/" class="internal-link">ldl_peak_size</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hdl_large]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-large/" class="internal-link">hdl_large</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hdl_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_small]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl_small</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[arachidonic_acid_epa_ratio]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic_acid_epa_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leptin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl_medium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-medium/" class="internal-link">ldl_medium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[METFORMIN]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/metformin/" class="internal-link">METFORMIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.888122'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pancreas]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/pancreas/" class="internal-link">Pancreas</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.227358'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Curcumin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.562067'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Magnesium]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.513950'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.885333'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.404652'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.433786'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_D]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>→ [[Triglycerides]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HDL_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_Pressure]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Blood_Pressure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>→ [[NAFLD]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <h3>Related Pattern</h3>
 <ul>
-<li>← [[Liver_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.724538'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
 </code></pre>
 <h3>Precursor To</h3>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[dhea_sulfate]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/dhea-sulfate/" class="internal-link">dhea_sulfate</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[leptin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[insulin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">insulin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin_a1c_hba1c</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[glucose]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[glucose_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[arachidonic_acid_epa_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic_acid_epa_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[apolipoprotein_b_apob]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein_b_apob</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hdl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hdl_large]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hdl-large/" class="internal-link">hdl_large</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_medium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-medium/" class="internal-link">ldl_medium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_particle_number]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_pattern]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-pattern/" class="internal-link">ldl_pattern</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_peak_size]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-peak-size/" class="internal-link">ldl_peak_size</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ldl_small]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl_small</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[non_hdl_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/non-hdl-cholesterol/" class="internal-link">non_hdl_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[total_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[total_cholesterol_hdl_ratio]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total_cholesterol_hdl_ratio</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[triglycerides]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.718284Z'
+created: '2026-02-09T08:04:39.966935Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Platelets
 type: biomarker
-updated: '2026-02-09T05:54:31.718284Z'
+updated: '2026-02-09T08:04:39.966935Z'
 ---
 
 {% raw %}
@@ -30,14 +30,14 @@ updated: '2026-02-09T05:54:31.718284Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Platelets]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.419776'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Megakaryopoiesis
@@ -52,7 +52,7 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Platelets]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:24.516868'
 source: obsidian

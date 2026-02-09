@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.513458Z'
+created: '2026-02-09T08:04:40.767388Z'
 description: Tumor Necrosis Factor Alpha (TNF-alpha) test measures this key pro-inflammatory
   cytokine in blood. TNF-alpha is produced primarily by activated macrophages and
   plays a central role in systemic inflammation. It is a therapeutic target in rheumatoid
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: tnf_alpha
 type: labtest
-updated: '2026-02-09T05:54:32.513458Z'
+updated: '2026-02-09T08:04:40.767388Z'
 ---
 
 {% raw %}
@@ -93,21 +93,21 @@ updated: '2026-02-09T05:54:32.513458Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Rheumatoid Arthritis]]</li>
-<li>[[Inflammatory Bowel Disease]]</li>
-<li>[[Psoriasis]]</li>
-<li>[[Ankylosing Spondylitis]]</li>
-<li>[[Sepsis]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a></li>
+<li><a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a></li>
+<li><a href="/garden/dev_admin/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing Spondylitis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Sepsis</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[TNF Alpha]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cytokine panel]] (labtestpanel)</li>
-<li>→ [[advanced inflammation panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cytokine-panel/" class="internal-link">cytokine panel</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

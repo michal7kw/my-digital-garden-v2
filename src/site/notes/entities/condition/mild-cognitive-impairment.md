@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.057138Z'
+created: '2026-02-09T08:04:40.255060Z'
 description: An intermediate stage between normal age-related cognitive decline and
   dementia. Represents increased risk for progression to Alzheimer's disease or other
   dementias, but may remain stable or improve.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mild Cognitive Impairment
 type: condition
-updated: '2026-02-09T05:54:32.057138Z'
+updated: '2026-02-09T08:04:40.255060Z'
 ---
 
 {% raw %}
@@ -55,343 +55,343 @@ updated: '2026-02-09T05:54:32.057138Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Amyloid_PET_Imaging]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.235597'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[FDG-PET]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.865410'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Lumbar_Puncture]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.028418'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MRI_Volumetry]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.199836'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuropsychological_Testing]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.380650'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cognitive_Training]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mediterranean_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sleep_Optimization]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[BDNF]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.191066'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Phospho-Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_p-tau217]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Bacopa_Monnieri]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.750324'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_DHA]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lewy_Body_Dementia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BDNF]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phosphatidylserine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[FDG-PET]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lions_Mane]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/lions-mane/" class="internal-link">Lions_Mane</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lewy_Body_Dementia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacopa_Monnieri]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hippocampal_Volume_MRI]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hippocampal_Volume_MRI</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_PET_Imaging]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hippocampal_Volume_MRI]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hippocampal_Volume_MRI</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacopa_Monnieri]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bacopa_Monnieri</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuropsychological_Testing]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lions_Mane]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/lions-mane/" class="internal-link">Lions_Mane</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:46.716462'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:48.937777'
 source: obsidian
@@ -400,32 +400,32 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Biomarkers for Progression Risk</h3>
 <ul>
-<li>← [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>CSF or PET; indicates amyloid pathology</em></li>
-<li>← [[Phospho-Tau]] (biomarker) - <em>Indicates tau pathology and higher conversion risk</em></li>
-<li>← [[Total Tau]] (biomarker) - <em>Marker of neurodegeneration</em></li>
-<li>← [[Neurofilament Light Chain]] (biomarker) - <em>Predicts faster decline</em></li>
-<li>← [[Hippocampal Volume MRI]] (examination) - <em>Structural neuroimaging</em></li>
-<li>← [[FDG-PET]] (examination) - <em>Metabolic imaging</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>CSF or PET; indicates amyloid pathology</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>Indicates tau pathology and higher conversion risk</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Marker of neurodegeneration</em></li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Predicts faster decline</em></li>
+<li>← <a href="/garden/dev_admin/examination/hippocampal-volume-mri/" class="internal-link">Hippocampal Volume MRI</a> (examination) - <em>Structural neuroimaging</em></li>
+<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination) - <em>Metabolic imaging</em></li>
 </ul>
 <h3>Progression Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Most common progression path</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Alternative progression</em></li>
-<li>→ [[Lewy Body Dementia]] (condition) - <em>Alternative progression</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Most common progression path</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Alternative progression</em></li>
+<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Alternative progression</em></li>
 </ul>
 <h3>Preventive Interventions</h3>
 <ul>
-<li>← [[Cognitive Training]] (intervention) - <em>May slow progression</em></li>
-<li>← [[Exercise]] (intervention) - <em>Cardiovascular and neuroprotective</em></li>
-<li>← [[Mediterranean Diet]] (intervention) - <em>Dietary pattern</em></li>
-<li>← [[Sleep Optimization]] (intervention) - <em>Glymphatic clearance</em></li>
+<li>← <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive Training</a> (intervention) - <em>May slow progression</em></li>
+<li>← <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>Cardiovascular and neuroprotective</em></li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (intervention) - <em>Dietary pattern</em></li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (intervention) - <em>Glymphatic clearance</em></li>
 </ul>
 <h3>Neuroprotective Supplements</h3>
 <ul>
-<li>← [[Omega-3 DHA]] (supplement) - <em>Brain structure support</em></li>
-<li>← [[Bacopa Monnieri]] (supplement) - <em>Memory enhancement</em></li>
-<li>← [[Lion's Mane]] (supplement) - <em>NGF stimulation</em></li>
-<li>← [[Phosphatidylserine]] (supplement) - <em>Membrane support</em></li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement) - <em>Brain structure support</em></li>
+<li>← <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a> (supplement) - <em>Memory enhancement</em></li>
+<li>← <a href="/garden/dev_admin/supplement/lions-mane/" class="internal-link">Lion's Mane</a> (supplement) - <em>NGF stimulation</em></li>
+<li>← <a href="/garden/dev_admin/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a> (supplement) - <em>Membrane support</em></li>
 </ul>
 <h2>References</h2>
 <ol>

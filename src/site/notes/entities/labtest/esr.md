@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.365104Z'
+created: '2026-02-09T08:04:40.595669Z'
 description: Non-specific marker of inflammation. Used in monitoring inflammatory
   conditions.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: esr
 type: labtest
-updated: '2026-02-09T05:54:32.365104Z'
+updated: '2026-02-09T08:04:40.595669Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.365104Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[esr]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/esr/" class="internal-link">esr</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.556580'
 source: obsidian

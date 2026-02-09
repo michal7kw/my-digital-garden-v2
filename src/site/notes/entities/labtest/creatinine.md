@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.354826Z'
+created: '2026-02-09T08:04:40.583872Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-02-09T05:54:32.354826Z'
+updated: '2026-02-09T08:04:40.583872Z'
 ---
 
 {% raw %}
@@ -64,10 +64,10 @@ updated: '2026-02-09T05:54:32.354826Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Kidney Dysfunction]]</li>
-<li>[[Dehydration]]</li>
-<li>[[Muscle Loss]]</li>
-<li>[[Urinary Tract Obstruction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Muscle Loss</a></li>
+<li><a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -75,92 +75,92 @@ updated: '2026-02-09T05:54:32.354826Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Creatinine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscle_Loss]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscle_Loss</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Obstruction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscle_Loss]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscle_Loss</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Creatinine]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Obstruction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[kidney_function_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Urinary_Tract_Obstruction]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.647165'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[kidney_function_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.142270'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Urinary_Tract_Obstruction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

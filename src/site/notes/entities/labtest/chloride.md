@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.343170Z'
+created: '2026-02-09T08:04:40.570439Z'
 description: Tested twice a year Chloride is an electrolyte that partners with sodium
   to maintain fluid balance, blood pressure, and pH stability in the body. It plays
   a role in digestion by forming hydrochloric acid in the stomach and helps nerves
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: chloride
 type: labtest
-updated: '2026-02-09T05:54:32.343170Z'
+updated: '2026-02-09T08:04:40.570439Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.343170Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Dehydration]]</li>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Gastroenteritis]]</li>
-<li>[[Metabolic Acidosis Or Alkalosis]]</li>
-<li>[[Adrenal Disease]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Gastroenteritis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Acidosis Or Alkalosis</a></li>
+<li><a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,87 +73,87 @@ updated: '2026-02-09T05:54:32.343170Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.483206'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Acidosis_Or_Alkalosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis_Or_Alkalosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.483206'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.483206'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.483206'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Acidosis_Or_Alkalosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis_Or_Alkalosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gastroenteritis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gastroenteritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Adrenal_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.791059'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Adrenal_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

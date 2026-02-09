@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.545110Z'
+created: '2026-02-09T08:04:40.802704Z'
 description: Multi-marker panel assessing systemic inflammation through complementary
   pathways. hs-CRP for vascular inflammation, ESR for chronic inflammation, fibrinogen
   for acute phase and clotting risk, and ferritin as both iron store and acute phase
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: advanced_inflammation_panel
 type: labtestpanel
-updated: '2026-02-09T05:54:32.545110Z'
+updated: '2026-02-09T08:04:40.802704Z'
 ---
 
 {% raw %}
@@ -22,7 +22,7 @@ updated: '2026-02-09T05:54:32.545110Z'
 <h2>Overview</h2>
 <p>The Advanced Inflammation Panel provides a multi-dimensional assessment of systemic inflammation by combining four core biomarkers that reflect different inflammatory pathways and time courses. Unlike a single inflammatory marker, this panel captures both acute and chronic inflammatory states, vascular inflammation relevant to cardiovascular risk, and the overlap between inflammation and iron metabolism. When cytokine testing is available, Interleukin-6 and TNF-alpha provide additional upstream mechanistic information.</p>
 <p>High-sensitivity C-reactive protein (hs-CRP) is an acute-phase protein synthesized by the liver in response to IL-6 signaling. At the high-sensitivity assay range, it is the best-validated biomarker for subclinical vascular inflammation and cardiovascular risk stratification, with levels above 3.0 mg/L indicating high cardiovascular risk per AHA/CDC guidelines. Erythrocyte sedimentation rate (ESR) reflects plasma protein changes (particularly fibrinogen and immunoglobulins) that promote red blood cell aggregation, making it a reliable indicator of chronic inflammatory conditions, autoimmune disease activity, and occult infection.</p>
-<p>Fibrinogen serves a dual role as both a clotting factor and an acute-phase reactant. Elevated fibrinogen increases blood viscosity and promotes thrombus formation, making it an independent cardiovascular risk factor. Ferritin, while primarily an iron storage protein, is also a potent acute-phase reactant that can rise dramatically during infection, inflammation, and tissue damage; markedly elevated ferritin is a hallmark of macrophage activation syndrome and hemophagocytic lymphohistiocytosis. When available, [[Interleukin 6]] and [[TNF Alpha]] provide direct measurement of pro-inflammatory cytokines that drive the acute-phase response.</p>
+<p>Fibrinogen serves a dual role as both a clotting factor and an acute-phase reactant. Elevated fibrinogen increases blood viscosity and promotes thrombus formation, making it an independent cardiovascular risk factor. Ferritin, while primarily an iron storage protein, is also a potent acute-phase reactant that can rise dramatically during infection, inflammation, and tissue damage; markedly elevated ferritin is a hallmark of macrophage activation syndrome and hemophagocytic lymphohistiocytosis. When available, <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> and <a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a> provide direct measurement of pro-inflammatory cytokines that drive the acute-phase response.</p>
 <h2>Included Tests</h2>
 <table>
 <thead>
@@ -34,32 +34,32 @@ updated: '2026-02-09T05:54:32.545110Z'
 </thead>
 <tbody>
 <tr>
-<td>[[high sensitivity c reactive protein hs crp]]</td>
+<td><a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a></td>
 <td>hs-CRP</td>
 <td>Vascular inflammation; cardiovascular risk stratification</td>
 </tr>
 <tr>
-<td>[[esr]]</td>
+<td><a href="/garden/dev_admin/labtest/esr/" class="internal-link">esr</a></td>
 <td>ESR</td>
 <td>Chronic inflammation; autoimmune disease activity</td>
 </tr>
 <tr>
-<td>[[fibrinogen]]</td>
+<td><a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">fibrinogen</a></td>
 <td>Fibrinogen</td>
 <td>Acute-phase reactant; thrombotic and cardiovascular risk</td>
 </tr>
 <tr>
-<td>[[ferritin]]</td>
+<td><a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a></td>
 <td>Ferritin</td>
 <td>Iron stores and acute-phase reactant; tissue inflammation</td>
 </tr>
 <tr>
-<td>[[Interleukin 6]]</td>
+<td><a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></td>
 <td>IL-6 (if available)</td>
 <td>Pro-inflammatory cytokine; upstream driver of CRP</td>
 </tr>
 <tr>
-<td>[[TNF Alpha]]</td>
+<td><a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></td>
 <td>TNF-alpha (if available)</td>
 <td>Pro-inflammatory cytokine; systemic inflammation mediator</td>
 </tr>
@@ -79,12 +79,12 @@ updated: '2026-02-09T05:54:32.545110Z'
 <h2>Relationships</h2>
 <h3>Included In</h3>
 <ul>
-<li>[[high sensitivity c reactive protein hs crp]] (labtest)</li>
-<li>[[esr]] (labtest)</li>
-<li>[[fibrinogen]] (labtest)</li>
-<li>[[ferritin]] (labtest)</li>
-<li>[[Interleukin 6]] (biomarker)</li>
-<li>[[TNF Alpha]] (biomarker)</li>
+<li><a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/esr/" class="internal-link">esr</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">fibrinogen</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker)</li>
+<li><a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a> (biomarker)</li>
 </ul>
 <hr />
 <p><em>Last Updated: 2026-02-07</em></p>

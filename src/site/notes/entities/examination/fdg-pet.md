@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.233054Z'
+created: '2026-02-09T08:04:40.446766Z'
 description: Positron emission tomography using fluorodeoxyglucose to measure cerebral
   glucose metabolism. Reveals patterns of hypometabolism characteristic of different
   neurodegenerative diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: FDG-PET
 type: examination
-updated: '2026-02-09T05:54:32.233054Z'
+updated: '2026-02-09T08:04:40.446766Z'
 ---
 
 {% raw %}
@@ -138,23 +138,23 @@ updated: '2026-02-09T05:54:32.233054Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Temporoparietal pattern</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>Frontal pattern</em></li>
-<li>→ [[Lewy Body Dementia]] (condition) - <em>Occipital involvement</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Patchy, multifocal</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Predicts conversion</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Temporoparietal pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Frontal pattern</em></li>
+<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Occipital involvement</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Patchy, multifocal</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts conversion</em></li>
 </ul>
 <h3>Related Imaging</h3>
 <ul>
-<li>→ [[Amyloid PET Imaging]] (examination) - <em>ATN A component</em></li>
-<li>→ [[Tau PET Imaging]] (examination) - <em>ATN T component</em></li>
-<li>→ [[MRI Volumetry]] (examination) - <em>Structural correlate</em></li>
+<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>ATN A component</em></li>
+<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>ATN T component</em></li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Structural correlate</em></li>
 </ul>
 <h3>Brain Regions</h3>
 <ul>
-<li>→ [[Posterior Cingulate Cortex]] (organ) - <em>Early AD involvement</em></li>
-<li>→ [[Precuneus]] (organ) - <em>AD signature region</em></li>
-<li>→ [[Prefrontal Cortex]] (organ) - <em>FTD involvement</em></li>
+<li>→ <a href="/garden/dev_admin/organ/posterior-cingulate-cortex/" class="internal-link">Posterior Cingulate Cortex</a> (organ) - <em>Early AD involvement</em></li>
+<li>→ <a href="/garden/dev_admin/organ/precuneus/" class="internal-link">Precuneus</a> (organ) - <em>AD signature region</em></li>
+<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>FTD involvement</em></li>
 </ul>
 <h2>Advantages and Limitations</h2>
 <h3>Advantages</h3>

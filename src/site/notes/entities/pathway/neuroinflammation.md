@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.756989Z'
+created: '2026-02-09T08:04:41.089426Z'
 description: The innate immune response within the central nervous system, involving
   activation of microglia and astrocytes. Chronic neuroinflammation contributes to
   neurodegeneration in AD, PD, MS, and other diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neuroinflammation
 type: pathway
-updated: '2026-02-09T05:54:32.756989Z'
+updated: '2026-02-09T08:04:41.089426Z'
 ---
 
 {% raw %}
@@ -186,301 +186,301 @@ updated: '2026-02-09T05:54:32.756989Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Curcumin]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:49.757693'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MTBR-tau243]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NF-B_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NF-B_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Complement_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Complement_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Oxidative_Stress]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Phosphorylation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mediterranean_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Exercise]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Parkinsons_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Oxidative_Stress]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.905499'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Huntingtons_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CRP]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CRP</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tau_Phosphorylation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NF-B_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">NF-B_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[IL-6]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">IL-6</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Complement_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Complement_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sleep_Optimization]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MTBR-tau243]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.924796'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[GFAP]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_DHA]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Tau_Phosphorylation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Oxidative_Stress]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GFAP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Curcumin]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
@@ -489,36 +489,36 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Neurodegenerative Diseases</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Chronic microglial activation</em></li>
-<li>→ [[Parkinson's Disease]] (condition) - <em>Substantia nigra inflammation</em></li>
-<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Motor pathway involvement</em></li>
-<li>→ [[Multiple Sclerosis]] (condition) - <em>Central to pathogenesis</em></li>
-<li>→ [[Huntington's Disease]] (condition) - <em>Striatal inflammation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Chronic microglial activation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Substantia nigra inflammation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>Motor pathway involvement</em></li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Central to pathogenesis</em></li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Striatal inflammation</em></li>
 </ul>
 <h3>Upstream Triggers</h3>
 <ul>
-<li>← [[Amyloid Cascade]] (pathway) - <em>Plaque-induced activation</em></li>
-<li>← [[Alpha-Synuclein Aggregation]] (pathway) - <em>Protein aggregates trigger</em></li>
-<li>← [[Tau Phosphorylation]] (pathway) - <em>Tangle-associated inflammation</em></li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Plaque-induced activation</em></li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Protein aggregates trigger</em></li>
+<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>Tangle-associated inflammation</em></li>
 </ul>
 <h3>Related Pathways</h3>
 <ul>
-<li>→ [[Oxidative Stress]] (pathway) - <em>ROS production</em></li>
-<li>→ [[Complement System]] (pathway) - <em>Synaptic pruning</em></li>
-<li>→ [[NF-κB Signaling]] (pathway) - <em>Master inflammatory switch</em></li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a> (pathway) - <em>ROS production</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/complement-system/" class="internal-link">Complement System</a> (pathway) - <em>Synaptic pruning</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/nf-b-signaling/" class="internal-link">NF-κB Signaling</a> (pathway) - <em>Master inflammatory switch</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[CRP]] (biomarker) - <em>Systemic inflammation</em></li>
-<li>→ [[GFAP]] (biomarker) - <em>Astrocyte activation</em></li>
-<li>→ [[IL-6]] (biomarker) - <em>Pro-inflammatory cytokine</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/crp/" class="internal-link">CRP</a> (biomarker) - <em>Systemic inflammation</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte activation</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/il-6/" class="internal-link">IL-6</a> (biomarker) - <em>Pro-inflammatory cytokine</em></li>
 </ul>
 <h3>Anti-Inflammatory Interventions</h3>
 <ul>
-<li>← [[Exercise]] (intervention) - <em>Anti-inflammatory effects</em></li>
-<li>← [[Omega-3 DHA]] (supplement) - <em>Resolution support</em></li>
-<li>← [[Curcumin]] (supplement) - <em>NF-κB inhibition</em></li>
-<li>← [[Mediterranean Diet]] (intervention) - <em>Anti-inflammatory pattern</em></li>
+<li>← <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>Anti-inflammatory effects</em></li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement) - <em>Resolution support</em></li>
+<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement) - <em>NF-κB inhibition</em></li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (intervention) - <em>Anti-inflammatory pattern</em></li>
 </ul>
 <h2>Therapeutic Approaches</h2>
 <h3>Anti-Inflammatory Drugs</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.223773Z'
+created: '2026-02-09T08:04:41.611368Z'
 description: Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic
   properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast
   cell degranulation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Quercetin
 type: supplement
-updated: '2026-02-09T05:54:33.223773Z'
+updated: '2026-02-09T08:04:41.611368Z'
 ---
 
 {% raw %}
@@ -29,50 +29,50 @@ updated: '2026-02-09T05:54:33.223773Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[AMPK]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.794401'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[AMPK]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.671045'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.518911'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Resveratrol]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.518911'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.445715'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.355088'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.834997'
 source: obsidian
@@ -81,38 +81,38 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.834997'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.355088'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:11.744171'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Resveratrol]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:14.820591'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:14.820591'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:15.214418'
 source: obsidian

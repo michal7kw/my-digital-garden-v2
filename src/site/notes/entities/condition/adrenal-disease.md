@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.903504Z'
+created: '2026-02-09T08:04:40.085654Z'
 description: A group of disorders occurring when the adrenal glands produce too much
   or too little of essential hormones, such as cortisol and aldosterone.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Adrenal Disease
 type: condition
-updated: '2026-02-09T05:54:31.903504Z'
+updated: '2026-02-09T08:04:40.085654Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[chloride]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -46,13 +46,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Adrenal_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.180646'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chloride]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.180646'
 source: obsidian
@@ -73,32 +73,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Adrenal_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.791059'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[chloride]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.791059'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chloride]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.791059'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[chloride]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

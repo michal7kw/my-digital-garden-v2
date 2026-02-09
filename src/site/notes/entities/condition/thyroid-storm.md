@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.136413Z'
+created: '2026-02-09T08:04:40.337551Z'
 description: A life-threatening medical emergency characterized by a sudden, extreme
   overproduction of thyroid hormones, leading to a hypermetabolic state.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Storm
 type: condition
-updated: '2026-02-09T05:54:32.136413Z'
+updated: '2026-02-09T08:04:40.337551Z'
 ---
 
 {% raw %}
@@ -35,32 +35,32 @@ updated: '2026-02-09T05:54:32.136413Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Thyroid_Storm]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.735169'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[thyroxine_t4_free]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroxine-t4-free/" class="internal-link">thyroxine_t4_free</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Storm]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:04:00.278308'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroxine_t4_free]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroxine-t4-free/" class="internal-link">thyroxine_t4_free</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.735169'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroxine_t4_free]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroxine-t4-free/" class="internal-link">thyroxine_t4_free</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -68,16 +68,16 @@ source: function-health
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Hyperthyroidism]]<br />
-ASSOCIATED_WITH_CONDITION::[[Graves Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Atrial Fibrillation]]<br />
-AFFECTS_ORGAN::[[Thyroid Gland]]<br />
-AFFECTS_ORGAN::[[Heart]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Free T4]] - Markedly elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[TSH]] - Markedly suppressed.<br />
-TREATED_BY_DRUG::[[Propylthiouracil]]<br />
-TREATED_BY_DRUG::[[Propranolol]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Thyroid Gland</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free T4</a> - Markedly elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> - Markedly suppressed.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Propylthiouracil</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Propranolol</a></p>
 <h2>References</h2>
 <ul>
 <li>Nayak, B., &amp; Burman, K. (2006). Thyrotoxicosis and thyroid storm. Endocrinology and Metabolism Clinics.</li>

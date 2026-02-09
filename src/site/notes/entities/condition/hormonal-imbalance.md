@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.010202Z'
+created: '2026-02-09T08:04:40.200148Z'
 description: A condition where there is too much or too little of one or more hormones
   in the body, which can disrupt many essential processes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hormonal Imbalance
 type: condition
-updated: '2026-02-09T05:54:32.010202Z'
+updated: '2026-02-09T08:04:40.200148Z'
 ---
 
 {% raw %}
@@ -38,35 +38,35 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[follicle_stimulating_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[luteinizing_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[prolactin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/prolactin/" class="internal-link">prolactin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[leptin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -74,37 +74,37 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.439906'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[follicle_stimulating_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.439906'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[luteinizing_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.439906'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[prolactin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/prolactin/" class="internal-link">prolactin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.439906'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.439906'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leptin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.439906'
 source: obsidian
@@ -125,108 +125,108 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[prolactin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/prolactin/" class="internal-link">prolactin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[luteinizing_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.551127'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[leptin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[follicle_stimulating_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[prolactin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/prolactin/" class="internal-link">prolactin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[luteinizing_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hormonal_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[follicle_stimulating_hormone]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leptin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[leptin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leptin/" class="internal-link">leptin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[prolactin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/prolactin/" class="internal-link">prolactin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[luteinizing_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[follicle_stimulating_hormone]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

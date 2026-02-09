@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.781115Z'
+created: '2026-02-09T08:04:40.030852Z'
 description: A cluster of metabolic abnormalities that increase cardiovascular and
   diabetes risk. Requires 3+ of 5 criteria.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Metabolic Syndrome
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.781115Z'
+updated: '2026-02-09T08:04:40.030852Z'
 ---
 
 {% raw %}
@@ -37,19 +37,19 @@ Risk Multiplier: 2.5x for cardiovascular events and diabetes</p>
 </ol>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[Fasting Glucose]]</li>
-<li>REQUIRES_BIOMARKER::[[Triglycerides]]</li>
-<li>REQUIRES_BIOMARKER::[[HDL Cholesterol]]</li>
-<li>REQUIRES_BIOMARKER::[[Blood Pressure]]</li>
-<li>INCREASES_RISK_FOR::[[Type 2 Diabetes]]</li>
-<li>INCREASES_RISK_FOR::[[Cardiovascular Disease]]</li>
-<li>INCREASES_RISK_FOR::[[NAFLD]]</li>
-<li>AFFECTS_ORGAN::[[Heart]]</li>
-<li>AFFECTS_ORGAN::[[Liver]]</li>
-<li>AFFECTS_ORGAN::[[Pancreas]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Berberine]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Omega-3 Fatty Acids]]</li>
-<li>RELATED_PATTERN::[[Insulin Resistance]]</li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a></li>
+<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a></li>
+<li>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></li>
+<li>RELATED_PATTERN::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
 </ul>
 <h2>References</h2>
 <ul>

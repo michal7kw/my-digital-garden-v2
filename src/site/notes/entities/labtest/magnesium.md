@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.436197Z'
+created: '2026-02-09T08:04:40.677958Z'
 description: Magnesium is an essential mineral involved in hundreds of processes in
   the body, including building strong bones, maintaining a steady heart rhythm, supporting
   muscle function, and producing energy. Nearly half of U.S. adults don't get enough
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: magnesium
 type: labtest
-updated: '2026-02-09T05:54:32.436197Z'
+updated: '2026-02-09T08:04:40.677958Z'
 ---
 
 {% raw %}
@@ -63,12 +63,12 @@ updated: '2026-02-09T05:54:32.436197Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Magnesium Deficiency]]</li>
-<li>[[Poor Nutrient Absorption]]</li>
-<li>[[Neuromuscular Dysfunction]]</li>
-<li>[[Mood Or Congition Changes]]</li>
-<li>[[Increased Cardiovascular Risk]]</li>
-<li>[[Poor Sleep Quality]]</li>
+<li><a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Poor Nutrient Absorption</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Neuromuscular Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Mood Or Congition Changes</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Increased Cardiovascular Risk</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Poor Sleep Quality</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -76,110 +76,110 @@ updated: '2026-02-09T05:54:32.436197Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Poor_Sleep_Quality]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Sleep_Quality</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuromuscular_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neuromuscular_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Poor_Nutrient_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Increased_Cardiovascular_Risk]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Increased_Cardiovascular_Risk</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mood_Or_Congition_Changes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mood_Or_Congition_Changes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Increased_Cardiovascular_Risk]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Increased_Cardiovascular_Risk</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mood_Or_Congition_Changes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mood_Or_Congition_Changes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Poor_Sleep_Quality]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Sleep_Quality</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuromuscular_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neuromuscular_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Poor_Nutrient_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.822257'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mthfr_gene]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.174720'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Magnesium_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.188508'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Magnesium_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -187,8 +187,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

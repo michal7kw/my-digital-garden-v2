@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.636328Z'
+created: '2026-02-09T08:04:39.883855Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR
 type: biomarker
-updated: '2026-02-09T05:54:31.636328Z'
+updated: '2026-02-09T08:04:39.883855Z'
 ---
 
 {% raw %}
@@ -32,157 +32,157 @@ updated: '2026-02-09T05:54:31.636328Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[AKT1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.404292'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Glioblastoma]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.447169'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Egfr]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">Egfr</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.969487'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR_Status]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/egfr-status/" class="internal-link">EGFR_Status</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lung_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lung_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gefitinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gefitinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cetuximab]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cetuximab</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EGF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[KRAS]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">KRAS</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TGF-alpha]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">TGF-alpha</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Erlotinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Erlotinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lung_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Lung_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SRC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glioblastoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[AKT1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EGFR_Status]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/egfr-status/" class="internal-link">EGFR_Status</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[UBC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[UBC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.410223'
 source: obsidian

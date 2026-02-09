@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.246653Z'
+created: '2026-02-09T08:04:41.635570Z'
 description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
   for immune function, wound healing, testosterone production, and thyroid function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc
 type: supplement
-updated: '2026-02-09T05:54:33.246653Z'
+updated: '2026-02-09T08:04:41.635570Z'
 ---
 
 {% raw %}
@@ -26,56 +26,56 @@ updated: '2026-02-09T05:54:33.246653Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
-<li>← [[Testosterone]] (hormone)</li>
-<li>← [[Thyroid_Hormones]] (hormone)</li>
-<li>← [[Immune_System]] (organ)</li>
-<li>← [[Skin]] (organ)</li>
-<li>← [[Thyroid]] (organ)</li>
-<li>← [[Copper]] (supplement)</li>
-<li>← [[GABA]] (supplement)</li>
-<li>← [[Iron]] (supplement)</li>
-<li>← [[Magnesium]] (supplement)</li>
-<li>← [[Selenium]] (supplement)</li>
-<li>← [[Vitamin_B6]] (supplement)</li>
-<li>→ [[Skin]] (organ)</li>
-<li>→ [[Thyroid]] (organ)</li>
-<li>→ [[Copper]] (supplement)</li>
-<li>→ [[Iron]] (supplement)</li>
-<li>→ [[Magnesium]] (supplement)</li>
-<li>→ [[Selenium]] (supplement)</li>
-<li>→ [[GABA]] (supplement)</li>
-<li>→ [[Testosterone]] (hormone)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
+<li>← <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
+<li>← <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
+<li>← <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
+<li>← <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
 </ul>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Selenium]] (supplement)</li>
-<li>→ [[Magnesium]] (supplement)</li>
-<li>→ [[Vitamin_B6]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
 </ul>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Immune_System]] (organ)</li>
-<li>→ [[Thyroid]] (organ)</li>
-<li>→ [[Skin]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
 </ul>
 <h3>Modulates Hormone</h3>
 <ul>
-<li>→ [[Testosterone]] (hormone)</li>
-<li>→ [[Thyroid_Hormones]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
 </ul>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>→ [[GABA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <h3>Competes With</h3>
 <ul>
-<li>→ [[Iron]] (supplement)</li>
-<li>→ [[Copper]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement)</li>
 </ul>
 <h3>Affects Biomarker</h3>
 <ul>
-<li>→ [[Tsh]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: modulates
 magnitude: mild

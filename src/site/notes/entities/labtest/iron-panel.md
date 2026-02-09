@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.402933Z'
+created: '2026-02-09T08:04:40.639294Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: iron_panel
 type: labtest
-updated: '2026-02-09T05:54:32.402933Z'
+updated: '2026-02-09T08:04:40.639294Z'
 ---
 
 {% raw %}
@@ -67,10 +67,10 @@ updated: '2026-02-09T05:54:32.402933Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[serum_iron]]</li>
-<li>[[ferritin]]</li>
-<li>[[tibc]]</li>
-<li>[[transferrin_saturation]]</li>
+<li><a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">serum_iron</a></li>
+<li><a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a></li>
+<li><a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">tibc</a></li>
+<li><a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -83,43 +83,43 @@ updated: '2026-02-09T05:54:32.402933Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ferritin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.231051'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Ferritin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[serum_iron]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">serum_iron</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tibc]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">tibc</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[transferrin_saturation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ferritin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ferritin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.046511Z'
+created: '2026-02-09T08:04:40.240022Z'
 description: A natural biological process marking the end of a woman's reproductive
   years, defined as 12 consecutive months without a menstrual period.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Menopause
 type: condition
-updated: '2026-02-09T05:54:32.046511Z'
+updated: '2026-02-09T08:04:40.240022Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Menopause]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/menopause/" class="internal-link">Menopause</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:21.253884'
 source: obsidian
@@ -60,7 +60,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Menopause]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/menopause/" class="internal-link">Menopause</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.472099'
 source: obsidian

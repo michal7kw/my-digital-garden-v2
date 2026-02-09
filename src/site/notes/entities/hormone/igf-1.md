@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.268240Z'
+created: '2026-02-09T08:04:40.485241Z'
 description: Insulin-like Growth Factor 1. An anabolic hormone structurally similar
   to insulin that promotes growth and tissue repair but inhibits longevity pathways
   (mTOR activation).
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: IGF-1
 type: hormone
-updated: '2026-02-09T05:54:32.268240Z'
+updated: '2026-02-09T08:04:40.485241Z'
 ---
 
 {% raw %}
@@ -37,16 +37,16 @@ updated: '2026-02-09T05:54:32.268240Z'
 <li><strong>Longevity:</strong> In almost every model organism (worms, flies, mice), reducing IGF-1 signaling extends lifespan.</li>
 </ul>
 <h2>Relationships</h2>
-<p>PRODUCED_BY::[[Liver]]<br />
-REGULATED_BY::[[Growth Hormone]]<br />
-ACTIVATES::[[mTOR Pathway]] - Strong activator<br />
-ACTIVATES::[[AKT1]]<br />
-INHIBITS::[[FOXO3]] - Prevents stress resistance<br />
-INHIBITS::[[Autophagy]] - Via mTOR<br />
-PROMOTES::[[Muscle Hypertrophy]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cancer]] - High levels correlate with risk<br />
-ASSOCIATED_WITH_CONDITION::[[Sarcopenia]] - Low levels correlate with risk<br />
-ASSOCIATED_WITH_CONDITION::[[Acromegaly]] - Excess GH/IGF-1</p>
+<p>PRODUCED_BY::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+REGULATED_BY::<a class="internal-link is-unresolved" href="/404">Growth Hormone</a><br />
+ACTIVATES::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Strong activator<br />
+ACTIVATES::<a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a><br />
+INHIBITS::<a href="/garden/dev_admin/gene/foxo3/" class="internal-link">FOXO3</a> - Prevents stress resistance<br />
+INHIBITS::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Via mTOR<br />
+PROMOTES::<a class="internal-link is-unresolved" href="/404">Muscle Hypertrophy</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> - High levels correlate with risk<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a> - Low levels correlate with risk<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acromegaly</a> - Excess GH/IGF-1</p>
 <h2>References</h2>
 <ul>
 <li>Kenyon C. The plasticity of aging: insights from long-lived mutants. Cell. 2005.</li>

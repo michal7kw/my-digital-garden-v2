@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.221400Z'
+created: '2026-02-09T08:04:41.608807Z'
 description: Essential phospholipid concentrated in brain cell membranes. Supports
   cognitive function, memory, and stress response. One of few supplements with FDA-qualified
   health claim for cognitive function.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphatidylserine
 type: supplement
-updated: '2026-02-09T05:54:33.221400Z'
+updated: '2026-02-09T08:04:41.608807Z'
 ---
 
 {% raw %}
@@ -29,37 +29,37 @@ updated: '2026-02-09T05:54:33.221400Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bacopa_Monnieri]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bacopa_Monnieri</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_DHA]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Bacopa_Monnieri]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.750324'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian

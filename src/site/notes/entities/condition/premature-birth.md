@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.106167Z'
+created: '2026-02-09T08:04:40.304419Z'
 description: Birth that occurs before the 37th week of pregnancy.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Premature Birth
 type: condition
-updated: '2026-02-09T05:54:32.106167Z'
+updated: '2026-02-09T08:04:40.304419Z'
 ---
 
 {% raw %}
@@ -31,27 +31,27 @@ updated: '2026-02-09T05:54:32.106167Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Premature_Birth]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature_Birth</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.130861'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Premature_Birth]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature_Birth</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:55.766552'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Respiratory Distress Syndrome]]<br />
-ASSOCIATED_WITH_CONDITION::[[Patent Ductus Arteriosus]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cerebral Palsy]]<br />
-ASSOCIATED_WITH_CONDITION::[[Retinopathy of Prematurity]]<br />
-CAUSED_BY::[[Pre-Eclampsia]]<br />
-CAUSED_BY::[[Infection]]<br />
-TREATED_BY_DRUG::[[Corticosteroids]] - Given to mother to mature baby's lungs.<br />
-TREATED_BY_DRUG::[[Magnesium Sulfate]] - Neuroprotection.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Respiratory Distress Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/patent-ductus-arteriosus/" class="internal-link">Patent Ductus Arteriosus</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cerebral Palsy</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/retinopathy-of-prematurity/" class="internal-link">Retinopathy of Prematurity</a><br />
+CAUSED_BY::<a href="/garden/dev_admin/condition/pre-eclampsia/" class="internal-link">Pre-Eclampsia</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Infection</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Corticosteroids</a> - Given to mother to mature baby's lungs.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Magnesium Sulfate</a> - Neuroprotection.</p>
 <h2>References</h2>
 <ul>
 <li>World Health Organization. Preterm birth.</li>

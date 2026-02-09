@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.958395Z'
+created: '2026-02-09T08:04:40.147544Z'
 description: A long-term condition where the kidneys are damaged and gradually lose
   their ability to filter waste and excess fluid from the blood.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Kidney Disease
 type: condition
-updated: '2026-02-09T05:54:31.958395Z'
+updated: '2026-02-09T08:04:40.147544Z'
 ---
 
 {% raw %}
@@ -38,70 +38,70 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[lead]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mercury]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mercury/" class="internal-link">mercury</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[calcium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[methylmalonic_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[chloride]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/" class="internal-link">creatinine_based_estimated_glomerular_filtration_rate_egfr</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -109,80 +109,80 @@ source: function-health
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:40.032727'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lead]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mercury]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mercury/" class="internal-link">mercury</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[calcium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[methylmalonic_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin_microalbumin_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chloride]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/" class="internal-link">creatinine_based_estimated_glomerular_filtration_rate_egfr</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hyaline_casts_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[uric_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:59.540217'
 source: obsidian
@@ -203,216 +203,216 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[methylmalonic_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mercury]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mercury/" class="internal-link">mercury</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[lead]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/" class="internal-link">creatinine_based_estimated_glomerular_filtration_rate_egfr</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.186846'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[chloride]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.345636'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[calcium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.050601'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin_microalbumin_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[methylmalonic_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[calcium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lead]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chloride]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mercury]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mercury/" class="internal-link">mercury</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[uric_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hyaline_casts_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/" class="internal-link">creatinine_based_estimated_glomerular_filtration_rate_egfr</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney_Stress_Pattern</a> (clinicalpattern)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.334944'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[creatinine_based_estimated_glomerular_filtration_rate_egfr]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/" class="internal-link">creatinine_based_estimated_glomerular_filtration_rate_egfr</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[chloride]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin-microalbumin-urine/" class="internal-link">albumin_microalbumin_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-count/" class="internal-link">red_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[methylmalonic_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[calcium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mercury]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mercury/" class="internal-link">mercury</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[lead]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

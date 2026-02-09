@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.358230Z'
+created: '2026-02-09T08:04:40.587829Z'
 description: D-Dimer test. Measures fibrin degradation products in the blood. Primarily
   used to rule out venous thromboembolism (DVT and PE). High negative predictive value
   when combined with clinical probability scoring.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: d_dimer
 type: labtest
-updated: '2026-02-09T05:54:32.358230Z'
+updated: '2026-02-09T08:04:40.587829Z'
 ---
 
 {% raw %}
@@ -98,20 +98,20 @@ updated: '2026-02-09T05:54:32.358230Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Deep Vein Thrombosis]]</li>
-<li>[[Pulmonary Embolism]]</li>
-<li>[[DIC]]</li>
-<li>[[Aortic Dissection]]</li>
-<li>[[Stroke]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Deep Vein Thrombosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pulmonary Embolism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">DIC</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Aortic Dissection</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Stroke</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[D-Dimer]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">D-Dimer</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[coagulation panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

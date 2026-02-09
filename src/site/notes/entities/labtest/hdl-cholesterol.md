@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.382725Z'
+created: '2026-02-09T08:04:40.615942Z'
 description: Tested twice a year Think of the H in HDL as healthy, helpful, heart-supporting
   cholesterol. HDL's primary job is to remove excess cholesterol from the blood and
   transport it to the liver to be eliminated, reducing the risk of cardiovascular
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: hdl_cholesterol
 type: labtest
-updated: '2026-02-09T05:54:32.382725Z'
+updated: '2026-02-09T08:04:40.615942Z'
 ---
 
 {% raw %}
@@ -66,11 +66,11 @@ updated: '2026-02-09T05:54:32.382725Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Cardiovascular Disease]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Atherosclerosis]]</li>
-<li>[[Obesity]]</li>
-<li>[[Insulin Resistance]]</li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Obesity</a></li>
+<li><a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -78,124 +78,124 @@ updated: '2026-02-09T05:54:32.382725Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hdl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.995576'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.995576'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.995576'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.995576'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hdl]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.760722'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Atherosclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Atherosclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Obesity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Obesity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[genetic_heart_risks]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:04.533403'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_heart_metabolic]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.868961'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_heart_metabolic]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.995576'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[genetic_heart_risks]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.995576'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin_Resistance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cardiovascular_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Insulin_Resistance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -203,8 +203,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[genetic_heart_risks]] (labtestpanel)</li>
-<li>→ [[extended_heart_metabolic]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

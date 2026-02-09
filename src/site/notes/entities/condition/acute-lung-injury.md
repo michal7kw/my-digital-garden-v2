@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.899931Z'
+created: '2026-02-09T08:04:40.082003Z'
 description: A serious condition characterized by widespread inflammation in the lungs
   and disruption of the alveolar-capillary barrier, rapidly leading to respiratory
   failure.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Lung Injury
 type: condition
-updated: '2026-02-09T05:54:31.899931Z'
+updated: '2026-02-09T08:04:40.082003Z'
 ---
 
 {% raw %}
@@ -53,25 +53,25 @@ updated: '2026-02-09T05:54:31.899931Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Acute_Lung_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/acute-lung-injury/" class="internal-link">Acute_Lung_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.352335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acute_Lung_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/acute-lung-injury/" class="internal-link">Acute_Lung_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.340449'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Acute Respiratory Distress Syndrome]] - ALI is often considered the precursor or mild form of ARDS.<br />
-CAUSED_BY::[[Pneumonia]]<br />
-CAUSED_BY::[[Sepsis]]<br />
-AFFECTS_ORGAN::[[Lung]]<br />
-INCREASED_RISK_OF::[[Multiple Organ Dysfunction Syndrome]]<br />
-CHARACTERIZED_BY::[[Inflammation]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acute Respiratory Distress Syndrome</a> - ALI is often considered the precursor or mild form of ARDS.<br />
+CAUSED_BY::<a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Multiple Organ Dysfunction Syndrome</a><br />
+CHARACTERIZED_BY::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a></p>
 <h2>References</h2>
 <ul>
 <li>Force, A. D. T., et al. (2012). Acute respiratory distress syndrome: the Berlin Definition. JAMA, 307(23), 2526-2533.</li>

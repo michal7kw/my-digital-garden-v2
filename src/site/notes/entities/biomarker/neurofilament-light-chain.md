@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.693342Z'
+created: '2026-02-09T08:04:39.941040Z'
 description: A neuronal cytoskeletal protein released into CSF and blood upon axonal
   damage. Emerging as a universal biomarker for neurodegeneration across multiple
   diseases including ALS, MS, AD, and Huntington's disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neurofilament Light Chain
 type: biomarker
-updated: '2026-02-09T05:54:31.693342Z'
+updated: '2026-02-09T08:04:39.941040Z'
 ---
 
 {% raw %}
@@ -93,391 +93,391 @@ updated: '2026-02-09T05:54:31.693342Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[NSE]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Phospho-Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Plasma_p-tau217]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[S100B]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Total_Tau]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.683830'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[UCH-L1]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Frontotemporal_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Huntingtons_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.514767'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Parkinsons_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_SAA]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.082636'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[DAT-SPECT]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.395203'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EEG]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.540742'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EMG_and_Nerve_Conduction_Studies]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.705253'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Lumbar_Puncture]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.028418'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MRI_Volumetry]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.199836'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuropsychological_Testing]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.380650'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[GFAP]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MTBR-tau243]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.924796'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_SAA]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EEG]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EMG_and_Nerve_Conduction_Studies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_p-tau217]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NSE]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MRI_Volumetry]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI_Volumetry</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GFAP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Lumbar_Puncture]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Parkinsons_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Sclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SIMOA_Assay]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SIMOA_Assay</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SIMOA_Assay]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">SIMOA_Assay</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MTBR-tau243]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[UCH-L1]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuropsychological_Testing]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DAT-SPECT]] (examination)</li>
+<li>→ <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Huntingtons_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Tau]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[S100B]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:10.294529'
 source: obsidian
@@ -486,25 +486,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Diseases with Elevated NfL</h3>
 <ul>
-<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Strongly elevated (&gt;100 pg/mL)</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition) - <em>Elevated; prognostic</em></li>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Moderately elevated</em></li>
-<li>→ [[Parkinson's Disease]] (condition) - <em>Mildly elevated</em></li>
-<li>→ [[Huntington's Disease]] (condition) - <em>Elevated in premanifest</em></li>
-<li>→ [[Multiple Sclerosis]] (condition) - <em>Elevated during activity</em></li>
-<li>→ [[Traumatic Brain Injury]] (condition) - <em>Acute spike</em></li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>Strongly elevated (&gt;100 pg/mL)</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Elevated; prognostic</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Moderately elevated</em></li>
+<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Mildly elevated</em></li>
+<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Elevated in premanifest</em></li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Elevated during activity</em></li>
+<li>→ <a href="/garden/dev_admin/condition/traumatic-brain-injury/" class="internal-link">Traumatic Brain Injury</a> (condition) - <em>Acute spike</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[Phospho-Tau]] (biomarker) - <em>Complementary AD marker</em></li>
-<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>AD pathology</em></li>
-<li>→ [[GFAP]] (biomarker) - <em>Astrocyte damage marker</em></li>
-<li>→ [[Total Tau]] (biomarker) - <em>General neurodegeneration</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>Complementary AD marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>AD pathology</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte damage marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>General neurodegeneration</em></li>
 </ul>
 <h3>Measurement Methods</h3>
 <ul>
-<li>← [[SIMOA Assay]] (examination) - <em>Ultrasensitive blood test</em></li>
-<li>← [[Lumbar Puncture]] (examination) - <em>CSF collection</em></li>
+<li>← <a href="/garden/dev_admin/examination/simoa-assay/" class="internal-link">SIMOA Assay</a> (examination) - <em>Ultrasensitive blood test</em></li>
+<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar Puncture</a> (examination) - <em>CSF collection</em></li>
 </ul>
 <h2>Clinical Interpretation</h2>
 <h3>When to Order</h3>

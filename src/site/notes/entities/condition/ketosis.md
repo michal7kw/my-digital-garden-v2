@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.030952Z'
+created: '2026-02-09T08:04:40.223354Z'
 description: A metabolic state in which the body uses ketones, produced from the breakdown
   of fats, as its primary energy source instead of glucose.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Ketosis
 type: condition
-updated: '2026-02-09T05:54:32.030952Z'
+updated: '2026-02-09T08:04:40.223354Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ketosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ketosis/" class="internal-link">Ketosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.178262'
 source: obsidian
@@ -60,7 +60,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ketosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ketosis/" class="internal-link">Ketosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.425120'
 source: obsidian

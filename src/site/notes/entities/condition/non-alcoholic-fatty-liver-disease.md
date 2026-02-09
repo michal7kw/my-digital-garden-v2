@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.072881Z'
+created: '2026-02-09T08:04:40.270077Z'
 description: A range of liver conditions affecting people who drink little to no alcohol,
   characterized by too much fat stored in liver cells.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Non-alcoholic Fatty Liver Disease
 type: condition
-updated: '2026-02-09T05:54:32.072881Z'
+updated: '2026-02-09T08:04:40.270077Z'
 ---
 
 {% raw %}
@@ -28,28 +28,28 @@ updated: '2026-02-09T05:54:32.072881Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Non-alcoholic_Fatty_Liver_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-alcoholic_Fatty_Liver_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.085665'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Non-alcoholic_Fatty_Liver_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-alcoholic_Fatty_Liver_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.041127'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_CONDITION::[[Type 2 Diabetes]]<br />
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cirrhosis]] - Potential end stage.<br />
-AFFECTS_ORGAN::[[Liver]]<br />
-IMPROVED_BY_INTERVENTION::[[Weight Loss]]<br />
-IMPROVED_BY_INTERVENTION::[[Low Carbohydrate Diet]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[ALT]] - Liver enzyme often elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[AST]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a> - Potential end stage.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Weight Loss</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Low Carbohydrate Diet</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/alt/" class="internal-link">ALT</a> - Liver enzyme often elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/ast/" class="internal-link">AST</a></p>
 <h2>References</h2>
 <ul>
 <li>Chalasani, N., et al. (2018). The diagnosis and management of nonalcoholic fatty liver disease. Hepatology.</li>

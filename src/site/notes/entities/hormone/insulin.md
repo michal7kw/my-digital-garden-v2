@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.269145Z'
+created: '2026-02-09T08:04:40.486113Z'
 description: Peptide hormone produced by pancreatic beta cells that regulates glucose
   metabolism, enabling cells to absorb glucose from the bloodstream for energy production
   or storage.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: hormone
-updated: '2026-02-09T05:54:32.269145Z'
+updated: '2026-02-09T08:04:40.486113Z'
 ---
 
 {% raw %}
@@ -97,20 +97,20 @@ updated: '2026-02-09T05:54:32.269145Z'
 <li><strong>Omega-3</strong>: Reduces insulin resistance</li>
 </ul>
 <h2>Relationships</h2>
-<p>PRODUCED_BY_ORGAN::[[Pancreas]]<br />
-AFFECTS_ORGAN::[[Liver]]<br />
-AFFECTS_ORGAN::[[Muscle]]<br />
-AFFECTS_ORGAN::[[Adipose Tissue]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-REGULATES::[[Blood Glucose]]<br />
-ANTAGONIST_OF::[[Glucagon]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes]]<br />
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
-MODULATED_BY_SUPPLEMENT::[[Berberine]]<br />
-MODULATED_BY_SUPPLEMENT::[[Magnesium]]<br />
-MODULATED_BY_SUPPLEMENT::[[Alpha Lipoic Acid]]<br />
-AFFECTS_BIOMARKER::[[HbA1c]]<br />
-AFFECTS_BIOMARKER::[[Fasting Glucose]]</p>
+<p>PRODUCED_BY_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Adipose Tissue</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Blood Glucose</a><br />
+ANTAGONIST_OF::<a class="internal-link is-unresolved" href="/404">Glucagon</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></p>
 <h2>References</h2>
 <ul>
 <li>Wilcox G. Insulin and insulin resistance. Clin Biochem Rev. 2005</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.703531Z'
+created: '2026-02-09T08:04:39.951704Z'
 description: Oxidized LDL is low-density lipoprotein cholesterol that has undergone
   oxidative modification, serving as a key driver of atherosclerotic plaque formation
   and a more specific marker of cardiovascular risk than standard LDL cholesterol.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidized LDL
 type: biomarker
-updated: '2026-02-09T05:54:31.703531Z'
+updated: '2026-02-09T08:04:39.951704Z'
 ---
 
 {% raw %}
@@ -63,27 +63,27 @@ updated: '2026-02-09T05:54:31.703531Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Vitamin E]] - Decreases oxLDL as the primary lipid-soluble antioxidant protecting LDL from oxidation (moderate, evidence level 3)</li>
-<li>[[Coenzyme Q10]] - Decreases oxLDL through direct antioxidant protection of LDL particles (mild, evidence level 3)</li>
-<li>[[Vitamin C]] - Decreases oxLDL by regenerating vitamin E and providing aqueous-phase antioxidant protection (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a> - Decreases oxLDL as the primary lipid-soluble antioxidant protecting LDL from oxidation (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Decreases oxLDL through direct antioxidant protection of LDL particles (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases oxLDL by regenerating vitamin E and providing aqueous-phase antioxidant protection (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[oxidized ldl]] - OxLDL ELISA (Mercodia oxLDL assay; measures malondialdehyde-modified LDL)</li>
+<li><a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a> - OxLDL ELISA (Mercodia oxLDL assay; measures malondialdehyde-modified LDL)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Ldl]] (biomarker)</li>
-<li>→ [[Hs Crp]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Ldl]] (biomarker) - Higher total LDL increases the substrate available for oxidation; oxLDL is the biologically active atherogenic fraction</li>
-<li>→ [[Ldl P]] (biomarker) - LDL particle number correlates with oxidation potential; small dense LDL particles are more susceptible to oxidation</li>
-<li>→ [[Apolipoprotein B]] (biomarker) - ApoB-100 is the protein component modified during LDL oxidation; both are atherogenic markers</li>
-<li>→ [[Hs Crp]] (biomarker) - OxLDL promotes vascular inflammation, reflected by elevated CRP</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker) - Higher total LDL increases the substrate available for oxidation; oxLDL is the biologically active atherogenic fraction</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl-p/" class="internal-link">Ldl P</a> (biomarker) - LDL particle number correlates with oxidation potential; small dense LDL particles are more susceptible to oxidation</li>
+<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a> (biomarker) - ApoB-100 is the protein component modified during LDL oxidation; both are atherogenic markers</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - OxLDL promotes vascular inflammation, reflected by elevated CRP</li>
 </ul>
 <h2>References</h2>
 <ul>

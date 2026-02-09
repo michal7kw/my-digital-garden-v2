@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.349352Z'
+created: '2026-02-09T08:04:40.577653Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: copper_serum
 type: labtest
-updated: '2026-02-09T05:54:32.349352Z'
+updated: '2026-02-09T08:04:40.577653Z'
 ---
 
 {% raw %}
@@ -93,22 +93,22 @@ updated: '2026-02-09T05:54:32.349352Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Wilson's Disease]]</li>
-<li>[[Copper Deficiency]]</li>
-<li>[[Menkes Disease]]</li>
-<li>[[Anemia]]</li>
-<li>[[Neutropenia]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Wilson's Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Copper Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Menkes Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Neutropenia</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Copper]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (biomarker)</li>
 </ul>
 <h3>Related Tests</h3>
 <ul>
-<li>→ [[zinc serum]] (labtest) - Copper:zinc ratio assessment</li>
-<li>→ [[iron]] (labtest) - Copper deficiency can cause iron deficiency anemia</li>
-<li>→ [[ferritin]] (labtest) - Iron stores affected by copper status</li>
+<li>→ <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc serum</a> (labtest) - Copper:zinc ratio assessment</li>
+<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a> (labtest) - Copper deficiency can cause iron deficiency anemia</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest) - Iron stores affected by copper status</li>
 </ul>
 <h2>Notes</h2>
 <ul>

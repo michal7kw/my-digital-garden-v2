@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.119833Z'
+created: '2026-02-09T08:04:41.490446Z'
 description: Mitochondrial transcription factor A, essential for mitochondrial DNA
   replication, transcription, and maintenance. A nuclear-encoded protein that packages
   mtDNA into nucleoids and is required for mitochondrial biogenesis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: TFAM
 type: protein
-updated: '2026-02-09T05:54:33.119833Z'
+updated: '2026-02-09T08:04:41.490446Z'
 ---
 
 {% raw %}
@@ -136,23 +136,23 @@ updated: '2026-02-09T05:54:33.119833Z'
 </thead>
 <tbody>
 <tr>
-<td><strong>[[PQQ]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a></strong></td>
 <td>Increases TFAM via PGC-1α</td>
 </tr>
 <tr>
-<td><strong>[[NMN]]</strong> / <strong>[[Nicotinamide Riboside]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a></strong> / <strong><a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></strong></td>
 <td>Indirectly via SIRT1 → PGC-1α</td>
 </tr>
 <tr>
-<td><strong>[[Resveratrol]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
 <td>Via SIRT1 → PGC-1α → TFAM</td>
 </tr>
 <tr>
-<td><strong>[[Berberine]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
 <td>Via AMPK → PGC-1α → TFAM</td>
 </tr>
 <tr>
-<td><strong>[[Alpha Lipoic Acid]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
 <td>May support TFAM pathway</td>
 </tr>
 <tr>
@@ -165,116 +165,116 @@ updated: '2026-02-09T05:54:33.119833Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Resveratrol]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.933138'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[PQQ]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NMN]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:52.527979'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:05.170821'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:05.170821'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotinamide_Riboside]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:05.170821'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Nicotinamide_Riboside]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.490822'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Berberine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.150744'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Resveratrol]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PQQ]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Nicotinamide_Riboside]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Berberine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NMN]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>INDUCED_BY::[[NRF1]] - Primary transcriptional regulator<br />
-INDUCED_BY::[[PGC-1alpha]] - Via NRF1 coactivation<br />
-INDUCED_BY::[[Exercise]] - Via PGC-1α pathway<br />
-REQUIRED_FOR::[[Mitochondrial Biogenesis]] - mtDNA maintenance<br />
-REQUIRED_FOR::[[mtDNA Replication]] - Initiates replication<br />
-REQUIRED_FOR::[[mtDNA Transcription]] - Recruits POLRMT<br />
-LOCATED_IN::[[Mitochondria]] - Matrix, bound to mtDNA<br />
-REGULATES::[[Oxidative Phosphorylation]] - Via mtDNA-encoded genes<br />
-ENCODED_BY::[[TFAM]] - Nuclear gene<br />
-RELATED_TO::[[CoQ10]] - Supports mtDNA-encoded proteins<br />
-RELATED_TO::[[NAD+]] - Upstream signaling (SIRT1)<br />
-PARTNER_OF::[[POLRMT]] - Mitochondrial RNA polymerase<br />
-PARTNER_OF::[[TFB2M]] - Transcription initiation</p>
+<p>INDUCED_BY::<a class="internal-link is-unresolved" href="/404">NRF1</a> - Primary transcriptional regulator<br />
+INDUCED_BY::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> - Via NRF1 coactivation<br />
+INDUCED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Via PGC-1α pathway<br />
+REQUIRED_FOR::<a class="internal-link is-unresolved" href="/404">Mitochondrial Biogenesis</a> - mtDNA maintenance<br />
+REQUIRED_FOR::<a class="internal-link is-unresolved" href="/404">mtDNA Replication</a> - Initiates replication<br />
+REQUIRED_FOR::<a class="internal-link is-unresolved" href="/404">mtDNA Transcription</a> - Recruits POLRMT<br />
+LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Matrix, bound to mtDNA<br />
+REGULATES::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a> - Via mtDNA-encoded genes<br />
+ENCODED_BY::<a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> - Nuclear gene<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Supports mtDNA-encoded proteins<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Upstream signaling (SIRT1)<br />
+PARTNER_OF::<a class="internal-link is-unresolved" href="/404">POLRMT</a> - Mitochondrial RNA polymerase<br />
+PARTNER_OF::<a class="internal-link is-unresolved" href="/404">TFB2M</a> - Transcription initiation</p>
 <h2>References</h2>
 <ul>
 <li>Ekstrand MI, et al. Mitochondrial transcription factor A regulates mtDNA copy number in mammals. Hum Mol Genet. 2004;13(9):935-44. PMID: 15016765</li>

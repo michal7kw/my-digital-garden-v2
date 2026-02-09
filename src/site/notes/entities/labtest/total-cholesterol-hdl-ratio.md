@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.515901Z'
+created: '2026-02-09T08:04:40.770334Z'
 description: toh-tul koh-les-ter-ol / h-d-l ray-shee-oh Tested twice a year The ratio
   shows the balance between harmful cholesterol particles that cause plaque buildup
   in arteries, and protective cholesterol particles that help remove excess cholesterol
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: total_cholesterol_hdl_ratio
 type: labtest
-updated: '2026-02-09T05:54:32.515901Z'
+updated: '2026-02-09T08:04:40.770334Z'
 ---
 
 {% raw %}
@@ -67,10 +67,10 @@ updated: '2026-02-09T05:54:32.515901Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Cardiovascular Disease]]</li>
-<li>[[Atherosclerosis]]</li>
-<li>[[Metabolic Syndrome]]</li>
-<li>[[Hyperlipidemia]]</li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -78,87 +78,87 @@ updated: '2026-02-09T05:54:32.515901Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.559256'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.559256'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperlipidemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.896437'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Atherosclerosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Atherosclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.896437'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.896437'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.896437'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[genetic_heart_risks]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:04.533403'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_heart_metabolic]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.868961'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[genetic_heart_risks]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.559256'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_heart_metabolic]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.559256'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cardiovascular_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -166,8 +166,8 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[genetic_heart_risks]] (labtestpanel)</li>
-<li>→ [[extended_heart_metabolic]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

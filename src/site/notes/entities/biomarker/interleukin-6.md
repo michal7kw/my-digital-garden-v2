@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.670705Z'
+created: '2026-02-09T08:04:39.918184Z'
 description: Interleukin-6 is a pleiotropic pro-inflammatory cytokine and key mediator
   of the acute-phase inflammatory response, produced by T cells, macrophages, and
   endothelial cells.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Interleukin 6
 type: biomarker
-updated: '2026-02-09T05:54:31.670705Z'
+updated: '2026-02-09T08:04:39.918184Z'
 ---
 
 {% raw %}
@@ -63,30 +63,30 @@ updated: '2026-02-09T05:54:31.670705Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Omega-3 Fatty Acids]] - Decreases IL-6 production through resolution of inflammation pathways (moderate, evidence level 3)</li>
-<li>[[Curcumin]] - Decreases IL-6 by inhibiting NF-kB signaling pathway (moderate, evidence level 3)</li>
-<li>[[Vitamin D]] - Decreases IL-6 in vitamin D deficient populations through immunomodulation (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Decreases IL-6 production through resolution of inflammation pathways (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> - Decreases IL-6 by inhibiting NF-kB signaling pathway (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Decreases IL-6 in vitamin D deficient populations through immunomodulation (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[interleukin 6]] - IL-6 immunoassay (ELISA or chemiluminescence)</li>
+<li><a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">interleukin 6</a> - IL-6 immunoassay (ELISA or chemiluminescence)</li>
 </ul>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[advanced inflammation panel]] (labtestpanel) - Includes IL-6 in comprehensive cytokine assessment</li>
+<li><a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a> (labtestpanel) - Includes IL-6 in comprehensive cytokine assessment</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Hs Crp]] (biomarker)</li>
-<li>→ [[Fibrinogen]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Hs Crp]] (biomarker) - IL-6 stimulates hepatic CRP production; IL-6 rises earlier in acute inflammation</li>
-<li>→ [[TNF Alpha]] (biomarker) - Co-regulated pro-inflammatory cytokines; TNF-alpha stimulates IL-6 production</li>
-<li>→ [[Fibrinogen]] (biomarker) - IL-6 drives hepatic fibrinogen synthesis as part of acute-phase response</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - IL-6 stimulates hepatic CRP production; IL-6 rises earlier in acute inflammation</li>
+<li>→ <a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a> (biomarker) - Co-regulated pro-inflammatory cytokines; TNF-alpha stimulates IL-6 production</li>
+<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a> (biomarker) - IL-6 drives hepatic fibrinogen synthesis as part of acute-phase response</li>
 </ul>
 <h2>References</h2>
 <ul>

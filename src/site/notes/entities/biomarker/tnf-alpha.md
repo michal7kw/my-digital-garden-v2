@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.730105Z'
+created: '2026-02-09T08:04:39.978296Z'
 description: Tumor Necrosis Factor Alpha is a pro-inflammatory cytokine produced primarily
   by activated macrophages, playing a central role in systemic inflammation and immune
   cell regulation.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: TNF Alpha
 type: biomarker
-updated: '2026-02-09T05:54:31.730105Z'
+updated: '2026-02-09T08:04:39.978296Z'
 ---
 
 {% raw %}
@@ -63,29 +63,29 @@ updated: '2026-02-09T05:54:31.730105Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Curcumin]] - Decreases TNF-alpha by inhibiting NF-kB and MAPK signaling (moderate, evidence level 3)</li>
-<li>[[Omega-3 Fatty Acids]] - Decreases TNF-alpha production through EPA/DHA-mediated anti-inflammatory pathways (moderate, evidence level 3)</li>
-<li>[[Resveratrol]] - Decreases TNF-alpha in metabolic syndrome through SIRT1 activation and NF-kB suppression (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> - Decreases TNF-alpha by inhibiting NF-kB and MAPK signaling (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Decreases TNF-alpha production through EPA/DHA-mediated anti-inflammatory pathways (moderate, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Decreases TNF-alpha in metabolic syndrome through SIRT1 activation and NF-kB suppression (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[tnf alpha]] - TNF-alpha immunoassay (ELISA or multiplex cytokine panel)</li>
+<li><a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">tnf alpha</a> - TNF-alpha immunoassay (ELISA or multiplex cytokine panel)</li>
 </ul>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[advanced inflammation panel]] (labtestpanel) - Includes TNF-alpha in comprehensive cytokine assessment</li>
+<li><a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a> (labtestpanel) - Includes TNF-alpha in comprehensive cytokine assessment</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Interleukin 6]] (biomarker)</li>
-<li>→ [[Hs Crp]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Interleukin 6]] (biomarker) - TNF-alpha stimulates IL-6 production; both are elevated in systemic inflammation</li>
-<li>→ [[Hs Crp]] (biomarker) - TNF-alpha indirectly elevates CRP through IL-6 stimulation of hepatic CRP synthesis</li>
+<li>→ <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker) - TNF-alpha stimulates IL-6 production; both are elevated in systemic inflammation</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - TNF-alpha indirectly elevates CRP through IL-6 stimulation of hepatic CRP synthesis</li>
 </ul>
 <h2>References</h2>
 <ul>

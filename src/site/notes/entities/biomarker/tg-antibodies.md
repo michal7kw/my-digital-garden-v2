@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.732826Z'
+created: '2026-02-09T08:04:39.980956Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Tg Antibodies
 type: biomarker
-updated: '2026-02-09T05:54:31.732826Z'
+updated: '2026-02-09T08:04:39.980956Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.732826Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Tg_Antibodies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">Tg_Antibodies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.139805'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tg_Antibodies]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">Tg_Antibodies</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.139805'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Tg_Antibodies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">Tg_Antibodies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:26.522838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tg_Antibodies]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">Tg_Antibodies</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:26.522838'
 source: obsidian

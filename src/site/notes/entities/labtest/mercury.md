@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.444029Z'
+created: '2026-02-09T08:04:40.687259Z'
 description: Mercury is a heavy metal that can be toxic in high amounts. Exposure
   most often happens from eating seafood high in methylmercury (tuna, swordfish, and
   shark), from breathing in mercury vapor from broken thermometers or fluorescent
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: mercury
 type: labtest
-updated: '2026-02-09T05:54:32.444029Z'
+updated: '2026-02-09T08:04:40.687259Z'
 ---
 
 {% raw %}
@@ -64,11 +64,11 @@ updated: '2026-02-09T05:54:32.444029Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Peripheral Neuropathy And Neurotoxicity]]</li>
-<li>[[Cognitive Impairment]]</li>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Hypertension And Cardiovascular Dysfunction]]</li>
-<li>[[Immune Dysfunction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Peripheral Neuropathy And Neurotoxicity</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cognitive Impairment</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hypertension And Cardiovascular Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Immune Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -76,110 +76,110 @@ updated: '2026-02-09T05:54:32.444029Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Peripheral_Neuropathy_And_Neurotoxicity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypertension_And_Cardiovascular_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Impairment]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Impairment]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypertension_And_Cardiovascular_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Peripheral_Neuropathy_And_Neurotoxicity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[forever_chemicals_pfas_exposure]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:04.374771'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_heavy_metals]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.172630'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[bisphenol_a_bpa_exposure]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.222515'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[forever_chemicals_pfas_exposure]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bisphenol_a_bpa_exposure]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_heavy_metals]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -187,9 +187,9 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[forever_chemicals_pfas_exposure]] (labtestpanel)</li>
-<li>→ [[extended_heavy_metals]] (labtestpanel)</li>
-<li>→ [[bisphenol_a_bpa_exposure]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

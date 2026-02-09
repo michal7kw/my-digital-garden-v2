@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.632945Z'
+created: '2026-02-09T08:04:39.880656Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Drawing 2026-01-31 16.31.18.excalidraw
 type: biomarker
-updated: '2026-02-09T05:54:31.632945Z'
+updated: '2026-02-09T08:04:39.880656Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-02-09T05:54:31.632945Z'
 <p>note A ^opZYqL90</p>
 <p>note B ^4kwyy2Lh</p>
 <h2>Element Links</h2>
-<p>ruhIj86r: [[Creatine_Kinase]]</p>
+<p>ruhIj86r: <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a></p>
 <p>%%</p>
 <h2>Drawing</h2>
 <pre><code class="language-compressed-json">N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAE4EmjoghH0EDihmbgBtcDBQMBKIEm4IAGUADQBpOAAZAFEAQUTUkshYRAqoLCgO0sxuZ3iADgAWbQB2AFZ+UpgRicT4

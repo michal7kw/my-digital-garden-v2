@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.011569Z'
+created: '2026-02-09T08:04:41.359668Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Strabismus
 type: phenotype
-updated: '2026-02-09T05:54:33.011569Z'
+updated: '2026-02-09T08:04:41.359668Z'
 ---
 
 {% raw %}
@@ -24,394 +24,394 @@ updated: '2026-02-09T05:54:33.011569Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[German_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">German_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[optic_pathway_glioma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chromosome_4q21_deletion_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">chromosome_4q21_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[22q112_deletion_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">22q112_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mobius_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mobius_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pyruvate_dehydrogenase_E2_deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pyruvate_dehydrogenase_E2_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[encephalopathy_due_to_GLUT1_deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">encephalopathy_due_to_GLUT1_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[holoprosencephaly-craniosynostosis_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">holoprosencephaly-craniosynostosis_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[autosomal_recessive_cutis_laxa_type_2_classic_type]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">autosomal_recessive_cutis_laxa_type_2_classic_type</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[congenital_sialidosis_type_2]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">congenital_sialidosis_type_2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[myotonia_fluctuans]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">myotonia_fluctuans</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[1q44_microdeletion_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">1q44_microdeletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[spondylodysplastic_Ehlers-Danlos_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">spondylodysplastic_Ehlers-Danlos_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[microcephalic_primordial_dwarfism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">microcephalic_primordial_dwarfism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[congenital_hydrocephalus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">congenital_hydrocephalus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hypotonia-speech_impairment-severe_cognitive_delay_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hypotonia-speech_impairment-severe_cognitive_delay_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[foveal_hypoplasia-presenile_cataract_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">foveal_hypoplasia-presenile_cataract_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brown_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Brown_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Monocular_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Concomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Incomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Abnormal_conjugate_eye_movement]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:26.104811'
 source: obsidian
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>← [[Abnormal_conjugate_eye_movement]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.507000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Incomitant_strabismus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.525000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Concomitant_strabismus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.563000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Monocular_strabismus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.590000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Concomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.595000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormal_conjugate_eye_movement]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.601000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Monocular_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.607000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Incomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.617000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Presentsphenotype</h3>
 <ul>
-<li>← [[ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.671000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[foveal_hypoplasia-presenile_cataract_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">foveal_hypoplasia-presenile_cataract_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.682000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[hypotonia-speech_impairment-severe_cognitive_delay_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">hypotonia-speech_impairment-severe_cognitive_delay_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.689000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[congenital_hydrocephalus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">congenital_hydrocephalus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.694000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.700000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.707000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.714000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.722000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[microcephalic_primordial_dwarfism]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">microcephalic_primordial_dwarfism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.729000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[spondylodysplastic_Ehlers-Danlos_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">spondylodysplastic_Ehlers-Danlos_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.738000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[myotonia_fluctuans]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">myotonia_fluctuans</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.746000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pyruvate_dehydrogenase_E2_deficiency]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pyruvate_dehydrogenase_E2_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.752000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[autosomal_recessive_cutis_laxa_type_2_classic_type]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">autosomal_recessive_cutis_laxa_type_2_classic_type</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.757000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[optic_pathway_glioma]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.763000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.769000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[22q112_deletion_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">22q112_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.775000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[holoprosencephaly-craniosynostosis_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">holoprosencephaly-craniosynostosis_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.780000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.786000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[congenital_sialidosis_type_2]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">congenital_sialidosis_type_2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.791000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[German_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">German_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.797000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[encephalopathy_due_to_GLUT1_deficiency]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">encephalopathy_due_to_GLUT1_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.803000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Mobius_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Mobius_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.812000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.817000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[1q44_microdeletion_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">1q44_microdeletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.822000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[chromosome_4q21_deletion_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">chromosome_4q21_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.828000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Excludesphenotype</h3>
 <ul>
-<li>← [[Brown_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Brown_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.659000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Brown_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Brown_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.665000+00:00'
 source: PrimeKG
@@ -420,394 +420,394 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Abnormal_conjugate_eye_movement]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Incomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Concomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Monocular_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brown_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Brown_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[foveal_hypoplasia-presenile_cataract_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">foveal_hypoplasia-presenile_cataract_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hypotonia-speech_impairment-severe_cognitive_delay_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hypotonia-speech_impairment-severe_cognitive_delay_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[congenital_hydrocephalus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">congenital_hydrocephalus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[microcephalic_primordial_dwarfism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">microcephalic_primordial_dwarfism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[spondylodysplastic_Ehlers-Danlos_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">spondylodysplastic_Ehlers-Danlos_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[myotonia_fluctuans]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">myotonia_fluctuans</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pyruvate_dehydrogenase_E2_deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pyruvate_dehydrogenase_E2_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[autosomal_recessive_cutis_laxa_type_2_classic_type]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">autosomal_recessive_cutis_laxa_type_2_classic_type</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[optic_pathway_glioma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[22q112_deletion_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">22q112_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[holoprosencephaly-craniosynostosis_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">holoprosencephaly-craniosynostosis_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[congenital_sialidosis_type_2]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">congenital_sialidosis_type_2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[German_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">German_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[encephalopathy_due_to_GLUT1_deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">encephalopathy_due_to_GLUT1_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mobius_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Mobius_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[1q44_microdeletion_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">1q44_microdeletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[chromosome_4q21_deletion_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">chromosome_4q21_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:37.389641'
 source: obsidian
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>← [[Abnormal_conjugate_eye_movement]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.507000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Incomitant_strabismus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.525000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Concomitant_strabismus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.563000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Monocular_strabismus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.590000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Concomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.595000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormal_conjugate_eye_movement]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.601000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Monocular_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.607000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Incomitant_strabismus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.617000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Excludesphenotype</h3>
 <ul>
-<li>← [[Brown_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Brown_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.659000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Brown_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Brown_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.665000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Presentsphenotype</h3>
 <ul>
-<li>← [[ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.671000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[foveal_hypoplasia-presenile_cataract_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">foveal_hypoplasia-presenile_cataract_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.682000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[hypotonia-speech_impairment-severe_cognitive_delay_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">hypotonia-speech_impairment-severe_cognitive_delay_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.689000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[congenital_hydrocephalus]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">congenital_hydrocephalus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.694000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.700000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.707000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.714000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.722000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[microcephalic_primordial_dwarfism]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">microcephalic_primordial_dwarfism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.729000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[spondylodysplastic_Ehlers-Danlos_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">spondylodysplastic_Ehlers-Danlos_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.738000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[myotonia_fluctuans]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">myotonia_fluctuans</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.746000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pyruvate_dehydrogenase_E2_deficiency]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pyruvate_dehydrogenase_E2_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.752000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[autosomal_recessive_cutis_laxa_type_2_classic_type]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">autosomal_recessive_cutis_laxa_type_2_classic_type</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.757000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[optic_pathway_glioma]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.763000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.769000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[22q112_deletion_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">22q112_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.775000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[holoprosencephaly-craniosynostosis_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">holoprosencephaly-craniosynostosis_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.780000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.786000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[congenital_sialidosis_type_2]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">congenital_sialidosis_type_2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.791000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[German_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">German_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.797000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[encephalopathy_due_to_GLUT1_deficiency]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">encephalopathy_due_to_GLUT1_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.803000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Mobius_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Mobius_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.812000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.817000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[1q44_microdeletion_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">1q44_microdeletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.822000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[chromosome_4q21_deletion_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">chromosome_4q21_deletion_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:30.828000+00:00'
 source: PrimeKG

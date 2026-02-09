@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.514540Z'
+created: '2026-02-09T08:04:40.768672Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-02-09T05:54:32.514540Z'
+updated: '2026-02-09T08:04:40.768672Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.514540Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Liver Inflammation (Hepatitis, Cirrhosis)]]</li>
-<li>[[Bile Duct Blockage (Gallstones, Tumors)]]</li>
-<li>[[Hemolytic Anemia]]</li>
-<li>[[Medication-Induced Liver Injury]]</li>
-<li>[[Gilbert’S Syndrome]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Inflammation (Hepatitis, Cirrhosis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bile Duct Blockage (Gallstones, Tumors)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hemolytic Anemia</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Medication-Induced Liver Injury</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Gilbert’S Syndrome</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,61 +72,61 @@ updated: '2026-02-09T05:54:32.514540Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bile_Duct_Blockage_Gallstones_Tumors]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Blockage_Gallstones_Tumors</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication-Induced_Liver_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GilbertS_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemolytic_Anemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hemolytic_Anemia]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bile_Duct_Blockage_Gallstones_Tumors]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Blockage_Gallstones_Tumors</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication-Induced_Liver_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GilbertS_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian

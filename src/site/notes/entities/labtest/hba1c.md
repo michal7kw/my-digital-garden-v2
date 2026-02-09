@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.382008Z'
+created: '2026-02-09T08:04:40.615109Z'
 description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
   monitoring.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: hba1c
 type: labtest
-updated: '2026-02-09T05:54:32.382008Z'
+updated: '2026-02-09T08:04:40.615109Z'
 ---
 
 {% raw %}
@@ -61,13 +61,13 @@ updated: '2026-02-09T05:54:32.382008Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hba1C]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.914575'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hba1C]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.190565'
 source: obsidian

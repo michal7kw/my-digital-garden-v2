@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.097694Z'
+created: '2026-02-09T08:04:40.295715Z'
 description: Inflammation of the pharynx, causing a sore throat.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Pharyngitis
 type: condition
-updated: '2026-02-09T05:54:32.097694Z'
+updated: '2026-02-09T08:04:40.295715Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pharyngitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pharyngitis/" class="internal-link">Pharyngitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:34.853231'
 source: obsidian
@@ -58,7 +58,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pharyngitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pharyngitis/" class="internal-link">Pharyngitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.901420'
 source: obsidian

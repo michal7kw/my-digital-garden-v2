@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.929536Z'
+created: '2026-02-09T08:04:40.111329Z'
 description: A blockage in the bile ducts, which transport bile from the liver and
   gallbladder to the small intestine, commonly caused by gallstones or tumors.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Biliary Obstruction
 type: condition
-updated: '2026-02-09T05:54:31.929536Z'
+updated: '2026-02-09T08:04:40.111329Z'
 ---
 
 {% raw %}
@@ -32,29 +32,29 @@ updated: '2026-02-09T05:54:31.929536Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Biliary_Obstruction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/biliary-obstruction/" class="internal-link">Biliary_Obstruction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.153071'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Biliary_Obstruction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/biliary-obstruction/" class="internal-link">Biliary_Obstruction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:25.849461'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Gallstones]]<br />
-ASSOCIATED_WITH_CONDITION::[[Pancreatic Neoplasms]]<br />
-ASSOCIATED_WITH_CONDITION::[[Liver Disease]]<br />
-AFFECTS_ORGAN::[[Liver]]<br />
-AFFECTS_ORGAN::[[Gallbladder]]<br />
-AFFECTS_ORGAN::[[Bile Duct]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Bilirubin Total]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Alkaline Phosphatase]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[GGT]] - Elevated.<br />
-TREATED_BY_INTERVENTION::[[ERCP]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Gallstones</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pancreatic Neoplasms</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gallbladder</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bile Duct</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Alkaline Phosphatase</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/ggt/" class="internal-link">GGT</a> - Elevated.<br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">ERCP</a></p>
 <h2>References</h2>
 <ul>
 <li>Lazaridis, K. N., &amp; LaRusso, N. F. (2016). Primary Sclerosing Cholangitis. NEJM.</li>

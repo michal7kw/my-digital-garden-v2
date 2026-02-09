@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.919873Z'
+created: '2026-02-09T08:04:40.101412Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Arthralgia
 type: condition
-updated: '2026-02-09T05:54:31.919873Z'
+updated: '2026-02-09T08:04:40.101412Z'
 ---
 
 {% raw %}
@@ -33,7 +33,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Treats</h3>
 <ul>
-<li>← [[INDOMETHACIN]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/indomethacin/" class="internal-link">INDOMETHACIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">created_at: '2025-12-16T18:56:07.994435'
 max_phase: '4.0'
@@ -41,7 +41,7 @@ source: ChEMBL
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>→ [[Pain]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:28.731000+00:00'
 source: PrimeKG

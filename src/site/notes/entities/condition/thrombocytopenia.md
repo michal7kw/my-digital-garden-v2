@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.131687Z'
+created: '2026-02-09T08:04:40.332323Z'
 description: A condition characterized by an abnormally low number of platelets (thrombocytes)
   in the blood, which can lead to excessive bleeding and bruising.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Thrombocytopenia
 type: condition
-updated: '2026-02-09T05:54:32.131687Z'
+updated: '2026-02-09T08:04:40.332323Z'
 ---
 
 {% raw %}
@@ -28,14 +28,14 @@ updated: '2026-02-09T05:54:32.131687Z'
 <li><strong>Sequestration:</strong> Enlarged spleen (Hypersplenism).</li>
 </ul>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Bone Marrow Disorder]]<br />
-ASSOCIATED_WITH_CONDITION::[[Liver Disease]] - Via low thrombopoietin or big spleen.<br />
-ASSOCIATED_WITH_CONDITION::[[HIV Infections]]<br />
-AFFECTS_ORGAN::[[Blood]]<br />
-AFFECTS_ORGAN::[[Spleen]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Platelet Count]] - Key marker.<br />
-TREATED_BY_DRUG::[[Prednisone]] - For immune-mediated.<br />
-TREATED_BY_INTERVENTION::[[Platelet Transfusion]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a> - Via low thrombopoietin or big spleen.<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hiv-infections/" class="internal-link">HIV Infections</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Blood</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spleen</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">Platelet Count</a> - Key marker.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/prednisone/" class="internal-link">Prednisone</a> - For immune-mediated.<br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Platelet Transfusion</a></p>
 <h2>References</h2>
 <ul>
 <li>Gauer, R. L., &amp; Braun, M. M. (2012). Thrombocytopenia. American Family Physician.</li>

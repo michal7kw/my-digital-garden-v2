@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.208117Z'
+created: '2026-02-09T08:04:40.419746Z'
 description: The potassium salt form of Penicillin V, designed for oral administration
   to treat mild to moderate bacterial infections.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Potassium
 type: drug
-updated: '2026-02-09T05:54:32.208117Z'
+updated: '2026-02-09T08:04:40.419746Z'
 ---
 
 {% raw %}
@@ -34,10 +34,10 @@ updated: '2026-02-09T05:54:32.208117Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Tonsillitis]]<br />
-TREATS_CONDITION::[[Scarlet Fever]]<br />
-PREVENTS_CONDITION::[[Rheumatic Fever]]<br />
-DRUG_CONTAINS_COMPOUND::[[Penicillin V]]</p>
+<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Tonsillitis</a><br />
+TREATS_CONDITION::<a href="/garden/dev_admin/condition/scarlet-fever/" class="internal-link">Scarlet Fever</a><br />
+PREVENTS_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
+DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-v/" class="internal-link">Penicillin V</a></p>
 <h2>References</h2>
 <ul>
 <li>Mayo Clinic. Penicillin V (Oral Route).</li>

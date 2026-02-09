@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.092193Z'
+created: '2026-02-09T08:04:40.290018Z'
 description: A congenital heart defect where the ductus arteriosus, a blood vessel
   connecting the pulmonary artery to the aorta, fails to close after birth.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Patent Ductus Arteriosus
 type: condition
-updated: '2026-02-09T05:54:32.092193Z'
+updated: '2026-02-09T08:04:40.290018Z'
 ---
 
 {% raw %}
@@ -33,26 +33,26 @@ updated: '2026-02-09T05:54:32.092193Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Patent_Ductus_Arteriosus]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/patent-ductus-arteriosus/" class="internal-link">Patent_Ductus_Arteriosus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.827468'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Patent_Ductus_Arteriosus]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/patent-ductus-arteriosus/" class="internal-link">Patent_Ductus_Arteriosus</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:53.649758'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::[[Heart]]<br />
-AFFECTS_ORGAN::[[Lung]]<br />
-ASSOCIATED_WITH_CONDITION::[[Premature Birth]]<br />
-ASSOCIATED_WITH_CONDITION::[[Rubella]]<br />
-TREATED_BY_DRUG::[[Indomethacin]] - NSAID used to close PDA in premature infants.<br />
-TREATED_BY_DRUG::[[Ibuprofen]]<br />
-TREATED_BY_INTERVENTION::[[Cardiac Catheterization]]</p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature Birth</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Rubella</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Indomethacin</a> - NSAID used to close PDA in premature infants.<br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cardiac Catheterization</a></p>
 <h2>References</h2>
 <ul>
 <li>Schneider, D. J., &amp; Moore, J. W. (2006). Patent ductus arteriosus. Circulation.</li>

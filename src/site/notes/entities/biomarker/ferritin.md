@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.640056Z'
+created: '2026-02-09T08:04:39.887379Z'
 description: Ferritin is the main iron storage protein. Low levels indicate iron deficiency;
   high levels may indicate iron overload, inflammation, or liver disease.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Ferritin
 type: biomarker
-updated: '2026-02-09T05:54:31.640056Z'
+updated: '2026-02-09T08:04:39.887379Z'
 ---
 
 {% raw %}
@@ -32,88 +32,88 @@ updated: '2026-02-09T05:54:31.640056Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[iron_panel]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/iron-panel/" class="internal-link">iron_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.231051'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ferritin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[iron_panel]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/iron-panel/" class="internal-link">iron_panel</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[iron_panel]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/iron-panel/" class="internal-link">iron_panel</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Fatigue]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ferritin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ferritin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Iron_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Iron Storage
 source: curated
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Iron Storage / Erythropoiesis
@@ -128,26 +128,26 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Ferritin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.116371'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.116371'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Iron_Deficiency_Pattern]] (condition)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Iron_Deficiency_Pattern]] (condition)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
 source: obsidian
@@ -157,11 +157,11 @@ source: obsidian
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[ferritin]] - Direct ferritin measurement</li>
+<li><a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> - Direct ferritin measurement</li>
 </ul>
 <h3>Panel Tests</h3>
 <ul>
-<li>[[iron panel]] - Part of iron studies panel</li>
+<li><a href="/garden/dev_admin/labtest/iron-panel/" class="internal-link">iron panel</a> - Part of iron studies panel</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

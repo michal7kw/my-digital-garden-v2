@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.107986Z'
+created: '2026-02-09T08:04:40.306208Z'
 description: A chronic, progressive disease of the bile ducts characterized by inflammation,
   scarring, and narrowing of the ducts both inside and outside the liver.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Primary Sclerosing Cholangitis
 type: condition
-updated: '2026-02-09T05:54:32.107986Z'
+updated: '2026-02-09T08:04:40.306208Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,13 +47,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Primary_Sclerosing_Cholangitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.655705'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.655705'
 source: obsidian
@@ -74,32 +74,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Primary_Sclerosing_Cholangitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Primary_Sclerosing_Cholangitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

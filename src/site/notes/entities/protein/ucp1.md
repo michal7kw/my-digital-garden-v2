@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.126453Z'
+created: '2026-02-09T08:04:41.497976Z'
 description: Uncoupling Protein 1 (Thermogenin), a mitochondrial transporter found
   in brown adipose tissue that uncouples respiration from ATP synthesis to generate
   heat.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: UCP1
 type: protein
-updated: '2026-02-09T05:54:33.126453Z'
+updated: '2026-02-09T08:04:41.497976Z'
 ---
 
 {% raw %}
@@ -47,14 +47,14 @@ updated: '2026-02-09T05:54:33.126453Z'
 <li><strong>Metabolic Health:</strong> Higher BAT activity is correlated with lower risk of Type 2 Diabetes and Cardiovascular Disease.</li>
 </ul>
 <h2>Relationships</h2>
-<p>LOCATED_IN::[[Mitochondria]] - Specifically Brown Adipose Tissue<br />
-PARTICIPATES_IN_PATHWAY::[[Thermogenesis]]<br />
-UNCOUPLES::[[Electron Transport Chain]] - From ATP synthesis<br />
-ACTIVATED_BY::[[Cold Exposure]]<br />
-ACTIVATED_BY::[[Norepinephrine]]<br />
-ACTIVATED_BY::[[Fatty Acids]]<br />
-ASSOCIATED_WITH_CONDITION::[[Obesity]] - Potential treatment target<br />
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]</p>
+<p>LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Specifically Brown Adipose Tissue<br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Thermogenesis</a><br />
+UNCOUPLES::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - From ATP synthesis<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold Exposure</a><br />
+ACTIVATED_BY::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Fatty Acids</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a> - Potential treatment target<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h2>References</h2>
 <ul>
 <li>Cannon B, Nedergaard J. Brown adipose tissue: function and physiological significance. Physiol Rev. 2004.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.243133Z'
+created: '2026-02-09T08:04:41.631790Z'
 description: Fat-soluble secosteroid hormone critical for calcium absorption, bone
   health, immune function, and numerous other physiological processes. Synthesized
   in skin upon sun exposure or obtained through supplementation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D
 type: supplement
-updated: '2026-02-09T05:54:33.243133Z'
+updated: '2026-02-09T08:04:41.631790Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-02-09T05:54:33.243133Z'
 <h2>Relationships</h2>
 <h3>Has Biomarker</h3>
 <ul>
-<li>← [[biomarker_log]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">biomarker_log</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">date_recorded: '2025-08-20'
 isPersonal: true
@@ -40,34 +40,34 @@ value: '45'
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Bones]] (organ)</li>
-<li>→ [[Skin]] (organ)</li>
-<li>→ [[Immune_System]] (organ)</li>
-<li>→ [[Muscles]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a> (organ)</li>
 </ul>
 <h3>Modulates Hormone</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
-<li>→ [[Thyroid_Hormones]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
 </ul>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <h3>Requires Cofactor</h3>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Vitamin_K2]] (supplement)</li>
-<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <h3>Affects Biomarker</h3>
 <ul>
-<li>→ [[Hs Crp]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
@@ -76,12 +76,12 @@ source: curated
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
-<li>→ [[Muscles]] (organ)</li>
-<li>→ [[Skin]] (organ)</li>
-<li>→ [[Bones]] (organ)</li>
-<li>→ [[Magnesium]] (supplement)</li>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 
 {% endraw %}

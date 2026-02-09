@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.260115Z'
+created: '2026-02-09T08:04:40.476720Z'
 description: Encodes the transcription factor FOXO3, a key "longevity gene" regulating
   stress resistance, autophagy, and apoptosis. Strongly associated with human centenarians.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: FOXO3
 type: gene
-updated: '2026-02-09T05:54:32.260115Z'
+updated: '2026-02-09T08:04:40.476720Z'
 ---
 
 {% raw %}
@@ -38,17 +38,17 @@ updated: '2026-02-09T05:54:32.260115Z'
 <li><strong>Low Insulin/Fasting:</strong> AKT is inactive. FOXO3 enters the nucleus to drive stress resistance genes.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ENCODES::[[FOXO3 Protein]]<br />
-REGULATES::[[Autophagy]]<br />
-REGULATES::[[Antioxidant Defense]]<br />
-REGULATES::[[Longevity]]<br />
-INHIBITED_BY::[[AKT1]] - Phosphorylation excludes it from nucleus<br />
-INHIBITED_BY::[[Insulin Signaling]]<br />
-ACTIVATED_BY::[[AMPK]] - Enhances transcriptional activity<br />
-ACTIVATED_BY::[[SIRT1]] - Deacetylation enhances function<br />
-ACTIVATED_BY::[[Fasting]]<br />
-TARGETS::[[SOD2]] - Antioxidant gene<br />
-TARGETS::[[Bim]] - Pro-apoptotic gene</p>
+<p>ENCODES::<a class="internal-link is-unresolved" href="/404">FOXO3 Protein</a><br />
+REGULATES::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a><br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Antioxidant Defense</a><br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Longevity</a><br />
+INHIBITED_BY::<a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> - Phosphorylation excludes it from nucleus<br />
+INHIBITED_BY::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a><br />
+ACTIVATED_BY::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Enhances transcriptional activity<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Deacetylation enhances function<br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Fasting</a><br />
+TARGETS::<a class="internal-link is-unresolved" href="/404">SOD2</a> - Antioxidant gene<br />
+TARGETS::<a class="internal-link is-unresolved" href="/404">Bim</a> - Pro-apoptotic gene</p>
 <h2>References</h2>
 <ul>
 <li>Willcox BJ, et al. FOXO3A genotype is strongly associated with human longevity. PNAS. 2008.</li>

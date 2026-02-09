@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.350465Z'
+created: '2026-02-09T08:04:40.578834Z'
 description: Cellular antioxidant important for energy production. Often depleted
   by statins.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: coq10_blood
 type: labtest
-updated: '2026-02-09T05:54:32.350465Z'
+updated: '2026-02-09T08:04:40.578834Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.350465Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[coq10]]</li>
+<li><a class="internal-link is-unresolved" href="/404">coq10</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-02-09T05:54:32.350465Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[coq10]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">coq10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.993131'
 source: obsidian

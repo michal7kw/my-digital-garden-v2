@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.586664Z'
+created: '2026-02-09T08:04:39.836775Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Alt
 type: biomarker
-updated: '2026-02-09T05:54:31.586664Z'
+updated: '2026-02-09T08:04:39.836775Z'
 ---
 
 {% raw %}
@@ -30,14 +30,14 @@ updated: '2026-02-09T05:54:31.586664Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alt]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alt/" class="internal-link">Alt</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.628494'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Hepatocyte Integrity

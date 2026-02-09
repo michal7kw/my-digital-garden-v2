@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.506390Z'
+created: '2026-02-09T08:04:40.759053Z'
 description: TSH and Free T4. Standard initial thyroid assessment.
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_panel_basic
 type: labtest
-updated: '2026-02-09T05:54:32.506390Z'
+updated: '2026-02-09T08:04:40.759053Z'
 ---
 
 {% raw %}
@@ -53,8 +53,8 @@ updated: '2026-02-09T05:54:32.506390Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[tsh]]</li>
-<li>[[free_t4]]</li>
+<li><a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a></li>
+<li><a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,19 +67,19 @@ updated: '2026-02-09T05:54:32.506390Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[free_t4]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.286859'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[tsh]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tsh]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.286859'
 source: obsidian

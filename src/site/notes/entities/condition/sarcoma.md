@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.117378Z'
+created: '2026-02-09T08:04:40.316552Z'
 description: A broad group of cancers that begin in the bones and soft tissues (muscle,
   fat, blood vessels, nerves, tendons, and lining of joints).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcoma
 type: condition
-updated: '2026-02-09T05:54:32.117378Z'
+updated: '2026-02-09T08:04:40.316552Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sarcoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sarcoma/" class="internal-link">Sarcoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.142684'
 source: obsidian
@@ -60,7 +60,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sarcoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sarcoma/" class="internal-link">Sarcoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.130561'
 source: obsidian

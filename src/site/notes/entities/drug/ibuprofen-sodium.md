@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.187308Z'
+created: '2026-02-09T08:04:40.396240Z'
 description: A sodium salt form of ibuprofen designed for faster absorption and more
   rapid onset of pain relief.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen Sodium
 type: drug
-updated: '2026-02-09T05:54:32.187308Z'
+updated: '2026-02-09T08:04:40.396240Z'
 ---
 
 {% raw %}
@@ -34,12 +34,12 @@ updated: '2026-02-09T05:54:32.187308Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Pain]]<br />
-TREATS_CONDITION::[[Fever]]<br />
-ASSOCIATED_WITH_CONDITION::[[Inflammation]]<br />
-INHIBITS_PROTEIN::[[COX-1]]<br />
-INHIBITS_PROTEIN::[[COX-2]]<br />
-DRUG_CONTAINS_COMPOUND::[[Ibuprofen]]</p>
+<p>TREATS_CONDITION::<a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a><br />
+TREATS_CONDITION::<a href="/garden/dev_admin/phenotype/fever/" class="internal-link">Fever</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">COX-1</a><br />
+INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">COX-2</a><br />
+DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a></p>
 <h2>References</h2>
 <ul>
 <li>Moore, R. A., et al. (2014). Faster, higher, stronger? Evidence for formulations of ibuprofen.</li>

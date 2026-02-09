@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.585467Z'
+created: '2026-02-09T08:04:39.835490Z'
 description: Adiponectin is an anti-inflammatory adipokine hormone produced by adipose
   tissue that enhances insulin sensitivity and has cardioprotective effects. Low levels
   are associated with obesity, metabolic syndrome, and increased cardiovascular risk.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Adiponectin
 type: biomarker
-updated: '2026-02-09T05:54:31.585467Z'
+updated: '2026-02-09T08:04:39.835490Z'
 ---
 
 {% raw %}
@@ -73,23 +73,23 @@ updated: '2026-02-09T05:54:31.585467Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Omega-3 Fatty Acids]] - Increases adiponectin in metabolic syndrome patients (mild, evidence level 3)</li>
-<li>[[Berberine]] - Increases adiponectin via AMPK activation and improved insulin sensitivity (mild, evidence level 3)</li>
-<li>[[Resveratrol]] - Increases adiponectin in overweight/obese individuals (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Increases adiponectin in metabolic syndrome patients (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - Increases adiponectin via AMPK activation and improved insulin sensitivity (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Increases adiponectin in overweight/obese individuals (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[adiponectin]] - Total adiponectin measurement</li>
-<li>[[hmw adiponectin]] - High-molecular-weight adiponectin (most active form)</li>
+<li><a href="/garden/dev_admin/labtest/adiponectin/" class="internal-link">adiponectin</a> - Total adiponectin measurement</li>
+<li><a class="internal-link is-unresolved" href="/404">hmw adiponectin</a> - High-molecular-weight adiponectin (most active form)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker) - Inversely correlated; adiponectin enhances insulin sensitivity</li>
-<li>→ [[Homa Ir]] (biomarker) - Inversely correlated; low adiponectin predicts insulin resistance</li>
-<li>→ [[Triglycerides]] (biomarker) - Inversely correlated; adiponectin promotes triglyceride clearance</li>
-<li>→ [[Hdl]] (biomarker) - Positively correlated; adiponectin promotes HDL production</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker) - Inversely correlated; adiponectin enhances insulin sensitivity</li>
+<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa Ir</a> (biomarker) - Inversely correlated; low adiponectin predicts insulin resistance</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker) - Inversely correlated; adiponectin promotes triglyceride clearance</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker) - Positively correlated; adiponectin promotes HDL production</li>
 </ul>
 <h2>References</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.257090Z'
+created: '2026-02-09T08:04:40.473545Z'
 description: Encodes Early Growth Response 1, a zinc finger transcription factor activated
   by growth factors, stress, and neuronal activity.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EGR1
 type: gene
-updated: '2026-02-09T05:54:32.257090Z'
+updated: '2026-02-09T08:04:40.473545Z'
 ---
 
 {% raw %}
@@ -31,7 +31,7 @@ updated: '2026-02-09T05:54:32.257090Z'
 </ol>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[EGR1]] (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/protein/egr1/" class="internal-link">EGR1</a> (protein) - <em>Encodes</em></li>
 </ul>
 <h2>References</h2>
 <ol>

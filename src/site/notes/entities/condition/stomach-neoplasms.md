@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.127825Z'
+created: '2026-02-09T08:04:40.327962Z'
 description: Cancer developing from the lining of the stomach, most commonly adenocarcinoma.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Stomach Neoplasms
 type: condition
-updated: '2026-02-09T05:54:32.127825Z'
+updated: '2026-02-09T08:04:40.327962Z'
 ---
 
 {% raw %}
@@ -32,27 +32,27 @@ updated: '2026-02-09T05:54:32.127825Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Stomach_Neoplasms]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/stomach-neoplasms/" class="internal-link">Stomach_Neoplasms</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:52.892134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Stomach_Neoplasms]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/stomach-neoplasms/" class="internal-link">Stomach_Neoplasms</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:58.852319'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Helicobacter pylori]]<br />
-CAUSED_BY::[[Tobacco Smoking]]<br />
-ASSOCIATED_WITH_CONDITION::[[Gastritis]] - Atrophic gastritis.<br />
-ASSOCIATED_WITH_CONDITION::[[Pernicious Anemia]]<br />
-AFFECTS_ORGAN::[[Stomach]]<br />
-TREATED_BY_INTERVENTION::[[Gastrectomy]]<br />
-TREATED_BY_DRUG::[[Fluorouracil]]<br />
-TREATED_BY_DRUG::[[Trastuzumab]] - For HER2+ cases.</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Helicobacter pylori</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Tobacco Smoking</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Gastritis</a> - Atrophic gastritis.<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Stomach</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Gastrectomy</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Fluorouracil</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Trastuzumab</a> - For HER2+ cases.</p>
 <h2>References</h2>
 <ul>
 <li>American Cancer Society. Stomach Cancer.</li>

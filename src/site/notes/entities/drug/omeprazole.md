@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.200465Z'
+created: '2026-02-09T08:04:40.412076Z'
 description: Proton pump inhibitor (PPI) for acid-related disorders. Irreversibly
   inhibits gastric H+/K+ ATPase, reducing stomach acid production. One of the most
   prescribed medications globally.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Omeprazole
 type: drug
-updated: '2026-02-09T05:54:32.200465Z'
+updated: '2026-02-09T08:04:40.412076Z'
 ---
 
 {% raw %}
@@ -33,20 +33,20 @@ updated: '2026-02-09T05:54:32.200465Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.821128'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
 </code></pre>
 <h3>Interactswith</h3>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.212000+00:00'
 source: PrimeKG
@@ -55,20 +55,20 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Interactswith</h3>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T11:56:37.212000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:58.088632'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:01.339156'
 source: obsidian

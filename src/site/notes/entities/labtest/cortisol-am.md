@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.351216Z'
+created: '2026-02-09T08:04:40.579627Z'
 description: Morning cortisol measurement. Important for adrenal function assessment
   and Cushing's/Addison's disease screening.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol_am
 type: labtest
-updated: '2026-02-09T05:54:32.351216Z'
+updated: '2026-02-09T08:04:40.579627Z'
 ---
 
 {% raw %}
@@ -59,7 +59,7 @@ updated: '2026-02-09T05:54:32.351216Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[cortisol]]</li>
+<li><a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">cortisol</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,25 +72,25 @@ updated: '2026-02-09T05:54:32.351216Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cortisol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.375834'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cortisol]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[cortisol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">cortisol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[cortisol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">cortisol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.036701'
 source: obsidian

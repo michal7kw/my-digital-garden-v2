@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.048615Z'
+created: '2026-02-09T08:04:41.406310Z'
 description: Transmembrane protein cleaved to form Amyloid Beta (Aβ), the primary
   component of amyloid plaques in Alzheimer's disease.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: APP
 type: protein
-updated: '2026-02-09T05:54:33.048615Z'
+updated: '2026-02-09T08:04:41.406310Z'
 ---
 
 {% raw %}
@@ -35,103 +35,103 @@ updated: '2026-02-09T05:54:33.048615Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Presenilin-1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/presenilin-1/" class="internal-link">Presenilin-1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[BACE1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/bace1/" class="internal-link">BACE1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyloid_Cascade]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.948336'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.948336'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Notch_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Notch_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.948336'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.948336'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyloid_Cascade]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.948336'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Presenilin-1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/presenilin-1/" class="internal-link">Presenilin-1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BACE1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/bace1/" class="internal-link">BACE1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Notch_Signaling]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Notch_Signaling</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ApoE4]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">ApoE4</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[APP]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.904787'
 source: obsidian
@@ -140,19 +140,19 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Alzheimer's Disease Pathway]] (pathway)</li>
-<li>→ [[Notch Signaling]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alzheimers-disease-pathway/" class="internal-link">Alzheimer's Disease Pathway</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/notch-signaling/" class="internal-link">Notch Signaling</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[BACE1]] (protein) - <em>Cleaves APP (Amyloidogenic)</em></li>
-<li>→ [[Presenilin-1]] (protein) - <em>Part of Gamma-Secretase complex</em></li>
-<li>→ [[ApoE4]] (protein) - <em>Influences clearance</em></li>
+<li>→ <a href="/garden/dev_admin/protein/bace1/" class="internal-link">BACE1</a> (protein) - <em>Cleaves APP (Amyloidogenic)</em></li>
+<li>→ <a href="/garden/dev_admin/protein/presenilin-1/" class="internal-link">Presenilin-1</a> (protein) - <em>Part of Gamma-Secretase complex</em></li>
+<li>→ <a href="/garden/dev_admin/protein/apoe4/" class="internal-link">ApoE4</a> (protein) - <em>Influences clearance</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Pathological accumulation</em></li>
-<li>→ [[Cerebral Amyloid Angiopathy]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Pathological accumulation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cerebral-amyloid-angiopathy/" class="internal-link">Cerebral Amyloid Angiopathy</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

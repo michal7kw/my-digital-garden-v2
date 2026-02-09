@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.968993Z'
+created: '2026-02-09T08:04:40.157701Z'
 description: A group of inherited genetic disorders that impair the adrenal glands'
   ability to produce cortisol and aldosterone, often leading to overproduction of
   androgens.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Congenital Adrenal Hyperplasia
 type: condition
-updated: '2026-02-09T05:54:31.968993Z'
+updated: '2026-02-09T08:04:40.157701Z'
 ---
 
 {% raw %}
@@ -34,27 +34,27 @@ updated: '2026-02-09T05:54:31.968993Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Congenital_Adrenal_Hyperplasia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/congenital-adrenal-hyperplasia/" class="internal-link">Congenital_Adrenal_Hyperplasia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.416770'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Congenital_Adrenal_Hyperplasia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/congenital-adrenal-hyperplasia/" class="internal-link">Congenital_Adrenal_Hyperplasia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:33.006435'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Infertility]]<br />
-AFFECTS_ORGAN::[[Adrenal Glands]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[17-Hydroxyprogesterone]] - Key diagnostic marker.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Cortisol]] - Low.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Testosterone Total]] - High.<br />
-TREATED_BY_DRUG::[[Hydrocortisone]]<br />
-TREATED_BY_DRUG::[[Fludrocortisone]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Infertility</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">17-Hydroxyprogesterone</a> - Key diagnostic marker.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> - Low.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">Testosterone Total</a> - High.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Hydrocortisone</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Fludrocortisone</a></p>
 <h2>References</h2>
 <ul>
 <li>Speiser, P. W., et al. (2018). Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline.</li>

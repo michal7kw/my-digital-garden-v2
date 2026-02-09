@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.152103Z'
+created: '2026-02-09T08:04:40.354634Z'
 description: A large group of diseases characterized by the uncontrolled growth and
   spread of abnormal cells, which can invade nearby tissues and metastasize to distant
   organs.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cancer
 type: condition
-updated: '2026-02-09T05:54:32.152103Z'
+updated: '2026-02-09T08:04:40.354634Z'
 ---
 
 {% raw %}
@@ -39,26 +39,26 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.934014'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.934014'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
 source: obsidian
@@ -79,74 +79,74 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CTCF]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ctcf/" class="internal-link">CTCF</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CDK2]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cdk2/" class="internal-link">CDK2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[AKT1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.513258'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CTCF]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ctcf/" class="internal-link">CTCF</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CDK2]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/cdk2/" class="internal-link">CDK2</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.529226'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[AKT1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.530000'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SRC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.919120'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.513258'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian

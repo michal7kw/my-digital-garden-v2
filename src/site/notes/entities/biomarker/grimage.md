@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.656023Z'
+created: '2026-02-09T08:04:39.903109Z'
 description: An advanced epigenetic clock that uses DNA methylation patterns to predict
   mortality and biological age.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GrimAge
 type: biomarker
-updated: '2026-02-09T05:54:31.656023Z'
+updated: '2026-02-09T08:04:39.903109Z'
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ updated: '2026-02-09T05:54:31.656023Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[GrimAge]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/grimage/" class="internal-link">GrimAge</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.080197'
 source: obsidian
@@ -57,7 +57,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[GrimAge]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/grimage/" class="internal-link">GrimAge</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.727242'
 source: obsidian

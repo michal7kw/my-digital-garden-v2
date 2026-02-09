@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.615357Z'
+created: '2026-02-09T08:04:39.864086Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Co2
 type: biomarker
-updated: '2026-02-09T05:54:31.615357Z'
+updated: '2026-02-09T08:04:39.864086Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.615357Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Co2]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/co2/" class="internal-link">Co2</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.825294'
 source: obsidian

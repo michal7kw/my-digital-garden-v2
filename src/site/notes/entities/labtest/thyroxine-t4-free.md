@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.511910Z'
+created: '2026-02-09T08:04:40.765530Z'
 description: Thyroxine (T4) Freeis one of the main hormones made by the thyroid. It
   acts largely as a precursor, since most of it is later converted into T3, the more
   active form. Measuring free T4 shows how much thyroid hormone is being produced
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: thyroxine_t4_free
 type: labtest
-updated: '2026-02-09T05:54:32.511910Z'
+updated: '2026-02-09T08:04:40.765530Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.511910Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Hypothyroidism]]</li>
-<li>[[Grave'S Disease]]</li>
-<li>[[Hashimoto'S Thyroiditis]]</li>
-<li>[[Thyroid Storm]]</li>
-<li>[[Chronic Illness Or Secondary Thyroid Dysfunction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Grave'S Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hashimoto'S Thyroiditis</a></li>
+<li><a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Illness Or Secondary Thyroid Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,80 +71,80 @@ updated: '2026-02-09T05:54:32.511910Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[GraveS_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Illness_Or_Secondary_Thyroid_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Illness_Or_Secondary_Thyroid_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HashimotoS_Thyroiditis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Storm]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Illness_Or_Secondary_Thyroid_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Illness_Or_Secondary_Thyroid_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HashimotoS_Thyroiditis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GraveS_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Storm]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_thyroid_health]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_thyroid_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Thyroid_Storm]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.735169'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Thyroid_Storm]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -152,7 +152,7 @@ source: function-health
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[extended_thyroid_health]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.948720Z'
+created: '2026-02-09T08:04:41.276724Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammatory abnormality of the skin
 type: phenotype
-updated: '2026-02-09T05:54:32.948720Z'
+updated: '2026-02-09T08:04:41.276724Z'
 ---
 
 {% raw %}
@@ -24,352 +24,352 @@ updated: '2026-02-09T05:54:32.948720Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[benign_cephalic_histiocytosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">benign_cephalic_histiocytosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[idiopathic_localized_lipodystrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">idiopathic_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[adenosine_deaminase_deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">adenosine_deaminase_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Eosinophilic_dermal_infiltration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Eosinophilic_dermal_infiltration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Majeed_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Majeed_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neutrophilic_infiltration_of_the_skin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neutrophilic_infiltration_of_the_skin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[susceptibility_to_Yao_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">susceptibility_to_Yao_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[idiopathic_hypereosinophilic_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">idiopathic_hypereosinophilic_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[toxic_epidermal_necrolysis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">toxic_epidermal_necrolysis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Recurrent_skin_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Recurrent_skin_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Deep_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deep_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Superficial_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Superficial_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[VEXAS_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">VEXAS_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Abnormality_of_skin_physiology]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Increased_inflammatory_response]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Increased_inflammatory_response</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Crusting_erythematous_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Crusting_erythematous_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Psoriasiform_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Psoriasiform_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[panniculitis_and_localized_lipodystrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">panniculitis_and_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pressure-induced_localized_lipoatrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pressure-induced_localized_lipoatrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Erythema_nodosum]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Erythema_nodosum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cutaneous_abscess]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cutaneous_abscess</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[linear_atrophoderma_of_Moulin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:21.370727'
 source: obsidian
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>← [[Increased_inflammatory_response]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Increased_inflammatory_response</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.547000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Deep_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Deep_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.572000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Superficial_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Superficial_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.577000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Erythema_nodosum]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Erythema_nodosum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.584000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Neutrophilic_infiltration_of_the_skin]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Neutrophilic_infiltration_of_the_skin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.589000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Eosinophilic_dermal_infiltration]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Eosinophilic_dermal_infiltration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.600000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Cutaneous_abscess]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Cutaneous_abscess</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.674000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Psoriasiform_dermatitis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Psoriasiform_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.680000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Recurrent_skin_infections]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Recurrent_skin_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.697000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Crusting_erythematous_dermatitis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Crusting_erythematous_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.707000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Abnormality_of_skin_physiology]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.713000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Increased_inflammatory_response]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Increased_inflammatory_response</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.775000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormality_of_skin_physiology]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.780000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Recurrent_skin_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Recurrent_skin_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.785000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Psoriasiform_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Psoriasiform_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.796000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Eosinophilic_dermal_infiltration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Eosinophilic_dermal_infiltration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.802000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Cutaneous_abscess]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cutaneous_abscess</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.808000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Erythema_nodosum]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Erythema_nodosum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.813000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Neutrophilic_infiltration_of_the_skin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neutrophilic_infiltration_of_the_skin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.820000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Crusting_erythematous_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Crusting_erythematous_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.832000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Superficial_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Superficial_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.843000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Deep_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deep_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.851000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Presentsphenotype</h3>
 <ul>
-<li>← [[Majeed_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Majeed_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.886000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[susceptibility_to_Yao_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">susceptibility_to_Yao_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.891000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[VEXAS_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">VEXAS_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.897000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[toxic_epidermal_necrolysis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">toxic_epidermal_necrolysis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.908000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[adenosine_deaminase_deficiency]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">adenosine_deaminase_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.914000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[idiopathic_hypereosinophilic_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">idiopathic_hypereosinophilic_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.919000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.926000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pressure-induced_localized_lipoatrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pressure-induced_localized_lipoatrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.931000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[panniculitis_and_localized_lipodystrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">panniculitis_and_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.937000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[benign_cephalic_histiocytosis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">benign_cephalic_histiocytosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.942000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[idiopathic_localized_lipodystrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">idiopathic_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.951000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Excludesphenotype</h3>
 <ul>
-<li>← [[linear_atrophoderma_of_Moulin]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.875000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[linear_atrophoderma_of_Moulin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.880000+00:00'
 source: PrimeKG
@@ -378,352 +378,352 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Increased_inflammatory_response]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Increased_inflammatory_response</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Deep_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deep_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Superficial_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Superficial_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Erythema_nodosum]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Erythema_nodosum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neutrophilic_infiltration_of_the_skin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neutrophilic_infiltration_of_the_skin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Eosinophilic_dermal_infiltration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Eosinophilic_dermal_infiltration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cutaneous_abscess]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cutaneous_abscess</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Psoriasiform_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Psoriasiform_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Recurrent_skin_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Recurrent_skin_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Crusting_erythematous_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Crusting_erythematous_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Abnormality_of_skin_physiology]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[linear_atrophoderma_of_Moulin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Majeed_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Majeed_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[susceptibility_to_Yao_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">susceptibility_to_Yao_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[VEXAS_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">VEXAS_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[toxic_epidermal_necrolysis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">toxic_epidermal_necrolysis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[adenosine_deaminase_deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">adenosine_deaminase_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[idiopathic_hypereosinophilic_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">idiopathic_hypereosinophilic_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pressure-induced_localized_lipoatrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pressure-induced_localized_lipoatrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[panniculitis_and_localized_lipodystrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">panniculitis_and_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[benign_cephalic_histiocytosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">benign_cephalic_histiocytosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[idiopathic_localized_lipodystrophy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">idiopathic_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:34:08.418657'
 source: obsidian
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>← [[Increased_inflammatory_response]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Increased_inflammatory_response</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.547000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Deep_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Deep_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.572000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Superficial_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Superficial_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.577000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Erythema_nodosum]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Erythema_nodosum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.584000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Neutrophilic_infiltration_of_the_skin]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Neutrophilic_infiltration_of_the_skin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.589000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Eosinophilic_dermal_infiltration]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Eosinophilic_dermal_infiltration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.600000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Cutaneous_abscess]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Cutaneous_abscess</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.674000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Psoriasiform_dermatitis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Psoriasiform_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.680000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Recurrent_skin_infections]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Recurrent_skin_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.697000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Crusting_erythematous_dermatitis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Crusting_erythematous_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.707000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Abnormality_of_skin_physiology]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.713000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Increased_inflammatory_response]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Increased_inflammatory_response</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.775000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormality_of_skin_physiology]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.780000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Recurrent_skin_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Recurrent_skin_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.785000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Psoriasiform_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Psoriasiform_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.796000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Eosinophilic_dermal_infiltration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Eosinophilic_dermal_infiltration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.802000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Cutaneous_abscess]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cutaneous_abscess</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.808000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Erythema_nodosum]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Erythema_nodosum</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.813000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Neutrophilic_infiltration_of_the_skin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Neutrophilic_infiltration_of_the_skin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.820000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Crusting_erythematous_dermatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Crusting_erythematous_dermatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.832000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Superficial_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Superficial_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.843000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Deep_dermal_perivascular_inflammatory_infiltrate]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Deep_dermal_perivascular_inflammatory_infiltrate</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.851000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Excludesphenotype</h3>
 <ul>
-<li>← [[linear_atrophoderma_of_Moulin]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.875000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[linear_atrophoderma_of_Moulin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.880000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Presentsphenotype</h3>
 <ul>
-<li>← [[Majeed_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Majeed_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.886000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[susceptibility_to_Yao_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">susceptibility_to_Yao_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.891000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[VEXAS_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">VEXAS_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.897000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[toxic_epidermal_necrolysis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">toxic_epidermal_necrolysis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.908000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[adenosine_deaminase_deficiency]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">adenosine_deaminase_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.914000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[idiopathic_hypereosinophilic_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">idiopathic_hypereosinophilic_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.919000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">immune_dysregulation-polyendocrinopathy-enteropathy-X-linked_syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.926000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pressure-induced_localized_lipoatrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pressure-induced_localized_lipoatrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.931000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[panniculitis_and_localized_lipodystrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">panniculitis_and_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.937000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[benign_cephalic_histiocytosis]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">benign_cephalic_histiocytosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.942000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[idiopathic_localized_lipodystrophy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">idiopathic_localized_lipodystrophy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:25.951000+00:00'
 source: PrimeKG

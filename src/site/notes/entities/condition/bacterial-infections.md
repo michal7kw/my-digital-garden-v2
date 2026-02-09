@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.928652Z'
+created: '2026-02-09T08:04:40.110458Z'
 description: Illnesses caused by harmful bacteria, ranging from mild skin infections
   to severe systemic diseases.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Infections
 type: condition
-updated: '2026-02-09T05:54:31.928652Z'
+updated: '2026-02-09T08:04:40.110458Z'
 ---
 
 {% raw %}
@@ -34,27 +34,27 @@ updated: '2026-02-09T05:54:31.928652Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bacterial_Infections]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial_Infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.105173'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacterial_Infections]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial_Infections</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:25.763670'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Bacteria]]<br />
-ASSOCIATED_WITH_CONDITION::[[Sepsis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Pneumonia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Urinary Tract Infection]]<br />
-TREATED_BY_DRUG::[[Amoxicillin]]<br />
-TREATED_BY_DRUG::[[Azithromycin]]<br />
-TREATED_BY_DRUG::[[Ciprofloxacin]]<br />
-TREATED_BY_DRUG::[[Doxycycline]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Bacteria</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amoxicillin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Azithromycin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ciprofloxacin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Doxycycline</a></p>
 <h2>References</h2>
 <ul>
 <li>NIAID. Bacteria and Bacterial Infections.</li>

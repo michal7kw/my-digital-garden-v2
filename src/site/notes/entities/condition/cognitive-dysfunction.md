@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.967182Z'
+created: '2026-02-09T08:04:40.155886Z'
 description: A deficit in intellectual functioning, including problems with memory,
   attention, language, thinking, and judgment.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Dysfunction
 type: condition
-updated: '2026-02-09T05:54:31.967182Z'
+updated: '2026-02-09T08:04:40.155886Z'
 ---
 
 {% raw %}
@@ -34,28 +34,28 @@ updated: '2026-02-09T05:54:31.967182Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cognitive_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.325068'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.772671'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Alzheimers Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]<br />
-ASSOCIATED_WITH_CONDITION::[[Chronic Fatigue Syndrome]]<br />
-CAUSED_BY::[[Sleep Deprivation]]<br />
-CAUSED_BY::[[Chronic Stress]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-IMPROVED_BY_INTERVENTION::[[Exercise]]<br />
-IMPROVED_BY_INTERVENTION::[[Mediterranean Diet]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Fatigue Syndrome</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Sleep Deprivation</a><br />
+CAUSED_BY::<a href="/garden/dev_admin/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a></p>
 <h2>References</h2>
 <ul>
 <li>Petersen, R. C. (2011). Mild cognitive impairment. New England Journal of Medicine.</li>

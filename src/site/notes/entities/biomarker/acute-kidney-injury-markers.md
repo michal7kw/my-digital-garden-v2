@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.584695Z'
+created: '2026-02-09T08:04:39.834635Z'
 description: A group of protein biomarkers used for the early detection and monitoring
   of acute kidney injury (AKI), reflecting tubular damage or functional decline.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Kidney Injury Markers
 type: biomarker
-updated: '2026-02-09T05:54:31.584695Z'
+updated: '2026-02-09T08:04:39.834635Z'
 ---
 
 {% raw %}
@@ -35,13 +35,13 @@ updated: '2026-02-09T05:54:31.584695Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Acute_Kidney_Injury_Markers]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/acute-kidney-injury-markers/" class="internal-link">Acute_Kidney_Injury_Markers</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.559323'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acute_Kidney_Injury_Markers]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/acute-kidney-injury-markers/" class="internal-link">Acute_Kidney_Injury_Markers</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.559323'
 source: obsidian
@@ -55,7 +55,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Acute_Kidney_Injury_Markers]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/acute-kidney-injury-markers/" class="internal-link">Acute_Kidney_Injury_Markers</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:08.680193'
 source: obsidian

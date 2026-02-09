@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.256607Z'
+created: '2026-02-09T08:04:40.473011Z'
 description: Encodes the Epidermal Growth Factor Receptor. Mutations and amplification
   of this gene are common in many cancers.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR
 type: gene
-updated: '2026-02-09T05:54:32.256607Z'
+updated: '2026-02-09T08:04:40.473011Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-02-09T05:54:32.256607Z'
 <p>Mutations in this gene are associated with lung cancer (NSCLC) and glioblastoma. Amplification is observed in colorectal cancer and breast cancer.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[EGFR]] (protein) - <em>Encodes</em></li>
-<li>→ [[Lung Cancer]] (condition) - <em>Associated with mutations</em></li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/lung-cancer/" class="internal-link">Lung Cancer</a> (condition) - <em>Associated with mutations</em></li>
 </ul>
 <h2>References</h2>
 <ol>

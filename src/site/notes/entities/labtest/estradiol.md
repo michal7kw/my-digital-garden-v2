@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.365792Z'
+created: '2026-02-09T08:04:40.596401Z'
 description: Primary estrogen in reproductive-age women. Important for fertility,
   menopause assessment, and hormone therapy monitoring.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: estradiol
 type: labtest
-updated: '2026-02-09T05:54:32.365792Z'
+updated: '2026-02-09T08:04:40.596401Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.365792Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[estradiol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/estradiol/" class="internal-link">estradiol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.597092'
 source: obsidian

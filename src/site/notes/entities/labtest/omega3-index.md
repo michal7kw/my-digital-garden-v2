@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.469857Z'
+created: '2026-02-09T08:04:40.717147Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-02-09T05:54:32.469857Z'
+updated: '2026-02-09T08:04:40.717147Z'
 ---
 
 {% raw %}
@@ -54,10 +54,10 @@ updated: '2026-02-09T05:54:32.469857Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[omega3_index]]</li>
-<li>[[epa]]</li>
-<li>[[dha]]</li>
-<li>[[aa_epa_ratio]]</li>
+<li><a href="/garden/dev_admin/labtest/omega3-index/" class="internal-link">omega3_index</a></li>
+<li><a href="/garden/dev_admin/biomarker/epa/" class="internal-link">epa</a></li>
+<li><a href="/garden/dev_admin/biomarker/dha/" class="internal-link">dha</a></li>
+<li><a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">aa_epa_ratio</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,25 +70,25 @@ updated: '2026-02-09T05:54:32.469857Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[epa]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/epa/" class="internal-link">epa</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.405134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[dha]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/dha/" class="internal-link">dha</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.405134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[aa_epa_ratio]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">aa_epa_ratio</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.405134'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[omega3_index]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/omega3-index/" class="internal-link">omega3_index</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.405134'
 source: obsidian

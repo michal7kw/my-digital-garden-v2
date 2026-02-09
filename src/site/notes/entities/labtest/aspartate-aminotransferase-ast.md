@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.323811Z'
+created: '2026-02-09T08:04:40.548345Z'
 description: Tested twice a year Aspartate aminotransferase (AST) is an enzyme found
   throughout the body, especially in the liver, heart, and muscles. When these tissues
   are stressed or damaged, AST can be released into the bloodstream, so higher levels
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: aspartate_aminotransferase_ast
 type: labtest
-updated: '2026-02-09T05:54:32.323811Z'
+updated: '2026-02-09T08:04:40.548345Z'
 ---
 
 {% raw %}
@@ -61,11 +61,11 @@ updated: '2026-02-09T05:54:32.323811Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Liver Inflammation (Hepatitis, Cirrhosis)]]</li>
-<li>[[Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)]]</li>
-<li>[[Muscle Injury (Rhabdomyolysis, Strenuous Exercise, Trauma)]]</li>
-<li>[[Alcohol-Related Liver Injury]]</li>
-<li>[[Heart Attack]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Inflammation (Hepatitis, Cirrhosis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Muscle Injury (Rhabdomyolysis, Strenuous Exercise, Trauma)</a></li>
+<li><a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Heart Attack</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -73,74 +73,74 @@ updated: '2026-02-09T05:54:32.323811Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Muscle_Injury_Rhabdomyolysis_Strenuous_Exercise_Trauma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscle_Injury_Rhabdomyolysis_Strenuous_Exercise_Trauma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.054623'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.054623'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.054623'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.054623'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart_Attack]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Heart_Attack</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.054623'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart_Attack]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Heart_Attack</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.445548'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscle_Injury_Rhabdomyolysis_Strenuous_Exercise_Trauma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Muscle_Injury_Rhabdomyolysis_Strenuous_Exercise_Trauma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.445548'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.445548'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.445548'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.445548'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.304123Z'
+created: '2026-02-09T08:04:40.525685Z'
 description: Albumin in the urine, even in small amounts—a condition called microalbuminuria—is
   one of the earliest warning signs that the kidneys’ filters are under stress and
   may be starting to leak protein they normally keep in the blood.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: albumin_microalbumin_urine
 type: labtest
-updated: '2026-02-09T05:54:32.304123Z'
+updated: '2026-02-09T08:04:40.525685Z'
 ---
 
 {% raw %}
@@ -58,11 +58,11 @@ updated: '2026-02-09T05:54:32.304123Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Early Diabetic Kidney Disease]]</li>
-<li>[[Hypertension-Related Kidney Disease]]</li>
-<li>[[Chronic Kidney Disease]]</li>
-<li>[[Cardiovascular Disease Risk]]</li>
-<li>[[Metabolic Syndrome]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Early Diabetic Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hypertension-Related Kidney Disease</a></li>
+<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cardiovascular Disease Risk</a></li>
+<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -70,87 +70,87 @@ updated: '2026-02-09T05:54:32.304123Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Early_Diabetic_Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Early_Diabetic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.926342'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypertension-Related_Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypertension-Related_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.926342'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.926342'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.926342'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease_Risk]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cardiovascular_Disease_Risk</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.926342'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Early_Diabetic_Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Early_Diabetic_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease_Risk]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cardiovascular_Disease_Risk</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypertension-Related_Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypertension-Related_Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Metabolic_Syndrome]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

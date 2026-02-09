@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.098274Z'
+created: '2026-02-09T08:04:40.296275Z'
 description: A group of conditions resulting from the dysfunction of the pituitary
   gland, the body's "master gland," typically caused by tumors or inflammation.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pituitary Disorder
 type: condition
-updated: '2026-02-09T05:54:32.098274Z'
+updated: '2026-02-09T08:04:40.296275Z'
 ---
 
 {% raw %}
@@ -34,28 +34,28 @@ updated: '2026-02-09T05:54:32.098274Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pituitary_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/pituitary-disorder/" class="internal-link">Pituitary_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.466795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pituitary_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pituitary-disorder/" class="internal-link">Pituitary_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.631192'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]<br />
-ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Infertility]]<br />
-AFFECTS_ORGAN::[[Pituitary Gland]]<br />
-AFFECTS_ORGAN::[[Hypothalamus]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[TSH]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[ACTH]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Growth Hormone]]<br />
-TREATED_BY_INTERVENTION::[[Transsphenoidal Surgery]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Infertility</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pituitary Gland</a><br />
+AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">ACTH</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Growth Hormone</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Transsphenoidal Surgery</a></p>
 <h2>References</h2>
 <ul>
 <li>Melmed, S. (2011). The Pituitary. Academic Press.</li>

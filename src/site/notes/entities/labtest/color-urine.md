@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.344643Z'
+created: '2026-02-09T08:04:40.572222Z'
 description: Tested twice a year Evaluates the pigmentation of urine, which can range
   from pale yellow to dark amber. Variations in color may be influenced by hydration
   status, dietary intake, medication use, or various underlying medical conditions.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: color_urine
 type: labtest
-updated: '2026-02-09T05:54:32.344643Z'
+updated: '2026-02-09T08:04:40.572222Z'
 ---
 
 {% raw %}
@@ -58,11 +58,11 @@ updated: '2026-02-09T05:54:32.344643Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Urinary Tract Infection (Uti)]]</li>
-<li>[[Kidney Disease]]</li>
-<li>[[Hematuria (Blood In Urine)]]</li>
-<li>[[Liver Dysfunction]]</li>
-<li>[[Dehydration]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hematuria (Blood In Urine)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -70,55 +70,55 @@ updated: '2026-02-09T05:54:32.344643Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.665298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.665298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hematuria_Blood_In_Urine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hematuria_Blood_In_Urine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.665298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.665298'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.589520'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.589520'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.589520'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.589520'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hematuria_Blood_In_Urine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hematuria_Blood_In_Urine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.589520'
 source: obsidian

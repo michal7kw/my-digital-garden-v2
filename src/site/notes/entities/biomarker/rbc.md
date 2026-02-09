@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.720938Z'
+created: '2026-02-09T08:04:39.969428Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Rbc
 type: biomarker
-updated: '2026-02-09T05:54:31.720938Z'
+updated: '2026-02-09T08:04:39.969428Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.720938Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Rbc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/rbc/" class="internal-link">Rbc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.546250'
 source: obsidian

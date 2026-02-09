@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.361908Z'
+created: '2026-02-09T08:04:40.592103Z'
 description: Dried urine test for comprehensive hormone analysis including cortisol
   patterns, sex hormones, and metabolites.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: dutch_complete
 type: labtest
-updated: '2026-02-09T05:54:32.361908Z'
+updated: '2026-02-09T08:04:40.592103Z'
 ---
 
 {% raw %}
@@ -68,13 +68,13 @@ updated: '2026-02-09T05:54:32.361908Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cortisol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.279711'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cortisol]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian

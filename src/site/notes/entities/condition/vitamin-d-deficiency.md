@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.146362Z'
+created: '2026-02-09T08:04:40.348217Z'
 description: A condition characterized by inadequate levels of vitamin D in the body,
   which is essential for calcium absorption, bone health, and immune function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D Deficiency
 type: condition
-updated: '2026-02-09T05:54:32.146362Z'
+updated: '2026-02-09T08:04:40.348217Z'
 ---
 
 {% raw %}
@@ -39,162 +39,162 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>→ [[25-OH_Vitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-OH_Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>→ [[Osteoporosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:28.472510'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:28.472510'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>→ [[Vitamin_D3]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <h3>Modulated By Pathway</h3>
 <ul>
-<li>→ [[Calcium_Homeostasis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Calcium_Homeostasis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[vitamin_d_deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[25-OH_Vitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-OH_Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D3]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Calcium_Homeostasis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Calcium_Homeostasis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:14.149711'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[calcium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:17.743724'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[vitamin_d]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">vitamin_d</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:45.400773'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
@@ -215,210 +215,210 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:54.726785'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Calcium_Homeostasis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Calcium_Homeostasis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[25-OH_Vitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-OH_Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D3]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d_deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Magnesium]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:41:56.167045'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Immune_System]] (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:39:29.403418'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Bones]] (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:39:23.827651'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[calcium]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">vitamin_d</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Osteoporosis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:37:21.316851'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Depression]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:36:45.740417'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[vitamin_d]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">vitamin_d</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.620736'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[calcium]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.050601'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[alkaline_phosphatase_alp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:04:02.247137'
 source: obsidian
 </code></pre>
 <h3>Modulated By Pathway</h3>
 <ul>
-<li>→ [[Calcium_Homeostasis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Calcium_Homeostasis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>→ [[Vitamin_D3]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>→ [[Immune_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>→ [[25-OH_Vitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-OH_Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Immune_System]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian

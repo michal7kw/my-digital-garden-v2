@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.107106Z'
+created: '2026-02-09T08:04:41.475429Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
 type: protein
-updated: '2026-02-09T05:54:33.107106Z'
+updated: '2026-02-09T08:04:41.475429Z'
 ---
 
 {% raw %}
@@ -42,236 +42,236 @@ updated: '2026-02-09T05:54:33.107106Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[estrogen_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">estrogen_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[retinoic_acid-responsive_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">retinoic_acid-responsive_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[juvenile_hormone_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">juvenile_hormone_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[carbohydrate_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">carbohydrate_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[N-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[serum_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">serum_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[sterol_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">sterol_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[cis-regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cis-regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_D_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">vitamin_D_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[E-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">E-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[cAMP_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cAMP_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.532287'
 source: obsidian
 </code></pre>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[cis-regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">cis-regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.750000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[juvenile_hormone_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">juvenile_hormone_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.755000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[estrogen_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">estrogen_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.761000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[N-box_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">N-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.767000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[carbohydrate_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">carbohydrate_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.772000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.778000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[E-box_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">E-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.783000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[serum_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">serum_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.788000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[retinoic_acid-responsive_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">retinoic_acid-responsive_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.793000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[vitamin_D_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">vitamin_D_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.799000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[sterol_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">sterol_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.804000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[cAMP_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">cAMP_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.809000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.815000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[juvenile_hormone_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">juvenile_hormone_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.822000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[cis-regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cis-regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.827000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.832000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[sterol_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">sterol_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.838000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[N-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.846000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[carbohydrate_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">carbohydrate_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.853000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.859000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[cAMP_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cAMP_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.865000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[serum_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">serum_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.871000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[vitamin_D_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">vitamin_D_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.876000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[E-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">E-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.881000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[estrogen_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">estrogen_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.887000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[retinoic_acid-responsive_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">retinoic_acid-responsive_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.892000+00:00'
 source: PrimeKG
@@ -280,236 +280,236 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[cis-regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">cis-regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.750000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[juvenile_hormone_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">juvenile_hormone_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.755000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[estrogen_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">estrogen_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.761000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[N-box_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">N-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.767000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[carbohydrate_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">carbohydrate_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.772000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.778000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[E-box_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">E-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.783000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[serum_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">serum_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.788000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[retinoic_acid-responsive_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">retinoic_acid-responsive_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.793000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[vitamin_D_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">vitamin_D_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.799000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[sterol_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">sterol_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.804000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[cAMP_response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">cAMP_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.809000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.815000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[juvenile_hormone_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">juvenile_hormone_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.822000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[cis-regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cis-regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.827000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.832000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[sterol_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">sterol_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.838000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[N-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.846000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[carbohydrate_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">carbohydrate_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.853000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.859000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[cAMP_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cAMP_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.865000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[serum_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">serum_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.871000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[vitamin_D_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">vitamin_D_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.876000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[E-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">E-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.881000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[estrogen_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">estrogen_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.887000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[retinoic_acid-responsive_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">retinoic_acid-responsive_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:16.892000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[cis-regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cis-regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[juvenile_hormone_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">juvenile_hormone_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[estrogen_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">estrogen_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[N-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[carbohydrate_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">carbohydrate_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding_bending</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[E-box_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">E-box_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[serum_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">serum_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[retinoic_acid-responsive_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">retinoic_acid-responsive_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_D_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">vitamin_D_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[sterol_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">sterol_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[cAMP_response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">cAMP_response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:54.164259'
 source: obsidian

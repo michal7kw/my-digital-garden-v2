@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.032423Z'
+created: '2026-02-09T08:04:40.224891Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stones
 type: condition
-updated: '2026-02-09T05:54:32.032423Z'
+updated: '2026-02-09T08:04:40.224891Z'
 ---
 
 {% raw %}
@@ -39,35 +39,35 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[occult_blood_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/occult-blood-urine/" class="internal-link">occult_blood_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ph_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ph-urine/" class="internal-link">ph_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-urine/" class="internal-link">red_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[white_blood_cell_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/white-blood-cell-urine/" class="internal-link">white_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -75,37 +75,37 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[occult_blood_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/occult-blood-urine/" class="internal-link">occult_blood_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ph_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ph-urine/" class="internal-link">ph_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-urine/" class="internal-link">red_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[white_blood_cell_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-urine/" class="internal-link">white_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[uric_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
@@ -126,108 +126,108 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Stones]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[white_blood_cell_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/white-blood-cell-urine/" class="internal-link">white_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-urine/" class="internal-link">red_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.327453'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ph_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ph-urine/" class="internal-link">ph_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[occult_blood_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/occult-blood-urine/" class="internal-link">occult_blood_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[occult_blood_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/occult-blood-urine/" class="internal-link">occult_blood_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[uric_acid]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ph_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ph-urine/" class="internal-link">ph_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[red_blood_cell_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/red-blood-cell-urine/" class="internal-link">red_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[white_blood_cell_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-urine/" class="internal-link">white_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[uric_acid]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric_acid</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[white_blood_cell_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/white-blood-cell-urine/" class="internal-link">white_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[red_blood_cell_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/red-blood-cell-urine/" class="internal-link">red_blood_cell_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[ph_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/ph-urine/" class="internal-link">ph_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[occult_blood_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/occult-blood-urine/" class="internal-link">occult_blood_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

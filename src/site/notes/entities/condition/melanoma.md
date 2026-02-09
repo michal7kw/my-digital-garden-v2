@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.044388Z'
+created: '2026-02-09T08:04:40.237827Z'
 description: A serious type of skin cancer that develops from the pigment-producing
   cells known as melanocytes. It is less common than other skin cancers but much more
   dangerous if it spreads.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Melanoma
 type: condition
-updated: '2026-02-09T05:54:32.044388Z'
+updated: '2026-02-09T08:04:40.237827Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Melanoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/melanoma/" class="internal-link">Melanoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:20.671279'
 source: obsidian
@@ -61,31 +61,31 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.788008'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[S100B]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.788008'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SRC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[S100B]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Melanoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/melanoma/" class="internal-link">Melanoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.301676'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.119667Z'
+created: '2026-02-09T08:04:40.319142Z'
 description: An infectious bacterial illness characterized by a bright red rash, sore
   throat, and fever, caused by Group A Streptococcus.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Scarlet Fever
 type: condition
-updated: '2026-02-09T05:54:32.119667Z'
+updated: '2026-02-09T08:04:40.319142Z'
 ---
 
 {% raw %}
@@ -34,26 +34,26 @@ updated: '2026-02-09T05:54:32.119667Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Scarlet_Fever]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/scarlet-fever/" class="internal-link">Scarlet_Fever</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:52.203186'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Scarlet_Fever]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/scarlet-fever/" class="internal-link">Scarlet_Fever</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:57.630009'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Streptococcus pyogenes]]<br />
-ASSOCIATED_WITH_CONDITION::[[Pharyngitis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Rheumatic Fever]]<br />
-AFFECTS_ORGAN::[[Skin]]<br />
-AFFECTS_ORGAN::[[Throat]]<br />
-TREATED_BY_DRUG::[[Penicillin]]<br />
-TREATED_BY_DRUG::[[Amoxicillin]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus pyogenes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pharyngitis/" class="internal-link">Pharyngitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Throat</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Penicillin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amoxicillin</a></p>
 <h2>References</h2>
 <ul>
 <li>Pardo, S., et al. (2021). Scarlet Fever. StatPearls.</li>

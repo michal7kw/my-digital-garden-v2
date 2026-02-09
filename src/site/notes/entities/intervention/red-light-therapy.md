@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.290341Z'
+created: '2026-02-09T08:04:40.509788Z'
 description: Red light therapy (RLT) is a therapeutic technique that uses red low-level
   wavelengths of light to treat skin issues, sleep problems, and chronic pain, among
   other things.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Red Light Therapy
 type: intervention
-updated: '2026-02-09T05:54:32.290341Z'
+updated: '2026-02-09T08:04:40.509788Z'
 ---
 
 {% raw %}
@@ -31,78 +31,78 @@ updated: '2026-02-09T05:54:32.290341Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[health_goals]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lab_results_2025_05_01]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lab_results_2025_05_01</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Red_Light_Therapy]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/red-light-therapy/" class="internal-link">Red_Light_Therapy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Red_Light_Therapy]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/red-light-therapy/" class="internal-link">Red_Light_Therapy</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
 </code></pre>
 <h3>Improves Biomarker</h3>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.552761'
 source: obsidian
 </code></pre>
 <h3>Improves Cellular Component</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.475736'
 source: obsidian
 </code></pre>
 <h3>Reduced By Intervention</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.263748'
 source: obsidian
 </code></pre>
 <h3>Affected By Intervention</h3>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.571468'
 source: obsidian
 </code></pre>
 <h3>Reduces Condition</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.499868'
 source: obsidian
@@ -111,90 +111,90 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Reduces Condition</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.499868'
 source: obsidian
 </code></pre>
 <h3>Affected By Intervention</h3>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.571468'
 source: obsidian
 </code></pre>
 <h3>Reduced By Intervention</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.263748'
 source: obsidian
 </code></pre>
 <h3>Improves Cellular Component</h3>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.475736'
 source: obsidian
 </code></pre>
 <h3>Improves Biomarker</h3>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.552761'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[health_goals]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:42:06.512352'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[lab_results_2025_05_01]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">lab_results_2025_05_01</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:42:07.040190'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[health_goals]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">health_goals</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lab_results_2025_05_01]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lab_results_2025_05_01</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Red_Light_Therapy]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/red-light-therapy/" class="internal-link">Red_Light_Therapy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Red_Light_Therapy]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/red-light-therapy/" class="internal-link">Red_Light_Therapy</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian

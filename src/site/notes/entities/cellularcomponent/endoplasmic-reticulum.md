@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.765565Z'
+created: '2026-02-09T08:04:40.014269Z'
 description: An extensive membrane network responsible for protein folding, lipid
   synthesis, and calcium storage. Communicates directly with mitochondria via MAMs.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Endoplasmic Reticulum
 type: cellularcomponent
-updated: '2026-02-09T05:54:31.765565Z'
+updated: '2026-02-09T08:04:40.014269Z'
 ---
 
 {% raw %}
@@ -46,15 +46,15 @@ updated: '2026-02-09T05:54:31.765565Z'
 <li><strong>Diabetes:</strong> Pancreatic beta-cells are highly susceptible to ER stress due to the massive demand for insulin production.</li>
 </ul>
 <h2>Relationships</h2>
-<p>SYNTHESIZES::[[Protein]] - Rough ER<br />
-SYNTHESIZES::[[Lipids]] - Smooth ER<br />
-STORES::[[Calcium]]<br />
-REGULATES::[[Unfolded Protein Response]]<br />
-INTERACTS_WITH::[[Mitochondria]] - Via MAMs<br />
-INTERACTS_WITH::[[Golgi Apparatus]] - Downstream trafficking<br />
-ASSOCIATED_WITH_CONDITION::[[Insulin Resistance]] - ER stress link<br />
-ASSOCIATED_WITH_CONDITION::[[Neurodegeneration]]<br />
-ASSOCIATED_WITH_GENE::[[PSEN1]] - Localized to ER/MAMs</p>
+<p>SYNTHESIZES::<a class="internal-link is-unresolved" href="/404">Protein</a> - Rough ER<br />
+SYNTHESIZES::<a class="internal-link is-unresolved" href="/404">Lipids</a> - Smooth ER<br />
+STORES::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a><br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Unfolded Protein Response</a><br />
+INTERACTS_WITH::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Via MAMs<br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">Golgi Apparatus</a> - Downstream trafficking<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a> - ER stress link<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Neurodegeneration</a><br />
+ASSOCIATED_WITH_GENE::<a href="/garden/dev_admin/gene/psen1/" class="internal-link">PSEN1</a> - Localized to ER/MAMs</p>
 <h2>References</h2>
 <ul>
 <li>Walter P, Ron D. The unfolded protein response: from stress pathway to homeostasis. Science. 2011;334(6059):1081-6.</li>

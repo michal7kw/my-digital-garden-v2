@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.065773Z'
+created: '2026-02-09T08:04:40.263533Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Myalgia
 type: condition
-updated: '2026-02-09T05:54:32.065773Z'
+updated: '2026-02-09T08:04:40.263533Z'
 ---
 
 {% raw %}
@@ -33,25 +33,25 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Myalgia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/myalgia/" class="internal-link">Myalgia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.941983'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[INDOMETHACIN]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">INDOMETHACIN</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.941983'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pain]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.941983'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Pain]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:29.345319'
 source: obsidian
@@ -72,25 +72,25 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[INDOMETHACIN]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">INDOMETHACIN</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.807696'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Pain]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:23.771829'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Myalgia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/myalgia/" class="internal-link">Myalgia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.807696'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pain]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.807696'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.754969Z'
+created: '2026-02-09T08:04:40.002656Z'
 description: Fat-soluble secosteroid hormone critical for calcium absorption, bone
   health, immune function, and numerous other physiological processes. Synthesized
   in skin upon sun exposure or obtained through supplementation.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D
 type: biomarker
-updated: '2026-02-09T05:54:31.754969Z'
+updated: '2026-02-09T08:04:40.002656Z'
 ---
 
 {% raw %}
@@ -33,164 +33,164 @@ updated: '2026-02-09T05:54:31.754969Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[vitamin_d_25-hydroxy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">vitamin_d_25-hydroxy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:25.252921'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:25.252921'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:25.252921'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Hormones]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroid_Hormones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PTH]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">PTH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serum_Calcium]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_Calcium</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-Hydroxyvitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[biomarker_log]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">biomarker_log</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hs-CRP]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hs-CRP</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d_25-hydroxy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">vitamin_d_25-hydroxy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_DHA]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Fatigue]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Skin]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscles]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
 </code></pre>
 <h3>Modulates Biomarker</h3>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: modulates
 evidence_level: 3
@@ -207,7 +207,7 @@ study_references:
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>→ [[PTH]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">PTH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
@@ -223,7 +223,7 @@ study_references:
 - PMID:21118827
 </code></pre>
 <ul>
-<li>→ [[hs-CRP]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hs-CRP</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 3
@@ -241,7 +241,7 @@ study_references:
 </code></pre>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-Hydroxyvitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
@@ -258,7 +258,7 @@ study_references:
 - PMID:21646368
 </code></pre>
 <ul>
-<li>→ [[Serum_Calcium]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_Calcium</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -274,84 +274,84 @@ study_references:
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.208162'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.182031'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.103508'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.052889'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Muscles]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.827160'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.801524'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Skin]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.775939'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.751825'
 source: obsidian
 </code></pre>
 <h3>Requires Cofactor</h3>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.154588'
 source: obsidian
 </code></pre>
 <h3>Modulates Hormone</h3>
 <ul>
-<li>→ [[Thyroid_Hormones]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.882177'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.851922'
 source: obsidian
@@ -365,7 +365,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Has Biomarker</h3>
 <ul>
-<li>← [[biomarker_log]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">biomarker_log</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">date_recorded: '2025-08-20'
 isPersonal: true
@@ -377,205 +377,205 @@ value: '45'
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.751825'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Skin]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.775939'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.801524'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscles]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.827160'
 source: obsidian
 </code></pre>
 <h3>Modulates Hormone</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.851922'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Hormones]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.882177'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Chronic_Inflammation]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.052889'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.103508'
 source: obsidian
 </code></pre>
 <h3>Requires Cofactor</h3>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.154588'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Vitamin_K2]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.182031'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.208162'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_D]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_K2]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin_K2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[biomarker_log]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">biomarker_log</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_System]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_System</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Hormones]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroid_Hormones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-Hydroxyvitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serum_Calcium]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_Calcium</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PTH]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">PTH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hs-CRP]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hs-CRP</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Diabetes]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscles]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Skin]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bones]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
 </code></pre>
 <h3>Increases Biomarker</h3>
 <ul>
-<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">25-Hydroxyvitamin_D</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
@@ -592,7 +592,7 @@ study_references:
 - PMID:21646368
 </code></pre>
 <ul>
-<li>→ [[Serum_Calcium]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Serum_Calcium</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
@@ -608,7 +608,7 @@ study_references:
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>→ [[PTH]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">PTH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
@@ -624,7 +624,7 @@ study_references:
 - PMID:21118827
 </code></pre>
 <ul>
-<li>→ [[hs-CRP]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">hs-CRP</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 3
@@ -642,7 +642,7 @@ study_references:
 </code></pre>
 <h3>Modulates Biomarker</h3>
 <ul>
-<li>→ [[Fasting_Glucose]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting_Glucose</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: modulates
 evidence_level: 3
@@ -659,7 +659,7 @@ study_references:
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>← [[Chronic_Inflammation]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
@@ -669,7 +669,7 @@ source: obsidian
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[vitamin d 25-hydroxy]] - Vitamin D (25-OH) measurement</li>
+<li><a class="internal-link is-unresolved" href="/404">vitamin d 25-hydroxy</a> - Vitamin D (25-OH) measurement</li>
 </ul>
 <h2>References</h2>
 <p>No references available.</p>

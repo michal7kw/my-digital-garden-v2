@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.228105Z'
+created: '2026-02-09T08:04:41.615881Z'
 description: Adaptogenic herb that enhances stress resilience, mental performance,
   and physical endurance. Modulates stress hormones and supports dopamine levels.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rhodiola Rosea
 type: supplement
-updated: '2026-02-09T05:54:33.228105Z'
+updated: '2026-02-09T08:04:41.615881Z'
 ---
 
 {% raw %}
@@ -27,107 +27,107 @@ updated: '2026-02-09T05:54:33.228105Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Adrenal_Glands]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Glands</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cortisol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ashwagandha]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ashwagandha]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-27T18:04:22.394426'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.710508'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Ashwagandha]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.683616'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Ashwagandha]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.633998'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.500386'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Glands]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.526047'
 source: obsidian
 </code></pre>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.658881'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.576728'
 source: obsidian
@@ -136,107 +136,107 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Adrenal_Glands]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.526047'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.500386'
 source: obsidian
 </code></pre>
 <h3>Affects Neurotransmitter</h3>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.576728'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.658881'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>← [[Ashwagandha]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.633998'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ashwagandha]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.683616'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.710508'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cortisol]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ashwagandha]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adrenal_Glands]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Glands</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ashwagandha]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-27T18:04:22.394426'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serotonin]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dopamine]] (neurotransmitter)</li>
+<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian

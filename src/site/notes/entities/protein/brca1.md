@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.058335Z'
+created: '2026-02-09T08:04:41.416763Z'
 description: E3 ubiquitin-protein ligase that plays a central role in DNA repair (Homologous
   Recombination). Maintains genomic stability.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BRCA1
 type: protein
-updated: '2026-02-09T05:54:33.058335Z'
+updated: '2026-02-09T08:04:41.416763Z'
 ---
 
 {% raw %}
@@ -35,109 +35,109 @@ updated: '2026-02-09T05:54:33.058335Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[TP53]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/tp53/" class="internal-link">TP53</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:05.350587'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA_Repair_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA_Repair_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Breast_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Breast_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homologous_Recombination]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Homologous_Recombination</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ovarian_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Ovarian_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Talazoparib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Talazoparib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA_Repair_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA_Repair_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Olaparib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Olaparib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RAD51]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RAD51</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homologous_Recombination]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Homologous_Recombination</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BRCA2]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">BRCA2</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BARD1]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">BARD1</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ovarian_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Ovarian_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Breast_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Breast_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TP53]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/tp53/" class="internal-link">TP53</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BRCA1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.014889'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[STAT3]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/stat3/" class="internal-link">STAT3</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.987980'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[STAT3]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/stat3/" class="internal-link">STAT3</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
@@ -146,25 +146,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Homologous Recombination]] (pathway)</li>
-<li>→ [[DNA Repair Pathway]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/homologous-recombination/" class="internal-link">Homologous Recombination</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/dna-repair-pathway/" class="internal-link">DNA Repair Pathway</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[BARD1]] (protein) - <em>Obligate heterodimer partner</em></li>
-<li>→ [[BRCA2]] (protein) - <em>Partner in HR</em></li>
-<li>→ [[RAD51]] (protein) - <em>Recruited by BRCA1/2</em></li>
-<li>→ [[TP53]] (protein) - <em>Regulates stability</em></li>
+<li>→ <a href="/garden/dev_admin/protein/bard1/" class="internal-link">BARD1</a> (protein) - <em>Obligate heterodimer partner</em></li>
+<li>→ <a href="/garden/dev_admin/protein/brca2/" class="internal-link">BRCA2</a> (protein) - <em>Partner in HR</em></li>
+<li>→ <a href="/garden/dev_admin/protein/rad51/" class="internal-link">RAD51</a> (protein) - <em>Recruited by BRCA1/2</em></li>
+<li>→ <a href="/garden/dev_admin/protein/tp53/" class="internal-link">TP53</a> (protein) - <em>Regulates stability</em></li>
 </ul>
 <h3>Targeted By</h3>
 <ul>
-<li>⊣ [[Olaparib]] (drug) - <em>Synthetic Lethality (in BRCA-mutant context)</em></li>
-<li>⊣ [[Talazoparib]] (drug) - <em>Synthetic Lethality</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/olaparib/" class="internal-link">Olaparib</a> (drug) - <em>Synthetic Lethality (in BRCA-mutant context)</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/talazoparib/" class="internal-link">Talazoparib</a> (drug) - <em>Synthetic Lethality</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Breast Cancer]] (condition)</li>
-<li>→ [[Ovarian Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/breast-cancer/" class="internal-link">Breast Cancer</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/ovarian-cancer/" class="internal-link">Ovarian Cancer</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

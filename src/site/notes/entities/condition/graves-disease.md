@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.001896Z'
+created: '2026-02-09T08:04:40.191522Z'
 description: An autoimmune disorder that causes overactivity of the thyroid gland
   (hyperthyroidism) through the production of stimulating antibodies.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Graves Disease
 type: condition
-updated: '2026-02-09T05:54:32.001896Z'
+updated: '2026-02-09T08:04:40.191522Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,13 +47,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Graves_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:09.040854'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:09.040854'
 source: obsidian
@@ -74,26 +74,26 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Graves_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.634376'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Graves_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.634376'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.634376'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroid_peroxidase_antibodies_tpo]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

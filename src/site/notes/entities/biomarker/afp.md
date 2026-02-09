@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.582944Z'
+created: '2026-02-09T08:04:39.832563Z'
 description: Alpha-fetoprotein is a major fetal plasma protein that serves as a tumor
   marker for hepatocellular carcinoma and certain germ cell tumors. Elevated levels
   in non-pregnant adults suggest hepatic malignancy, testicular cancer, or liver disease.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: AFP
 type: biomarker
-updated: '2026-02-09T05:54:31.582944Z'
+updated: '2026-02-09T08:04:39.832563Z'
 ---
 
 {% raw %}
@@ -71,15 +71,15 @@ updated: '2026-02-09T05:54:31.582944Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[afp]] - Alpha-fetoprotein measurement</li>
-<li>[[afp l3]] - AFP-L3 fraction for improved HCC specificity</li>
+<li><a href="/garden/dev_admin/labtest/afp/" class="internal-link">afp</a> - Alpha-fetoprotein measurement</li>
+<li><a class="internal-link is-unresolved" href="/404">afp l3</a> - AFP-L3 fraction for improved HCC specificity</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[CEA]] (biomarker) - Co-measured tumor marker for GI malignancies</li>
-<li>→ [[Alanine Transaminase]] (biomarker) - Liver function context for AFP interpretation</li>
-<li>→ [[Gamma-Glutamyl Transferase]] (biomarker) - Liver disease marker used alongside AFP</li>
+<li>→ <a href="/garden/dev_admin/labtest/cea/" class="internal-link">CEA</a> (biomarker) - Co-measured tumor marker for GI malignancies</li>
+<li>→ <a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a> (biomarker) - Liver function context for AFP interpretation</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gamma-glutamyl-transferase/" class="internal-link">Gamma-Glutamyl Transferase</a> (biomarker) - Liver disease marker used alongside AFP</li>
 </ul>
 <h2>References</h2>
 <ul>

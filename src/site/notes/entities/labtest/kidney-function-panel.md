@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.408897Z'
+created: '2026-02-09T08:04:40.646163Z'
 description: Measures BUN, creatinine, eGFR, cystatin C, and electrolytes to assess
   kidney health.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: kidney_function_panel
 type: labtest
-updated: '2026-02-09T05:54:32.408897Z'
+updated: '2026-02-09T08:04:40.646163Z'
 ---
 
 {% raw %}
@@ -54,10 +54,10 @@ updated: '2026-02-09T05:54:32.408897Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[bun]]</li>
-<li>[[creatinine]]</li>
-<li>[[egfr]]</li>
-<li>[[cystatin_c]]</li>
+<li><a href="/garden/dev_admin/biomarker/bun/" class="internal-link">bun</a></li>
+<li><a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/garden/dev_admin/protein/egfr/" class="internal-link">egfr</a></li>
+<li><a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">cystatin_c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,43 +70,43 @@ updated: '2026-02-09T05:54:32.408897Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Creatinine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.954326'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Creatinine]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[cystatin_c]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">cystatin_c</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.142270'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[egfr]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">egfr</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.142270'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[bun]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bun/" class="internal-link">bun</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.142270'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[creatinine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[creatinine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.142270'
 source: obsidian

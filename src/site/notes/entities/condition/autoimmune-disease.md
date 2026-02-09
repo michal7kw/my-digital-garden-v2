@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.922461Z'
+created: '2026-02-09T08:04:40.103917Z'
 description: A condition in which the immune system mistakenly attacks and damages
   the body's own healthy cells, tissues, and organs.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Disease
 type: condition
-updated: '2026-02-09T05:54:31.922461Z'
+updated: '2026-02-09T08:04:40.103917Z'
 ---
 
 {% raw %}
@@ -39,42 +39,42 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[basophils]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/basophils/" class="internal-link">basophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[eosinophils]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/eosinophils/" class="internal-link">eosinophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[lymphocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lymphocytes/" class="internal-link">lymphocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[monocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[white_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">white_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -82,43 +82,43 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Autoimmune_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[basophils]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/basophils/" class="internal-link">basophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[eosinophils]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/eosinophils/" class="internal-link">eosinophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lymphocytes]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lymphocytes/" class="internal-link">lymphocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[monocytes]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[white_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">white_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
@@ -139,127 +139,127 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Autoimmune_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[white_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">white_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.704457'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[monocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[lymphocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lymphocytes/" class="internal-link">lymphocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.658204'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.105921'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[eosinophils]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/eosinophils/" class="internal-link">eosinophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.578220'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[basophils]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/basophils/" class="internal-link">basophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.601190'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[monocytes]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[lymphocytes]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/lymphocytes/" class="internal-link">lymphocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[basophils]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/basophils/" class="internal-link">basophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[eosinophils]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/eosinophils/" class="internal-link">eosinophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[white_blood_cell_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">white_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[white_blood_cell_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">white_blood_cell_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[monocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/monocytes/" class="internal-link">monocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[lymphocytes]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/lymphocytes/" class="internal-link">lymphocytes</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[eosinophils]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/eosinophils/" class="internal-link">eosinophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[basophils]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/basophils/" class="internal-link">basophils</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high_sensitivity_c_reactive_protein_hs_crp</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

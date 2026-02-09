@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.746030Z'
+created: '2026-02-09T08:04:39.993953Z'
 description: Cardiac troponin (I and T) is the gold standard biomarker for detecting
   myocardial injury and diagnosing acute myocardial infarction.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Troponin
 type: biomarker
-updated: '2026-02-09T05:54:31.746030Z'
+updated: '2026-02-09T08:04:39.993953Z'
 ---
 
 {% raw %}
@@ -62,26 +62,26 @@ updated: '2026-02-09T05:54:31.746030Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Coenzyme Q10]] - May support cardiac function and reduce troponin release in heart failure (mild, evidence level 3)</li>
-<li>[[Omega-3 Fatty Acids]] - Cardioprotective effects may reduce low-grade troponin elevations (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - May support cardiac function and reduce troponin release in heart failure (mild, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Cardioprotective effects may reduce low-grade troponin elevations (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[troponin i]] - Cardiac troponin I measurement (high-sensitivity assay preferred)</li>
-<li>[[troponin t high sensitivity]] - High-sensitivity cardiac troponin T measurement</li>
+<li><a href="/garden/dev_admin/labtest/troponin-i/" class="internal-link">troponin i</a> - Cardiac troponin I measurement (high-sensitivity assay preferred)</li>
+<li><a href="/garden/dev_admin/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a> - High-sensitivity cardiac troponin T measurement</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Creatine Kinase]] (biomarker)</li>
-<li>→ [[BNP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Creatine Kinase]] (biomarker) - Both elevated in myocardial injury; troponin more specific and sensitive</li>
-<li>→ [[BNP]] (biomarker) - Concurrent elevation suggests acute heart failure with myocardial injury</li>
-<li>→ [[Hs Crp]] (biomarker) - Inflammation may accompany troponin elevation in acute coronary syndromes</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker) - Both elevated in myocardial injury; troponin more specific and sensitive</li>
+<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker) - Concurrent elevation suggests acute heart failure with myocardial injury</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Inflammation may accompany troponin elevation in acute coronary syndromes</li>
 </ul>
 <h2>References</h2>
 <ul>

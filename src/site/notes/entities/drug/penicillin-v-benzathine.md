@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.207481Z'
+created: '2026-02-09T08:04:40.419128Z'
 description: A long-acting oral salt form of Penicillin V used for the treatment and
   prophylaxis of bacterial infections.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Benzathine
 type: drug
-updated: '2026-02-09T05:54:32.207481Z'
+updated: '2026-02-09T08:04:40.419128Z'
 ---
 
 {% raw %}
@@ -31,9 +31,9 @@ updated: '2026-02-09T05:54:32.207481Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Tonsillitis]]<br />
-PREVENTS_CONDITION::[[Rheumatic Fever]]<br />
-DRUG_CONTAINS_COMPOUND::[[Penicillin V]]</p>
+<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Tonsillitis</a><br />
+PREVENTS_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
+DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-v/" class="internal-link">Penicillin V</a></p>
 <h2>References</h2>
 <ul>
 <li>DrugBank. Penicillin V Benzathine.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.856896Z'
+created: '2026-02-09T08:04:41.219909Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Elevated hepatic transaminase
 type: phenotype
-updated: '2026-02-09T05:54:32.856896Z'
+updated: '2026-02-09T08:04:41.219909Z'
 ---
 
 {% raw %}
@@ -24,92 +24,92 @@ updated: '2026-02-09T05:54:32.856896Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Abnormal_enzymecoenzyme_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_enzymecoenzyme_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.945262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_aspartate_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_aspartate_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.945262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_alanine_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_alanine_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.945262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Abnormal_liver_function_tests_during_pregnancy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_liver_function_tests_during_pregnancy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.945262'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_transaminases_during_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_transaminases_during_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.945262'
 source: obsidian
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>← [[Abnormal_enzymecoenzyme_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormal_enzymecoenzyme_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.554000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Elevated_serum_alanine_aminotransferase]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Elevated_serum_alanine_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.560000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Elevated_serum_aspartate_aminotransferase]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Elevated_serum_aspartate_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.566000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Abnormal_liver_function_tests_during_pregnancy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormal_liver_function_tests_during_pregnancy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.572000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Elevated_serum_transaminases_during_infections]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Elevated_serum_transaminases_during_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.578000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_alanine_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_alanine_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.584000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormal_enzymecoenzyme_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_enzymecoenzyme_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.588000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormal_liver_function_tests_during_pregnancy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_liver_function_tests_during_pregnancy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.593000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_transaminases_during_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_transaminases_during_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.599000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_aspartate_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_aspartate_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.604000+00:00'
 source: PrimeKG
@@ -118,92 +118,92 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Abnormal_enzymecoenzyme_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_enzymecoenzyme_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:33:46.417843'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_alanine_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_alanine_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:33:46.417843'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_aspartate_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_aspartate_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:33:46.417843'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Abnormal_liver_function_tests_during_pregnancy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_liver_function_tests_during_pregnancy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:33:46.417843'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_transaminases_during_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_transaminases_during_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:33:46.417843'
 source: obsidian
 </code></pre>
 <h3>Relatedtophenotype</h3>
 <ul>
-<li>← [[Abnormal_enzymecoenzyme_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormal_enzymecoenzyme_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.554000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Elevated_serum_alanine_aminotransferase]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Elevated_serum_alanine_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.560000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Elevated_serum_aspartate_aminotransferase]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Elevated_serum_aspartate_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.566000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Abnormal_liver_function_tests_during_pregnancy]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Abnormal_liver_function_tests_during_pregnancy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.572000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[Elevated_serum_transaminases_during_infections]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">Elevated_serum_transaminases_during_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.578000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_alanine_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_alanine_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.584000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormal_enzymecoenzyme_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_enzymecoenzyme_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.588000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Abnormal_liver_function_tests_during_pregnancy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Abnormal_liver_function_tests_during_pregnancy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.593000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_transaminases_during_infections]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_transaminases_during_infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.599000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[Elevated_serum_aspartate_aminotransferase]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Elevated_serum_aspartate_aminotransferase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:29.604000+00:00'
 source: PrimeKG

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.525249Z'
+created: '2026-02-09T08:04:40.781031Z'
 description: High-sensitivity cardiac troponin T (hs-cTnT) test. Gold standard cardiac
   biomarker for detecting myocardial injury. Used in the diagnosis of acute myocardial
   infarction and prognostication in heart failure.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: troponin_t_high_sensitivity
 type: labtest
-updated: '2026-02-09T05:54:32.525249Z'
+updated: '2026-02-09T08:04:40.781031Z'
 ---
 
 {% raw %}
@@ -98,20 +98,20 @@ updated: '2026-02-09T05:54:32.525249Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Myocardial Infarction]]</li>
-<li>[[Heart Failure]]</li>
-<li>[[Acute Coronary Syndrome]]</li>
-<li>[[Myocarditis]]</li>
-<li>[[Cardiac Contusion]]</li>
+<li><a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
+<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Acute Coronary Syndrome</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Myocarditis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Cardiac Contusion</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Troponin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cardiac biomarker panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.537084Z'
+created: '2026-02-09T08:04:40.794149Z'
 description: Tested twice a year White blood cells (WBCs) in urine, known as leukocyturia,
   indicate the immune system is active in the urinary tract, often helping the body
   respond to infection or inflammation. When present in significant amounts, urinary
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: white_blood_cell_urine
 type: labtest
-updated: '2026-02-09T05:54:32.537084Z'
+updated: '2026-02-09T08:04:40.794149Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.537084Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Urinary Tract Infection (Uti)]]</li>
-<li>[[Kidney Infection]]</li>
-<li>[[Bladder Inflammation]]</li>
-<li>[[Kidney Stones]]</li>
-<li>[[Inflammation Of The Urinary Tract (Noninfectious)]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Infection</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bladder Inflammation</a></li>
+<li><a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Inflammation Of The Urinary Tract (Noninfectious)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,74 +72,74 @@ updated: '2026-02-09T05:54:32.537084Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Stones]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.547634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Inflammation_Of_The_Urinary_Tract_Noninfectious]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Inflammation_Of_The_Urinary_Tract_Noninfectious</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.547634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Inflammation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bladder_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.547634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.547634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.547634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Inflammation_Of_The_Urinary_Tract_Noninfectious]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Inflammation_Of_The_Urinary_Tract_Noninfectious</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Inflammation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bladder_Inflammation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Infection]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Infection</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Kidney_Stones]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Kidney_Stones]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

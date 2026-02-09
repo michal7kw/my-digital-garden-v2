@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.080492Z'
+created: '2026-02-09T08:04:41.442657Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR
 type: protein
-updated: '2026-02-09T05:54:33.080492Z'
+updated: '2026-02-09T08:04:41.442657Z'
 ---
 
 {% raw %}
@@ -32,27 +32,27 @@ updated: '2026-02-09T05:54:33.080492Z'
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[EGFR Signaling Pathway]] (pathway)</li>
-<li>→ [[MAPK Signaling Pathway]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/egfr-signaling-pathway/" class="internal-link">EGFR Signaling Pathway</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/mapk-signaling-pathway/" class="internal-link">MAPK Signaling Pathway</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>← [[EGF]] (protein) - <em>Ligand</em></li>
-<li>← [[TGF-alpha]] (protein) - <em>Ligand</em></li>
-<li>→ [[KRAS]] (protein) - <em>Downstream effector</em></li>
-<li>→ [[AKT1]] (protein) - <em>Downstream effector</em></li>
+<li>← <a href="/garden/dev_admin/protein/egf/" class="internal-link">EGF</a> (protein) - <em>Ligand</em></li>
+<li>← <a href="/garden/dev_admin/protein/tgf-alpha/" class="internal-link">TGF-alpha</a> (protein) - <em>Ligand</em></li>
+<li>→ <a href="/garden/dev_admin/protein/kras/" class="internal-link">KRAS</a> (protein) - <em>Downstream effector</em></li>
+<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein) - <em>Downstream effector</em></li>
 </ul>
 <h3>Targeted By</h3>
 <ul>
-<li>⊣ [[Gefitinib]] (drug) - <em>TKI</em></li>
-<li>⊣ [[Erlotinib]] (drug) - <em>TKI</em></li>
-<li>⊣ [[Cetuximab]] (drug) - <em>Monoclonal Antibody</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/gefitinib/" class="internal-link">Gefitinib</a> (drug) - <em>TKI</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/erlotinib/" class="internal-link">Erlotinib</a> (drug) - <em>TKI</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/cetuximab/" class="internal-link">Cetuximab</a> (drug) - <em>Monoclonal Antibody</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Lung Cancer]] (condition)</li>
-<li>→ [[Colorectal Cancer]] (condition)</li>
-<li>→ [[Glioblastoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/lung-cancer/" class="internal-link">Lung Cancer</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-cancer/" class="internal-link">Colorectal Cancer</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

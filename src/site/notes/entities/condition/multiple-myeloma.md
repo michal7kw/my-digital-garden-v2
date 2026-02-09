@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.063777Z'
+created: '2026-02-09T08:04:40.261769Z'
 description: A type of blood cancer that develops in the plasma cells of the bone
   marrow, leading to bone damage, kidney failure, and immune suppression.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Multiple Myeloma
 type: condition
-updated: '2026-02-09T05:54:32.063777Z'
+updated: '2026-02-09T08:04:40.261769Z'
 ---
 
 {% raw %}
@@ -33,30 +33,30 @@ updated: '2026-02-09T05:54:32.063777Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Multiple_Myeloma]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-myeloma/" class="internal-link">Multiple_Myeloma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:47.354575'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Multiple_Myeloma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/multiple-myeloma/" class="internal-link">Multiple_Myeloma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:49.854750'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Anemia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Kidney Disease]]<br />
-AFFECTS_ORGAN::[[Bone Marrow]]<br />
-AFFECTS_ORGAN::[[Bone]]<br />
-AFFECTS_ORGAN::[[Kidney]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Calcium]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Total Protein]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Albumin Globulin Ratio]] - Decreased.<br />
-TREATED_BY_DRUG::[[Bortezomib]]<br />
-TREATED_BY_DRUG::[[Lenalidomide]]<br />
-TREATED_BY_INTERVENTION::[[Stem Cell Transplant]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">Total Protein</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/albumin-globulin-ratio/" class="internal-link">Albumin Globulin Ratio</a> - Decreased.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Bortezomib</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Lenalidomide</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Stem Cell Transplant</a></p>
 <h2>References</h2>
 <ul>
 <li>Rajkumar, S. V. (2016). Multiple myeloma: 2016 update on diagnosis, risk-stratification, and management. American Journal of Hematology.</li>

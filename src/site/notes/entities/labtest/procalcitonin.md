@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.480171Z'
+created: '2026-02-09T08:04:40.728848Z'
 description: Procalcitonin (PCT) test. Serum biomarker that rises specifically in
   response to bacterial infections. Used to guide initiation and discontinuation of
   antibiotic therapy, particularly in sepsis and lower respiratory tract infections.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: procalcitonin
 type: labtest
-updated: '2026-02-09T05:54:32.480171Z'
+updated: '2026-02-09T08:04:40.728848Z'
 ---
 
 {% raw %}
@@ -108,16 +108,16 @@ updated: '2026-02-09T05:54:32.480171Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Sepsis]]</li>
-<li>[[Bacterial Infection]]</li>
-<li>[[Pneumonia]]</li>
-<li>[[Meningitis]]</li>
-<li>[[Urinary Tract Infection]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Sepsis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bacterial Infection</a></li>
+<li><a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a></li>
+<li><a href="/garden/dev_admin/condition/meningitis/" class="internal-link">Meningitis</a></li>
+<li><a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Procalcitonin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">Procalcitonin</a> (biomarker)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

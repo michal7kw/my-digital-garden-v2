@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.065989Z'
+created: '2026-02-09T08:04:41.425503Z'
 description: Beta-Catenin. Key component of adherens junctions and the canonical Wnt
   signaling pathway.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CTNNB1
 type: protein
-updated: '2026-02-09T05:54:33.065989Z'
+updated: '2026-02-09T08:04:41.425503Z'
 ---
 
 {% raw %}
@@ -33,121 +33,121 @@ updated: '2026-02-09T05:54:33.065989Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hepatocellular_Carcinoma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hepatocellular_Carcinoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Wnt_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Wnt_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adherens_Junctions]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Adherens_Junctions</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TCFLEF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">TCFLEF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GSK3-beta]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GSK3-beta</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Wnt_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Wnt_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hepatocellular_Carcinoma]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hepatocellular_Carcinoma</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[APC]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">APC</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[E-cadherin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">E-cadherin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adherens_Junctions]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Adherens_Junctions</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TCFLEF]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">TCFLEF</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.859218'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CTNNB1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.287087'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CXCR4]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cxcr4/" class="internal-link">CXCR4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EGR1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/egr1/" class="internal-link">EGR1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CXCR4]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/cxcr4/" class="internal-link">CXCR4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[AKT1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGR1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/egr1/" class="internal-link">EGR1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[AKT1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.530000'
 source: obsidian
@@ -156,20 +156,20 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Wnt Signaling Pathway]] (pathway) - <em>Central mediator</em></li>
-<li>→ [[Adherens Junctions]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/wnt-signaling-pathway/" class="internal-link">Wnt Signaling Pathway</a> (pathway) - <em>Central mediator</em></li>
+<li>→ <a href="/garden/dev_admin/pathway/adherens-junctions/" class="internal-link">Adherens Junctions</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[E-cadherin]] (protein) - <em>Adhesion partner</em></li>
-<li>→ [[APC]] (protein) - <em>Regulates degradation (Tumor Suppressor)</em></li>
-<li>→ [[GSK3-beta]] (protein) - <em>Phosphorylates CTNNB1</em></li>
-<li>→ [[TCF/LEF]] (protein) - <em>Transcription factor partners</em></li>
+<li>→ <a href="/garden/dev_admin/protein/e-cadherin/" class="internal-link">E-cadherin</a> (protein) - <em>Adhesion partner</em></li>
+<li>→ <a href="/garden/dev_admin/protein/apc/" class="internal-link">APC</a> (protein) - <em>Regulates degradation (Tumor Suppressor)</em></li>
+<li>→ <a href="/garden/dev_admin/protein/gsk3-beta/" class="internal-link">GSK3-beta</a> (protein) - <em>Phosphorylates CTNNB1</em></li>
+<li>→ <a href="/garden/dev_admin/protein/tcflef/" class="internal-link">TCF/LEF</a> (protein) - <em>Transcription factor partners</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Colorectal Cancer]] (condition) - <em>APC or CTNNB1 mutations</em></li>
-<li>→ [[Hepatocellular Carcinoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-cancer/" class="internal-link">Colorectal Cancer</a> (condition) - <em>APC or CTNNB1 mutations</em></li>
+<li>→ <a href="/garden/dev_admin/condition/hepatocellular-carcinoma/" class="internal-link">Hepatocellular Carcinoma</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

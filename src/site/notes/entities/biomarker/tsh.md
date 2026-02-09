@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.733577Z'
+created: '2026-02-09T08:04:39.981688Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Tsh
 type: biomarker
-updated: '2026-02-09T05:54:31.733577Z'
+updated: '2026-02-09T08:04:39.981688Z'
 ---
 
 {% raw %}
@@ -30,38 +30,38 @@ updated: '2026-02-09T05:54:31.733577Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Anxiety]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.556962'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fatigue]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.556962'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Fatigue]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Anxiety]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:13.859142'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Tsh]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.214887'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Thyroid]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Thyroid Regulation

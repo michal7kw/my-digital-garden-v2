@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.064886Z'
+created: '2026-02-09T08:04:41.424257Z'
 description: Transcriptional repressor and insulator protein. Regulates 3D genome
   organization (TADs).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CTCF
 type: protein
-updated: '2026-02-09T05:54:33.064886Z'
+updated: '2026-02-09T08:04:41.424257Z'
 ---
 
 {% raw %}
@@ -32,55 +32,55 @@ updated: '2026-02-09T05:54:33.064886Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Cancer]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chromatin_Organization]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chromatin_Organization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.096373'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gene_Regulation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gene_Regulation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.096373'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gene_Regulation]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Gene_Regulation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cohesin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cohesin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chromatin_Organization]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chromatin_Organization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">DNA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CTCF]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ctcf/" class="internal-link">CTCF</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.240763'
 source: obsidian
@@ -89,17 +89,17 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Chromatin Organization]] (pathway)</li>
-<li>→ [[Gene Regulation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/chromatin-organization/" class="internal-link">Chromatin Organization</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/gene-regulation/" class="internal-link">Gene Regulation</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[Cohesin]] (protein) - <em>Complex partner for loop extrusion</em></li>
-<li>→ [[DNA]] (cellularcomponent) - <em>Binds specific motifs</em></li>
+<li>→ <a href="/garden/dev_admin/protein/cohesin/" class="internal-link">Cohesin</a> (protein) - <em>Complex partner for loop extrusion</em></li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/dna/" class="internal-link">DNA</a> (cellularcomponent) - <em>Binds specific motifs</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Cancer]] (condition) - <em>Mutations disrupt boundaries, activating oncogenes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition) - <em>Mutations disrupt boundaries, activating oncogenes</em></li>
 </ul>
 <h2>References</h2>
 <ol>

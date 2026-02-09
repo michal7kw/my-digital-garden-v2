@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.150129Z'
+created: '2026-02-09T08:04:41.527676Z'
 description: The Q-SYMBIO trial was a landmark multicenter, randomized, double-blind,
   placebo-controlled study demonstrating that CoQ10 supplementation (300 mg/day for
   2 years) significantly reduced cardiovascular mortality and hospitalizations in
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: 'Q-SYMBIO: Coenzyme Q10 as adjunctive treatment of chronic heart failure'
 type: research
-updated: '2026-02-09T05:54:33.150129Z'
+updated: '2026-02-09T08:04:41.527676Z'
 ---
 
 {% raw %}
@@ -47,15 +47,15 @@ updated: '2026-02-09T05:54:33.150129Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>STUDIES::[[Coenzyme Q10]] - Primary intervention (300 mg/day)<br />
-STUDIES::[[CoQ10]] - Alternative supplement name reference<br />
-TREATS::[[Heart Failure]] - Target condition (NYHA class III-IV)<br />
-AFFECTS::[[Heart]] - Target organ<br />
-INCREASES::[[ATP]] - Mechanism: enhanced mitochondrial energy production<br />
-AFFECTS::[[Mitochondria]] - Primary site of action (electron transport chain)<br />
-DECREASES::[[Cardiovascular Disease]] - Reduced CV mortality outcome<br />
-INVOLVES::[[Cytochrome C]] - Electron transport chain component<br />
-RELATED_TO::[[ATP Synthase]] - Terminal enzyme in oxidative phosphorylation</p>
+<p>STUDIES::<a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Primary intervention (300 mg/day)<br />
+STUDIES::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Alternative supplement name reference<br />
+TREATS::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a> - Target condition (NYHA class III-IV)<br />
+AFFECTS::<a class="internal-link is-unresolved" href="/404">Heart</a> - Target organ<br />
+INCREASES::<a class="internal-link is-unresolved" href="/404">ATP</a> - Mechanism: enhanced mitochondrial energy production<br />
+AFFECTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Primary site of action (electron transport chain)<br />
+DECREASES::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Reduced CV mortality outcome<br />
+INVOLVES::<a href="/garden/dev_admin/protein/cytochrome-c/" class="internal-link">Cytochrome C</a> - Electron transport chain component<br />
+RELATED_TO::<a href="/garden/dev_admin/protein/atp-synthase/" class="internal-link">ATP Synthase</a> - Terminal enzyme in oxidative phosphorylation</p>
 <h2>Methodology</h2>
 <pre><code class="language-yaml">design: Multicenter, randomized, double-blind, placebo-controlled trial
 centers: 17

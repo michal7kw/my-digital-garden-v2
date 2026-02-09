@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.907140Z'
+created: '2026-02-09T08:04:40.089036Z'
 description: Alcohol Use Disorder (AUD) is a chronic relapsing brain disorder characterized
   by compulsive alcohol use, loss of control over intake, and negative emotional state
   when not using. Also known as alcoholism, it involves both physical and psychological
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alcoholism
 type: condition
-updated: '2026-02-09T05:54:31.907140Z'
+updated: '2026-02-09T08:04:40.089036Z'
 ---
 
 {% raw %}
@@ -41,25 +41,25 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[PRAZOSIN]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:29.799805'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[PRAZOSIN]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:02.527184'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcoholism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcoholism/" class="internal-link">Alcoholism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.790609'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[PRAZOSIN]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:46.790609'
 source: obsidian
@@ -80,19 +80,19 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[PRAZOSIN]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.015287'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[PRAZOSIN]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.289113'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcoholism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcoholism/" class="internal-link">Alcoholism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.015287'
 source: obsidian

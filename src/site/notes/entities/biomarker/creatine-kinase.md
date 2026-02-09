@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.620575Z'
+created: '2026-02-09T08:04:39.869260Z'
 description: An enzyme found in the heart, brain, and skeletal muscle that catalyzes
   the conversion of creatine to phosphocreatine.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine Kinase
 type: biomarker
-updated: '2026-02-09T05:54:31.620575Z'
+updated: '2026-02-09T08:04:39.869260Z'
 ---
 
 {% raw %}
@@ -40,16 +40,16 @@ updated: '2026-02-09T05:54:31.620575Z'
 <li><strong>Statin-Induced Myopathy:</strong> Statins can cause muscle pain and mild to moderate CK elevations.</li>
 </ul>
 <h2>Relationships</h2>
-<p>INDICATES_DAMAGE_TO::[[Muscle]] - CK-MM<br />
-INDICATES_DAMAGE_TO::[[Heart]] - CK-MB<br />
-INDICATES_DAMAGE_TO::[[Brain]] - CK-BB<br />
-PARTICIPATES_IN_PATHWAY::[[Creatine Metabolism]]<br />
-ASSOCIATED_WITH_CONDITION::[[Rhabdomyolysis]] - Hallmark marker<br />
-ASSOCIATED_WITH_CONDITION::[[Myocardial Infarction]]<br />
-ASSOCIATED_WITH_CONDITION::[[Muscular Dystrophy]]<br />
-INCREASED_BY::[[Exercise]] - Strenuous exercise causes transient spikes<br />
-INCREASED_BY::[[Statins]] - Potential side effect<br />
-AFFECTED_BY::[[Creatine]] - Supplementation increases intracellular phosphocreatine pool</p>
+<p>INDICATES_DAMAGE_TO::<a class="internal-link is-unresolved" href="/404">Muscle</a> - CK-MM<br />
+INDICATES_DAMAGE_TO::<a class="internal-link is-unresolved" href="/404">Heart</a> - CK-MB<br />
+INDICATES_DAMAGE_TO::<a class="internal-link is-unresolved" href="/404">Brain</a> - CK-BB<br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Creatine Metabolism</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/rhabdomyolysis/" class="internal-link">Rhabdomyolysis</a> - Hallmark marker<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Muscular Dystrophy</a><br />
+INCREASED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Strenuous exercise causes transient spikes<br />
+INCREASED_BY::<a class="internal-link is-unresolved" href="/404">Statins</a> - Potential side effect<br />
+AFFECTED_BY::<a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> - Supplementation increases intracellular phosphocreatine pool</p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
@@ -63,62 +63,62 @@ AFFECTED_BY::[[Creatine]] - Supplementation increases intracellular phosphocreat
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Coenzyme_Q10]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.815531'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Coenzyme_Q10]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:04.161172'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.815531'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EMG_and_Nerve_Conduction_Studies]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.815531'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine_Kinase]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.087399'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[biomarker_log]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">biomarker_log</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.087399'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EMG_and_Nerve_Conduction_Studies]] (examination)</li>
+<li>← <a href="/garden/dev_admin/examination/emg-and-nerve-conduction-studies/" class="internal-link">EMG_and_Nerve_Conduction_Studies</a> (examination)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.705253'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine_Kinase]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.087399'
 source: obsidian
 </code></pre>
 <h3>Decreases Biomarker</h3>
 <ul>
-<li>← [[Coenzyme_Q10]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 0

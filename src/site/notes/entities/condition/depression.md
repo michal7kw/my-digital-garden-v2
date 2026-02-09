@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.974251Z'
+created: '2026-02-09T08:04:40.162741Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Depression
 type: condition
-updated: '2026-02-09T05:54:31.974251Z'
+updated: '2026-02-09T08:04:40.162741Z'
 ---
 
 {% raw %}
@@ -38,45 +38,45 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.923985'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.923985'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.923985'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[vitamin_d_deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[vitamin_d_deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
@@ -97,141 +97,141 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Quetiapine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Clomipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Imipramine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mediterranean_Diet]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amitriptyline]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/amitriptyline/" class="internal-link">Amitriptyline</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Doxepin]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.895632'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d_deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.895632'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Omega-3_DHA]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mediterranean_Diet]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Quetiapine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Imipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Doxepin]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.513007'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Clomipramine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Amitriptyline]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/amitriptyline/" class="internal-link">Amitriptyline</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:36:45.740417'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_D_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.895632'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.895632'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Vitamin_D_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian

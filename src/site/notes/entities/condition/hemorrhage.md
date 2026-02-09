@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.006917Z'
+created: '2026-02-09T08:04:40.196619Z'
 description: The release of blood from a broken blood vessel, either inside or outside
   the body.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hemorrhage
 type: condition
-updated: '2026-02-09T05:54:32.006917Z'
+updated: '2026-02-09T08:04:40.196619Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hemorrhage]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hemorrhage/" class="internal-link">Hemorrhage</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:10.163379'
 source: obsidian
@@ -59,7 +59,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Hemorrhage]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hemorrhage/" class="internal-link">Hemorrhage</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.965419'
 source: obsidian

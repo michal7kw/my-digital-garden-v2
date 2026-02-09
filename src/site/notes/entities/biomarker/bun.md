@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.607423Z'
+created: '2026-02-09T08:04:39.857434Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Bun
 type: biomarker
-updated: '2026-02-09T05:54:31.607423Z'
+updated: '2026-02-09T08:04:39.857434Z'
 ---
 
 {% raw %}
@@ -30,14 +30,14 @@ updated: '2026-02-09T05:54:31.607423Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bun]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bun/" class="internal-link">Bun</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.722246'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Kidneys]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: medium
 function_indicated: Nitrogen Metabolism / Filtration

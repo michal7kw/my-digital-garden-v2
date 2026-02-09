@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.557612Z'
+created: '2026-02-09T08:04:40.816856Z'
 description: The brain's primary excitatory neurotransmitter, essential for learning,
   memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate
   can cause excitotoxicity and neuronal damage.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamate
 type: neurotransmitter
-updated: '2026-02-09T05:54:32.557612Z'
+updated: '2026-02-09T08:04:40.816856Z'
 ---
 
 {% raw %}
@@ -29,50 +29,50 @@ updated: '2026-02-09T05:54:32.557612Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Memantine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/memantine/" class="internal-link">Memantine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.159786'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Memantine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/memantine/" class="internal-link">Memantine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.400780'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NAC]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.175951'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Theanine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.804747'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.024305'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAC]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.024305'
 source: obsidian
 </code></pre>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>← [[NAC]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.347484'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Theanine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.283345'
 source: obsidian
@@ -81,38 +81,38 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Modulates Neurotransmitter</h3>
 <ul>
-<li>← [[L-Theanine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.283345'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NAC]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.347484'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[NAC]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.200981'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.200981'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[L-Theanine]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:05.375306'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NAC]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.800458'
 source: obsidian

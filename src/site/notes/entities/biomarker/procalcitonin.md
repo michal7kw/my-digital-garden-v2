@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.719767Z'
+created: '2026-02-09T08:04:39.968299Z'
 description: Procalcitonin is a precursor peptide of calcitonin that is markedly elevated
   in systemic bacterial infections and sepsis, serving as a key biomarker for distinguishing
   bacterial from viral infections and guiding antibiotic stewardship.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Procalcitonin
 type: biomarker
-updated: '2026-02-09T05:54:31.719767Z'
+updated: '2026-02-09T08:04:39.968299Z'
 ---
 
 {% raw %}
@@ -66,19 +66,19 @@ updated: '2026-02-09T05:54:31.719767Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[procalcitonin]] - Procalcitonin immunoassay (BRAHMS PCT assay, chemiluminescence)</li>
+<li><a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">procalcitonin</a> - Procalcitonin immunoassay (BRAHMS PCT assay, chemiluminescence)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[White Blood Cell Count]] (biomarker)</li>
-<li>→ [[Hs Crp]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[White Blood Cell Count]] (biomarker) - Both elevated in bacterial infection; WBC less specific than PCT for bacterial vs viral differentiation</li>
-<li>→ [[Hs Crp]] (biomarker) - CRP rises in both bacterial and viral infections; PCT is more specific for bacterial etiology</li>
-<li>→ [[Interleukin 6]] (biomarker) - IL-6 drives PCT production; IL-6 rises earlier but is less specific for bacterial infection</li>
+<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker) - Both elevated in bacterial infection; WBC less specific than PCT for bacterial vs viral differentiation</li>
+<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - CRP rises in both bacterial and viral infections; PCT is more specific for bacterial etiology</li>
+<li>→ <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker) - IL-6 drives PCT production; IL-6 rises earlier but is less specific for bacterial infection</li>
 </ul>
 <h2>References</h2>
 <ul>

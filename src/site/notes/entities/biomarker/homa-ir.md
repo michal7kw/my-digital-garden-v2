@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.662544Z'
+created: '2026-02-09T08:04:39.909449Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Homa Ir
 type: biomarker
-updated: '2026-02-09T05:54:31.662544Z'
+updated: '2026-02-09T08:04:39.909449Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.662544Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Homa_Ir]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa_Ir</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.596679'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homa_Ir]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa_Ir</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.596679'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Homa_Ir]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa_Ir</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.062419'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homa_Ir]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa_Ir</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.062419'
 source: obsidian

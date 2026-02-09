@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.116539Z'
+created: '2026-02-09T08:04:40.315552Z'
 description: A condition in which the heart valves have been permanently damaged by
   rheumatic fever.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Heart Disease
 type: condition
-updated: '2026-02-09T05:54:32.116539Z'
+updated: '2026-02-09T08:04:40.315552Z'
 ---
 
 {% raw %}
@@ -29,28 +29,28 @@ updated: '2026-02-09T05:54:32.116539Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Rheumatic_Heart_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/rheumatic-heart-disease/" class="internal-link">Rheumatic_Heart_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.985663'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Rheumatic_Heart_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/rheumatic-heart-disease/" class="internal-link">Rheumatic_Heart_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:57.381239'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Streptococcus pyogenes]]<br />
-ASSOCIATED_WITH_CONDITION::[[Rheumatic Fever]]<br />
-ASSOCIATED_WITH_CONDITION::[[Heart Failure]]<br />
-ASSOCIATED_WITH_CONDITION::[[Atrial Fibrillation]]<br />
-ASSOCIATED_WITH_CONDITION::[[Stroke]]<br />
-AFFECTS_ORGAN::[[Heart]]<br />
-AFFECTS_ORGAN::[[Heart Valve]]<br />
-TREATED_BY_DRUG::[[Penicillin]] - Long-term prophylaxis.<br />
-TREATED_BY_INTERVENTION::[[Valve Replacement]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus pyogenes</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart Valve</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Penicillin</a> - Long-term prophylaxis.<br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Valve Replacement</a></p>
 <h2>References</h2>
 <ul>
 <li>Carapetis, J. R., et al. (2016). The global burden of group A streptococcal diseases. The Lancet Infectious Diseases.</li>

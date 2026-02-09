@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.205509Z'
+created: '2026-02-09T08:04:40.417188Z'
 description: A narrow-spectrum antibiotic used to treat serious bacterial infections
   caused by susceptible organisms, typically administered by injection.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G
 type: drug
-updated: '2026-02-09T05:54:32.205509Z'
+updated: '2026-02-09T08:04:40.417188Z'
 ---
 
 {% raw %}
@@ -35,12 +35,12 @@ updated: '2026-02-09T05:54:32.205509Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Syphilis]]<br />
-TREATS_CONDITION::[[Bacterial Endocarditis]]<br />
-TREATS_CONDITION::[[Meningitis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]<br />
-INHIBITS_PROTEIN::[[Penicillin-Binding Proteins]]<br />
-DRUG_INTERACTION_WITH::[[Probenecid]] - Increases penicillin levels.</p>
+<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Syphilis</a><br />
+TREATS_CONDITION::<a href="/garden/dev_admin/condition/bacterial-endocarditis/" class="internal-link">Bacterial Endocarditis</a><br />
+TREATS_CONDITION::<a href="/garden/dev_admin/condition/meningitis/" class="internal-link">Meningitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
+INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">Penicillin-Binding Proteins</a><br />
+DRUG_INTERACTION_WITH::<a class="internal-link is-unresolved" href="/404">Probenecid</a> - Increases penicillin levels.</p>
 <h2>References</h2>
 <ul>
 <li>Ross, S., et al. (1944). Penicillin G.</li>

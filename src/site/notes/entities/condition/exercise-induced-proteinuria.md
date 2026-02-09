@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.987687Z'
+created: '2026-02-09T08:04:40.176056Z'
 description: A transient and generally benign increase in the excretion of protein
   in the urine following strenuous physical activity.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise-Induced Proteinuria
 type: condition
-updated: '2026-02-09T05:54:31.987687Z'
+updated: '2026-02-09T08:04:40.176056Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -46,13 +46,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Exercise-Induced_Proteinuria]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:06.320350'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hyaline_casts_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:06.320350'
 source: obsidian
@@ -73,32 +73,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Exercise-Induced_Proteinuria]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.684328'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise-Induced_Proteinuria]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.684328'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hyaline_casts_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.684328'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

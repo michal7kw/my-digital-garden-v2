@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.747221Z'
+created: '2026-02-09T08:04:39.995089Z'
 description: Ubiquitin C-terminal Hydrolase L1, a neuron-specific enzyme released
   upon neuronal injury. FDA-cleared for traumatic brain injury assessment in combination
   with GFAP.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: UCH-L1
 type: biomarker
-updated: '2026-02-09T05:54:31.747221Z'
+updated: '2026-02-09T08:04:39.995089Z'
 ---
 
 {% raw %}
@@ -135,121 +135,121 @@ updated: '2026-02-09T05:54:31.747221Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cardiac_Arrest]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Blood_NfL]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CT_Head]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CT_Head</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[NSE]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CT_Head]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CT_Head</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Stroke]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Stroke</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiac_Arrest]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[S100B]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[GFAP]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Blood_NfL]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NSE]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GFAP]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[S100B]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
@@ -258,21 +258,21 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Traumatic Brain Injury]] (condition) - <em>FDA-cleared indication</em></li>
-<li>→ [[Hypoxic Brain Injury]] (condition) - <em>Elevated acutely</em></li>
-<li>→ [[Stroke]] (condition) - <em>Research</em></li>
-<li>→ [[Cardiac Arrest]] (condition) - <em>Prognostic potential</em></li>
+<li>→ <a href="/garden/dev_admin/condition/traumatic-brain-injury/" class="internal-link">Traumatic Brain Injury</a> (condition) - <em>FDA-cleared indication</em></li>
+<li>→ <a href="/garden/dev_admin/condition/hypoxic-brain-injury/" class="internal-link">Hypoxic Brain Injury</a> (condition) - <em>Elevated acutely</em></li>
+<li>→ <a href="/garden/dev_admin/condition/stroke/" class="internal-link">Stroke</a> (condition) - <em>Research</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cardiac-arrest/" class="internal-link">Cardiac Arrest</a> (condition) - <em>Prognostic potential</em></li>
 </ul>
 <h3>Related Biomarkers</h3>
 <ul>
-<li>→ [[GFAP]] (biomarker) - <em>Combined in TBI test</em></li>
-<li>→ [[S100B]] (biomarker) - <em>Alternative TBI marker</em></li>
-<li>→ [[NSE]] (biomarker) - <em>Neuronal marker</em></li>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Axonal damage</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Combined in TBI test</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker) - <em>Alternative TBI marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker) - <em>Neuronal marker</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Axonal damage</em></li>
 </ul>
 <h3>Examinations</h3>
 <ul>
-<li>← [[CT Head]] (examination) - <em>Imaging decision support</em></li>
+<li>← <a href="/garden/dev_admin/examination/ct-head/" class="internal-link">CT Head</a> (examination) - <em>Imaging decision support</em></li>
 </ul>
 <h2>Advantages and Limitations</h2>
 <h3>Advantages</h3>

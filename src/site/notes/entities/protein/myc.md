@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.087490Z'
+created: '2026-02-09T08:04:41.450282Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: protein
-updated: '2026-02-09T05:54:33.087490Z'
+updated: '2026-02-09T08:04:41.450282Z'
 ---
 
 {% raw %}
@@ -43,25 +43,25 @@ updated: '2026-02-09T05:54:33.087490Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[DNA_binding]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/dna-binding/" class="internal-link">DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.590073'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CXCR4]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cxcr4/" class="internal-link">CXCR4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.590073'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CXCR4]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/cxcr4/" class="internal-link">CXCR4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[DNA_binding]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/dna-binding/" class="internal-link">DNA_binding</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.221674'
 source: obsidian
@@ -70,25 +70,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[DNA_binding]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/dna-binding/" class="internal-link">DNA_binding</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:46.093355'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CXCR4]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/cxcr4/" class="internal-link">CXCR4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CXCR4]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cxcr4/" class="internal-link">CXCR4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:49.074450'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[DNA_binding]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/protein/dna-binding/" class="internal-link">DNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:49.074450'
 source: obsidian

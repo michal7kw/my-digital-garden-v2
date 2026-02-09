@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.296372Z'
+created: '2026-02-09T08:04:40.516728Z'
 description: Moderate-intensity aerobic exercise performed at a pace that allows for
   steady-state fat oxidation and mitochondrial development.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Zone 2 Training
 type: intervention
-updated: '2026-02-09T05:54:32.296372Z'
+updated: '2026-02-09T08:04:40.516728Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:32.296372Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Zone_2_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/zone-2-training/" class="internal-link">Zone_2_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.022178'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zone_2_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/zone-2-training/" class="internal-link">Zone_2_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.022178'
 source: obsidian
@@ -45,13 +45,13 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Zone_2_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/zone-2-training/" class="internal-link">Zone_2_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:12.453407'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zone_2_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/zone-2-training/" class="internal-link">Zone_2_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:12.453407'
 source: obsidian

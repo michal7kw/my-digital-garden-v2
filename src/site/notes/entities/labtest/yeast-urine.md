@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.540190Z'
+created: '2026-02-09T08:04:40.797130Z'
 description: Tested twice a year Yeast in the urine, most often Candida species, may
   sometimes reflect contamination from the skin or genital area, but persistent presence
   often signals a fungal urinary tract infection (UTI) known as candiduria.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: yeast_urine
 type: labtest
-updated: '2026-02-09T05:54:32.540190Z'
+updated: '2026-02-09T08:04:40.797130Z'
 ---
 
 {% raw %}
@@ -58,11 +58,11 @@ updated: '2026-02-09T05:54:32.540190Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Yeast Infection (Candidiasis)]]</li>
-<li>[[Urinary Tract Infection (Secondary Yeast Involvement)]]</li>
-<li>[[Immune Deficiency]]</li>
-<li>[[Poor Glucose Control]]</li>
-<li>[[Medication Effect (E.G., Antibiotics Or Steroids)]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Yeast Infection (Candidiasis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Secondary Yeast Involvement)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Immune Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Poor Glucose Control</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Medication Effect (E.G., Antibiotics Or Steroids)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -70,61 +70,61 @@ updated: '2026-02-09T05:54:32.540190Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Poor_Glucose_Control]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Glucose_Control</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Secondary_Yeast_Involvement]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Secondary_Yeast_Involvement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication_Effect_EG_Antibiotics_Or_Steroids]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect_EG_Antibiotics_Or_Steroids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Yeast_Infection_Candidiasis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Yeast_Infection_Candidiasis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Poor_Glucose_Control]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Glucose_Control</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Deficiency]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Secondary_Yeast_Involvement]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Secondary_Yeast_Involvement</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Yeast_Infection_Candidiasis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Yeast_Infection_Candidiasis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Medication_Effect_EG_Antibiotics_Or_Steroids]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect_EG_Antibiotics_Or_Steroids</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
 source: obsidian

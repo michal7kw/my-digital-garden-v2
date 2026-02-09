@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.924518Z'
+created: '2026-02-09T08:04:40.106107Z'
 description: A chronic liver disease in which the body's immune system mistakenly
   attacks liver cells, causing inflammation and liver damage.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Hepatitis
 type: condition
-updated: '2026-02-09T05:54:31.924518Z'
+updated: '2026-02-09T08:04:40.106107Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[alanine_transaminase_alt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -47,49 +47,49 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[Arthralgia]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/arthralgia/" class="internal-link">Arthralgia</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-18T17:27:07.420190'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Abdominal_pain]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/abdominal-pain/" class="internal-link">Abdominal_pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-18T17:27:18.378061'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Anxiety]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-18T17:27:33.556534'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Arthralgia]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/arthralgia/" class="internal-link">Arthralgia</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Abdominal_pain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/abdominal-pain/" class="internal-link">Abdominal_pain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anxiety]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
@@ -110,68 +110,68 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Abdominal_pain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/abdominal-pain/" class="internal-link">Abdominal_pain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hepatitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[alanine_transaminase_alt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Anxiety]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Arthralgia]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/arthralgia/" class="internal-link">Arthralgia</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Anxiety]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-18T17:27:33.556534'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Abdominal_pain]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/abdominal-pain/" class="internal-link">Abdominal_pain</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-18T17:27:18.378061'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Arthralgia]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/arthralgia/" class="internal-link">Arthralgia</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-18T17:27:07.420190'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[alanine_transaminase_alt]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/alanine-transaminase-alt/" class="internal-link">alanine_transaminase_alt</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

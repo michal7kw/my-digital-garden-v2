@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.284231Z'
+created: '2026-02-09T08:04:40.502818Z'
 description: A dietary pattern emphasizing fruits, vegetables, whole grains, legumes,
   nuts, olive oil, and fish. Associated with reduced risk of cardiovascular disease,
   cognitive decline, and dementia.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mediterranean Diet
 type: intervention
-updated: '2026-02-09T05:54:32.284231Z'
+updated: '2026-02-09T08:04:40.502818Z'
 ---
 
 {% raw %}
@@ -214,205 +214,205 @@ updated: '2026-02-09T05:54:32.284231Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sleep_Optimization]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Neuroinflammation]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[LDL_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_E]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CRP]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CRP</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Omega-3_DHA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polyphenols]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Polyphenols</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Type_2_Diabetes]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HbA1c]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[LDL_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Neuroinflammation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Optimization]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cognitive_Training]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vascular_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Sleep_Optimization]] (intervention)</li>
+<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vascular_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Exercise]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cognitive_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BDNF]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Depression]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_E]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Homocysteine]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Folate]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
@@ -421,33 +421,33 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Conditions (Prevention)</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Reduced risk</em></li>
-<li>→ [[Vascular Dementia]] (condition) - <em>Cardiovascular protection</em></li>
-<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Slowed progression</em></li>
-<li>→ [[Cardiovascular Disease]] (condition) - <em>PREDIMED evidence</em></li>
-<li>→ [[Type 2 Diabetes]] (condition) - <em>Reduced incidence</em></li>
-<li>→ [[Depression]] (condition) - <em>SMILES trial evidence</em></li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Reduced risk</em></li>
+<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Cardiovascular protection</em></li>
+<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Slowed progression</em></li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition) - <em>PREDIMED evidence</em></li>
+<li>→ <a href="/garden/dev_admin/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (condition) - <em>Reduced incidence</em></li>
+<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition) - <em>SMILES trial evidence</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[CRP]] (biomarker) - <em>Reduces inflammation</em></li>
-<li>→ [[LDL Cholesterol]] (biomarker) - <em>Reduces oxidation</em></li>
-<li>→ [[HbA1c]] (biomarker) - <em>Glycemic control</em></li>
-<li>→ [[BDNF]] (biomarker) - <em>May increase</em></li>
-<li>→ [[Homocysteine]] (biomarker) - <em>Reduced with folate</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/crp/" class="internal-link">CRP</a> (biomarker) - <em>Reduces inflammation</em></li>
+<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (biomarker) - <em>Reduces oxidation</em></li>
+<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (biomarker) - <em>Glycemic control</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker) - <em>May increase</em></li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker) - <em>Reduced with folate</em></li>
 </ul>
 <h3>Synergistic Interventions</h3>
 <ul>
-<li>→ [[Exercise]] (intervention) - <em>PREDIMED-Plus combination</em></li>
-<li>→ [[Cognitive Training]] (intervention) - <em>FINGER trial</em></li>
-<li>→ [[Sleep Optimization]] (intervention) - <em>Comprehensive lifestyle</em></li>
+<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>PREDIMED-Plus combination</em></li>
+<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive Training</a> (intervention) - <em>FINGER trial</em></li>
+<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (intervention) - <em>Comprehensive lifestyle</em></li>
 </ul>
 <h3>Key Nutrients</h3>
 <ul>
-<li>→ [[Omega-3 DHA]] (supplement) - <em>From fish</em></li>
-<li>→ [[Vitamin E]] (supplement) - <em>From olive oil, nuts</em></li>
-<li>→ [[Folate]] (supplement) - <em>From leafy greens</em></li>
-<li>→ [[Polyphenols]] (supplement) - <em>From plants, wine</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement) - <em>From fish</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement) - <em>From olive oil, nuts</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement) - <em>From leafy greens</em></li>
+<li>→ <a href="/garden/dev_admin/supplement/polyphenols/" class="internal-link">Polyphenols</a> (supplement) - <em>From plants, wine</em></li>
 </ul>
 <h2>Practical Implementation</h2>
 <h3>Getting Started</h3>

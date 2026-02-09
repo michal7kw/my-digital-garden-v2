@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.102849Z'
+created: '2026-02-09T08:04:40.300999Z'
 description: A mental health condition triggered by experiencing or witnessing a terrifying
   event, characterized by flashbacks, nightmares, and severe anxiety.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Post-Traumatic Stress Disorder
 type: condition
-updated: '2026-02-09T05:54:32.102849Z'
+updated: '2026-02-09T08:04:40.300999Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.102849Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Post-Traumatic_Stress_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/post-traumatic-stress-disorder/" class="internal-link">Post-Traumatic_Stress_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.859126'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Post-Traumatic_Stress_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/post-traumatic-stress-disorder/" class="internal-link">Post-Traumatic_Stress_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:55.326571'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
-ASSOCIATED_WITH_CONDITION::[[Substance Abuse]]<br />
-TREATED_BY_DRUG::[[Sertraline]] - SSRI.<br />
-TREATED_BY_DRUG::[[Paroxetine]]<br />
-TREATED_BY_DRUG::[[Prazosin]] - For nightmares.<br />
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
-IMPROVED_BY_INTERVENTION::[[EMDR]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Substance Abuse</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/sertraline/" class="internal-link">Sertraline</a> - SSRI.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/prazosin/" class="internal-link">Prazosin</a> - For nightmares.<br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">EMDR</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

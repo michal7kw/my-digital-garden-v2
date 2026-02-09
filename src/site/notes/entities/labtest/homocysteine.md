@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.394601Z'
+created: '2026-02-09T08:04:40.629706Z'
 description: Amino acid linked to cardiovascular disease and B-vitamin deficiency.
   Elevated levels associated with increased CVD risk.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: homocysteine
 type: labtest
-updated: '2026-02-09T05:54:32.394601Z'
+updated: '2026-02-09T08:04:40.629706Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.394601Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[homocysteine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">homocysteine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.446472'
 source: obsidian

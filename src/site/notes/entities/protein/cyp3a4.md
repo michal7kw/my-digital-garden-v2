@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.068708Z'
+created: '2026-02-09T08:04:41.428446Z'
 description: The major Phase I drug-metabolizing enzyme in humans. Oxidizes xenobiotics
   (toxins, drugs) and endogenous steroids.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CYP3A4
 type: protein
-updated: '2026-02-09T05:54:33.068708Z'
+updated: '2026-02-09T08:04:41.428446Z'
 ---
 
 {% raw %}
@@ -35,121 +35,121 @@ updated: '2026-02-09T05:54:33.068708Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Drug_Metabolism_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Drug_Metabolism_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[St_Johns_Wort]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">St_Johns_Wort</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Steroid_Hormone_Biosynthesis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Steroid_Hormone_Biosynthesis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Liver]] (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:37.820930'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Testosterone]] (hormone)</li>
+<li>← <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:04.678296'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[St_Johns_Wort]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">St_Johns_Wort</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Steroid_Hormone_Biosynthesis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Steroid_Hormone_Biosynthesis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Grapefruit]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Grapefruit</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug_Metabolism_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Drug_Metabolism_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ketoconazole]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Ketoconazole</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Intestine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Intestine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Carbamazepine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Testosterone]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CYP3A4]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cyp3a4/" class="internal-link">CYP3A4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.348902'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.044513'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Carbamazepine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.543436'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[UBC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glutathione]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[UBC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Glutathione]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:06.276840'
 source: obsidian
@@ -158,21 +158,21 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Drug Metabolism Pathway]] (pathway)</li>
-<li>→ [[Steroid Hormone Biosynthesis]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/drug-metabolism-pathway/" class="internal-link">Drug Metabolism Pathway</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/steroid-hormone-biosynthesis/" class="internal-link">Steroid Hormone Biosynthesis</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>← [[Carbamazepine]] (drug) - <em>Induces</em></li>
-<li>← [[St. John's Wort]] (supplement) - <em>Induces</em></li>
-<li>← [[Grapefruit]] (food) - <em>Inhibits</em></li>
-<li>← [[Ketoconazole]] (drug) - <em>Potent Inhibitor</em></li>
-<li>← [[Testosterone]] (hormone) - <em>Substrate</em></li>
+<li>← <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug) - <em>Induces</em></li>
+<li>← <a href="/garden/dev_admin/supplement/st-johns-wort/" class="internal-link">St. John's Wort</a> (supplement) - <em>Induces</em></li>
+<li>← <a href="/garden/dev_admin/food/grapefruit/" class="internal-link">Grapefruit</a> (food) - <em>Inhibits</em></li>
+<li>← <a href="/garden/dev_admin/drug/ketoconazole/" class="internal-link">Ketoconazole</a> (drug) - <em>Potent Inhibitor</em></li>
+<li>← <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone) - <em>Substrate</em></li>
 </ul>
 <h3>Location</h3>
 <ul>
-<li>→ [[Liver]] (organ)</li>
-<li>→ [[Intestine]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/intestine/" class="internal-link">Intestine</a> (organ)</li>
 </ul>
 <h2>References</h2>
 <ol>

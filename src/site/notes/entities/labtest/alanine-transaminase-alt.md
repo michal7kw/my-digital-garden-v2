@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.301700Z'
+created: '2026-02-09T08:04:40.522873Z'
 description: Tested twice a year Alanine aminotransferase (ALT) is an enzyme found
   in the liver that helps process nutrients and toxins. Elevated ALT levels in the
   blood can signal liver cell damage, making it a useful marker of liver health.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: alanine_transaminase_alt
 type: labtest
-updated: '2026-02-09T05:54:32.301700Z'
+updated: '2026-02-09T08:04:40.522873Z'
 ---
 
 {% raw %}
@@ -58,11 +58,11 @@ updated: '2026-02-09T05:54:32.301700Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)]]</li>
-<li>[[Viral Hepatitis]]</li>
-<li>[[Alcohol-Related Liver Injury]]</li>
-<li>[[Autoimmune Hepatitis]]</li>
-<li>[[Drug-Induced Liver Injury]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Viral Hepatitis</a></li>
+<li><a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
+<li><a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a></li>
+<li><a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -70,100 +70,100 @@ updated: '2026-02-09T05:54:32.301700Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Autoimmune_Hepatitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Viral_Hepatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Viral_Hepatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Viral_Hepatitis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Viral_Hepatitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autoimmune_Hepatitis]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

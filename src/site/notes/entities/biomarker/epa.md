@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.635015Z'
+created: '2026-02-09T08:04:39.882619Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Epa
 type: biomarker
-updated: '2026-02-09T05:54:31.635015Z'
+updated: '2026-02-09T08:04:39.882619Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-02-09T05:54:31.635015Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Epa]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/epa/" class="internal-link">Epa</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.877006'
 source: obsidian
@@ -44,7 +44,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Epa]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/epa/" class="internal-link">Epa</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.482635'
 source: obsidian

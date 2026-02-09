@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.429836Z'
+created: '2026-02-09T08:04:40.670546Z'
 description: Measures Lp(a), a genetically determined cardiovascular risk factor.
   Testing once in lifetime recommended.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: lipoprotein_a
 type: labtest
-updated: '2026-02-09T05:54:32.429836Z'
+updated: '2026-02-09T08:04:40.670546Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.429836Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[lp_a]]</li>
+<li><a class="internal-link is-unresolved" href="/404">lp_a</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-02-09T05:54:32.429836Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[lp_a]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">lp_a</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.330249'
 source: obsidian

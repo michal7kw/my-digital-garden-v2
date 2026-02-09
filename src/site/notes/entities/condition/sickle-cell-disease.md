@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.122571Z'
+created: '2026-02-09T08:04:40.322161Z'
 description: A group of inherited red blood cell disorders characterized by abnormal
   hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sickle Cell Disease
 type: condition
-updated: '2026-02-09T05:54:32.122571Z'
+updated: '2026-02-09T08:04:40.322161Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -46,13 +46,13 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sickle_Cell_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:41.477897'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:41.477897'
 source: obsidian
@@ -73,32 +73,32 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sickle_Cell_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sickle_Cell_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean_corpuscular_hemoglobin_concentration_mchc</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

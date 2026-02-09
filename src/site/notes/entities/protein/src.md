@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.116186Z'
+created: '2026-02-09T08:04:41.486111Z'
 description: Non-receptor tyrosine kinase that integrates signals from cell surface
   receptors to the cytoskeleton and nucleus.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SRC
 type: protein
-updated: '2026-02-09T05:54:33.116186Z'
+updated: '2026-02-09T08:04:41.486111Z'
 ---
 
 {% raw %}
@@ -34,133 +34,133 @@ updated: '2026-02-09T05:54:33.116186Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[STAT3]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/stat3/" class="internal-link">STAT3</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.837263'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Focal_Adhesion]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Focal_Adhesion</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[VEGF_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">VEGF_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Melanoma]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/melanoma/" class="internal-link">Melanoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.788008'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cancer]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EGFR]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bosutinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bosutinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Colorectal_Cancer]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[VEGF_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">VEGF_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dasatinib]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dasatinib</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Focal_Adhesion]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Focal_Adhesion</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[FAK]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">FAK</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR_Signaling_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[STAT3]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/stat3/" class="internal-link">STAT3</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Melanoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/melanoma/" class="internal-link">Melanoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.919120'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cancer]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.919120'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[UBC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[UBC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
@@ -169,25 +169,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Focal Adhesion]] (pathway)</li>
-<li>→ [[VEGF Signaling Pathway]] (pathway)</li>
-<li>→ [[EGFR Signaling Pathway]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/focal-adhesion/" class="internal-link">Focal Adhesion</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/vegf-signaling-pathway/" class="internal-link">VEGF Signaling Pathway</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/egfr-signaling-pathway/" class="internal-link">EGFR Signaling Pathway</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>→ [[FAK]] (protein) - <em>Key substrate</em></li>
-<li>→ [[EGFR]] (protein) - <em>Activator</em></li>
-<li>→ [[STAT3]] (protein) - <em>Substrate</em></li>
+<li>→ <a href="/garden/dev_admin/protein/fak/" class="internal-link">FAK</a> (protein) - <em>Key substrate</em></li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (protein) - <em>Activator</em></li>
+<li>→ <a href="/garden/dev_admin/protein/stat3/" class="internal-link">STAT3</a> (protein) - <em>Substrate</em></li>
 </ul>
 <h3>Targeted By</h3>
 <ul>
-<li>⊣ [[Dasatinib]] (drug) - <em>TKI (also targets BCR-ABL)</em></li>
-<li>⊣ [[Bosutinib]] (drug) - <em>TKI</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/dasatinib/" class="internal-link">Dasatinib</a> (drug) - <em>TKI (also targets BCR-ABL)</em></li>
+<li>⊣ <a href="/garden/dev_admin/drug/bosutinib/" class="internal-link">Bosutinib</a> (drug) - <em>TKI</em></li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Colorectal Cancer]] (condition) - <em>Frequently overactivated</em></li>
-<li>→ [[Melanoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-cancer/" class="internal-link">Colorectal Cancer</a> (condition) - <em>Frequently overactivated</em></li>
+<li>→ <a href="/garden/dev_admin/condition/melanoma/" class="internal-link">Melanoma</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

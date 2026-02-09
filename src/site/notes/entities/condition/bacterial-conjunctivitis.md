@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.926858Z'
+created: '2026-02-09T08:04:40.108731Z'
 description: A highly contagious infection of the conjunctiva caused by bacteria,
   characterized by purulent discharge and redness.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Conjunctivitis
 type: condition
-updated: '2026-02-09T05:54:31.926858Z'
+updated: '2026-02-09T08:04:40.108731Z'
 ---
 
 {% raw %}
@@ -34,25 +34,25 @@ updated: '2026-02-09T05:54:31.926858Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bacterial_Conjunctivitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.000097'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacterial_Conjunctivitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:25.606221'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Staphylococcus aureus]]<br />
-CAUSED_BY::[[Streptococcus pneumoniae]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-TREATED_BY_DRUG::[[Tobramycin]] - Eye drops.<br />
-TREATED_BY_DRUG::[[Erythromycin]] - Ointment.<br />
-TREATED_BY_DRUG::[[Ofloxacin]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Staphylococcus aureus</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus pneumoniae</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Tobramycin</a> - Eye drops.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Erythromycin</a> - Ointment.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ofloxacin</a></p>
 <h2>References</h2>
 <ul>
 <li>Azari, A. A., &amp; Barney, N. P. (2013). Conjunctivitis: a systematic review of diagnosis and treatment. JAMA.</li>

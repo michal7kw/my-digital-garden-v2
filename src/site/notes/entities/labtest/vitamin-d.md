@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.532570Z'
+created: '2026-02-09T08:04:40.789053Z'
 description: Vitamin D is an essential nutrient for immune health, strong bones and
   muscles, and optimal brain performance. Unlike most vitamins, it isn't widely available
   in food and is mainly made in the body through sun exposure. Because of this, low
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d
 type: labtest
-updated: '2026-02-09T05:54:32.532570Z'
+updated: '2026-02-09T08:04:40.789053Z'
 ---
 
 {% raw %}
@@ -76,7 +76,7 @@ updated: '2026-02-09T05:54:32.532570Z'
 </table>
 <h2>🧬 Biomarkers Measured</h2>
 <p>This test measures the following biomarkers with detailed measurement context:</p>
-<h3>[[Vitamin D, 25-Hydroxy]] (Primary)</h3>
+<h3><a href="/garden/dev_admin/primary/vitamin-d-25-hydroxy/" class="internal-link">Vitamin D, 25-Hydroxy</a> (Primary)</h3>
 <table>
 <thead>
 <tr>
@@ -134,10 +134,10 @@ updated: '2026-02-09T05:54:32.532570Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Vitamin D Deficiency]]</li>
-<li>[[Bone Loss (Osteopenia Or Osteoporosis)]]</li>
-<li>[[Impaired Immune Function]]</li>
-<li>[[Low Mood/Cognitive Effects]]</li>
+<li><a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bone Loss (Osteopenia Or Osteoporosis)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Low Mood/Cognitive Effects</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <h3>Conventional Reference Range</h3>
@@ -165,110 +165,110 @@ updated: '2026-02-09T05:54:32.532570Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Low_MoodCognitive_Effects]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Low_MoodCognitive_Effects</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d_25oh]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_25-Hydroxy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Loss_Osteopenia_Or_Osteoporosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Loss_Osteopenia_Or_Osteoporosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Impaired_Immune_Function]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_25-Hydroxy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.620736'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Low_MoodCognitive_Effects]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Low_MoodCognitive_Effects</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.620736'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Impaired_Immune_Function]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.620736'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Loss_Osteopenia_Or_Osteoporosis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Loss_Osteopenia_Or_Osteoporosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.620736'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[vitamin_d_25oh]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.541578'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_D_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mthfr_gene]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.620736'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Vitamin_D_25-Hydroxy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">conventional_range: 30 - 100
 interpretation_guidance: '**Deficiency:** &lt; 20 ng/mL
@@ -293,8 +293,8 @@ source: obsidian
 </code></pre>
 <h3>Included In</h3>
 <ul>
-<li>→ [[mthfr_gene]] (labtestpanel)</li>
-<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
 </ul>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.608126Z'
+created: '2026-02-09T08:04:39.858071Z'
 description: C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during
   insulin biosynthesis, serving as a direct measure of endogenous insulin production
   by pancreatic beta cells.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: C-Peptide
 type: biomarker
-updated: '2026-02-09T05:54:31.608126Z'
+updated: '2026-02-09T08:04:39.858071Z'
 ---
 
 {% raw %}
@@ -63,26 +63,26 @@ updated: '2026-02-09T05:54:31.608126Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Berberine]] - May improve insulin secretion and beta cell function in Type 2 diabetes (mild increase, evidence level 3)</li>
-<li>[[Chromium]] - May improve insulin sensitivity and secondarily support insulin secretion (mild increase, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - May improve insulin secretion and beta cell function in Type 2 diabetes (mild increase, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a> - May improve insulin sensitivity and secondarily support insulin secretion (mild increase, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[c-peptide]] - Fasting C-Peptide immunoassay (chemiluminescence or ELISA)</li>
+<li><a href="/garden/dev_admin/biomarker/c-peptide/" class="internal-link">c-peptide</a> - Fasting C-Peptide immunoassay (chemiluminescence or ELISA)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
-<li>→ [[Insulin Fasting]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker) - C-Peptide and insulin are co-secreted; C-Peptide reflects endogenous production without hepatic extraction interference</li>
-<li>→ [[Insulin Fasting]] (biomarker) - Fasting C-Peptide correlates with fasting insulin in the absence of exogenous insulin therapy</li>
-<li>→ [[HbA1c]] (biomarker) - Declining C-Peptide over time corresponds with worsening glycemic control</li>
-<li>→ [[Glucose Fasting]] (biomarker) - Low C-Peptide with high fasting glucose indicates absolute insulin deficiency</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker) - C-Peptide and insulin are co-secreted; C-Peptide reflects endogenous production without hepatic extraction interference</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a> (biomarker) - Fasting C-Peptide correlates with fasting insulin in the absence of exogenous insulin therapy</li>
+<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (biomarker) - Declining C-Peptide over time corresponds with worsening glycemic control</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a> (biomarker) - Low C-Peptide with high fasting glucose indicates absolute insulin deficiency</li>
 </ul>
 <h2>References</h2>
 <ul>

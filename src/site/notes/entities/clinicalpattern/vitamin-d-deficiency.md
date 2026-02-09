@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.783315Z'
+created: '2026-02-09T08:04:40.032861Z'
 description: Insufficient vitamin D levels associated with bone health, immune function,
   cardiovascular health, and chronic disease risk.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D Deficiency
 type: clinicalpattern
-updated: '2026-02-09T05:54:31.783315Z'
+updated: '2026-02-09T08:04:40.032861Z'
 ---
 
 {% raw %}
@@ -81,16 +81,16 @@ Risk Multiplier: 1.2x for bone and immune-related conditions</p>
 </table>
 <h2>Relationships</h2>
 <ul>
-<li>REQUIRES_BIOMARKER::[[25-OH Vitamin D]]</li>
-<li>INCREASES_RISK_FOR::[[Osteoporosis]]</li>
-<li>INCREASES_RISK_FOR::[[Depression]]</li>
-<li>INCREASES_RISK_FOR::[[Immune Dysfunction]]</li>
-<li>AFFECTS_ORGAN::[[Bones]]</li>
-<li>AFFECTS_ORGAN::[[Immune System]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin D3]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin K2]]</li>
-<li>IMPROVED_BY_SUPPLEMENT::[[Magnesium]]</li>
-<li>MODULATED_BY_PATHWAY::[[Calcium Homeostasis]]</li>
+<li>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">25-OH Vitamin D</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
+<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a></li>
+<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Immune Dysfunction</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bones</a></li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a></li>
+<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a></li>
+<li>MODULATED_BY_PATHWAY::<a class="internal-link is-unresolved" href="/404">Calcium Homeostasis</a></li>
 </ul>
 <h2>References</h2>
 <ul>

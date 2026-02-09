@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.198406Z'
+created: '2026-02-09T08:04:40.409919Z'
 description: The first synthetic quinolone antibiotic, used primarily for the treatment
   of urinary tract infections caused by gram-negative bacteria.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Nalidixic Acid
 type: drug
-updated: '2026-02-09T05:54:32.198406Z'
+updated: '2026-02-09T08:04:40.409919Z'
 ---
 
 {% raw %}
@@ -30,9 +30,9 @@ updated: '2026-02-09T05:54:32.198406Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Urinary Tract Infection]]<br />
-ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]<br />
-INHIBITS_PROTEIN::[[DNA Gyrase]]</p>
+<p>TREATS_CONDITION::<a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
+INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">DNA Gyrase</a></p>
 <h2>References</h2>
 <ul>
 <li>Lesher, G. Y., et al. (1962). 1,8-Naphthyridine Derivatives. A New Class of Chemotherapeutic Agents. Journal of Medicinal Chemistry.</li>

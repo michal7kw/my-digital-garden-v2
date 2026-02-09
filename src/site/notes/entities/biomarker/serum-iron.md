@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.726780Z'
+created: '2026-02-09T08:04:39.975131Z'
 description: A measure of the amount of circulating iron that is bound to transferrin
   in the blood.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Serum Iron
 type: biomarker
-updated: '2026-02-09T05:54:31.726780Z'
+updated: '2026-02-09T08:04:39.975131Z'
 ---
 
 {% raw %}
@@ -31,25 +31,25 @@ updated: '2026-02-09T05:54:31.726780Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Serum_Iron]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">Serum_Iron</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.240306'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Serum_Iron]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">Serum_Iron</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:12.733460'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Anemia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hemochromatosis]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Ferritin]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Hemoglobin]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[TIBC]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Transferrin Saturation]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hemochromatosis</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">TIBC</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a></p>
 <h2>References</h2>
 <ul>
 <li>Abbaspour, N., et al. (2014). Review on iron and its importance for human health. Journal of Research in Medical Sciences.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.742375Z'
+created: '2026-02-09T08:04:39.990037Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Transferrin Saturation
 type: biomarker
-updated: '2026-02-09T05:54:31.742375Z'
+updated: '2026-02-09T08:04:39.990037Z'
 ---
 
 {% raw %}
@@ -30,32 +30,32 @@ updated: '2026-02-09T05:54:31.742375Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Iron_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.301328'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Transferrin_Saturation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.855874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.855874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Transferrin_Saturation]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.855874'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Iron_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
 source: obsidian
@@ -69,26 +69,26 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Transferrin_Saturation]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.599453'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Transferrin_Saturation]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.599453'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.599453'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>← [[Iron_Deficiency_Pattern]] (condition)</li>
+<li>← <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.376737Z'
+created: '2026-02-09T08:04:40.609207Z'
 description: Tested twice a year Globulin is a protein essential for liver function,
   blood clotting, and immune system operations. Abnormal globulin levels may indicate
   changes affecting the liver, immune system, or overall health.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: globulin
 type: labtest
-updated: '2026-02-09T05:54:32.376737Z'
+updated: '2026-02-09T08:04:40.609207Z'
 ---
 
 {% raw %}
@@ -60,11 +60,11 @@ updated: '2026-02-09T05:54:32.376737Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Monoclonal Gammopathies (E.G., Multiple Myeloma, Mgus)]]</li>
-<li>[[Chronic Inflammation (E.G., Autoimmune Disease)]]</li>
-<li>[[Liver Dysfunction]]</li>
-<li>[[Kidney Disease]]</li>
-<li>[[Malnutrition Or Poor Absorption]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Monoclonal Gammopathies (E.G., Multiple Myeloma, Mgus)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Chronic Inflammation (E.G., Autoimmune Disease)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Malnutrition Or Poor Absorption</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -72,61 +72,61 @@ updated: '2026-02-09T05:54:32.376737Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malnutrition_Or_Poor_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malnutrition_Or_Poor_Absorption]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian

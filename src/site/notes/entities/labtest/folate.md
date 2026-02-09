@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.371137Z'
+created: '2026-02-09T08:04:40.602550Z'
 description: B-vitamin essential for DNA synthesis. Important for pregnancy and cardiovascular
   health.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: folate
 type: labtest
-updated: '2026-02-09T05:54:32.371137Z'
+updated: '2026-02-09T08:04:40.602550Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.371137Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[folate]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">folate</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.889837'
 source: obsidian

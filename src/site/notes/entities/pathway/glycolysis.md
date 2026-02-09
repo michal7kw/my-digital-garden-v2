@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.737854Z'
+created: '2026-02-09T08:04:41.021320Z'
 description: Glycolysis is the fundamental metabolic pathway that breaks down glucose
   to pyruvate, generating ATP and NADH. It is the central route for glucose metabolism
   in virtually all organisms.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Glycolysis
 type: pathway
-updated: '2026-02-09T05:54:32.737854Z'
+updated: '2026-02-09T08:04:41.021320Z'
 ---
 
 {% raw %}
@@ -28,13 +28,13 @@ updated: '2026-02-09T05:54:32.737854Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.986199'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ATP]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian

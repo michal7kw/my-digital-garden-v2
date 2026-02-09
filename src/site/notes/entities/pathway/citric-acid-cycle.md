@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.717980Z'
+created: '2026-02-09T08:04:40.998659Z'
 description: The central metabolic hub that oxidizes acetyl-CoA to CO2, generating
   NADH, FADH2, and GTP for ATP production. Also known as the TCA cycle or Krebs cycle,
   it connects carbohydrate, fat, and protein metabolism and provides biosynthetic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Citric Acid Cycle
 type: pathway
-updated: '2026-02-09T05:54:32.717980Z'
+updated: '2026-02-09T08:04:40.998659Z'
 ---
 
 {% raw %}
@@ -195,19 +195,19 @@ updated: '2026-02-09T05:54:32.717980Z'
 </thead>
 <tbody>
 <tr>
-<td><strong>[[Alpha Lipoic Acid]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
 <td>Cofactor for α-KG dehydrogenase and PDH</td>
 </tr>
 <tr>
-<td><strong>[[CoQ10]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">CoQ10</a></strong></td>
 <td>Supports Complex II function</td>
 </tr>
 <tr>
-<td><strong>[[Carnitine]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">Carnitine</a></strong></td>
 <td>Delivers fatty acid-derived acetyl-CoA</td>
 </tr>
 <tr>
-<td><strong>[[B Vitamins]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">B Vitamins</a></strong></td>
 <td>Multiple coenzyme functions</td>
 </tr>
 </tbody>
@@ -216,80 +216,80 @@ updated: '2026-02-09T05:54:32.717980Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ATP]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[B_Vitamins]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">B_Vitamins</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[B_Vitamins]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">B_Vitamins</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CoQ10]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Carnitine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Carnitine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ATP]] (metabolite)</li>
+<li>← <a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>LOCATED_IN::[[Mitochondria]] - Mitochondrial matrix<br />
-PRODUCES::[[NADH]] - Three per cycle<br />
-PRODUCES::[[FADH2]] - One per cycle<br />
-PRODUCES::[[ATP]] - Via GTP<br />
-CONSUMES::[[Acetyl-CoA]] - Primary substrate<br />
-CONSUMES::[[NAD+]] - Electron acceptor<br />
-FEEDS_INTO::[[Electron Transport Chain]] - Via NADH, FADH2<br />
-CONNECTED_TO::[[Glycolysis]] - Via pyruvate → acetyl-CoA<br />
-CONNECTED_TO::[[Beta-Oxidation]] - Via acetyl-CoA<br />
-CONNECTED_TO::[[Gluconeogenesis]] - Via oxaloacetate<br />
-AFFECTED_BY::[[Alpha Lipoic Acid]] - Cofactor support<br />
-INCLUDES_ENZYME::[[Succinate Dehydrogenase]] - Complex II<br />
-RELATED_TO::[[Oxidative Phosphorylation]] - Energy coupling</p>
+<p>LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Mitochondrial matrix<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">NADH</a> - Three per cycle<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">FADH2</a> - One per cycle<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">ATP</a> - Via GTP<br />
+CONSUMES::<a class="internal-link is-unresolved" href="/404">Acetyl-CoA</a> - Primary substrate<br />
+CONSUMES::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Electron acceptor<br />
+FEEDS_INTO::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Via NADH, FADH2<br />
+CONNECTED_TO::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Via pyruvate → acetyl-CoA<br />
+CONNECTED_TO::<a href="/garden/dev_admin/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> - Via acetyl-CoA<br />
+CONNECTED_TO::<a href="/garden/dev_admin/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a> - Via oxaloacetate<br />
+AFFECTED_BY::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> - Cofactor support<br />
+INCLUDES_ENZYME::<a class="internal-link is-unresolved" href="/404">Succinate Dehydrogenase</a> - Complex II<br />
+RELATED_TO::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a> - Energy coupling</p>
 <h2>References</h2>
 <ul>
 <li>Krebs HA, Johnson WA. The role of citric acid in intermediate metabolism in animal tissues. Enzymologia. 1937;4:148-156.</li>

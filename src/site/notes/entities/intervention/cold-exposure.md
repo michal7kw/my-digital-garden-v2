@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.277012Z'
+created: '2026-02-09T08:04:40.494464Z'
 description: Deliberate exposure to cold temperatures (e.g., ice baths, cold showers)
   to trigger hormetic stress responses and metabolic benefits.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cold Exposure
 type: intervention
-updated: '2026-02-09T05:54:32.277012Z'
+updated: '2026-02-09T08:04:40.494464Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:32.277012Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cold_Exposure]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.972292'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cold_Exposure]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.972292'
 source: obsidian
@@ -45,13 +45,13 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cold_Exposure]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:08.395633'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cold_Exposure]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:08.395633'
 source: obsidian

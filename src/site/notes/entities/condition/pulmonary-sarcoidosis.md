@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.112077Z'
+created: '2026-02-09T08:04:40.310433Z'
 description: An inflammatory disease characterized by the growth of tiny clumps of
   inflammatory cells (granulomas) in the lungs.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pulmonary Sarcoidosis
 type: condition
-updated: '2026-02-09T05:54:32.112077Z'
+updated: '2026-02-09T08:04:40.310433Z'
 ---
 
 {% raw %}
@@ -29,26 +29,26 @@ updated: '2026-02-09T05:54:32.112077Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pulmonary_Sarcoidosis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/pulmonary-sarcoidosis/" class="internal-link">Pulmonary_Sarcoidosis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.637851'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pulmonary_Sarcoidosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pulmonary-sarcoidosis/" class="internal-link">Pulmonary_Sarcoidosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:56.772221'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Pulmonary Fibrosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Pulmonary Hypertension]]<br />
-AFFECTS_ORGAN::[[Lung]]<br />
-AFFECTS_ORGAN::[[Lymph Node]]<br />
-TREATED_BY_DRUG::[[Prednisone]] - First line.<br />
-TREATED_BY_DRUG::[[Methotrexate]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[ACE]] - Angiotensin-Converting Enzyme often elevated.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pulmonary Fibrosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pulmonary-hypertension/" class="internal-link">Pulmonary Hypertension</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lymph Node</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/prednisone/" class="internal-link">Prednisone</a> - First line.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Methotrexate</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">ACE</a> - Angiotensin-Converting Enzyme often elevated.</p>
 <h2>References</h2>
 <ul>
 <li>Valeyre, D., et al. (2014). Sarcoidosis. The Lancet.</li>

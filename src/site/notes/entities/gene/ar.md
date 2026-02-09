@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.252919Z'
+created: '2026-02-09T08:04:40.468864Z'
 description: Encodes the Androgen Receptor, a DNA-binding transcription factor that
   regulates gene expression in response to androgens.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: AR
 type: gene
-updated: '2026-02-09T05:54:32.252919Z'
+updated: '2026-02-09T08:04:40.468864Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-02-09T05:54:32.252919Z'
 <p>Mutations in this gene are associated with Androgen Insensitivity Syndrome (AIS) and Spinal Bulbar Muscular Atrophy (Kennedy's disease). It is a key driver and therapeutic target in <strong>Prostate Cancer</strong>.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[AR]] (protein) - <em>Encodes</em></li>
-<li>→ [[Prostate Cancer]] (condition) - <em>Driver</em></li>
+<li>→ <a href="/garden/dev_admin/protein/ar/" class="internal-link">AR</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/prostate-cancer/" class="internal-link">Prostate Cancer</a> (condition) - <em>Driver</em></li>
 </ul>
 <h2>References</h2>
 <ol>

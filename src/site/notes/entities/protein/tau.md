@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.123727Z'
+created: '2026-02-09T08:04:41.494805Z'
 description: Microtubule-associated protein that stabilizes the neuronal cytoskeleton.
   Hyperphosphorylation leads to its detachment and aggregation into neurofibrillary
   tangles (NFTs).
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tau
 type: protein
-updated: '2026-02-09T05:54:33.123727Z'
+updated: '2026-02-09T08:04:41.494805Z'
 ---
 
 {% raw %}
@@ -28,103 +28,103 @@ updated: '2026-02-09T05:54:33.123727Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.997838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.997838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.997838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Axonal_Transport]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Axonal_Transport</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.997838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Traumatic_Encephalopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Traumatic_Encephalopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.997838'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MAPT]] (gene)</li>
+<li>→ <a href="/garden/dev_admin/gene/mapt/" class="internal-link">MAPT</a> (gene)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.997838'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Frontotemporal_Dementia]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Axonal_Transport]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Axonal_Transport</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease_Pathway]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease_Pathway</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Microtubules]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Microtubules</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GSK3-beta]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GSK3-beta</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Chronic_Traumatic_Encephalopathy]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Traumatic_Encephalopathy</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CDK5]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">CDK5</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[MAPT]] (gene)</li>
+<li>← <a href="/garden/dev_admin/gene/mapt/" class="internal-link">MAPT</a> (gene)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.703132'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alzheimers_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Alzheimers_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.120727'
 source: obsidian
@@ -133,20 +133,20 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
 <ul>
-<li>→ [[Alzheimer's Disease Pathway]] (pathway)</li>
-<li>→ [[Axonal Transport]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/alzheimers-disease-pathway/" class="internal-link">Alzheimer's Disease Pathway</a> (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/axonal-transport/" class="internal-link">Axonal Transport</a> (pathway)</li>
 </ul>
 <h3>Interacts With</h3>
 <ul>
-<li>← [[GSK3-beta]] (protein) - <em>Major Tau Kinase</em></li>
-<li>← [[CDK5]] (protein) - <em>Tau Kinase</em></li>
-<li>→ [[Microtubules]] (cellularcomponent) - <em>Stabilizes</em></li>
+<li>← <a href="/garden/dev_admin/protein/gsk3-beta/" class="internal-link">GSK3-beta</a> (protein) - <em>Major Tau Kinase</em></li>
+<li>← <a href="/garden/dev_admin/protein/cdk5/" class="internal-link">CDK5</a> (protein) - <em>Tau Kinase</em></li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/microtubules/" class="internal-link">Microtubules</a> (cellularcomponent) - <em>Stabilizes</em></li>
 </ul>
 <h3>Pathological Role</h3>
 <ul>
-<li>→ [[Alzheimer's Disease]] (condition) - <em>Forms Tangles</em></li>
-<li>→ [[Chronic Traumatic Encephalopathy]] (condition) - <em>Tauopathy</em></li>
-<li>→ [[Frontotemporal Dementia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Forms Tangles</em></li>
+<li>→ <a href="/garden/dev_admin/condition/chronic-traumatic-encephalopathy/" class="internal-link">Chronic Traumatic Encephalopathy</a> (condition) - <em>Tauopathy</em></li>
+<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ol>

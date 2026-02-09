@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.499845Z'
+created: '2026-02-09T08:04:40.751568Z'
 description: Tested twice a year Urine specific gravity measures how concentrated
   or diluted urine is compared to water, providing insight into hydration status and
   kidney function. Abnormal readings—either too low or too high—can be associated
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: specific_gravity_urine
 type: labtest
-updated: '2026-02-09T05:54:32.499845Z'
+updated: '2026-02-09T08:04:40.751568Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.499845Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Dehydration]]</li>
-<li>[[Overhydration]]</li>
-<li>[[Kidney Dysfunction]]</li>
-<li>[[Metabolic Dysfunction]]</li>
-<li>[[Urinary Concentration Imbalance]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Overhydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
+<li><a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary Concentration Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,62 +71,62 @@ updated: '2026-02-09T05:54:32.499845Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Concentration_Imbalance]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Overhydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Overhydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Concentration_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Urinary_Concentration_Imbalance]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.546204'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Urinary_Concentration_Imbalance]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

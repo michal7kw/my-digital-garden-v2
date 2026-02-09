@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.005247Z'
+created: '2026-02-09T08:04:40.194860Z'
 description: A chronic, progressive syndrome in which the heart muscle is unable to
   pump enough blood to meet the body's needs for blood and oxygen.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Heart Failure
 type: condition
-updated: '2026-02-09T05:54:32.005247Z'
+updated: '2026-02-09T08:04:40.194860Z'
 ---
 
 {% raw %}
@@ -39,14 +39,14 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[albumin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -54,19 +54,19 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Heart_Failure]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:09.723315'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:09.723315'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hyaline_casts_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:09.723315'
 source: obsidian
@@ -87,51 +87,51 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Heart_Failure]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.396088'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[albumin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[albumin]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart_Failure]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hyaline_casts_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[hyaline_casts_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[albumin]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

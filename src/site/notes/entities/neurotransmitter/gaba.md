@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.555556Z'
+created: '2026-02-09T08:04:40.814380Z'
 description: Gamma-aminobutyric acid, the brain's primary inhibitory neurotransmitter.
   GABA reduces neuronal excitability, promotes relaxation, reduces anxiety, and facilitates
   sleep. It provides the "brake" to glutamate's "accelerator."
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: GABA
 type: neurotransmitter
-updated: '2026-02-09T05:54:32.555556Z'
+updated: '2026-02-09T08:04:40.814380Z'
 ---
 
 {% raw %}
@@ -135,23 +135,23 @@ GABA
 <li>Inflammatory states</li>
 </ul>
 <h2>Relationships</h2>
-<p>SYNTHESIZED_FROM::[[Glutamate]]<br />
-ANTAGONIZES::[[Glutamate]]<br />
-REQUIRES_COFACTOR::[[Vitamin B6]]<br />
-AFFECTS_BRAIN_REGION::[[Cortex]]<br />
-AFFECTS_BRAIN_REGION::[[Amygdala]]<br />
-AFFECTS_BRAIN_REGION::[[Thalamus]]<br />
-MODULATED_BY_SUPPLEMENT::[[L-Theanine]]<br />
-MODULATED_BY_SUPPLEMENT::[[Magnesium]]<br />
-MODULATED_BY_SUPPLEMENT::[[Taurine]]<br />
-MODULATED_BY_SUPPLEMENT::[[Valerian]]<br />
-MODULATED_BY_SUPPLEMENT::[[Passionflower]]<br />
-MODULATED_BY_SUPPLEMENT::[[Lemon Balm]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anxiety]]<br />
-ASSOCIATED_WITH_CONDITION::[[Insomnia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Epilepsy]]<br />
-SYNERGISTIC_WITH::[[Melatonin]]<br />
-SYNERGISTIC_WITH::[[Glycine]]</p>
+<p>SYNTHESIZED_FROM::<a href="/garden/dev_admin/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
+ANTAGONIZES::<a href="/garden/dev_admin/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
+REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a href="/garden/dev_admin/organ/amygdala/" class="internal-link">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a href="/garden/dev_admin/organ/thalamus/" class="internal-link">Thalamus</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/taurine/" class="internal-link">Taurine</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Valerian</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Passionflower</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lemon Balm</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Insomnia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Epilepsy</a><br />
+SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
+SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a></p>
 <h2>References</h2>
 <ul>
 <li>Petroff OA. GABA and glutamate in the human brain. Neuroscientist. 2002</li>

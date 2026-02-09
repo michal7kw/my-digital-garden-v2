@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.446005Z'
+created: '2026-02-09T08:04:40.689646Z'
 description: Research-grade global metabolomics profiling measuring 1000+ metabolites.
   Provides comprehensive metabolic fingerprint.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: metabolon_global
 type: labtest
-updated: '2026-02-09T05:54:32.446005Z'
+updated: '2026-02-09T08:04:40.689646Z'
 ---
 
 {% raw %}
@@ -72,7 +72,7 @@ updated: '2026-02-09T05:54:32.446005Z'
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[TMAO]] (biomarker) - Included in comprehensive metabolomics panel</li>
+<li>→ <a href="/garden/dev_admin/biomarker/tmao/" class="internal-link">TMAO</a> (biomarker) - Included in comprehensive metabolomics panel</li>
 </ul>
 <h2>Notes</h2>
 <ul>

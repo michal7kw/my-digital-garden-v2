@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.230572Z'
+created: '2026-02-09T08:04:40.444122Z'
 description: Electrodiagnostic testing of peripheral nerves and muscles. Essential
   for diagnosing ALS, distinguishing it from mimics, and evaluating peripheral neuropathy.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EMG and Nerve Conduction Studies
 type: examination
-updated: '2026-02-09T05:54:32.230572Z'
+updated: '2026-02-09T08:04:40.444122Z'
 ---
 
 {% raw %}
@@ -200,26 +200,26 @@ updated: '2026-02-09T05:54:32.230572Z'
 <h2>Relationships</h2>
 <h3>Conditions</h3>
 <ul>
-<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Essential for diagnosis</em></li>
-<li>→ [[Peripheral Neuropathy]] (condition) - <em>Classification</em></li>
-<li>→ [[Multifocal Motor Neuropathy]] (condition) - <em>ALS mimic</em></li>
-<li>→ [[Myopathy]] (condition) - <em>Differentiation</em></li>
-<li>→ [[Radiculopathy]] (condition) - <em>Localization</em></li>
+<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>Essential for diagnosis</em></li>
+<li>→ <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a> (condition) - <em>Classification</em></li>
+<li>→ <a href="/garden/dev_admin/condition/multifocal-motor-neuropathy/" class="internal-link">Multifocal Motor Neuropathy</a> (condition) - <em>ALS mimic</em></li>
+<li>→ <a href="/garden/dev_admin/condition/myopathy/" class="internal-link">Myopathy</a> (condition) - <em>Differentiation</em></li>
+<li>→ <a href="/garden/dev_admin/condition/radiculopathy/" class="internal-link">Radiculopathy</a> (condition) - <em>Localization</em></li>
 </ul>
 <h3>Brain/Spinal Regions</h3>
 <ul>
-<li>→ [[Spinal Cord]] (organ) - <em>Anterior horn cells</em></li>
-<li>→ [[Motor Cortex]] (organ) - <em>UMN source</em></li>
+<li>→ <a href="/garden/dev_admin/organ/spinal-cord/" class="internal-link">Spinal Cord</a> (organ) - <em>Anterior horn cells</em></li>
+<li>→ <a href="/garden/dev_admin/organ/motor-cortex/" class="internal-link">Motor Cortex</a> (organ) - <em>UMN source</em></li>
 </ul>
 <h3>Biomarkers</h3>
 <ul>
-<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Correlates in ALS</em></li>
-<li>→ [[Creatine Kinase]] (biomarker) - <em>Muscle damage</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Correlates in ALS</em></li>
+<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker) - <em>Muscle damage</em></li>
 </ul>
 <h3>Related Examinations</h3>
 <ul>
-<li>← [[MRI Brain and Spine]] (examination) - <em>Exclude structural</em></li>
-<li>← [[Genetic Testing]] (examination) - <em>SOD1, C9orf72</em></li>
+<li>← <a href="/garden/dev_admin/examination/mri-brain-and-spine/" class="internal-link">MRI Brain and Spine</a> (examination) - <em>Exclude structural</em></li>
+<li>← <a href="/garden/dev_admin/examination/genetic-testing/" class="internal-link">Genetic Testing</a> (examination) - <em>SOD1, C9orf72</em></li>
 </ul>
 <h2>Interpretation Principles</h2>
 <h3>For ALS Diagnosis</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.142386Z'
+created: '2026-02-09T08:04:41.519139Z'
 description: First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown
   mitochondria to reverse age-related bioenergetic decline.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 2025 Mitrix Bio Mitochondrial Transplantation Trial
 type: research
-updated: '2026-02-09T05:54:33.142386Z'
+updated: '2026-02-09T08:04:41.519139Z'
 ---
 
 {% raw %}
@@ -32,8 +32,8 @@ updated: '2026-02-09T05:54:33.142386Z'
 <h2>Scientific Context</h2>
 <p>Previous animal studies showed that transferring mitochondria from young to old mice could improve energy levels, cognitive function, and muscle endurance. This trial represents the translation of that concept (&quot;Bench to Bedside&quot;).</p>
 <h2>Relationships</h2>
-<h2>STUDIED_TOPIC::[[Mitochondria]]<br />
-STUDIED_TOPIC::[[Longevity]]<br />
-INVESTIGATED_INTERVENTION::[[Mitochondrial Transplantation]]</h2>
+<h2>STUDIED_TOPIC::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Longevity</a><br />
+INVESTIGATED_INTERVENTION::<a href="/garden/dev_admin/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial Transplantation</a></h2>
 
 {% endraw %}

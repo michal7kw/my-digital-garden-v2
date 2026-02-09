@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.145728Z'
+created: '2026-02-09T08:04:40.347513Z'
 description: A condition where a blood clot forms in a vein, encompassing Deep Vein
   Thrombosis (DVT) and Pulmonary Embolism (PE).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Venous Thromboembolism
 type: condition
-updated: '2026-02-09T05:54:32.145728Z'
+updated: '2026-02-09T08:04:40.347513Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Venous_Thromboembolism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.265186'
 source: obsidian
@@ -60,13 +60,13 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Venous_Thromboembolism]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.061698'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Venous_Thromboembolism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.061698'
 source: obsidian

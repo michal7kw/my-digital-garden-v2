@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.393541Z'
+created: '2026-02-09T08:04:40.628529Z'
 description: Calculated from fasting glucose and insulin. Quantifies insulin resistance.
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: homa_ir
 type: labtest
-updated: '2026-02-09T05:54:32.393541Z'
+updated: '2026-02-09T08:04:40.628529Z'
 ---
 
 {% raw %}
@@ -60,9 +60,9 @@ updated: '2026-02-09T05:54:32.393541Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[homa_ir]]</li>
-<li>[[glucose_fasting]]</li>
-<li>[[insulin_fasting]]</li>
+<li><a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a></li>
+<li><a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a></li>
+<li><a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -75,31 +75,31 @@ updated: '2026-02-09T05:54:32.393541Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Insulin]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.362724'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Insulin]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.652699'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[glucose_fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.207255'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[insulin_fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.207255'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[homa_ir]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.207255'
 source: obsidian

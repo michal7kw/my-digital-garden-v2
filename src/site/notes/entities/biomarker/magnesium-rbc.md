@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.684543Z'
+created: '2026-02-09T08:04:39.932067Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-02-09T05:54:31.684543Z'
+updated: '2026-02-09T08:04:39.932067Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.684543Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Magnesium_Rbc]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">Magnesium_Rbc</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.650234'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium_Rbc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">Magnesium_Rbc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.650234'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Magnesium_Rbc]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">Magnesium_Rbc</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.005213'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium_Rbc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">Magnesium_Rbc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.005213'
 source: obsidian

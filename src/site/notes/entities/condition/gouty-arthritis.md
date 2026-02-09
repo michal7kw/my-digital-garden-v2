@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.001079Z'
+created: '2026-02-09T08:04:40.190648Z'
 description: A painful form of inflammatory arthritis caused by the accumulation of
   urate crystals in joints, leading to sudden, severe attacks of pain, swelling, and
   redness.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gouty Arthritis
 type: condition
-updated: '2026-02-09T05:54:32.001079Z'
+updated: '2026-02-09T08:04:40.190648Z'
 ---
 
 {% raw %}
@@ -29,28 +29,28 @@ updated: '2026-02-09T05:54:32.001079Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Gouty_Arthritis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gouty-arthritis/" class="internal-link">Gouty_Arthritis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.597369'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gouty_Arthritis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gouty-arthritis/" class="internal-link">Gouty_Arthritis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:37.722313'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_BIOMARKER::[[Uric Acid]]<br />
-CAUSED_BY::[[Hyperuricemia]]<br />
-ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hypertension]]<br />
-ASSOCIATED_WITH_CONDITION::[[Kidney Stones]]<br />
-TREATED_BY_DRUG::[[Colchicine]] - For acute attacks.<br />
-TREATED_BY_DRUG::[[Allopurinol]] - For prevention (lowers uric acid).<br />
-TREATED_BY_DRUG::[[Indomethacin]] - NSAID for pain.<br />
-WORSENED_BY_INTERVENTION::[[Alcohol Consumption]]</p>
+<p>ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Hyperuricemia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Colchicine</a> - For acute attacks.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Allopurinol</a> - For prevention (lowers uric acid).<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Indomethacin</a> - NSAID for pain.<br />
+WORSENED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Alcohol Consumption</a></p>
 <h2>References</h2>
 <ul>
 <li>Dalbeth, N., et al. (2016). Gout. The Lancet.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.280776Z'
+created: '2026-02-09T08:04:40.498719Z'
 description: High-Intensity Interval Training - exercise protocol alternating short
   bursts of intense anaerobic activity with recovery periods. Highly time-efficient
   method for improving cardiovascular fitness, insulin sensitivity, mitochondrial
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: HIIT Training
 type: intervention
-updated: '2026-02-09T05:54:32.280776Z'
+updated: '2026-02-09T08:04:40.498719Z'
 ---
 
 {% raw %}
@@ -34,13 +34,13 @@ updated: '2026-02-09T05:54:32.280776Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[HIIT_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/hiit-training/" class="internal-link">HIIT_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.078651'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HIIT_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/hiit-training/" class="internal-link">HIIT_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.078651'
 source: obsidian
@@ -49,13 +49,13 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[HIIT_Training]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/intervention/hiit-training/" class="internal-link">HIIT_Training</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:08.839602'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[HIIT_Training]] (intervention)</li>
+<li>→ <a href="/garden/dev_admin/intervention/hiit-training/" class="internal-link">HIIT_Training</a> (intervention)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:08.839602'
 source: obsidian

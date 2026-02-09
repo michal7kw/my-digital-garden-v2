@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.117980Z'
+created: '2026-02-09T08:04:40.317220Z'
 description: A progressive and generalized skeletal muscle disorder characterized
   by the age-related loss of muscle mass, strength, and function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcopenia
 type: condition
-updated: '2026-02-09T05:54:32.117980Z'
+updated: '2026-02-09T08:04:40.317220Z'
 ---
 
 {% raw %}
@@ -50,40 +50,40 @@ updated: '2026-02-09T05:54:32.117980Z'
 <li><strong>Creatine:</strong> Improves muscle mass and strength when combined with exercise.</li>
 </ol>
 <h2>Relationships</h2>
-<p>IMPROVED_BY_INTERVENTION::[[Resistance Training]] - Primary treatment<br />
-IMPROVED_BY_INTERVENTION::[[Protein Intake]] - Essential nutrient<br />
-IMPROVED_BY_INTERVENTION::[[Creatine]] - Ergogenic aid<br />
-ASSOCIATED_WITH_BIOMARKER::[[Creatine Kinase]] - Marker of muscle mass/turnover<br />
-ASSOCIATED_WITH_BIOMARKER::[[IGF-1]] - Anabolic factor<br />
-RISK_FACTOR_FOR::[[Falls]]<br />
-RISK_FACTOR_FOR::[[Osteoporosis]] - &quot;Osteosarcopenia&quot;<br />
-RISK_FACTOR_FOR::[[Frailty]]<br />
-CAUSED_BY::[[Aging]]<br />
-CAUSED_BY::[[Sedentary Lifestyle]]<br />
-CAUSED_BY::[[Chronic Inflammation]]</p>
+<p>IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Resistance Training</a> - Primary treatment<br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Protein Intake</a> - Essential nutrient<br />
+IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> - Ergogenic aid<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> - Marker of muscle mass/turnover<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/hormone/igf-1/" class="internal-link">IGF-1</a> - Anabolic factor<br />
+RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Falls</a><br />
+RISK_FACTOR_FOR::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> - &quot;Osteosarcopenia&quot;<br />
+RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Frailty</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Sedentary Lifestyle</a><br />
+CAUSED_BY::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Other Relationships</h2>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sarcopenia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.327345'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.327345'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
 source: obsidian
@@ -111,26 +111,26 @@ SORT confidence_score DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Creatine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.192580'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sarcopenia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.192580'
 source: obsidian
 </code></pre>
 <h3>May Improve Condition</h3>
 <ul>
-<li>← [[Creatine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian

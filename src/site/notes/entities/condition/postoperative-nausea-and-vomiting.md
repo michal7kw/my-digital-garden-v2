@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.103763Z'
+created: '2026-02-09T08:04:40.301929Z'
 description: Nausea and vomiting that occurs after surgery, typically within the first
   24 hours, often a side effect of anesthesia.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Postoperative Nausea and Vomiting
 type: condition
-updated: '2026-02-09T05:54:32.103763Z'
+updated: '2026-02-09T08:04:40.301929Z'
 ---
 
 {% raw %}
@@ -35,26 +35,26 @@ updated: '2026-02-09T05:54:32.103763Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Postoperative_Nausea_and_Vomiting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/postoperative-nausea-and-vomiting/" class="internal-link">Postoperative_Nausea_and_Vomiting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.905183'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Postoperative_Nausea_and_Vomiting]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/postoperative-nausea-and-vomiting/" class="internal-link">Postoperative_Nausea_and_Vomiting</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:55.430674'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[General Anesthesia]]<br />
-CAUSED_BY::[[Opioids]]<br />
-ASSOCIATED_WITH_CONDITION::[[Dehydration]]<br />
-TREATED_BY_DRUG::[[Ondansetron]] - 5-HT3 antagonist.<br />
-TREATED_BY_DRUG::[[Dexamethasone]]<br />
-TREATED_BY_DRUG::[[Scopolamine]]<br />
-TREATED_BY_DRUG::[[Metoclopramide]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">General Anesthesia</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Opioids</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ondansetron</a> - 5-HT3 antagonist.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Dexamethasone</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Scopolamine</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Metoclopramide</a></p>
 <h2>References</h2>
 <ul>
 <li>Gan, T. J., et al. (2014). Consensus guidelines for the management of postoperative nausea and vomiting. Anesthesia &amp; Analgesia.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.206368Z'
+created: '2026-02-09T08:04:41.591333Z'
 description: Supplemental form of the sleep hormone melatonin. Supports sleep onset,
   jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Melatonin Supplement
 type: supplement
-updated: '2026-02-09T05:54:33.206368Z'
+updated: '2026-02-09T08:04:41.591333Z'
 ---
 
 {% raw %}
@@ -27,88 +27,88 @@ updated: '2026-02-09T05:54:33.206368Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pineal_Gland]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pineal_Gland</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Melatonin]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GABA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glycine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Glycine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.056323'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GABA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.031973'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.007719'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.981919'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.879282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pineal_Gland]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/pineal-gland/" class="internal-link">Pineal_Gland</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.905745'
 source: obsidian
 </code></pre>
 <h3>Mimics Hormone</h3>
 <ul>
-<li>→ [[Melatonin]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.934797'
 source: obsidian
@@ -117,88 +117,88 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Pineal_Gland]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/pineal-gland/" class="internal-link">Pineal_Gland</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.905745'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.879282'
 source: obsidian
 </code></pre>
 <h3>Mimics Hormone</h3>
 <ul>
-<li>→ [[Melatonin]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.934797'
 source: obsidian
 </code></pre>
 <h3>Synergistic With</h3>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.981919'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.007719'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GABA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.031973'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glycine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.056323'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pineal_Gland]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pineal_Gland</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glycine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GABA]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[L-Theanine]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Magnesium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Brain]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Melatonin]] (hormone)</li>
+<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.902686Z'
+created: '2026-02-09T08:04:40.084823Z'
 description: An inherited disorder characterized by the development of hundreds to
   thousands of adenomatous polyps in the colon and rectum, with a high risk of progression
   to colorectal cancer.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Adenomatous Polyposis Coli
 type: condition
-updated: '2026-02-09T05:54:31.902686Z'
+updated: '2026-02-09T08:04:40.084823Z'
 ---
 
 {% raw %}
@@ -30,27 +30,27 @@ updated: '2026-02-09T05:54:31.902686Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Adenomatous_Polyposis_Coli]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/adenomatous-polyposis-coli/" class="internal-link">Adenomatous_Polyposis_Coli</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.494744'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Adenomatous_Polyposis_Coli]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/adenomatous-polyposis-coli/" class="internal-link">Adenomatous_Polyposis_Coli</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.631740'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Genetic Mutation]]<br />
-ASSOCIATED_WITH_GENE::[[APC]]<br />
-INCREASED_RISK_OF::[[Colorectal Neoplasms]]<br />
-INCREASED_RISK_OF::[[Desmoid Tumor]]<br />
-AFFECTS_ORGAN::[[Colon]]<br />
-AFFECTS_ORGAN::[[Rectum]]<br />
-TREATED_BY_INTERVENTION::[[Colectomy]]<br />
-TREATED_BY_DRUG::[[Celecoxib]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Genetic Mutation</a><br />
+ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">APC</a><br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/colorectal-neoplasms/" class="internal-link">Colorectal Neoplasms</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Desmoid Tumor</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Colon</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Rectum</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Colectomy</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Celecoxib</a></p>
 <h2>References</h2>
 <ul>
 <li>Galiatsatos, P., &amp; Foulkes, W. D. (2006). Familial adenomatous polyposis. The Lancet.</li>

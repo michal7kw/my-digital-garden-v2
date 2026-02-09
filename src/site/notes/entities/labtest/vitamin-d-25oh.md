@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.531760Z'
+created: '2026-02-09T08:04:40.788096Z'
 description: Primary vitamin D status marker. Important for bone health, immune function,
   and overall wellness.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d_25oh
 type: labtest
-updated: '2026-02-09T05:54:32.531760Z'
+updated: '2026-02-09T08:04:40.788096Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.531760Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[vitamin_d]]</li>
+<li><a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">vitamin_d</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,13 +67,13 @@ updated: '2026-02-09T05:54:32.531760Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[vitamin_d]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">vitamin_d</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">vitamin_d</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.541578'
 source: obsidian

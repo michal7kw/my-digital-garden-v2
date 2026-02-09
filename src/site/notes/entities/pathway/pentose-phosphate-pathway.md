@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.777577Z'
+created: '2026-02-09T08:04:41.111880Z'
 description: A metabolic pathway parallel to glycolysis that generates NADPH for biosynthesis
   and antioxidant defense, and ribose-5-phosphate for nucleotide synthesis. Essential
   for rapidly dividing cells and cells requiring high antioxidant capacity.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Pentose Phosphate Pathway
 type: pathway
-updated: '2026-02-09T05:54:32.777577Z'
+updated: '2026-02-09T08:04:41.111880Z'
 ---
 
 {% raw %}
@@ -161,19 +161,19 @@ updated: '2026-02-09T05:54:32.777577Z'
 </thead>
 <tbody>
 <tr>
-<td><strong>[[Thiamine]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">Thiamine</a></strong></td>
 <td>Cofactor for transketolase</td>
 </tr>
 <tr>
-<td><strong>[[NAC]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a></strong></td>
 <td>Requires NADPH for glutathione synthesis</td>
 </tr>
 <tr>
-<td><strong>[[Glutathione]]</strong></td>
+<td><strong><a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a></strong></td>
 <td>Requires NADPH for regeneration</td>
 </tr>
 <tr>
-<td><strong>[[Riboflavin]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">Riboflavin</a></strong></td>
 <td>Component of FAD for glutathione reductase</td>
 </tr>
 </tbody>
@@ -182,42 +182,42 @@ updated: '2026-02-09T05:54:32.777577Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Thiamine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thiamine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Riboflavin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Riboflavin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[NAC]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Glutathione]] (metabolite)</li>
+<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>BRANCHES_FROM::[[Glycolysis]] - At glucose-6-phosphate<br />
-PRODUCES::[[NADPH]] - Two per glucose-6-P oxidized<br />
-PRODUCES::[[Ribose-5-phosphate]] - For nucleotide synthesis<br />
-FEEDS_BACK_TO::[[Glycolysis]] - Via F-6-P and G-3-P<br />
-SUPPORTS::[[Glutathione]] - NADPH for regeneration<br />
-SUPPORTS::[[Fatty Acid Synthesis]] - NADPH source<br />
-LOCATED_IN::[[Cytosol]] - Cytoplasmic pathway<br />
-REQUIRES_COFACTOR::[[Thiamine]] - For transketolase<br />
-KEY_ENZYME::[[G6PD]] - Rate-limiting enzyme<br />
-RELATED_TO::[[NAD+]] - Different coenzyme pool (NADP+)<br />
-AFFECTED_BY::[[Oxidative Stress]] - Increases flux</p>
+<p>BRANCHES_FROM::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - At glucose-6-phosphate<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">NADPH</a> - Two per glucose-6-P oxidized<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">Ribose-5-phosphate</a> - For nucleotide synthesis<br />
+FEEDS_BACK_TO::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Via F-6-P and G-3-P<br />
+SUPPORTS::<a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> - NADPH for regeneration<br />
+SUPPORTS::<a class="internal-link is-unresolved" href="/404">Fatty Acid Synthesis</a> - NADPH source<br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Cytosol</a> - Cytoplasmic pathway<br />
+REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Thiamine</a> - For transketolase<br />
+KEY_ENZYME::<a class="internal-link is-unresolved" href="/404">G6PD</a> - Rate-limiting enzyme<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Different coenzyme pool (NADP+)<br />
+AFFECTED_BY::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a> - Increases flux</p>
 <h2>References</h2>
 <ul>
 <li>Stanton RC. Glucose-6-phosphate dehydrogenase, NADPH, and cell survival. IUBMB Life. 2012;64(5):362-9. PMID: 22431005</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.040899Z'
+created: '2026-02-09T08:04:40.234201Z'
 description: Genetic polymorphisms in the MTHFR gene (most commonly C677T and A1298C)
   that can lead to reduced enzyme activity and impaired folate metabolism.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: MTHFR Gene Variants
 type: condition
-updated: '2026-02-09T05:54:32.040899Z'
+updated: '2026-02-09T08:04:40.234201Z'
 ---
 
 {% raw %}
@@ -32,28 +32,28 @@ updated: '2026-02-09T05:54:32.040899Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[MTHFR_Gene_Variants]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/mthfr-gene-variants/" class="internal-link">MTHFR_Gene_Variants</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:47.307291'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[MTHFR_Gene_Variants]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mthfr-gene-variants/" class="internal-link">MTHFR_Gene_Variants</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:49.770914'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[MTHFR]]<br />
-ASSOCIATED_WITH_CONDITION::[[Cardiovascular Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
-ASSOCIATED_WITH_CONDITION::[[Premature Birth]] - Neural tube defects.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Homocysteine]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Vitamin B12]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Folate]]<br />
-IMPROVED_BY_INTERVENTION::[[Methylfolate Supplementation]]</p>
+<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">MTHFR</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature Birth</a> - Neural tube defects.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Methylfolate Supplementation</a></p>
 <h2>References</h2>
 <ul>
 <li>Moll, S., &amp; Varga, E. A. (2015). Homocysteine and MTHFR mutations. Circulation.</li>

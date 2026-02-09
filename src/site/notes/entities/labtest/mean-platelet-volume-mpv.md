@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.442457Z'
+created: '2026-02-09T08:04:40.685379Z'
 description: Tested twice a year Mean platelet volume (MPV) measures the average size
   of platelets, the cells that help blood clot and stop bleeding. High MPV means the
   body is making larger, younger platelets, often in response to blood loss, inflammation,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: mean_platelet_volume_mpv
 type: labtest
-updated: '2026-02-09T05:54:32.442457Z'
+updated: '2026-02-09T08:04:40.685379Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-02-09T05:54:32.442457Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Immune Thrombocytopenia (Low Platelets)]]</li>
-<li>[[Bone Marrow Disorder]]</li>
-<li>[[Inflammatory Disorder]]</li>
-<li>[[Cardiovascular Disease]]</li>
-<li>[[Recent Blood Loss]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Immune Thrombocytopenia (Low Platelets)</a></li>
+<li><a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Inflammatory Disorder</a></li>
+<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Recent Blood Loss</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -74,87 +74,87 @@ updated: '2026-02-09T05:54:32.442457Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Immune_Thrombocytopenia_Low_Platelets]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Recent_Blood_Loss]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Inflammatory_Disorder]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Immune_Thrombocytopenia_Low_Platelets]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Recent_Blood_Loss]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Inflammatory_Disorder]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cardiovascular_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Bone_Marrow_Disorder]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

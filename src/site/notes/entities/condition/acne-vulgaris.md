@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.898147Z'
+created: '2026-02-09T08:04:40.080044Z'
 description: A common chronic inflammatory skin condition of the pilosebaceous unit,
   characterized by comedones, papules, pustules, and nodules.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acne Vulgaris
 type: condition
-updated: '2026-02-09T05:54:31.898147Z'
+updated: '2026-02-09T08:04:40.080044Z'
 ---
 
 {% raw %}
@@ -34,26 +34,26 @@ updated: '2026-02-09T05:54:31.898147Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Acne_Vulgaris]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/acne-vulgaris/" class="internal-link">Acne_Vulgaris</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.260022'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acne_Vulgaris]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/acne-vulgaris/" class="internal-link">Acne_Vulgaris</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.034112'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Polycystic Ovary Syndrome]] - Due to hyperandrogenism.<br />
-IMPROVED_BY_INTERVENTION::[[Low Glycemic Diet]]<br />
-AFFECTS_ORGAN::[[Skin]]<br />
-REDUCED_BY_DRUG::[[Isotretinoin]]<br />
-REDUCED_BY_DRUG::[[Benzoyl Peroxide]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Testosterone]]<br />
-RELATED_TO::[[Cortisol]] - Stress-induced exacerbation.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/polycystic-ovary-syndrome/" class="internal-link">Polycystic Ovary Syndrome</a> - Due to hyperandrogenism.<br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Low Glycemic Diet</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a><br />
+REDUCED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Isotretinoin</a><br />
+REDUCED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Benzoyl Peroxide</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Testosterone</a><br />
+RELATED_TO::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> - Stress-induced exacerbation.</p>
 <h2>References</h2>
 <ul>
 <li>Zaenglein, A. L., et al. (2016). Guidelines of care for the management of acne vulgaris. Journal of the American Academy of Dermatology.</li>

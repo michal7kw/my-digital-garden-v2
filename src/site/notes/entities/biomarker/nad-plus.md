@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.688722Z'
+created: '2026-02-09T08:04:39.936251Z'
 description: Nicotinamide adenine dinucleotide is a critical coenzyme present in every
   cell, essential for cellular energy metabolism, DNA repair, sirtuin activity, and
   over 500 enzymatic reactions. NAD+ levels decline with age and are implicated in
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: NAD Plus
 type: biomarker
-updated: '2026-02-09T05:54:31.688722Z'
+updated: '2026-02-09T08:04:39.936251Z'
 ---
 
 {% raw %}
@@ -64,30 +64,30 @@ updated: '2026-02-09T05:54:31.688722Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[NMN]] - Strongly increases NAD+ (40-90% elevation, evidence level 2)</li>
-<li>[[Nicotinamide Riboside]] - Strongly increases NAD+ (strong effect, evidence level 2)</li>
-<li>[[Niacin]] - Increases NAD+ through the Preiss-Handler pathway (mild effect, evidence level 3)</li>
-<li>[[Resveratrol]] - Activates sirtuins that consume NAD+; synergistic with NAD+ boosters (evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> - Strongly increases NAD+ (40-90% elevation, evidence level 2)</li>
+<li><a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a> - Strongly increases NAD+ (strong effect, evidence level 2)</li>
+<li><a class="internal-link is-unresolved" href="/404">Niacin</a> - Increases NAD+ through the Preiss-Handler pathway (mild effect, evidence level 3)</li>
+<li><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Activates sirtuins that consume NAD+; synergistic with NAD+ boosters (evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
 <li>Jinfiniti IntracellularNAD Test - Intracellular NAD+ measurement</li>
-<li>[[truage complete]] - May include NAD+ assessment in aging panel</li>
+<li><a href="/garden/dev_admin/labtest/truage-complete/" class="internal-link">truage complete</a> - May include NAD+ assessment in aging panel</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[GrimAge]] (biomarker) - NAD+ depletion accelerates epigenetic aging</li>
-<li>→ [[GlycanAge]] (biomarker) - Both are aging biomarkers</li>
-<li>→ [[Glutathione]] (biomarker) - NAD+ supports glutathione recycling</li>
-<li>→ [[HbA1c]] (biomarker) - NAD+ influences glucose metabolism</li>
+<li>→ <a href="/garden/dev_admin/biomarker/grimage/" class="internal-link">GrimAge</a> (biomarker) - NAD+ depletion accelerates epigenetic aging</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glycanage/" class="internal-link">GlycanAge</a> (biomarker) - Both are aging biomarkers</li>
+<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (biomarker) - NAD+ supports glutathione recycling</li>
+<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (biomarker) - NAD+ influences glucose metabolism</li>
 </ul>
 <h3>Related Conditions</h3>
 <ul>
-<li>→ [[Aging]] (condition)</li>
-<li>→ [[Mitochondrial Dysfunction]] (condition)</li>
-<li>→ [[Neurodegeneration]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/aging/" class="internal-link">Aging</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a> (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/neurodegeneration/" class="internal-link">Neurodegeneration</a> (condition)</li>
 </ul>
 <h2>References</h2>
 <ul>

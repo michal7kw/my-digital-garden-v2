@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.128654Z'
+created: '2026-02-09T08:04:40.328900Z'
 description: A mild form of hypothyroidism characterized by slightly elevated TSH
   levels despite normal free T4 levels, often asymptomatic but carrying risks for
   progression.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Subclinical Hypothyroidism
 type: condition
-updated: '2026-02-09T05:54:32.128654Z'
+updated: '2026-02-09T08:04:40.328900Z'
 ---
 
 {% raw %}
@@ -40,14 +40,14 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroglobulin_antibodies_tgab]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[thyroid_stimulating_hormone_tsh]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -55,19 +55,19 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Subclinical_Hypothyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:43.051287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroglobulin_antibodies_tgab]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:43.051287'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_stimulating_hormone_tsh]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:43.051287'
 source: obsidian
@@ -88,51 +88,51 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Subclinical_Hypothyroidism]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[thyroid_stimulating_hormone_tsh]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[thyroglobulin_antibodies_tgab]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.175550'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroglobulin_antibodies_tgab]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_stimulating_hormone_tsh]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Subclinical_Hypothyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[thyroid_stimulating_hormone_tsh]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[thyroglobulin_antibodies_tgab]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

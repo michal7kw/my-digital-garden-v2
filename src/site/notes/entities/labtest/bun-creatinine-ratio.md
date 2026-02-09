@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.333667Z'
+created: '2026-02-09T08:04:40.559611Z'
 description: Tested twice a year The BUN/creatinine ratio compares two waste products
   in the blood—urea and creatinine—to provide a view of kidney health. An abnormal
   ratio can help distinguish between kidney problems and other conditions affecting
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: bun_creatinine_ratio
 type: labtest
-updated: '2026-02-09T05:54:32.333667Z'
+updated: '2026-02-09T08:04:40.559611Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.333667Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Kidney Dysfunction]]</li>
-<li>[[High Protein Intake]]</li>
-<li>[[Dehydration]]</li>
-<li>[[Malnutrition]]</li>
-<li>[[Gastrointestinal Bleeding]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
+<li><a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
+<li><a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,75 +71,75 @@ updated: '2026-02-09T05:54:32.333667Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.852773'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gastrointestinal_Bleeding]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.852773'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[High_Protein_Intake]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.852773'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Malnutrition]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dehydration]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gastrointestinal_Bleeding]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[High_Protein_Intake]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[High_Protein_Intake]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.216757'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Gastrointestinal_Bleeding]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Gastrointestinal_Bleeding]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>→ [[High_Protein_Intake]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

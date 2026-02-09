@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.098356Z'
+created: '2026-02-09T08:04:41.462773Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: RNA binding
 type: protein
-updated: '2026-02-09T05:54:33.098356Z'
+updated: '2026-02-09T08:04:41.462773Z'
 ---
 
 {% raw %}
@@ -42,500 +42,500 @@ updated: '2026-02-09T05:54:33.098356Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[pre-mRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pre-mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[translation_factor_activity_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">translation_factor_activity_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ribonuclease_P_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">ribonuclease_P_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[N6-methyladenosine-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N6-methyladenosine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alpha-aminoacyl-tRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">alpha-aminoacyl-tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GU_repeat_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GU_repeat_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pre-miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pre-miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[histone_pre-mRNA_DCP_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">histone_pre-mRNA_DCP_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BRE_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">BRE_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[nucleic_acid_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[single-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">single-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[snRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">snRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_modification_guide_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_modification_guide_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[7S_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">7S_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[primary_miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">primary_miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[regulatory_region_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">regulatory_region_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[misfolded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">misfolded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[rRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">rRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[21U-RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">21U-RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[C5-methylcytidine-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">C5-methylcytidine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_binding_involved_in_posttranscriptional_gene_silencing]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_binding_involved_in_posttranscriptional_gene_silencing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[telomerase_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">telomerase_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_stem-loop_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_stem-loop_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[telomeric_repeat-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">telomeric_repeat-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[double-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">double-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_cap_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_cap_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[long_noncoding_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">long_noncoding_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[snoRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">snoRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pumilio-response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pumilio-response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[G-quadruplex_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">G-quadruplex_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[regulatory_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">regulatory_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:32.924277'
 source: obsidian
 </code></pre>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[nucleic_acid_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.604000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[misfolded_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">misfolded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.611000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[regulatory_region_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">regulatory_region_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.618000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pre-miRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pre-miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.625000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[21U-RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">21U-RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.631000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_stem-loop_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_stem-loop_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.636000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[single-stranded_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">single-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.643000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[rRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">rRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.649000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[7S_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">7S_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.655000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[N6-methyladenosine-containing_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">N6-methyladenosine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.660000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[G-quadruplex_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">G-quadruplex_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.666000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_modification_guide_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_modification_guide_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.672000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[C5-methylcytidine-containing_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">C5-methylcytidine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.677000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[snoRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">snoRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.683000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[ribonuclease_P_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">ribonuclease_P_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.688000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pre-mRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pre-mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.693000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[BRE_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">BRE_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.698000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pumilio-response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pumilio-response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.704000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_cap_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_cap_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.710000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[tRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.716000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[primary_miRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">primary_miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.722000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[histone_pre-mRNA_DCP_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">histone_pre-mRNA_DCP_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.728000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[mRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.733000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[long_noncoding_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">long_noncoding_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.738000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[snRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">snRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.745000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[telomerase_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">telomerase_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.750000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[double-stranded_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">double-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.756000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[telomeric_repeat-containing_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">telomeric_repeat-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.761000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_binding_involved_in_posttranscriptional_gene_silencing]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_binding_involved_in_posttranscriptional_gene_silencing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.767000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[translation_factor_activity_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">translation_factor_activity_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.772000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[regulatory_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">regulatory_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.779000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[alpha-aminoacyl-tRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">alpha-aminoacyl-tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.784000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[GU_repeat_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">GU_repeat_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.789000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[regulatory_region_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">regulatory_region_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.795000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[nucleic_acid_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.800000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[misfolded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">misfolded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.805000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[21U-RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">21U-RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.810000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[rRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">rRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.816000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[snRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">snRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.822000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[N6-methyladenosine-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N6-methyladenosine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.828000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[telomerase_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">telomerase_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.835000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[GU_repeat_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GU_repeat_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.842000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[G-quadruplex_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">G-quadruplex_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.848000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[double-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">double-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.854000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_binding_involved_in_posttranscriptional_gene_silencing]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_binding_involved_in_posttranscriptional_gene_silencing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.859000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[pre-miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pre-miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.865000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[tRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.870000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[single-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">single-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.876000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_cap_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_cap_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.882000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[primary_miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">primary_miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.888000+00:00'
 source: PrimeKG
@@ -544,500 +544,500 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[nucleic_acid_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.604000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[misfolded_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">misfolded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.611000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[regulatory_region_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">regulatory_region_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.618000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pre-miRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pre-miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.625000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[21U-RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">21U-RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.631000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_stem-loop_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_stem-loop_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.636000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[single-stranded_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">single-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.643000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[rRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">rRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.649000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[7S_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">7S_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.655000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[N6-methyladenosine-containing_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">N6-methyladenosine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.660000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[G-quadruplex_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">G-quadruplex_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.666000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_modification_guide_activity]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_modification_guide_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.672000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[C5-methylcytidine-containing_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">C5-methylcytidine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.677000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[snoRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">snoRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.683000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[ribonuclease_P_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">ribonuclease_P_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.688000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pre-mRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pre-mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.693000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[BRE_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">BRE_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.698000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[pumilio-response_element_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">pumilio-response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.704000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_cap_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_cap_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.710000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[tRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.716000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[primary_miRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">primary_miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.722000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[histone_pre-mRNA_DCP_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">histone_pre-mRNA_DCP_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.728000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[mRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.733000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[long_noncoding_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">long_noncoding_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.738000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[snRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">snRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.745000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[telomerase_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">telomerase_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.750000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[double-stranded_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">double-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.756000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[telomeric_repeat-containing_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">telomeric_repeat-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.761000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[RNA_binding_involved_in_posttranscriptional_gene_silencing]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">RNA_binding_involved_in_posttranscriptional_gene_silencing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.767000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[translation_factor_activity_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">translation_factor_activity_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.772000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[regulatory_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">regulatory_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.779000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[alpha-aminoacyl-tRNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">alpha-aminoacyl-tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.784000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[GU_repeat_RNA_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">GU_repeat_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.789000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[regulatory_region_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">regulatory_region_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.795000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[nucleic_acid_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.800000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[misfolded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">misfolded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.805000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[21U-RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">21U-RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.810000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[rRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">rRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.816000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[snRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">snRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.822000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[N6-methyladenosine-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N6-methyladenosine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.828000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[telomerase_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">telomerase_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.835000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[GU_repeat_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GU_repeat_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.842000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[G-quadruplex_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">G-quadruplex_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.848000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[double-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">double-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.854000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_binding_involved_in_posttranscriptional_gene_silencing]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_binding_involved_in_posttranscriptional_gene_silencing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.859000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[pre-miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pre-miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.865000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[tRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.870000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[single-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">single-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.876000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[RNA_cap_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_cap_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.882000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[primary_miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">primary_miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:14.888000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[nucleic_acid_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[misfolded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">misfolded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[regulatory_region_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">regulatory_region_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pre-miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pre-miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[21U-RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">21U-RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_stem-loop_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_stem-loop_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[single-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">single-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[rRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">rRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[7S_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">7S_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[N6-methyladenosine-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">N6-methyladenosine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[G-quadruplex_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">G-quadruplex_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_modification_guide_activity]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_modification_guide_activity</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[C5-methylcytidine-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">C5-methylcytidine-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[snoRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">snoRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ribonuclease_P_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">ribonuclease_P_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pre-mRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pre-mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BRE_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">BRE_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[pumilio-response_element_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">pumilio-response_element_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_cap_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_cap_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[tRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[primary_miRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">primary_miRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[histone_pre-mRNA_DCP_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">histone_pre-mRNA_DCP_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">mRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[long_noncoding_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">long_noncoding_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[snRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">snRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[telomerase_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">telomerase_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[double-stranded_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">double-stranded_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[telomeric_repeat-containing_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">telomeric_repeat-containing_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[RNA_binding_involved_in_posttranscriptional_gene_silencing]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">RNA_binding_involved_in_posttranscriptional_gene_silencing</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[translation_factor_activity_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">translation_factor_activity_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[regulatory_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">regulatory_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[alpha-aminoacyl-tRNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">alpha-aminoacyl-tRNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[GU_repeat_RNA_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">GU_repeat_RNA_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:52.314282'
 source: obsidian

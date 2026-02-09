@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.133256Z'
+created: '2026-02-09T08:04:40.333997Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: condition
-updated: '2026-02-09T05:54:32.133256Z'
+updated: '2026-02-09T08:04:40.333997Z'
 ---
 
 {% raw %}
@@ -33,162 +33,162 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>→ [[TSH]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T4]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:27.872842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T08:39:27.872842'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Selenium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <h3>Modulated By Pathway</h3>
 <ul>
-<li>→ [[Thyroid_Hormone_Synthesis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroid_Hormone_Synthesis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[thyroid_dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TSH]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T4]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Selenium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Hormone_Synthesis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroid_Hormone_Synthesis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:32:40.642238'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Thyroid]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
@@ -209,216 +209,216 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.290959'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Hormone_Synthesis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroid_Hormone_Synthesis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[thyroid_dysfunction]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[TSH]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T4]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Selenium]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T12:01:04.847792'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Thyroid]] (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T11:58:53.643214'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Heart]] (organ)</li>
+<li>← <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T11:58:46.695381'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hyperthyroidism]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-25T19:20:43.317242'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Cardiovascular_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-25T19:20:04.835843'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-25T20:32:36.355190'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Free_T4]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-25T20:32:12.713341'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Free_T3]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-25T20:32:12.387828'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Selenium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid_Dysfunction]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:59.757278'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Thyroid]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
 </code></pre>
 <h3>Modulated By Pathway</h3>
 <ul>
-<li>→ [[Thyroid_Hormone_Synthesis]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Thyroid_Hormone_Synthesis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>→ [[Hypothyroidism]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cardiovascular_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hyperthyroidism]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <h3>Requires Biomarker</h3>
 <ul>
-<li>→ [[TSH]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">TSH</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T3]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free_T3</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Free_T4]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <h3>Improved By Supplement</h3>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Selenium]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <h3>Affects Organ</h3>
 <ul>
-<li>→ [[Thyroid]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Heart]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.753143Z'
+created: '2026-02-09T08:04:41.085209Z'
 description: Mitophagy is the selective degradation of damaged or dysfunctional mitochondria
   by autophagy. It is a critical quality control mechanism that maintains cellular
   health by removing mitochondria that could otherwise produce excessive reactive
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Mitophagy
 type: pathway
-updated: '2026-02-09T05:54:32.753143Z'
+updated: '2026-02-09T08:04:41.085209Z'
 ---
 
 {% raw %}
@@ -46,65 +46,65 @@ updated: '2026-02-09T05:54:32.753143Z'
 <h2>Relationships</h2>
 <h3>Prevents</h3>
 <ul>
-<li>→ [[Oxidative_Stress]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Parkinsons_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Autophagy]] (pathway)</li>
+<li>← <a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.481193'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <h3>Affects</h3>
 <ul>
-<li>← [[Nicotine]] (drug)</li>
+<li>← <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
 </code></pre>
 <h3>Modulated By</h3>
 <ul>
-<li>→ [[Nicotine]] (drug)</li>
+<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
 </code></pre>
 <h3>Subtype Of</h3>
 <ul>
-<li>→ [[Autophagy]] (pathway)</li>
+<li>→ <a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> (pathway)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
@@ -112,10 +112,10 @@ source: obsidian
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <ul>
-<li>subtype_of:: [[Autophagy]]</li>
-<li>affects:: [[Mitochondria]]</li>
-<li>modulated_by:: [[Nicotine]]</li>
-<li>prevents:: [[Oxidative_Stress]]</li>
+<li>subtype_of:: <a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a></li>
+<li>affects:: <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></li>
+<li>modulated_by:: <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a></li>
+<li>prevents:: <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a></li>
 </ul>
 <h2>References</h2>
 <ul>

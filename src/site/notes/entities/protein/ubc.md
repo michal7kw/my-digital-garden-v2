@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.125222Z'
+created: '2026-02-09T08:04:41.496501Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: UBC
 type: protein
-updated: '2026-02-09T05:54:33.125222Z'
+updated: '2026-02-09T08:04:41.496501Z'
 ---
 
 {% raw %}
@@ -43,49 +43,49 @@ updated: '2026-02-09T05:54:33.125222Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[ETS1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ets1/" class="internal-link">ETS1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CYP3A4]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cyp3a4/" class="internal-link">CYP3A4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SRC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ETS1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ets1/" class="internal-link">ETS1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.116238'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EGFR]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[CYP3A4]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/cyp3a4/" class="internal-link">CYP3A4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
@@ -94,49 +94,49 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[CYP3A4]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/cyp3a4/" class="internal-link">CYP3A4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.570959'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[EGFR]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.295791'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[ETS1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/ets1/" class="internal-link">ETS1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.931123'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SRC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.075571'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ETS1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/ets1/" class="internal-link">ETS1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[EGFR]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[CYP3A4]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/cyp3a4/" class="internal-link">CYP3A4</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian

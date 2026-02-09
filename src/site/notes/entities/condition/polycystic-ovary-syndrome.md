@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.100612Z'
+created: '2026-02-09T08:04:40.298677Z'
 description: A hormonal disorder common among women of reproductive age, characterized
   by irregular periods, excess androgen levels, and cysts on the ovaries.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Polycystic Ovary Syndrome
 type: condition
-updated: '2026-02-09T05:54:32.100612Z'
+updated: '2026-02-09T08:04:40.298677Z'
 ---
 
 {% raw %}
@@ -35,29 +35,29 @@ updated: '2026-02-09T05:54:32.100612Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Polycystic_Ovary_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycystic-ovary-syndrome/" class="internal-link">Polycystic_Ovary_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.628336'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Polycystic_Ovary_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/polycystic-ovary-syndrome/" class="internal-link">Polycystic_Ovary_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.910570'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Insulin Resistance]]<br />
-ASSOCIATED_WITH_CONDITION::[[Infertility]]<br />
-ASSOCIATED_WITH_CONDITION::[[Type 2 Diabetes]]<br />
-ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Testosterone]] - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Insulin]]<br />
-AFFECTS_ORGAN::[[Ovary]]<br />
-TREATED_BY_DRUG::[[Metformin]]<br />
-TREATED_BY_DRUG::[[Spironolactone]] - For hirsutism.<br />
-TREATED_BY_DRUG::[[Oral Contraceptives]]</p>
+<p>CAUSED_BY::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Infertility</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Testosterone</a> - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Ovary</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/metformin/" class="internal-link">Metformin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Spironolactone</a> - For hirsutism.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Oral Contraceptives</a></p>
 <h2>References</h2>
 <ul>
 <li>Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group. (2004). Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome. Fertility and Sterility.</li>

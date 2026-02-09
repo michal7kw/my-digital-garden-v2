@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.428307Z'
+created: '2026-02-09T08:04:40.668805Z'
 description: Measures total cholesterol, LDL, HDL, and triglycerides. Essential for
   cardiovascular risk assessment.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: lipid_panel_standard
 type: labtest
-updated: '2026-02-09T05:54:32.428307Z'
+updated: '2026-02-09T08:04:40.668805Z'
 ---
 
 {% raw %}
@@ -67,11 +67,11 @@ updated: '2026-02-09T05:54:32.428307Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[total_cholesterol]]</li>
-<li>[[ldl]]</li>
-<li>[[hdl]]</li>
-<li>[[triglycerides]]</li>
-<li>[[vldl]]</li>
+<li><a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a></li>
+<li><a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">ldl</a></li>
+<li><a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">hdl</a></li>
+<li><a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a></li>
+<li><a href="/garden/dev_admin/biomarker/vldl/" class="internal-link">vldl</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -84,91 +84,91 @@ updated: '2026-02-09T05:54:32.428307Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[triglycerides]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.183752'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[total_cholesterol]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.745148'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Cholesterol]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Hdl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Triglycerides]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Ldl]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Triglycerides]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.411186'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Total_Cholesterol]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Ldl]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.114995'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Hdl]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.760722'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vldl]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/vldl/" class="internal-link">vldl</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[hdl]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">hdl</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[ldl]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">ldl</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[total_cholesterol]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[triglycerides]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
 source: obsidian

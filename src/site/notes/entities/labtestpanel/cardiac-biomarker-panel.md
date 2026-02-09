@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.547949Z'
+created: '2026-02-09T08:04:40.805847Z'
 description: Evaluates cardiac injury and heart failure through key biomarkers including
   troponins for myocardial damage and natriuretic peptides for ventricular stress.
   Essential for emergency chest pain evaluation and heart failure monitoring.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: cardiac_biomarker_panel
 type: labtestpanel
-updated: '2026-02-09T05:54:32.547949Z'
+updated: '2026-02-09T08:04:40.805847Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.547949Z'
 </thead>
 <tbody>
 <tr>
-<td>[[troponin i]]</td>
+<td><a href="/garden/dev_admin/labtest/troponin-i/" class="internal-link">troponin i</a></td>
 <td>Troponin I</td>
 <td>Detect myocardial necrosis; highly specific cardiac injury marker</td>
 </tr>
 <tr>
-<td>[[troponin t high sensitivity]]</td>
+<td><a href="/garden/dev_admin/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a></td>
 <td>hs-Troponin T</td>
 <td>Early detection of myocardial injury with enhanced sensitivity</td>
 </tr>
 <tr>
-<td>[[bnp]]</td>
+<td><a href="/garden/dev_admin/labtest/bnp/" class="internal-link">bnp</a></td>
 <td>B-type Natriuretic Peptide</td>
 <td>Assess ventricular wall stress and heart failure severity</td>
 </tr>
 <tr>
-<td>[[nt probnp]]</td>
+<td><a href="/garden/dev_admin/labtest/nt-probnp/" class="internal-link">nt probnp</a></td>
 <td>NT-proBNP</td>
 <td>Evaluate heart failure status; longer half-life than BNP</td>
 </tr>
 <tr>
-<td>[[Creatine Kinase]]</td>
+<td><a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a></td>
 <td>Creatine Kinase (CK)</td>
 <td>Assess extent of muscle damage; supplementary cardiac marker</td>
 </tr>
@@ -72,11 +72,11 @@ updated: '2026-02-09T05:54:32.547949Z'
 <h2>Relationships</h2>
 <h3>Included In</h3>
 <ul>
-<li>[[troponin i]] (labtest)</li>
-<li>[[troponin t high sensitivity]] (labtest)</li>
-<li>[[bnp]] (labtest)</li>
-<li>[[nt probnp]] (labtest)</li>
-<li>[[Creatine Kinase]] (biomarker)</li>
+<li><a href="/garden/dev_admin/labtest/troponin-i/" class="internal-link">troponin i</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/bnp/" class="internal-link">bnp</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/nt-probnp/" class="internal-link">nt probnp</a> (labtest)</li>
+<li><a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker)</li>
 </ul>
 <hr />
 <p><em>Last Updated: 2026-02-07</em></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.627973Z'
+created: '2026-02-09T08:04:39.876009Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Dhea S
 type: biomarker
-updated: '2026-02-09T05:54:31.627973Z'
+updated: '2026-02-09T08:04:39.876009Z'
 ---
 
 {% raw %}
@@ -30,20 +30,20 @@ updated: '2026-02-09T05:54:31.627973Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Dhea_S]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">Dhea_S</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.358491'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dhea_S]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">Dhea_S</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.358491'
 source: obsidian
 </code></pre>
 <h3>Indicates Organ Health</h3>
 <ul>
-<li>→ [[Adrenal Glands]] (organ)</li>
+<li>→ <a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a> (organ)</li>
 </ul>
 <pre><code class="language-yaml">specificity: high
 function_indicated: Adrenal Androgen Production
@@ -58,13 +58,13 @@ source: curated
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Dhea_S]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">Dhea_S</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:13.784476'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Dhea_S]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">Dhea_S</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:13.784476'
 source: obsidian

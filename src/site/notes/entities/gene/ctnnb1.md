@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.255504Z'
+created: '2026-02-09T08:04:40.471848Z'
 description: Encodes Beta-Catenin, a dual-function protein involved in cell adhesion
   and Wnt signaling.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CTNNB1
 type: gene
-updated: '2026-02-09T05:54:32.255504Z'
+updated: '2026-02-09T08:04:40.471848Z'
 ---
 
 {% raw %}
@@ -31,8 +31,8 @@ updated: '2026-02-09T05:54:32.255504Z'
 <p>Mutations in CTNNB1 that prevent its degradation lead to its accumulation and constitutive activation of Wnt target genes, a driver in colorectal cancer, hepatocellular carcinoma, and others.</p>
 <h2>Relationships</h2>
 <ul>
-<li>→ [[CTNNB1]] (protein) - <em>Encodes</em></li>
-<li>→ [[Colorectal Cancer]] (condition) - <em>Driver mutation</em></li>
+<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein) - <em>Encodes</em></li>
+<li>→ <a href="/garden/dev_admin/condition/colorectal-cancer/" class="internal-link">Colorectal Cancer</a> (condition) - <em>Driver mutation</em></li>
 </ul>
 <h2>References</h2>
 <ol>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.708806Z'
+created: '2026-02-09T08:04:40.988249Z'
 description: The mitochondrial pathway for fatty acid catabolism that sequentially
   removes two-carbon units as acetyl-CoA. Each cycle generates NADH and FADH2 for
   ATP production, making it highly efficient for energy generation from stored fat.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Oxidation
 type: pathway
-updated: '2026-02-09T05:54:32.708806Z'
+updated: '2026-02-09T08:04:40.988249Z'
 ---
 
 {% raw %}
@@ -121,19 +121,19 @@ updated: '2026-02-09T05:54:32.708806Z'
 </thead>
 <tbody>
 <tr>
-<td><strong>[[Carnitine]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">Carnitine</a></strong></td>
 <td>Essential for fatty acid transport</td>
 </tr>
 <tr>
-<td><strong>[[Coenzyme Q10]]</strong></td>
+<td><strong><a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a></strong></td>
 <td>Electron acceptor from ETF</td>
 </tr>
 <tr>
-<td><strong>[[Riboflavin]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">Riboflavin</a></strong></td>
 <td>Precursor for FAD (acyl-CoA DH)</td>
 </tr>
 <tr>
-<td><strong>[[Pantothenic Acid]]</strong></td>
+<td><strong><a class="internal-link is-unresolved" href="/404">Pantothenic Acid</a></strong></td>
 <td>Component of CoA</td>
 </tr>
 </tbody>
@@ -164,75 +164,75 @@ updated: '2026-02-09T05:54:32.708806Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Coenzyme_Q10]] (supplement)</li>
+<li>← <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:42:49.159387'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pantothenic_Acid]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pantothenic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.393431'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Coenzyme_Q10]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.393431'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Mitochondria]] (cellularcomponent)</li>
+<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.393431'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Riboflavin]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Riboflavin</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.545600'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Pantothenic_Acid]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Pantothenic_Acid</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.545600'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Carnitine]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Carnitine</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.545600'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Mitochondria]] (cellularcomponent)</li>
+<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Coenzyme_Q10]] (supplement)</li>
+<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (supplement)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.545600'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>LOCATED_IN::[[Mitochondria]] - Matrix location<br />
-PRODUCES::[[Acetyl-CoA]] - Two-carbon product<br />
-PRODUCES::[[NADH]] - Per cycle<br />
-PRODUCES::[[FADH2]] - Per cycle<br />
-FEEDS_INTO::[[Citric Acid Cycle]] - Via acetyl-CoA<br />
-FEEDS_INTO::[[Electron Transport Chain]] - Via NADH, FADH2<br />
-REQUIRES::[[Carnitine]] - Fatty acid transport<br />
-REGULATED_BY::[[Insulin]] - Suppresses pathway<br />
-REGULATED_BY::[[Glucagon]] - Activates pathway<br />
-REGULATED_BY::[[AMPK]] - Activates pathway<br />
-INHIBITED_BY::[[Malonyl-CoA]] - CPT-I inhibitor<br />
-SUPPORTED_BY::[[Riboflavin]] - FAD precursor<br />
-SUPPORTED_BY::[[Pantothenic Acid]] - CoA component<br />
-RELATED_TO::[[Ketogenesis]] - Liver fate of acetyl-CoA</p>
+<p>LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Matrix location<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">Acetyl-CoA</a> - Two-carbon product<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">NADH</a> - Per cycle<br />
+PRODUCES::<a class="internal-link is-unresolved" href="/404">FADH2</a> - Per cycle<br />
+FEEDS_INTO::<a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a> - Via acetyl-CoA<br />
+FEEDS_INTO::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Via NADH, FADH2<br />
+REQUIRES::<a class="internal-link is-unresolved" href="/404">Carnitine</a> - Fatty acid transport<br />
+REGULATED_BY::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> - Suppresses pathway<br />
+REGULATED_BY::<a class="internal-link is-unresolved" href="/404">Glucagon</a> - Activates pathway<br />
+REGULATED_BY::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Activates pathway<br />
+INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Malonyl-CoA</a> - CPT-I inhibitor<br />
+SUPPORTED_BY::<a class="internal-link is-unresolved" href="/404">Riboflavin</a> - FAD precursor<br />
+SUPPORTED_BY::<a class="internal-link is-unresolved" href="/404">Pantothenic Acid</a> - CoA component<br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Ketogenesis</a> - Liver fate of acetyl-CoA</p>
 <h2>References</h2>
 <ul>
 <li>Houten SM, Wanders RJ. A general introduction to the biochemistry of mitochondrial fatty acid β-oxidation. J Inherit Metab Dis. 2010;33(5):469-77. PMID: 20195903</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.208867Z'
+created: '2026-02-09T08:04:40.420490Z'
 description: An oral natural penicillin used for mild to moderate bacterial infections,
   such as strep throat and skin infections.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V
 type: drug
-updated: '2026-02-09T05:54:32.208867Z'
+updated: '2026-02-09T08:04:40.420490Z'
 ---
 
 {% raw %}
@@ -34,11 +34,11 @@ updated: '2026-02-09T05:54:32.208867Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Tonsillitis]]<br />
-TREATS_CONDITION::[[Scarlet Fever]]<br />
-PREVENTS_CONDITION::[[Rheumatic Fever]]<br />
-ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]<br />
-INHIBITS_PROTEIN::[[Penicillin-Binding Proteins]]</p>
+<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Tonsillitis</a><br />
+TREATS_CONDITION::<a href="/garden/dev_admin/condition/scarlet-fever/" class="internal-link">Scarlet Fever</a><br />
+PREVENTS_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
+INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">Penicillin-Binding Proteins</a></p>
 <h2>References</h2>
 <ul>
 <li>Mandell, G. L., et al. Principles and Practice of Infectious Diseases.</li>

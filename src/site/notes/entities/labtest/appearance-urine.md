@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.320680Z'
+created: '2026-02-09T08:04:40.544778Z'
 description: Tested twice a year The appearance of urine—its color, clarity, and presence
   of foam—can provide simple but valuable clues about hydration, diet, and overall
   metabolic balance. Possible symptoms CLOUDY URINE FOAMY URINE DARK URINE PINK OR
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: appearance_urine
 type: labtest
-updated: '2026-02-09T05:54:32.320680Z'
+updated: '2026-02-09T08:04:40.544778Z'
 ---
 
 {% raw %}
@@ -59,11 +59,11 @@ updated: '2026-02-09T05:54:32.320680Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Urinary Tract Infection (Uti)]]</li>
-<li>[[Kidney Disease]]</li>
-<li>[[Kidney Stone Disease]]</li>
-<li>[[Bladder Disease]]</li>
-<li>[[Liver Dysfunction]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kidney Stone Disease</a></li>
+<li><a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
@@ -71,74 +71,74 @@ updated: '2026-02-09T05:54:32.320680Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.671631'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stone_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Stone_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.671631'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.671631'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.671631'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Disease]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.671631'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Urinary_Tract_Infection_Uti]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Liver_Dysfunction]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Kidney_Stone_Disease]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Stone_Disease</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Bladder_Disease]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>→ [[Bladder_Disease]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

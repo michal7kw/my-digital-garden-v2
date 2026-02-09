@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.206971Z'
+created: '2026-02-09T08:04:40.418624Z'
 description: A sodium salt of Penicillin O (Almecillin), used as an antimicrobial
   agent.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin O Sodium
 type: drug
-updated: '2026-02-09T05:54:32.206971Z'
+updated: '2026-02-09T08:04:40.418624Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-02-09T05:54:32.206971Z'
 <p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Bacterial Infections]]<br />
-ASSOCIATED_WITH_DRUG::[[Penicillin G]]</p>
+<p>TREATS_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
+ASSOCIATED_WITH_DRUG::<a href="/garden/dev_admin/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h2>References</h2>
 <ul>
 <li>DrugBank. Penicillin O Sodium.</li>

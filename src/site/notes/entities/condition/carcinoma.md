@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.937111Z'
+created: '2026-02-09T08:04:40.119639Z'
 description: A type of cancer that starts in cells that make up the skin or the tissue
   lining organs, such as the liver or kidneys.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Carcinoma
 type: condition
-updated: '2026-02-09T05:54:31.937111Z'
+updated: '2026-02-09T08:04:40.119639Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Carcinoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/carcinoma/" class="internal-link">Carcinoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:52.322641'
 source: obsidian
@@ -59,7 +59,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Carcinoma]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/carcinoma/" class="internal-link">Carcinoma</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.651878'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.258479Z'
+created: '2026-02-09T08:04:40.475043Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: gene
-updated: '2026-02-09T05:54:32.258479Z'
+updated: '2026-02-09T08:04:40.475043Z'
 ---
 
 {% raw %}
@@ -45,17 +45,17 @@ updated: '2026-02-09T05:54:32.258479Z'
 <li><strong>Therapy Resistance:</strong> ESR1 mutations (e.g., Y537S, D538G) often emerge in metastatic breast cancer after Aromatase Inhibitor treatment. These mutations render the receptor constitutively active (always &quot;on&quot;) even without estrogen, leading to resistance.</li>
 </ul>
 <h2>Relationships</h2>
-<p>ENCODES::[[Estrogen Receptor Alpha]]<br />
-ACTIVATED_BY::[[Estrogen]] - Primary ligand<br />
-ACTIVATED_BY::[[Estradiol]] - High affinity ligand<br />
-INHIBITED_BY::[[Tamoxifen]] - SERM (Selective Estrogen Receptor Modulator)<br />
-INHIBITED_BY::[[Fulvestrant]] - SERD (Selective Estrogen Receptor Degrader)<br />
-REGULATES::[[Gene Expression]] - Via ERE binding<br />
-ASSOCIATED_WITH_CONDITION::[[Breast Cancer]] - ER+ subtype<br />
-ASSOCIATED_WITH_CONDITION::[[Osteoporosis]] - Loss of signaling causes bone loss<br />
-INTERACTS_WITH::[[ESR2]] - Estrogen Receptor Beta (can heterodimerize)<br />
-INTERACTS_WITH::[[EP300]] - Co-activator<br />
-INTERACTS_WITH::[[SRC]] - Co-activator (NCOA1)</p>
+<p>ENCODES::<a class="internal-link is-unresolved" href="/404">Estrogen Receptor Alpha</a><br />
+ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Estrogen</a> - Primary ligand<br />
+ACTIVATED_BY::<a href="/garden/dev_admin/labtest/estradiol/" class="internal-link">Estradiol</a> - High affinity ligand<br />
+INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Tamoxifen</a> - SERM (Selective Estrogen Receptor Modulator)<br />
+INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Fulvestrant</a> - SERD (Selective Estrogen Receptor Degrader)<br />
+REGULATES::<a class="internal-link is-unresolved" href="/404">Gene Expression</a> - Via ERE binding<br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Breast Cancer</a> - ER+ subtype<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> - Loss of signaling causes bone loss<br />
+INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">ESR2</a> - Estrogen Receptor Beta (can heterodimerize)<br />
+INTERACTS_WITH::<a href="/garden/dev_admin/protein/ep300/" class="internal-link">EP300</a> - Co-activator<br />
+INTERACTS_WITH::<a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> - Co-activator (NCOA1)</p>
 <h2>References</h2>
 <ul>
 <li>Green S, et al. Human oestrogen receptor cDNA: sequence, expression and homology to v-erb-A. Nature. 1986;320(6058):134-9.</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.989348Z'
+created: '2026-02-09T08:04:40.178141Z'
 description: Infections of the eye or its surrounding structures caused by bacteria,
   viruses, fungi, or parasites.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Eye Infections
 type: condition
-updated: '2026-02-09T05:54:31.989348Z'
+updated: '2026-02-09T08:04:40.178141Z'
 ---
 
 {% raw %}
@@ -34,26 +34,26 @@ updated: '2026-02-09T05:54:31.989348Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Eye_Infections]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/eye-infections/" class="internal-link">Eye_Infections</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.355065'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Eye_Infections]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/eye-infections/" class="internal-link">Eye_Infections</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:35.851879'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Bacteria]]<br />
-CAUSED_BY::[[Virus]]<br />
-CAUSED_BY::[[Fungi]]<br />
-ASSOCIATED_WITH_CONDITION::[[Contact Lens Use]]<br />
-AFFECTS_ORGAN::[[Eye]]<br />
-TREATED_BY_DRUG::[[Antibiotic Eye Drops]]<br />
-TREATED_BY_DRUG::[[Antiviral Eye Drops]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Bacteria</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Virus</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Fungi</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Contact Lens Use</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Antibiotic Eye Drops</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Antiviral Eye Drops</a></p>
 <h2>References</h2>
 <ul>
 <li>Centers for Disease Control and Prevention (CDC). Eye Infections.</li>

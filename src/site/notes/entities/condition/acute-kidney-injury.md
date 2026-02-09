@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.899024Z'
+created: '2026-02-09T08:04:40.081093Z'
 description: A sudden episode of kidney failure or kidney damage that happens within
   a few hours or a few days, causing a build-up of waste products in the blood.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Kidney Injury
 type: condition
-updated: '2026-02-09T05:54:31.899024Z'
+updated: '2026-02-09T08:04:40.081093Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:31.899024Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Acute_Kidney_Injury]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/acute-kidney-injury/" class="internal-link">Acute_Kidney_Injury</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.304561'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Acute_Kidney_Injury]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/acute-kidney-injury/" class="internal-link">Acute_Kidney_Injury</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.269179'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>TREATS_CONDITION::[[Hydration]] - For prerenal AKI.<br />
-REDUCES_BIOMARKER::[[Glomerular Filtration Rate]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Creatinine]] - Increased levels indicate AKI.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Blood Urea Nitrogen]]<br />
-INCREASED_RISK_OF::[[Chronic Kidney Disease]]<br />
-COMPLICATION_OF::[[Sepsis]]<br />
-COMPLICATION_OF::[[Diabetes Mellitus]]<br />
-CAUSED_BY_DRUG::[[Ibuprofen]] - Through prerenal and intrinsic mechanisms.</p>
+<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Hydration</a> - For prerenal AKI.<br />
+REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Glomerular Filtration Rate</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> - Increased levels indicate AKI.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+COMPLICATION_OF::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
+COMPLICATION_OF::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+CAUSED_BY_DRUG::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a> - Through prerenal and intrinsic mechanisms.</p>
 <h2>References</h2>
 <ul>
 <li>KDIGO Clinical Practice Guideline for Acute Kidney Injury. (2012). Kidney International Supplements.</li>

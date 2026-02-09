@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.366505Z'
+created: '2026-02-09T08:04:40.597169Z'
 description: Blood sugar after fasting. Used for diabetes screening and metabolic
   health assessment.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: fasting_glucose
 type: labtest
-updated: '2026-02-09T05:54:32.366505Z'
+updated: '2026-02-09T08:04:40.597169Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-09T05:54:32.366505Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[glucose_fasting]]</li>
+<li><a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -74,19 +74,19 @@ updated: '2026-02-09T05:54:32.366505Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Glucose_Fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.647370'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Glucose_Fasting]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.191984'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[glucose_fasting]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.720085'
 source: obsidian

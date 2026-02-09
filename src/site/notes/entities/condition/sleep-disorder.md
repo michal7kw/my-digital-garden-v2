@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.124582Z'
+created: '2026-02-09T08:04:40.324333Z'
 description: A broad category of conditions that disrupt normal sleep patterns, affecting
   the quality, timing, and amount of sleep.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Disorder
 type: condition
-updated: '2026-02-09T05:54:32.124582Z'
+updated: '2026-02-09T08:04:40.324333Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.124582Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Sleep_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:52.634140'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Sleep_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:58.429918'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
-ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hypertension]]<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-TREATED_BY_DRUG::[[Melatonin]]<br />
-TREATED_BY_DRUG::[[Zolpidem]]<br />
-IMPROVED_BY_INTERVENTION::[[CBT-I]]<br />
-IMPROVED_BY_INTERVENTION::[[Sleep Hygiene]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Zolpidem</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">CBT-I</a><br />
+IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Sleep Hygiene</a></p>
 <h2>References</h2>
 <ul>
 <li>Colten, H. R., &amp; Altevogt, B. M. (2006). Sleep Disorders and Sleep Deprivation: An Unmet Public Health Problem.</li>

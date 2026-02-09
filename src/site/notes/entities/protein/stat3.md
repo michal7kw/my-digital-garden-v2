@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.117939Z'
+created: '2026-02-09T08:04:41.488261Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: STAT3
 type: protein
-updated: '2026-02-09T05:54:33.117939Z'
+updated: '2026-02-09T08:04:41.488261Z'
 ---
 
 {% raw %}
@@ -43,37 +43,37 @@ updated: '2026-02-09T05:54:33.117939Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[SRC]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.837263'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[SRC]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BRCA1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.987980'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fever]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fever/" class="internal-link">Fever</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.987980'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[BRCA1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Fever]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fever/" class="internal-link">Fever</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:19.089350'
 source: obsidian
@@ -82,25 +82,25 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Fever]] (phenotype)</li>
+<li>← <a href="/garden/dev_admin/phenotype/fever/" class="internal-link">Fever</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:33:51.598767'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[BRCA1]] (protein)</li>
+<li>← <a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.984660'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[BRCA1]] (protein)</li>
+<li>→ <a href="/garden/dev_admin/protein/brca1/" class="internal-link">BRCA1</a> (protein)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.185184'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Fever]] (phenotype)</li>
+<li>→ <a href="/garden/dev_admin/phenotype/fever/" class="internal-link">Fever</a> (phenotype)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.185184'
 source: obsidian

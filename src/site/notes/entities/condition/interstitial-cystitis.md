@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.024291Z'
+created: '2026-02-09T08:04:40.215862Z'
 description: A chronic, non-infectious condition causing bladder pressure, bladder
   pain, and sometimes pelvic pain, also known as bladder pain syndrome.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Interstitial Cystitis
 type: condition
-updated: '2026-02-09T05:54:32.024291Z'
+updated: '2026-02-09T08:04:40.215862Z'
 ---
 
 {% raw %}
@@ -38,14 +38,14 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[leukocyte_esterase_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leukocyte-esterase-urine/" class="internal-link">leukocyte_esterase_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[leukocyte_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leukocyte-urine/" class="internal-link">leukocyte_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -53,19 +53,19 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Interstitial_Cystitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:14.877747'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leukocyte_esterase_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leukocyte-esterase-urine/" class="internal-link">leukocyte_esterase_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:14.877747'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leukocyte_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leukocyte-urine/" class="internal-link">leukocyte_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:14.877747'
 source: obsidian
@@ -86,51 +86,51 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Interstitial_Cystitis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.533635'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[leukocyte_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leukocyte-urine/" class="internal-link">leukocyte_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.078688'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[leukocyte_esterase_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leukocyte-esterase-urine/" class="internal-link">leukocyte_esterase_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.960613'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Interstitial_Cystitis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.533635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leukocyte_esterase_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leukocyte-esterase-urine/" class="internal-link">leukocyte_esterase_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.533635'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[leukocyte_urine]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/leukocyte-urine/" class="internal-link">leukocyte_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.533635'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[leukocyte_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leukocyte-urine/" class="internal-link">leukocyte_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[leukocyte_esterase_urine]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/leukocyte-esterase-urine/" class="internal-link">leukocyte_esterase_urine</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

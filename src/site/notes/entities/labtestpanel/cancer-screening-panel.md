@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.547097Z'
+created: '2026-02-09T08:04:40.804899Z'
 description: Panel of tumor markers used for cancer screening and monitoring. Includes
   PSA for prostate, CEA for colorectal, CA-125 for ovarian, and AFP for liver/testicular
   cancers. Best used in conjunction with imaging and clinical evaluation.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: cancer_screening_panel
 type: labtestpanel
-updated: '2026-02-09T05:54:32.547097Z'
+updated: '2026-02-09T08:04:40.804899Z'
 ---
 
 {% raw %}
@@ -33,22 +33,22 @@ updated: '2026-02-09T05:54:32.547097Z'
 </thead>
 <tbody>
 <tr>
-<td>[[prostate specific antigen psa total]]</td>
+<td><a href="/garden/dev_admin/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a></td>
 <td>PSA Total</td>
 <td>Screen for prostate cancer; monitor treatment response</td>
 </tr>
 <tr>
-<td>[[cea]]</td>
+<td><a href="/garden/dev_admin/labtest/cea/" class="internal-link">cea</a></td>
 <td>Carcinoembryonic Antigen</td>
 <td>Monitor colorectal cancer; detect recurrence in GI malignancies</td>
 </tr>
 <tr>
-<td>[[ca-125]]</td>
+<td><a class="internal-link is-unresolved" href="/404">ca-125</a></td>
 <td>Cancer Antigen 125</td>
 <td>Screen for ovarian cancer; monitor treatment response</td>
 </tr>
 <tr>
-<td>[[afp]]</td>
+<td><a href="/garden/dev_admin/labtest/afp/" class="internal-link">afp</a></td>
 <td>Alpha-Fetoprotein</td>
 <td>Screen for hepatocellular carcinoma and testicular cancer</td>
 </tr>
@@ -67,10 +67,10 @@ updated: '2026-02-09T05:54:32.547097Z'
 <h2>Relationships</h2>
 <h3>Included In</h3>
 <ul>
-<li>[[prostate specific antigen psa total]] (labtest)</li>
-<li>[[cea]] (labtest)</li>
-<li>[[ca-125]] (labtest)</li>
-<li>[[afp]] (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/cea/" class="internal-link">cea</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/ca-125/" class="internal-link">ca-125</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/afp/" class="internal-link">afp</a> (labtest)</li>
 </ul>
 <hr />
 <p><em>Last Updated: 2026-02-07</em></p>

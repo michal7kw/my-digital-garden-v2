@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.530233Z'
+created: '2026-02-09T08:04:40.786375Z'
 description: RNA-based gut microbiome analysis providing functional insights and personalized
   recommendations.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: viome_gut_intelligence
 type: labtest
-updated: '2026-02-09T05:54:32.530233Z'
+updated: '2026-02-09T08:04:40.786375Z'
 ---
 
 {% raw %}

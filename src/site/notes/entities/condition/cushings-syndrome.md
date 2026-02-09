@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.972641Z'
+created: '2026-02-09T08:04:40.161193Z'
 description: A hormonal disorder caused by prolonged exposure to high levels of cortisol,
   resulting in a variety of physical and metabolic changes.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cushings Syndrome
 type: condition
-updated: '2026-02-09T05:54:31.972641Z'
+updated: '2026-02-09T08:04:40.161193Z'
 ---
 
 {% raw %}
@@ -35,29 +35,29 @@ updated: '2026-02-09T05:54:31.972641Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Cushings_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/cushings-syndrome/" class="internal-link">Cushings_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.722958'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Cushings_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/cushings-syndrome/" class="internal-link">Cushings_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:33.576234'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]<br />
-ASSOCIATED_WITH_CONDITION::[[Pituitary Disorder]]<br />
-ASSOCIATED_WITH_CONDITION::[[Osteoporosis]]<br />
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
-AFFECTS_ORGAN::[[Adrenal Glands]]<br />
-AFFECTS_ORGAN::[[Pituitary Gland]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Cortisol]] - Characteristically high.<br />
-ASSOCIATED_WITH_BIOMARKER::[[ACTH]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[HbA1c]]<br />
-TREATED_BY_INTERVENTION::[[Surgery]] - Tumor removal.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pituitary-disorder/" class="internal-link">Pituitary Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pituitary Gland</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> - Characteristically high.<br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">ACTH</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Surgery</a> - Tumor removal.</p>
 <h2>References</h2>
 <ul>
 <li>Lacroix, A., et al. (2015). Cushing's syndrome. The Lancet.</li>

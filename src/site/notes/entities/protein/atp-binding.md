@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.054658Z'
+created: '2026-02-09T08:04:41.412635Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-02-09T05:54:33.054658Z'
+updated: '2026-02-09T08:04:41.412635Z'
 ---
 
 {% raw %}
@@ -42,38 +42,38 @@ updated: '2026-02-09T05:54:33.054658Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.082826'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.082826'
 source: obsidian
 </code></pre>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[adenyl_ribonucleotide_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.962000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.968000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.974000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.979000+00:00'
 source: PrimeKG
@@ -82,38 +82,38 @@ source: PrimeKG
 <h2>Relationships</h2>
 <h3>Relatedtofunction</h3>
 <ul>
-<li>← [[adenyl_ribonucleotide_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.962000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>← [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+<li>← <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.968000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.974000+00:00'
 source: PrimeKG
 </code></pre>
 <ul>
-<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">imported: '2025-12-26T09:40:13.979000+00:00'
 source: PrimeKG
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.799071'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.799071'
 source: obsidian

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.150332Z'
+created: '2026-02-09T08:04:40.352752Z'
 description: Damage to any part of the body caused by external force, ranging from
   minor skin breaks to life-threatening internal trauma.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Wounds and Injuries
 type: condition
-updated: '2026-02-09T05:54:32.150332Z'
+updated: '2026-02-09T08:04:40.352752Z'
 ---
 
 {% raw %}
@@ -34,26 +34,26 @@ updated: '2026-02-09T05:54:32.150332Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Wounds_and_Injuries]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/wounds-and-injuries/" class="internal-link">Wounds_and_Injuries</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.198863'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Wounds_and_Injuries]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/wounds-and-injuries/" class="internal-link">Wounds_and_Injuries</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:04:02.812561'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Infection]]<br />
-ASSOCIATED_WITH_CONDITION::[[Inflammation]]<br />
-ASSOCIATED_WITH_CONDITION::[[Hemorrhage]]<br />
-ASSOCIATED_WITH_CONDITION::[[Sepsis]] - Risk from wound infection.<br />
-TREATED_BY_INTERVENTION::[[Surgery]]<br />
-TREATED_BY_DRUG::[[Antibiotics]] - For infected wounds.<br />
-TREATED_BY_DRUG::[[Lidocaine]] - Local anesthetic.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hemorrhage/" class="internal-link">Hemorrhage</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a> - Risk from wound infection.<br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Surgery</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Antibiotics</a> - For infected wounds.<br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Lidocaine</a> - Local anesthetic.</p>
 <h2>References</h2>
 <ul>
 <li>MedlinePlus. Wounds and Injuries.</li>

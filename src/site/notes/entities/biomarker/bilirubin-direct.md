@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.600402Z'
+created: '2026-02-09T08:04:39.850652Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Direct
 type: biomarker
-updated: '2026-02-09T05:54:31.600402Z'
+updated: '2026-02-09T08:04:39.850652Z'
 ---
 
 {% raw %}
@@ -30,13 +30,13 @@ updated: '2026-02-09T05:54:31.600402Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bilirubin_Direct]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-direct/" class="internal-link">Bilirubin_Direct</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.354210'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bilirubin_Direct]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-direct/" class="internal-link">Bilirubin_Direct</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.354210'
 source: obsidian
@@ -50,13 +50,13 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bilirubin_Direct]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-direct/" class="internal-link">Bilirubin_Direct</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:10.731954'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bilirubin_Direct]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/bilirubin-direct/" class="internal-link">Bilirubin_Direct</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:10.731954'
 source: obsidian

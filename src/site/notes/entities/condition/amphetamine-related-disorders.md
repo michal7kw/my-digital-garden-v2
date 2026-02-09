@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.914042Z'
+created: '2026-02-09T08:04:40.095919Z'
 description: A group of disorders resulting from the use of amphetamine-type stimulants,
   including intoxication, withdrawal, and use disorder.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Amphetamine-Related Disorders
 type: condition
-updated: '2026-02-09T05:54:31.914042Z'
+updated: '2026-02-09T08:04:40.095919Z'
 ---
 
 {% raw %}
@@ -35,27 +35,27 @@ updated: '2026-02-09T05:54:31.914042Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Amphetamine-Related_Disorders]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/amphetamine-related-disorders/" class="internal-link">Amphetamine-Related_Disorders</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.823640'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Amphetamine-Related_Disorders]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/amphetamine-related-disorders/" class="internal-link">Amphetamine-Related_Disorders</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:23.582643'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Amphetamines]]<br />
-CAUSED_BY::[[Methamphetamine]]<br />
-ASSOCIATED_WITH_CONDITION::[[Psychotic Disorders]]<br />
-ASSOCIATED_WITH_CONDITION::[[ADHD]] - Stimulants are used for treatment but can be misused.<br />
-AFFECTS_ORGAN::[[Brain]]<br />
-AFFECTS_ORGAN::[[Heart]]<br />
-TREATED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
-TREATED_BY_INTERVENTION::[[Contingency Management]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Amphetamines</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Methamphetamine</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/psychotic-disorders/" class="internal-link">Psychotic Disorders</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">ADHD</a> - Stimulants are used for treatment but can be misused.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Contingency Management</a></p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

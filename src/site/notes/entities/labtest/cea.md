@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.341982Z'
+created: '2026-02-09T08:04:40.569061Z'
 description: Carcinoembryonic Antigen (CEA) test. Tumor marker primarily used for
   monitoring colorectal cancer treatment response and detecting recurrence. Also elevated
   in pancreatic, lung, breast, and other adenocarcinomas.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: cea
 type: labtest
-updated: '2026-02-09T05:54:32.341982Z'
+updated: '2026-02-09T08:04:40.569061Z'
 ---
 
 {% raw %}
@@ -103,20 +103,20 @@ updated: '2026-02-09T05:54:32.341982Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Colorectal Cancer]]</li>
-<li>[[Pancreatic Cancer]]</li>
-<li>[[Lung Cancer]]</li>
-<li>[[Breast Cancer]]</li>
-<li>[[Inflammatory Bowel Disease]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Colorectal Cancer</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Pancreatic Cancer</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Lung Cancer</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Breast Cancer</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[CEA]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/cea/" class="internal-link">CEA</a> (biomarker)</li>
 </ul>
 <h3>Included In</h3>
 <ul>
-<li>→ [[cancer screening panel]] (labtestpanel)</li>
+<li>→ <a href="/garden/dev_admin/labtestpanel/cancer-screening-panel/" class="internal-link">cancer screening panel</a> (labtestpanel)</li>
 </ul>
 <h2>Notes</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.100044Z'
+created: '2026-02-09T08:04:40.298099Z'
 description: An infection that inflames the air sacs (alveoli) in one or both lungs,
   which may fill with fluid or pus.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pneumonia
 type: condition
-updated: '2026-02-09T05:54:32.100044Z'
+updated: '2026-02-09T08:04:40.298099Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pneumonia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:35.476968'
 source: obsidian
@@ -59,7 +59,7 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Pneumonia]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.029243'
 source: obsidian

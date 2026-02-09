@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.624966Z'
+created: '2026-02-09T08:04:39.873442Z'
 description: D-Dimer is a fibrin degradation product released when cross-linked fibrin
   is broken down by plasmin, serving as a sensitive marker for the presence of intravascular
   clot formation and fibrinolysis.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: D-Dimer
 type: biomarker
-updated: '2026-02-09T05:54:31.624966Z'
+updated: '2026-02-09T08:04:39.873442Z'
 ---
 
 {% raw %}
@@ -63,23 +63,23 @@ updated: '2026-02-09T05:54:31.624966Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li>[[Omega-3 Fatty Acids]] - Mild effect on coagulation parameters and D-Dimer levels (mild, evidence level 3)</li>
-<li>[[Nattokinase]] - Fibrinolytic enzyme with direct effects on clot degradation and D-Dimer reduction (moderate, evidence level 2)</li>
+<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Mild effect on coagulation parameters and D-Dimer levels (mild, evidence level 3)</li>
+<li><a class="internal-link is-unresolved" href="/404">Nattokinase</a> - Fibrinolytic enzyme with direct effects on clot degradation and D-Dimer reduction (moderate, evidence level 2)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li>[[d-dimer]] - Quantitative D-Dimer immunoassay (turbidimetric or ELISA)</li>
+<li><a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">d-dimer</a> - Quantitative D-Dimer immunoassay (turbidimetric or ELISA)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
 <ul>
-<li>→ [[Fibrinogen]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a> (biomarker)</li>
 </ul>
 <h3>Correlations</h3>
 <ul>
-<li>→ [[Fibrinogen]] (biomarker) - Both elevated in hypercoagulable states; fibrinogen is the precursor of fibrin from which D-Dimer is derived</li>
-<li>→ [[Platelets]] (biomarker) - Platelet consumption may occur alongside elevated D-Dimer in DIC</li>
+<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a> (biomarker) - Both elevated in hypercoagulable states; fibrinogen is the precursor of fibrin from which D-Dimer is derived</li>
+<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a> (biomarker) - Platelet consumption may occur alongside elevated D-Dimer in DIC</li>
 </ul>
 <h2>References</h2>
 <ul>

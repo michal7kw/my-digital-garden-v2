@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.933411Z'
+created: '2026-02-09T08:04:40.115407Z'
 description: A group of disorders affecting the bone marrow's ability to produce healthy
   blood cells (red cells, white cells, or platelets).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bone Marrow Disorder
 type: condition
-updated: '2026-02-09T05:54:31.933411Z'
+updated: '2026-02-09T08:04:40.115407Z'
 ---
 
 {% raw %}
@@ -38,14 +38,14 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
 <ul>
-<li>← [[mean_platelet_volume_mpv]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-platelet-volume-mpv/" class="internal-link">mean_platelet_volume_mpv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[platelet_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
@@ -53,19 +53,19 @@ source: function-health
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.075492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_platelet_volume_mpv]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-platelet-volume-mpv/" class="internal-link">mean_platelet_volume_mpv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.075492'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[platelet_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.075492'
 source: obsidian
@@ -86,51 +86,51 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[platelet_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[mean_platelet_volume_mpv]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-platelet-volume-mpv/" class="internal-link">mean_platelet_volume_mpv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[platelet_count]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[mean_platelet_volume_mpv]] (labtest)</li>
+<li>→ <a href="/garden/dev_admin/labtest/mean-platelet-volume-mpv/" class="internal-link">mean_platelet_volume_mpv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
 </code></pre>
 <h3>May Detect</h3>
 <ul>
-<li>← [[platelet_count]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
 </code></pre>
 <ul>
-<li>← [[mean_platelet_volume_mpv]] (labtest)</li>
+<li>← <a href="/garden/dev_admin/labtest/mean-platelet-volume-mpv/" class="internal-link">mean_platelet_volume_mpv</a> (labtest)</li>
 </ul>
 <pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'

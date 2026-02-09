@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.493949Z'
+created: '2026-02-09T08:04:40.744673Z'
 description: Selenium test measures this essential trace mineral in blood. Selenium
   is a critical component of selenoproteins including glutathione peroxidases, thioredoxin
   reductases, and iodothyronine deiodinases. It plays vital roles in antioxidant defense,
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: selenium
 type: labtest
-updated: '2026-02-09T05:54:32.493949Z'
+updated: '2026-02-09T08:04:40.744673Z'
 ---
 
 {% raw %}
@@ -103,22 +103,22 @@ updated: '2026-02-09T05:54:32.493949Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li>[[Thyroid Disease]]</li>
-<li>[[Hashimoto's Thyroiditis]]</li>
-<li>[[Selenium Deficiency]]</li>
-<li>[[Keshan Disease]]</li>
-<li>[[Kashin-Beck Disease]]</li>
+<li><a class="internal-link is-unresolved" href="/404">Thyroid Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Hashimoto's Thyroiditis</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Selenium Deficiency</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Keshan Disease</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Kashin-Beck Disease</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
 <ul>
-<li>→ [[Selenium]] (biomarker) - if exists</li>
+<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (biomarker) - if exists</li>
 </ul>
 <h3>Related Tests</h3>
 <ul>
-<li>→ [[thyroid stimulating hormone tsh]] (labtest) - Selenium critical for thyroid</li>
-<li>→ [[thyroid peroxidase antibodies tpo]] (labtest) - Selenium may reduce TPO antibodies</li>
-<li>→ [[zinc serum]] (labtest) - Often tested together as trace minerals</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid stimulating hormone tsh</a> (labtest) - Selenium critical for thyroid</li>
+<li>→ <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a> (labtest) - Selenium may reduce TPO antibodies</li>
+<li>→ <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc serum</a> (labtest) - Often tested together as trace minerals</li>
 </ul>
 <h2>Notes</h2>
 <ul>

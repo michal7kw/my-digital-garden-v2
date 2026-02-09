@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.079110Z'
+created: '2026-02-09T08:04:40.275779Z'
 description: A chronic condition characterized by decreased bone mass and deterioration
   of bone tissue, making bones fragile and more likely to fracture.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Osteoporosis
 type: condition
-updated: '2026-02-09T05:54:32.079110Z'
+updated: '2026-02-09T08:04:40.275779Z'
 ---
 
 {% raw %}
@@ -39,26 +39,26 @@ SORT confidence_score DESC
 <h2>Other Relationships</h2>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[vitamin_d_deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.988175'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:30.423893'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:30.423893'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[vitamin_d_deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.670105'
 source: obsidian
@@ -79,38 +79,38 @@ SORT date DESC
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.601180'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[vitamin_d_deficiency]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">vitamin_d_deficiency</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.601180'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Vitamin_D_Deficiency]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:37:21.316851'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Vitamin_D_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.191758'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Osteoporosis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.601180'
 source: obsidian
 </code></pre>
 <h3>Increases Risk For</h3>
 <ul>
-<li>← [[Vitamin_D_Deficiency]] (condition)</li>
+<li>← <a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.279649'
 source: obsidian

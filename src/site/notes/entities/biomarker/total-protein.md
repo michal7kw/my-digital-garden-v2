@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.736065Z'
+created: '2026-02-09T08:04:39.984062Z'
 description: A measurement of the total amount of albumin and globulin in the serum,
   reflecting nutritional status and organ function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Total Protein
 type: biomarker
-updated: '2026-02-09T05:54:31.736065Z'
+updated: '2026-02-09T08:04:39.984062Z'
 ---
 
 {% raw %}
@@ -36,13 +36,13 @@ updated: '2026-02-09T05:54:31.736065Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Total_Protein]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">Total_Protein</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.435201'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Total_Protein]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">Total_Protein</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.435201'
 source: obsidian
@@ -56,7 +56,7 @@ source: obsidian
 <h3>Other Relationships</h3>
 <h3>Related</h3>
 <ul>
-<li>→ [[Total_Protein]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">Total_Protein</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.650960'
 source: obsidian

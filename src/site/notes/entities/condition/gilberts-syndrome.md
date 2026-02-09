@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.997738Z'
+created: '2026-02-09T08:04:40.187341Z'
 description: A common, harmless genetic liver disorder in which the liver doesn't
   properly process bilirubin, leading to mild, intermittent jaundice.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Gilberts Syndrome
 type: condition
-updated: '2026-02-09T05:54:31.997738Z'
+updated: '2026-02-09T08:04:40.187341Z'
 ---
 
 {% raw %}
@@ -28,23 +28,23 @@ updated: '2026-02-09T05:54:31.997738Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Gilberts_Syndrome]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">Gilberts_Syndrome</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.308605'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Gilberts_Syndrome]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">Gilberts_Syndrome</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:37.360935'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::[[UGT1A1]]<br />
-AFFECTS_ORGAN::[[Liver]]<br />
-ASSOCIATED_WITH_BIOMARKER::[[Bilirubin Total]] - Elevated (Unconjugated).<br />
-ASSOCIATED_WITH_BIOMARKER::[[Jaundice]]</p>
+<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">UGT1A1</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a> - Elevated (Unconjugated).<br />
+ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Jaundice</a></p>
 <h2>References</h2>
 <ul>
 <li>Fretzayas, A., et al. (2012). Gilbert syndrome; a benign condition or a bioactive entity? World Journal of Gastrointestinal Pathophysiology.</li>

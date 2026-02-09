@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.319876Z'
+created: '2026-02-09T08:04:40.543958Z'
 description: Measures ApoB protein, present in all atherogenic lipoprotein particles.
   Considered superior to LDL-C for CVD risk.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: apolipoprotein_b
 type: labtest
-updated: '2026-02-09T05:54:32.319876Z'
+updated: '2026-02-09T08:04:40.543958Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-09T05:54:32.319876Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li>[[apoB]]</li>
+<li><a href="/garden/dev_admin/biomarker/apob/" class="internal-link">apoB</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-02-09T05:54:32.319876Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[apoB]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/biomarker/apob/" class="internal-link">apoB</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.170952'
 source: obsidian

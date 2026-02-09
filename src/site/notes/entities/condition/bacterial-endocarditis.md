@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:31.927753Z'
+created: '2026-02-09T08:04:40.109584Z'
 description: A life-threatening inflammation of the inner lining of the heart's chambers
   and valves (endocardium), caused by a bacterial infection.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Endocarditis
 type: condition
-updated: '2026-02-09T05:54:31.927753Z'
+updated: '2026-02-09T08:04:40.109584Z'
 ---
 
 {% raw %}
@@ -32,28 +32,28 @@ updated: '2026-02-09T05:54:31.927753Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Bacterial_Endocarditis]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/bacterial-endocarditis/" class="internal-link">Bacterial_Endocarditis</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.060286'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Bacterial_Endocarditis]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/bacterial-endocarditis/" class="internal-link">Bacterial_Endocarditis</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:25.684064'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>CAUSED_BY::[[Staphylococcus aureus]]<br />
-CAUSED_BY::[[Streptococcus]]<br />
-AFFECTS_ORGAN::[[Heart]]<br />
-AFFECTS_ORGAN::[[Heart Valve]]<br />
-INCREASED_RISK_OF::[[Stroke]] - Due to septic emboli.<br />
-INCREASED_RISK_OF::[[Heart Failure]]<br />
-ASSOCIATED_WITH_CONDITION::[[Sepsis]]<br />
-TREATED_BY_DRUG::[[Vancomycin]]<br />
-TREATED_BY_DRUG::[[Gentamicin]]</p>
+<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Staphylococcus aureus</a><br />
+CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart Valve</a><br />
+INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Stroke</a> - Due to septic emboli.<br />
+INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Vancomycin</a><br />
+TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Gentamicin</a></p>
 <h2>References</h2>
 <ul>
 <li>Habib, G., et al. (2015). 2015 ESC Guidelines for the management of infective endocarditis. European Heart Journal.</li>

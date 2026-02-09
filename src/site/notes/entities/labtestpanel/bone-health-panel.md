@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.546179Z'
+created: '2026-02-09T08:04:40.803887Z'
 description: Evaluates bone formation and resorption markers alongside calcium-vitamin
   D metabolism. Essential for osteoporosis risk assessment, monitoring treatment efficacy,
   and evaluating metabolic bone diseases.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: bone_health_panel
 type: labtestpanel
-updated: '2026-02-09T05:54:32.546179Z'
+updated: '2026-02-09T08:04:40.803887Z'
 ---
 
 {% raw %}
@@ -33,27 +33,27 @@ updated: '2026-02-09T05:54:32.546179Z'
 </thead>
 <tbody>
 <tr>
-<td>[[osteocalcin]]</td>
+<td><a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">osteocalcin</a></td>
 <td>Osteocalcin</td>
 <td>Direct marker of osteoblast activity and bone formation rate</td>
 </tr>
 <tr>
-<td>[[vitamin d 25oh]]</td>
+<td><a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a></td>
 <td>25-Hydroxyvitamin D</td>
 <td>Assess vitamin D status; critical for calcium absorption</td>
 </tr>
 <tr>
-<td>[[calcium]]</td>
+<td><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a></td>
 <td>Serum Calcium</td>
 <td>Evaluate calcium homeostasis and parathyroid function</td>
 </tr>
 <tr>
-<td>[[alkaline phosphatase alp]]</td>
+<td><a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a></td>
 <td>Alkaline Phosphatase</td>
 <td>Marker of bone turnover; elevated in metabolic bone diseases</td>
 </tr>
 <tr>
-<td>[[phosphorus]]</td>
+<td><a class="internal-link is-unresolved" href="/404">phosphorus</a></td>
 <td>Phosphorus</td>
 <td>Assess mineral balance; essential for bone mineralization</td>
 </tr>
@@ -74,11 +74,11 @@ updated: '2026-02-09T05:54:32.546179Z'
 <h2>Relationships</h2>
 <h3>Included In</h3>
 <ul>
-<li>[[osteocalcin]] (labtest)</li>
-<li>[[vitamin d 25oh]] (labtest)</li>
-<li>[[calcium]] (labtest)</li>
-<li>[[alkaline phosphatase alp]] (labtest)</li>
-<li>[[phosphorus]] (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">osteocalcin</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a> (labtest)</li>
+<li><a href="/garden/dev_admin/labtest/phosphorus/" class="internal-link">phosphorus</a> (labtest)</li>
 </ul>
 <hr />
 <p><em>Last Updated: 2026-02-07</em></p>

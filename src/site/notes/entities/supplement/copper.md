@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:33.171752Z'
+created: '2026-02-09T08:04:41.554491Z'
 description: Essential trace mineral crucial for iron metabolism, connective tissue
   formation, and antioxidant defense (SOD). Balance with zinc is critical for optimal
   function.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Copper
 type: supplement
-updated: '2026-02-09T05:54:33.171752Z'
+updated: '2026-02-09T08:04:41.554491Z'
 ---
 
 {% raw %}
@@ -29,20 +29,20 @@ updated: '2026-02-09T05:54:33.171752Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.394442'
 source: obsidian
 </code></pre>
 <h3>Competes With</h3>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.847855'
 source: obsidian
@@ -51,20 +51,20 @@ source: obsidian
 <h2>Relationships</h2>
 <h3>Competes With</h3>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.847855'
 source: obsidian
 </code></pre>
 <h3>Related</h3>
 <ul>
-<li>→ [[Zinc]] (biomarker)</li>
+<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:07:00.167865'
 source: obsidian
 </code></pre>
 <ul>
-<li>← [[Zinc]] (biomarker)</li>
+<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian

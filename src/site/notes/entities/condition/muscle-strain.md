@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T05:54:32.064888Z'
+created: '2026-02-09T08:04:40.262755Z'
 description: An injury to a muscle or its attaching tendons, often caused by overstretching
   or overexertion during physical activity.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Muscle Strain
 type: condition
-updated: '2026-02-09T05:54:32.064888Z'
+updated: '2026-02-09T08:04:40.262755Z'
 ---
 
 {% raw %}
@@ -32,24 +32,24 @@ updated: '2026-02-09T05:54:32.064888Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <ul>
-<li>→ [[Muscle_Strain]] (entity)</li>
+<li>→ <a href="/garden/dev_admin/condition/muscle-strain/" class="internal-link">Muscle_Strain</a> (entity)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:47:47.403438'
 source: obsidian
 </code></pre>
 <ul>
-<li>→ [[Muscle_Strain]] (condition)</li>
+<li>→ <a href="/garden/dev_admin/condition/muscle-strain/" class="internal-link">Muscle_Strain</a> (condition)</li>
 </ul>
 <pre><code class="language-yaml">last_modified: '2026-01-26T06:03:49.954607'
 source: obsidian
 </code></pre>
 <!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::[[Rhabdomyolysis]] - Extreme exercise-induced injury.<br />
-ASSOCIATED_WITH_BIOMARKER::[[Creatine Kinase]] - Transiently elevated.<br />
-AFFECTS_ORGAN::[[Muscle]]<br />
-TREATED_BY_INTERVENTION::[[RICE Method]]<br />
-TREATED_BY_DRUG::[[Ibuprofen]]</p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/rhabdomyolysis/" class="internal-link">Rhabdomyolysis</a> - Extreme exercise-induced injury.<br />
+ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> - Transiently elevated.<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
+TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">RICE Method</a><br />
+TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a></p>
 <h2>References</h2>
 <ul>
 <li>Järvinen, T. A., et al. (2005). Muscle injuries: biology and treatment. American Journal of Sports Medicine.</li>
