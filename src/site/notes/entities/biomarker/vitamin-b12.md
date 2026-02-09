@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.448746Z'
+created: '2026-02-09T05:40:20.763148Z'
 description: Essential water-soluble vitamin critical for nerve function, DNA synthesis,
   red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans
   and older adults.
@@ -10,136 +10,153 @@ permalink: /garden/dev_admin/biomarker/vitamin-b12/
 slug: vitamin-b12
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Vitamin B12
 type: biomarker
-updated: '2026-02-08T19:45:44.448746Z'
+updated: '2026-02-09T05:40:20.763148Z'
 ---
 
-# Vitamin B12
-
-## Overview
-Essential water-soluble vitamin critical for nerve function, DNA synthesis, red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans and older adults.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Vitamin B12</h1>
+<h2>Overview</h2>
+<p>Essential water-soluble vitamin critical for nerve function, DNA synthesis, red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans and older adults.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:24.886169'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
-```
-- → [[vitamin_b12]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:24.886169'
+</code></pre>
+<ul>
+<li>→ [[vitamin_b12]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
-```
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:24.886169'
+</code></pre>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[MMA]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.393866'
+</code></pre>
+<ul>
+<li>→ [[MMA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
-```
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Serum_B12]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.393866'
+</code></pre>
+<ul>
+<li>→ [[Serum_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
-```
-- → [[vitamin_b12]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.393866'
+</code></pre>
+<ul>
+<li>→ [[vitamin_b12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
-```
-- ← [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:18.588212'
+</code></pre>
+<ul>
+<li>← [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
-```
-- ← [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:13.859142'
+</code></pre>
+<ul>
+<li>← [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:13.859142'
 source: obsidian
-```
-- → [[Hemoglobin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Hemoglobin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.393866'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.393866'
 source: obsidian
-```
-- → [[Homocysteine]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Blood]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-
-### Decreases Biomarker
-- → [[MMA]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>→ [[MMA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
 last_modified: '2026-01-26T07:08:41.501218'
 magnitude: strong
@@ -152,10 +169,11 @@ source: obsidian
 study_references:
 - PMID:23325609
 - PMID:12190251
-```
-- → [[Homocysteine]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:41.501218'
 magnitude: moderate
@@ -168,12 +186,12 @@ source: obsidian
 study_references:
 - PMID:16522904
 - PMID:22493132
-```
-
-### Increases Biomarker
-- → [[Serum_B12]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>→ [[Serum_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
 last_modified: '2026-01-26T07:08:41.501218'
 magnitude: strong
@@ -186,10 +204,11 @@ source: obsidian
 study_references:
 - PMID:23325609
 - PMID:24667752
-```
-- → [[Hemoglobin]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Hemoglobin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:41.501218'
 magnitude: moderate
@@ -201,209 +220,232 @@ population_context: B12 deficiency anemia
 source: obsidian
 study_references:
 - PMID:23325609
-```
-
-### Synergistic With
-- → [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.544179'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.544179'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.973644'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.973644'
 source: obsidian
-```
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:26.514247'
+</code></pre>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.514247'
 source: obsidian
-```
-- ← [[Folate]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:20.852799'
+</code></pre>
+<ul>
+<li>← [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.852799'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:26.336512'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.336512'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:26.389145'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.389145'
 source: obsidian
-```
-- → [[Blood]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:26.362418'
+</code></pre>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.362418'
 source: obsidian
-```
-
-### Affects Neurotransmitter
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:26.613432'
+</code></pre>
+<h3>Affects Neurotransmitter</h3>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.613432'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:26.587753'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.587753'
 source: obsidian
-```
-
-### Supports Synthesis
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:26.453635'
+</code></pre>
+<h3>Supports Synthesis</h3>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.453635'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Synergistic With
-- ← [[Folate]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:20.852799'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.852799'
 source: obsidian
-```
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:26.514247'
+</code></pre>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.514247'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.973644'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.973644'
 source: obsidian
-```
-- → [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.544179'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.544179'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Blood]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:26.362418'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.362418'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:26.389145'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.389145'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:26.336512'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.336512'
 source: obsidian
-```
-
-### Supports Synthesis
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:26.453635'
+</code></pre>
+<h3>Supports Synthesis</h3>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.453635'
 source: obsidian
-```
-
-### Affects Neurotransmitter
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:26.587753'
+</code></pre>
+<h3>Affects Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.587753'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:26.613432'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.613432'
 source: obsidian
-```
-
-### Related
-- → [[Homocysteine]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Hemoglobin]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Hemoglobin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Serum_B12]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Serum_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[MMA]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[MMA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Blood]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-
-### Increases Biomarker
-- → [[Serum_B12]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>→ [[Serum_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
 last_modified: '2026-01-19T09:07:17.506662'
 magnitude: strong
@@ -416,10 +458,11 @@ source: obsidian
 study_references:
 - PMID:23325609
 - PMID:24667752
-```
-- → [[Hemoglobin]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Hemoglobin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:17.506662'
 magnitude: moderate
@@ -431,12 +474,12 @@ population_context: B12 deficiency anemia
 source: obsidian
 study_references:
 - PMID:23325609
-```
-
-### Decreases Biomarker
-- → [[MMA]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>→ [[MMA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
 last_modified: '2026-01-19T09:07:17.506662'
 magnitude: strong
@@ -449,10 +492,11 @@ source: obsidian
 study_references:
 - PMID:23325609
 - PMID:12190251
-```
-- → [[Homocysteine]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:17.506662'
 magnitude: moderate
@@ -465,24 +509,21 @@ source: obsidian
 study_references:
 - PMID:16522904
 - PMID:22493132
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[vitamin b12]] - Serum vitamin B12 measurement
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[vitamin b12]] - Serum vitamin B12 measurement</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Vitamin B12]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

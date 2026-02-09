@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.426393Z'
+created: '2026-02-09T05:40:20.616511Z'
 description: Creatinine is a waste product from muscle metabolism filtered by the
   kidneys. Elevated levels indicate reduced kidney function.
 dg-home: false
@@ -9,181 +9,192 @@ permalink: /garden/dev_admin/biomarker/creatinine/
 slug: creatinine
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Creatinine
 type: biomarker
-updated: '2026-02-08T19:45:44.426393Z'
+updated: '2026-02-09T05:40:20.616511Z'
 ---
 
-# Creatinine
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Creatinine</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[kidney_function_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:16.954326'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[kidney_function_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.954326'
 source: obsidian
-```
-- ← [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.031900'
+</code></pre>
+<ul>
+<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.031900'
 source: obsidian
-```
-- ← [[basic_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:09.217964'
+</code></pre>
+<ul>
+<li>← [[basic_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.217964'
 source: obsidian
-```
-- ← [[creatinine]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+</code></pre>
+<ul>
+<li>← [[creatinine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- → [[basic_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:15.961023'
+</code></pre>
+<ul>
+<li>→ [[basic_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
-```
-- → [[Edema]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:15.961023'
+</code></pre>
+<ul>
+<li>→ [[Edema]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:15.961023'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
-```
-- → [[kidney_function_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:15.961023'
+</code></pre>
+<ul>
+<li>→ [[kidney_function_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
 source: obsidian
-```
-- → [[kidney_function_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>→ [[kidney_function_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-- → [[Kidney_Stress_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-- → [[basic_metabolic_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>→ [[basic_metabolic_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-- ← [[Edema]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:17.447357'
+</code></pre>
+<ul>
+<li>← [[Edema]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:17.447357'
 source: obsidian
-```
-- → [[creatinine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>→ [[creatinine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-- ← [[Kidney_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:21.071221'
+</code></pre>
+<ul>
+<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.071221'
 source: obsidian
-```
-- → [[Creatinine]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>→ [[Creatinine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Kidney_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:21.334944'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.334944'
 source: obsidian
-```
-
-### Indicates Organ Health
-- → [[Kidneys]] (organ)
-```yaml
-specificity: high
+</code></pre>
+<h3>Indicates Organ Health</h3>
+<ul>
+<li>→ [[Kidneys]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: high
 function_indicated: Glomerular Filtration
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Creatinine]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:12.971686'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Creatinine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.971686'
 source: obsidian
-```
-- → [[Kidney_Stress_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:12.971686'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.971686'
 source: obsidian
-```
-- ← [[Kidney_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:40.674431'
+</code></pre>
+<ul>
+<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:40.674431'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Kidney_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:40.032727'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:40.032727'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[creatinine]] - Direct creatinine measurement
-
-### Panel Tests
-- [[comprehensive metabolic panel]] - Part of CMP
-- [[basic metabolic panel]] - Part of BMP
-- [[kidney function panel]] - Part of renal function assessment
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[creatinine]] - Direct creatinine measurement</li>
+</ul>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[comprehensive metabolic panel]] - Part of CMP</li>
+<li>[[basic metabolic panel]] - Part of BMP</li>
+<li>[[kidney function panel]] - Part of renal function assessment</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Creatinine]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

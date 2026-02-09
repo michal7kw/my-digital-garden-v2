@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.521497Z'
+created: '2026-02-09T05:40:21.167403Z'
 description: A calcium salt form of Penicillin G, historically used as an antibiotic.
 dg-home: false
 dg-publish: true
@@ -10,31 +10,31 @@ tags:
 - drug
 - antibiotic
 - penicillin
+templateEngineOverride: njk
 title: Penicillin Calcium
 type: drug
-updated: '2026-02-08T19:45:44.521497Z'
+updated: '2026-02-09T05:40:21.167403Z'
 ---
 
-# Penicillin Calcium
-
-## Overview
-
-Penicillin Calcium is a salt of benzylpenicillin. While functionally similar to the potassium and sodium salts, it is less commonly used in modern clinical practice.
-
-## Indications
-
-- **Bacterial Infections:** Sensitive gram-positive organisms.
-
+{% raw %}
+<h1>Penicillin Calcium</h1>
+<h2>Overview</h2>
+<p>Penicillin Calcium is a salt of benzylpenicillin. While functionally similar to the potassium and sodium salts, it is less commonly used in modern clinical practice.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Bacterial Infections:</strong> Sensitive gram-positive organisms.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Bacterial Infections]]<br />
+DRUG_CONTAINS_COMPOUND::[[Penicillin G]]</p>
+<h2>References</h2>
+<ul>
+<li>PubChem. Penicillin G Calcium.</li>
+<li>DrugBank. Penicillin Calcium.</li>
+</ul>
 
-TREATS_CONDITION::[[Bacterial Infections]]
-DRUG_CONTAINS_COMPOUND::[[Penicillin G]]
-
-## References
-
-- PubChem. Penicillin G Calcium.
-- DrugBank. Penicillin Calcium.
+{% endraw %}

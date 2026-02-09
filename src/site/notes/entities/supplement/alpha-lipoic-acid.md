@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.648743Z'
+created: '2026-02-09T05:40:22.177042Z'
 description: Powerful antioxidant that works in both water and fat environments. Regenerates
   other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
 dg-home: false
@@ -15,488 +15,577 @@ tags:
 - mitochondria
 - neuroprotection
 - diabetic-neuropathy
+templateEngineOverride: njk
 title: Alpha Lipoic Acid
 type: supplement
-updated: '2026-02-08T19:45:44.648743Z'
+updated: '2026-02-09T05:40:22.177042Z'
 ---
 
-# Alpha Lipoic Acid
-
-## Overview
-Powerful antioxidant that works in both water and fat environments. Regenerates other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
-
-Alpha-Lipoic Acid (ALA) is a naturally occurring organosulfur compound synthesized in mitochondria. Unlike most antioxidants, ALA is both water-soluble and fat-soluble, allowing it to work in all cellular compartments. It serves as a cofactor for mitochondrial enzymes and is a powerful antioxidant that regenerates other antioxidants including vitamins C, E, and glutathione.
-
-## Forms
-
-### R-Alpha Lipoic Acid (R-ALA)
-- Natural, biologically active form
-- Better absorbed and utilized
-- More expensive
-- Typical dose: 150-300 mg/day
-
-### S-Alpha Lipoic Acid (S-ALA)
-- Synthetic mirror image
-- Less biologically active
-- Found in racemic supplements
-
-### Racemic (50:50 R/S)
-- Most common supplement form
-- Typical dose: 300-600 mg/day
-- Cheaper than pure R-ALA
-
-## Mechanisms of Action
-
-1. **Antioxidant**: Directly scavenges ROS and RNS
-2. **Antioxidant Recycling**: Regenerates glutathione, vitamin C, vitamin E
-3. **Metal Chelation**: Binds copper, iron, cadmium
-4. **Mitochondrial Cofactor**: Essential for PDH and α-KGDH
-5. **Glucose Uptake**: Enhances GLUT4 translocation
-6. **NF-κB Inhibition**: Anti-inflammatory effects
-7. **Nrf2 Activation**: Upregulates antioxidant enzymes
-
-## Clinical Evidence
-
-### Strong Evidence
-- **Diabetic Neuropathy**: 600 mg/day IV or oral reduces symptoms (ALADIN, SYDNEY trials)
-- **Reduces neuropathic pain**: Burning, stabbing, numbness
-
-### Moderate Evidence
-- **Cognitive function**: May improve mild cognitive impairment
-- **Weight loss**: Modest effects at high doses (1800 mg/day)
-- **Blood glucose**: Improves insulin sensitivity
-
-### Emerging Evidence
-- Neurodegenerative diseases (AD, PD)
-- Multiple sclerosis
-- Migraine prophylaxis
-
-## Dosage Guidelines
-
-| Indication | Dose | Form | Notes |
-|------------|------|------|-------|
-| General antioxidant | 100-300 mg/day | Racemic or R-ALA | With food |
-| Diabetic neuropathy | 600 mg/day | Racemic | Empty stomach |
-| Cognitive support | 300-600 mg/day | R-ALA preferred | Divided doses |
-| Neuroprotection | 600-1200 mg/day | R-ALA | Medical supervision |
-
-### Timing
-- Empty stomach for best absorption
-- May cause GI upset; can take with food if needed
-- R-ALA less stable; refrigerate
-
-## Safety Profile
-
-### Common Side Effects
-- Nausea (especially high doses or empty stomach)
-- Skin rash (rare)
-- Hypoglycemia (diabetics on medications)
-
-### Contraindications
-- Thiamine (B1) deficiency - ALA may worsen
-- Caution with hypoglycemic medications
-- Pregnancy/lactation (limited data)
-
-### Drug Interactions
-- **Diabetes medications**: May enhance hypoglycemia
-- **Thyroid medications**: May affect thyroid hormone levels
-- **Chemotherapy**: Antioxidant interaction (theoretical)
-
-## Quality Considerations
-
-### Look For
-- R-ALA or clearly labeled racemic
-- Stabilized R-ALA formulations (Na-RALA, K-RALA)
-- GMP-certified manufacturer
-- Third-party testing
-
-### Storage
-- R-ALA is heat and light sensitive
-- Store in cool, dark place
-- Refrigeration may extend shelf life
-
-## References
-1. **ALADIN Study**: Ziegler, D., et al. (1995). "Treatment of symptomatic diabetic polyneuropathy with alpha-lipoic acid." *Diabetologia*.
-2. **SYDNEY Trial**: Ametov, A.S., et al. (2003). "The sensory symptoms of diabetic polyneuropathy are improved with alpha-lipoic acid." *Diabetes Care*.
-3. **Review**: Shay, K.P., et al. (2009). "Alpha-lipoic acid as a dietary supplement." *Molecular and Cellular Biochemistry*.
-
-
-
-
-
+{% raw %}
+<h1>Alpha Lipoic Acid</h1>
+<h2>Overview</h2>
+<p>Powerful antioxidant that works in both water and fat environments. Regenerates other antioxidants, supports blood sugar metabolism, and protects against neuropathy.</p>
+<p>Alpha-Lipoic Acid (ALA) is a naturally occurring organosulfur compound synthesized in mitochondria. Unlike most antioxidants, ALA is both water-soluble and fat-soluble, allowing it to work in all cellular compartments. It serves as a cofactor for mitochondrial enzymes and is a powerful antioxidant that regenerates other antioxidants including vitamins C, E, and glutathione.</p>
+<h2>Forms</h2>
+<h3>R-Alpha Lipoic Acid (R-ALA)</h3>
+<ul>
+<li>Natural, biologically active form</li>
+<li>Better absorbed and utilized</li>
+<li>More expensive</li>
+<li>Typical dose: 150-300 mg/day</li>
+</ul>
+<h3>S-Alpha Lipoic Acid (S-ALA)</h3>
+<ul>
+<li>Synthetic mirror image</li>
+<li>Less biologically active</li>
+<li>Found in racemic supplements</li>
+</ul>
+<h3>Racemic (50:50 R/S)</h3>
+<ul>
+<li>Most common supplement form</li>
+<li>Typical dose: 300-600 mg/day</li>
+<li>Cheaper than pure R-ALA</li>
+</ul>
+<h2>Mechanisms of Action</h2>
+<ol>
+<li><strong>Antioxidant</strong>: Directly scavenges ROS and RNS</li>
+<li><strong>Antioxidant Recycling</strong>: Regenerates glutathione, vitamin C, vitamin E</li>
+<li><strong>Metal Chelation</strong>: Binds copper, iron, cadmium</li>
+<li><strong>Mitochondrial Cofactor</strong>: Essential for PDH and α-KGDH</li>
+<li><strong>Glucose Uptake</strong>: Enhances GLUT4 translocation</li>
+<li><strong>NF-κB Inhibition</strong>: Anti-inflammatory effects</li>
+<li><strong>Nrf2 Activation</strong>: Upregulates antioxidant enzymes</li>
+</ol>
+<h2>Clinical Evidence</h2>
+<h3>Strong Evidence</h3>
+<ul>
+<li><strong>Diabetic Neuropathy</strong>: 600 mg/day IV or oral reduces symptoms (ALADIN, SYDNEY trials)</li>
+<li><strong>Reduces neuropathic pain</strong>: Burning, stabbing, numbness</li>
+</ul>
+<h3>Moderate Evidence</h3>
+<ul>
+<li><strong>Cognitive function</strong>: May improve mild cognitive impairment</li>
+<li><strong>Weight loss</strong>: Modest effects at high doses (1800 mg/day)</li>
+<li><strong>Blood glucose</strong>: Improves insulin sensitivity</li>
+</ul>
+<h3>Emerging Evidence</h3>
+<ul>
+<li>Neurodegenerative diseases (AD, PD)</li>
+<li>Multiple sclerosis</li>
+<li>Migraine prophylaxis</li>
+</ul>
+<h2>Dosage Guidelines</h2>
+<table>
+<thead>
+<tr>
+<th>Indication</th>
+<th>Dose</th>
+<th>Form</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>General antioxidant</td>
+<td>100-300 mg/day</td>
+<td>Racemic or R-ALA</td>
+<td>With food</td>
+</tr>
+<tr>
+<td>Diabetic neuropathy</td>
+<td>600 mg/day</td>
+<td>Racemic</td>
+<td>Empty stomach</td>
+</tr>
+<tr>
+<td>Cognitive support</td>
+<td>300-600 mg/day</td>
+<td>R-ALA preferred</td>
+<td>Divided doses</td>
+</tr>
+<tr>
+<td>Neuroprotection</td>
+<td>600-1200 mg/day</td>
+<td>R-ALA</td>
+<td>Medical supervision</td>
+</tr>
+</tbody>
+</table>
+<h3>Timing</h3>
+<ul>
+<li>Empty stomach for best absorption</li>
+<li>May cause GI upset; can take with food if needed</li>
+<li>R-ALA less stable; refrigerate</li>
+</ul>
+<h2>Safety Profile</h2>
+<h3>Common Side Effects</h3>
+<ul>
+<li>Nausea (especially high doses or empty stomach)</li>
+<li>Skin rash (rare)</li>
+<li>Hypoglycemia (diabetics on medications)</li>
+</ul>
+<h3>Contraindications</h3>
+<ul>
+<li>Thiamine (B1) deficiency - ALA may worsen</li>
+<li>Caution with hypoglycemic medications</li>
+<li>Pregnancy/lactation (limited data)</li>
+</ul>
+<h3>Drug Interactions</h3>
+<ul>
+<li><strong>Diabetes medications</strong>: May enhance hypoglycemia</li>
+<li><strong>Thyroid medications</strong>: May affect thyroid hormone levels</li>
+<li><strong>Chemotherapy</strong>: Antioxidant interaction (theoretical)</li>
+</ul>
+<h2>Quality Considerations</h2>
+<h3>Look For</h3>
+<ul>
+<li>R-ALA or clearly labeled racemic</li>
+<li>Stabilized R-ALA formulations (Na-RALA, K-RALA)</li>
+<li>GMP-certified manufacturer</li>
+<li>Third-party testing</li>
+</ul>
+<h3>Storage</h3>
+<ul>
+<li>R-ALA is heat and light sensitive</li>
+<li>Store in cool, dark place</li>
+<li>Refrigeration may extend shelf life</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>ALADIN Study</strong>: Ziegler, D., et al. (1995). &quot;Treatment of symptomatic diabetic polyneuropathy with alpha-lipoic acid.&quot; <em>Diabetologia</em>.</li>
+<li><strong>SYDNEY Trial</strong>: Ametov, A.S., et al. (2003). &quot;The sensory symptoms of diabetic polyneuropathy are improved with alpha-lipoic acid.&quot; <em>Diabetes Care</em>.</li>
+<li><strong>Review</strong>: Shay, K.P., et al. (2009). &quot;Alpha-lipoic acid as a dietary supplement.&quot; <em>Molecular and Cellular Biochemistry</em>.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[AMPK]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[AMPK]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[Citric_Acid_Cycle]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+</code></pre>
+<ul>
+<li>→ [[Citric_Acid_Cycle]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[NRF2]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+</code></pre>
+<ul>
+<li>→ [[NRF2]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[Oxidative_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[PGC-1alpha]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+</code></pre>
+<ul>
+<li>→ [[PGC-1alpha]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[TFAM]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:47.821091'
+</code></pre>
+<ul>
+<li>→ [[TFAM]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
 source: obsidian
-```
-- → [[Vitamin_C]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[CoQ10]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Vitamin_E]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_E]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[NAD]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[NAD]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- ← [[TFAM]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:34.241083'
+</code></pre>
+<ul>
+<li>← [[TFAM]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
-```
-- ← [[PGC-1alpha]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:31.809686'
+</code></pre>
+<ul>
+<li>← [[PGC-1alpha]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
 source: obsidian
-```
-- ← [[NRF2]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:31.690636'
+</code></pre>
+<ul>
+<li>← [[NRF2]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
 source: obsidian
-```
-- ← [[AMPK]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:28.642108'
+</code></pre>
+<ul>
+<li>← [[AMPK]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
-```
-- ← [[Oxidative_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>← [[Oxidative_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- ← [[Citric_Acid_Cycle]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.663413'
+</code></pre>
+<ul>
+<li>← [[Citric_Acid_Cycle]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Glutathione]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Glutathione]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:14.087567'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:14.087567'
 source: obsidian
-```
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.057147'
+</code></pre>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
 source: obsidian
-```
-
-### Regenerates
-- → [[Vitamin_E]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.952562'
+</code></pre>
+<h3>Regenerates</h3>
+<ul>
+<li>→ [[Vitamin_E]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.952562'
 source: obsidian
-```
-- → [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.914747'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.914747'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:17.855650'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.855650'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:17.886795'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.886795'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:17.814211'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.814211'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.421811'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.421811'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.118328'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.118328'
 source: obsidian
-```
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.155231'
+</code></pre>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.155231'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:18.321732'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:18.234425'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.234425'
 source: obsidian
-```
-
-### Increases Metabolite
-- → [[NAD]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:18.108674'
+</code></pre>
+<h3>Increases Metabolite</h3>
+<ul>
+<li>→ [[NAD]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.108674'
 source: obsidian
-```
-- → [[Glutathione]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:18.021530'
+</code></pre>
+<ul>
+<li>→ [[Glutathione]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.021530'
 source: obsidian
-```
-
-### Affects Biomarker
-- → [[Hba1C]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Hba1C]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
 evidence_level: 3
 source: curated
-```
-- → [[Hs Crp]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Hs Crp]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
 evidence_level: 3
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Affects Organ
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:17.814211'
+<h2>Relationships</h2>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.814211'
 source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:17.886795'
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.886795'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:17.855650'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.855650'
 source: obsidian
-```
+</code></pre>
+<h3>Increases Metabolite</h3>
+<ul>
+<li>→ [[Glutathione]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.021530'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NAD]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.108674'
+source: obsidian
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.155231'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.118328'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.653592'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.421811'
+source: obsidian
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.234425'
+source: obsidian
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
+source: obsidian
+</code></pre>
+<h3>Regenerates</h3>
+<ul>
+<li>→ [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.914747'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Vitamin_E]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.952562'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.978016'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NAD]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Vitamin_E]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:14.087567'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Nerves]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Glutathione]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
+source: obsidian
+</code></pre>
 
-### Increases Metabolite
-- → [[Glutathione]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:18.021530'
-source: obsidian
-```
-- → [[NAD]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:18.108674'
-source: obsidian
-```
-
-### Synergistic With
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.155231'
-source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.118328'
-source: obsidian
-```
-- ← [[CoQ10]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.653592'
-source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.421811'
-source: obsidian
-```
-
-### Modulates Hormone
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:18.234425'
-source: obsidian
-```
-
-### May Improve Condition
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:18.321732'
-source: obsidian
-```
-
-### Regenerates
-- → [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.914747'
-source: obsidian
-```
-- → [[Vitamin_E]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.952562'
-source: obsidian
-```
-- → [[CoQ10]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.978016'
-source: obsidian
-```
-
-### Related
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[NAD]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Vitamin_C]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Vitamin_E]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[CoQ10]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:14.087567'
-source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Nerves]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
-- → [[Glutathione]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-```
+{% endraw %}

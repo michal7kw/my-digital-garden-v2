@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.441156Z'
+created: '2026-02-09T05:40:20.705661Z'
 description: Hyperphosphorylated tau protein measured in CSF or blood, indicating
   tau pathology and neurofibrillary tangle formation. A core biomarker for Alzheimer's
   disease diagnosis within the ATN framework.
@@ -15,290 +15,390 @@ tags:
 - csf
 - blood-test
 - atn-framework
+templateEngineOverride: njk
 title: Phospho-Tau
 type: biomarker
-updated: '2026-02-08T19:45:44.441156Z'
+updated: '2026-02-09T05:40:20.705661Z'
 ---
 
-# Phospho-Tau
-
-## Overview
-Phospho-Tau (p-tau) refers to tau protein phosphorylated at specific amino acid residues. In Alzheimer's disease and other tauopathies, tau becomes hyperphosphorylated, detaches from microtubules, and aggregates into neurofibrillary tangles. CSF and plasma p-tau are now core biomarkers in the NIA-AA ATN (Amyloid, Tau, Neurodegeneration) research framework.
-
-## Key Phosphorylation Sites
-
-| Epitope | Location | Clinical Utility |
-|---------|----------|------------------|
-| p-tau181 | Threonine 181 | Most established; FDA cleared |
-| p-tau217 | Threonine 217 | Highest sensitivity/specificity |
-| p-tau231 | Threonine 231 | Early changes; tracks amyloid |
-
-## Clinical Applications
-
-### Alzheimer's Disease Diagnosis
-- Distinguishes AD from non-AD dementias
-- Predicts progression from MCI to AD dementia
-- Reflects both amyloid and tau pathology
-
-### ATN Framework Classification
-- **A+T+N-**: Preclinical AD (biomarker positive, no neurodegeneration)
-- **A+T+N+**: Full AD pathology with neurodegeneration
-- **A-T+N+**: Non-AD tauopathy (PSP, CBD, etc.)
-
-## Reference Values
-
-### CSF P-Tau181
-| Status | Range (pg/mL) | Interpretation |
-|--------|---------------|----------------|
-| Normal | <60 | No tau pathology |
-| Borderline | 60-80 | Monitor clinically |
-| Elevated | >80 | Tau pathology likely |
-
-### Plasma P-Tau217 (Emerging)
-| Status | Range (pg/mL) | Interpretation |
-|--------|---------------|----------------|
-| Normal | <0.5 | Low AD probability |
-| Elevated | >0.5 | High AD probability |
-
-*Note: Cutoffs vary by assay platform*
-
+{% raw %}
+<h1>Phospho-Tau</h1>
+<h2>Overview</h2>
+<p>Phospho-Tau (p-tau) refers to tau protein phosphorylated at specific amino acid residues. In Alzheimer's disease and other tauopathies, tau becomes hyperphosphorylated, detaches from microtubules, and aggregates into neurofibrillary tangles. CSF and plasma p-tau are now core biomarkers in the NIA-AA ATN (Amyloid, Tau, Neurodegeneration) research framework.</p>
+<h2>Key Phosphorylation Sites</h2>
+<table>
+<thead>
+<tr>
+<th>Epitope</th>
+<th>Location</th>
+<th>Clinical Utility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>p-tau181</td>
+<td>Threonine 181</td>
+<td>Most established; FDA cleared</td>
+</tr>
+<tr>
+<td>p-tau217</td>
+<td>Threonine 217</td>
+<td>Highest sensitivity/specificity</td>
+</tr>
+<tr>
+<td>p-tau231</td>
+<td>Threonine 231</td>
+<td>Early changes; tracks amyloid</td>
+</tr>
+</tbody>
+</table>
+<h2>Clinical Applications</h2>
+<h3>Alzheimer's Disease Diagnosis</h3>
+<ul>
+<li>Distinguishes AD from non-AD dementias</li>
+<li>Predicts progression from MCI to AD dementia</li>
+<li>Reflects both amyloid and tau pathology</li>
+</ul>
+<h3>ATN Framework Classification</h3>
+<ul>
+<li><strong>A+T+N-</strong>: Preclinical AD (biomarker positive, no neurodegeneration)</li>
+<li><strong>A+T+N+</strong>: Full AD pathology with neurodegeneration</li>
+<li><strong>A-T+N+</strong>: Non-AD tauopathy (PSP, CBD, etc.)</li>
+</ul>
+<h2>Reference Values</h2>
+<h3>CSF P-Tau181</h3>
+<table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Range (pg/mL)</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Normal</td>
+<td>&lt;60</td>
+<td>No tau pathology</td>
+</tr>
+<tr>
+<td>Borderline</td>
+<td>60-80</td>
+<td>Monitor clinically</td>
+</tr>
+<tr>
+<td>Elevated</td>
+<td>&gt;80</td>
+<td>Tau pathology likely</td>
+</tr>
+</tbody>
+</table>
+<h3>Plasma P-Tau217 (Emerging)</h3>
+<table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Range (pg/mL)</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Normal</td>
+<td>&lt;0.5</td>
+<td>Low AD probability</td>
+</tr>
+<tr>
+<td>Elevated</td>
+<td>&gt;0.5</td>
+<td>High AD probability</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: Cutoffs vary by assay platform</em></p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Vascular_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:54.207530'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Vascular_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:54.207530'
 source: obsidian
-```
-- ← [[Frontotemporal_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:38.556708'
+</code></pre>
+<ul>
+<li>← [[Frontotemporal_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
 source: obsidian
-```
-- ← [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:30.206636'
+</code></pre>
+<ul>
+<li>← [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
 source: obsidian
-```
-- → [[Down_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Down_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Plasma_p-tau217]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Plasma_p-tau217]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Tau_PET_Imaging]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Tau_PET_Imaging]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Amyloid_PET_Imaging]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_PET_Imaging]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Amyloid-Beta_4240_Ratio]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Vascular_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Vascular_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Total_Tau]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Total_Tau]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Lumbar_Puncture]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Lumbar_Puncture]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Lewy_Body_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Lewy_Body_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.983992'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
 source: obsidian
-```
-- → [[Down_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Down_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Lewy_Body_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Lewy_Body_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- ← [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.950584'
+</code></pre>
+<ul>
+<li>← [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Tau_PET_Imaging]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Tau_PET_Imaging]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Lumbar_Puncture]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Lumbar_Puncture]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Vascular_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Vascular_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Total_Tau]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Total_Tau]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- ← [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.198842'
+</code></pre>
+<ul>
+<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
-```
-- ← [[Amyloid-Beta_4240_Ratio]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:09.882854'
+</code></pre>
+<ul>
+<li>← [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
 source: obsidian
-```
-- ← [[Tau_PET_Imaging]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:45.698956'
+</code></pre>
+<ul>
+<li>← [[Tau_PET_Imaging]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.698956'
 source: obsidian
-```
-- ← [[Lumbar_Puncture]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:45.028418'
+</code></pre>
+<ul>
+<li>← [[Lumbar_Puncture]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.028418'
 source: obsidian
-```
-- ← [[Amyloid_PET_Imaging]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:44.235597'
+</code></pre>
+<ul>
+<li>← [[Amyloid_PET_Imaging]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.235597'
 source: obsidian
-```
-- ← [[Mild_Cognitive_Impairment]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:33.408670'
+</code></pre>
+<ul>
+<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
-```
-- ← [[Total_Tau]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:17.683830'
+</code></pre>
+<ul>
+<li>← [[Total_Tau]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.683830'
 source: obsidian
-```
-- ← [[Plasma_p-tau217]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:16.234462'
+</code></pre>
+<ul>
+<li>← [[Plasma_p-tau217]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
 source: obsidian
-```
-- → [[Amyloid-Beta_4240_Ratio]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.718126'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Conditions with Elevated P-Tau</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Strongly elevated</em></li>
+<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Predicts AD conversion</em></li>
+<li>→ [[Down Syndrome]] (condition) - <em>Early-onset AD pathology</em></li>
+</ul>
+<h3>Conditions with Normal P-Tau</h3>
+<ul>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>Usually normal (except some MAPT)</em></li>
+<li>→ [[Vascular Dementia]] (condition) - <em>Usually normal</em></li>
+<li>→ [[Lewy Body Dementia]] (condition) - <em>Mildly elevated if AD copathology</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[Total Tau]] (biomarker) - <em>General neurodegeneration</em></li>
+<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>Amyloid pathology</em></li>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neurodegeneration intensity</em></li>
+</ul>
+<h3>Diagnostic Procedures</h3>
+<ul>
+<li>← [[Lumbar Puncture]] (examination) - <em>CSF collection</em></li>
+<li>← [[Tau PET Imaging]] (examination) - <em>Direct tau visualization</em></li>
+</ul>
+<h2>Advantages of Plasma P-Tau</h2>
+<h3>P-Tau217 Benefits</h3>
+<ul>
+<li>Minimally invasive (blood draw)</li>
+<li>High concordance with CSF and PET</li>
+<li>Cost-effective screening</li>
+<li>Suitable for large-scale trials and population screening</li>
+</ul>
+<h3>Current Limitations</h3>
+<ul>
+<li>Requires specialized assay platforms</li>
+<li>Not yet universally available</li>
+<li>Standardization across labs ongoing</li>
+</ul>
+<h2>Clinical Interpretation</h2>
+<h3>When to Order</h3>
+<ol>
+<li>Diagnostic workup for cognitive impairment</li>
+<li>Differentiating AD from other dementias</li>
+<li>Research: ATN classification for clinical trials</li>
+<li>Monitoring anti-amyloid/anti-tau therapies</li>
+</ol>
+<h3>Interpretation Notes</h3>
+<ul>
+<li>Combine with amyloid markers (Aβ42/40 or amyloid PET)</li>
+<li>Consider clinical context (age, symptoms, MRI)</li>
+<li>P-tau alone does not diagnose AD; requires syndromic assessment</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>ATN Framework</strong>: Jack, C.R., et al. (2018). &quot;NIA-AA Research Framework.&quot; <em>Alzheimer's &amp; Dementia</em>.</li>
+<li><strong>P-tau217</strong>: Palmqvist, S., et al. (2020). &quot;Discriminative accuracy of plasma p-tau217.&quot; <em>JAMA</em>.</li>
+<li><strong>Blood Biomarkers</strong>: Ashton, N.J., et al. (2021). &quot;Plasma p-tau in AD.&quot; <em>The Lancet Neurology</em>.</li>
+</ol>
 
-### Conditions with Elevated P-Tau
-- → [[Alzheimer's Disease]] (condition) - *Strongly elevated*
-- → [[Mild Cognitive Impairment]] (condition) - *Predicts AD conversion*
-- → [[Down Syndrome]] (condition) - *Early-onset AD pathology*
-
-### Conditions with Normal P-Tau
-- → [[Frontotemporal Dementia]] (condition) - *Usually normal (except some MAPT)*
-- → [[Vascular Dementia]] (condition) - *Usually normal*
-- → [[Lewy Body Dementia]] (condition) - *Mildly elevated if AD copathology*
-
-### Related Biomarkers
-- → [[Total Tau]] (biomarker) - *General neurodegeneration*
-- → [[Amyloid-Beta 42/40 Ratio]] (biomarker) - *Amyloid pathology*
-- → [[Neurofilament Light Chain]] (biomarker) - *Neurodegeneration intensity*
-
-### Diagnostic Procedures
-- ← [[Lumbar Puncture]] (examination) - *CSF collection*
-- ← [[Tau PET Imaging]] (examination) - *Direct tau visualization*
-
-## Advantages of Plasma P-Tau
-
-### P-Tau217 Benefits
-- Minimally invasive (blood draw)
-- High concordance with CSF and PET
-- Cost-effective screening
-- Suitable for large-scale trials and population screening
-
-### Current Limitations
-- Requires specialized assay platforms
-- Not yet universally available
-- Standardization across labs ongoing
-
-## Clinical Interpretation
-
-### When to Order
-1. Diagnostic workup for cognitive impairment
-2. Differentiating AD from other dementias
-3. Research: ATN classification for clinical trials
-4. Monitoring anti-amyloid/anti-tau therapies
-
-### Interpretation Notes
-- Combine with amyloid markers (Aβ42/40 or amyloid PET)
-- Consider clinical context (age, symptoms, MRI)
-- P-tau alone does not diagnose AD; requires syndromic assessment
-
-## References
-1. **ATN Framework**: Jack, C.R., et al. (2018). "NIA-AA Research Framework." *Alzheimer's & Dementia*.
-2. **P-tau217**: Palmqvist, S., et al. (2020). "Discriminative accuracy of plasma p-tau217." *JAMA*.
-3. **Blood Biomarkers**: Ashton, N.J., et al. (2021). "Plasma p-tau in AD." *The Lancet Neurology*.
+{% endraw %}

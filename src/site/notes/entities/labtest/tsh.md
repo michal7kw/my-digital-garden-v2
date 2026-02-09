@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.590936Z'
+created: '2026-02-09T05:40:21.519946Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
@@ -9,79 +9,97 @@ permalink: /garden/dev_admin/labtest/tsh/
 slug: tsh
 tags:
 - labtest
+templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-02-08T19:45:44.590936Z'
+updated: '2026-02-09T05:40:21.519946Z'
 ---
 
-# tsh
-
-## Overview
-Primary screening test for thyroid function. Elevated in hypothyroidism, low in hyperthyroidism.
-
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** |  |
-| **Subcategory** | Null || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | null-null days || **Price Range** | $null-$null |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-General health screening.
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>tsh</h1>
+<h2>Overview</h2>
+<p>Primary screening test for thyroid function. Elevated in hypothyroidism, low in hyperthyroidism.</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[thyroid_panel_complete]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:28.633850'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[thyroid_panel_complete]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
-```
-- ← [[thyroid_panel_complete]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:00.388451'
+</code></pre>
+<ul>
+<li>← [[thyroid_panel_complete]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
 source: obsidian
-```
-- → [[thyroid_panel_basic]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:28.633850'
+</code></pre>
+<ul>
+<li>→ [[thyroid_panel_basic]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
-```
-- ← [[thyroid_panel_basic]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:00.286859'
+</code></pre>
+<ul>
+<li>← [[thyroid_panel_basic]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.286859'
 source: obsidian
-```
-- → [[tsh]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:28.633850'
+</code></pre>
+<ul>
+<li>→ [[tsh]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:44.438882</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:44.438882*
+{% endraw %}

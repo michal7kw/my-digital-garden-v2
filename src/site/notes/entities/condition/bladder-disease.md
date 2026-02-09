@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.463323Z'
+created: '2026-02-09T05:40:20.875178Z'
 description: A broad category of disorders affecting the urinary bladder, including
   infections, functional issues, stones, and cancers.
 dg-home: false
@@ -11,113 +11,100 @@ tags:
 - condition
 - urology
 - function-health
+templateEngineOverride: njk
 title: Bladder Disease
 type: condition
-updated: '2026-02-08T19:45:44.463323Z'
+updated: '2026-02-09T05:40:20.875178Z'
 ---
 
-# Bladder Disease
-
-## Overview
-A broad category of disorders affecting the urinary bladder, including infections, functional issues, stones, and cancers.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Bladder Disease</h1>
+<h2>Overview</h2>
+<p>A broad category of disorders affecting the urinary bladder, including infections, functional issues, stones, and cancers.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Bladder Disease]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[appearance_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[appearance_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Bladder_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:50.387423'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Bladder_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:50.387423'
 source: obsidian
-```
-- → [[appearance_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:50.387423'
+</code></pre>
+<ul>
+<li>→ [[appearance_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:50.387423'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Bladder Disease]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Bladder Disease]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Bladder_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:24.188177'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Bladder_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
-```
-- ← [[appearance_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:50.265588'
+</code></pre>
+<ul>
+<li>← [[appearance_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.265588'
 source: obsidian
-```
-- → [[Bladder_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:24.188177'
+</code></pre>
+<ul>
+<li>→ [[Bladder_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
-```
-- → [[appearance_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:24.188177'
+</code></pre>
+<ul>
+<li>→ [[appearance_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.188177'
 source: obsidian
-```
-
-### May Detect
-- ← [[appearance_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[appearance_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

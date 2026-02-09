@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.430110Z'
+created: '2026-02-09T05:40:20.635879Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -7,148 +7,155 @@ permalink: /garden/dev_admin/biomarker/folate/
 slug: folate
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Folate
 type: biomarker
-updated: '2026-02-08T19:45:44.430110Z'
+updated: '2026-02-09T05:40:20.635879Z'
 ---
 
-# Folate
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Folate</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Blood]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Homocysteine]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- → [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>→ [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Homocysteine]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Methylfolate]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Methylfolate]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Blood]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>→ [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Folate]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

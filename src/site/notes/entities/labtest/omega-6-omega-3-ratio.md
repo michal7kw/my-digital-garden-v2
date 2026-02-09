@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.576681Z'
+created: '2026-02-09T05:40:21.452162Z'
 description: oh-meg-uh six / oh-meg-uh three ray-shee-oh The omega-6 to omega-3 ratio
   reflects the body’s internal balance between fats that promote inflammation and
   those that help resolve it. Most people consuming a typical Western diet have a
@@ -13,137 +13,165 @@ permalink: /garden/dev_admin/labtest/omega-6-omega-3-ratio/
 slug: omega-6-omega-3-ratio
 tags:
 - labtest
+templateEngineOverride: njk
 title: omega_6_omega_3_ratio
 type: labtest
-updated: '2026-02-08T19:45:44.576681Z'
+updated: '2026-02-09T05:40:21.452162Z'
 ---
 
-# Omega-6 / Omega-3 Ratio
-
-## Overview
-oh-meg-uh six / oh-meg-uh three ray-shee-oh The omega-6 to omega-3 ratio reflects the body’s internal balance between fats that promote inflammation and those that help resolve it. Most people consuming a typical Western diet have a ratio higher than optimal, which can contribute to systemic inflammation. Measuring this ratio provides meaningful insight into how well the body is regulating inflammation, repairing tissue, and protecting against chronic disease.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Functional Medicine |
-| **Subcategory** | Nutrient Panel || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Omega-3 Or Omega-6 Imbalance]]
-- [[Chronic Inflammation]]
-- [[Cardiovascular Disease Risk]]
-- [[Cognitive Or Mood Imbalance]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Omega-6 / Omega-3 Ratio</h1>
+<h2>Overview</h2>
+<p>oh-meg-uh six / oh-meg-uh three ray-shee-oh The omega-6 to omega-3 ratio reflects the body’s internal balance between fats that promote inflammation and those that help resolve it. Most people consuming a typical Western diet have a ratio higher than optimal, which can contribute to systemic inflammation. Measuring this ratio provides meaningful insight into how well the body is regulating inflammation, repairing tissue, and protecting against chronic disease.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Functional Medicine</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Nutrient Panel</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Omega-3 Or Omega-6 Imbalance]]</li>
+<li>[[Chronic Inflammation]]</li>
+<li>[[Cardiovascular Disease Risk]]</li>
+<li>[[Cognitive Or Mood Imbalance]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:23.311952'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.311952'
 source: obsidian
-```
-- → [[Cardiovascular_Disease_Risk]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:23.311952'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease_Risk]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.311952'
 source: obsidian
-```
-- → [[Cognitive_Or_Mood_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:23.311952'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Or_Mood_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.311952'
 source: obsidian
-```
-- → [[Omega-3_Or_Omega-6_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:23.311952'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Or_Omega-6_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.311952'
 source: obsidian
-```
-- → [[Cognitive_Or_Mood_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:58.222853'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Or_Mood_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.222853'
 source: obsidian
-```
-- → [[Omega-3_Or_Omega-6_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:58.222853'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Or_Omega-6_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.222853'
 source: obsidian
-```
-- → [[Cardiovascular_Disease_Risk]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:58.222853'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease_Risk]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.222853'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:58.222853'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.222853'
 source: obsidian
-```
-- ← [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.244890'
+</code></pre>
+<ul>
+<li>← [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
-```
-- ← [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.904495'
+</code></pre>
+<ul>
+<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
-```
-- → [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:23.311952'
+</code></pre>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.311952'
 source: obsidian
-```
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:23.311952'
+</code></pre>
+<ul>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.311952'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.519524'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
-```
-
-### May Detect
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[mthfr_gene]] (labtestpanel)
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:37.968028</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:37.968028*
+{% endraw %}

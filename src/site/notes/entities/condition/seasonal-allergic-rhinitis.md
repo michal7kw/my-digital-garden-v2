@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.504613Z'
+created: '2026-02-09T05:40:21.082075Z'
 description: An allergic response to specific allergens like pollen that occurs at
   certain times of the year, commonly known as Hay Fever.
 dg-home: false
@@ -12,82 +12,66 @@ tags:
 - immunology
 - allergy
 - ent
+templateEngineOverride: njk
 title: Seasonal Allergic Rhinitis
 type: condition
-updated: '2026-02-08T19:45:44.504613Z'
+updated: '2026-02-09T05:40:21.082075Z'
 ---
 
-# Seasonal Allergic Rhinitis
-
-## Overview
-An allergic response to specific allergens like pollen that occurs at certain times of the year, commonly known as Hay Fever.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Seasonal Allergic Rhinitis</h1>
+<h2>Overview</h2>
+<p>An allergic response to specific allergens like pollen that occurs at certain times of the year, commonly known as Hay Fever.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Seasonal Allergic Rhinitis]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Seasonal_Allergic_Rhinitis]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:41.052499'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Seasonal_Allergic_Rhinitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:41.052499'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Seasonal Allergic Rhinitis]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Seasonal Allergic Rhinitis]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Seasonal_Allergic_Rhinitis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:37.407491'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Seasonal_Allergic_Rhinitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.407491'
 source: obsidian
-```
-- → [[Seasonal_Allergic_Rhinitis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:37.407491'
+</code></pre>
+<ul>
+<li>→ [[Seasonal_Allergic_Rhinitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.407491'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

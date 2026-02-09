@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.527587Z'
+created: '2026-02-09T05:40:21.198244Z'
 description: Positron emission tomography using fluorodeoxyglucose to measure cerebral
   glucose metabolism. Reveals patterns of hypometabolism characteristic of different
   neurodegenerative diseases.
@@ -14,163 +14,183 @@ tags:
 - pet
 - metabolism
 - neurodegeneration
+templateEngineOverride: njk
 title: FDG-PET
 type: examination
-updated: '2026-02-08T19:45:44.527587Z'
+updated: '2026-02-09T05:40:21.198244Z'
 ---
 
-# FDG-PET (Fluorodeoxyglucose PET)
+{% raw %}
+<h1>FDG-PET (Fluorodeoxyglucose PET)</h1>
+<h2>Overview</h2>
+<p>FDG-PET measures regional cerebral glucose metabolism, which reflects synaptic activity and neuronal function. In neurodegenerative diseases, characteristic patterns of hypometabolism precede structural atrophy and help differentiate between dementia subtypes. FDG-PET represents the &quot;N&quot; (neurodegeneration) component in the ATN biomarker framework.</p>
+<h2>Mechanism</h2>
+<h3>Tracer Behavior</h3>
+<ul>
+<li>18F-FDG is a glucose analog</li>
+<li>Taken up by metabolically active cells</li>
+<li>Phosphorylated by hexokinase → trapped in cells</li>
+<li>Signal reflects regional glucose utilization</li>
+<li>Half-life: 110 minutes</li>
+</ul>
+<h3>Brain Metabolism</h3>
+<ul>
+<li>Brain uses ~20% of body's glucose</li>
+<li>Glucose metabolism correlates with synaptic activity</li>
+<li>Hypometabolism indicates dysfunction or neurodegeneration</li>
+</ul>
+<h2>Disease-Specific Patterns</h2>
+<h3>Alzheimer's Disease</h3>
+<ul>
+<li><strong>Classic pattern</strong>: Posterior cingulate, precuneus, temporoparietal</li>
+<li><strong>Progression</strong>: Bilateral, spreading to frontal</li>
+<li><strong>Spared</strong>: Sensorimotor cortex, visual cortex, basal ganglia</li>
+<li><strong>&quot;AD signature&quot;</strong>: Highly characteristic</li>
+</ul>
+<h3>Frontotemporal Dementia</h3>
+<ul>
+<li><strong>bvFTD</strong>: Frontal and anterior temporal hypometabolism</li>
+<li><strong>svPPA</strong>: Left anterior temporal predominant</li>
+<li><strong>nfvPPA</strong>: Left frontal operculum, insula</li>
+<li>Asymmetry common</li>
+</ul>
+<h3>Dementia with Lewy Bodies</h3>
+<ul>
+<li><strong>Occipital hypometabolism</strong>: Distinguishes from AD</li>
+<li>&quot;Cingulate island sign&quot;: Preserved posterior cingulate</li>
+<li>Visual cortex involvement (visual hallucinations)</li>
+</ul>
+<h3>Parkinson's Disease Dementia</h3>
+<ul>
+<li>Similar to DLB</li>
+<li>Occipital involvement</li>
+<li>May overlap with AD pattern in mixed cases</li>
+</ul>
+<h3>Vascular Dementia</h3>
+<ul>
+<li>Multifocal, patchy hypometabolism</li>
+<li>Corresponds to infarct locations</li>
+<li>Less characteristic pattern</li>
+</ul>
+<h3>Corticobasal Syndrome</h3>
+<ul>
+<li>Asymmetric frontoparietal hypometabolism</li>
+<li>Contralateral to symptomatic side</li>
+<li>Basal ganglia may show changes</li>
+</ul>
+<h3>Progressive Supranuclear Palsy</h3>
+<ul>
+<li>Frontal, especially medial frontal</li>
+<li>Midbrain hypometabolism</li>
+<li>&quot;Striatal pattern&quot; in some cases</li>
+</ul>
+<h2>Quantitative Analysis</h2>
+<h3>Visual Assessment</h3>
+<ul>
+<li>Side-by-side comparison with normal database</li>
+<li>Pattern recognition by trained readers</li>
+<li>Sensitivity ~90%, specificity ~85%</li>
+</ul>
+<h3>Statistical Parametric Mapping</h3>
+<ul>
+<li>Voxel-based comparison to normal controls</li>
+<li>Z-score maps highlight abnormalities</li>
+<li>NeuroQ, Cortex ID, Syngo.via</li>
+</ul>
+<h3>SUVR Quantification</h3>
+<ul>
+<li>Regional standardized uptake value ratios</li>
+<li>Pons or whole brain reference</li>
+<li>Longitudinal comparison</li>
+</ul>
+<h2>Clinical Applications</h2>
+<h3>Dementia Differential Diagnosis</h3>
+<ol>
+<li>AD vs FTD (different patterns)</li>
+<li>DLB vs AD (occipital involvement)</li>
+<li>Atypical presentations</li>
+<li>Young-onset dementia</li>
+</ol>
+<h3>Prognosis</h3>
+<ul>
+<li>Severity of hypometabolism predicts decline</li>
+<li>Rate of metabolic change tracks progression</li>
+<li>Worse metabolism = faster decline</li>
+</ul>
+<h3>Treatment Monitoring</h3>
+<ul>
+<li>Research: Tracking drug effects</li>
+<li>May detect improvement or stabilization</li>
+</ul>
+<h2>ATN Framework Role</h2>
+<h3>&quot;N&quot; Component</h3>
+<ul>
+<li>Neurodegeneration marker</li>
+<li>Alternatives: MRI volumetry, CSF t-tau</li>
+<li>Functional change may precede structural</li>
+</ul>
+<h3>Combined Interpretation</h3>
+<ul>
+<li>A+T+N+: Full AD pathology</li>
+<li>A-T-N+: Suspected non-AD pathology (SNAP)</li>
+<li>Metabolic patterns refine diagnosis</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Temporoparietal pattern</em></li>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>Frontal pattern</em></li>
+<li>→ [[Lewy Body Dementia]] (condition) - <em>Occipital involvement</em></li>
+<li>→ [[Vascular Dementia]] (condition) - <em>Patchy, multifocal</em></li>
+<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Predicts conversion</em></li>
+</ul>
+<h3>Related Imaging</h3>
+<ul>
+<li>→ [[Amyloid PET Imaging]] (examination) - <em>ATN A component</em></li>
+<li>→ [[Tau PET Imaging]] (examination) - <em>ATN T component</em></li>
+<li>→ [[MRI Volumetry]] (examination) - <em>Structural correlate</em></li>
+</ul>
+<h3>Brain Regions</h3>
+<ul>
+<li>→ [[Posterior Cingulate Cortex]] (organ) - <em>Early AD involvement</em></li>
+<li>→ [[Precuneus]] (organ) - <em>AD signature region</em></li>
+<li>→ [[Prefrontal Cortex]] (organ) - <em>FTD involvement</em></li>
+</ul>
+<h2>Advantages and Limitations</h2>
+<h3>Advantages</h3>
+<ul>
+<li>Well-established technique</li>
+<li>Widely available (oncology infrastructure)</li>
+<li>Excellent differential diagnosis</li>
+<li>Medicare coverage for dementia</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>Radiation exposure (~7 mSv)</li>
+<li>Cost (~$2,500-4,000)</li>
+<li>Non-specific (reflects any cause of hypometabolism)</li>
+<li>Affected by blood glucose levels</li>
+<li>Requires fasting and quiet environment</li>
+</ul>
+<h2>Practical Considerations</h2>
+<h3>Patient Preparation</h3>
+<ul>
+<li>4-6 hour fast (water allowed)</li>
+<li>Blood glucose &lt;200 mg/dL (ideally &lt;150)</li>
+<li>Quiet, dimly lit environment during uptake</li>
+<li>Avoid stimulation during 30-45 min uptake period</li>
+</ul>
+<h3>Image Acquisition</h3>
+<ul>
+<li>Scan starts ~30-45 min post-injection</li>
+<li>10-20 minute acquisition</li>
+<li>CT for attenuation correction</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>AD Pattern</strong>: Minoshima, S., et al. (1997). &quot;Metabolic reduction in posterior cingulate cortex in early AD.&quot; <em>Annals of Neurology</em>.</li>
+<li><strong>Differential Diagnosis</strong>: Defined, E., et al. (2019). &quot;FDG-PET in dementia.&quot; <em>Seminars in Nuclear Medicine</em>.</li>
+<li><strong>ATN Framework</strong>: Jack, C.R., et al. (2018). &quot;NIA-AA Research Framework.&quot; <em>Alzheimer's &amp; Dementia</em>.</li>
+</ol>
 
-## Overview
-FDG-PET measures regional cerebral glucose metabolism, which reflects synaptic activity and neuronal function. In neurodegenerative diseases, characteristic patterns of hypometabolism precede structural atrophy and help differentiate between dementia subtypes. FDG-PET represents the "N" (neurodegeneration) component in the ATN biomarker framework.
-
-## Mechanism
-
-### Tracer Behavior
-- 18F-FDG is a glucose analog
-- Taken up by metabolically active cells
-- Phosphorylated by hexokinase → trapped in cells
-- Signal reflects regional glucose utilization
-- Half-life: 110 minutes
-
-### Brain Metabolism
-- Brain uses ~20% of body's glucose
-- Glucose metabolism correlates with synaptic activity
-- Hypometabolism indicates dysfunction or neurodegeneration
-
-## Disease-Specific Patterns
-
-### Alzheimer's Disease
-- **Classic pattern**: Posterior cingulate, precuneus, temporoparietal
-- **Progression**: Bilateral, spreading to frontal
-- **Spared**: Sensorimotor cortex, visual cortex, basal ganglia
-- **"AD signature"**: Highly characteristic
-
-### Frontotemporal Dementia
-- **bvFTD**: Frontal and anterior temporal hypometabolism
-- **svPPA**: Left anterior temporal predominant
-- **nfvPPA**: Left frontal operculum, insula
-- Asymmetry common
-
-### Dementia with Lewy Bodies
-- **Occipital hypometabolism**: Distinguishes from AD
-- "Cingulate island sign": Preserved posterior cingulate
-- Visual cortex involvement (visual hallucinations)
-
-### Parkinson's Disease Dementia
-- Similar to DLB
-- Occipital involvement
-- May overlap with AD pattern in mixed cases
-
-### Vascular Dementia
-- Multifocal, patchy hypometabolism
-- Corresponds to infarct locations
-- Less characteristic pattern
-
-### Corticobasal Syndrome
-- Asymmetric frontoparietal hypometabolism
-- Contralateral to symptomatic side
-- Basal ganglia may show changes
-
-### Progressive Supranuclear Palsy
-- Frontal, especially medial frontal
-- Midbrain hypometabolism
-- "Striatal pattern" in some cases
-
-## Quantitative Analysis
-
-### Visual Assessment
-- Side-by-side comparison with normal database
-- Pattern recognition by trained readers
-- Sensitivity ~90%, specificity ~85%
-
-### Statistical Parametric Mapping
-- Voxel-based comparison to normal controls
-- Z-score maps highlight abnormalities
-- NeuroQ, Cortex ID, Syngo.via
-
-### SUVR Quantification
-- Regional standardized uptake value ratios
-- Pons or whole brain reference
-- Longitudinal comparison
-
-## Clinical Applications
-
-### Dementia Differential Diagnosis
-1. AD vs FTD (different patterns)
-2. DLB vs AD (occipital involvement)
-3. Atypical presentations
-4. Young-onset dementia
-
-### Prognosis
-- Severity of hypometabolism predicts decline
-- Rate of metabolic change tracks progression
-- Worse metabolism = faster decline
-
-### Treatment Monitoring
-- Research: Tracking drug effects
-- May detect improvement or stabilization
-
-## ATN Framework Role
-
-### "N" Component
-- Neurodegeneration marker
-- Alternatives: MRI volumetry, CSF t-tau
-- Functional change may precede structural
-
-### Combined Interpretation
-- A+T+N+: Full AD pathology
-- A-T-N+: Suspected non-AD pathology (SNAP)
-- Metabolic patterns refine diagnosis
-
-## Relationships
-
-### Conditions
-- → [[Alzheimer's Disease]] (condition) - *Temporoparietal pattern*
-- → [[Frontotemporal Dementia]] (condition) - *Frontal pattern*
-- → [[Lewy Body Dementia]] (condition) - *Occipital involvement*
-- → [[Vascular Dementia]] (condition) - *Patchy, multifocal*
-- → [[Mild Cognitive Impairment]] (condition) - *Predicts conversion*
-
-### Related Imaging
-- → [[Amyloid PET Imaging]] (examination) - *ATN A component*
-- → [[Tau PET Imaging]] (examination) - *ATN T component*
-- → [[MRI Volumetry]] (examination) - *Structural correlate*
-
-### Brain Regions
-- → [[Posterior Cingulate Cortex]] (organ) - *Early AD involvement*
-- → [[Precuneus]] (organ) - *AD signature region*
-- → [[Prefrontal Cortex]] (organ) - *FTD involvement*
-
-## Advantages and Limitations
-
-### Advantages
-- Well-established technique
-- Widely available (oncology infrastructure)
-- Excellent differential diagnosis
-- Medicare coverage for dementia
-
-### Limitations
-- Radiation exposure (~7 mSv)
-- Cost (~$2,500-4,000)
-- Non-specific (reflects any cause of hypometabolism)
-- Affected by blood glucose levels
-- Requires fasting and quiet environment
-
-## Practical Considerations
-
-### Patient Preparation
-- 4-6 hour fast (water allowed)
-- Blood glucose <200 mg/dL (ideally <150)
-- Quiet, dimly lit environment during uptake
-- Avoid stimulation during 30-45 min uptake period
-
-### Image Acquisition
-- Scan starts ~30-45 min post-injection
-- 10-20 minute acquisition
-- CT for attenuation correction
-
-## References
-1. **AD Pattern**: Minoshima, S., et al. (1997). "Metabolic reduction in posterior cingulate cortex in early AD." *Annals of Neurology*.
-2. **Differential Diagnosis**: Defined, E., et al. (2019). "FDG-PET in dementia." *Seminars in Nuclear Medicine*.
-3. **ATN Framework**: Jack, C.R., et al. (2018). "NIA-AA Research Framework." *Alzheimer's & Dementia*.
+{% endraw %}

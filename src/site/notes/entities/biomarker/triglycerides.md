@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.447653Z'
+created: '2026-02-09T05:40:20.754638Z'
 description: A type of fat stored in the body. Elevated levels increase cardiovascular
   disease risk and are associated with metabolic syndrome.
 dg-home: false
@@ -9,141 +9,159 @@ permalink: /garden/dev_admin/biomarker/triglycerides/
 slug: triglycerides
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Triglycerides
 type: biomarker
-updated: '2026-02-08T19:45:44.447653Z'
+updated: '2026-02-09T05:40:20.754638Z'
 ---
 
-# Triglycerides
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Triglycerides</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[triglycerides]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:28.183752'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.183752'
 source: obsidian
-```
-- ← [[lipid_panel_standard]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:19.242090'
+</code></pre>
+<ul>
+<li>← [[lipid_panel_standard]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
 source: obsidian
-```
-- ← [[advanced_lipid_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:06.527789'
+</code></pre>
+<ul>
+<li>← [[advanced_lipid_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.527789'
 source: obsidian
-```
-- → [[lipid_panel_standard]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:24.411186'
+</code></pre>
+<ul>
+<li>→ [[lipid_panel_standard]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.411186'
 source: obsidian
-```
-- → [[advanced_lipid_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:24.411186'
+</code></pre>
+<ul>
+<li>→ [[advanced_lipid_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.411186'
 source: obsidian
-```
-- → [[advanced_lipid_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[advanced_lipid_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[lipid_panel_standard]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[lipid_panel_standard]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[triglycerides]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- ← [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:40.282261'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.282261'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:20.045782'
+</code></pre>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.045782'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-
-### Decreases Biomarker
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
 last_modified: '2026-01-26T07:08:39.853055'
 magnitude: strong
@@ -156,117 +174,130 @@ source: obsidian
 study_references:
 - PMID:30586774
 - PMID:31422671
-```
-
-### Requires Biomarker
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:20.311340'
+</code></pre>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:28.888881'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.888881'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:30:28.888881'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.888881'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:28.888881'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.888881'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:28.888881'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.888881'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:28.888881'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.888881'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:28.888881'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.888881'
 source: obsidian
-```
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:37.203726'
+</code></pre>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.203726'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- ← [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:50.148655'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:50.148655'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:36.399745'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:36.399745'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-### Decreases Biomarker
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
 last_modified: '2026-01-19T09:07:12.526277'
 magnitude: strong
@@ -279,28 +310,28 @@ source: obsidian
 study_references:
 - PMID:30586774
 - PMID:31422671
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-- [[Omega-3 Fatty Acids]] - Decreases triglycerides 25-30% (evidence level 5, FDA-approved)
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[triglycerides]] - Direct triglyceride measurement
-
-### Panel Tests
-- [[lipid panel standard]] - Standard lipid panel
-- [[advanced lipid panel]] - Advanced lipid panel
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<ul>
+<li>[[Omega-3 Fatty Acids]] - Decreases triglycerides 25-30% (evidence level 5, FDA-approved)</li>
+</ul>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[triglycerides]] - Direct triglyceride measurement</li>
+</ul>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[lipid panel standard]] - Standard lipid panel</li>
+<li>[[advanced lipid panel]] - Advanced lipid panel</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Triglycerides]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

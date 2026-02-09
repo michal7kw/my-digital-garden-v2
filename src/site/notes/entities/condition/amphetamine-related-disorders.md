@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.459981Z'
+created: '2026-02-09T05:40:20.859616Z'
 description: A group of disorders resulting from the use of amphetamine-type stimulants,
   including intoxication, withdrawal, and use disorder.
 dg-home: false
@@ -12,53 +12,55 @@ tags:
 - psychiatry
 - addiction
 - substance_use
+templateEngineOverride: njk
 title: Amphetamine-Related Disorders
 type: condition
-updated: '2026-02-08T19:45:44.459981Z'
+updated: '2026-02-09T05:40:20.859616Z'
 ---
 
-# Amphetamine-Related Disorders
-
-## Overview
-
-Amphetamine-Related Disorders involve the misuse of amphetamine, methamphetamine, or similar stimulants (e.g., MDMA). These substances increase the release of **dopamine** and norepinephrine. Chronic use leads to neuroadaptive changes, resulting in addiction, cognitive deficits, and potential psychosis.
-
-## Withdrawal
-
-Symptoms include:
-- Fatigue
-- Vivid, unpleasant dreams
-- Insomnia or hypersomnia
-- Increased appetite
-- Psychomotor retardation
-
+{% raw %}
+<h1>Amphetamine-Related Disorders</h1>
+<h2>Overview</h2>
+<p>Amphetamine-Related Disorders involve the misuse of amphetamine, methamphetamine, or similar stimulants (e.g., MDMA). These substances increase the release of <strong>dopamine</strong> and norepinephrine. Chronic use leads to neuroadaptive changes, resulting in addiction, cognitive deficits, and potential psychosis.</p>
+<h2>Withdrawal</h2>
+<p>Symptoms include:</p>
+<ul>
+<li>Fatigue</li>
+<li>Vivid, unpleasant dreams</li>
+<li>Insomnia or hypersomnia</li>
+<li>Increased appetite</li>
+<li>Psychomotor retardation</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Amphetamine-Related_Disorders]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.823640'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Amphetamine-Related_Disorders]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.823640'
 source: obsidian
-```
-- → [[Amphetamine-Related_Disorders]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:23.582643'
+</code></pre>
+<ul>
+<li>→ [[Amphetamine-Related_Disorders]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:23.582643'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Amphetamines]]<br />
+CAUSED_BY::[[Methamphetamine]]<br />
+ASSOCIATED_WITH_CONDITION::[[Psychotic Disorders]]<br />
+ASSOCIATED_WITH_CONDITION::[[ADHD]] - Stimulants are used for treatment but can be misused.<br />
+AFFECTS_ORGAN::[[Brain]]<br />
+AFFECTS_ORGAN::[[Heart]]<br />
+TREATED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
+TREATED_BY_INTERVENTION::[[Contingency Management]]</p>
+<h2>References</h2>
+<ul>
+<li>American Psychiatric Association. DSM-5.</li>
+<li>NIDA. Methamphetamine Research Report.</li>
+<li>Rusyniak, D. E. (2011). Neurological manifestations of chronic methamphetamine abuse.</li>
+</ul>
 
-CAUSED_BY::[[Amphetamines]]
-CAUSED_BY::[[Methamphetamine]]
-ASSOCIATED_WITH_CONDITION::[[Psychotic Disorders]]
-ASSOCIATED_WITH_CONDITION::[[ADHD]] - Stimulants are used for treatment but can be misused.
-AFFECTS_ORGAN::[[Brain]]
-AFFECTS_ORGAN::[[Heart]]
-TREATED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]
-TREATED_BY_INTERVENTION::[[Contingency Management]]
-
-## References
-
-- American Psychiatric Association. DSM-5.
-- NIDA. Methamphetamine Research Report.
-- Rusyniak, D. E. (2011). Neurological manifestations of chronic methamphetamine abuse.
+{% endraw %}

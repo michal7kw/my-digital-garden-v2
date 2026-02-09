@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.435451Z'
+created: '2026-02-09T05:40:20.666222Z'
 description: Lactate Dehydrogenase is an intracellular enzyme found in virtually all
   body tissues that catalyzes the interconversion of lactate and pyruvate, serving
   as a nonspecific marker of tissue damage and cellular turnover.
@@ -10,64 +10,89 @@ permalink: /garden/dev_admin/biomarker/lactate-dehydrogenase/
 slug: lactate-dehydrogenase
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Lactate Dehydrogenase
 type: biomarker
-updated: '2026-02-08T19:45:44.435451Z'
+updated: '2026-02-09T05:40:20.666222Z'
 ---
 
-# Lactate Dehydrogenase
-
-## Overview
-Lactate Dehydrogenase (LDH) is a cytoplasmic enzyme present in virtually all cells throughout the body. It catalyzes the reversible conversion of lactate to pyruvate with the concomitant interconversion of NADH and NAD+, a crucial step in anaerobic glycolysis and gluconeogenesis. Because LDH is ubiquitous, elevated serum levels are a nonspecific but sensitive indicator of tissue damage or increased cellular turnover.
-
-LDH exists as five isoenzymes (LDH-1 through LDH-5), each a tetramer composed of varying ratios of H (heart) and M (muscle) subunits. The isoenzyme pattern can help localize the source of tissue damage: LDH-1 predominates in heart and red blood cells, LDH-2 in the reticuloendothelial system, LDH-3 in lung tissue, LDH-4 in kidney and pancreas, and LDH-5 in liver and skeletal muscle.
-
-Clinically, LDH is elevated in a wide range of conditions including hemolytic anemias, megaloblastic anemia, myocardial infarction, liver disease (hepatitis, cirrhosis), muscle injury, pulmonary embolism, and malignancies (particularly lymphoma, leukemia, and germ cell tumors). In oncology, LDH is used as a tumor marker and prognostic indicator, as elevated levels reflect high tumor burden and rapid cell turnover.
-
-## Reference Ranges
-
-| Range | Value | Interpretation |
-|-------|-------|----------------|
-| **Low** | <120 U/L | Uncommon; may indicate certain genetic variants |
-| **Normal** | 140-280 U/L | No significant tissue damage |
-| **High** | >280 U/L | Tissue damage, hemolysis, malignancy, or other cellular injury |
-| **Optimal** | 140-220 U/L | Healthy cellular turnover |
-
-## Testing Information
-- **Measurement Unit**: U/L
-- **Sample Type**: Serum (hemolysis-free specimen essential; hemolyzed samples give falsely elevated results)
-- **Fasting Required**: False
-- **Recommended Test Frequency**: As needed; serial monitoring in malignancy, hemolytic conditions, or liver disease
-
-## 💊 Supplements That Affect This Biomarker
-
-- [[N-Acetyl Cysteine]] - May reduce LDH levels in liver conditions through glutathione replenishment and hepatoprotection (mild, evidence level 3)
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[ldh]] - Lactate dehydrogenase total activity (enzymatic assay)
-
-## Relationships
-
-### Activates
-- → [[Alanine Transaminase]] (biomarker)
-
-### Correlations
-- → [[Alanine Transaminase]] (biomarker) - Both elevated in hepatocellular injury; ALT more liver-specific than LDH
-- → [[Aspartate Aminotransferase]] (biomarker) - Both elevated in liver and muscle damage; AST/LDH ratio helps differentiate etiologies
-- → [[Creatine Kinase]] (biomarker) - Both elevated in muscle injury and myocardial infarction; CK more specific for muscle
-
-## References
-- PMID:20424161 - Smilkstein MJ et al. N-Acetylcysteine in the treatment of hepatotoxicity. J Clin Gastroenterol. 2010.
-- PMID:16490595 - Heard KJ. Acetylcysteine for acetaminophen poisoning. N Engl J Med. 2008.
-- PMID:29434327 - Drent M et al. Usefulness of lactate dehydrogenase and its isoenzymes as indicators of lung damage or inflammation. Eur Respir J. 1996.
-- PMID:28373128 - Asghar U et al. The role of LDH as a tumor marker. Cancer Biomark. 2017.
-
-## Dataview Queries
-```dataview
-LIST
+{% raw %}
+<h1>Lactate Dehydrogenase</h1>
+<h2>Overview</h2>
+<p>Lactate Dehydrogenase (LDH) is a cytoplasmic enzyme present in virtually all cells throughout the body. It catalyzes the reversible conversion of lactate to pyruvate with the concomitant interconversion of NADH and NAD+, a crucial step in anaerobic glycolysis and gluconeogenesis. Because LDH is ubiquitous, elevated serum levels are a nonspecific but sensitive indicator of tissue damage or increased cellular turnover.</p>
+<p>LDH exists as five isoenzymes (LDH-1 through LDH-5), each a tetramer composed of varying ratios of H (heart) and M (muscle) subunits. The isoenzyme pattern can help localize the source of tissue damage: LDH-1 predominates in heart and red blood cells, LDH-2 in the reticuloendothelial system, LDH-3 in lung tissue, LDH-4 in kidney and pancreas, and LDH-5 in liver and skeletal muscle.</p>
+<p>Clinically, LDH is elevated in a wide range of conditions including hemolytic anemias, megaloblastic anemia, myocardial infarction, liver disease (hepatitis, cirrhosis), muscle injury, pulmonary embolism, and malignancies (particularly lymphoma, leukemia, and germ cell tumors). In oncology, LDH is used as a tumor marker and prognostic indicator, as elevated levels reflect high tumor burden and rapid cell turnover.</p>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Range</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Low</strong></td>
+<td>&lt;120 U/L</td>
+<td>Uncommon; may indicate certain genetic variants</td>
+</tr>
+<tr>
+<td><strong>Normal</strong></td>
+<td>140-280 U/L</td>
+<td>No significant tissue damage</td>
+</tr>
+<tr>
+<td><strong>High</strong></td>
+<td>&gt;280 U/L</td>
+<td>Tissue damage, hemolysis, malignancy, or other cellular injury</td>
+</tr>
+<tr>
+<td><strong>Optimal</strong></td>
+<td>140-220 U/L</td>
+<td>Healthy cellular turnover</td>
+</tr>
+</tbody>
+</table>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: U/L</li>
+<li><strong>Sample Type</strong>: Serum (hemolysis-free specimen essential; hemolyzed samples give falsely elevated results)</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: As needed; serial monitoring in malignancy, hemolytic conditions, or liver disease</li>
+</ul>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<ul>
+<li>[[N-Acetyl Cysteine]] - May reduce LDH levels in liver conditions through glutathione replenishment and hepatoprotection (mild, evidence level 3)</li>
+</ul>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[ldh]] - Lactate dehydrogenase total activity (enzymatic assay)</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Activates</h3>
+<ul>
+<li>→ [[Alanine Transaminase]] (biomarker)</li>
+</ul>
+<h3>Correlations</h3>
+<ul>
+<li>→ [[Alanine Transaminase]] (biomarker) - Both elevated in hepatocellular injury; ALT more liver-specific than LDH</li>
+<li>→ [[Aspartate Aminotransferase]] (biomarker) - Both elevated in liver and muscle damage; AST/LDH ratio helps differentiate etiologies</li>
+<li>→ [[Creatine Kinase]] (biomarker) - Both elevated in muscle injury and myocardial infarction; CK more specific for muscle</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>PMID:20424161 - Smilkstein MJ et al. N-Acetylcysteine in the treatment of hepatotoxicity. J Clin Gastroenterol. 2010.</li>
+<li>PMID:16490595 - Heard KJ. Acetylcysteine for acetaminophen poisoning. N Engl J Med. 2008.</li>
+<li>PMID:29434327 - Drent M et al. Usefulness of lactate dehydrogenase and its isoenzymes as indicators of lung damage or inflammation. Eur Respir J. 1996.</li>
+<li>PMID:28373128 - Asghar U et al. The role of LDH as a tumor marker. Cancer Biomark. 2017.</li>
+</ul>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Lactate Dehydrogenase]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

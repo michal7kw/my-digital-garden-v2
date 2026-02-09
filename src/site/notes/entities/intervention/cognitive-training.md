@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.536310Z'
+created: '2026-02-09T05:40:21.240046Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
@@ -14,318 +14,397 @@ tags:
 - cognition
 - prevention
 - brain-training
+templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-02-08T19:45:44.536310Z'
+updated: '2026-02-09T05:40:21.240046Z'
 ---
 
-# Cognitive Training
-
-## Overview
-Cognitive training involves structured practice on standardized tasks designed to challenge and improve specific cognitive functions such as memory, attention, processing speed, and executive function. Unlike general mental stimulation, cognitive training uses repeated practice with progressively increasing difficulty to drive neuroplasticity and functional improvement.
-
-## Types of Cognitive Training
-
-### Memory Training
-- Mnemonic strategies (method of loci, peg system)
-- Working memory exercises (n-back tasks)
-- Episodic memory practice
-- Name-face association training
-
-### Processing Speed Training
-- Useful Field of View (UFOV) training
-- Visual search tasks
-- Reaction time exercises
-- Dual-task paradigms
-
-### Executive Function Training
-- Task-switching exercises
-- Inhibition training (Go/No-Go, Stroop)
-- Planning and problem-solving
-- Cognitive flexibility tasks
-
-### Attention Training
-- Sustained attention exercises
-- Divided attention tasks
-- Selective attention (filtering)
-- Alertness training
-
-## Major Research Programs
-
-### ACTIVE Trial (Advanced Cognitive Training for Independent and Vital Elderly)
-- **Largest RCT**: 2,832 older adults
-- **Three training types**: Memory, reasoning, processing speed
-- **Duration**: 10 sessions over 5-6 weeks
-- **Results**:
-  - Improved trained abilities for 10+ years
-  - Processing speed training reduced dementia risk by 29%
-  - Limited transfer to everyday function initially
-
-### FINGER Trial (Finnish Geriatric Intervention Study)
-- **Multimodal approach**: Cognitive training + exercise + diet + vascular management
-- **Duration**: 2 years
-- **Results**: 25% improvement in overall cognition vs. control
-- **Landmark study** for dementia prevention
-
-### Cogmed Working Memory Training
-- Computer-based working memory training
-- Primarily studied in ADHD
-- Mixed results for older adults
-
-## Mechanisms of Benefit
-
-### Neuroplasticity
-- Strengthened synaptic connections
-- Enhanced neural efficiency
-- Possible neurogenesis (hippocampus)
-
-### Cognitive Reserve
-- Builds compensatory networks
-- Delays clinical manifestation of pathology
-- "Use it or lose it" principle
-
-### Transfer Effects
-- **Near transfer**: Improvement on similar tasks (established)
-- **Far transfer**: Improvement on different abilities (limited/debated)
-
-## Evidence Summary
-
-| Outcome | Evidence Level | Notes |
-|---------|----------------|-------|
-| Trained ability improvement | Strong | Consistent across studies |
-| Near transfer | Moderate | Related tasks improve |
-| Far transfer | Weak/Mixed | Limited generalization |
-| Dementia risk reduction | Moderate | ACTIVE processing speed data |
-| Everyday function | Weak-Moderate | Long-term ACTIVE follow-up |
-
-## Practical Implementation
-
-### Recommended Programs
-- **BrainHQ** (Posit Science): Research-backed; UFOV training
-- **Cognifit**: Various cognitive domains
-- **Lumosity**: Popular but less research
-- **Peak**: Mobile-friendly
-
-### Optimal Parameters
-- **Frequency**: 3-5 sessions per week
-- **Duration**: 30-60 minutes per session
-- **Total hours**: 10-20+ hours minimum
-- **Adaptive difficulty**: Essential for continued challenge
-
-### Home-Based Strategies
-- Learn a new language
-- Musical instrument practice
-- Strategy games (chess, bridge)
-- Novel complex hobbies
-
+{% raw %}
+<h1>Cognitive Training</h1>
+<h2>Overview</h2>
+<p>Cognitive training involves structured practice on standardized tasks designed to challenge and improve specific cognitive functions such as memory, attention, processing speed, and executive function. Unlike general mental stimulation, cognitive training uses repeated practice with progressively increasing difficulty to drive neuroplasticity and functional improvement.</p>
+<h2>Types of Cognitive Training</h2>
+<h3>Memory Training</h3>
+<ul>
+<li>Mnemonic strategies (method of loci, peg system)</li>
+<li>Working memory exercises (n-back tasks)</li>
+<li>Episodic memory practice</li>
+<li>Name-face association training</li>
+</ul>
+<h3>Processing Speed Training</h3>
+<ul>
+<li>Useful Field of View (UFOV) training</li>
+<li>Visual search tasks</li>
+<li>Reaction time exercises</li>
+<li>Dual-task paradigms</li>
+</ul>
+<h3>Executive Function Training</h3>
+<ul>
+<li>Task-switching exercises</li>
+<li>Inhibition training (Go/No-Go, Stroop)</li>
+<li>Planning and problem-solving</li>
+<li>Cognitive flexibility tasks</li>
+</ul>
+<h3>Attention Training</h3>
+<ul>
+<li>Sustained attention exercises</li>
+<li>Divided attention tasks</li>
+<li>Selective attention (filtering)</li>
+<li>Alertness training</li>
+</ul>
+<h2>Major Research Programs</h2>
+<h3>ACTIVE Trial (Advanced Cognitive Training for Independent and Vital Elderly)</h3>
+<ul>
+<li><strong>Largest RCT</strong>: 2,832 older adults</li>
+<li><strong>Three training types</strong>: Memory, reasoning, processing speed</li>
+<li><strong>Duration</strong>: 10 sessions over 5-6 weeks</li>
+<li><strong>Results</strong>:
+<ul>
+<li>Improved trained abilities for 10+ years</li>
+<li>Processing speed training reduced dementia risk by 29%</li>
+<li>Limited transfer to everyday function initially</li>
+</ul>
+</li>
+</ul>
+<h3>FINGER Trial (Finnish Geriatric Intervention Study)</h3>
+<ul>
+<li><strong>Multimodal approach</strong>: Cognitive training + exercise + diet + vascular management</li>
+<li><strong>Duration</strong>: 2 years</li>
+<li><strong>Results</strong>: 25% improvement in overall cognition vs. control</li>
+<li><strong>Landmark study</strong> for dementia prevention</li>
+</ul>
+<h3>Cogmed Working Memory Training</h3>
+<ul>
+<li>Computer-based working memory training</li>
+<li>Primarily studied in ADHD</li>
+<li>Mixed results for older adults</li>
+</ul>
+<h2>Mechanisms of Benefit</h2>
+<h3>Neuroplasticity</h3>
+<ul>
+<li>Strengthened synaptic connections</li>
+<li>Enhanced neural efficiency</li>
+<li>Possible neurogenesis (hippocampus)</li>
+</ul>
+<h3>Cognitive Reserve</h3>
+<ul>
+<li>Builds compensatory networks</li>
+<li>Delays clinical manifestation of pathology</li>
+<li>&quot;Use it or lose it&quot; principle</li>
+</ul>
+<h3>Transfer Effects</h3>
+<ul>
+<li><strong>Near transfer</strong>: Improvement on similar tasks (established)</li>
+<li><strong>Far transfer</strong>: Improvement on different abilities (limited/debated)</li>
+</ul>
+<h2>Evidence Summary</h2>
+<table>
+<thead>
+<tr>
+<th>Outcome</th>
+<th>Evidence Level</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trained ability improvement</td>
+<td>Strong</td>
+<td>Consistent across studies</td>
+</tr>
+<tr>
+<td>Near transfer</td>
+<td>Moderate</td>
+<td>Related tasks improve</td>
+</tr>
+<tr>
+<td>Far transfer</td>
+<td>Weak/Mixed</td>
+<td>Limited generalization</td>
+</tr>
+<tr>
+<td>Dementia risk reduction</td>
+<td>Moderate</td>
+<td>ACTIVE processing speed data</td>
+</tr>
+<tr>
+<td>Everyday function</td>
+<td>Weak-Moderate</td>
+<td>Long-term ACTIVE follow-up</td>
+</tr>
+</tbody>
+</table>
+<h2>Practical Implementation</h2>
+<h3>Recommended Programs</h3>
+<ul>
+<li><strong>BrainHQ</strong> (Posit Science): Research-backed; UFOV training</li>
+<li><strong>Cognifit</strong>: Various cognitive domains</li>
+<li><strong>Lumosity</strong>: Popular but less research</li>
+<li><strong>Peak</strong>: Mobile-friendly</li>
+</ul>
+<h3>Optimal Parameters</h3>
+<ul>
+<li><strong>Frequency</strong>: 3-5 sessions per week</li>
+<li><strong>Duration</strong>: 30-60 minutes per session</li>
+<li><strong>Total hours</strong>: 10-20+ hours minimum</li>
+<li><strong>Adaptive difficulty</strong>: Essential for continued challenge</li>
+</ul>
+<h3>Home-Based Strategies</h3>
+<ul>
+<li>Learn a new language</li>
+<li>Musical instrument practice</li>
+<li>Strategy games (chess, bridge)</li>
+<li>Novel complex hobbies</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Cognitive_Reserve]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Reserve]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Age-Related_Cognitive_Decline]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Age-Related_Cognitive_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Sleep_Optimization]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Sleep_Optimization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Prefrontal_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Prefrontal_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Mediterranean_Diet]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Mediterranean_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Parietal_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Parietal_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[Bacopa_Monnieri]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:05.000825'
+</code></pre>
+<ul>
+<li>→ [[Bacopa_Monnieri]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
 source: obsidian
-```
-- → [[ADHD]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[ADHD]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Age-Related_Cognitive_Decline]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Age-Related_Cognitive_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Cognitive_Reserve]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Reserve]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Parietal_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Parietal_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Bacopa_Monnieri]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Bacopa_Monnieri]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Sleep_Optimization]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Sleep_Optimization]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Exercise]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Exercise]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Mediterranean_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Mediterranean_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- ← [[Mild_Cognitive_Impairment]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:33.408670'
+</code></pre>
+<ul>
+<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
-```
-- ← [[BDNF]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.191066'
+</code></pre>
+<ul>
+<li>← [[BDNF]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.191066'
 source: obsidian
-```
-- ← [[Sleep_Optimization]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.863953'
+</code></pre>
+<ul>
+<li>← [[Sleep_Optimization]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
-```
-- ← [[Mediterranean_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.486140'
+</code></pre>
+<ul>
+<li>← [[Mediterranean_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
-```
-- → [[Prefrontal_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Prefrontal_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Hippocampus]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Hippocampus]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[BDNF]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[BDNF]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:47.835016'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Cognitive Conditions</h3>
+<ul>
+<li>→ [[Mild Cognitive Impairment]] (condition) - <em>May slow progression</em></li>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Cognitive reserve building</em></li>
+<li>→ [[ADHD]] (condition) - <em>Working memory training</em></li>
+<li>→ [[Age-Related Cognitive Decline]] (condition) - <em>Primary target</em></li>
+</ul>
+<h3>Biomarkers</h3>
+<ul>
+<li>→ [[BDNF]] (biomarker) - <em>May increase with training</em></li>
+<li>→ [[Cognitive Reserve]] (concept) - <em>Enhanced</em></li>
+</ul>
+<h3>Synergistic Interventions</h3>
+<ul>
+<li>→ [[Exercise]] (intervention) - <em>Synergistic effects</em></li>
+<li>→ [[Mediterranean Diet]] (intervention) - <em>FINGER trial combination</em></li>
+<li>→ [[Sleep Optimization]] (intervention) - <em>Consolidation support</em></li>
+</ul>
+<h3>Brain Regions</h3>
+<ul>
+<li>→ [[Hippocampus]] (organ) - <em>Memory training target</em></li>
+<li>→ [[Prefrontal Cortex]] (organ) - <em>Executive function</em></li>
+<li>→ [[Parietal Cortex]] (organ) - <em>Attention</em></li>
+</ul>
+<h3>Supplements</h3>
+<ul>
+<li>→ [[Omega-3 DHA]] (supplement) - <em>Supports neuroplasticity</em></li>
+<li>→ [[Bacopa Monnieri]] (supplement) - <em>Memory support</em></li>
+</ul>
+<h2>Limitations and Considerations</h2>
+<h3>Limited Far Transfer</h3>
+<ul>
+<li>Training chess doesn't improve memory</li>
+<li>Domain-specific benefits</li>
+<li>Real-world function transfer uncertain</li>
+</ul>
+<h3>Commercial Claims</h3>
+<ul>
+<li>Many brain training claims exaggerated</li>
+<li>FTC action against Lumosity (2016)</li>
+<li>Look for research-backed programs</li>
+</ul>
+<h3>Individual Variability</h3>
+<ul>
+<li>Response varies by baseline ability</li>
+<li>Motivation affects outcomes</li>
+<li>Higher education may show less benefit (ceiling)</li>
+</ul>
+<h3>Not a Substitute</h3>
+<ul>
+<li>Cannot reverse established dementia</li>
+<li>Part of comprehensive approach</li>
+<li>Best combined with exercise, social engagement</li>
+</ul>
+<h2>Recommendations</h2>
+<h3>For Dementia Prevention</h3>
+<ol>
+<li>Combine with physical exercise (strongest evidence)</li>
+<li>Focus on processing speed training (ACTIVE evidence)</li>
+<li>10-20 hours over several weeks</li>
+<li>Use adaptive difficulty programs</li>
+<li>Maintain novelty and challenge</li>
+</ol>
+<h3>For Healthy Aging</h3>
+<ol>
+<li>Regular engagement with challenging activities</li>
+<li>Learn new skills throughout life</li>
+<li>Social cognitive engagement</li>
+<li>Vary activities across cognitive domains</li>
+</ol>
+<h2>References</h2>
+<ol>
+<li><strong>ACTIVE Trial</strong>: Ball, K., et al. (2002). &quot;Effects of cognitive training interventions.&quot; <em>JAMA</em>.</li>
+<li><strong>Long-term ACTIVE</strong>: Rebok, G.W., et al. (2014). &quot;Ten-year effects of ACTIVE.&quot; <em>Journal of the American Geriatrics Society</em>.</li>
+<li><strong>FINGER Trial</strong>: Ngandu, T., et al. (2015). &quot;A 2-year multidomain intervention.&quot; <em>The Lancet</em>.</li>
+</ol>
 
-### Cognitive Conditions
-- → [[Mild Cognitive Impairment]] (condition) - *May slow progression*
-- → [[Alzheimer's Disease]] (condition) - *Cognitive reserve building*
-- → [[ADHD]] (condition) - *Working memory training*
-- → [[Age-Related Cognitive Decline]] (condition) - *Primary target*
-
-### Biomarkers
-- → [[BDNF]] (biomarker) - *May increase with training*
-- → [[Cognitive Reserve]] (concept) - *Enhanced*
-
-### Synergistic Interventions
-- → [[Exercise]] (intervention) - *Synergistic effects*
-- → [[Mediterranean Diet]] (intervention) - *FINGER trial combination*
-- → [[Sleep Optimization]] (intervention) - *Consolidation support*
-
-### Brain Regions
-- → [[Hippocampus]] (organ) - *Memory training target*
-- → [[Prefrontal Cortex]] (organ) - *Executive function*
-- → [[Parietal Cortex]] (organ) - *Attention*
-
-### Supplements
-- → [[Omega-3 DHA]] (supplement) - *Supports neuroplasticity*
-- → [[Bacopa Monnieri]] (supplement) - *Memory support*
-
-## Limitations and Considerations
-
-### Limited Far Transfer
-- Training chess doesn't improve memory
-- Domain-specific benefits
-- Real-world function transfer uncertain
-
-### Commercial Claims
-- Many brain training claims exaggerated
-- FTC action against Lumosity (2016)
-- Look for research-backed programs
-
-### Individual Variability
-- Response varies by baseline ability
-- Motivation affects outcomes
-- Higher education may show less benefit (ceiling)
-
-### Not a Substitute
-- Cannot reverse established dementia
-- Part of comprehensive approach
-- Best combined with exercise, social engagement
-
-## Recommendations
-
-### For Dementia Prevention
-1. Combine with physical exercise (strongest evidence)
-2. Focus on processing speed training (ACTIVE evidence)
-3. 10-20 hours over several weeks
-4. Use adaptive difficulty programs
-5. Maintain novelty and challenge
-
-### For Healthy Aging
-1. Regular engagement with challenging activities
-2. Learn new skills throughout life
-3. Social cognitive engagement
-4. Vary activities across cognitive domains
-
-## References
-1. **ACTIVE Trial**: Ball, K., et al. (2002). "Effects of cognitive training interventions." *JAMA*.
-2. **Long-term ACTIVE**: Rebok, G.W., et al. (2014). "Ten-year effects of ACTIVE." *Journal of the American Geriatrics Society*.
-3. **FINGER Trial**: Ngandu, T., et al. (2015). "A 2-year multidomain intervention." *The Lancet*.
+{% endraw %}

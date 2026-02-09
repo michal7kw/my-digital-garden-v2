@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.513540Z'
+created: '2026-02-09T05:40:21.124622Z'
 description: A very long-acting salt form of Penicillin G used for the treatment and
   prophylaxis of streptococcal infections.
 dg-home: false
@@ -12,36 +12,36 @@ tags:
 - antibiotic
 - intramuscular
 - long-acting
+templateEngineOverride: njk
 title: Benethamine Penicillin
 type: drug
-updated: '2026-02-08T19:45:44.513540Z'
+updated: '2026-02-09T05:40:21.124622Z'
 ---
 
-# Benethamine Penicillin
-
-## Overview
-
-Benethamine Penicillin is a long-acting injectable penicillin salt. Similar to Benzathine Penicillin, it provides a slow release of benzylpenicillin into the circulation, suitable for prophylaxis and treatment of highly susceptible organisms.
-
-## Indications
-
-- **Rheumatic Fever Prophylaxis.**
-- **Syphilis.**
-- **Streptococcal Pharyngitis.**
-
+{% raw %}
+<h1>Benethamine Penicillin</h1>
+<h2>Overview</h2>
+<p>Benethamine Penicillin is a long-acting injectable penicillin salt. Similar to Benzathine Penicillin, it provides a slow release of benzylpenicillin into the circulation, suitable for prophylaxis and treatment of highly susceptible organisms.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Rheumatic Fever Prophylaxis.</strong></li>
+<li><strong>Syphilis.</strong></li>
+<li><strong>Streptococcal Pharyngitis.</strong></li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Syphilis]]<br />
+TREATS_CONDITION::[[Tonsillitis]]<br />
+PREVENTS_CONDITION::[[Rheumatic Fever]]<br />
+ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]<br />
+DRUG_CONTAINS_COMPOUND::[[Penicillin G]]</p>
+<h2>References</h2>
+<ul>
+<li>DrugBank. Benethamine Penicillin.</li>
+<li>Martindale: The Complete Drug Reference.</li>
+</ul>
 
-TREATS_CONDITION::[[Syphilis]]
-TREATS_CONDITION::[[Tonsillitis]]
-PREVENTS_CONDITION::[[Rheumatic Fever]]
-ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]
-DRUG_CONTAINS_COMPOUND::[[Penicillin G]]
-
-## References
-
-- DrugBank. Benethamine Penicillin.
-- Martindale: The Complete Drug Reference.
+{% endraw %}

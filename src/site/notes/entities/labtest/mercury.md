@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.571824Z'
+created: '2026-02-09T05:40:21.427386Z'
 description: Mercury is a heavy metal that can be toxic in high amounts. Exposure
   most often happens from eating seafood high in methylmercury (tuna, swordfish, and
   shark), from breathing in mercury vapor from broken thermometers or fluorescent
@@ -16,159 +16,191 @@ tags:
 - labtest
 - toxicology
 - function-health
+templateEngineOverride: njk
 title: mercury
 type: labtest
-updated: '2026-02-08T19:45:44.571824Z'
+updated: '2026-02-09T05:40:21.427386Z'
 ---
 
-# Mercury
-
-## Overview
-Mercury is a heavy metal that can be toxic in high amounts. Exposure most often happens from eating seafood high in methylmercury (tuna, swordfish, and shark), from breathing in mercury vapor from broken thermometers or fluorescent bulbs, or less commonly from dental fillings. When levels get too high, mercury can affect the brain, kidneys, and nervous system, sometimes causing symptoms such as tremors or headaches. The test helps detect recent or ongoing exposure, so steps can be taken to lower risk or prevent further harm.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Toxicology |
-| **Subcategory** | Other || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Peripheral Neuropathy And Neurotoxicity]]
-- [[Cognitive Impairment]]
-- [[Chronic Kidney Disease]]
-- [[Hypertension And Cardiovascular Dysfunction]]
-- [[Immune Dysfunction]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Mercury</h1>
+<h2>Overview</h2>
+<p>Mercury is a heavy metal that can be toxic in high amounts. Exposure most often happens from eating seafood high in methylmercury (tuna, swordfish, and shark), from breathing in mercury vapor from broken thermometers or fluorescent bulbs, or less commonly from dental fillings. When levels get too high, mercury can affect the brain, kidneys, and nervous system, sometimes causing symptoms such as tremors or headaches. The test helps detect recent or ongoing exposure, so steps can be taken to lower risk or prevent further harm.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Toxicology</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Other</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Peripheral Neuropathy And Neurotoxicity]]</li>
+<li>[[Cognitive Impairment]]</li>
+<li>[[Chronic Kidney Disease]]</li>
+<li>[[Hypertension And Cardiovascular Dysfunction]]</li>
+<li>[[Immune Dysfunction]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Kidney_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[Peripheral_Neuropathy_And_Neurotoxicity]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[Peripheral_Neuropathy_And_Neurotoxicity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[Immune_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[Immune_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[Hypertension_And_Cardiovascular_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[Hypertension_And_Cardiovascular_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[Cognitive_Impairment]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Impairment]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[Cognitive_Impairment]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.260215'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Impairment]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
-```
-- → [[Hypertension_And_Cardiovascular_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.260215'
+</code></pre>
+<ul>
+<li>→ [[Hypertension_And_Cardiovascular_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
-```
-- → [[Immune_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.260215'
+</code></pre>
+<ul>
+<li>→ [[Immune_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
-```
-- → [[Peripheral_Neuropathy_And_Neurotoxicity]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.260215'
+</code></pre>
+<ul>
+<li>→ [[Peripheral_Neuropathy_And_Neurotoxicity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
-```
-- → [[Chronic_Kidney_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:57.260215'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
 source: obsidian
-```
-- ← [[forever_chemicals_pfas_exposure]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:04.374771'
+</code></pre>
+<ul>
+<li>← [[forever_chemicals_pfas_exposure]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:04.374771'
 source: obsidian
-```
-- ← [[extended_heavy_metals]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.172630'
+</code></pre>
+<ul>
+<li>← [[extended_heavy_metals]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.172630'
 source: obsidian
-```
-- ← [[bisphenol_a_bpa_exposure]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:02.222515'
+</code></pre>
+<ul>
+<li>← [[bisphenol_a_bpa_exposure]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.222515'
 source: obsidian
-```
-- → [[forever_chemicals_pfas_exposure]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[forever_chemicals_pfas_exposure]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[bisphenol_a_bpa_exposure]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[bisphenol_a_bpa_exposure]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- → [[extended_heavy_metals]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:21.160053'
+</code></pre>
+<ul>
+<li>→ [[extended_heavy_metals]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
 source: obsidian
-```
-- ← [[Chronic_Kidney_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:26.198940'
+</code></pre>
+<ul>
+<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
-```
-
-### May Detect
-- → [[Chronic_Kidney_Disease]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[forever_chemicals_pfas_exposure]] (labtestpanel)
-- → [[extended_heavy_metals]] (labtestpanel)
-- → [[bisphenol_a_bpa_exposure]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[forever_chemicals_pfas_exposure]] (labtestpanel)</li>
+<li>→ [[extended_heavy_metals]] (labtestpanel)</li>
+<li>→ [[bisphenol_a_bpa_exposure]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:33.915279</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:33.915279*
+{% endraw %}

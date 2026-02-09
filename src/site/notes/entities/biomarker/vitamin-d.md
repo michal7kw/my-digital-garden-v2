@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.449114Z'
+created: '2026-02-09T05:40:20.766473Z'
 description: Fat-soluble secosteroid hormone critical for calcium absorption, bone
   health, immune function, and numerous other physiological processes. Synthesized
   in skin upon sun exposure or obtained through supplementation.
@@ -10,166 +10,189 @@ permalink: /garden/dev_admin/biomarker/vitamin-d/
 slug: vitamin-d
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Vitamin D
 type: biomarker
-updated: '2026-02-08T19:45:44.449114Z'
+updated: '2026-02-09T05:40:20.766473Z'
 ---
 
-# Vitamin D
-
-## Overview
-Fat-soluble secosteroid hormone critical for calcium absorption, bone health, immune function, and numerous other physiological processes. Synthesized in skin upon sun exposure or obtained through supplementation.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Vitamin D</h1>
+<h2>Overview</h2>
+<p>Fat-soluble secosteroid hormone critical for calcium absorption, bone health, immune function, and numerous other physiological processes. Synthesized in skin upon sun exposure or obtained through supplementation.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[vitamin_d_25-hydroxy]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:25.252921'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[vitamin_d_25-hydroxy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:25.252921'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:25.252921'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:25.252921'
 source: obsidian
-```
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:25.252921'
+</code></pre>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:25.252921'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[PTH]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[PTH]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[Serum_Calcium]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[Serum_Calcium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[Fasting_Glucose]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[Vitamin_K2]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_K2]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Vitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[25-Hydroxyvitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[biomarker_log]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[biomarker_log]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Immune_System]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[hs-CRP]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[vitamin_d_25-hydroxy]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[vitamin_d_25-hydroxy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- ← [[Omega-3_DHA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.685849'
+</code></pre>
+<ul>
+<li>← [[Omega-3_DHA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
-```
-- ← [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:18.588212'
+</code></pre>
+<ul>
+<li>← [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
-```
-- → [[Vitamin_D]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.697116'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.697116'
 source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Bones]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Bones]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Muscles]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Muscles]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:42.448102'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
 source: obsidian
-```
-
-### Modulates Biomarker
-- → [[Fasting_Glucose]] (entity)
-```yaml
-effect_direction: modulates
+</code></pre>
+<h3>Modulates Biomarker</h3>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 evidence_level: 3
 last_modified: '2026-01-26T07:08:42.310187'
 magnitude: mild
@@ -181,12 +204,12 @@ source: obsidian
 study_references:
 - PMID:24047810
 - PMID:26431773
-```
-
-### Decreases Biomarker
-- → [[PTH]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>→ [[PTH]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:42.310187'
 magnitude: moderate
@@ -198,10 +221,11 @@ source: obsidian
 study_references:
 - PMID:17634462
 - PMID:21118827
-```
-- → [[hs-CRP]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 3
 last_modified: '2026-01-26T07:08:42.310187'
 magnitude: mild
@@ -214,12 +238,12 @@ source: obsidian
 study_references:
 - PMID:25631715
 - PMID:29215416
-```
-
-### Increases Biomarker
-- → [[25-Hydroxyvitamin_D]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
 last_modified: '2026-01-26T07:08:42.310187'
 magnitude: strong
@@ -232,10 +256,11 @@ source: obsidian
 study_references:
 - PMID:17634462
 - PMID:21646368
-```
-- → [[Serum_Calcium]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Serum_Calcium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:42.310187'
 magnitude: mild
@@ -246,282 +271,313 @@ population_context: deficient
 source: obsidian
 study_references:
 - PMID:17634462
-```
-
-### Improved By Supplement
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.520330'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian
-```
-
-### Synergistic With
-- → [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.208162'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.208162'
 source: obsidian
-```
-- → [[Vitamin_K2]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.182031'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_K2]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.182031'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:28.103508'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.103508'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:28.076731'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:28.052889'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.052889'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Muscles]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.827160'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Muscles]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.827160'
 source: obsidian
-```
-- → [[Immune_System]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.801524'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.801524'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.775939'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.775939'
 source: obsidian
-```
-- → [[Bones]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.751825'
+</code></pre>
+<ul>
+<li>→ [[Bones]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.751825'
 source: obsidian
-```
-
-### Requires Cofactor
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.154588'
+</code></pre>
+<h3>Requires Cofactor</h3>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.154588'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:27.882177'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.882177'
 source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:27.851922'
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.851922'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Has Biomarker
-- ← [[biomarker_log]] (entity)
-```yaml
-date_recorded: '2025-08-20'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Has Biomarker</h3>
+<ul>
+<li>← [[biomarker_log]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">date_recorded: '2025-08-20'
 isPersonal: true
 last_modified: '2026-01-19T08:42:06.076276'
 source: obsidian
 status: Optimal
 unit: ng/mL
 value: '45'
-```
-
-### Affects Organ
-- → [[Bones]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.751825'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Bones]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.751825'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.775939'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.775939'
 source: obsidian
-```
-- → [[Immune_System]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.801524'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.801524'
 source: obsidian
-```
-- → [[Muscles]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:27.827160'
+</code></pre>
+<ul>
+<li>→ [[Muscles]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.827160'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:27.851922'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.851922'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:27.882177'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.882177'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:28.052889'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.052889'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:28.076731'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:28.103508'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.103508'
 source: obsidian
-```
-
-### Requires Cofactor
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.154588'
+</code></pre>
+<h3>Requires Cofactor</h3>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.154588'
 source: obsidian
-```
-
-### Synergistic With
-- → [[Vitamin_K2]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.182031'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Vitamin_K2]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.182031'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.208162'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.208162'
 source: obsidian
-```
-
-### Related
-- → [[Vitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Vitamin_K2]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_K2]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[biomarker_log]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[biomarker_log]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Vitamin_D]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Immune_System]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[25-Hydroxyvitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Serum_Calcium]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Serum_Calcium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[PTH]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[PTH]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[hs-CRP]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Fasting_Glucose]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Muscles]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Muscles]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Bones]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Bones]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:31.497920'
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
 source: obsidian
-```
-
-### Increases Biomarker
-- → [[25-Hydroxyvitamin_D]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>→ [[25-Hydroxyvitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
 last_modified: '2026-01-19T09:07:20.742772'
 magnitude: strong
@@ -534,10 +590,11 @@ source: obsidian
 study_references:
 - PMID:17634462
 - PMID:21646368
-```
-- → [[Serum_Calcium]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Serum_Calcium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:20.742772'
 magnitude: mild
@@ -548,12 +605,12 @@ population_context: deficient
 source: obsidian
 study_references:
 - PMID:17634462
-```
-
-### Decreases Biomarker
-- → [[PTH]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>→ [[PTH]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:20.742772'
 magnitude: moderate
@@ -565,10 +622,11 @@ source: obsidian
 study_references:
 - PMID:17634462
 - PMID:21118827
-```
-- → [[hs-CRP]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 3
 last_modified: '2026-01-19T09:07:20.742772'
 magnitude: mild
@@ -581,12 +639,12 @@ source: obsidian
 study_references:
 - PMID:25631715
 - PMID:29215416
-```
-
-### Modulates Biomarker
-- → [[Fasting_Glucose]] (entity)
-```yaml
-effect_direction: modulates
+</code></pre>
+<h3>Modulates Biomarker</h3>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 evidence_level: 3
 last_modified: '2026-01-19T09:07:20.742772'
 magnitude: mild
@@ -598,31 +656,28 @@ source: obsidian
 study_references:
 - PMID:24047810
 - PMID:26431773
-```
-
-### Improved By Supplement
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:37.999694'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[vitamin d 25-hydroxy]] - Vitamin D (25-OH) measurement
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[vitamin d 25-hydroxy]] - Vitamin D (25-OH) measurement</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Vitamin D]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

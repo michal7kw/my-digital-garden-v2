@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.588030Z'
+created: '2026-02-09T05:40:21.505190Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -12,111 +12,135 @@ permalink: /garden/dev_admin/labtest/total-bilirubin/
 slug: total-bilirubin
 tags:
 - labtest
+templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-02-08T19:45:44.588030Z'
+updated: '2026-02-09T05:40:21.505190Z'
 ---
 
-# Total Bilirubin
-
-## Overview
-Tested twice a year Total bilirubin measures all forms of bilirubin, a yellow substance made when the body breaks down old red blood cells. Normally, the liver processes bilirubin so it can be removed from the body. Measuring total bilirubin provides a broad view of liver function and can help detect liver disease, bile duct problems, or other metabolic concerns.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Liver Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Liver Inflammation (Hepatitis, Cirrhosis)]]
-- [[Bile Duct Blockage (Gallstones, Tumors)]]
-- [[Hemolytic Anemia]]
-- [[Medication-Induced Liver Injury]]
-- [[Gilbert’S Syndrome]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Total Bilirubin</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Total bilirubin measures all forms of bilirubin, a yellow substance made when the body breaks down old red blood cells. Normally, the liver processes bilirubin so it can be removed from the body. Measuring total bilirubin provides a broad view of liver function and can help detect liver disease, bile duct problems, or other metabolic concerns.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Liver Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Liver Inflammation (Hepatitis, Cirrhosis)]]</li>
+<li>[[Bile Duct Blockage (Gallstones, Tumors)]]</li>
+<li>[[Hemolytic Anemia]]</li>
+<li>[[Medication-Induced Liver Injury]]</li>
+<li>[[Gilbert’S Syndrome]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Bile_Duct_Blockage_Gallstones_Tumors]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:27.407330'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Bile_Duct_Blockage_Gallstones_Tumors]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
-```
-- → [[Medication-Induced_Liver_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:27.407330'
+</code></pre>
+<ul>
+<li>→ [[Medication-Induced_Liver_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
-```
-- → [[GilbertS_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:27.407330'
+</code></pre>
+<ul>
+<li>→ [[GilbertS_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
-```
-- → [[Hemolytic_Anemia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:27.407330'
+</code></pre>
+<ul>
+<li>→ [[Hemolytic_Anemia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
-```
-- → [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:27.407330'
+</code></pre>
+<ul>
+<li>→ [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
 source: obsidian
-```
-- → [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:00.796920'
+</code></pre>
+<ul>
+<li>→ [[Liver_Inflammation_Hepatitis_Cirrhosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
-```
-- → [[Hemolytic_Anemia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:00.796920'
+</code></pre>
+<ul>
+<li>→ [[Hemolytic_Anemia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
-```
-- → [[Bile_Duct_Blockage_Gallstones_Tumors]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:00.796920'
+</code></pre>
+<ul>
+<li>→ [[Bile_Duct_Blockage_Gallstones_Tumors]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
-```
-- → [[Medication-Induced_Liver_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:00.796920'
+</code></pre>
+<ul>
+<li>→ [[Medication-Induced_Liver_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
-```
-- → [[GilbertS_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:00.796920'
+</code></pre>
+<ul>
+<li>→ [[GilbertS_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:43.217773</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:43.217773*
+{% endraw %}

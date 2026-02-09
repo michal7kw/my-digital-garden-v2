@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.504391Z'
+created: '2026-02-09T05:40:21.081362Z'
 description: A group of rare autoimmune diseases characterized by the hardening and
   tightening of the skin and connective tissues, often affecting internal organs and
   blood vessels.
@@ -14,77 +14,60 @@ tags:
 - autoimmune
 - dermatology
 - function-health
+templateEngineOverride: njk
 title: Scleroderma
 type: condition
-updated: '2026-02-08T19:45:44.504391Z'
+updated: '2026-02-09T05:40:21.081362Z'
 ---
 
-# Scleroderma
-
-## Overview
-A group of rare autoimmune diseases characterized by the hardening and tightening of the skin and connective tissues, often affecting internal organs and blood vessels.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Scleroderma</h1>
+<h2>Overview</h2>
+<p>A group of rare autoimmune diseases characterized by the hardening and tightening of the skin and connective tissues, often affecting internal organs and blood vessels.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Scleroderma]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Scleroderma]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:40.841230'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Scleroderma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.841230'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Scleroderma]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Scleroderma]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Scleroderma]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:37.315625'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Scleroderma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.315625'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

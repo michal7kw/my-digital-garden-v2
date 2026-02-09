@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.484495Z'
+created: '2026-02-09T05:40:20.993265Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
@@ -12,48 +12,50 @@ tags:
 - metabolic
 - genetic
 - rare_disease
+templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-02-08T19:45:44.484495Z'
+updated: '2026-02-09T05:40:20.993265Z'
 ---
 
-# Lecithin Cholesterol Acyltransferase Deficiency
-
-## Overview
-
-Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency is a rare autosomal recessive disorder. The LCAT enzyme is responsible for the formation of cholesteryl esters, a crucial step in the transport of cholesterol from tissues to the liver (reverse cholesterol transport). Deficiency leads to very low HDL levels and the accumulation of free cholesterol in tissues like the cornea and kidneys.
-
-## Variants
-
-1.  **Familial LCAT Deficiency (FLD):** Complete enzyme deficiency. Severe symptoms including kidney failure and anemia.
-2.  **Fish-Eye Disease (FED):** Partial enzyme deficiency. Primary symptom is corneal opacity; kidney function is usually preserved.
-
+{% raw %}
+<h1>Lecithin Cholesterol Acyltransferase Deficiency</h1>
+<h2>Overview</h2>
+<p>Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency is a rare autosomal recessive disorder. The LCAT enzyme is responsible for the formation of cholesteryl esters, a crucial step in the transport of cholesterol from tissues to the liver (reverse cholesterol transport). Deficiency leads to very low HDL levels and the accumulation of free cholesterol in tissues like the cornea and kidneys.</p>
+<h2>Variants</h2>
+<ol>
+<li><strong>Familial LCAT Deficiency (FLD):</strong> Complete enzyme deficiency. Severe symptoms including kidney failure and anemia.</li>
+<li><strong>Fish-Eye Disease (FED):</strong> Partial enzyme deficiency. Primary symptom is corneal opacity; kidney function is usually preserved.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Lecithin_Cholesterol_Acyltransferase_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:44.038345'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Lecithin_Cholesterol_Acyltransferase_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.038345'
 source: obsidian
-```
-- → [[Lecithin_Cholesterol_Acyltransferase_Deficiency]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:44.547098'
+</code></pre>
+<ul>
+<li>→ [[Lecithin_Cholesterol_Acyltransferase_Deficiency]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:44.547098'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Genetic Mutation]]<br />
+ASSOCIATED_WITH_GENE::[[LCAT]]<br />
+ASSOCIATED_WITH_CONDITION::[[Chronic Kidney Disease]]<br />
+ASSOCIATED_WITH_CONDITION::[[Anemia]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[HDL Cholesterol]] - Levels are extremely low.<br />
+AFFECTS_ORGAN::[[Eye]]<br />
+AFFECTS_ORGAN::[[Kidney]]</p>
+<h2>References</h2>
+<ul>
+<li>Kuivenhoven, J. A., et al. (1997). The role of LCAT in HDL metabolism.</li>
+<li>Norum, K. R., et al. (1989). Familial lecithin:cholesterol acyltransferase deficiency.</li>
+<li>Orphanet. LCAT Deficiency.</li>
+</ul>
 
-CAUSED_BY::[[Genetic Mutation]]
-ASSOCIATED_WITH_GENE::[[LCAT]]
-ASSOCIATED_WITH_CONDITION::[[Chronic Kidney Disease]]
-ASSOCIATED_WITH_CONDITION::[[Anemia]]
-ASSOCIATED_WITH_BIOMARKER::[[HDL Cholesterol]] - Levels are extremely low.
-AFFECTS_ORGAN::[[Eye]]
-AFFECTS_ORGAN::[[Kidney]]
-
-## References
-
-- Kuivenhoven, J. A., et al. (1997). The role of LCAT in HDL metabolism.
-- Norum, K. R., et al. (1989). Familial lecithin:cholesterol acyltransferase deficiency.
-- Orphanet. LCAT Deficiency.
+{% endraw %}

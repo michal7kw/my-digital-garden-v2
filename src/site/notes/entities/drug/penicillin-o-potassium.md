@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.522576Z'
+created: '2026-02-09T05:40:21.170745Z'
 description: A potassium salt of Penicillin O (Almecillin), an allylmercaptomethyl
   penicillin used as an alternative for patients with mild penicillin G sensitivity.
 dg-home: false
@@ -11,31 +11,31 @@ tags:
 - drug
 - antibiotic
 - penicillin
+templateEngineOverride: njk
 title: Penicillin O Potassium
 type: drug
-updated: '2026-02-08T19:45:44.522576Z'
+updated: '2026-02-09T05:40:21.170745Z'
 ---
 
-# Penicillin O Potassium
-
-## Overview
-
-Penicillin O (Almecillin) is a biosynthetic penicillin. It was developed as a less allergenic alternative to Penicillin G, though cross-reactivity can still occur. It is effective against gram-positive cocci.
-
-## Indications
-
-- **Bacterial Infections:** In patients with minor sensitivity to Penicillin G.
-
+{% raw %}
+<h1>Penicillin O Potassium</h1>
+<h2>Overview</h2>
+<p>Penicillin O (Almecillin) is a biosynthetic penicillin. It was developed as a less allergenic alternative to Penicillin G, though cross-reactivity can still occur. It is effective against gram-positive cocci.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Bacterial Infections:</strong> In patients with minor sensitivity to Penicillin G.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Bacterial Infections]]<br />
+ASSOCIATED_WITH_DRUG::[[Penicillin G]]</p>
+<h2>References</h2>
+<ul>
+<li>Volini, I. F., et al. (1950). Penicillin O: Toxicity, fatal dose, and clinical efficiency.</li>
+<li>Wikipedia. Almecillin.</li>
+</ul>
 
-TREATS_CONDITION::[[Bacterial Infections]]
-ASSOCIATED_WITH_DRUG::[[Penicillin G]]
-
-## References
-
-- Volini, I. F., et al. (1950). Penicillin O: Toxicity, fatal dose, and clinical efficiency.
-- Wikipedia. Almecillin.
+{% endraw %}

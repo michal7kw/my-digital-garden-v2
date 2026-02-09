@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.615592Z'
+created: '2026-02-09T05:40:21.827380Z'
 description: The nuclear factor kappa B (NF-κB) pathway is a central regulator of
   inflammation, immunity, and cell survival, controlling the expression of pro-inflammatory
   cytokines, chemokines, and anti-apoptotic genes.
@@ -14,45 +14,47 @@ tags:
 - inflammation
 - immune_system
 - transcription_factor
+templateEngineOverride: njk
 title: NF-kB Pathway
 type: pathway
-updated: '2026-02-08T19:45:44.615592Z'
+updated: '2026-02-09T05:40:21.827380Z'
 ---
 
-# NF-kB Pathway
-
-## Description
-
-The nuclear factor kappa B (NF-κB) pathway is a central regulator of inflammation, immunity, and cell survival, controlling the expression of pro-inflammatory cytokines, chemokines, and anti-apoptotic genes.
-
+{% raw %}
+<h1>NF-kB Pathway</h1>
+<h2>Description</h2>
+<p>The nuclear factor kappa B (NF-κB) pathway is a central regulator of inflammation, immunity, and cell survival, controlling the expression of pro-inflammatory cytokines, chemokines, and anti-apoptotic genes.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.581441'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.581441'
 source: obsidian
-```
-
-### Modulated By Pathway
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.520330'
+</code></pre>
+<h3>Modulated By Pathway</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Modulated By Pathway
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:37.999694'
+<h2>Relationships</h2>
+<h3>Modulated By Pathway</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
-```
-
-### Related
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:33:14.077283'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:14.077283'
 source: obsidian
-```
+</code></pre>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.597581Z'
+created: '2026-02-09T05:40:21.552882Z'
 description: The brain's primary excitatory neurotransmitter, essential for learning,
   memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate
   can cause excitotoxicity and neuronal damage.
@@ -15,102 +15,107 @@ tags:
 - learning
 - memory
 - plasticity
+templateEngineOverride: njk
 title: Glutamate
 type: neurotransmitter
-updated: '2026-02-08T19:45:44.597581Z'
+updated: '2026-02-09T05:40:21.552882Z'
 ---
 
-# Glutamate
-
-## Overview
-The brain's primary excitatory neurotransmitter, essential for learning, memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate can cause excitotoxicity and neuronal damage.
-
-
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Glutamate</h1>
+<h2>Overview</h2>
+<p>The brain's primary excitatory neurotransmitter, essential for learning, memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate can cause excitotoxicity and neuronal damage.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Memantine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:35.159786'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Memantine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.159786'
 source: obsidian
-```
-- ← [[Memantine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:42.400780'
+</code></pre>
+<ul>
+<li>← [[Memantine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.400780'
 source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.175951'
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.175951'
 source: obsidian
-```
-- ← [[L-Theanine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:37.804747'
+</code></pre>
+<ul>
+<li>← [[L-Theanine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.804747'
 source: obsidian
-```
-- → [[L-Theanine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:07.024305'
+</code></pre>
+<ul>
+<li>→ [[L-Theanine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.024305'
 source: obsidian
-```
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:07.024305'
+</code></pre>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.024305'
 source: obsidian
-```
-
-### Modulates Neurotransmitter
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.347484'
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.347484'
 source: obsidian
-```
-- ← [[L-Theanine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:21.283345'
+</code></pre>
+<ul>
+<li>← [[L-Theanine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.283345'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Modulates Neurotransmitter
-- ← [[L-Theanine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:21.283345'
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>← [[L-Theanine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.283345'
 source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.347484'
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.347484'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.200981'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[L-Theanine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.200981'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[L-Theanine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:05.375306'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.800458'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:32:58.200981'
-source: obsidian
-```
-- → [[L-Theanine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:32:58.200981'
-source: obsidian
-```
-- ← [[L-Theanine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:05.375306'
-source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:10.800458'
-source: obsidian
-```
+{% endraw %}

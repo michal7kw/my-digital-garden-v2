@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.490373Z'
+created: '2026-02-09T05:40:21.025845Z'
 description: Non-Alcoholic Fatty Liver Disease, characterized by excessive fat accumulation
   in the liver not caused by alcohol consumption.
 dg-home: false
@@ -12,111 +12,98 @@ tags:
 - metabolic
 - hepatic
 - obesity
+templateEngineOverride: njk
 title: NAFLD
 type: condition
-updated: '2026-02-08T19:45:44.490373Z'
+updated: '2026-02-09T05:40:21.025845Z'
 ---
 
-# NAFLD
-
-## Overview
-Non-Alcoholic Fatty Liver Disease, characterized by excessive fat accumulation in the liver not caused by alcohol consumption.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>NAFLD</h1>
+<h2>Overview</h2>
+<p>Non-Alcoholic Fatty Liver Disease, characterized by excessive fat accumulation in the liver not caused by alcohol consumption.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[NAFLD]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:27.704877'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.704877'
 source: obsidian
-```
-- → [[NAFLD]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:27.704877'
+</code></pre>
+<ul>
+<li>→ [[NAFLD]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.704877'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[NAFLD]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[NAFLD]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:34.088445'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.088445'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
-```
-- → [[NAFLD]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:34.088445'
+</code></pre>
+<ul>
+<li>→ [[NAFLD]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.088445'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

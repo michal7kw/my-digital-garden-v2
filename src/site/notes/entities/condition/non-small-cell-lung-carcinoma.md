@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.491267Z'
+created: '2026-02-09T05:40:21.029369Z'
 description: The most common type of lung cancer, accounting for about 85% of cases,
   characterized by slower growth and spread compared to small cell lung cancer.
 dg-home: false
@@ -12,50 +12,52 @@ tags:
 - oncology
 - lung
 - carcinoma
+templateEngineOverride: njk
 title: Non-Small Cell Lung Carcinoma
 type: condition
-updated: '2026-02-08T19:45:44.491267Z'
+updated: '2026-02-09T05:40:21.029369Z'
 ---
 
-# Non-Small Cell Lung Carcinoma
-
-## Overview
-
-Non-Small Cell Lung Carcinoma (NSCLC) is a group of lung cancers that behave similarly, distinguished from small cell lung cancer (SCLC) by cell size and growth rate. It is the leading cause of cancer death worldwide but has better survival rates than SCLC if detected early.
-
-## Types
-
-1.  **Adenocarcinoma:** Starts in mucus-producing cells, usually in the outer parts of the lung. Most common type in non-smokers.
-2.  **Squamous Cell Carcinoma:** Starts in squamous cells lining the airways, usually in the central part of the lung. Strongly linked to smoking.
-3.  **Large Cell Carcinoma:** Can appear in any part of the lung and tends to grow and spread quickly.
-
+{% raw %}
+<h1>Non-Small Cell Lung Carcinoma</h1>
+<h2>Overview</h2>
+<p>Non-Small Cell Lung Carcinoma (NSCLC) is a group of lung cancers that behave similarly, distinguished from small cell lung cancer (SCLC) by cell size and growth rate. It is the leading cause of cancer death worldwide but has better survival rates than SCLC if detected early.</p>
+<h2>Types</h2>
+<ol>
+<li><strong>Adenocarcinoma:</strong> Starts in mucus-producing cells, usually in the outer parts of the lung. Most common type in non-smokers.</li>
+<li><strong>Squamous Cell Carcinoma:</strong> Starts in squamous cells lining the airways, usually in the central part of the lung. Strongly linked to smoking.</li>
+<li><strong>Large Cell Carcinoma:</strong> Can appear in any part of the lung and tends to grow and spread quickly.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Non-Small_Cell_Lung_Carcinoma]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:48.131933'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Non-Small_Cell_Lung_Carcinoma]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.131933'
 source: obsidian
-```
-- → [[Non-Small_Cell_Lung_Carcinoma]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:51.138347'
+</code></pre>
+<ul>
+<li>→ [[Non-Small_Cell_Lung_Carcinoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.138347'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_GENE::[[EGFR]] - Common mutation target for therapy.<br />
+ASSOCIATED_WITH_GENE::[[ALK]] - Common mutation target.<br />
+ASSOCIATED_WITH_GENE::[[KRAS]]<br />
+CAUSED_BY::[[Tobacco Smoking]]<br />
+CAUSED_BY::[[Radon]]<br />
+AFFECTS_ORGAN::[[Lung]]<br />
+TREATED_BY_DRUG::[[Cisplatin]]<br />
+TREATED_BY_DRUG::[[Pembrolizumab]]</p>
+<h2>References</h2>
+<ul>
+<li>National Comprehensive Cancer Network (NCCN). Guidelines for Non-Small Cell Lung Cancer.</li>
+<li>American Cancer Society. What Is Non-Small Cell Lung Cancer?</li>
+<li>Herbst, R. S., et al. (2018). The biology and management of non-small cell lung cancer. Nature.</li>
+</ul>
 
-ASSOCIATED_WITH_GENE::[[EGFR]] - Common mutation target for therapy.
-ASSOCIATED_WITH_GENE::[[ALK]] - Common mutation target.
-ASSOCIATED_WITH_GENE::[[KRAS]]
-CAUSED_BY::[[Tobacco Smoking]]
-CAUSED_BY::[[Radon]]
-AFFECTS_ORGAN::[[Lung]]
-TREATED_BY_DRUG::[[Cisplatin]]
-TREATED_BY_DRUG::[[Pembrolizumab]]
-
-## References
-
-- National Comprehensive Cancer Network (NCCN). Guidelines for Non-Small Cell Lung Cancer.
-- American Cancer Society. What Is Non-Small Cell Lung Cancer?
-- Herbst, R. S., et al. (2018). The biology and management of non-small cell lung cancer. Nature.
+{% endraw %}

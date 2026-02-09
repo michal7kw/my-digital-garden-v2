@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.517692Z'
+created: '2026-02-09T05:40:21.151922Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) for pain, fever, and inflammation.
   Reversibly inhibits COX-1 and COX-2 enzymes. One of the most widely used OTC pain
   relievers.
@@ -15,42 +15,25 @@ tags:
 - analgesic
 - otc
 - prescription
+templateEngineOverride: njk
 title: Ibuprofen
 type: drug
-updated: '2026-02-08T19:45:44.517692Z'
+updated: '2026-02-09T05:40:21.151922Z'
 ---
 
-# Ibuprofen
-
-## Overview
-Nonsteroidal anti-inflammatory drug (NSAID) for pain, fever, and inflammation. Reversibly inhibits COX-1 and COX-2 enzymes. One of the most widely used OTC pain relievers.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Ibuprofen</h1>
+<h2>Overview</h2>
+<p>Nonsteroidal anti-inflammatory drug (NSAID) for pain, fever, and inflammation. Reversibly inhibits COX-1 and COX-2 enzymes. One of the most widely used OTC pain relievers.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

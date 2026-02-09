@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.583118Z'
+created: '2026-02-09T05:40:21.482617Z'
 description: Selenium test measures this essential trace mineral in blood. Selenium
   is a critical component of selenoproteins including glutathione peroxidases, thioredoxin
   reductases, and iodothyronine deiodinases. It plays vital roles in antioxidant defense,
@@ -11,66 +11,123 @@ permalink: /garden/dev_admin/labtest/selenium/
 slug: selenium
 tags:
 - labtest
+templateEngineOverride: njk
 title: selenium
 type: labtest
-updated: '2026-02-08T19:45:44.583118Z'
+updated: '2026-02-09T05:40:21.482617Z'
 ---
 
-# Selenium (Serum/Plasma)
+{% raw %}
+<h1>Selenium (Serum/Plasma)</h1>
+<h2>Overview</h2>
+<p>Selenium is an essential trace mineral that is incorporated into selenoproteins, which perform critical biological functions. The 25 known human selenoproteins include glutathione peroxidases (GPx, antioxidant defense), thioredoxin reductases (TrxR, redox regulation), iodothyronine deiodinases (thyroid hormone activation/inactivation), and selenoprotein P (selenium transport and antioxidant).</p>
+<p>Selenium status is particularly important for thyroid function (the thyroid gland has the highest selenium concentration per gram of tissue), immune defense, and cancer prevention. Both deficiency and excess are harmful, following a U-shaped risk curve for many health outcomes.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Minerals/Trace Elements</td>
+</tr>
+<tr>
+<td><strong>Test Type</strong></td>
+<td>Standard</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood (serum or plasma)</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Fasting Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>HSA Eligible</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>FSA Eligible</strong></td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Range</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Deficient</strong></td>
+<td>&lt;70 mcg/L</td>
+<td>Increased disease risk</td>
+</tr>
+<tr>
+<td><strong>Suboptimal</strong></td>
+<td>70-90 mcg/L</td>
+<td>May benefit from supplementation</td>
+</tr>
+<tr>
+<td><strong>Normal</strong></td>
+<td>90-150 mcg/L</td>
+<td>Adequate selenium status</td>
+</tr>
+<tr>
+<td><strong>Optimal</strong></td>
+<td>100-130 mcg/L</td>
+<td>Optimal for selenoprotein function</td>
+</tr>
+<tr>
+<td><strong>High</strong></td>
+<td>&gt;150 mcg/L</td>
+<td>Risk of toxicity (selenosis)</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Thyroid Disease]]</li>
+<li>[[Hashimoto's Thyroiditis]]</li>
+<li>[[Selenium Deficiency]]</li>
+<li>[[Keshan Disease]]</li>
+<li>[[Kashin-Beck Disease]]</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Measures</h3>
+<ul>
+<li>→ [[Selenium]] (biomarker) - if exists</li>
+</ul>
+<h3>Related Tests</h3>
+<ul>
+<li>→ [[thyroid stimulating hormone tsh]] (labtest) - Selenium critical for thyroid</li>
+<li>→ [[thyroid peroxidase antibodies tpo]] (labtest) - Selenium may reduce TPO antibodies</li>
+<li>→ [[zinc serum]] (labtest) - Often tested together as trace minerals</li>
+</ul>
+<h2>Notes</h2>
+<ul>
+<li>Geography matters: soil selenium varies dramatically by region</li>
+<li>Brazil nuts are the richest dietary source (1-2 nuts = daily requirement)</li>
+<li>Selenomethionine (organic) vs selenite (inorganic) have different absorption</li>
+<li>Toxicity (selenosis): &gt;400 mcg/day chronically; symptoms include garlic breath, brittle nails</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-02-07</em></p>
 
-## Overview
-Selenium is an essential trace mineral that is incorporated into selenoproteins, which perform critical biological functions. The 25 known human selenoproteins include glutathione peroxidases (GPx, antioxidant defense), thioredoxin reductases (TrxR, redox regulation), iodothyronine deiodinases (thyroid hormone activation/inactivation), and selenoprotein P (selenium transport and antioxidant).
-
-Selenium status is particularly important for thyroid function (the thyroid gland has the highest selenium concentration per gram of tissue), immune defense, and cancer prevention. Both deficiency and excess are harmful, following a U-shaped risk curve for many health outcomes.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Minerals/Trace Elements |
-| **Test Type** | Standard |
-| **Sample Type** | Blood (serum or plasma) |
-| **Collection Method** | Venipuncture |
-| **Fasting Required** | No |
-| **HSA Eligible** | Yes |
-| **FSA Eligible** | Yes |
-
-## Reference Ranges
-
-| Range | Value | Interpretation |
-|-------|-------|----------------|
-| **Deficient** | <70 mcg/L | Increased disease risk |
-| **Suboptimal** | 70-90 mcg/L | May benefit from supplementation |
-| **Normal** | 90-150 mcg/L | Adequate selenium status |
-| **Optimal** | 100-130 mcg/L | Optimal for selenoprotein function |
-| **High** | >150 mcg/L | Risk of toxicity (selenosis) |
-
-## Recommended For
-
-### Conditions
-Useful for monitoring or diagnosing:
-- [[Thyroid Disease]]
-- [[Hashimoto's Thyroiditis]]
-- [[Selenium Deficiency]]
-- [[Keshan Disease]]
-- [[Kashin-Beck Disease]]
-
-## Relationships
-### Measures
-- → [[Selenium]] (biomarker) - if exists
-
-### Related Tests
-- → [[thyroid stimulating hormone tsh]] (labtest) - Selenium critical for thyroid
-- → [[thyroid peroxidase antibodies tpo]] (labtest) - Selenium may reduce TPO antibodies
-- → [[zinc serum]] (labtest) - Often tested together as trace minerals
-
-## Notes
-- Geography matters: soil selenium varies dramatically by region
-- Brazil nuts are the richest dietary source (1-2 nuts = daily requirement)
-- Selenomethionine (organic) vs selenite (inorganic) have different absorption
-- Toxicity (selenosis): >400 mcg/day chronically; symptoms include garlic breath, brittle nails
-
----
-*Last Updated: 2026-02-07*
+{% endraw %}

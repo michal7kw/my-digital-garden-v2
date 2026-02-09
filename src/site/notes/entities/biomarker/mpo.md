@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.436825Z'
+created: '2026-02-09T05:40:20.673622Z'
 description: Myeloperoxidase is a heme peroxidase enzyme released by activated neutrophils
   and monocytes. Elevated levels indicate oxidative stress and vascular inflammation,
   independently predicting acute coronary events and heart failure outcomes.
@@ -10,69 +10,94 @@ permalink: /garden/dev_admin/biomarker/mpo/
 slug: mpo
 tags:
 - biomarker
+templateEngineOverride: njk
 title: MPO
 type: biomarker
-updated: '2026-02-08T19:45:44.436825Z'
+updated: '2026-02-09T05:40:20.673622Z'
 ---
 
-# MPO
-
-## Overview
-Myeloperoxidase (MPO) is a heme-containing enzyme stored in the azurophilic granules of neutrophils and monocytes. Upon leukocyte activation, MPO is released into the extracellular space where it catalyzes the formation of reactive oxidant species, particularly hypochlorous acid (HOCl), from hydrogen peroxide and chloride ions.
-
-In the context of cardiovascular disease, MPO plays a central role in LDL oxidation, HDL dysfunction, and endothelial damage. It generates oxidized lipids that promote foam cell formation and directly impairs the cholesterol efflux capacity of HDL. MPO also consumes nitric oxide, contributing to endothelial dysfunction and vasoconstriction.
-
-Clinically, elevated plasma MPO levels have been shown to predict risk of acute coronary syndromes in patients presenting with chest pain, even before troponin elevation occurs. It is particularly useful as an early marker of plaque vulnerability and has been associated with adverse outcomes in heart failure.
-
-## Reference Ranges
-
-| Range | Value | Interpretation |
-|-------|-------|----------------|
-| **Low Risk** | <350 pmol/L | Low vascular oxidative stress |
-| **Moderate Risk** | 350-640 pmol/L | Moderate oxidative burden |
-| **High Risk** | >640 pmol/L | Significant vascular inflammation |
-| **Optimal** | <350 pmol/L | Target for cardiovascular health |
-
-## Testing Information
-- **Measurement Unit**: pmol/L
-- **Sample Type**: Blood (plasma, EDTA tube)
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Annually or as indicated for cardiovascular risk
-
-## 💊 Supplements That Affect This Biomarker
-
-- [[NAC]] - May decrease MPO activity through antioxidant mechanisms (moderate effect, evidence level 3)
-- [[Vitamin C]] - Scavenges MPO-derived oxidants (mild effect, evidence level 3)
-- [[Omega-3 Fatty Acids]] - May reduce neutrophil activation and MPO release (mild effect, evidence level 3)
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- MPO blood test - Plasma myeloperoxidase measurement (CardioMPO assay)
-
-## Relationships
-
-### Correlations
-- → [[Oxidized LDL]] (biomarker) - MPO directly oxidizes LDL particles
-- → [[Lp-PLA2]] (biomarker) - Both indicate vascular-specific inflammation
-- → [[Hs Crp]] (biomarker) - Complementary inflammatory markers
-- → [[White Blood Cell Count]] (biomarker) - MPO released from activated leukocytes
-- → [[Troponin]] (biomarker) - MPO may rise before troponin in ACS
-
-### Related Conditions
-- → [[Cardiovascular Disease]] (condition)
-- → [[Heart Failure]] (condition)
-- → [[Atherosclerosis]] (condition)
-
-## References
-- PMID:16129825 - Brennan et al. (2003) MPO predicts coronary events in patients with chest pain
-- PMID:21896474 - Nicholls & Hazen (2009) Myeloperoxidase and cardiovascular disease
-- PMID:19632115 - Heslop et al. (2010) MPO and C-reactive protein as predictors of cardiovascular risk
-
-## Dataview Queries
-```dataview
-LIST
+{% raw %}
+<h1>MPO</h1>
+<h2>Overview</h2>
+<p>Myeloperoxidase (MPO) is a heme-containing enzyme stored in the azurophilic granules of neutrophils and monocytes. Upon leukocyte activation, MPO is released into the extracellular space where it catalyzes the formation of reactive oxidant species, particularly hypochlorous acid (HOCl), from hydrogen peroxide and chloride ions.</p>
+<p>In the context of cardiovascular disease, MPO plays a central role in LDL oxidation, HDL dysfunction, and endothelial damage. It generates oxidized lipids that promote foam cell formation and directly impairs the cholesterol efflux capacity of HDL. MPO also consumes nitric oxide, contributing to endothelial dysfunction and vasoconstriction.</p>
+<p>Clinically, elevated plasma MPO levels have been shown to predict risk of acute coronary syndromes in patients presenting with chest pain, even before troponin elevation occurs. It is particularly useful as an early marker of plaque vulnerability and has been associated with adverse outcomes in heart failure.</p>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Range</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Low Risk</strong></td>
+<td>&lt;350 pmol/L</td>
+<td>Low vascular oxidative stress</td>
+</tr>
+<tr>
+<td><strong>Moderate Risk</strong></td>
+<td>350-640 pmol/L</td>
+<td>Moderate oxidative burden</td>
+</tr>
+<tr>
+<td><strong>High Risk</strong></td>
+<td>&gt;640 pmol/L</td>
+<td>Significant vascular inflammation</td>
+</tr>
+<tr>
+<td><strong>Optimal</strong></td>
+<td>&lt;350 pmol/L</td>
+<td>Target for cardiovascular health</td>
+</tr>
+</tbody>
+</table>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: pmol/L</li>
+<li><strong>Sample Type</strong>: Blood (plasma, EDTA tube)</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Annually or as indicated for cardiovascular risk</li>
+</ul>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<ul>
+<li>[[NAC]] - May decrease MPO activity through antioxidant mechanisms (moderate effect, evidence level 3)</li>
+<li>[[Vitamin C]] - Scavenges MPO-derived oxidants (mild effect, evidence level 3)</li>
+<li>[[Omega-3 Fatty Acids]] - May reduce neutrophil activation and MPO release (mild effect, evidence level 3)</li>
+</ul>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>MPO blood test - Plasma myeloperoxidase measurement (CardioMPO assay)</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Correlations</h3>
+<ul>
+<li>→ [[Oxidized LDL]] (biomarker) - MPO directly oxidizes LDL particles</li>
+<li>→ [[Lp-PLA2]] (biomarker) - Both indicate vascular-specific inflammation</li>
+<li>→ [[Hs Crp]] (biomarker) - Complementary inflammatory markers</li>
+<li>→ [[White Blood Cell Count]] (biomarker) - MPO released from activated leukocytes</li>
+<li>→ [[Troponin]] (biomarker) - MPO may rise before troponin in ACS</li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Cardiovascular Disease]] (condition)</li>
+<li>→ [[Heart Failure]] (condition)</li>
+<li>→ [[Atherosclerosis]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>PMID:16129825 - Brennan et al. (2003) MPO predicts coronary events in patients with chest pain</li>
+<li>PMID:21896474 - Nicholls &amp; Hazen (2009) Myeloperoxidase and cardiovascular disease</li>
+<li>PMID:19632115 - Heslop et al. (2010) MPO and C-reactive protein as predictors of cardiovascular risk</li>
+</ul>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[MPO]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.427695Z'
+created: '2026-02-09T05:40:20.622456Z'
 description: Continuous, passive monitoring of cognition, motor function, and behavior
   using smartphones, wearables, and digital sensors. Enable early detection and real-world
   tracking of neurodegenerative disease progression.
@@ -15,256 +15,413 @@ tags:
 - cutting-edge
 - monitoring
 - smartphone
+templateEngineOverride: njk
 title: Digital Biomarkers for Neurodegeneration
 type: biomarker
-updated: '2026-02-08T19:45:44.427695Z'
+updated: '2026-02-09T05:40:20.622456Z'
 ---
 
-# Digital Biomarkers for Neurodegeneration
-
-## Overview
-Digital biomarkers represent a paradigm shift from episodic clinical assessments to continuous, real-world monitoring of neurological function. Using smartphones, wearables, and specialized sensors, these tools capture motor function (gait, tremor), cognition (typing patterns, app usage), speech, and behavior in natural settings. They promise earlier detection, more sensitive progression tracking, and reduced patient burden in clinical trials.
-
-## Key Domains and Technologies
-
-### Motor Function
-| Modality | Measurement | Diseases | Technology |
-|----------|-------------|----------|------------|
-| Gait | Speed, stride, variability | PD, AD, MS | Smartphone accelerometer, smart insoles |
-| Tremor | Frequency, amplitude | PD, ET | Smartwatch, accelerometer |
-| Bradykinesia | Tap speed, movement amplitude | PD | Smartphone tap tests |
-| Balance | Sway, fall risk | PD, MS | Wearable sensors |
-| Fine motor | Typing patterns, drawing | PD, AD | Smartphone apps |
-
-### Cognitive Function
-| Modality | Measurement | Diseases | Technology |
-|----------|-------------|----------|------------|
-| Typing | Speed, errors, patterns | AD, MCI | Smartphone keyboard |
-| App usage | Navigation, hesitation | AD | Passive smartphone monitoring |
-| Voice | Speech rate, pauses, complexity | PD, AD, ALS | Voice analysis apps |
-| Reading | Eye tracking, comprehension | AD | Specialized devices |
-
-### Sleep and Activity
-| Modality | Measurement | Diseases | Technology |
-|----------|-------------|----------|------------|
-| Sleep patterns | Duration, fragmentation, RBD | PD, AD | Wearables, mattress sensors |
-| Activity levels | Steps, sedentary time | All | Fitness trackers |
-| Circadian rhythm | Rest-activity patterns | AD | Actigraphy |
-
-### Speech and Language
-| Feature | Detection | Diseases |
-|---------|-----------|----------|
-| Pause patterns | Cognitive slowing | AD |
-| Articulation | Dysarthria | PD, ALS, HD |
-| Semantic content | Language impairment | AD, FTD |
-| Voice quality | Hypophonia | PD |
-
-## Disease-Specific Applications
-
-### Parkinson's Disease
-**Most Advanced Digital Biomarker Application**
-- Verily/Lilly: Smartwatch tremor/bradykinesia
-- Apple Watch PD kit: Movement tracking
-- MJFF Wearable sensors initiative
-- FDA Breakthrough: Several designations
-
-**Key Measures**:
-- Finger tapping frequency and amplitude
-- Gait velocity and arm swing asymmetry
-- Tremor severity
-- On/off state fluctuations
-
-### Alzheimer's Disease
-**Emerging Applications**:
-- GPS wandering detection
-- Smartphone usage patterns
-- Typing dynamics
-- Speech analysis
-- Sleep fragmentation
-
-**Challenges**:
-- Cognition harder to measure passively
-- Less motor features than PD
-- Compliance issues as disease advances
-
-### Multiple Sclerosis
-- Walking speed monitoring
-- Fatigue patterns
-- Hand function (smartphone tests)
-- Relapse detection
-
-### ALS
-- Speech decline tracking
-- Typing speed decline
-- Respiratory monitoring
-- Muscle function apps
-
-## Validation Status
-
-### FDA Recognized/Breakthrough
-| Tool | Indication | Status |
-|------|------------|--------|
-| Various PD wearables | Motor fluctuation monitoring | Breakthrough designations |
-| Speech analysis tools | ALS progression | Research/validation |
-| Gait sensors | Fall prediction | 510(k) cleared products |
-
-### Clinical Trial Use
-- Digital endpoints in >100 neurology trials
-- Pharma partnerships (Roche, Lilly, Biogen)
-- Remote monitoring during COVID accelerated adoption
-- Regulatory acceptance growing
-
-## Advantages and Limitations
-
-### Advantages
-- **Continuous monitoring** (vs. episodic clinic visits)
-- **Real-world data** (natural environment)
-- **Sensitive** (detect subtle changes)
-- **Remote** (reduce travel burden)
-- **Objective** (less rater variability)
-- **Scalable** (large trials, population screening)
-
-### Limitations
-- **Validation** (still early for many applications)
-- **Standardization** (device/algorithm variability)
-- **Compliance** (patients must use devices)
-- **Privacy** (continuous monitoring concerns)
-- **Digital divide** (older adults, tech access)
-- **Clinical integration** (interpretation, EHR)
-
+{% raw %}
+<h1>Digital Biomarkers for Neurodegeneration</h1>
+<h2>Overview</h2>
+<p>Digital biomarkers represent a paradigm shift from episodic clinical assessments to continuous, real-world monitoring of neurological function. Using smartphones, wearables, and specialized sensors, these tools capture motor function (gait, tremor), cognition (typing patterns, app usage), speech, and behavior in natural settings. They promise earlier detection, more sensitive progression tracking, and reduced patient burden in clinical trials.</p>
+<h2>Key Domains and Technologies</h2>
+<h3>Motor Function</h3>
+<table>
+<thead>
+<tr>
+<th>Modality</th>
+<th>Measurement</th>
+<th>Diseases</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gait</td>
+<td>Speed, stride, variability</td>
+<td>PD, AD, MS</td>
+<td>Smartphone accelerometer, smart insoles</td>
+</tr>
+<tr>
+<td>Tremor</td>
+<td>Frequency, amplitude</td>
+<td>PD, ET</td>
+<td>Smartwatch, accelerometer</td>
+</tr>
+<tr>
+<td>Bradykinesia</td>
+<td>Tap speed, movement amplitude</td>
+<td>PD</td>
+<td>Smartphone tap tests</td>
+</tr>
+<tr>
+<td>Balance</td>
+<td>Sway, fall risk</td>
+<td>PD, MS</td>
+<td>Wearable sensors</td>
+</tr>
+<tr>
+<td>Fine motor</td>
+<td>Typing patterns, drawing</td>
+<td>PD, AD</td>
+<td>Smartphone apps</td>
+</tr>
+</tbody>
+</table>
+<h3>Cognitive Function</h3>
+<table>
+<thead>
+<tr>
+<th>Modality</th>
+<th>Measurement</th>
+<th>Diseases</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Typing</td>
+<td>Speed, errors, patterns</td>
+<td>AD, MCI</td>
+<td>Smartphone keyboard</td>
+</tr>
+<tr>
+<td>App usage</td>
+<td>Navigation, hesitation</td>
+<td>AD</td>
+<td>Passive smartphone monitoring</td>
+</tr>
+<tr>
+<td>Voice</td>
+<td>Speech rate, pauses, complexity</td>
+<td>PD, AD, ALS</td>
+<td>Voice analysis apps</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>Eye tracking, comprehension</td>
+<td>AD</td>
+<td>Specialized devices</td>
+</tr>
+</tbody>
+</table>
+<h3>Sleep and Activity</h3>
+<table>
+<thead>
+<tr>
+<th>Modality</th>
+<th>Measurement</th>
+<th>Diseases</th>
+<th>Technology</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sleep patterns</td>
+<td>Duration, fragmentation, RBD</td>
+<td>PD, AD</td>
+<td>Wearables, mattress sensors</td>
+</tr>
+<tr>
+<td>Activity levels</td>
+<td>Steps, sedentary time</td>
+<td>All</td>
+<td>Fitness trackers</td>
+</tr>
+<tr>
+<td>Circadian rhythm</td>
+<td>Rest-activity patterns</td>
+<td>AD</td>
+<td>Actigraphy</td>
+</tr>
+</tbody>
+</table>
+<h3>Speech and Language</h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Detection</th>
+<th>Diseases</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pause patterns</td>
+<td>Cognitive slowing</td>
+<td>AD</td>
+</tr>
+<tr>
+<td>Articulation</td>
+<td>Dysarthria</td>
+<td>PD, ALS, HD</td>
+</tr>
+<tr>
+<td>Semantic content</td>
+<td>Language impairment</td>
+<td>AD, FTD</td>
+</tr>
+<tr>
+<td>Voice quality</td>
+<td>Hypophonia</td>
+<td>PD</td>
+</tr>
+</tbody>
+</table>
+<h2>Disease-Specific Applications</h2>
+<h3>Parkinson's Disease</h3>
+<p><strong>Most Advanced Digital Biomarker Application</strong></p>
+<ul>
+<li>Verily/Lilly: Smartwatch tremor/bradykinesia</li>
+<li>Apple Watch PD kit: Movement tracking</li>
+<li>MJFF Wearable sensors initiative</li>
+<li>FDA Breakthrough: Several designations</li>
+</ul>
+<p><strong>Key Measures</strong>:</p>
+<ul>
+<li>Finger tapping frequency and amplitude</li>
+<li>Gait velocity and arm swing asymmetry</li>
+<li>Tremor severity</li>
+<li>On/off state fluctuations</li>
+</ul>
+<h3>Alzheimer's Disease</h3>
+<p><strong>Emerging Applications</strong>:</p>
+<ul>
+<li>GPS wandering detection</li>
+<li>Smartphone usage patterns</li>
+<li>Typing dynamics</li>
+<li>Speech analysis</li>
+<li>Sleep fragmentation</li>
+</ul>
+<p><strong>Challenges</strong>:</p>
+<ul>
+<li>Cognition harder to measure passively</li>
+<li>Less motor features than PD</li>
+<li>Compliance issues as disease advances</li>
+</ul>
+<h3>Multiple Sclerosis</h3>
+<ul>
+<li>Walking speed monitoring</li>
+<li>Fatigue patterns</li>
+<li>Hand function (smartphone tests)</li>
+<li>Relapse detection</li>
+</ul>
+<h3>ALS</h3>
+<ul>
+<li>Speech decline tracking</li>
+<li>Typing speed decline</li>
+<li>Respiratory monitoring</li>
+<li>Muscle function apps</li>
+</ul>
+<h2>Validation Status</h2>
+<h3>FDA Recognized/Breakthrough</h3>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Indication</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Various PD wearables</td>
+<td>Motor fluctuation monitoring</td>
+<td>Breakthrough designations</td>
+</tr>
+<tr>
+<td>Speech analysis tools</td>
+<td>ALS progression</td>
+<td>Research/validation</td>
+</tr>
+<tr>
+<td>Gait sensors</td>
+<td>Fall prediction</td>
+<td>510(k) cleared products</td>
+</tr>
+</tbody>
+</table>
+<h3>Clinical Trial Use</h3>
+<ul>
+<li>Digital endpoints in &gt;100 neurology trials</li>
+<li>Pharma partnerships (Roche, Lilly, Biogen)</li>
+<li>Remote monitoring during COVID accelerated adoption</li>
+<li>Regulatory acceptance growing</li>
+</ul>
+<h2>Advantages and Limitations</h2>
+<h3>Advantages</h3>
+<ul>
+<li><strong>Continuous monitoring</strong> (vs. episodic clinic visits)</li>
+<li><strong>Real-world data</strong> (natural environment)</li>
+<li><strong>Sensitive</strong> (detect subtle changes)</li>
+<li><strong>Remote</strong> (reduce travel burden)</li>
+<li><strong>Objective</strong> (less rater variability)</li>
+<li><strong>Scalable</strong> (large trials, population screening)</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li><strong>Validation</strong> (still early for many applications)</li>
+<li><strong>Standardization</strong> (device/algorithm variability)</li>
+<li><strong>Compliance</strong> (patients must use devices)</li>
+<li><strong>Privacy</strong> (continuous monitoring concerns)</li>
+<li><strong>Digital divide</strong> (older adults, tech access)</li>
+<li><strong>Clinical integration</strong> (interpretation, EHR)</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Digital_Biomarkers_for_Neurodegeneration]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Digital_Biomarkers_for_Neurodegeneration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:03:04.855999'
+</code></pre>
+<ul>
+<li>→ [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:04.855999'
 source: obsidian
-```
-- → [[Basal_Ganglia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Basal_Ganglia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Blood_NfL]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Prefrontal_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Prefrontal_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Huntingtons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Huntingtons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Multiple_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Multiple_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Neuropsychological_Testing]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:16.352580'
+</code></pre>
+<ul>
+<li>→ [[Neuropsychological_Testing]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
 source: obsidian
-```
-- → [[Multiple_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Multiple_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Neuropsychological_Testing]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Neuropsychological_Testing]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Huntingtons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Huntingtons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Prefrontal_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Prefrontal_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Basal_Ganglia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Basal_Ganglia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- → [[Blood_NfL]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Conditions
-- → [[Parkinson's Disease]] (condition) - *Most advanced applications*
-- → [[Alzheimer's Disease]] (condition) - *Emerging applications*
-- → [[Multiple Sclerosis]] (condition) - *Walking, function monitoring*
-- → [[Amyotrophic Lateral Sclerosis]] (condition) - *Speech, typing tracking*
-- → [[Huntington's Disease]] (condition) - *Chorea, gait monitoring*
-
-### Related Biomarkers
-- → [[Blood NfL]] (biomarker) - *Complementary objective measure*
-- → [[Neuropsychological Testing]] (examination) - *Traditional comparison*
-
-### Brain Regions (Correlations)
-- → [[Basal Ganglia]] (organ) - *Motor digital markers*
-- → [[Prefrontal Cortex]] (organ) - *Executive function markers*
-
-## Integration with Clinical Care
-
-### Current Best Practices
-1. Use as supplement to clinical assessment
-2. Validate in specific population before deployment
-3. Ensure patient/caregiver can use technology
-4. Integrate with EHR when possible
-5. Consider privacy and consent
-
-### Future Vision
-```
-Continuous Passive Monitoring
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Parkinson's Disease]] (condition) - <em>Most advanced applications</em></li>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Emerging applications</em></li>
+<li>→ [[Multiple Sclerosis]] (condition) - <em>Walking, function monitoring</em></li>
+<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Speech, typing tracking</em></li>
+<li>→ [[Huntington's Disease]] (condition) - <em>Chorea, gait monitoring</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[Blood NfL]] (biomarker) - <em>Complementary objective measure</em></li>
+<li>→ [[Neuropsychological Testing]] (examination) - <em>Traditional comparison</em></li>
+</ul>
+<h3>Brain Regions (Correlations)</h3>
+<ul>
+<li>→ [[Basal Ganglia]] (organ) - <em>Motor digital markers</em></li>
+<li>→ [[Prefrontal Cortex]] (organ) - <em>Executive function markers</em></li>
+</ul>
+<h2>Integration with Clinical Care</h2>
+<h3>Current Best Practices</h3>
+<ol>
+<li>Use as supplement to clinical assessment</li>
+<li>Validate in specific population before deployment</li>
+<li>Ensure patient/caregiver can use technology</li>
+<li>Integrate with EHR when possible</li>
+<li>Consider privacy and consent</li>
+</ol>
+<h3>Future Vision</h3>
+<pre><code>Continuous Passive Monitoring
           ↓
 AI/ML Analysis of patterns
           ↓
@@ -273,41 +430,47 @@ Early warning of change
 Alert to clinician/patient
           ↓
 Targeted intervention or assessment
-```
+</code></pre>
+<h2>Regulatory Pathway</h2>
+<h3>FDA Guidance (2020, Updated)</h3>
+<ul>
+<li>Software as Medical Device (SaMD) framework</li>
+<li>Digital Health Center of Excellence</li>
+<li>Pre-certification program</li>
+<li>Breakthrough device designation for promising tools</li>
+</ul>
+<h3>Key Considerations</h3>
+<ul>
+<li>Intended use determines regulatory pathway</li>
+<li>Validated algorithms required</li>
+<li>Cybersecurity and privacy compliance</li>
+<li>Post-market surveillance</li>
+</ul>
+<h2>Future Directions</h2>
+<h3>Multimodal Integration</h3>
+<ul>
+<li>Combine digital + fluid biomarkers</li>
+<li>Digital + imaging correlations</li>
+<li>Comprehensive digital phenotyping</li>
+</ul>
+<h3>AI/ML Advances</h3>
+<ul>
+<li>More sophisticated pattern recognition</li>
+<li>Personalized baselines</li>
+<li>Predictive models for events (falls, relapses)</li>
+</ul>
+<h3>Novel Sensors</h3>
+<ul>
+<li>Brain-computer interfaces</li>
+<li>Implantable sensors</li>
+<li>Environmental sensors (smart home)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>PD Wearables</strong>: Dorsey, E.R., et al. (2020). &quot;Digital biomarkers in Parkinson's disease.&quot; <em>The Lancet Neurology</em>.</li>
+<li><strong>AD Digital</strong>: Kourtis, L.C., et al. (2019). &quot;Digital biomarkers for Alzheimer's disease.&quot; <em>npj Digital Medicine</em>.</li>
+<li><strong>FDA Framework</strong>: FDA (2020). &quot;Digital Health Software Precertification Program.&quot;</li>
+<li><strong>Clinical Trials</strong>: Coravos, A., et al. (2019). &quot;Developing and adopting safe and effective digital biomarkers.&quot; <em>npj Digital Medicine</em>.</li>
+</ol>
 
-## Regulatory Pathway
-
-### FDA Guidance (2020, Updated)
-- Software as Medical Device (SaMD) framework
-- Digital Health Center of Excellence
-- Pre-certification program
-- Breakthrough device designation for promising tools
-
-### Key Considerations
-- Intended use determines regulatory pathway
-- Validated algorithms required
-- Cybersecurity and privacy compliance
-- Post-market surveillance
-
-## Future Directions
-
-### Multimodal Integration
-- Combine digital + fluid biomarkers
-- Digital + imaging correlations
-- Comprehensive digital phenotyping
-
-### AI/ML Advances
-- More sophisticated pattern recognition
-- Personalized baselines
-- Predictive models for events (falls, relapses)
-
-### Novel Sensors
-- Brain-computer interfaces
-- Implantable sensors
-- Environmental sensors (smart home)
-
-## References
-1. **PD Wearables**: Dorsey, E.R., et al. (2020). "Digital biomarkers in Parkinson's disease." *The Lancet Neurology*.
-2. **AD Digital**: Kourtis, L.C., et al. (2019). "Digital biomarkers for Alzheimer's disease." *npj Digital Medicine*.
-3. **FDA Framework**: FDA (2020). "Digital Health Software Precertification Program."
-4. **Clinical Trials**: Coravos, A., et al. (2019). "Developing and adopting safe and effective digital biomarkers." *npj Digital Medicine*.
+{% endraw %}

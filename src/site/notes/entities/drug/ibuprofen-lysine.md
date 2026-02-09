@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.517064Z'
+created: '2026-02-09T05:40:21.149824Z'
 description: A lysine salt of ibuprofen used for rapid pain relief and specifically
   for the closure of patent ductus arteriosus in premature infants.
 dg-home: false
@@ -12,38 +12,38 @@ tags:
 - nsaid
 - pediatric
 - fast-acting
+templateEngineOverride: njk
 title: Ibuprofen Lysine
 type: drug
-updated: '2026-02-08T19:45:44.517064Z'
+updated: '2026-02-09T05:40:21.149824Z'
 ---
 
-# Ibuprofen Lysine
-
-## Overview
-
-Ibuprofen Lysine (NeoProfen) is a highly soluble form of ibuprofen. While used orally for fast pain relief, its most critical clinical application is intravenous use in the neonatal intensive care unit (NICU) to treat **Patent Ductus Arteriosus (PDA)**.
-
-## Indications
-
-- **Patent Ductus Arteriosus (PDA):** In premature infants.
-- **Acute Pain.**
-- **Migraine.**
-
+{% raw %}
+<h1>Ibuprofen Lysine</h1>
+<h2>Overview</h2>
+<p>Ibuprofen Lysine (NeoProfen) is a highly soluble form of ibuprofen. While used orally for fast pain relief, its most critical clinical application is intravenous use in the neonatal intensive care unit (NICU) to treat <strong>Patent Ductus Arteriosus (PDA)</strong>.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Patent Ductus Arteriosus (PDA):</strong> In premature infants.</li>
+<li><strong>Acute Pain.</strong></li>
+<li><strong>Migraine.</strong></li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Patent Ductus Arteriosus]]<br />
+TREATS_CONDITION::[[Pain]]<br />
+ASSOCIATED_WITH_CONDITION::[[Premature Birth]]<br />
+INHIBITS_PROTEIN::[[COX-1]]<br />
+INHIBITS_PROTEIN::[[COX-2]]<br />
+DRUG_CONTAINS_COMPOUND::[[Ibuprofen]]</p>
+<h2>References</h2>
+<ul>
+<li>FDA. NeoProfen (Ibuprofen Lysine) Injection.</li>
+<li>Ohlsson, A., et al. (2017). Ibuprofen for the treatment of patent ductus arteriosus in preterm or low birth weight (or both) infants. Cochrane Database of Systematic Reviews.</li>
+<li>MedlinePlus. Ibuprofen Lysine.</li>
+</ul>
 
-TREATS_CONDITION::[[Patent Ductus Arteriosus]]
-TREATS_CONDITION::[[Pain]]
-ASSOCIATED_WITH_CONDITION::[[Premature Birth]]
-INHIBITS_PROTEIN::[[COX-1]]
-INHIBITS_PROTEIN::[[COX-2]]
-DRUG_CONTAINS_COMPOUND::[[Ibuprofen]]
-
-## References
-
-- FDA. NeoProfen (Ibuprofen Lysine) Injection.
-- Ohlsson, A., et al. (2017). Ibuprofen for the treatment of patent ductus arteriosus in preterm or low birth weight (or both) infants. Cochrane Database of Systematic Reviews.
-- MedlinePlus. Ibuprofen Lysine.
+{% endraw %}

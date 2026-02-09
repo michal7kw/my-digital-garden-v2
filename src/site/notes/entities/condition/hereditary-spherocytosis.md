@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.479170Z'
+created: '2026-02-09T05:40:20.956707Z'
 description: An inherited blood disorder characterized by spherical red blood cells
   that are fragile and prone to premature destruction in the spleen.
 dg-home: false
@@ -12,113 +12,100 @@ tags:
 - hematology
 - genetic
 - function-health
+templateEngineOverride: njk
 title: Hereditary Spherocytosis
 type: condition
-updated: '2026-02-08T19:45:44.479170Z'
+updated: '2026-02-09T05:40:20.956707Z'
 ---
 
-# Hereditary Spherocytosis
-
-## Overview
-An inherited blood disorder characterized by spherical red blood cells that are fragile and prone to premature destruction in the spleen.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Hereditary Spherocytosis</h1>
+<h2>Overview</h2>
+<p>An inherited blood disorder characterized by spherical red blood cells that are fragile and prone to premature destruction in the spleen.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Hereditary Spherocytosis]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Hereditary_Spherocytosis]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:10.377523'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Hereditary_Spherocytosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:10.377523'
 source: obsidian
-```
-- → [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:10.377523'
+</code></pre>
+<ul>
+<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:10.377523'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Hereditary Spherocytosis]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Hereditary Spherocytosis]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Hereditary_Spherocytosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:29.032147'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Hereditary_Spherocytosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.032147'
 source: obsidian
-```
-- ← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:56.923847'
+</code></pre>
+<ul>
+<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
-```
-- → [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:29.032147'
+</code></pre>
+<ul>
+<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.032147'
 source: obsidian
-```
-- → [[Hereditary_Spherocytosis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:29.032147'
+</code></pre>
+<ul>
+<li>→ [[Hereditary_Spherocytosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.032147'
 source: obsidian
-```
-
-### May Detect
-- ← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.547689Z'
+created: '2026-02-09T05:40:21.304585Z'
 description: Tested twice a year Blood urea nitrogen (BUN) measures the amount of
   nitrogen in the blood that comes from urea, a waste product made when the body breaks
   down protein. BUN is commonly used to check kidney function, since healthy kidneys
@@ -12,114 +12,137 @@ permalink: /garden/dev_admin/labtest/blood-urea-nitrogen/
 slug: blood-urea-nitrogen
 tags:
 - labtest
+templateEngineOverride: njk
 title: blood_urea_nitrogen
 type: labtest
-updated: '2026-02-08T19:45:44.547689Z'
+updated: '2026-02-09T05:40:21.304585Z'
 ---
 
-# Blood Urea Nitrogen
-
-## Overview
-Tested twice a year Blood urea nitrogen (BUN) measures the amount of nitrogen in the blood that comes from urea, a waste product made when the body breaks down protein. BUN is commonly used to check kidney function, since healthy kidneys filter urea out of the blood. Abnormal levels can also be related to dehydration, high protein intake, or certain metabolic or kidney conditions.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Kidney Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Kidney Dysfunction]]
-- [[Dehydration]]
-- [[Gastrointestinal Bleeding]]
-- [[Liver Dysfunction]]
-- [[Malnutrition]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Blood Urea Nitrogen</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Blood urea nitrogen (BUN) measures the amount of nitrogen in the blood that comes from urea, a waste product made when the body breaks down protein. BUN is commonly used to check kidney function, since healthy kidneys filter urea out of the blood. Abnormal levels can also be related to dehydration, high protein intake, or certain metabolic or kidney conditions.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Kidney Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Kidney Dysfunction]]</li>
+<li>[[Dehydration]]</li>
+<li>[[Gastrointestinal Bleeding]]</li>
+<li>[[Liver Dysfunction]]</li>
+<li>[[Malnutrition]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Gastrointestinal_Bleeding]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:09.704116'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Gastrointestinal_Bleeding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.704116'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:09.704116'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.704116'
 source: obsidian
-```
-- → [[Liver_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:09.704116'
+</code></pre>
+<ul>
+<li>→ [[Liver_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.704116'
 source: obsidian
-```
-- → [[Liver_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:50.852350'
+</code></pre>
+<ul>
+<li>→ [[Liver_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:50.852350'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
 source: obsidian
-```
-- → [[Malnutrition]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:50.852350'
+</code></pre>
+<ul>
+<li>→ [[Malnutrition]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
 source: obsidian
-```
-- → [[Dehydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:50.852350'
+</code></pre>
+<ul>
+<li>→ [[Dehydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
 source: obsidian
-```
-- → [[Gastrointestinal_Bleeding]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:50.852350'
+</code></pre>
+<ul>
+<li>→ [[Gastrointestinal_Bleeding]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
 source: obsidian
-```
-- ← [[Gastrointestinal_Bleeding]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:28.231284'
+</code></pre>
+<ul>
+<li>← [[Gastrointestinal_Bleeding]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
 source: obsidian
-```
-
-### May Detect
-- → [[Gastrointestinal_Bleeding]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Gastrointestinal_Bleeding]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:17.313368</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:17.313368*
+{% endraw %}

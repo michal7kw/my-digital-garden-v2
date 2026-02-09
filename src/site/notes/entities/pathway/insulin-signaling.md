@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.613636Z'
+created: '2026-02-09T05:40:21.809535Z'
 description: The insulin signaling pathway mediates the metabolic effects of insulin,
   promoting glucose uptake, glycogen synthesis, lipogenesis, and protein synthesis
   while inhibiting gluconeogenesis and lipolysis.
@@ -14,45 +14,47 @@ tags:
 - metabolic
 - glucose_metabolism
 - anabolic
+templateEngineOverride: njk
 title: Insulin Signaling
 type: pathway
-updated: '2026-02-08T19:45:44.613636Z'
+updated: '2026-02-09T05:40:21.809535Z'
 ---
 
-# Insulin Signaling
-
-## Description
-
-The insulin signaling pathway mediates the metabolic effects of insulin, promoting glucose uptake, glycogen synthesis, lipogenesis, and protein synthesis while inhibiting gluconeogenesis and lipolysis.
-
+{% raw %}
+<h1>Insulin Signaling</h1>
+<h2>Description</h2>
+<p>The insulin signaling pathway mediates the metabolic effects of insulin, promoting glucose uptake, glycogen synthesis, lipogenesis, and protein synthesis while inhibiting gluconeogenesis and lipolysis.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.102908'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.102908'
 source: obsidian
-```
-
-### Modulated By Pathway
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Modulated By Pathway</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Modulated By Pathway
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+<h2>Relationships</h2>
+<h3>Modulated By Pathway</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Related
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-19T09:33:13.524337'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:13.524337'
 source: obsidian
-```
+</code></pre>
+
+{% endraw %}

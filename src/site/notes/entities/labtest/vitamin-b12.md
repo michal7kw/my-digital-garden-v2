@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.591697Z'
+created: '2026-02-09T05:40:21.523317Z'
 description: Essential for nerve function and red blood cell production. Deficiency
   common in vegans and elderly.
 dg-home: false
@@ -9,75 +9,91 @@ permalink: /garden/dev_admin/labtest/vitamin-b12/
 slug: vitamin-b12
 tags:
 - labtest
+templateEngineOverride: njk
 title: vitamin_b12
 type: labtest
-updated: '2026-02-08T19:45:44.591697Z'
+updated: '2026-02-09T05:40:21.523317Z'
 ---
 
-# Vitamin B12
-
-## Overview
-Essential for nerve function and red blood cell production. Deficiency common in vegans and elderly.
-
-**Evidence Level:** ⭐⭐⭐⭐⭐ (5/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Other || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 1-3 days || **Price Range** | $25-$55 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-## Biomarkers Measured
-
-This test measures the following biomarkers:
-
-- [[vitamin_b12]]
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-General health screening.
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Vitamin B12</h1>
+<h2>Overview</h2>
+<p>Essential for nerve function and red blood cell production. Deficiency common in vegans and elderly.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Other</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>1-3 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li>[[vitamin_b12]]</li>
+</ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:28.922769'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.922769'
 source: obsidian
-```
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:24.886169'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.886169'
 source: obsidian
-```
-- → [[vitamin_b12]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.497095'
+</code></pre>
+<ul>
+<li>→ [[vitamin_b12]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.497095'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2025-12-28T17:32:27+0000</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2025-12-28T17:32:27+0000*
+{% endraw %}

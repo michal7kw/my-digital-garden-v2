@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.661515Z'
+created: '2026-02-09T05:40:22.248244Z'
 description: Test supplement for content preservation
 dg-home: false
 dg-publish: true
@@ -8,32 +8,32 @@ permalink: /garden/dev_admin/supplement/test-content-preservation/
 slug: test-content-preservation
 tags:
 - supplement
+templateEngineOverride: njk
 title: Test Content Preservation
 type: supplement
-updated: '2026-02-08T19:45:44.661515Z'
+updated: '2026-02-09T05:40:22.248244Z'
 ---
 
-# Test Content Preservation
-
-## Overview
-This is the description from frontmatter.
-
-## My Custom Research Notes
-This is my personal research that should NEVER be deleted.
-
-- Important finding 1
-- Important finding 2
-- Custom notes about dosage
-
-## Dosage Notes
-Custom dosage notes here that I added manually.
-
+{% raw %}
+<h1>Test Content Preservation</h1>
+<h2>Overview</h2>
+<p>This is the description from frontmatter.</p>
+<h2>My Custom Research Notes</h2>
+<p>This is my personal research that should NEVER be deleted.</p>
+<ul>
+<li>Important finding 1</li>
+<li>Important finding 2</li>
+<li>Custom notes about dosage</li>
+</ul>
+<h2>Dosage Notes</h2>
+<p>Custom dosage notes here that I added manually.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-Old relationships here that should be replaced.
+<h2>Relationships</h2>
+<p>Old relationships here that should be replaced.</p>
+<h2>References</h2>
+<p>My custom references section.</p>
 
-## References
-My custom references section.
+{% endraw %}

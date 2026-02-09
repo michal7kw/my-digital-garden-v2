@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.534160Z'
+created: '2026-02-09T05:40:21.231205Z'
 description: Encodes the proto-oncogene tyrosine-protein kinase Src. The first retroviral
   oncogene discovered.
 dg-home: false
@@ -14,21 +14,25 @@ tags:
 - signaling
 - imported
 - primekg
+templateEngineOverride: njk
 title: SRC
 type: gene
-updated: '2026-02-08T19:45:44.534160Z'
+updated: '2026-02-09T05:40:21.231205Z'
 ---
 
-# SRC
+{% raw %}
+<h1>SRC</h1>
+<h2>Overview</h2>
+<p>The <strong>SRC</strong> gene encodes a non-receptor tyrosine kinase. It was the first <strong>proto-oncogene</strong> ever identified (as the cellular homolog of the v-src gene in Rous Sarcoma Virus).</p>
+<p>It plays a pivotal role in regulating cell growth, adhesion, and migration. Mutations or overexpression lead to malignant transformation.</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[SRC]] (protein) - <em>Encodes</em></li>
+<li>→ [[Cancer]] (condition) - <em>Driver</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>History</strong>: Stehelin, D., et al. (1976). &quot;DNA related to the transforming gene(s) of avian sarcoma viruses is present in normal avian DNA.&quot; <em>Nature</em>.</li>
+</ol>
 
-## Overview
-The **SRC** gene encodes a non-receptor tyrosine kinase. It was the first **proto-oncogene** ever identified (as the cellular homolog of the v-src gene in Rous Sarcoma Virus).
-
-It plays a pivotal role in regulating cell growth, adhesion, and migration. Mutations or overexpression lead to malignant transformation.
-
-## Relationships
-- → [[SRC]] (protein) - *Encodes*
-- → [[Cancer]] (condition) - *Driver*
-
-## References
-1. **History**: Stehelin, D., et al. (1976). "DNA related to the transforming gene(s) of avian sarcoma viruses is present in normal avian DNA." *Nature*.
+{% endraw %}

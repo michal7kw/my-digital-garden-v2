@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.543288Z'
+created: '2026-02-09T05:40:21.281913Z'
 description: AMH reflects ovarian reserve (egg count) and fertility potential, at
   the time of the test. This test sheds light on the body’s ability to produce eggs
   for fertilization, particularly if one is nearing menopause or experiencing a hormonal
@@ -12,138 +12,166 @@ permalink: /garden/dev_admin/labtest/anti-mullerian-hormone/
 slug: anti-mullerian-hormone
 tags:
 - labtest
+templateEngineOverride: njk
 title: anti_mullerian_hormone
 type: labtest
-updated: '2026-02-08T19:45:44.543288Z'
+updated: '2026-02-09T05:40:21.281913Z'
 ---
 
-# Anti-Mullerian Hormone
-
-## Overview
-AMH reflects ovarian reserve (egg count) and fertility potential, at the time of the test. This test sheds light on the body’s ability to produce eggs for fertilization, particularly if one is nearing menopause or experiencing a hormonal condition such as polycystic ovary syndrome (PCOS) or primary ovarian insufficiency (POI).
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Hormones |
-| **Subcategory** | Sex Hormones || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Polycystic Ovary Syndrome (Pcos)]]
-- [[Low Ovarian Reserve]]
-- [[Premature Ovarian Insufficiency]]
-- [[Perimenopause]]
-- [[Infertility]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Anti-Mullerian Hormone</h1>
+<h2>Overview</h2>
+<p>AMH reflects ovarian reserve (egg count) and fertility potential, at the time of the test. This test sheds light on the body’s ability to produce eggs for fertilization, particularly if one is nearing menopause or experiencing a hormonal condition such as polycystic ovary syndrome (PCOS) or primary ovarian insufficiency (POI).</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Hormones</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Sex Hormones</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Polycystic Ovary Syndrome (Pcos)]]</li>
+<li>[[Low Ovarian Reserve]]</li>
+<li>[[Premature Ovarian Insufficiency]]</li>
+<li>[[Perimenopause]]</li>
+<li>[[Infertility]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Low_Ovarian_Reserve]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.739174'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Low_Ovarian_Reserve]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
-```
-- → [[Premature_Ovarian_Insufficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.739174'
+</code></pre>
+<ul>
+<li>→ [[Premature_Ovarian_Insufficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
-```
-- → [[Polycystic_Ovary_Syndrome_Pcos]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.739174'
+</code></pre>
+<ul>
+<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
-```
-- → [[Infertility]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.785719'
+</code></pre>
+<ul>
+<li>→ [[Infertility]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
-```
-- → [[Polycystic_Ovary_Syndrome_Pcos]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.785719'
+</code></pre>
+<ul>
+<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
-```
-- → [[Premature_Ovarian_Insufficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.785719'
+</code></pre>
+<ul>
+<li>→ [[Premature_Ovarian_Insufficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
-```
-- → [[Perimenopause]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.785719'
+</code></pre>
+<ul>
+<li>→ [[Perimenopause]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
-```
-- → [[Low_Ovarian_Reserve]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:49.785719'
+</code></pre>
+<ul>
+<li>→ [[Low_Ovarian_Reserve]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
 source: obsidian
-```
-- ← [[pregnancy_hcg]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.634365'
+</code></pre>
+<ul>
+<li>← [[pregnancy_hcg]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
 source: obsidian
-```
-- ← [[extended_hormone_health]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.266447'
+</code></pre>
+<ul>
+<li>← [[extended_hormone_health]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
 source: obsidian
-```
-- → [[extended_hormone_health]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:07.739174'
+</code></pre>
+<ul>
+<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
-```
-- → [[pregnancy_hcg]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:07.739174'
+</code></pre>
+<ul>
+<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.739174'
 source: obsidian
-```
-- ← [[Low_Ovarian_Reserve]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.038200'
+</code></pre>
+<ul>
+<li>← [[Low_Ovarian_Reserve]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.038200'
 source: obsidian
-```
-
-### May Detect
-- → [[Low_Ovarian_Reserve]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Low_Ovarian_Reserve]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[pregnancy_hcg]] (labtestpanel)
-- → [[extended_hormone_health]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:15.123241</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:15.123241*
+{% endraw %}

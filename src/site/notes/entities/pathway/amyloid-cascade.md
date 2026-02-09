@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.608820Z'
+created: '2026-02-09T05:40:21.767445Z'
 description: The hypothesis that amyloid-beta accumulation is the primary initiating
   event in Alzheimer's disease, triggering downstream tau pathology, neuroinflammation,
   synaptic dysfunction, and neuronal death.
@@ -14,21 +14,19 @@ tags:
 - alzheimers
 - amyloid-beta
 - hypothesis
+templateEngineOverride: njk
 title: Amyloid Cascade
 type: pathway
-updated: '2026-02-08T19:45:44.608820Z'
+updated: '2026-02-09T05:40:21.767445Z'
 ---
 
-# Amyloid Cascade
-
-## Overview
-The Amyloid Cascade Hypothesis, proposed by Hardy and Higgins in 1992, posits that the accumulation of amyloid-beta (Aβ) peptides is the initiating event in Alzheimer's disease pathogenesis. According to this model, Aβ deposition triggers a cascade of events including tau hyperphosphorylation, neuroinflammation, oxidative stress, synaptic dysfunction, and ultimately neuronal death. While central to AD research, the hypothesis has evolved and been debated.
-
-## Amyloid-Beta Production
-
-### APP Processing
-```
-APP (Amyloid Precursor Protein)
+{% raw %}
+<h1>Amyloid Cascade</h1>
+<h2>Overview</h2>
+<p>The Amyloid Cascade Hypothesis, proposed by Hardy and Higgins in 1992, posits that the accumulation of amyloid-beta (Aβ) peptides is the initiating event in Alzheimer's disease pathogenesis. According to this model, Aβ deposition triggers a cascade of events including tau hyperphosphorylation, neuroinflammation, oxidative stress, synaptic dysfunction, and ultimately neuronal death. While central to AD research, the hypothesis has evolved and been debated.</p>
+<h2>Amyloid-Beta Production</h2>
+<h3>APP Processing</h3>
+<pre><code>APP (Amyloid Precursor Protein)
           ↓
     ┌─────┴─────┐
     ↓           ↓
@@ -40,338 +38,398 @@ Non-amyloidogenic   Amyloidogenic
                    (γ-secretase)
                         ↓
                   Aβ40 or Aβ42
-```
-
-### Key Peptides
-- **Aβ40**: Most abundant (90%); less aggregation-prone
-- **Aβ42**: Minor (10%); highly aggregation-prone; most toxic
-- Aβ42/40 ratio indicates pathology
-
-## Cascade Steps
-
-### 1. Aβ Accumulation
-- Overproduction (genetic mutations)
-- Decreased clearance (APOE4, aging)
-- Imbalanced Aβ42/40 ratio
-
-### 2. Oligomerization
-- Soluble Aβ oligomers form
-- **Most toxic species**
-- Synaptic dysfunction
-- LTP inhibition
-
-### 3. Plaque Formation
-- Oligomers → protofibrils → fibrils
-- Extracellular amyloid plaques
-- Neuritic plaques with dystrophic neurites
-
-### 4. Microglial Activation
-- Plaques trigger neuroinflammation
-- Pro-inflammatory cytokines
-- Chronic inflammation
-
-### 5. Tau Pathology
-- Aβ triggers tau hyperphosphorylation
-- Neurofibrillary tangles form
-- Axonal transport disruption
-
-### 6. Synaptic Failure
-- Synapse loss correlates with dementia
-- Cholinergic deficit
-- Glutamate dysregulation
-
-### 7. Neuronal Death
-- Apoptosis and necrosis
-- Brain atrophy
-- Clinical dementia
-
-## Evidence Supporting
-
-### Genetic
-- APP mutations cause familial AD
-- PSEN1/PSEN2 mutations increase Aβ42
-- Down syndrome (3 copies APP) → early AD
-- APOE4 reduces Aβ clearance
-
-### Biomarker
-- CSF Aβ42 decreases before symptoms
-- Amyloid PET positive years before dementia
-- Anti-amyloid drugs reduce plaques
-
-### Recent Validation
-- Lecanemab and donanemab show clinical efficacy
-- Slowing of cognitive decline when plaques cleared
-
-## Evidence Challenging
-
-### Timing Issues
-- Plaques precede symptoms by decades
-- Tau pathology correlates better with symptoms
-- Cognitively normal individuals with plaques exist
-
-### Failed Therapies (Historical)
-- Many anti-amyloid drugs failed (solanezumab, aducanumab controversy)
-- Plaque removal without clinical benefit in some trials
-
-### Modified Hypotheses
-- Oligomer-centric (not plaques)
-- Upstream triggers (inflammation, metabolism)
-- Aβ as downstream consequence
-- Network-centric models
-
+</code></pre>
+<h3>Key Peptides</h3>
+<ul>
+<li><strong>Aβ40</strong>: Most abundant (90%); less aggregation-prone</li>
+<li><strong>Aβ42</strong>: Minor (10%); highly aggregation-prone; most toxic</li>
+<li>Aβ42/40 ratio indicates pathology</li>
+</ul>
+<h2>Cascade Steps</h2>
+<h3>1. Aβ Accumulation</h3>
+<ul>
+<li>Overproduction (genetic mutations)</li>
+<li>Decreased clearance (APOE4, aging)</li>
+<li>Imbalanced Aβ42/40 ratio</li>
+</ul>
+<h3>2. Oligomerization</h3>
+<ul>
+<li>Soluble Aβ oligomers form</li>
+<li><strong>Most toxic species</strong></li>
+<li>Synaptic dysfunction</li>
+<li>LTP inhibition</li>
+</ul>
+<h3>3. Plaque Formation</h3>
+<ul>
+<li>Oligomers → protofibrils → fibrils</li>
+<li>Extracellular amyloid plaques</li>
+<li>Neuritic plaques with dystrophic neurites</li>
+</ul>
+<h3>4. Microglial Activation</h3>
+<ul>
+<li>Plaques trigger neuroinflammation</li>
+<li>Pro-inflammatory cytokines</li>
+<li>Chronic inflammation</li>
+</ul>
+<h3>5. Tau Pathology</h3>
+<ul>
+<li>Aβ triggers tau hyperphosphorylation</li>
+<li>Neurofibrillary tangles form</li>
+<li>Axonal transport disruption</li>
+</ul>
+<h3>6. Synaptic Failure</h3>
+<ul>
+<li>Synapse loss correlates with dementia</li>
+<li>Cholinergic deficit</li>
+<li>Glutamate dysregulation</li>
+</ul>
+<h3>7. Neuronal Death</h3>
+<ul>
+<li>Apoptosis and necrosis</li>
+<li>Brain atrophy</li>
+<li>Clinical dementia</li>
+</ul>
+<h2>Evidence Supporting</h2>
+<h3>Genetic</h3>
+<ul>
+<li>APP mutations cause familial AD</li>
+<li>PSEN1/PSEN2 mutations increase Aβ42</li>
+<li>Down syndrome (3 copies APP) → early AD</li>
+<li>APOE4 reduces Aβ clearance</li>
+</ul>
+<h3>Biomarker</h3>
+<ul>
+<li>CSF Aβ42 decreases before symptoms</li>
+<li>Amyloid PET positive years before dementia</li>
+<li>Anti-amyloid drugs reduce plaques</li>
+</ul>
+<h3>Recent Validation</h3>
+<ul>
+<li>Lecanemab and donanemab show clinical efficacy</li>
+<li>Slowing of cognitive decline when plaques cleared</li>
+</ul>
+<h2>Evidence Challenging</h2>
+<h3>Timing Issues</h3>
+<ul>
+<li>Plaques precede symptoms by decades</li>
+<li>Tau pathology correlates better with symptoms</li>
+<li>Cognitively normal individuals with plaques exist</li>
+</ul>
+<h3>Failed Therapies (Historical)</h3>
+<ul>
+<li>Many anti-amyloid drugs failed (solanezumab, aducanumab controversy)</li>
+<li>Plaque removal without clinical benefit in some trials</li>
+</ul>
+<h3>Modified Hypotheses</h3>
+<ul>
+<li>Oligomer-centric (not plaques)</li>
+<li>Upstream triggers (inflammation, metabolism)</li>
+<li>Aβ as downstream consequence</li>
+<li>Network-centric models</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Autophagy-Lysosomal_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[-Secretase_Modulators]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[-Secretase_Modulators]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Cerebral_Amyloid_Angiopathy]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Neuron-Derived_Exosome_Biomarkers]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Synaptic_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Synaptic_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Amyloid_PET_Imaging]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_PET_Imaging]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Sleep_Optimization]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Sleep_Optimization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Plasma_Amyloid-Beta_Ratio]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Amyloid-Beta_4240_Ratio]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[Amyloid-Beta_4240_Ratio]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[BACE1_Inhibitors]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:39.716975'
+</code></pre>
+<ul>
+<li>→ [[BACE1_Inhibitors]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
 source: obsidian
-```
-- → [[Donanemab]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Donanemab]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Lecanemab]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Lecanemab]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Synaptic_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Synaptic_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Cerebral_Amyloid_Angiopathy]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Cerebral_Amyloid_Angiopathy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[-Secretase_Modulators]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[-Secretase_Modulators]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Neuroinflammation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Neuroinflammation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[BACE1_Inhibitors]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[BACE1_Inhibitors]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Aging]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Aging]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- ← [[Sleep_Optimization]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.863953'
+</code></pre>
+<ul>
+<li>← [[Sleep_Optimization]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
-```
-- ← [[Amyloid_PET_Imaging]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:44.235597'
+</code></pre>
+<ul>
+<li>← [[Amyloid_PET_Imaging]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.235597'
 source: obsidian
-```
-- ← [[Plasma_Amyloid-Beta_Ratio]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.960616'
+</code></pre>
+<ul>
+<li>← [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
 source: obsidian
-```
-- ← [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>← [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- ← [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.668732'
+</code></pre>
+<ul>
+<li>← [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
-```
-- ← [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.950584'
+</code></pre>
+<ul>
+<li>← [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
-```
-- ← [[Neuroinflammation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>← [[Neuroinflammation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- ← [[Autophagy-Lysosomal_Pathway]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[APP]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[APP]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Amyloid-Beta_4240_Ratio]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Amyloid-Beta_4240_Ratio]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Amyloid_PET_Imaging]] (examination)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_PET_Imaging]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[ApoE]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[ApoE]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[PSEN1]] (gene)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[PSEN1]] (gene)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Upstream Factors</h3>
+<ul>
+<li>→ [[APP]] (gene) - <em>Aβ precursor</em></li>
+<li>→ [[APOE]] (gene) - <em>Clearance modulator</em></li>
+<li>→ [[PSEN1]] (gene) - <em>γ-secretase component</em></li>
+<li>← [[Aging]] (process) - <em>Primary risk factor</em></li>
+</ul>
+<h3>Downstream Effects</h3>
+<ul>
+<li>→ [[Tau Phosphorylation]] (pathway) - <em>Triggered by Aβ</em></li>
+<li>→ [[Neuroinflammation]] (pathway) - <em>Microglial activation</em></li>
+<li>→ [[Synaptic Dysfunction]] (pathway) - <em>LTP inhibition</em></li>
+</ul>
+<h3>Diseases</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Central hypothesis</em></li>
+<li>→ [[Cerebral Amyloid Angiopathy]] (condition) - <em>Vascular amyloid</em></li>
+<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Prodromal stage</em></li>
+</ul>
+<h3>Biomarkers</h3>
+<ul>
+<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>CSF/plasma</em></li>
+<li>← [[Amyloid PET Imaging]] (examination) - <em>Plaque visualization</em></li>
+</ul>
+<h3>Therapeutic Targets</h3>
+<ul>
+<li>← [[Lecanemab]] (drug) - <em>Anti-Aβ antibody; FDA approved</em></li>
+<li>← [[Donanemab]] (drug) - <em>Anti-Aβ antibody</em></li>
+<li>← [[BACE1 Inhibitors]] (drug) - <em>Reduce production</em></li>
+<li>← [[γ-Secretase Modulators]] (drug) - <em>Shift Aβ42/40 ratio</em></li>
+</ul>
+<h2>Therapeutic Strategies</h2>
+<h3>Production Inhibition</h3>
+<ul>
+<li>BACE1 inhibitors (discontinued due to toxicity)</li>
+<li>γ-secretase modulators</li>
+</ul>
+<h3>Clearance Enhancement</h3>
+<ul>
+<li>Anti-Aβ immunotherapy (successful)</li>
+<li>APOE-targeted approaches</li>
+<li>Proteolytic degradation enhancement</li>
+</ul>
+<h3>Aggregation Prevention</h3>
+<ul>
+<li>Small molecule aggregation inhibitors</li>
+<li>Oligomer-selective antibodies</li>
+</ul>
+<h3>Combination Approaches</h3>
+<ul>
+<li>Anti-amyloid + anti-tau</li>
+<li>Disease-modifying + symptomatic</li>
+</ul>
+<h2>Current Status (2025)</h2>
+<h3>FDA-Approved Therapies</h3>
+<ul>
+<li><strong>Lecanemab (Leqembi)</strong>: Protofibrils; ~27% slowing</li>
+<li><strong>Donanemab (Kisunla)</strong>: N-terminal Aβ; ~35% slowing</li>
+</ul>
+<h3>Implications</h3>
+<ul>
+<li>Validates amyloid as therapeutic target</li>
+<li>Earlier intervention likely more effective</li>
+<li>Combination with tau therapies anticipated</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Original Hypothesis</strong>: Hardy, J., et al. (1992). &quot;The amyloid cascade hypothesis.&quot; <em>Science</em>.</li>
+<li><strong>Oligomer Hypothesis</strong>: Selkoe, D.J. (2002). &quot;Alzheimer's disease is a synaptic failure.&quot; <em>Science</em>.</li>
+<li><strong>Lecanemab Trial</strong>: van Dyck, C.H., et al. (2023). &quot;Lecanemab in early Alzheimer's disease.&quot; <em>NEJM</em>.</li>
+</ol>
 
-### Upstream Factors
-- → [[APP]] (gene) - *Aβ precursor*
-- → [[APOE]] (gene) - *Clearance modulator*
-- → [[PSEN1]] (gene) - *γ-secretase component*
-- ← [[Aging]] (process) - *Primary risk factor*
-
-### Downstream Effects
-- → [[Tau Phosphorylation]] (pathway) - *Triggered by Aβ*
-- → [[Neuroinflammation]] (pathway) - *Microglial activation*
-- → [[Synaptic Dysfunction]] (pathway) - *LTP inhibition*
-
-### Diseases
-- → [[Alzheimer's Disease]] (condition) - *Central hypothesis*
-- → [[Cerebral Amyloid Angiopathy]] (condition) - *Vascular amyloid*
-- → [[Mild Cognitive Impairment]] (condition) - *Prodromal stage*
-
-### Biomarkers
-- → [[Amyloid-Beta 42/40 Ratio]] (biomarker) - *CSF/plasma*
-- ← [[Amyloid PET Imaging]] (examination) - *Plaque visualization*
-
-### Therapeutic Targets
-- ← [[Lecanemab]] (drug) - *Anti-Aβ antibody; FDA approved*
-- ← [[Donanemab]] (drug) - *Anti-Aβ antibody*
-- ← [[BACE1 Inhibitors]] (drug) - *Reduce production*
-- ← [[γ-Secretase Modulators]] (drug) - *Shift Aβ42/40 ratio*
-
-## Therapeutic Strategies
-
-### Production Inhibition
-- BACE1 inhibitors (discontinued due to toxicity)
-- γ-secretase modulators
-
-### Clearance Enhancement
-- Anti-Aβ immunotherapy (successful)
-- APOE-targeted approaches
-- Proteolytic degradation enhancement
-
-### Aggregation Prevention
-- Small molecule aggregation inhibitors
-- Oligomer-selective antibodies
-
-### Combination Approaches
-- Anti-amyloid + anti-tau
-- Disease-modifying + symptomatic
-
-## Current Status (2025)
-
-### FDA-Approved Therapies
-- **Lecanemab (Leqembi)**: Protofibrils; ~27% slowing
-- **Donanemab (Kisunla)**: N-terminal Aβ; ~35% slowing
-
-### Implications
-- Validates amyloid as therapeutic target
-- Earlier intervention likely more effective
-- Combination with tau therapies anticipated
-
-## References
-1. **Original Hypothesis**: Hardy, J., et al. (1992). "The amyloid cascade hypothesis." *Science*.
-2. **Oligomer Hypothesis**: Selkoe, D.J. (2002). "Alzheimer's disease is a synaptic failure." *Science*.
-3. **Lecanemab Trial**: van Dyck, C.H., et al. (2023). "Lecanemab in early Alzheimer's disease." *NEJM*.
+{% endraw %}

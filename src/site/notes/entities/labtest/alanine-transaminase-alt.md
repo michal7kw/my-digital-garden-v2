@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.541080Z'
+created: '2026-02-09T05:40:21.270203Z'
 description: Tested twice a year Alanine aminotransferase (ALT) is an enzyme found
   in the liver that helps process nutrients and toxins. Elevated ALT levels in the
   blood can signal liver cell damage, making it a useful marker of liver health.
@@ -10,146 +10,175 @@ permalink: /garden/dev_admin/labtest/alanine-transaminase-alt/
 slug: alanine-transaminase-alt
 tags:
 - labtest
+templateEngineOverride: njk
 title: alanine_transaminase_alt
 type: labtest
-updated: '2026-02-08T19:45:44.541080Z'
+updated: '2026-02-09T05:40:21.270203Z'
 ---
 
-# Alanine Transaminase (ALT)
-
-## Overview
-Tested twice a year Alanine aminotransferase (ALT) is an enzyme found in the liver that helps process nutrients and toxins. Elevated ALT levels in the blood can signal liver cell damage, making it a useful marker of liver health.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Liver Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)]]
-- [[Viral Hepatitis]]
-- [[Alcohol-Related Liver Injury]]
-- [[Autoimmune Hepatitis]]
-- [[Drug-Induced Liver Injury]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Alanine Transaminase (ALT)</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Alanine aminotransferase (ALT) is an enzyme found in the liver that helps process nutrients and toxins. Elevated ALT levels in the blood can signal liver cell damage, making it a useful marker of liver health.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Liver Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)]]</li>
+<li>[[Viral Hepatitis]]</li>
+<li>[[Alcohol-Related Liver Injury]]</li>
+<li>[[Autoimmune Hepatitis]]</li>
+<li>[[Drug-Induced Liver Injury]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Autoimmune_Hepatitis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:06.704918'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Autoimmune_Hepatitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
-```
-- → [[Drug-Induced_Liver_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:06.704918'
+</code></pre>
+<ul>
+<li>→ [[Drug-Induced_Liver_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
-```
-- → [[Viral_Hepatitis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:06.704918'
+</code></pre>
+<ul>
+<li>→ [[Viral_Hepatitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
-```
-- → [[Alcohol-Related_Liver_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:06.704918'
+</code></pre>
+<ul>
+<li>→ [[Alcohol-Related_Liver_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
-```
-- → [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:06.704918'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
 source: obsidian
-```
-- → [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- → [[Viral_Hepatitis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>→ [[Viral_Hepatitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- → [[Autoimmune_Hepatitis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- → [[Alcohol-Related_Liver_Injury]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- → [[Drug-Induced_Liver_Injury]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- ← [[Drug-Induced_Liver_Injury]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:27.359033'
+</code></pre>
+<ul>
+<li>← [[Drug-Induced_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
-```
-- ← [[Autoimmune_Hepatitis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+</code></pre>
+<ul>
+<li>← [[Autoimmune_Hepatitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- ← [[Alcohol-Related_Liver_Injury]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:22.914283'
+</code></pre>
+<ul>
+<li>← [[Alcohol-Related_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
 source: obsidian
-```
-
-### May Detect
-- → [[Drug-Induced_Liver_Injury]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Autoimmune_Hepatitis]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Alcohol-Related_Liver_Injury]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Alcohol-Related_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:13.316870</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:13.316870*
+{% endraw %}

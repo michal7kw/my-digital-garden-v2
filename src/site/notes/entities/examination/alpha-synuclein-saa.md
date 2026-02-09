@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.525954Z'
+created: '2026-02-09T05:40:21.184503Z'
 description: Seed Amplification Assay (formerly RT-QuIC) that detects misfolded alpha-synuclein
   in CSF or tissue with >95% sensitivity and specificity for synucleinopathies. FDA
   approved in 2024, revolutionizing Parkinson's disease diagnosis.
@@ -15,131 +15,187 @@ tags:
 - parkinsons
 - synucleinopathy
 - fda-approved
+templateEngineOverride: njk
 title: Alpha-Synuclein SAA
 type: examination
-updated: '2026-02-08T19:45:44.525954Z'
+updated: '2026-02-09T05:40:21.184503Z'
 ---
 
-# Alpha-Synuclein Seed Amplification Assay (αSyn-SAA)
-
-## Overview
-Alpha-Synuclein Seed Amplification Assay (αSyn-SAA, formerly RT-QuIC) is a revolutionary diagnostic test that detects misfolded alpha-synuclein aggregates by amplifying trace amounts of pathological "seeds" in biological samples. With >95% sensitivity and specificity for synucleinopathies, this test provides the first objective biological confirmation of Parkinson's disease. FDA approval in 2024 represents a paradigm shift from purely clinical diagnosis.
-
-## Technology Principles
-
-### Seed Amplification
-1. Patient sample (CSF) contains misfolded α-synuclein seeds
-2. Added to reaction with recombinant α-synuclein substrate
-3. Seeds template misfolding of substrate (prion-like)
-4. Aggregation detected via thioflavin T fluorescence
-5. Positive = exponential fluorescence increase
-
-### Key Metrics
-- **Fluorescence threshold crossing**: Positive indicator
-- **Time to threshold**: May correlate with disease
-- **Maximum fluorescence**: Aggregate amount
-
-## FDA Approval (2024)
-
-### SYNTap Biomarker Test (Amprion)
-- First FDA-approved synuclein biomarker
-- CSF-based test
-- Indicated for synucleinopathy detection
-- 93% sensitivity, 96% specificity in trials
-
-### Clinical Indication
-- Patients with parkinsonism of uncertain etiology
-- Differentiation from non-synuclein conditions
-- Prodromal/at-risk individuals (REM sleep behavior disorder)
-
-## Clinical Performance
-
-### Sensitivity and Specificity
-| Condition | Sensitivity | Specificity |
-|-----------|-------------|-------------|
-| Parkinson's disease | 87-98% | 90-100% |
-| DLB | 90-96% | 90-100% |
-| MSA | 70-95% | 90-100% |
-| Controls (healthy) | 0-5% | 95-100% |
-| AD/FTD (non-synuclein) | 2-8% | 92-98% |
-
-### Prodromal Detection
-- **Isolated REM sleep behavior disorder**: 85-95% positive
-- Predicts conversion to clinical PD/DLB
-- Years before motor symptoms
-- Enables early intervention trials
-
-## Sample Types
-
-### CSF (Primary - FDA Approved)
-- Gold standard for αSyn-SAA
-- Collected via lumbar puncture
-- Highest sensitivity
-- ~10 mL needed
-
-### Skin Biopsy (Emerging)
-- Detects α-synuclein in cutaneous nerves
-- Less invasive than LP
-- Studies show 90%+ sensitivity
-- Not yet FDA approved
-- Punch biopsy technique
-
-### Other (Research)
-- Olfactory mucosa
-- Submandibular gland
-- GI mucosal biopsy
-- Blood (challenging, under development)
-
-## Clinical Applications
-
-### Diagnostic Confirmation
-1. **Uncertain parkinsonism**: Is it a synucleinopathy?
-2. **Tremor differential**: Essential tremor vs. PD
-3. **Atypical presentation**: Young onset, atypical features
-4. **Drug-induced vs. degenerative**: Medication effect vs. disease
-
-### Prodromal/At-Risk Screening
-1. **REM sleep behavior disorder**: High conversion risk
-2. **Hyposmia + constipation**: Early non-motor features
-3. **LRRK2/GBA carriers**: Genetic risk stratification
-4. **Research cohorts**: Trial enrichment
-
-### Differentiation
-| Comparison | αSyn-SAA Result |
-|------------|-----------------|
-| PD vs. Essential Tremor | Positive vs. Negative |
-| PD vs. Drug-induced | Positive vs. Negative |
-| PD vs. Vascular parkinsonism | Positive vs. Negative |
-| DLB vs. AD | Positive vs. Negative |
-| MSA vs. PD | Both positive (distinct kinetics in some studies) |
-
-## Relationships
-
-### Conditions (Positive SAA)
-- → [[Parkinson's Disease]] (condition) - *Confirmatory test*
-- → [[Lewy Body Dementia]] (condition) - *High sensitivity*
-- → [[Multiple System Atrophy]] (condition) - *Usually positive*
-- → [[REM Sleep Behavior Disorder]] (condition) - *Prodromal marker*
-
-### Conditions (Negative SAA)
-- → [[Essential Tremor]] (condition) - *Helps exclude PD*
-- → [[Progressive Supranuclear Palsy]] (condition) - *Negative (tauopathy)*
-- → [[Corticobasal Degeneration]] (condition) - *Negative (tauopathy)*
-- → [[Alzheimer's Disease]] (condition) - *Negative (unless Lewy copathology)*
-
-### Related Biomarkers
-- → [[Neurofilament Light Chain]] (biomarker) - *Neurodegeneration complement*
-- → [[DAT-SPECT]] (examination) - *Dopamine imaging*
-- → [[Blood NfL]] (biomarker) - *Accessible complement*
-
-### Pathways
-- → [[Alpha-Synuclein Aggregation]] (pathway) - *Directly detected*
-
-## Integration with Other Diagnostics
-
-### Proposed Diagnostic Algorithm (2025)
-```
-Clinical Parkinsonism
+{% raw %}
+<h1>Alpha-Synuclein Seed Amplification Assay (αSyn-SAA)</h1>
+<h2>Overview</h2>
+<p>Alpha-Synuclein Seed Amplification Assay (αSyn-SAA, formerly RT-QuIC) is a revolutionary diagnostic test that detects misfolded alpha-synuclein aggregates by amplifying trace amounts of pathological &quot;seeds&quot; in biological samples. With &gt;95% sensitivity and specificity for synucleinopathies, this test provides the first objective biological confirmation of Parkinson's disease. FDA approval in 2024 represents a paradigm shift from purely clinical diagnosis.</p>
+<h2>Technology Principles</h2>
+<h3>Seed Amplification</h3>
+<ol>
+<li>Patient sample (CSF) contains misfolded α-synuclein seeds</li>
+<li>Added to reaction with recombinant α-synuclein substrate</li>
+<li>Seeds template misfolding of substrate (prion-like)</li>
+<li>Aggregation detected via thioflavin T fluorescence</li>
+<li>Positive = exponential fluorescence increase</li>
+</ol>
+<h3>Key Metrics</h3>
+<ul>
+<li><strong>Fluorescence threshold crossing</strong>: Positive indicator</li>
+<li><strong>Time to threshold</strong>: May correlate with disease</li>
+<li><strong>Maximum fluorescence</strong>: Aggregate amount</li>
+</ul>
+<h2>FDA Approval (2024)</h2>
+<h3>SYNTap Biomarker Test (Amprion)</h3>
+<ul>
+<li>First FDA-approved synuclein biomarker</li>
+<li>CSF-based test</li>
+<li>Indicated for synucleinopathy detection</li>
+<li>93% sensitivity, 96% specificity in trials</li>
+</ul>
+<h3>Clinical Indication</h3>
+<ul>
+<li>Patients with parkinsonism of uncertain etiology</li>
+<li>Differentiation from non-synuclein conditions</li>
+<li>Prodromal/at-risk individuals (REM sleep behavior disorder)</li>
+</ul>
+<h2>Clinical Performance</h2>
+<h3>Sensitivity and Specificity</h3>
+<table>
+<thead>
+<tr>
+<th>Condition</th>
+<th>Sensitivity</th>
+<th>Specificity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Parkinson's disease</td>
+<td>87-98%</td>
+<td>90-100%</td>
+</tr>
+<tr>
+<td>DLB</td>
+<td>90-96%</td>
+<td>90-100%</td>
+</tr>
+<tr>
+<td>MSA</td>
+<td>70-95%</td>
+<td>90-100%</td>
+</tr>
+<tr>
+<td>Controls (healthy)</td>
+<td>0-5%</td>
+<td>95-100%</td>
+</tr>
+<tr>
+<td>AD/FTD (non-synuclein)</td>
+<td>2-8%</td>
+<td>92-98%</td>
+</tr>
+</tbody>
+</table>
+<h3>Prodromal Detection</h3>
+<ul>
+<li><strong>Isolated REM sleep behavior disorder</strong>: 85-95% positive</li>
+<li>Predicts conversion to clinical PD/DLB</li>
+<li>Years before motor symptoms</li>
+<li>Enables early intervention trials</li>
+</ul>
+<h2>Sample Types</h2>
+<h3>CSF (Primary - FDA Approved)</h3>
+<ul>
+<li>Gold standard for αSyn-SAA</li>
+<li>Collected via lumbar puncture</li>
+<li>Highest sensitivity</li>
+<li>~10 mL needed</li>
+</ul>
+<h3>Skin Biopsy (Emerging)</h3>
+<ul>
+<li>Detects α-synuclein in cutaneous nerves</li>
+<li>Less invasive than LP</li>
+<li>Studies show 90%+ sensitivity</li>
+<li>Not yet FDA approved</li>
+<li>Punch biopsy technique</li>
+</ul>
+<h3>Other (Research)</h3>
+<ul>
+<li>Olfactory mucosa</li>
+<li>Submandibular gland</li>
+<li>GI mucosal biopsy</li>
+<li>Blood (challenging, under development)</li>
+</ul>
+<h2>Clinical Applications</h2>
+<h3>Diagnostic Confirmation</h3>
+<ol>
+<li><strong>Uncertain parkinsonism</strong>: Is it a synucleinopathy?</li>
+<li><strong>Tremor differential</strong>: Essential tremor vs. PD</li>
+<li><strong>Atypical presentation</strong>: Young onset, atypical features</li>
+<li><strong>Drug-induced vs. degenerative</strong>: Medication effect vs. disease</li>
+</ol>
+<h3>Prodromal/At-Risk Screening</h3>
+<ol>
+<li><strong>REM sleep behavior disorder</strong>: High conversion risk</li>
+<li><strong>Hyposmia + constipation</strong>: Early non-motor features</li>
+<li><strong>LRRK2/GBA carriers</strong>: Genetic risk stratification</li>
+<li><strong>Research cohorts</strong>: Trial enrichment</li>
+</ol>
+<h3>Differentiation</h3>
+<table>
+<thead>
+<tr>
+<th>Comparison</th>
+<th>αSyn-SAA Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PD vs. Essential Tremor</td>
+<td>Positive vs. Negative</td>
+</tr>
+<tr>
+<td>PD vs. Drug-induced</td>
+<td>Positive vs. Negative</td>
+</tr>
+<tr>
+<td>PD vs. Vascular parkinsonism</td>
+<td>Positive vs. Negative</td>
+</tr>
+<tr>
+<td>DLB vs. AD</td>
+<td>Positive vs. Negative</td>
+</tr>
+<tr>
+<td>MSA vs. PD</td>
+<td>Both positive (distinct kinetics in some studies)</td>
+</tr>
+</tbody>
+</table>
+<h2>Relationships</h2>
+<h3>Conditions (Positive SAA)</h3>
+<ul>
+<li>→ [[Parkinson's Disease]] (condition) - <em>Confirmatory test</em></li>
+<li>→ [[Lewy Body Dementia]] (condition) - <em>High sensitivity</em></li>
+<li>→ [[Multiple System Atrophy]] (condition) - <em>Usually positive</em></li>
+<li>→ [[REM Sleep Behavior Disorder]] (condition) - <em>Prodromal marker</em></li>
+</ul>
+<h3>Conditions (Negative SAA)</h3>
+<ul>
+<li>→ [[Essential Tremor]] (condition) - <em>Helps exclude PD</em></li>
+<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>Negative (tauopathy)</em></li>
+<li>→ [[Corticobasal Degeneration]] (condition) - <em>Negative (tauopathy)</em></li>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Negative (unless Lewy copathology)</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neurodegeneration complement</em></li>
+<li>→ [[DAT-SPECT]] (examination) - <em>Dopamine imaging</em></li>
+<li>→ [[Blood NfL]] (biomarker) - <em>Accessible complement</em></li>
+</ul>
+<h3>Pathways</h3>
+<ul>
+<li>→ [[Alpha-Synuclein Aggregation]] (pathway) - <em>Directly detected</em></li>
+</ul>
+<h2>Integration with Other Diagnostics</h2>
+<h3>Proposed Diagnostic Algorithm (2025)</h3>
+<pre><code>Clinical Parkinsonism
         ↓
     αSyn-SAA (CSF)
         ↓
@@ -152,49 +208,56 @@ confirmed         Consider:
 DAT-SPECT if      - Vascular
 needed for        - Drug-induced
 subtype           - Essential tremor
-```
+</code></pre>
+<h3>NSD-ISS Criteria (2024)</h3>
+<ul>
+<li>New PD classification integrating SAA</li>
+<li>Biological definition of disease</li>
+<li>Stages based on biomarkers + symptoms</li>
+</ul>
+<h2>Advantages and Limitations</h2>
+<h3>Advantages</h3>
+<ul>
+<li><strong>Objective biological diagnosis</strong> (vs. clinical alone)</li>
+<li><strong>Very high accuracy</strong> (&gt;95%)</li>
+<li><strong>Prodromal detection</strong> (years before motor symptoms)</li>
+<li><strong>FDA approved</strong> (clinical implementation)</li>
+<li><strong>Differentiates from mimics</strong></li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>Requires lumbar puncture (CSF)</li>
+<li>MSA may differ from PD/DLB kinetics</li>
+<li>Cannot distinguish PD from DLB</li>
+<li>Rare false positives in very elderly</li>
+<li>Cost and availability still limited</li>
+</ul>
+<h2>Future Directions</h2>
+<h3>Blood-Based SAA</h3>
+<ul>
+<li>Active research area</li>
+<li>Neuronal exosomes as sample</li>
+<li>Early results promising but challenging</li>
+<li>Would eliminate LP requirement</li>
+</ul>
+<h3>Skin Biopsy Validation</h3>
+<ul>
+<li>Less invasive than LP</li>
+<li>Multi-site studies ongoing</li>
+<li>Potential office-based procedure</li>
+</ul>
+<h3>Treatment Trials</h3>
+<ul>
+<li>Enrich trials with SAA-confirmed disease</li>
+<li>Track aggregation as outcome</li>
+<li>Enable prevention trials in prodromal</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>FDA Approval</strong>: Amprion SYNTap Biomarker Test (2024). FDA News Release.</li>
+<li><strong>Validation</strong>: Siderowf, A., et al. (2023). &quot;α-Synuclein SAA in PPMI cohort.&quot; <em>The Lancet Neurology</em>.</li>
+<li><strong>Prodromal</strong>: Iranzo, A., et al. (2021). &quot;αSyn-SAA in isolated RBD.&quot; <em>The Lancet Neurology</em>.</li>
+<li><strong>NSD-ISS Criteria</strong>: Höglinger, G.U., et al. (2024). &quot;A biological classification of PD.&quot; <em>The Lancet Neurology</em>.</li>
+</ol>
 
-### NSD-ISS Criteria (2024)
-- New PD classification integrating SAA
-- Biological definition of disease
-- Stages based on biomarkers + symptoms
-
-## Advantages and Limitations
-
-### Advantages
-- **Objective biological diagnosis** (vs. clinical alone)
-- **Very high accuracy** (>95%)
-- **Prodromal detection** (years before motor symptoms)
-- **FDA approved** (clinical implementation)
-- **Differentiates from mimics**
-
-### Limitations
-- Requires lumbar puncture (CSF)
-- MSA may differ from PD/DLB kinetics
-- Cannot distinguish PD from DLB
-- Rare false positives in very elderly
-- Cost and availability still limited
-
-## Future Directions
-
-### Blood-Based SAA
-- Active research area
-- Neuronal exosomes as sample
-- Early results promising but challenging
-- Would eliminate LP requirement
-
-### Skin Biopsy Validation
-- Less invasive than LP
-- Multi-site studies ongoing
-- Potential office-based procedure
-
-### Treatment Trials
-- Enrich trials with SAA-confirmed disease
-- Track aggregation as outcome
-- Enable prevention trials in prodromal
-
-## References
-1. **FDA Approval**: Amprion SYNTap Biomarker Test (2024). FDA News Release.
-2. **Validation**: Siderowf, A., et al. (2023). "α-Synuclein SAA in PPMI cohort." *The Lancet Neurology*.
-3. **Prodromal**: Iranzo, A., et al. (2021). "αSyn-SAA in isolated RBD." *The Lancet Neurology*.
-4. **NSD-ISS Criteria**: Höglinger, G.U., et al. (2024). "A biological classification of PD." *The Lancet Neurology*.
+{% endraw %}

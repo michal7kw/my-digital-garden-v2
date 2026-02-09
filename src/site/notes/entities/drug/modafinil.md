@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.520331Z'
+created: '2026-02-09T05:40:21.162813Z'
 description: Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift
   work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from
   traditional stimulants.
@@ -15,42 +15,25 @@ tags:
 - nootropic
 - cognitive_enhancer
 - prescription
+templateEngineOverride: njk
 title: Modafinil
 type: drug
-updated: '2026-02-08T19:45:44.520331Z'
+updated: '2026-02-09T05:40:21.162813Z'
 ---
 
-# Modafinil
-
-## Overview
-Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from traditional stimulants.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Modafinil</h1>
+<h2>Overview</h2>
+<p>Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from traditional stimulants.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

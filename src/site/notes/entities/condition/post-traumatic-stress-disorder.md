@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.499112Z'
+created: '2026-02-09T05:40:21.061923Z'
 description: A mental health condition triggered by experiencing or witnessing a terrifying
   event, characterized by flashbacks, nightmares, and severe anxiety.
 dg-home: false
@@ -12,51 +12,53 @@ tags:
 - psychiatry
 - trauma
 - anxiety
+templateEngineOverride: njk
 title: Post-Traumatic Stress Disorder
 type: condition
-updated: '2026-02-08T19:45:44.499112Z'
+updated: '2026-02-09T05:40:21.061923Z'
 ---
 
-# Post-Traumatic Stress Disorder
-
-## Overview
-
-Post-Traumatic Stress Disorder (PTSD) is a disorder that develops in some people who have experienced a shocking, scary, or dangerous event. Symptoms must last more than a month and be severe enough to interfere with relationships or work to be diagnosed as PTSD.
-
-## Diagnostic Clusters
-
-1.  **Re-experiencing:** Flashbacks, physical symptoms of stress.
-2.  **Avoidance:** Staying away from places/events that are reminders.
-3.  **Arousal and Reactivity:** Being easily startled, feeling "on edge."
-4.  **Cognition and Mood:** Trouble remembering the event, negative thoughts.
-
+{% raw %}
+<h1>Post-Traumatic Stress Disorder</h1>
+<h2>Overview</h2>
+<p>Post-Traumatic Stress Disorder (PTSD) is a disorder that develops in some people who have experienced a shocking, scary, or dangerous event. Symptoms must last more than a month and be severe enough to interfere with relationships or work to be diagnosed as PTSD.</p>
+<h2>Diagnostic Clusters</h2>
+<ol>
+<li><strong>Re-experiencing:</strong> Flashbacks, physical symptoms of stress.</li>
+<li><strong>Avoidance:</strong> Staying away from places/events that are reminders.</li>
+<li><strong>Arousal and Reactivity:</strong> Being easily startled, feeling &quot;on edge.&quot;</li>
+<li><strong>Cognition and Mood:</strong> Trouble remembering the event, negative thoughts.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Post-Traumatic_Stress_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:50.859126'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Post-Traumatic_Stress_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.859126'
 source: obsidian
-```
-- → [[Post-Traumatic_Stress_Disorder]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:55.326571'
+</code></pre>
+<ul>
+<li>→ [[Post-Traumatic_Stress_Disorder]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:55.326571'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
+ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
+ASSOCIATED_WITH_CONDITION::[[Substance Abuse]]<br />
+TREATED_BY_DRUG::[[Sertraline]] - SSRI.<br />
+TREATED_BY_DRUG::[[Paroxetine]]<br />
+TREATED_BY_DRUG::[[Prazosin]] - For nightmares.<br />
+IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
+IMPROVED_BY_INTERVENTION::[[EMDR]]</p>
+<h2>References</h2>
+<ul>
+<li>American Psychiatric Association. DSM-5.</li>
+<li>NIMH. Post-Traumatic Stress Disorder.</li>
+<li>Yehuda, R., et al. (2015). Post-traumatic stress disorder. Nature Reviews Disease Primers.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Depression]]
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]
-ASSOCIATED_WITH_CONDITION::[[Substance Abuse]]
-TREATED_BY_DRUG::[[Sertraline]] - SSRI.
-TREATED_BY_DRUG::[[Paroxetine]]
-TREATED_BY_DRUG::[[Prazosin]] - For nightmares.
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]
-IMPROVED_BY_INTERVENTION::[[EMDR]]
-
-## References
-
-- American Psychiatric Association. DSM-5.
-- NIMH. Post-Traumatic Stress Disorder.
-- Yehuda, R., et al. (2015). Post-traumatic stress disorder. Nature Reviews Disease Primers.
+{% endraw %}

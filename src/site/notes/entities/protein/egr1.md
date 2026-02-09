@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.637907Z'
+created: '2026-02-09T05:40:22.103075Z'
 description: Transcriptional regulator involved in differentiation, mitogenesis, and
   synaptic plasticity.
 dg-home: false
@@ -14,102 +14,120 @@ tags:
 - memory
 - imported
 - primekg
+templateEngineOverride: njk
 title: EGR1
 type: protein
-updated: '2026-02-08T19:45:44.637907Z'
+updated: '2026-02-09T05:40:22.103075Z'
 ---
 
-# EGR1
-
-## Overview
-**EGR1 (Early Growth Response 1)** acts as a nuclear gateway, translating extracellular signals into long-term changes in gene expression.
-
-In the brain, EGR1 expression is a marker of neuronal activity. During learning tasks, EGR1 is upregulated in the hippocampus and is required for the stabilization of memories (consolidation).
-
+{% raw %}
+<h1>EGR1</h1>
+<h2>Overview</h2>
+<p><strong>EGR1 (Early Growth Response 1)</strong> acts as a nuclear gateway, translating extracellular signals into long-term changes in gene expression.</p>
+<p>In the brain, EGR1 expression is a marker of neuronal activity. During learning tasks, EGR1 is upregulated in the hippocampus and is required for the stabilization of memories (consolidation).</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[EP300]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:01.559232'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[EP300]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.559232'
 source: obsidian
-```
-- → [[MAPK_Signaling_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:01.440868'
+</code></pre>
+<ul>
+<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
-```
-- → [[Synaptic_Plasticity]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:01.440868'
+</code></pre>
+<ul>
+<li>→ [[Synaptic_Plasticity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
-```
-- → [[Synaptic_Plasticity]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[Synaptic_Plasticity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[MAPK_Signaling_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[Ischemia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[Ischemia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[NAB2]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[NAB2]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[NAB1]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[NAB1]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[Schizophrenia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[Schizophrenia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[EP300]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:30.994608'
+</code></pre>
+<ul>
+<li>→ [[EP300]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.994608'
 source: obsidian
-```
-- → [[EGR1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:07:46.458474'
+</code></pre>
+<ul>
+<li>→ [[EGR1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.458474'
 source: obsidian
-```
-- → [[CTNNB1]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:01.440868'
+</code></pre>
+<ul>
+<li>→ [[CTNNB1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:01.440868'
 source: obsidian
-```
-- ← [[CTNNB1]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:00.223477'
+</code></pre>
+<ul>
+<li>← [[CTNNB1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Participates in Pathway</h3>
+<ul>
+<li>→ [[Synaptic Plasticity]] (pathway) - <em>Long-Term Potentiation</em></li>
+<li>→ [[MAPK Signaling Pathway]] (pathway) - <em>Upstream activator</em></li>
+</ul>
+<h3>Interacts With</h3>
+<ul>
+<li>→ [[EP300]] (protein) - <em>Coactivator</em></li>
+<li>→ [[NAB1]] (protein) - <em>Corepressor</em></li>
+<li>→ [[NAB2]] (protein) - <em>Corepressor</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Schizophrenia]] (condition) - <em>Downregulated in PFC</em></li>
+<li>→ [[Ischemia]] (condition) - <em>Rapidly induced</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>UniProt</strong>: P18146 (EGR1_HUMAN)</li>
+<li><strong>Review</strong>: Veyrac, A., et al. (2014). &quot;Egr1: a pilot for distinct memory traces?&quot; <em>Frontiers in Behavioral Neuroscience</em>.</li>
+</ol>
 
-### Participates in Pathway
-- → [[Synaptic Plasticity]] (pathway) - *Long-Term Potentiation*
-- → [[MAPK Signaling Pathway]] (pathway) - *Upstream activator*
-
-### Interacts With
-- → [[EP300]] (protein) - *Coactivator*
-- → [[NAB1]] (protein) - *Corepressor*
-- → [[NAB2]] (protein) - *Corepressor*
-
-### Related Conditions
-- → [[Schizophrenia]] (condition) - *Downregulated in PFC*
-- → [[Ischemia]] (condition) - *Rapidly induced*
-
-## References
-1. **UniProt**: P18146 (EGR1_HUMAN)
-2. **Review**: Veyrac, A., et al. (2014). "Egr1: a pilot for distinct memory traces?" *Frontiers in Behavioral Neuroscience*.
+{% endraw %}

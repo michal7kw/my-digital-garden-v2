@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.658315Z'
+created: '2026-02-09T05:40:22.234023Z'
 description: Pyrroloquinoline quinone - a novel redox cofactor that supports mitochondrial
   biogenesis. Promotes PGC-1α expression, enhances mitochondrial function, and provides
   neuroprotection.
@@ -15,88 +15,94 @@ tags:
 - nootropic
 - longevity
 - energy
+templateEngineOverride: njk
 title: PQQ
 type: supplement
-updated: '2026-02-08T19:45:44.658315Z'
+updated: '2026-02-09T05:40:22.234023Z'
 ---
 
-# PQQ
-
-## Overview
-Pyrroloquinoline quinone - a novel redox cofactor that supports mitochondrial biogenesis. Promotes PGC-1α expression, enhances mitochondrial function, and provides neuroprotection.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>PQQ</h1>
+<h2>Overview</h2>
+<p>Pyrroloquinoline quinone - a novel redox cofactor that supports mitochondrial biogenesis. Promotes PGC-1α expression, enhances mitochondrial function, and provides neuroprotection.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[PGC-1alpha]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:53.580760'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[PGC-1alpha]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
-```
-- → [[TFAM]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:53.580760'
+</code></pre>
+<ul>
+<li>→ [[TFAM]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T06:42:53.580760'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
-```
-- → [[Oxidative_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:53.580760'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
 source: obsidian
-```
-- → [[CoQ10]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:40.297812'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.297812'
 source: obsidian
-```
-- ← [[TFAM]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:34.241083'
+</code></pre>
+<ul>
+<li>← [[TFAM]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
 source: obsidian
-```
-- ← [[PGC-1alpha]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:31.809686'
+</code></pre>
+<ul>
+<li>← [[PGC-1alpha]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
 source: obsidian
-```
-- ← [[Oxidative_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>← [[Oxidative_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Synergistic With
-- ← [[CoQ10]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.687549'
+<h2>Relationships</h2>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.687549'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:00.698822'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:14.053054'
+source: obsidian
+</code></pre>
 
-### Related
-- ← [[CoQ10]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:00.698822'
-source: obsidian
-```
-- → [[CoQ10]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:14.053054'
-source: obsidian
-```
+{% endraw %}

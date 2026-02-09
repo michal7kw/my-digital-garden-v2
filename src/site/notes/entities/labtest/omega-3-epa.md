@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.575556Z'
+created: '2026-02-09T05:40:21.446118Z'
 description: 'oh-MAY-guh three: E-P-A Eicosapentaenoic acid (EPA) is an omega-3 fatty
   acid that helps regulate inflammation and supports cardiovascular, brain, and joint
   health. It also plays a role in maintaining healthy blood vessel function and overall
@@ -12,79 +12,97 @@ permalink: /garden/dev_admin/labtest/omega-3-epa/
 slug: omega-3-epa
 tags:
 - labtest
+templateEngineOverride: njk
 title: omega_3_epa
 type: labtest
-updated: '2026-02-08T19:45:44.575556Z'
+updated: '2026-02-09T05:40:21.446118Z'
 ---
 
-# Omega-3: EPA
-
-## Overview
-oh-MAY-guh three: E-P-A Eicosapentaenoic acid (EPA) is an omega-3 fatty acid that helps regulate inflammation and supports cardiovascular, brain, and joint health. It also plays a role in maintaining healthy blood vessel function and overall metabolic balance. Measuring EPA provides insight into omega-3 status and dietary balance.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Functional Medicine |
-| **Subcategory** | Nutrient Panel || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-General health screening.
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Omega-3: EPA</h1>
+<h2>Overview</h2>
+<p>oh-MAY-guh three: E-P-A Eicosapentaenoic acid (EPA) is an omega-3 fatty acid that helps regulate inflammation and supports cardiovascular, brain, and joint health. It also plays a role in maintaining healthy blood vessel function and overall metabolic balance. Measuring EPA provides insight into omega-3 status and dietary balance.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Functional Medicine</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Nutrient Panel</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.244890'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
-```
-- ← [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.904495'
+</code></pre>
+<ul>
+<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
-```
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:22.654615'
+</code></pre>
+<ul>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.654615'
 source: obsidian
-```
-- → [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:22.654615'
+</code></pre>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.654615'
 source: obsidian
-```
-
-### Included In
-- → [[mthfr_gene]] (labtestpanel)
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:37.180195</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:37.180195*
+{% endraw %}

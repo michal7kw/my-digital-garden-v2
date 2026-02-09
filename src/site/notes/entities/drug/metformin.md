@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.519869Z'
+created: '2026-02-09T05:40:21.160199Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -12,222 +12,240 @@ tags:
 - metabolic
 - longevity
 - prescription
+templateEngineOverride: njk
 title: METFORMIN
 type: drug
-updated: '2026-02-08T19:45:44.519869Z'
+updated: '2026-02-09T05:40:21.160199Z'
 ---
 
-# METFORMIN
-
-## Overview
-
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>METFORMIN</h1>
+<h2>Overview</h2>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Cognitive_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cognitive_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Non-alcoholic_Fatty_Liver_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Non-alcoholic_Fatty_Liver_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Adenomatous_Polyposis_Coli]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Adenomatous_Polyposis_Coli]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Colorectal_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Colorectal_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Polycystic_Ovary_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Polycystic_Ovary_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Prostatic_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Prostatic_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Weight_Gain]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Weight_Gain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Periodontitis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Periodontitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Carcinoma_Non-Small-Cell_Lung]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Carcinoma_Non-Small-Cell_Lung]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Breast_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Breast_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Leukemia_Lymphocytic_Chronic_B-Cell]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Leukemia_Lymphocytic_Chronic_B-Cell]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Diabetes_Gestational]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Diabetes_Gestational]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Carcinoma_Squamous_Cell]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Carcinoma_Squamous_Cell]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Peripheral_Arterial_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Peripheral_Arterial_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- → [[Diabetes_Mellitus]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.514279'
+</code></pre>
+<ul>
+<li>→ [[Diabetes_Mellitus]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.514279'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Diabetes_Gestational]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Weight_Gain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Diabetes_Mellitus]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Leukemia_Lymphocytic_Chronic_B-Cell]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Breast_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Polycystic_Ovary_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Peripheral_Arterial_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Prostatic_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Carcinoma_Non-Small-Cell_Lung]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Adenomatous_Polyposis_Coli]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Colorectal_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Carcinoma_Squamous_Cell]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Non-alcoholic_Fatty_Liver_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Periodontitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:00.289859'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Diabetes_Gestational]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Weight_Gain]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Diabetes_Mellitus]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Leukemia_Lymphocytic_Chronic_B-Cell]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Breast_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Polycystic_Ovary_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Peripheral_Arterial_Disease]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Prostatic_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Carcinoma_Non-Small-Cell_Lung]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Adenomatous_Polyposis_Coli]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Colorectal_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Carcinoma_Squamous_Cell]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Non-alcoholic_Fatty_Liver_Disease]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Cognitive_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- → [[Periodontitis]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:00.289859'
-source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
-source: obsidian
-```
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.529262Z'
+created: '2026-02-09T05:40:21.213536Z'
 description: Positron emission tomography using radiotracers that bind to tau neurofibrillary
   tangles. Correlates strongly with cognitive symptoms and disease progression in
   Alzheimer's disease and other tauopathies.
@@ -15,164 +15,248 @@ tags:
 - alzheimers
 - tau
 - tauopathy
+templateEngineOverride: njk
 title: Tau PET Imaging
 type: examination
-updated: '2026-02-08T19:45:44.529262Z'
+updated: '2026-02-09T05:40:21.213536Z'
 ---
 
-# Tau PET Imaging
+{% raw %}
+<h1>Tau PET Imaging</h1>
+<h2>Overview</h2>
+<p>Tau PET imaging visualizes tau neurofibrillary tangles (NFTs) in the living brain using radiotracers selective for aggregated tau protein. Unlike amyloid PET, tau PET signal correlates strongly with cognitive symptoms, neurodegeneration, and clinical disease stage. Tau pathology spreads in a predictable pattern (Braak staging), and tau PET can track this progression.</p>
+<h2>FDA-Approved and Research Tracers</h2>
+<table>
+<thead>
+<tr>
+<th>Tracer</th>
+<th>Status</th>
+<th>Selectivity</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[18F]Flortaucipir (Tauvid)</td>
+<td>FDA approved (2020)</td>
+<td>3R/4R tau (AD)</td>
+<td>Some off-target binding</td>
+</tr>
+<tr>
+<td>[18F]PI-2620</td>
+<td>Research</td>
+<td>3R/4R and 4R tau</td>
+<td>Better for non-AD tauopathies</td>
+</tr>
+<tr>
+<td>[18F]MK-6240</td>
+<td>Research/trials</td>
+<td>3R/4R tau</td>
+<td>Lower off-target binding</td>
+</tr>
+<tr>
+<td>[18F]RO-948</td>
+<td>Research</td>
+<td>3R/4R tau</td>
+<td>Minimal off-target</td>
+</tr>
+<tr>
+<td>[18F]GTP1</td>
+<td>Research</td>
+<td>3R/4R tau</td>
+<td>Genentech tracer</td>
+</tr>
+</tbody>
+</table>
+<h3>Tau Isoforms</h3>
+<ul>
+<li><strong>3R/4R tau</strong>: Alzheimer's disease, CTE</li>
+<li><strong>4R tau</strong>: PSP, CBD</li>
+<li><strong>3R tau</strong>: Pick's disease</li>
+<li>First-gen tracers (flortaucipir) bind 3R/4R best</li>
+</ul>
+<h2>Clinical Indications</h2>
+<h3>FDA-Approved Use (Flortaucipir)</h3>
+<ul>
+<li>Estimating density and distribution of tau NFTs in adults with cognitive impairment being evaluated for AD</li>
+</ul>
+<h3>Research Applications</h3>
+<ul>
+<li>Staging of tau pathology</li>
+<li>Clinical trial patient selection</li>
+<li>Monitoring anti-tau therapies</li>
+<li>Differentiating tauopathies</li>
+</ul>
+<h2>Braak Staging on Tau PET</h2>
+<table>
+<thead>
+<tr>
+<th>Braak Stage</th>
+<th>Region</th>
+<th>Clinical Correlation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I-II</td>
+<td>Transentorhinal</td>
+<td>Preclinical/early MCI</td>
+</tr>
+<tr>
+<td>III-IV</td>
+<td>Limbic (hippocampus, amygdala)</td>
+<td>MCI/early dementia</td>
+</tr>
+<tr>
+<td>V-VI</td>
+<td>Neocortical (widespread)</td>
+<td>Moderate-severe dementia</td>
+</tr>
+</tbody>
+</table>
+<h3>Progression Pattern</h3>
+<ul>
+<li>Entorhinal → Hippocampus → Temporal → Parietal → Frontal</li>
+<li>Correlates with symptom domain affected</li>
+<li>More dynamic than amyloid (changes over 1-2 years)</li>
+</ul>
+<h2>Interpretation</h2>
+<h3>Quantitative Measures</h3>
+<ul>
+<li><strong>SUVR</strong>: Standardized uptake value ratio</li>
+<li>Reference region: Inferior cerebellar gray</li>
+<li>Threshold varies by region and tracer</li>
+</ul>
+<h3>Visual Assessment</h3>
+<ul>
+<li>Braak-like staging</li>
+<li>Regional distribution pattern</li>
+<li>Asymmetry in atypical variants</li>
+</ul>
+<h2>Clinical-Pathological Correlations</h2>
+<h3>Superior to Amyloid PET for:</h3>
+<ul>
+<li>Predicting cognitive decline</li>
+<li>Correlating with symptom severity</li>
+<li>Tracking disease progression</li>
+<li>Predicting brain atrophy</li>
+</ul>
+<h3>Typical AD Pattern</h3>
+<ul>
+<li>Posterior cingulate/precuneus early</li>
+<li>Lateral temporal spread</li>
+<li>Parietal involvement</li>
+<li>Frontal sparing until late</li>
+</ul>
+<h3>Atypical AD Variants</h3>
+<table>
+<thead>
+<tr>
+<th>Variant</th>
+<th>Tau PET Pattern</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posterior Cortical Atrophy</td>
+<td>Occipitoparietal predominant</td>
+</tr>
+<tr>
+<td>Logopenic PPA</td>
+<td>Left temporoparietal</td>
+</tr>
+<tr>
+<td>Behavioral/Dysexecutive</td>
+<td>Frontal involvement</td>
+</tr>
+</tbody>
+</table>
+<h2>Off-Target Binding Considerations</h2>
+<h3>First-Generation (Flortaucipir)</h3>
+<ul>
+<li><strong>Choroid plexus</strong>: Limiting for medial temporal assessment</li>
+<li><strong>Basal ganglia</strong>: Melanin/neuromelanin binding</li>
+<li><strong>Hemorrhage/iron</strong>: Non-specific binding</li>
+<li><strong>MAO enzymes</strong>: Some off-target signal</li>
+</ul>
+<h3>Second-Generation Improvements</h3>
+<ul>
+<li>Reduced off-target binding</li>
+<li>Better signal in medial temporal lobe</li>
+<li>Improved non-AD tauopathy detection</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Correlates with symptoms</em></li>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>4R tauopathies</em></li>
+<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>4R tau pattern</em></li>
+<li>→ [[Corticobasal Degeneration]] (condition) - <em>Asymmetric 4R tau</em></li>
+<li>→ [[Chronic Traumatic Encephalopathy]] (condition) - <em>Distinct pattern</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[Phospho-Tau]] (biomarker) - <em>CSF/plasma correlate</em></li>
+<li>→ [[Total Tau]] (biomarker) - <em>Neurodegeneration marker</em></li>
+<li>← [[Amyloid PET Imaging]] (examination) - <em>Combined ATN staging</em></li>
+</ul>
+<h3>Brain Regions (Affected)</h3>
+<ul>
+<li>→ [[Entorhinal Cortex]] (organ) - <em>Earliest involvement</em></li>
+<li>→ [[Hippocampus]] (organ) - <em>Memory symptoms</em></li>
+<li>→ [[Posterior Cingulate Cortex]] (organ) - <em>Early neocortical</em></li>
+</ul>
+<h3>Pathways</h3>
+<ul>
+<li>→ [[Tau Phosphorylation]] (pathway) - <em>Visualizes endpoint</em></li>
+</ul>
+<h2>Combined ATN Imaging</h2>
+<h3>Complete Biomarker Profile</h3>
+<ul>
+<li><strong>A</strong>: Amyloid PET or CSF Aβ42/40</li>
+<li><strong>T</strong>: Tau PET or CSF p-tau</li>
+<li><strong>N</strong>: MRI atrophy or FDG-PET hypometabolism</li>
+</ul>
+<h3>Clinical Utility</h3>
+<ul>
+<li>Research classification</li>
+<li>Prognosis refinement</li>
+<li>Treatment selection (anti-amyloid vs anti-tau)</li>
+</ul>
+<h2>Advantages and Limitations</h2>
+<h3>Advantages</h3>
+<ul>
+<li>Correlates with cognitive symptoms</li>
+<li>Tracks disease progression</li>
+<li>Predicts future decline</li>
+<li>Differentiates AD subtypes</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>Cost (~$5,000-7,000)</li>
+<li>Limited availability</li>
+<li>Off-target binding (first-gen)</li>
+<li>Less sensitive in very early disease</li>
+<li>4R tauopathies challenging with first-gen</li>
+</ul>
+<h2>Emerging Applications</h2>
+<h3>Anti-Tau Therapy Monitoring</h3>
+<ul>
+<li>Semorinemab, zagotenemab trials</li>
+<li>ASO trials (MAPT reduction)</li>
+<li>Tau PET as outcome measure</li>
+</ul>
+<h3>Early Detection</h3>
+<ul>
+<li>Combined with plasma p-tau217</li>
+<li>Risk stratification in MCI</li>
+<li>Prevention trial enrichment</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>FDA Approval</strong>: FDA News Release (2020). &quot;FDA approves first drug to image tau pathology.&quot;</li>
+<li><strong>Clinical Utility</strong>: Ossenkoppele, R., et al. (2022). &quot;Tau PET correlates and clinical implications.&quot; <em>Nature Reviews Neurology</em>.</li>
+<li><strong>Second-Gen Tracers</strong>: Leuzy, A., et al. (2022). &quot;Comparison of tau PET tracers.&quot; <em>Molecular Psychiatry</em>.</li>
+</ol>
 
-## Overview
-Tau PET imaging visualizes tau neurofibrillary tangles (NFTs) in the living brain using radiotracers selective for aggregated tau protein. Unlike amyloid PET, tau PET signal correlates strongly with cognitive symptoms, neurodegeneration, and clinical disease stage. Tau pathology spreads in a predictable pattern (Braak staging), and tau PET can track this progression.
-
-## FDA-Approved and Research Tracers
-
-| Tracer | Status | Selectivity | Notes |
-|--------|--------|-------------|-------|
-| [18F]Flortaucipir (Tauvid) | FDA approved (2020) | 3R/4R tau (AD) | Some off-target binding |
-| [18F]PI-2620 | Research | 3R/4R and 4R tau | Better for non-AD tauopathies |
-| [18F]MK-6240 | Research/trials | 3R/4R tau | Lower off-target binding |
-| [18F]RO-948 | Research | 3R/4R tau | Minimal off-target |
-| [18F]GTP1 | Research | 3R/4R tau | Genentech tracer |
-
-### Tau Isoforms
-- **3R/4R tau**: Alzheimer's disease, CTE
-- **4R tau**: PSP, CBD
-- **3R tau**: Pick's disease
-- First-gen tracers (flortaucipir) bind 3R/4R best
-
-## Clinical Indications
-
-### FDA-Approved Use (Flortaucipir)
-- Estimating density and distribution of tau NFTs in adults with cognitive impairment being evaluated for AD
-
-### Research Applications
-- Staging of tau pathology
-- Clinical trial patient selection
-- Monitoring anti-tau therapies
-- Differentiating tauopathies
-
-## Braak Staging on Tau PET
-
-| Braak Stage | Region | Clinical Correlation |
-|-------------|--------|---------------------|
-| I-II | Transentorhinal | Preclinical/early MCI |
-| III-IV | Limbic (hippocampus, amygdala) | MCI/early dementia |
-| V-VI | Neocortical (widespread) | Moderate-severe dementia |
-
-### Progression Pattern
-- Entorhinal → Hippocampus → Temporal → Parietal → Frontal
-- Correlates with symptom domain affected
-- More dynamic than amyloid (changes over 1-2 years)
-
-## Interpretation
-
-### Quantitative Measures
-- **SUVR**: Standardized uptake value ratio
-- Reference region: Inferior cerebellar gray
-- Threshold varies by region and tracer
-
-### Visual Assessment
-- Braak-like staging
-- Regional distribution pattern
-- Asymmetry in atypical variants
-
-## Clinical-Pathological Correlations
-
-### Superior to Amyloid PET for:
-- Predicting cognitive decline
-- Correlating with symptom severity
-- Tracking disease progression
-- Predicting brain atrophy
-
-### Typical AD Pattern
-- Posterior cingulate/precuneus early
-- Lateral temporal spread
-- Parietal involvement
-- Frontal sparing until late
-
-### Atypical AD Variants
-| Variant | Tau PET Pattern |
-|---------|-----------------|
-| Posterior Cortical Atrophy | Occipitoparietal predominant |
-| Logopenic PPA | Left temporoparietal |
-| Behavioral/Dysexecutive | Frontal involvement |
-
-## Off-Target Binding Considerations
-
-### First-Generation (Flortaucipir)
-- **Choroid plexus**: Limiting for medial temporal assessment
-- **Basal ganglia**: Melanin/neuromelanin binding
-- **Hemorrhage/iron**: Non-specific binding
-- **MAO enzymes**: Some off-target signal
-
-### Second-Generation Improvements
-- Reduced off-target binding
-- Better signal in medial temporal lobe
-- Improved non-AD tauopathy detection
-
-## Relationships
-
-### Conditions
-- → [[Alzheimer's Disease]] (condition) - *Correlates with symptoms*
-- → [[Frontotemporal Dementia]] (condition) - *4R tauopathies*
-- → [[Progressive Supranuclear Palsy]] (condition) - *4R tau pattern*
-- → [[Corticobasal Degeneration]] (condition) - *Asymmetric 4R tau*
-- → [[Chronic Traumatic Encephalopathy]] (condition) - *Distinct pattern*
-
-### Related Biomarkers
-- → [[Phospho-Tau]] (biomarker) - *CSF/plasma correlate*
-- → [[Total Tau]] (biomarker) - *Neurodegeneration marker*
-- ← [[Amyloid PET Imaging]] (examination) - *Combined ATN staging*
-
-### Brain Regions (Affected)
-- → [[Entorhinal Cortex]] (organ) - *Earliest involvement*
-- → [[Hippocampus]] (organ) - *Memory symptoms*
-- → [[Posterior Cingulate Cortex]] (organ) - *Early neocortical*
-
-### Pathways
-- → [[Tau Phosphorylation]] (pathway) - *Visualizes endpoint*
-
-## Combined ATN Imaging
-
-### Complete Biomarker Profile
-- **A**: Amyloid PET or CSF Aβ42/40
-- **T**: Tau PET or CSF p-tau
-- **N**: MRI atrophy or FDG-PET hypometabolism
-
-### Clinical Utility
-- Research classification
-- Prognosis refinement
-- Treatment selection (anti-amyloid vs anti-tau)
-
-## Advantages and Limitations
-
-### Advantages
-- Correlates with cognitive symptoms
-- Tracks disease progression
-- Predicts future decline
-- Differentiates AD subtypes
-
-### Limitations
-- Cost (~$5,000-7,000)
-- Limited availability
-- Off-target binding (first-gen)
-- Less sensitive in very early disease
-- 4R tauopathies challenging with first-gen
-
-## Emerging Applications
-
-### Anti-Tau Therapy Monitoring
-- Semorinemab, zagotenemab trials
-- ASO trials (MAPT reduction)
-- Tau PET as outcome measure
-
-### Early Detection
-- Combined with plasma p-tau217
-- Risk stratification in MCI
-- Prevention trial enrichment
-
-## References
-1. **FDA Approval**: FDA News Release (2020). "FDA approves first drug to image tau pathology."
-2. **Clinical Utility**: Ossenkoppele, R., et al. (2022). "Tau PET correlates and clinical implications." *Nature Reviews Neurology*.
-3. **Second-Gen Tracers**: Leuzy, A., et al. (2022). "Comparison of tau PET tracers." *Molecular Psychiatry*.
+{% endraw %}

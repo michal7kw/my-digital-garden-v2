@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.646793Z'
+created: '2026-02-09T05:40:22.169388Z'
 description: Identification of miR-71 as a crucial regulator of mitochondrial stress
   signaling (UPRmt) and systemic stress resistance.
 dg-home: false
@@ -13,29 +13,27 @@ tags:
 - microrna
 - stress_response
 - longevity
+templateEngineOverride: njk
 title: 'Nat Comm 2026: miR-71 and Mitochondrial Stress'
 type: research
-updated: '2026-02-08T19:45:44.646793Z'
+updated: '2026-02-09T05:40:22.169388Z'
 ---
 
-# Nat Comm 2026: miR-71 and Mitochondrial Stress
+{% raw %}
+<h1>Nat Comm 2026: miR-71 and Mitochondrial Stress</h1>
+<h2>Overview</h2>
+<p>Researchers at the University of Queensland identified a specific microRNA, <strong>miR-71</strong>, as a &quot;master switch&quot; for controlling the mitochondrial stress response. Using <em>C. elegans</em> models, they demonstrated that miR-71 prevents the dangerous over-activation of stress pathways.</p>
+<p><strong>Paper:</strong> <em>Published Jan 26, 2026 in Nature Communications</em></p>
+<h2>Key Findings</h2>
+<ol>
+<li><strong>Dampening Signals:</strong> miR-71 binds to specific mRNA targets to inhibit the spread of &quot;stress signals&quot; from damaged mitochondria to the rest of the body.</li>
+<li><strong>Systemic Protection:</strong> Loss of miR-71 led to runaway inflammation and accelerated aging, while its presence ensured a controlled, adaptive response (Hormesis).</li>
+<li><strong>Therapeutic Potential:</strong> Developing miR-71 mimics could treat metabolic disorders driven by chronic mitochondrial stress.</li>
+</ol>
+<h2>Relationships</h2>
+<h2>STUDIED_TOPIC::[[Mitochondria]]<br />
+STUDIED_TOPIC::[[Hormesis]]<br />
+STUDIED_TOPIC::[[Longevity]]<br />
+IDENTIFIED_MECHANISM::[[MicroRNA Regulation]]</h2>
 
-## Overview
-
-Researchers at the University of Queensland identified a specific microRNA, **miR-71**, as a "master switch" for controlling the mitochondrial stress response. Using *C. elegans* models, they demonstrated that miR-71 prevents the dangerous over-activation of stress pathways.
-
-**Paper:** *Published Jan 26, 2026 in Nature Communications*
-
-## Key Findings
-
-1.  **Dampening Signals:** miR-71 binds to specific mRNA targets to inhibit the spread of "stress signals" from damaged mitochondria to the rest of the body.
-2.  **Systemic Protection:** Loss of miR-71 led to runaway inflammation and accelerated aging, while its presence ensured a controlled, adaptive response (Hormesis).
-3.  **Therapeutic Potential:** Developing miR-71 mimics could treat metabolic disorders driven by chronic mitochondrial stress.
-
-## Relationships
-
-STUDIED_TOPIC::[[Mitochondria]]
-STUDIED_TOPIC::[[Hormesis]]
-STUDIED_TOPIC::[[Longevity]]
-IDENTIFIED_MECHANISM::[[MicroRNA Regulation]]
----
+{% endraw %}

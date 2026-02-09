@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.467102Z'
+created: '2026-02-09T05:40:20.893062Z'
 description: A long-term infection where the pathogen remains in the body for an extended
   period, often leading to persistent inflammation and organ damage.
 dg-home: false
@@ -13,113 +13,100 @@ tags:
 - immunology
 - chronic
 - function-health
+templateEngineOverride: njk
 title: Chronic Infection
 type: condition
-updated: '2026-02-08T19:45:44.467102Z'
+updated: '2026-02-09T05:40:20.893062Z'
 ---
 
-# Chronic Infection
-
-## Overview
-A long-term infection where the pathogen remains in the body for an extended period, often leading to persistent inflammation and organ damage.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Chronic Infection</h1>
+<h2>Overview</h2>
+<p>A long-term infection where the pathogen remains in the body for an extended period, often leading to persistent inflammation and organ damage.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Chronic Infection]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[monocytes]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Chronic_Infection]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:56.127712'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Infection]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:56.127712'
 source: obsidian
-```
-- → [[monocytes]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:56.127712'
+</code></pre>
+<ul>
+<li>→ [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:56.127712'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Chronic Infection]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Chronic Infection]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Infection]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:25.307542'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Infection]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
 source: obsidian
-```
-- ← [[monocytes]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:57.436126'
+</code></pre>
+<ul>
+<li>← [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
 source: obsidian
-```
-- → [[Chronic_Infection]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.307542'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Infection]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
 source: obsidian
-```
-- → [[monocytes]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:25.307542'
+</code></pre>
+<ul>
+<li>→ [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
 source: obsidian
-```
-
-### May Detect
-- ← [[monocytes]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

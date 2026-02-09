@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.501835Z'
+created: '2026-02-09T05:40:21.072109Z'
 description: An inflammatory disease characterized by the growth of tiny clumps of
   inflammatory cells (granulomas) in the lungs.
 dg-home: false
@@ -13,47 +13,47 @@ tags:
 - immunology
 - inflammation
 - chronic
+templateEngineOverride: njk
 title: Pulmonary Sarcoidosis
 type: condition
-updated: '2026-02-08T19:45:44.501835Z'
+updated: '2026-02-09T05:40:21.072109Z'
 ---
 
-# Pulmonary Sarcoidosis
-
-## Overview
-
-Pulmonary Sarcoidosis is the most common form of sarcoidosis, affecting more than 90% of people with the disease. It involves the formation of **non-caseating granulomas** in the lungs. While many cases resolve spontaneously, some progress to permanent lung scarring (**Pulmonary Fibrosis**).
-
-## Pathophysiology
-
-It is thought to be an exaggerated immune response to an unknown environmental antigen in genetically susceptible individuals, involving Th1 cell activation and granuloma formation.
-
+{% raw %}
+<h1>Pulmonary Sarcoidosis</h1>
+<h2>Overview</h2>
+<p>Pulmonary Sarcoidosis is the most common form of sarcoidosis, affecting more than 90% of people with the disease. It involves the formation of <strong>non-caseating granulomas</strong> in the lungs. While many cases resolve spontaneously, some progress to permanent lung scarring (<strong>Pulmonary Fibrosis</strong>).</p>
+<h2>Pathophysiology</h2>
+<p>It is thought to be an exaggerated immune response to an unknown environmental antigen in genetically susceptible individuals, involving Th1 cell activation and granuloma formation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Pulmonary_Sarcoidosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:51.637851'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pulmonary_Sarcoidosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.637851'
 source: obsidian
-```
-- → [[Pulmonary_Sarcoidosis]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:56.772221'
+</code></pre>
+<ul>
+<li>→ [[Pulmonary_Sarcoidosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:56.772221'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Pulmonary Fibrosis]]<br />
+ASSOCIATED_WITH_CONDITION::[[Pulmonary Hypertension]]<br />
+AFFECTS_ORGAN::[[Lung]]<br />
+AFFECTS_ORGAN::[[Lymph Node]]<br />
+TREATED_BY_DRUG::[[Prednisone]] - First line.<br />
+TREATED_BY_DRUG::[[Methotrexate]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[ACE]] - Angiotensin-Converting Enzyme often elevated.</p>
+<h2>References</h2>
+<ul>
+<li>Valeyre, D., et al. (2014). Sarcoidosis. The Lancet.</li>
+<li>Baughman, R. P., et al. (2011). Case Control Study of Sarcoidosis (ACCESS).</li>
+<li>American Lung Association. Sarcoidosis.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Pulmonary Fibrosis]]
-ASSOCIATED_WITH_CONDITION::[[Pulmonary Hypertension]]
-AFFECTS_ORGAN::[[Lung]]
-AFFECTS_ORGAN::[[Lymph Node]]
-TREATED_BY_DRUG::[[Prednisone]] - First line.
-TREATED_BY_DRUG::[[Methotrexate]]
-ASSOCIATED_WITH_BIOMARKER::[[ACE]] - Angiotensin-Converting Enzyme often elevated.
-
-## References
-
-- Valeyre, D., et al. (2014). Sarcoidosis. The Lancet.
-- Baughman, R. P., et al. (2011). Case Control Study of Sarcoidosis (ACCESS).
-- American Lung Association. Sarcoidosis.
+{% endraw %}

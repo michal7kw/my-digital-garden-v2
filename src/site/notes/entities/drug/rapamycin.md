@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.524981Z'
+created: '2026-02-09T05:40:21.181676Z'
 description: mTOR inhibitor originally developed as immunosuppressant, now studied
   for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One
   of the most promising longevity interventions.
@@ -15,52 +15,37 @@ tags:
 - immunosuppressant
 - anti_aging
 - prescription
+templateEngineOverride: njk
 title: Rapamycin
 type: drug
-updated: '2026-02-08T19:45:44.524981Z'
+updated: '2026-02-09T05:40:21.181676Z'
 ---
 
-# Rapamycin
-
-## Overview
-mTOR inhibitor originally developed as immunosuppressant, now studied for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One of the most promising longevity interventions.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Rapamycin</h1>
+<h2>Overview</h2>
+<p>mTOR inhibitor originally developed as immunosuppressant, now studied for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One of the most promising longevity interventions.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Autophagy-Lysosomal_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:01.405875'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:01.405875'
 source: obsidian
-```
-- ← [[Autophagy-Lysosomal_Pathway]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

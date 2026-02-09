@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.489032Z'
+created: '2026-02-09T05:40:21.020699Z'
 description: A rare autoimmune disorder characterized by overlapping features of at
   least two other systemic autoimmune diseases, such as lupus, scleroderma, and polymyositis.
 dg-home: false
@@ -13,113 +13,100 @@ tags:
 - autoimmune
 - immunology
 - function-health
+templateEngineOverride: njk
 title: Mixed Connective Tissue Disease
 type: condition
-updated: '2026-02-08T19:45:44.489032Z'
+updated: '2026-02-09T05:40:21.020699Z'
 ---
 
-# Mixed Connective Tissue Disease
-
-## Overview
-A rare autoimmune disorder characterized by overlapping features of at least two other systemic autoimmune diseases, such as lupus, scleroderma, and polymyositis.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Mixed Connective Tissue Disease</h1>
+<h2>Overview</h2>
+<p>A rare autoimmune disorder characterized by overlapping features of at least two other systemic autoimmune diseases, such as lupus, scleroderma, and polymyositis.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Mixed Connective Tissue Disease]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[antinuclear_antibodies_ana_screen]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Mixed_Connective_Tissue_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:26.029056'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.029056'
 source: obsidian
-```
-- → [[antinuclear_antibodies_ana_screen]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:26.029056'
+</code></pre>
+<ul>
+<li>→ [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.029056'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Mixed Connective Tissue Disease]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Mixed Connective Tissue Disease]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Mixed_Connective_Tissue_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:33.634548'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Mixed_Connective_Tissue_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
-```
-- ← [[antinuclear_antibodies_ana_screen]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:49.893599'
+</code></pre>
+<ul>
+<li>← [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
 source: obsidian
-```
-- → [[antinuclear_antibodies_ana_screen]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:33.634548'
+</code></pre>
+<ul>
+<li>→ [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
-```
-- → [[Mixed_Connective_Tissue_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:33.634548'
+</code></pre>
+<ul>
+<li>→ [[Mixed_Connective_Tissue_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
 source: obsidian
-```
-
-### May Detect
-- ← [[antinuclear_antibodies_ana_screen]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[antinuclear_antibodies_ana_screen]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

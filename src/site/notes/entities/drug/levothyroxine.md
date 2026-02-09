@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.518190Z'
+created: '2026-02-09T05:40:21.154811Z'
 description: Synthetic thyroid hormone (T4) for hypothyroidism replacement therapy.
   The most prescribed medication for thyroid disorders. Requires careful dose titration
   based on TSH levels.
@@ -14,42 +14,25 @@ tags:
 - hormone_replacement
 - endocrine
 - prescription
+templateEngineOverride: njk
 title: Levothyroxine
 type: drug
-updated: '2026-02-08T19:45:44.518190Z'
+updated: '2026-02-09T05:40:21.154811Z'
 ---
 
-# Levothyroxine
-
-## Overview
-Synthetic thyroid hormone (T4) for hypothyroidism replacement therapy. The most prescribed medication for thyroid disorders. Requires careful dose titration based on TSH levels.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Levothyroxine</h1>
+<h2>Overview</h2>
+<p>Synthetic thyroid hormone (T4) for hypothyroidism replacement therapy. The most prescribed medication for thyroid disorders. Requires careful dose titration based on TSH levels.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.527895Z'
+created: '2026-02-09T05:40:21.200765Z'
 description: A procedure to collect cerebrospinal fluid (CSF) for analysis of neurodegeneration
   biomarkers including amyloid-beta, tau proteins, and emerging markers. Essential
   for ATN classification and dementia diagnosis.
@@ -14,165 +14,327 @@ tags:
 - csf
 - biomarkers
 - diagnostic
+templateEngineOverride: njk
 title: Lumbar Puncture
 type: examination
-updated: '2026-02-08T19:45:44.527895Z'
+updated: '2026-02-09T05:40:21.200765Z'
 ---
 
-# Lumbar Puncture
+{% raw %}
+<h1>Lumbar Puncture</h1>
+<h2>Overview</h2>
+<p>Lumbar puncture (LP), also known as spinal tap, is a procedure to collect cerebrospinal fluid (CSF) from the subarachnoid space. In the context of neurodegeneration, CSF analysis provides direct measurement of brain-derived biomarkers that reflect Alzheimer's pathology (Aβ42, p-tau, t-tau) and neurodegeneration (NfL, GFAP). CSF biomarkers are a cost-effective alternative to amyloid and tau PET imaging.</p>
+<h2>Procedure</h2>
+<h3>Technique</h3>
+<ol>
+<li><strong>Position</strong>: Lateral decubitus (fetal) or sitting</li>
+<li><strong>Landmark</strong>: L3-L4 or L4-L5 interspace (below conus medullaris)</li>
+<li><strong>Needle</strong>: 20-22 gauge atraumatic needle (Sprotte, Whitacre)</li>
+<li><strong>Collection</strong>: Opening pressure, then sequential tubes</li>
+</ol>
+<h3>Sample Collection for Biomarkers</h3>
+<table>
+<thead>
+<tr>
+<th>Tube</th>
+<th>Volume</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1-2 mL</td>
+<td>Cell count, protein, glucose</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1-2 mL</td>
+<td>Microbiology (if indicated)</td>
+</tr>
+<tr>
+<td>3-4</td>
+<td>10-15 mL</td>
+<td>AD biomarkers (polypropylene tubes!)</td>
+</tr>
+</tbody>
+</table>
+<h3>Critical Pre-analytical Factors</h3>
+<ul>
+<li><strong>Tube material</strong>: Polypropylene (Aβ42 adsorbs to polystyrene)</li>
+<li><strong>Processing time</strong>: Process within 1-2 hours or freeze</li>
+<li><strong>Centrifugation</strong>: 2000g x 10 min at 4°C</li>
+<li><strong>Storage</strong>: -80°C for long-term</li>
+<li><strong>Freeze-thaw cycles</strong>: Minimize (affects some analytes)</li>
+</ul>
+<h2>CSF Biomarkers for Neurodegeneration</h2>
+<h3>Core AD Biomarkers (ATN)</h3>
+<table>
+<thead>
+<tr>
+<th>Biomarker</th>
+<th>Reflects</th>
+<th>Typical Cutoff</th>
+<th>Change in AD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aβ42</td>
+<td>Amyloid pathology</td>
+<td>&lt;500 pg/mL</td>
+<td>Decreased</td>
+</tr>
+<tr>
+<td>Aβ42/Aβ40</td>
+<td>Amyloid (ratio)</td>
+<td>&lt;0.089</td>
+<td>Decreased</td>
+</tr>
+<tr>
+<td>p-tau181</td>
+<td>Tau pathology</td>
+<td>&gt;60 pg/mL</td>
+<td>Increased</td>
+</tr>
+<tr>
+<td>p-tau217</td>
+<td>Tau pathology</td>
+<td>Assay-specific</td>
+<td>Increased</td>
+</tr>
+<tr>
+<td>t-tau</td>
+<td>Neurodegeneration</td>
+<td>&gt;400 pg/mL</td>
+<td>Increased</td>
+</tr>
+</tbody>
+</table>
+<h3>Additional Biomarkers</h3>
+<table>
+<thead>
+<tr>
+<th>Biomarker</th>
+<th>Reflects</th>
+<th>Clinical Utility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NfL</td>
+<td>Axonal damage</td>
+<td>Pan-neurodegeneration; prognosis</td>
+</tr>
+<tr>
+<td>GFAP</td>
+<td>Astrocyte activation</td>
+<td>Neuroinflammation</td>
+</tr>
+<tr>
+<td>Neurogranin</td>
+<td>Synaptic dysfunction</td>
+<td>Synaptic biomarker</td>
+</tr>
+<tr>
+<td>sTREM2</td>
+<td>Microglial activation</td>
+<td>Neuroinflammation</td>
+</tr>
+<tr>
+<td>YKL-40</td>
+<td>Inflammation</td>
+<td>Glial marker</td>
+</tr>
+<tr>
+<td>α-synuclein</td>
+<td>Synucleinopathy</td>
+<td>PD/DLB research</td>
+</tr>
+</tbody>
+</table>
+<h2>Clinical Applications</h2>
+<h3>Dementia Diagnosis</h3>
+<ul>
+<li>Differentiate AD from non-AD dementias</li>
+<li>Confirm AD pathology in atypical presentations</li>
+<li>Support clinical diagnosis in uncertain cases</li>
+</ul>
+<h3>ATN Classification</h3>
+<ul>
+<li><strong>A+</strong>: Low Aβ42 or Aβ42/40 ratio</li>
+<li><strong>T+</strong>: Elevated p-tau</li>
+<li><strong>N+</strong>: Elevated t-tau or NfL</li>
+</ul>
+<h3>Anti-Amyloid Therapy Eligibility</h3>
+<ul>
+<li>CSF Aβ42/40 ratio as alternative to amyloid PET</li>
+<li>More accessible and less expensive</li>
+<li>~90% concordance with PET</li>
+</ul>
+<h3>Research Applications</h3>
+<ul>
+<li>Longitudinal biomarker tracking</li>
+<li>Clinical trial inclusion/outcome</li>
+<li>Novel biomarker discovery</li>
+</ul>
+<h2>Contraindications and Risks</h2>
+<h3>Absolute Contraindications</h3>
+<ul>
+<li>Skin infection at puncture site</li>
+<li>Significantly raised intracranial pressure with mass effect</li>
+<li>Severe coagulopathy (uncontrolled)</li>
+</ul>
+<h3>Relative Contraindications</h3>
+<ul>
+<li>Anticoagulation (may need to hold)</li>
+<li>Thrombocytopenia (&lt;50,000)</li>
+<li>Spinal abnormalities</li>
+</ul>
+<h3>Complications</h3>
+<table>
+<thead>
+<tr>
+<th>Complication</th>
+<th>Incidence</th>
+<th>Prevention/Management</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Post-LP headache</td>
+<td>5-30%</td>
+<td>Atraumatic needle, hydration</td>
+</tr>
+<tr>
+<td>Back pain</td>
+<td>10-20%</td>
+<td>Proper technique</td>
+</tr>
+<tr>
+<td>Bleeding</td>
+<td>Rare</td>
+<td>Correct coagulopathy</td>
+</tr>
+<tr>
+<td>Infection</td>
+<td>Very rare</td>
+<td>Sterile technique</td>
+</tr>
+<tr>
+<td>Nerve root irritation</td>
+<td>Rare</td>
+<td>Proper needle placement</td>
+</tr>
+</tbody>
+</table>
+<h3>Reducing Post-LP Headache</h3>
+<ul>
+<li>Use atraumatic (pencil-point) needles</li>
+<li>Smaller gauge (22G vs 20G)</li>
+<li>Replace stylet before withdrawal</li>
+<li>Lie flat post-procedure (debated)</li>
+<li>Hydration encouraged</li>
+</ul>
+<h2>Comparison: CSF vs Plasma Biomarkers</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>CSF</th>
+<th>Plasma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Invasiveness</td>
+<td>Lumbar puncture</td>
+<td>Blood draw</td>
+</tr>
+<tr>
+<td>Brain proximity</td>
+<td>Direct</td>
+<td>Indirect</td>
+</tr>
+<tr>
+<td>Sensitivity</td>
+<td>Higher</td>
+<td>Lower</td>
+</tr>
+<tr>
+<td>Aβ42/40</td>
+<td>Well-established</td>
+<td>Emerging</td>
+</tr>
+<tr>
+<td>p-tau</td>
+<td>Well-established</td>
+<td>Validated (p-tau217)</td>
+</tr>
+<tr>
+<td>Availability</td>
+<td>Specialty centers</td>
+<td>Broader</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>Moderate (~$500-800)</td>
+<td>Lower (~$200-400)</td>
+</tr>
+</tbody>
+</table>
+<h2>Relationships</h2>
+<h3>Biomarkers Measured</h3>
+<ul>
+<li>→ [[Amyloid-Beta 42/40 Ratio]] (biomarker) - <em>CSF gold standard</em></li>
+<li>→ [[Phospho-Tau]] (biomarker) - <em>Tau pathology</em></li>
+<li>→ [[Total Tau]] (biomarker) - <em>Neurodegeneration</em></li>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Axonal damage</em></li>
+<li>→ [[GFAP]] (biomarker) - <em>Astrocyte marker</em></li>
+</ul>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Core diagnostic</em></li>
+<li>→ [[Mild Cognitive Impairment]] (condition) - <em>Risk stratification</em></li>
+<li>→ [[Creutzfeldt-Jakob Disease]] (condition) - <em>RT-QuIC, 14-3-3</em></li>
+<li>→ [[Multiple Sclerosis]] (condition) - <em>Oligoclonal bands</em></li>
+<li>→ [[Normal Pressure Hydrocephalus]] (condition) - <em>Therapeutic tap</em></li>
+</ul>
+<h3>Related Examinations</h3>
+<ul>
+<li>← [[Amyloid PET Imaging]] (examination) - <em>Alternative for A+</em></li>
+<li>← [[Tau PET Imaging]] (examination) - <em>Alternative for T+</em></li>
+</ul>
+<h2>Practical Workflow</h2>
+<h3>Pre-Procedure</h3>
+<ol>
+<li>Review indications and contraindications</li>
+<li>Check coagulation if on anticoagulants</li>
+<li>Consent (explain risks, benefits)</li>
+<li>Prepare polypropylene tubes in advance</li>
+</ol>
+<h3>Procedure Day</h3>
+<ol>
+<li>Position patient comfortably</li>
+<li>Sterile prep and drape</li>
+<li>Local anesthesia</li>
+<li>Atraumatic needle insertion</li>
+<li>Measure opening pressure (if indicated)</li>
+<li>Collect 10-15 mL in sequential tubes</li>
+<li>Remove needle with stylet in place</li>
+</ol>
+<h3>Post-Procedure</h3>
+<ol>
+<li>Patient lies flat 30-60 min (optional)</li>
+<li>Encourage oral hydration</li>
+<li>Monitor for headache</li>
+<li>Process samples per protocol</li>
+</ol>
+<h2>References</h2>
+<ol>
+<li><strong>Biomarker Guidelines</strong>: Blennow, K., et al. (2015). &quot;CSF biomarkers in AD.&quot; <em>Alzheimer's &amp; Dementia</em>.</li>
+<li><strong>Pre-analytical Factors</strong>: Vanderstichele, H., et al. (2012). &quot;Standardization of CSF Aβ42 measurements.&quot; <em>Alzheimer's &amp; Dementia</em>.</li>
+<li><strong>ATN Framework</strong>: Jack, C.R., et al. (2018). &quot;NIA-AA Research Framework.&quot; <em>Alzheimer's &amp; Dementia</em>.</li>
+</ol>
 
-## Overview
-Lumbar puncture (LP), also known as spinal tap, is a procedure to collect cerebrospinal fluid (CSF) from the subarachnoid space. In the context of neurodegeneration, CSF analysis provides direct measurement of brain-derived biomarkers that reflect Alzheimer's pathology (Aβ42, p-tau, t-tau) and neurodegeneration (NfL, GFAP). CSF biomarkers are a cost-effective alternative to amyloid and tau PET imaging.
-
-## Procedure
-
-### Technique
-1. **Position**: Lateral decubitus (fetal) or sitting
-2. **Landmark**: L3-L4 or L4-L5 interspace (below conus medullaris)
-3. **Needle**: 20-22 gauge atraumatic needle (Sprotte, Whitacre)
-4. **Collection**: Opening pressure, then sequential tubes
-
-### Sample Collection for Biomarkers
-| Tube | Volume | Purpose |
-|------|--------|---------|
-| 1 | 1-2 mL | Cell count, protein, glucose |
-| 2 | 1-2 mL | Microbiology (if indicated) |
-| 3-4 | 10-15 mL | AD biomarkers (polypropylene tubes!) |
-
-### Critical Pre-analytical Factors
-- **Tube material**: Polypropylene (Aβ42 adsorbs to polystyrene)
-- **Processing time**: Process within 1-2 hours or freeze
-- **Centrifugation**: 2000g x 10 min at 4°C
-- **Storage**: -80°C for long-term
-- **Freeze-thaw cycles**: Minimize (affects some analytes)
-
-## CSF Biomarkers for Neurodegeneration
-
-### Core AD Biomarkers (ATN)
-| Biomarker | Reflects | Typical Cutoff | Change in AD |
-|-----------|----------|----------------|--------------|
-| Aβ42 | Amyloid pathology | <500 pg/mL | Decreased |
-| Aβ42/Aβ40 | Amyloid (ratio) | <0.089 | Decreased |
-| p-tau181 | Tau pathology | >60 pg/mL | Increased |
-| p-tau217 | Tau pathology | Assay-specific | Increased |
-| t-tau | Neurodegeneration | >400 pg/mL | Increased |
-
-### Additional Biomarkers
-| Biomarker | Reflects | Clinical Utility |
-|-----------|----------|------------------|
-| NfL | Axonal damage | Pan-neurodegeneration; prognosis |
-| GFAP | Astrocyte activation | Neuroinflammation |
-| Neurogranin | Synaptic dysfunction | Synaptic biomarker |
-| sTREM2 | Microglial activation | Neuroinflammation |
-| YKL-40 | Inflammation | Glial marker |
-| α-synuclein | Synucleinopathy | PD/DLB research |
-
-## Clinical Applications
-
-### Dementia Diagnosis
-- Differentiate AD from non-AD dementias
-- Confirm AD pathology in atypical presentations
-- Support clinical diagnosis in uncertain cases
-
-### ATN Classification
-- **A+**: Low Aβ42 or Aβ42/40 ratio
-- **T+**: Elevated p-tau
-- **N+**: Elevated t-tau or NfL
-
-### Anti-Amyloid Therapy Eligibility
-- CSF Aβ42/40 ratio as alternative to amyloid PET
-- More accessible and less expensive
-- ~90% concordance with PET
-
-### Research Applications
-- Longitudinal biomarker tracking
-- Clinical trial inclusion/outcome
-- Novel biomarker discovery
-
-## Contraindications and Risks
-
-### Absolute Contraindications
-- Skin infection at puncture site
-- Significantly raised intracranial pressure with mass effect
-- Severe coagulopathy (uncontrolled)
-
-### Relative Contraindications
-- Anticoagulation (may need to hold)
-- Thrombocytopenia (<50,000)
-- Spinal abnormalities
-
-### Complications
-| Complication | Incidence | Prevention/Management |
-|--------------|-----------|----------------------|
-| Post-LP headache | 5-30% | Atraumatic needle, hydration |
-| Back pain | 10-20% | Proper technique |
-| Bleeding | Rare | Correct coagulopathy |
-| Infection | Very rare | Sterile technique |
-| Nerve root irritation | Rare | Proper needle placement |
-
-### Reducing Post-LP Headache
-- Use atraumatic (pencil-point) needles
-- Smaller gauge (22G vs 20G)
-- Replace stylet before withdrawal
-- Lie flat post-procedure (debated)
-- Hydration encouraged
-
-## Comparison: CSF vs Plasma Biomarkers
-
-| Feature | CSF | Plasma |
-|---------|-----|--------|
-| Invasiveness | Lumbar puncture | Blood draw |
-| Brain proximity | Direct | Indirect |
-| Sensitivity | Higher | Lower |
-| Aβ42/40 | Well-established | Emerging |
-| p-tau | Well-established | Validated (p-tau217) |
-| Availability | Specialty centers | Broader |
-| Cost | Moderate (~$500-800) | Lower (~$200-400) |
-
-## Relationships
-
-### Biomarkers Measured
-- → [[Amyloid-Beta 42/40 Ratio]] (biomarker) - *CSF gold standard*
-- → [[Phospho-Tau]] (biomarker) - *Tau pathology*
-- → [[Total Tau]] (biomarker) - *Neurodegeneration*
-- → [[Neurofilament Light Chain]] (biomarker) - *Axonal damage*
-- → [[GFAP]] (biomarker) - *Astrocyte marker*
-
-### Conditions
-- → [[Alzheimer's Disease]] (condition) - *Core diagnostic*
-- → [[Mild Cognitive Impairment]] (condition) - *Risk stratification*
-- → [[Creutzfeldt-Jakob Disease]] (condition) - *RT-QuIC, 14-3-3*
-- → [[Multiple Sclerosis]] (condition) - *Oligoclonal bands*
-- → [[Normal Pressure Hydrocephalus]] (condition) - *Therapeutic tap*
-
-### Related Examinations
-- ← [[Amyloid PET Imaging]] (examination) - *Alternative for A+*
-- ← [[Tau PET Imaging]] (examination) - *Alternative for T+*
-
-## Practical Workflow
-
-### Pre-Procedure
-1. Review indications and contraindications
-2. Check coagulation if on anticoagulants
-3. Consent (explain risks, benefits)
-4. Prepare polypropylene tubes in advance
-
-### Procedure Day
-1. Position patient comfortably
-2. Sterile prep and drape
-3. Local anesthesia
-4. Atraumatic needle insertion
-5. Measure opening pressure (if indicated)
-6. Collect 10-15 mL in sequential tubes
-7. Remove needle with stylet in place
-
-### Post-Procedure
-1. Patient lies flat 30-60 min (optional)
-2. Encourage oral hydration
-3. Monitor for headache
-4. Process samples per protocol
-
-## References
-1. **Biomarker Guidelines**: Blennow, K., et al. (2015). "CSF biomarkers in AD." *Alzheimer's & Dementia*.
-2. **Pre-analytical Factors**: Vanderstichele, H., et al. (2012). "Standardization of CSF Aβ42 measurements." *Alzheimer's & Dementia*.
-3. **ATN Framework**: Jack, C.R., et al. (2018). "NIA-AA Research Framework." *Alzheimer's & Dementia*.
+{% endraw %}

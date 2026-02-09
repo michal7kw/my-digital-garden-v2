@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.522354Z'
+created: '2026-02-09T05:40:21.169998Z'
 description: A narrow-spectrum antibiotic used to treat serious bacterial infections
   caused by susceptible organisms, typically administered by injection.
 dg-home: false
@@ -12,40 +12,40 @@ tags:
 - antibiotic
 - beta-lactam
 - intravenous
+templateEngineOverride: njk
 title: Penicillin G
 type: drug
-updated: '2026-02-08T19:45:44.522354Z'
+updated: '2026-02-09T05:40:21.169998Z'
 ---
 
-# Penicillin G
-
-## Overview
-
-Penicillin G (Benzylpenicillin) is a foundational antibiotic in the beta-lactam class. It is effective against most gram-positive bacteria and some gram-negative cocci. Due to its instability in gastric acid, it is primarily administered via intravenous (IV) or intramuscular (IM) routes for severe infections.
-
-## Indications
-
-- **Syphilis:** Including neurosyphilis.
-- **Meningitis:** Caused by *Neisseria meningitidis*.
-- **Endocarditis.**
-- **Gas Gangrene.**
-- **Streptococcal Infections.**
-
+{% raw %}
+<h1>Penicillin G</h1>
+<h2>Overview</h2>
+<p>Penicillin G (Benzylpenicillin) is a foundational antibiotic in the beta-lactam class. It is effective against most gram-positive bacteria and some gram-negative cocci. Due to its instability in gastric acid, it is primarily administered via intravenous (IV) or intramuscular (IM) routes for severe infections.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Syphilis:</strong> Including neurosyphilis.</li>
+<li><strong>Meningitis:</strong> Caused by <em>Neisseria meningitidis</em>.</li>
+<li><strong>Endocarditis.</strong></li>
+<li><strong>Gas Gangrene.</strong></li>
+<li><strong>Streptococcal Infections.</strong></li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Syphilis]]<br />
+TREATS_CONDITION::[[Bacterial Endocarditis]]<br />
+TREATS_CONDITION::[[Meningitis]]<br />
+ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]<br />
+INHIBITS_PROTEIN::[[Penicillin-Binding Proteins]]<br />
+DRUG_INTERACTION_WITH::[[Probenecid]] - Increases penicillin levels.</p>
+<h2>References</h2>
+<ul>
+<li>Ross, S., et al. (1944). Penicillin G.</li>
+<li>WHO Model List of Essential Medicines.</li>
+<li>LiverTox: Clinical and Research Information on Drug-Induced Liver Injury.</li>
+</ul>
 
-TREATS_CONDITION::[[Syphilis]]
-TREATS_CONDITION::[[Bacterial Endocarditis]]
-TREATS_CONDITION::[[Meningitis]]
-ASSOCIATED_WITH_CONDITION::[[Bacterial Infections]]
-INHIBITS_PROTEIN::[[Penicillin-Binding Proteins]]
-DRUG_INTERACTION_WITH::[[Probenecid]] - Increases penicillin levels.
-
-## References
-
-- Ross, S., et al. (1944). Penicillin G.
-- WHO Model List of Essential Medicines.
-- LiverTox: Clinical and Research Information on Drug-Induced Liver Injury.
+{% endraw %}

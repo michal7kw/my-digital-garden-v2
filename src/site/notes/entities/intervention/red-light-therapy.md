@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.539104Z'
+created: '2026-02-09T05:40:21.258049Z'
 description: Red light therapy (RLT) is a therapeutic technique that uses red low-level
   wavelengths of light to treat skin issues, sleep problems, and chronic pain, among
   other things.
@@ -13,207 +13,210 @@ tags:
 - intervention
 - photomedicine
 - pain_management
+templateEngineOverride: njk
 title: Red Light Therapy
 type: intervention
-updated: '2026-02-08T19:45:44.539104Z'
+updated: '2026-02-09T05:40:21.258049Z'
 ---
 
-# Red Light Therapy
-
-## Overview
-Red light therapy (RLT) is a therapeutic technique that uses red low-level wavelengths of light to treat skin issues, sleep problems, and chronic pain, among other things.
-
-
-## Mechanism of Action
-Not specified.
-
-## Protocol
-
-
-## Safety Information
-
-
-
-
+{% raw %}
+<h1>Red Light Therapy</h1>
+<h2>Overview</h2>
+<p>Red light therapy (RLT) is a therapeutic technique that uses red low-level wavelengths of light to treat skin issues, sleep problems, and chronic pain, among other things.</p>
+<h2>Mechanism of Action</h2>
+<p>Not specified.</p>
+<h2>Protocol</h2>
+<h2>Safety Information</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-- → [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+</code></pre>
+<ul>
+<li>→ [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-- → [[lab_results_2025_05_01]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+</code></pre>
+<ul>
+<li>→ [[lab_results_2025_05_01]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-- → [[Red_Light_Therapy]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+</code></pre>
+<ul>
+<li>→ [[Red_Light_Therapy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-- → [[Red_Light_Therapy]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+</code></pre>
+<ul>
+<li>→ [[Red_Light_Therapy]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:07:48.659175'
+</code></pre>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.659175'
 source: obsidian
-```
-
-### Improves Biomarker
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:10.552761'
+</code></pre>
+<h3>Improves Biomarker</h3>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.552761'
 source: obsidian
-```
-
-### Improves Cellular Component
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:10.475736'
+</code></pre>
+<h3>Improves Cellular Component</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.475736'
 source: obsidian
-```
-
-### Reduced By Intervention
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.263748'
+</code></pre>
+<h3>Reduced By Intervention</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.263748'
 source: obsidian
-```
-
-### Affected By Intervention
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:06.571468'
+</code></pre>
+<h3>Affected By Intervention</h3>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.571468'
 source: obsidian
-```
-
-### Reduces Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:10.499868'
+</code></pre>
+<h3>Reduces Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.499868'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Reduces Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:10.499868'
+<h2>Relationships</h2>
+<h3>Reduces Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.499868'
 source: obsidian
-```
-
-### Affected By Intervention
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:06.571468'
+</code></pre>
+<h3>Affected By Intervention</h3>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.571468'
 source: obsidian
-```
-
-### Reduced By Intervention
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.263748'
+</code></pre>
+<h3>Reduced By Intervention</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.263748'
 source: obsidian
-```
-
-### Improves Cellular Component
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:10.475736'
+</code></pre>
+<h3>Improves Cellular Component</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.475736'
 source: obsidian
-```
-
-### Improves Biomarker
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2025-12-28T11:01:10.552761'
+</code></pre>
+<h3>Improves Biomarker</h3>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.552761'
 source: obsidian
-```
-
-### Related
-- ← [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-19T08:42:06.512352'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:42:06.512352'
 source: obsidian
-```
-- ← [[lab_results_2025_05_01]] (entity)
-```yaml
-last_modified: '2026-01-19T08:42:07.040190'
+</code></pre>
+<ul>
+<li>← [[lab_results_2025_05_01]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:42:07.040190'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-- → [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-- → [[lab_results_2025_05_01]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[lab_results_2025_05_01]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-- → [[Red_Light_Therapy]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[Red_Light_Therapy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-- → [[Red_Light_Therapy]] (intervention)
-```yaml
-last_modified: '2026-01-19T09:32:11.579627'
+</code></pre>
+<ul>
+<li>→ [[Red_Light_Therapy]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:11.579627'
 source: obsidian
-```
-### Influences on Biomarkers
-```dataview
-LIST effect
+</code></pre>
+<h3>Influences on Biomarkers</h3>
+<pre><code class="language-dataview">LIST effect
 FROM [[Red Light Therapy]] AND #biomarker
 SORT confidence_score DESC
-```
-
-### Conditions Treated
-```dataview
-LIST effectiveness
+</code></pre>
+<h3>Conditions Treated</h3>
+<pre><code class="language-dataview">LIST effectiveness
 FROM [[Red Light Therapy]] AND #condition
 SORT confidence_score DESC
-```
-
-### Interactions with Other Interventions
-```dataview
-LIST interaction_type
+</code></pre>
+<h3>Interactions with Other Interventions</h3>
+<pre><code class="language-dataview">LIST interaction_type
 FROM [[Red Light Therapy]] AND #intervention
 SORT confidence_score DESC
-```
+</code></pre>
+<h2>Research Support</h2>
+<p>No research studies documented yet.</p>
+<h2>References</h2>
+<p>No references available.</p>
 
-## Research Support
-No research studies documented yet.
-
-## References
-No references available.
+{% endraw %}

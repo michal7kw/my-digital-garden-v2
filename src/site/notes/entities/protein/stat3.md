@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.642622Z'
+created: '2026-02-09T05:40:22.140657Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,90 +10,104 @@ tags:
 - protein
 - imported
 - primekg
+templateEngineOverride: njk
 title: STAT3
 type: protein
-updated: '2026-02-08T19:45:44.642622Z'
+updated: '2026-02-09T05:40:22.140657Z'
 ---
 
-# STAT3
-(Gene: STAT3)
-## Function Summary
-No function summary available.
-
-## Detailed Description
-... 
-## Gene Information
-- **Gene ID:** N/A
-- **Ensembl ID:** N/A
-- **Chromosome:** N/A
-- **Location:** N/A
-
-## Protein Details
-- **UniProt ID:** N/A
-- **Organism:** N/A
-- **Cellular Location:** N/A
-- **Molecular Weight:** N/A
-- **Tissue Expression:** N/A
-
-## Sequence & Structure
-
-
+{% raw %}
+<h1>STAT3</h1>
+<p>(Gene: STAT3)</p>
+<h2>Function Summary</h2>
+<p>No function summary available.</p>
+<h2>Detailed Description</h2>
+<p>...</p>
+<h2>Gene Information</h2>
+<ul>
+<li><strong>Gene ID:</strong> N/A</li>
+<li><strong>Ensembl ID:</strong> N/A</li>
+<li><strong>Chromosome:</strong> N/A</li>
+<li><strong>Location:</strong> N/A</li>
+</ul>
+<h2>Protein Details</h2>
+<ul>
+<li><strong>UniProt ID:</strong> N/A</li>
+<li><strong>Organism:</strong> N/A</li>
+<li><strong>Cellular Location:</strong> N/A</li>
+<li><strong>Molecular Weight:</strong> N/A</li>
+<li><strong>Tissue Expression:</strong> N/A</li>
+</ul>
+<h2>Sequence &amp; Structure</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:04.837263'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.837263'
 source: obsidian
-```
-- ← [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:33.887168'
+</code></pre>
+<ul>
+<li>← [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
-```
-- → [[BRCA1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:33.987980'
+</code></pre>
+<ul>
+<li>→ [[BRCA1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.987980'
 source: obsidian
-```
-- → [[Fever]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:33.987980'
+</code></pre>
+<ul>
+<li>→ [[Fever]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.987980'
 source: obsidian
-```
-- ← [[BRCA1]] (protein)
-```yaml
-last_modified: '2026-01-26T06:48:59.585882'
+</code></pre>
+<ul>
+<li>← [[BRCA1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
-```
-- ← [[Fever]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:19.089350'
+</code></pre>
+<ul>
+<li>← [[Fever]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:19.089350'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Related
-- ← [[Fever]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:33:51.598767'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Fever]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:51.598767'
 source: obsidian
-```
-- ← [[BRCA1]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:44.984660'
+</code></pre>
+<ul>
+<li>← [[BRCA1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.984660'
 source: obsidian
-```
-- → [[BRCA1]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:55.185184'
+</code></pre>
+<ul>
+<li>→ [[BRCA1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.185184'
 source: obsidian
-```
-- → [[Fever]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:06:55.185184'
+</code></pre>
+<ul>
+<li>→ [[Fever]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.185184'
 source: obsidian
-```
+</code></pre>
+<h2>Source Data</h2>
+<ul>
+<li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-03T08:01:21+0000</li>
+</ul>
 
-## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-03T08:01:21+0000
+{% endraw %}

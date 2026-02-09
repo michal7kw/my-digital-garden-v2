@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.489915Z'
+created: '2026-02-09T05:40:21.024327Z'
 description: A life-threatening condition where blood flow to the heart muscle is
   abruptly cut off, causing tissue death, usually due to a blood clot in a coronary
   artery.
@@ -14,106 +14,92 @@ tags:
 - emergency
 - vascular
 - function-health
+templateEngineOverride: njk
 title: Myocardial Infarction
 type: condition
-updated: '2026-02-08T19:45:44.489915Z'
+updated: '2026-02-09T05:40:21.024327Z'
 ---
 
-# Myocardial Infarction
-
-## Overview
-A life-threatening condition where blood flow to the heart muscle is abruptly cut off, causing tissue death, usually due to a blood clot in a coronary artery.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Myocardial Infarction</h1>
+<h2>Overview</h2>
+<p>A life-threatening condition where blood flow to the heart muscle is abruptly cut off, causing tissue death, usually due to a blood clot in a coronary artery.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Myocardial Infarction]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Increases Risk For
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:36.399745'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:36.399745'
 source: obsidian
-```
-
-### Related
-- → [[Myocardial_Infarction]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:27.286895'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Myocardial_Infarction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.286895'
 source: obsidian
-```
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:27.286895'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.286895'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Myocardial Infarction]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Myocardial Infarction]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:33.898297'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
 source: obsidian
-```
-- → [[Myocardial_Infarction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:33.898297'
+</code></pre>
+<ul>
+<li>→ [[Myocardial_Infarction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
 source: obsidian
-```
-- → [[Myocardial_Infarction]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:33.898297'
+</code></pre>
+<ul>
+<li>→ [[Myocardial_Infarction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:20.311340'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

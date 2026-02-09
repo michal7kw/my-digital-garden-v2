@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.614964Z'
+created: '2026-02-09T05:40:21.824064Z'
 description: Mitophagy is the selective degradation of damaged or dysfunctional mitochondria
   by autophagy. It is a critical quality control mechanism that maintains cellular
   health by removing mitochondria that could otherwise produce excessive reactive
@@ -15,105 +15,111 @@ tags:
 - mitochondria
 - quality_control
 - cellular_health
+templateEngineOverride: njk
 title: Mitophagy
 type: pathway
-updated: '2026-02-08T19:45:44.614964Z'
+updated: '2026-02-09T05:40:21.824064Z'
 ---
 
-# Mitophagy
-
-## Overview
-
-Mitophagy is a specialized form of autophagy that selectively degrades damaged or dysfunctional mitochondria. This process is essential for maintaining mitochondrial quality and cellular homeostasis.
-
-## Mechanism
-
-Mitophagy can be triggered through:
-- **PINK1/Parkin pathway**: Primary mechanism for damaged mitochondria recognition
-- **Receptor-mediated pathways**: BNIP3, NIX, FUNDC1
-- **Lipid-mediated pathways**: Cardiolipin externalization
-
-## Role in Disease
-
-Defective mitophagy is implicated in:
-- Parkinson's disease
-- Alzheimer's disease
-- Cardiovascular disease
-- Aging and senescence
-
-## Nicotine Effects
-
-According to PMID:31197632, nicotine influences mitophagy as part of its broader effects on mitochondrial function, though specific mechanisms require further investigation.
-
+{% raw %}
+<h1>Mitophagy</h1>
+<h2>Overview</h2>
+<p>Mitophagy is a specialized form of autophagy that selectively degrades damaged or dysfunctional mitochondria. This process is essential for maintaining mitochondrial quality and cellular homeostasis.</p>
+<h2>Mechanism</h2>
+<p>Mitophagy can be triggered through:</p>
+<ul>
+<li><strong>PINK1/Parkin pathway</strong>: Primary mechanism for damaged mitochondria recognition</li>
+<li><strong>Receptor-mediated pathways</strong>: BNIP3, NIX, FUNDC1</li>
+<li><strong>Lipid-mediated pathways</strong>: Cardiolipin externalization</li>
+</ul>
+<h2>Role in Disease</h2>
+<p>Defective mitophagy is implicated in:</p>
+<ul>
+<li>Parkinson's disease</li>
+<li>Alzheimer's disease</li>
+<li>Cardiovascular disease</li>
+<li>Aging and senescence</li>
+</ul>
+<h2>Nicotine Effects</h2>
+<p>According to PMID:31197632, nicotine influences mitophagy as part of its broader effects on mitochondrial function, though specific mechanisms require further investigation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Prevents
-- → [[Oxidative_Stress]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.248727'
+<h2>Relationships</h2>
+<h3>Prevents</h3>
+<ul>
+<li>→ [[Oxidative_Stress]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
-```
-
-### Related
-- ← [[Autophagy-Lysosomal_Pathway]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- ← [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:10.957081'
+</code></pre>
+<ul>
+<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
-```
-- ← [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:35.297115'
+</code></pre>
+<ul>
+<li>← [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
-```
-- ← [[Autophagy]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.481193'
+</code></pre>
+<ul>
+<li>← [[Autophagy]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.481193'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
-
-### Affects
-- ← [[Nicotine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:42.749430'
+</code></pre>
+<h3>Affects</h3>
+<ul>
+<li>← [[Nicotine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:08:12.248727'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
-```
-
-### Modulated By
-- → [[Nicotine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:12.248727'
+</code></pre>
+<h3>Modulated By</h3>
+<ul>
+<li>→ [[Nicotine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
-```
-
-### Subtype Of
-- → [[Autophagy]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.248727'
+</code></pre>
+<h3>Subtype Of</h3>
+<ul>
+<li>→ [[Autophagy]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<ul>
+<li>subtype_of:: [[Autophagy]]</li>
+<li>affects:: [[Mitochondria]]</li>
+<li>modulated_by:: [[Nicotine]]</li>
+<li>prevents:: [[Oxidative_Stress]]</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>PMID:31197632 - Malinska D, et al. (2019) &quot;Mitochondria as a possible target for nicotine action.&quot; J Bioenerg Biomembr.</li>
+</ul>
 
-- subtype_of:: [[Autophagy]]
-- affects:: [[Mitochondria]]
-- modulated_by:: [[Nicotine]]
-- prevents:: [[Oxidative_Stress]]
-
-## References
-
-- PMID:31197632 - Malinska D, et al. (2019) "Mitochondria as a possible target for nicotine action." J Bioenerg Biomembr.
+{% endraw %}

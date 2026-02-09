@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.517282Z'
+created: '2026-02-09T05:40:21.150564Z'
 description: A topical derivative of ibuprofen used primarily for the treatment of
   acne vulgaris and skin inflammation.
 dg-home: false
@@ -12,33 +12,33 @@ tags:
 - dermatology
 - nsaid
 - acne
+templateEngineOverride: njk
 title: Ibuprofen Piconol
 type: drug
-updated: '2026-02-08T19:45:44.517282Z'
+updated: '2026-02-09T05:40:21.150564Z'
 ---
 
-# Ibuprofen Piconol
-
-## Overview
-
-Ibuprofen Piconol is a topical nonsteroidal anti-inflammatory drug (NSAID). Unlike oral ibuprofen, it is specifically formulated for application to the skin to treat inflammatory conditions like **Acne Vulgaris**.
-
-## Indications
-
-- **Acne Vulgaris.**
-- **Skin Inflammation.**
-
+{% raw %}
+<h1>Ibuprofen Piconol</h1>
+<h2>Overview</h2>
+<p>Ibuprofen Piconol is a topical nonsteroidal anti-inflammatory drug (NSAID). Unlike oral ibuprofen, it is specifically formulated for application to the skin to treat inflammatory conditions like <strong>Acne Vulgaris</strong>.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Acne Vulgaris.</strong></li>
+<li><strong>Skin Inflammation.</strong></li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Acne Vulgaris]]<br />
+ASSOCIATED_WITH_CONDITION::[[Inflammation]]<br />
+DRUG_CONTAINS_COMPOUND::[[Ibuprofen]]</p>
+<h2>References</h2>
+<ul>
+<li>Ito, M., et al. (1991). Clinical evaluation of 3% ibuprofen piconol (BE-100) lotion in the treatment of acne vulgaris.</li>
+<li>Wikipedia. Ibuprofen piconol.</li>
+</ul>
 
-TREATS_CONDITION::[[Acne Vulgaris]]
-ASSOCIATED_WITH_CONDITION::[[Inflammation]]
-DRUG_CONTAINS_COMPOUND::[[Ibuprofen]]
-
-## References
-
-- Ito, M., et al. (1991). Clinical evaluation of 3% ibuprofen piconol (BE-100) lotion in the treatment of acne vulgaris.
-- Wikipedia. Ibuprofen piconol.
+{% endraw %}

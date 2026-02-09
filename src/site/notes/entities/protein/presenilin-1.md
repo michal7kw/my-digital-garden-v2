@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.640574Z'
+created: '2026-02-09T05:40:22.119068Z'
 description: Catalytic core of the Gamma-Secretase complex. Cleaves APP to release
   Amyloid Beta.
 dg-home: false
@@ -12,95 +12,112 @@ tags:
 - enzyme
 - alzheimers
 - secretase
+templateEngineOverride: njk
 title: Presenilin-1
 type: protein
-updated: '2026-02-08T19:45:44.640574Z'
+updated: '2026-02-09T05:40:22.119068Z'
 ---
 
-# Presenilin-1
-
-## Overview
-**Presenilin-1 (PS1)** is the active enzymatic component of the **Gamma-Secretase** complex (which also includes Nicastrin, APH-1, and PEN-2).
-
-It performs the final intramembrane cleavage of APP, releasing the Amyloid Beta peptide into the extracellular space. Mutations in PS1 alter the precision of this cut, favoring the production of the longer, "stickier" **Aβ42** isoform over the more benign Aβ40.
-
+{% raw %}
+<h1>Presenilin-1</h1>
+<h2>Overview</h2>
+<p><strong>Presenilin-1 (PS1)</strong> is the active enzymatic component of the <strong>Gamma-Secretase</strong> complex (which also includes Nicastrin, APH-1, and PEN-2).</p>
+<p>It performs the final intramembrane cleavage of APP, releasing the Amyloid Beta peptide into the extracellular space. Mutations in PS1 alter the precision of this cut, favoring the production of the longer, &quot;stickier&quot; <strong>Aβ42</strong> isoform over the more benign Aβ40.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Notch_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:02.579296'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Notch_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
-```
-- → [[PSEN1]] (gene)
-```yaml
-last_modified: '2026-01-26T06:49:02.579296'
+</code></pre>
+<ul>
+<li>→ [[PSEN1]] (gene)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:02.579296'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
-```
-- → [[Amyloidogenic_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:02.579296'
+</code></pre>
+<ul>
+<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.579296'
 source: obsidian
-```
-- → [[Notch]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:31.896803'
+</code></pre>
+<ul>
+<li>→ [[Notch]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
-```
-- → [[Notch_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:31.896803'
+</code></pre>
+<ul>
+<li>→ [[Notch_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
-```
-- → [[Amyloidogenic_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:31.896803'
+</code></pre>
+<ul>
+<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
-```
-- ← [[APP]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:28.853140'
+</code></pre>
+<ul>
+<li>← [[APP]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
-```
-- ← [[PSEN1]] (gene)
-```yaml
-last_modified: '2026-01-26T07:07:46.822035'
+</code></pre>
+<ul>
+<li>← [[PSEN1]] (gene)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.822035'
 source: obsidian
-```
-- ← [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.210589'
+</code></pre>
+<ul>
+<li>← [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:31.896803'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
-```
-- → [[APP]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:31.896803'
+</code></pre>
+<ul>
+<li>→ [[APP]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.896803'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Participates in Pathway</h3>
+<ul>
+<li>→ [[Amyloidogenic Pathway]] (pathway)</li>
+<li>→ [[Notch Signaling]] (pathway)</li>
+</ul>
+<h3>Interacts With</h3>
+<ul>
+<li>→ [[APP]] (protein) - <em>Substrate</em></li>
+<li>→ [[Notch]] (protein) - <em>Substrate (developmental signaling)</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>UniProt</strong>: P49768 (PSN1_HUMAN)</li>
+<li><strong>Review</strong>: De Strooper, B. (2003). &quot;Aph-1, Pen-2, and Nicastrin with Presenilin generate an active gamma-Secretase complex.&quot; <em>Neuron</em>.</li>
+</ol>
 
-### Participates in Pathway
-- → [[Amyloidogenic Pathway]] (pathway)
-- → [[Notch Signaling]] (pathway)
-
-### Interacts With
-- → [[APP]] (protein) - *Substrate*
-- → [[Notch]] (protein) - *Substrate (developmental signaling)*
-
-### Related Conditions
-- → [[Alzheimer's Disease]] (condition)
-
-## References
-1. **UniProt**: P49768 (PSN1_HUMAN)
-2. **Review**: De Strooper, B. (2003). "Aph-1, Pen-2, and Nicastrin with Presenilin generate an active gamma-Secretase complex." *Neuron*.
+{% endraw %}

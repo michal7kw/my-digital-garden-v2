@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.552974Z'
+created: '2026-02-09T05:40:21.331150Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -16,138 +16,166 @@ tags:
 - labtest
 - blood-panel
 - function-health
+templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-02-08T19:45:44.552974Z'
+updated: '2026-02-09T05:40:21.331150Z'
 ---
 
-# Creatinine
-
-## Overview
-Tested twice a year Creatinine is a waste product made as muscles use energy, both during everyday activity and exercise. Because muscles are always active to some degree, creatinine is produced at a steady rate. Healthy kidneys filter it out of the blood, so measuring blood creatinine is a key way to assess kidney function. Abnormal levels may indicate kidney stress, reduced kidney function, or, in some cases, other health conditions affecting muscle or metabolism. Possible symptoms CHANGES IN URINATION SWELLING IN LEGS OR ANKLES
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Kidney Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Kidney Dysfunction]]
-- [[Dehydration]]
-- [[Muscle Loss]]
-- [[Urinary Tract Obstruction]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Creatinine</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Creatinine is a waste product made as muscles use energy, both during everyday activity and exercise. Because muscles are always active to some degree, creatinine is produced at a steady rate. Healthy kidneys filter it out of the blood, so measuring blood creatinine is a key way to assess kidney function. Abnormal levels may indicate kidney stress, reduced kidney function, or, in some cases, other health conditions affecting muscle or metabolism. Possible symptoms CHANGES IN URINATION SWELLING IN LEGS OR ANKLES</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Kidney Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Kidney Dysfunction]]</li>
+<li>[[Dehydration]]</li>
+<li>[[Muscle Loss]]</li>
+<li>[[Urinary Tract Obstruction]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Creatinine]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Creatinine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- → [[Muscle_Loss]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+</code></pre>
+<ul>
+<li>→ [[Muscle_Loss]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- → [[Urinary_Tract_Obstruction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+</code></pre>
+<ul>
+<li>→ [[Urinary_Tract_Obstruction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- → [[Dehydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.253411'
+</code></pre>
+<ul>
+<li>→ [[Dehydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
-```
-- → [[Muscle_Loss]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.253411'
+</code></pre>
+<ul>
+<li>→ [[Muscle_Loss]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.253411'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
-```
-- ← [[Creatinine]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:11.161815'
+</code></pre>
+<ul>
+<li>← [[Creatinine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.161815'
 source: obsidian
-```
-- → [[Urinary_Tract_Obstruction]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:52.253411'
+</code></pre>
+<ul>
+<li>→ [[Urinary_Tract_Obstruction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
 source: obsidian
-```
-- ← [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:51.872326'
+</code></pre>
+<ul>
+<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
-```
-- → [[kidney_function_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.828388'
+</code></pre>
+<ul>
+<li>→ [[kidney_function_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
 source: obsidian
-```
-- ← [[Urinary_Tract_Obstruction]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:38.647165'
+</code></pre>
+<ul>
+<li>← [[Urinary_Tract_Obstruction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.647165'
 source: obsidian
-```
-- ← [[kidney_function_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.142270'
+</code></pre>
+<ul>
+<li>← [[kidney_function_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.142270'
 source: obsidian
-```
-
-### May Detect
-- → [[Urinary_Tract_Obstruction]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Urinary_Tract_Obstruction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:19.907739</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:19.907739*
+{% endraw %}

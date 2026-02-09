@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.651411Z'
+created: '2026-02-09T05:40:22.192848Z'
 description: Essential trace mineral crucial for iron metabolism, connective tissue
   formation, and antioxidant defense (SOD). Balance with zinc is critical for optimal
   function.
@@ -15,60 +15,59 @@ tags:
 - antioxidant
 - connective_tissue
 - iron_metabolism
+templateEngineOverride: njk
 title: Copper
 type: supplement
-updated: '2026-02-08T19:45:44.651411Z'
+updated: '2026-02-09T05:40:22.192848Z'
 ---
 
-# Copper
-
-## Overview
-Essential trace mineral crucial for iron metabolism, connective tissue formation, and antioxidant defense (SOD). Balance with zinc is critical for optimal function.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Copper</h1>
+<h2>Overview</h2>
+<p>Essential trace mineral crucial for iron metabolism, connective tissue formation, and antioxidant defense (SOD). Balance with zinc is critical for optimal function.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Zinc]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Zinc]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:36.394442'
+</code></pre>
+<ul>
+<li>→ [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.394442'
 source: obsidian
-```
-
-### Competes With
-- ← [[Zinc]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:28.847855'
+</code></pre>
+<h3>Competes With</h3>
+<ul>
+<li>← [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.847855'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Competes With
-- ← [[Zinc]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:28.847855'
+<h2>Relationships</h2>
+<h3>Competes With</h3>
+<ul>
+<li>← [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.847855'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:00.167865'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Zinc]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:07:00.167865'
-source: obsidian
-```
-- ← [[Zinc]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
-source: obsidian
-```
+{% endraw %}

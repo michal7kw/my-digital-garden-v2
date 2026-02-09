@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.515077Z'
+created: '2026-02-09T05:40:21.135806Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
@@ -14,262 +14,310 @@ tags:
 - treatment_resistant
 - imported
 - primekg
+templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-02-08T19:45:44.515077Z'
+updated: '2026-02-09T05:40:21.135806Z'
 ---
 
-# Clozapine
-
-## Overview
-Clozapine is the prototype **atypical antipsychotic**. It is the gold standard for **treatment-resistant schizophrenia** (defined as failing at least two other antipsychotics). Unlike typical antipsychotics, it carries a very low risk of extrapyramidal side effects (EPS) and tardive dyskinesia.
-
-However, its use is limited by serious side effects, most notably **agranulocytosis** (severe drop in white blood cells), which requires mandatory regular blood monitoring (REMS program in the US). Other risks include myocarditis, seizures, and metabolic syndrome.
-
-## Indications
-- **Treatment-Resistant Schizophrenia**: FDA approved.
-- **Suicidal Behavior in Schizophrenia**: FDA approved (only antipsychotic with this indication).
-- **Psychosis in Parkinson's Disease**: Off-label, often effective at low doses.
-
+{% raw %}
+<h1>Clozapine</h1>
+<h2>Overview</h2>
+<p>Clozapine is the prototype <strong>atypical antipsychotic</strong>. It is the gold standard for <strong>treatment-resistant schizophrenia</strong> (defined as failing at least two other antipsychotics). Unlike typical antipsychotics, it carries a very low risk of extrapyramidal side effects (EPS) and tardive dyskinesia.</p>
+<p>However, its use is limited by serious side effects, most notably <strong>agranulocytosis</strong> (severe drop in white blood cells), which requires mandatory regular blood monitoring (REMS program in the US). Other risks include myocarditis, seizures, and metabolic syndrome.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Treatment-Resistant Schizophrenia</strong>: FDA approved.</li>
+<li><strong>Suicidal Behavior in Schizophrenia</strong>: FDA approved (only antipsychotic with this indication).</li>
+<li><strong>Psychosis in Parkinson's Disease</strong>: Off-label, often effective at low doses.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:45.214867'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
 source: obsidian
-```
-- ← [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.475847'
+</code></pre>
+<ul>
+<li>← [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
 source: obsidian
-```
-- ← [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:34.905107'
+</code></pre>
+<ul>
+<li>← [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.905107'
 source: obsidian
-```
-- ← [[Acetylcholine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:34.799400'
+</code></pre>
+<ul>
+<li>← [[Acetylcholine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[25-Dimethoxy-4-ethylthioamphetamine]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[25-Dimethoxy-4-ethylthioamphetamine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Octylphenoxy_polyethoxyethanol]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Octylphenoxy_polyethoxyethanol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Black_cohosh]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Black_cohosh]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Gentamicin_C1a]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Gentamicin_C1a]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Farnesyl_thiopyrophosphate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Farnesyl_thiopyrophosphate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Dopamine_D4_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D4_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Sodium_oxybate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Sodium_oxybate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Sodium_sulfate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Sodium_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Vinyl_ether]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Vinyl_ether]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Parkinsons_Disease_Psychosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease_Psychosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Suicidal_Ideation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Suicidal_Ideation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Muscarinic_Acetylcholine_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[5-HT2A_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[5-HT2A_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[Choline_salicylate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.497560'
+</code></pre>
+<ul>
+<li>→ [[Choline_salicylate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
 source: obsidian
-```
-- → [[5-HT2A_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[5-HT2A_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Schizophrenia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Schizophrenia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Muscarinic_Acetylcholine_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Agranulocytosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Agranulocytosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Suicidal_Ideation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Suicidal_Ideation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Dopamine_D4_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D4_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Myocarditis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Myocarditis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Parkinsons_Disease_Psychosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease_Psychosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Acetylcholine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Acetylcholine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
-
-### Interactswith
-- ← [[Choline_salicylate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.041000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>← [[Choline_salicylate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.041000+00:00'
 source: PrimeKG
-```
-- ← [[Vinyl_ether]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.122000+00:00'
+</code></pre>
+<ul>
+<li>← [[Vinyl_ether]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.122000+00:00'
 source: PrimeKG
-```
-- ← [[Black_cohosh]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.150000+00:00'
+</code></pre>
+<ul>
+<li>← [[Black_cohosh]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.150000+00:00'
 source: PrimeKG
-```
-- ← [[25-Dimethoxy-4-ethylthioamphetamine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.155000+00:00'
+</code></pre>
+<ul>
+<li>← [[25-Dimethoxy-4-ethylthioamphetamine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.155000+00:00'
 source: PrimeKG
-```
-- ← [[Sodium_sulfate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.177000+00:00'
+</code></pre>
+<ul>
+<li>← [[Sodium_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.177000+00:00'
 source: PrimeKG
-```
-- ← [[Gentamicin_C1a]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.183000+00:00'
+</code></pre>
+<ul>
+<li>← [[Gentamicin_C1a]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.183000+00:00'
 source: PrimeKG
-```
-- ← [[Farnesyl_thiopyrophosphate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.250000+00:00'
+</code></pre>
+<ul>
+<li>← [[Farnesyl_thiopyrophosphate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.250000+00:00'
 source: PrimeKG
-```
-- ← [[Octylphenoxy_polyethoxyethanol]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.266000+00:00'
+</code></pre>
+<ul>
+<li>← [[Octylphenoxy_polyethoxyethanol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.266000+00:00'
 source: PrimeKG
-```
-- ← [[Sodium_oxybate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.288000+00:00'
+</code></pre>
+<ul>
+<li>← [[Sodium_oxybate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.288000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter) - <em>Weak D2 antagonism</em></li>
+<li>→ [[Serotonin]] (neurotransmitter) - <em>Strong 5-HT2A antagonism</em></li>
+<li>→ [[Acetylcholine]] (neurotransmitter) - <em>Muscarinic antagonism</em></li>
+</ul>
+<h3>Modulates Protein</h3>
+<ul>
+<li>⊣ [[Dopamine D4 Receptor]] (protein) - <em>High affinity antagonist</em></li>
+<li>⊣ [[5-HT2A Receptor]] (protein) - <em>High affinity antagonist</em></li>
+<li>⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - <em>Antagonist (M1, M4 agonist/antagonist mix)</em></li>
+<li>⊣ [[Histamine H1 Receptor]] (protein) - <em>Antagonist (Sedation)</em></li>
+</ul>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[Schizophrenia]] (condition)</li>
+<li>→ [[Suicidal Ideation]] (condition)</li>
+<li>→ [[Parkinson's Disease Psychosis]] (condition)</li>
+</ul>
+<h3>Adverse Effects</h3>
+<ul>
+<li>→ [[Agranulocytosis]] (condition) - <em>Severe risk</em></li>
+<li>→ [[Myocarditis]] (condition)</li>
+<li>→ [[Metabolic Syndrome]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Efficacy</strong>: Kane, J., et al. (1988). &quot;Clozapine for the treatment-resistant schizophrenic.&quot; <em>Archives of General Psychiatry</em>.</li>
+<li><strong>Mechanism</strong>: Meltzer, H. Y. (1994). &quot;An overview of the mechanism of action of clozapine.&quot; <em>Journal of Clinical Psychiatry</em>.</li>
+</ol>
 
-### Modulates Neurotransmitter
-- → [[Dopamine]] (neurotransmitter) - *Weak D2 antagonism*
-- → [[Serotonin]] (neurotransmitter) - *Strong 5-HT2A antagonism*
-- → [[Acetylcholine]] (neurotransmitter) - *Muscarinic antagonism*
-
-### Modulates Protein
-- ⊣ [[Dopamine D4 Receptor]] (protein) - *High affinity antagonist*
-- ⊣ [[5-HT2A Receptor]] (protein) - *High affinity antagonist*
-- ⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - *Antagonist (M1, M4 agonist/antagonist mix)*
-- ⊣ [[Histamine H1 Receptor]] (protein) - *Antagonist (Sedation)*
-
-### Treats Condition
-- → [[Schizophrenia]] (condition)
-- → [[Suicidal Ideation]] (condition)
-- → [[Parkinson's Disease Psychosis]] (condition)
-
-### Adverse Effects
-- → [[Agranulocytosis]] (condition) - *Severe risk*
-- → [[Myocarditis]] (condition)
-- → [[Metabolic Syndrome]] (condition)
-
-## References
-1. **Efficacy**: Kane, J., et al. (1988). "Clozapine for the treatment-resistant schizophrenic." *Archives of General Psychiatry*.
-2. **Mechanism**: Meltzer, H. Y. (1994). "An overview of the mechanism of action of clozapine." *Journal of Clinical Psychiatry*.
+{% endraw %}

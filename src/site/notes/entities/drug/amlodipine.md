@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.512495Z'
+created: '2026-02-09T05:40:21.120574Z'
 description: Long-acting dihydropyridine calcium channel blocker for hypertension
   and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the
   most prescribed antihypertensives.
@@ -14,76 +14,63 @@ tags:
 - antihypertensive
 - cardiovascular
 - prescription
+templateEngineOverride: njk
 title: Amlodipine
 type: drug
-updated: '2026-02-08T19:45:44.512495Z'
+updated: '2026-02-09T05:40:21.120574Z'
 ---
 
-# Amlodipine
-
-## Overview
-Long-acting dihydropyridine calcium channel blocker for hypertension and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the most prescribed antihypertensives.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Amlodipine</h1>
+<h2>Overview</h2>
+<p>Long-acting dihydropyridine calcium channel blocker for hypertension and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the most prescribed antihypertensives.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Chlorpromazine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Chlorpromazine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Chlorpromazine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:39.825584'
+</code></pre>
+<ul>
+<li>→ [[Chlorpromazine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.825584'
 source: obsidian
-```
-
-### Interactswith
-- → [[Chlorpromazine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:35.696000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>→ [[Chlorpromazine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.696000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Interactswith
-- → [[Chlorpromazine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:35.696000+00:00'
+<h2>Relationships</h2>
+<h3>Interactswith</h3>
+<ul>
+<li>→ [[Chlorpromazine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.696000+00:00'
 source: PrimeKG
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chlorpromazine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:48.785471'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Chlorpromazine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:52.045711'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Chlorpromazine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:48.785471'
-source: obsidian
-```
-- ← [[Chlorpromazine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:52.045711'
-source: obsidian
-```
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.537285Z'
+created: '2026-02-09T05:40:21.248166Z'
 description: High-Intensity Interval Training - exercise protocol alternating short
   bursts of intense anaerobic activity with recovery periods. Highly time-efficient
   method for improving cardiovascular fitness, insulin sensitivity, mitochondrial
@@ -16,77 +16,68 @@ tags:
 - cardiovascular
 - time_efficient
 - insulin_sensitivity
+templateEngineOverride: njk
 title: HIIT Training
 type: intervention
-updated: '2026-02-08T19:45:44.537285Z'
+updated: '2026-02-09T05:40:21.248166Z'
 ---
 
-# HIIT Training
-
-## Overview
-High-Intensity Interval Training - exercise protocol alternating short bursts of intense anaerobic activity with recovery periods. Highly time-efficient method for improving cardiovascular fitness, insulin sensitivity, mitochondrial function, and metabolic health in as little as 10-20 minutes.
-
-
-## Mechanism of Action
-Not specified.
-
-## Protocol
-
-
-## Safety Information
-
-
-
-
+{% raw %}
+<h1>HIIT Training</h1>
+<h2>Overview</h2>
+<p>High-Intensity Interval Training - exercise protocol alternating short bursts of intense anaerobic activity with recovery periods. Highly time-efficient method for improving cardiovascular fitness, insulin sensitivity, mitochondrial function, and metabolic health in as little as 10-20 minutes.</p>
+<h2>Mechanism of Action</h2>
+<p>Not specified.</p>
+<h2>Protocol</h2>
+<h2>Safety Information</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[HIIT_Training]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.078651'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[HIIT_Training]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.078651'
 source: obsidian
-```
-- → [[HIIT_Training]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.078651'
+</code></pre>
+<ul>
+<li>→ [[HIIT_Training]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.078651'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Related
-- → [[HIIT_Training]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:08.839602'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[HIIT_Training]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:08.839602'
 source: obsidian
-```
-- → [[HIIT_Training]] (intervention)
-```yaml
-last_modified: '2026-01-19T09:32:08.839602'
+</code></pre>
+<ul>
+<li>→ [[HIIT_Training]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:08.839602'
 source: obsidian
-```
-### Influences on Biomarkers
-```dataview
-LIST effect
+</code></pre>
+<h3>Influences on Biomarkers</h3>
+<pre><code class="language-dataview">LIST effect
 FROM [[HIIT Training]] AND #biomarker
 SORT confidence_score DESC
-```
-
-### Conditions Treated
-```dataview
-LIST effectiveness
+</code></pre>
+<h3>Conditions Treated</h3>
+<pre><code class="language-dataview">LIST effectiveness
 FROM [[HIIT Training]] AND #condition
 SORT confidence_score DESC
-```
-
-### Interactions with Other Interventions
-```dataview
-LIST interaction_type
+</code></pre>
+<h3>Interactions with Other Interventions</h3>
+<pre><code class="language-dataview">LIST interaction_type
 FROM [[HIIT Training]] AND #intervention
 SORT confidence_score DESC
-```
+</code></pre>
+<h2>Research Support</h2>
+<p>No research studies documented yet.</p>
+<h2>References</h2>
+<p>No references available.</p>
 
-## Research Support
-No research studies documented yet.
-
-## References
-No references available.
+{% endraw %}

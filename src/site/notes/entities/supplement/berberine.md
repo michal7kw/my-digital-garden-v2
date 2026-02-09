@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.650022Z'
+created: '2026-02-09T05:40:22.186346Z'
 description: Powerful plant alkaloid with profound effects on blood sugar and metabolism.
   Activates AMPK similar to metformin. One of the most effective natural compounds
   for metabolic health.
@@ -15,352 +15,398 @@ tags:
 - metabolic
 - ampk_activator
 - cholesterol
+templateEngineOverride: njk
 title: Berberine
 type: supplement
-updated: '2026-02-08T19:45:44.650022Z'
+updated: '2026-02-09T05:40:22.186346Z'
 ---
 
-# Berberine
-
-## Overview
-Powerful plant alkaloid with profound effects on blood sugar and metabolism. Activates AMPK similar to metformin. One of the most effective natural compounds for metabolic health.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Berberine</h1>
+<h2>Overview</h2>
+<p>Powerful plant alkaloid with profound effects on blood sugar and metabolism. Activates AMPK similar to metformin. One of the most effective natural compounds for metabolic health.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-27T18:02:16.633260'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:16.633260'
 source: obsidian
-```
-- ← [[Chromium]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:15.382658'
+</code></pre>
+<ul>
+<li>← [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:15.382658'
 source: obsidian
-```
-- ← [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:21.238365'
+</code></pre>
+<ul>
+<li>← [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.238365'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:21.888122'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.888122'
 source: obsidian
-```
-- ← [[PCOS]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:22.303164'
+</code></pre>
+<ul>
+<li>← [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:22.303164'
 source: obsidian
-```
-- ← [[Gut]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:16.072145'
+</code></pre>
+<ul>
+<li>← [[Gut]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:16.072145'
 source: obsidian
-```
-- ← [[Liver]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:16.617927'
+</code></pre>
+<ul>
+<li>← [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:16.617927'
 source: obsidian
-```
-- ← [[Pancreas]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:17.003346'
+</code></pre>
+<ul>
+<li>← [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:17.003346'
 source: obsidian
-```
-- ← [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:14.087567'
+</code></pre>
+<ul>
+<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:14.087567'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Gut]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Gut]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.877768'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.877768'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.905320'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.905320'
 source: obsidian
-```
-- → [[Gut]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.931882'
+</code></pre>
+<ul>
+<li>→ [[Gut]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.931882'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:19.227358'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.227358'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:19.201468'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.201468'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:19.252065'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.252065'
 source: obsidian
-```
-
-### Synergistic With
-- → [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.118328'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.118328'
 source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.144745'
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.144745'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:18.998378'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.998378'
 source: obsidian
-```
-
-### Affects Biomarker
-- → [[Hba1C]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Hba1C]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: strong
 evidence_level: 4
 source: curated
-```
-- → [[Ldl]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Ldl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: moderate
 evidence_level: 4
 source: curated
-```
-- → [[Hdl]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Hdl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 magnitude: mild
 evidence_level: 3
 source: curated
-```
-- → [[Insulin]] (biomarker)
-```yaml
-effect_direction: modulates
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 magnitude: moderate
 evidence_level: 4
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### May Improve Condition
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:19.252065'
+<h2>Relationships</h2>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.252065'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:19.227358'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.227358'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:19.201468'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.201468'
 source: obsidian
-```
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.877768'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.905320'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Gut]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.931882'
+source: obsidian
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.998378'
+source: obsidian
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.118328'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.144745'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:16.633260'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.238365'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.888122'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:22.303164'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Gut]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:16.072145'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:16.617927'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:17.003346'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:14.087567'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Gut]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:15.382658'
+source: obsidian
+</code></pre>
 
-### Affects Organ
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.877768'
-source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.905320'
-source: obsidian
-```
-- → [[Gut]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.931882'
-source: obsidian
-```
-
-### Modulates Hormone
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:18.998378'
-source: obsidian
-```
-
-### Synergistic With
-- → [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.118328'
-source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.144745'
-source: obsidian
-```
-
-### Related
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- ← [[Insulin]] (biomarker)
-```yaml
-last_modified: '2025-12-27T18:02:16.633260'
-source: obsidian
-```
-- ← [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:21.238365'
-source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:21.888122'
-source: obsidian
-```
-- ← [[PCOS]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:22.303164'
-source: obsidian
-```
-- ← [[Gut]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:16.072145'
-source: obsidian
-```
-- ← [[Liver]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:16.617927'
-source: obsidian
-```
-- ← [[Pancreas]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:17.003346'
-source: obsidian
-```
-- ← [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:14.087567'
-source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Insulin]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Gut]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- ← [[Chromium]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:15.382658'
-source: obsidian
-```
+{% endraw %}

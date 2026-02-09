@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.464621Z'
+created: '2026-02-09T05:40:20.880160Z'
 description: Cancer that forms in the cells of the breasts, most commonly in the ducts
   or lobules.
 dg-home: false
@@ -12,51 +12,53 @@ tags:
 - oncology
 - cancer
 - women_health
+templateEngineOverride: njk
 title: Breast Neoplasms
 type: condition
-updated: '2026-02-08T19:45:44.464621Z'
+updated: '2026-02-09T05:40:20.880160Z'
 ---
 
-# Breast Neoplasms
-
-## Overview
-
-Breast Neoplasms (Breast Cancer) is the most common cancer in women worldwide. It occurs when cells in the breast divide and grow without control.
-
-## Types
-
-- **Ductal Carcinoma In Situ (DCIS):** Non-invasive, stays in ducts.
-- **Invasive Ductal Carcinoma (IDC):** Most common (80%). Starts in ducts and invades fatty tissue.
-- **Invasive Lobular Carcinoma (ILC):** Starts in lobules (milk glands).
-- **Triple-Negative Breast Cancer:** Aggressive, lacks estrogen/progesterone receptors and HER2.
-
+{% raw %}
+<h1>Breast Neoplasms</h1>
+<h2>Overview</h2>
+<p>Breast Neoplasms (Breast Cancer) is the most common cancer in women worldwide. It occurs when cells in the breast divide and grow without control.</p>
+<h2>Types</h2>
+<ul>
+<li><strong>Ductal Carcinoma In Situ (DCIS):</strong> Non-invasive, stays in ducts.</li>
+<li><strong>Invasive Ductal Carcinoma (IDC):</strong> Most common (80%). Starts in ducts and invades fatty tissue.</li>
+<li><strong>Invasive Lobular Carcinoma (ILC):</strong> Starts in lobules (milk glands).</li>
+<li><strong>Triple-Negative Breast Cancer:</strong> Aggressive, lacks estrogen/progesterone receptors and HER2.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Breast_Neoplasms]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:32.601101'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Breast_Neoplasms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.601101'
 source: obsidian
-```
-- → [[Breast_Neoplasms]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:26.695974'
+</code></pre>
+<ul>
+<li>→ [[Breast_Neoplasms]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.695974'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_GENE::[[BRCA1]]<br />
+ASSOCIATED_WITH_GENE::[[BRCA2]]<br />
+ASSOCIATED_WITH_GENE::[[HER2]]<br />
+CAUSED_BY::[[Genetic Mutation]]<br />
+AFFECTS_ORGAN::[[Breast]]<br />
+TREATED_BY_DRUG::[[Tamoxifen]]<br />
+TREATED_BY_DRUG::[[Trastuzumab]]<br />
+TREATED_BY_INTERVENTION::[[Mastectomy]]</p>
+<h2>References</h2>
+<ul>
+<li>Harbeck, N., &amp; Gnant, M. (2017). Breast cancer. The Lancet.</li>
+<li>American Cancer Society. Breast Cancer.</li>
+<li>NCI. Breast Cancer Treatment.</li>
+</ul>
 
-ASSOCIATED_WITH_GENE::[[BRCA1]]
-ASSOCIATED_WITH_GENE::[[BRCA2]]
-ASSOCIATED_WITH_GENE::[[HER2]]
-CAUSED_BY::[[Genetic Mutation]]
-AFFECTS_ORGAN::[[Breast]]
-TREATED_BY_DRUG::[[Tamoxifen]]
-TREATED_BY_DRUG::[[Trastuzumab]]
-TREATED_BY_INTERVENTION::[[Mastectomy]]
-
-## References
-
-- Harbeck, N., & Gnant, M. (2017). Breast cancer. The Lancet.
-- American Cancer Society. Breast Cancer.
-- NCI. Breast Cancer Treatment.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.511900Z'
+created: '2026-02-09T05:40:21.117005Z'
 description: Analgesic and antipyretic with minimal anti-inflammatory effect. First-line
   for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most
   common cause of acute liver failure.
@@ -14,42 +14,25 @@ tags:
 - antipyretic
 - otc
 - prescription
+templateEngineOverride: njk
 title: Acetaminophen
 type: drug
-updated: '2026-02-08T19:45:44.511900Z'
+updated: '2026-02-09T05:40:21.117005Z'
 ---
 
-# Acetaminophen
-
-## Overview
-Analgesic and antipyretic with minimal anti-inflammatory effect. First-line for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most common cause of acute liver failure.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Acetaminophen</h1>
+<h2>Overview</h2>
+<p>Analgesic and antipyretic with minimal anti-inflammatory effect. First-line for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most common cause of acute liver failure.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

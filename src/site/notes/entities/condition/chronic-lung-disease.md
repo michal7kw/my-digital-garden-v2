@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.468367Z'
+created: '2026-02-09T05:40:20.908012Z'
 description: A broad term for long-term respiratory conditions that impair breathing
   and lung function, including obstructive and restrictive diseases.
 dg-home: false
@@ -12,83 +12,90 @@ tags:
 - respiratory
 - chronic
 - function-health
+templateEngineOverride: njk
 title: Chronic Lung Disease
 type: condition
-updated: '2026-02-08T19:45:44.468367Z'
+updated: '2026-02-09T05:40:20.908012Z'
 ---
 
-# Chronic Lung Disease
-
-## Overview
-
-Chronic Lung Disease (CLD) encompasses disorders such as **COPD**, **Asthma**, **Pulmonary Fibrosis**, and **Bronchiectasis**. These conditions lead to persistent respiratory symptoms and airflow limitation or impaired gas exchange.
-
-## Categories
-
-- **Obstructive:** Difficulty exhaling (COPD, Asthma).
-- **Restrictive:** Difficulty expanding lungs (Pulmonary Fibrosis, Sarcoidosis).
-- **Vascular:** Affecting blood vessels (Pulmonary Hypertension).
-
+{% raw %}
+<h1>Chronic Lung Disease</h1>
+<h2>Overview</h2>
+<p>Chronic Lung Disease (CLD) encompasses disorders such as <strong>COPD</strong>, <strong>Asthma</strong>, <strong>Pulmonary Fibrosis</strong>, and <strong>Bronchiectasis</strong>. These conditions lead to persistent respiratory symptoms and airflow limitation or impaired gas exchange.</p>
+<h2>Categories</h2>
+<ul>
+<li><strong>Obstructive:</strong> Difficulty exhaling (COPD, Asthma).</li>
+<li><strong>Restrictive:</strong> Difficulty expanding lungs (Pulmonary Fibrosis, Sarcoidosis).</li>
+<li><strong>Vascular:</strong> Affecting blood vessels (Pulmonary Hypertension).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Lung_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:36.051041'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Lung_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
-```
-- ← [[hematocrit]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.812807'
+</code></pre>
+<ul>
+<li>← [[hematocrit]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
-```
-- ← [[carbon_dioxide]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:51.144441'
+</code></pre>
+<ul>
+<li>← [[carbon_dioxide]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
 source: obsidian
-```
-- → [[carbon_dioxide]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:36.051041'
+</code></pre>
+<ul>
+<li>→ [[carbon_dioxide]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
-```
-- → [[hematocrit]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:36.051041'
+</code></pre>
+<ul>
+<li>→ [[hematocrit]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
-```
-- → [[Chronic_Lung_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:32.155467'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.155467'
 source: obsidian
-```
-
-### May Detect
-- ← [[carbon_dioxide]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[carbon_dioxide]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hematocrit]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hematocrit]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>INCLUDES_CONDITION::[[Chronic Obstructive Pulmonary Disease]]<br />
+INCLUDES_CONDITION::[[Asthma]]<br />
+INCLUDES_CONDITION::[[Pulmonary Fibrosis]]<br />
+AFFECTS_ORGAN::[[Lung]]<br />
+ASSOCIATED_WITH_CONDITION::[[Chronic Hypoxia]]<br />
+TREATED_BY_DRUG::[[Bronchodilators]]<br />
+TREATED_BY_INTERVENTION::[[Oxygen Therapy]]</p>
+<h2>References</h2>
+<ul>
+<li>WHO. Chronic respiratory diseases.</li>
+<li>American Lung Association. Lung Disease Lookup.</li>
+<li>Global Strategy for the Diagnosis, Management, and Prevention of COPD (GOLD).</li>
+</ul>
 
-INCLUDES_CONDITION::[[Chronic Obstructive Pulmonary Disease]]
-INCLUDES_CONDITION::[[Asthma]]
-INCLUDES_CONDITION::[[Pulmonary Fibrosis]]
-AFFECTS_ORGAN::[[Lung]]
-ASSOCIATED_WITH_CONDITION::[[Chronic Hypoxia]]
-TREATED_BY_DRUG::[[Bronchodilators]]
-TREATED_BY_INTERVENTION::[[Oxygen Therapy]]
-
-## References
-
-- WHO. Chronic respiratory diseases.
-- American Lung Association. Lung Disease Lookup.
-- Global Strategy for the Diagnosis, Management, and Prevention of COPD (GOLD).
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.486610Z'
+created: '2026-02-09T05:40:21.001248Z'
 description: A problematic pattern of cannabis use leading to clinically significant
   impairment or distress, also known as Cannabis Use Disorder.
 dg-home: false
@@ -12,52 +12,54 @@ tags:
 - psychiatry
 - addiction
 - substance_use
+templateEngineOverride: njk
 title: Marijuana Abuse
 type: condition
-updated: '2026-02-08T19:45:44.486610Z'
+updated: '2026-02-09T05:40:21.001248Z'
 ---
 
-# Marijuana Abuse
-
-## Overview
-
-Marijuana Abuse, or **Cannabis Use Disorder (CUD)**, occurs when an individual continues to use cannabis despite significant health, social, or occupational problems. While often perceived as less addictive than other substances, about 30% of users may have some degree of CUD. It affects the brain's reward system, particularly cannabinoid receptors.
-
-## Withdrawal
-
-Symptoms typically begin within 24-72 hours of cessation, peak within the first week, and last 1-2 weeks.
-- Irritability/Anger
-- Nervousness/Anxiety
-- Sleep difficulties
-- Decreased appetite
-- Depressed mood
-
+{% raw %}
+<h1>Marijuana Abuse</h1>
+<h2>Overview</h2>
+<p>Marijuana Abuse, or <strong>Cannabis Use Disorder (CUD)</strong>, occurs when an individual continues to use cannabis despite significant health, social, or occupational problems. While often perceived as less addictive than other substances, about 30% of users may have some degree of CUD. It affects the brain's reward system, particularly cannabinoid receptors.</p>
+<h2>Withdrawal</h2>
+<p>Symptoms typically begin within 24-72 hours of cessation, peak within the first week, and last 1-2 weeks.</p>
+<ul>
+<li>Irritability/Anger</li>
+<li>Nervousness/Anxiety</li>
+<li>Sleep difficulties</li>
+<li>Decreased appetite</li>
+<li>Depressed mood</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Marijuana_Abuse]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:44.729253'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Marijuana_Abuse]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.729253'
 source: obsidian
-```
-- → [[Marijuana_Abuse]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:45.818791'
+</code></pre>
+<ul>
+<li>→ [[Marijuana_Abuse]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:45.818791'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Cannabis]]<br />
+ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]<br />
+ASSOCIATED_WITH_CONDITION::[[Depression]]<br />
+ASSOCIATED_WITH_CONDITION::[[Schizophrenia]] - Heavy use in adolescence increases risk.<br />
+AFFECTS_ORGAN::[[Brain]]<br />
+IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]<br />
+IMPROVED_BY_INTERVENTION::[[Motivational Enhancement Therapy]]</p>
+<h2>References</h2>
+<ul>
+<li>American Psychiatric Association. DSM-5.</li>
+<li>Volkow, N. D., et al. (2014). Adverse health effects of marijuana use. NEJM.</li>
+<li>NIDA. Marijuana Research Report.</li>
+</ul>
 
-CAUSED_BY::[[Cannabis]]
-ASSOCIATED_WITH_CONDITION::[[Anxiety Disorders]]
-ASSOCIATED_WITH_CONDITION::[[Depression]]
-ASSOCIATED_WITH_CONDITION::[[Schizophrenia]] - Heavy use in adolescence increases risk.
-AFFECTS_ORGAN::[[Brain]]
-IMPROVED_BY_INTERVENTION::[[Cognitive Behavioral Therapy]]
-IMPROVED_BY_INTERVENTION::[[Motivational Enhancement Therapy]]
-
-## References
-
-- American Psychiatric Association. DSM-5.
-- Volkow, N. D., et al. (2014). Adverse health effects of marijuana use. NEJM.
-- NIDA. Marijuana Research Report.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.658555Z'
+created: '2026-02-09T05:40:22.235038Z'
 description: Essential phospholipid concentrated in brain cell membranes. Supports
   cognitive function, memory, and stress response. One of few supplements with FDA-qualified
   health claim for cognitive function.
@@ -15,56 +15,57 @@ tags:
 - cognitive
 - memory
 - cortisol
+templateEngineOverride: njk
 title: Phosphatidylserine
 type: supplement
-updated: '2026-02-08T19:45:44.658555Z'
+updated: '2026-02-09T05:40:22.235038Z'
 ---
 
-# Phosphatidylserine
-
-## Overview
-Essential phospholipid concentrated in brain cell membranes. Supports cognitive function, memory, and stress response. One of few supplements with FDA-qualified health claim for cognitive function.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Phosphatidylserine</h1>
+<h2>Overview</h2>
+<p>Essential phospholipid concentrated in brain cell membranes. Supports cognitive function, memory, and stress response. One of few supplements with FDA-qualified health claim for cognitive function.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Bacopa_Monnieri]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:53.512292'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Bacopa_Monnieri]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
 source: obsidian
-```
-- → [[Mild_Cognitive_Impairment]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:53.512292'
+</code></pre>
+<ul>
+<li>→ [[Mild_Cognitive_Impairment]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:53.512292'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
 source: obsidian
-```
-- ← [[Omega-3_DHA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.685849'
+</code></pre>
+<ul>
+<li>← [[Omega-3_DHA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
-```
-- ← [[Bacopa_Monnieri]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.750324'
+</code></pre>
+<ul>
+<li>← [[Bacopa_Monnieri]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.750324'
 source: obsidian
-```
-- ← [[Mild_Cognitive_Impairment]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:33.408670'
+</code></pre>
+<ul>
+<li>← [[Mild_Cognitive_Impairment]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+
+{% endraw %}

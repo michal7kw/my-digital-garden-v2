@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.487821Z'
+created: '2026-02-09T05:40:21.004927Z'
 description: Cluster of metabolic abnormalities including central obesity, insulin
   resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular
   disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of
@@ -15,1247 +15,1432 @@ tags:
 - cardiovascular_risk
 - syndrome
 - insulin_resistance
+templateEngineOverride: njk
 title: Metabolic Syndrome
 type: condition
-updated: '2026-02-08T19:45:44.487821Z'
+updated: '2026-02-09T05:40:21.004927Z'
 ---
 
-# Metabolic Syndrome
-
-## Overview
-Cluster of metabolic abnormalities including central obesity, insulin resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of U.S. adults.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Metabolic Syndrome</h1>
+<h2>Overview</h2>
+<p>Cluster of metabolic abnormalities including central obesity, insulin resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of U.S. adults.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Metabolic Syndrome]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Improve Condition
-- ← [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.321732'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Improve Condition</h3>
+<ul>
+<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.227358'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.227358'
 source: obsidian
-```
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:20.562067'
+</code></pre>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.562067'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:22.513950'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.513950'
 source: obsidian
-```
-- ← [[NMN]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.885333'
+</code></pre>
+<ul>
+<li>← [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.885333'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.404652'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.404652'
 source: obsidian
-```
-- ← [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.433786'
+</code></pre>
+<ul>
+<li>← [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.433786'
 source: obsidian
-```
-- ← [[Vitamin_D]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:28.076731'
+</code></pre>
+<ul>
+<li>← [[Vitamin_D]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
 source: obsidian
-```
-
-### Related
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[METFORMIN]] (entity)
-```yaml
-last_modified: '2026-01-19T08:39:38.034391'
+</code></pre>
+<ul>
+<li>→ [[METFORMIN]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:39:38.034391'
 source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Vitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[METFORMIN]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[METFORMIN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[apolipoprotein_b_apob]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[apolipoprotein_b_apob]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[hdl_large]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[hdl_large]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[ldl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[ldl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[ldl_medium]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[ldl_medium]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[ldl_particle_number]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[ldl_particle_number]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[ldl_pattern]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[ldl_pattern]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[ldl_peak_size]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[ldl_peak_size]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[ldl_small]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[ldl_small]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[non_hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[non_hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[total_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[total_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[total_cholesterol_hdl_ratio]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[total_cholesterol_hdl_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[triglycerides]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[dhea_sulfate]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[dhea_sulfate]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[arachidonic_acid_epa_ratio]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[arachidonic_acid_epa_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[red_blood_cell_count]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[red_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[albumin_microalbumin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[albumin_microalbumin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[glucose_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[glucose_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[glucose]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[glucose]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[insulin]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[uric_acid]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Fasting_Glucose]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Cardiovascular_Disease]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[NAFLD]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[NAFLD]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Liver_Stress_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Liver_Stress_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:31:23.144461'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:23.144461'
 source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:02:21.888122'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.888122'
 source: obsidian
-```
-
-### May Detect
-- ← [[apolipoprotein_b_apob]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[apolipoprotein_b_apob]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hdl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hdl_large]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hdl_large]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_medium]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_medium]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_particle_number]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_particle_number]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_pattern]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_pattern]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_peak_size]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_peak_size]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_small]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_small]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[non_hdl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[non_hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[total_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[total_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[total_cholesterol_hdl_ratio]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[total_cholesterol_hdl_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[triglycerides]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[dhea_sulfate]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[dhea_sulfate]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[arachidonic_acid_epa_ratio]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[arachidonic_acid_epa_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[red_blood_cell_count]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[red_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[albumin_microalbumin_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[glucose_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[glucose_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[glucose]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[glucose]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[insulin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[leptin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[uric_acid]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Requires Biomarker
-- → [[Fasting_Glucose]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-### Increases Risk For
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[Cardiovascular_Disease]] (entity)
-```yaml
-last_modified: '2026-01-19T08:39:27.192703'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:39:27.192703'
 source: obsidian
-```
-- → [[Cardiovascular_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[NAFLD]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[NAFLD]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-### Precursor To
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Precursor To</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Related Pattern
-- ← [[Liver_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:41.400464'
+</code></pre>
+<h3>Related Pattern</h3>
+<ul>
+<li>← [[Liver_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:41.400464'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-### Improved By Supplement
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Metabolic Syndrome]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Metabolic Syndrome]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[albumin_microalbumin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:49.377838'
-source: obsidian
-```
-- ← [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
-source: obsidian
-```
-- ← [[Clozapine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-```
-- ← [[uric_acid]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.406769'
-source: obsidian
-```
-- ← [[triglycerides]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.151970'
-source: obsidian
-```
-- ← [[total_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:00.993626'
-source: obsidian
-```
-- ← [[total_cholesterol_hdl_ratio]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:00.896437'
-source: obsidian
-```
-- ← [[red_blood_cell_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:59.211199'
-source: obsidian
-```
-- ← [[non_hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:57.721942'
-source: obsidian
-```
-- ← [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
-source: obsidian
-```
-- ← [[ldl_small]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.657574'
-source: obsidian
-```
-- ← [[ldl_peak_size]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.569821'
-source: obsidian
-```
-- ← [[ldl_pattern]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.480705'
-source: obsidian
-```
-- ← [[ldl_particle_number]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.401389'
-source: obsidian
-```
-- ← [[ldl_medium]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.300667'
-source: obsidian
-```
-- ← [[ldl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.218776'
-source: obsidian
-```
-- ← [[insulin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:54.576387'
-source: obsidian
-```
-- ← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:54.105921'
-source: obsidian
-```
-- ← [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.915353'
-source: obsidian
-```
-- ← [[hdl_large]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.665896'
-source: obsidian
-```
-- ← [[hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.581046'
-source: obsidian
-```
-- ← [[glucose]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.474250'
-source: obsidian
-```
-- ← [[glucose_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.338942'
-source: obsidian
-```
-- ← [[dhea_sulfate]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:52.422749'
-source: obsidian
-```
-- ← [[arachidonic_acid_epa_ratio]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:50.356432'
-source: obsidian
-```
-- ← [[apolipoprotein_b_apob]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:50.100619'
-source: obsidian
-```
-- → [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Clozapine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:45.214867'
-source: obsidian
-```
-- → [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:45.214867'
-source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Fasting_Glucose]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Cardiovascular_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Vitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Liver_Stress_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[NAFLD]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[triglycerides]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[glucose_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[total_cholesterol_hdl_ratio]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[red_blood_cell_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[ldl_particle_number]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[apolipoprotein_b_apob]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[dhea_sulfate]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[uric_acid]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[non_hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[total_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[glucose]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[ldl_pattern]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[albumin_microalbumin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[insulin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[ldl_peak_size]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[hdl_large]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[ldl_small]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[ldl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[arachidonic_acid_epa_ratio]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[ldl_medium]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[METFORMIN]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:02:21.888122'
-source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-```
-
-### Affects Organ
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-
-### May Improve Condition
-- ← [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.321732'
-source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.227358'
-source: obsidian
-```
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:20.562067'
-source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:22.513950'
-source: obsidian
-```
-- ← [[NMN]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.885333'
-source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.404652'
-source: obsidian
-```
-- ← [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.433786'
-source: obsidian
-```
-- ← [[Vitamin_D]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:28.076731'
-source: obsidian
-```
-
-### Requires Biomarker
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Fasting_Glucose]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-
-### Increases Risk For
-- → [[NAFLD]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Cardiovascular_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-
-### Improved By Supplement
-- → [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-
-### Related Pattern
-- ← [[Liver_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:21.724538'
-source: obsidian
-```
-- → [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
-source: obsidian
-```
-
-### Precursor To
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
-source: obsidian
-```
-
-### May Detect
-- ← [[dhea_sulfate]] (labtest)
-```yaml
-confidence: suggested
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.377838'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Clozapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.151970'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[total_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.993626'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[total_cholesterol_hdl_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.896437'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[red_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.211199'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[non_hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.721942'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ldl_small]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.657574'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ldl_peak_size]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.569821'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ldl_pattern]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.480705'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ldl_particle_number]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.401389'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ldl_medium]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.300667'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ldl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.218776'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.105921'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[hdl_large]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.665896'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[glucose]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.474250'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[glucose_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.338942'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[dhea_sulfate]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[arachidonic_acid_epa_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.356432'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[apolipoprotein_b_apob]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.100619'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Clozapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Liver_Stress_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NAFLD]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[glucose_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[total_cholesterol_hdl_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[red_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ldl_particle_number]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[apolipoprotein_b_apob]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[dhea_sulfate]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[non_hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[total_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[glucose]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ldl_pattern]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[albumin_microalbumin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ldl_peak_size]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[hdl_large]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ldl_small]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ldl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[arachidonic_acid_epa_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ldl_medium]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[METFORMIN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.888122'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
+source: obsidian
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.227358'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.562067'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.513950'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.885333'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.404652'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.433786'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Vitamin_D]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.076731'
+source: obsidian
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Fasting_Glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>→ [[NAFLD]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<h3>Related Pattern</h3>
+<ul>
+<li>← [[Liver_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.724538'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
+source: obsidian
+</code></pre>
+<h3>Precursor To</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
+source: obsidian
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[dhea_sulfate]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[uric_acid]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[leptin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[insulin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[glucose]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[glucose]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[glucose_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[glucose_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[albumin_microalbumin_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[albumin_microalbumin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[red_blood_cell_count]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[red_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[arachidonic_acid_epa_ratio]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[arachidonic_acid_epa_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[apolipoprotein_b_apob]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[apolipoprotein_b_apob]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hdl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hdl_large]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hdl_large]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_medium]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_medium]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_particle_number]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_particle_number]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_pattern]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_pattern]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_peak_size]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_peak_size]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ldl_small]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ldl_small]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[non_hdl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[non_hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[total_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[total_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[total_cholesterol_hdl_ratio]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[total_cholesterol_hdl_ratio]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[triglycerides]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[triglycerides]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

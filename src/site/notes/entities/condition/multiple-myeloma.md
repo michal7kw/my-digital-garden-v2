@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.489281Z'
+created: '2026-02-09T05:40:21.021748Z'
 description: A type of blood cancer that develops in the plasma cells of the bone
   marrow, leading to bone damage, kidney failure, and immune suppression.
 dg-home: false
@@ -13,53 +13,55 @@ tags:
 - hematology
 - cancer
 - function-health
+templateEngineOverride: njk
 title: Multiple Myeloma
 type: condition
-updated: '2026-02-08T19:45:44.489281Z'
+updated: '2026-02-09T05:40:21.021748Z'
 ---
 
-# Multiple Myeloma
-
-## Overview
-
-Multiple Myeloma is a cancer of **Plasma Cells** (a type of white blood cell). Cancerous plasma cells produce an abnormal protein called **M protein** (monoclonal protein) which can damage organs. It is characterized by the "CRAB" criteria: Calcium elevation, Renal insufficiency, Anemia, and Bone lesions.
-
-## Diagnostic Markers
-
-- **M-protein Spike:** Found in serum or urine electrophoresis.
-- **Bence-Jones Protein:** Light chains in the urine.
-- **Lytic Bone Lesions:** "Punched out" holes on X-rays.
-
+{% raw %}
+<h1>Multiple Myeloma</h1>
+<h2>Overview</h2>
+<p>Multiple Myeloma is a cancer of <strong>Plasma Cells</strong> (a type of white blood cell). Cancerous plasma cells produce an abnormal protein called <strong>M protein</strong> (monoclonal protein) which can damage organs. It is characterized by the &quot;CRAB&quot; criteria: Calcium elevation, Renal insufficiency, Anemia, and Bone lesions.</p>
+<h2>Diagnostic Markers</h2>
+<ul>
+<li><strong>M-protein Spike:</strong> Found in serum or urine electrophoresis.</li>
+<li><strong>Bence-Jones Protein:</strong> Light chains in the urine.</li>
+<li><strong>Lytic Bone Lesions:</strong> &quot;Punched out&quot; holes on X-rays.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Multiple_Myeloma]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:47.354575'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Multiple_Myeloma]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:47.354575'
 source: obsidian
-```
-- → [[Multiple_Myeloma]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:49.854750'
+</code></pre>
+<ul>
+<li>→ [[Multiple_Myeloma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:49.854750'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Anemia]]<br />
+ASSOCIATED_WITH_CONDITION::[[Kidney Disease]]<br />
+AFFECTS_ORGAN::[[Bone Marrow]]<br />
+AFFECTS_ORGAN::[[Bone]]<br />
+AFFECTS_ORGAN::[[Kidney]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Calcium]] - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::[[Total Protein]] - Elevated.<br />
+ASSOCIATED_WITH_BIOMARKER::[[Albumin Globulin Ratio]] - Decreased.<br />
+TREATED_BY_DRUG::[[Bortezomib]]<br />
+TREATED_BY_DRUG::[[Lenalidomide]]<br />
+TREATED_BY_INTERVENTION::[[Stem Cell Transplant]]</p>
+<h2>References</h2>
+<ul>
+<li>Rajkumar, S. V. (2016). Multiple myeloma: 2016 update on diagnosis, risk-stratification, and management. American Journal of Hematology.</li>
+<li>American Cancer Society. Multiple Myeloma.</li>
+<li>MMRF. About Multiple Myeloma.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Anemia]]
-ASSOCIATED_WITH_CONDITION::[[Kidney Disease]]
-AFFECTS_ORGAN::[[Bone Marrow]]
-AFFECTS_ORGAN::[[Bone]]
-AFFECTS_ORGAN::[[Kidney]]
-ASSOCIATED_WITH_BIOMARKER::[[Calcium]] - Elevated.
-ASSOCIATED_WITH_BIOMARKER::[[Total Protein]] - Elevated.
-ASSOCIATED_WITH_BIOMARKER::[[Albumin Globulin Ratio]] - Decreased.
-TREATED_BY_DRUG::[[Bortezomib]]
-TREATED_BY_DRUG::[[Lenalidomide]]
-TREATED_BY_INTERVENTION::[[Stem Cell Transplant]]
-
-## References
-
-- Rajkumar, S. V. (2016). Multiple myeloma: 2016 update on diagnosis, risk-stratification, and management. American Journal of Hematology.
-- American Cancer Society. Multiple Myeloma.
-- MMRF. About Multiple Myeloma.
+{% endraw %}

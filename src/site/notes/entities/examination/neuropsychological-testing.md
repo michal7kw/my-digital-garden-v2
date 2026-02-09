@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.528543Z'
+created: '2026-02-09T05:40:21.207002Z'
 description: Comprehensive cognitive assessment using standardized tests to evaluate
   memory, attention, language, visuospatial function, and executive abilities. Essential
   for dementia diagnosis, staging, and differential diagnosis.
@@ -14,194 +14,378 @@ tags:
 - assessment
 - diagnosis
 - dementia
+templateEngineOverride: njk
 title: Neuropsychological Testing
 type: examination
-updated: '2026-02-08T19:45:44.528543Z'
+updated: '2026-02-09T05:40:21.207002Z'
 ---
 
-# Neuropsychological Testing
+{% raw %}
+<h1>Neuropsychological Testing</h1>
+<h2>Overview</h2>
+<p>Neuropsychological testing is a systematic evaluation of cognitive function using standardized, validated instruments. It provides objective data on multiple cognitive domains, identifies patterns of impairment characteristic of different diseases, tracks progression over time, and informs capacity decisions. It is the clinical gold standard for characterizing cognitive dysfunction.</p>
+<h2>Cognitive Domains Assessed</h2>
+<h3>Memory</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Measures</th>
+<th>Typical AD Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RAVLT/CVLT</td>
+<td>Verbal learning, delayed recall</td>
+<td>Rapid forgetting, poor encoding</td>
+</tr>
+<tr>
+<td>Logical Memory (WMS)</td>
+<td>Story recall</td>
+<td>Poor delayed recall</td>
+</tr>
+<tr>
+<td>BVMT-R</td>
+<td>Visual memory</td>
+<td>Impaired</td>
+</tr>
+<tr>
+<td>Recognition vs. Recall</td>
+<td>Encoding vs. retrieval</td>
+<td>Recognition doesn't help (encoding deficit)</td>
+</tr>
+</tbody>
+</table>
+<h3>Attention/Processing Speed</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Measures</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Digit Span</td>
+<td>Working memory, attention</td>
+<td>Forward and backward</td>
+</tr>
+<tr>
+<td>Trail Making Test A</td>
+<td>Processing speed, attention</td>
+<td>Timed sequencing</td>
+</tr>
+<tr>
+<td>Symbol Digit Modalities</td>
+<td>Processing speed</td>
+<td>Sensitive to subcortical</td>
+</tr>
+</tbody>
+</table>
+<h3>Executive Function</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Measures</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trail Making Test B</td>
+<td>Set-shifting</td>
+<td>A-1-B-2-C-3...</td>
+</tr>
+<tr>
+<td>Wisconsin Card Sorting</td>
+<td>Cognitive flexibility</td>
+<td>Perseverative errors</td>
+</tr>
+<tr>
+<td>Stroop Color-Word</td>
+<td>Inhibition</td>
+<td>Color naming interference</td>
+</tr>
+<tr>
+<td>Letter/Category Fluency</td>
+<td>Generativity, switching</td>
+<td>FAS, animals</td>
+</tr>
+<tr>
+<td>Clock Drawing</td>
+<td>Planning, visuospatial</td>
+<td>Screening tool</td>
+</tr>
+</tbody>
+</table>
+<h3>Language</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Measures</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Boston Naming Test</td>
+<td>Confrontation naming</td>
+<td>60 items, semantic access</td>
+</tr>
+<tr>
+<td>Category Fluency</td>
+<td>Semantic memory</td>
+<td>Animals, supermarket</td>
+</tr>
+<tr>
+<td>Token Test</td>
+<td>Comprehension</td>
+<td>Following commands</td>
+</tr>
+<tr>
+<td>Reading/Writing</td>
+<td>Literacy skills</td>
+<td>Alexia, agraphia</td>
+</tr>
+</tbody>
+</table>
+<h3>Visuospatial Function</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Measures</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rey-Osterrieth Complex Figure</td>
+<td>Construction, planning</td>
+<td>Copy and recall</td>
+</tr>
+<tr>
+<td>Block Design (WAIS)</td>
+<td>Visuoconstruction</td>
+<td>3D manipulation</td>
+</tr>
+<tr>
+<td>Judgment of Line Orientation</td>
+<td>Visuoperception</td>
+<td>Angular discrimination</td>
+</tr>
+<tr>
+<td>Hooper Visual Organization</td>
+<td>Perceptual organization</td>
+<td>Fragmented objects</td>
+</tr>
+</tbody>
+</table>
+<h2>Common Test Batteries</h2>
+<h3>Brief Screening</h3>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Domains</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MoCA</td>
+<td>10-15 min</td>
+<td>Multi-domain screening</td>
+</tr>
+<tr>
+<td>MMSE</td>
+<td>10 min</td>
+<td>Global (less sensitive)</td>
+</tr>
+<tr>
+<td>Mini-Cog</td>
+<td>3 min</td>
+<td>Memory + clock</td>
+</tr>
+<tr>
+<td>SLUMS</td>
+<td>10 min</td>
+<td>Veterans Administration</td>
+</tr>
+</tbody>
+</table>
+<h3>Standard Batteries</h3>
+<table>
+<thead>
+<tr>
+<th>Battery</th>
+<th>Duration</th>
+<th>Use Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RBANS</td>
+<td>30-45 min</td>
+<td>Brief standardized</td>
+</tr>
+<tr>
+<td>NAB</td>
+<td>3-4 hours</td>
+<td>Comprehensive</td>
+</tr>
+<tr>
+<td>CERAD</td>
+<td>1 hour</td>
+<td>AD-focused</td>
+</tr>
+<tr>
+<td>ADAS-Cog</td>
+<td>45 min</td>
+<td>Clinical trial standard</td>
+</tr>
+</tbody>
+</table>
+<h3>Comprehensive Evaluation</h3>
+<ul>
+<li>Full neuropsychological battery: 2-4 hours</li>
+<li>Covers all major domains</li>
+<li>Includes effort/validity testing</li>
+<li>Detailed normative comparison</li>
+</ul>
+<h2>Disease-Specific Patterns</h2>
+<h3>Alzheimer's Disease</h3>
+<ul>
+<li><strong>Primary deficit</strong>: Episodic memory (rapid forgetting)</li>
+<li>Semantic memory and naming difficulties</li>
+<li>Visuospatial dysfunction</li>
+<li>Relative preservation of attention early</li>
+</ul>
+<h3>Frontotemporal Dementia (bvFTD)</h3>
+<ul>
+<li>Executive dysfunction prominent</li>
+<li>Behavioral changes may exceed cognitive</li>
+<li>Memory relatively preserved early</li>
+<li>Insight often impaired</li>
+</ul>
+<h3>Lewy Body Dementia</h3>
+<ul>
+<li>Fluctuating attention</li>
+<li>Visuospatial/visuoperceptual deficits</li>
+<li>Executive dysfunction</li>
+<li>Memory less impaired than AD</li>
+</ul>
+<h3>Vascular Cognitive Impairment</h3>
+<ul>
+<li>Processing speed markedly slow</li>
+<li>Executive dysfunction</li>
+<li>&quot;Subcortical pattern&quot;</li>
+<li>Stepwise progression</li>
+</ul>
+<h3>Primary Progressive Aphasia</h3>
+<ul>
+<li>Language domain primarily affected</li>
+<li>Differs by variant (semantic, nonfluent, logopenic)</li>
+<li>Other domains relatively spared early</li>
+</ul>
+<h2>Interpretation</h2>
+<h3>Normative Comparison</h3>
+<ul>
+<li>Age, education, sex-adjusted norms</li>
+<li>Percentile ranks or z-scores</li>
+<li>Impairment typically &lt;5th-16th percentile</li>
+</ul>
+<h3>Pattern Analysis</h3>
+<ul>
+<li>Compare across domains</li>
+<li>Identify primary vs. secondary deficits</li>
+<li>Consider premorbid functioning</li>
+</ul>
+<h3>Validity Assessment</h3>
+<ul>
+<li>Effort testing (TOMM, Green WMT)</li>
+<li>Performance validity embedded measures</li>
+<li>Detect suboptimal effort or malingering</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Amnestic pattern</em></li>
+<li>→ [[Mild Cognitive Impairment]] (condition) - <em>1-2 SD below normal</em></li>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>Executive/behavioral pattern</em></li>
+<li>→ [[Vascular Dementia]] (condition) - <em>Processing speed, executive</em></li>
+<li>→ [[Lewy Body Dementia]] (condition) - <em>Visuospatial, attention</em></li>
+<li>→ [[ADHD]] (condition) - <em>Attention, executive</em></li>
+</ul>
+<h3>Brain Regions (Correlation)</h3>
+<ul>
+<li>→ [[Hippocampus]] (organ) - <em>Memory tests</em></li>
+<li>→ [[Prefrontal Cortex]] (organ) - <em>Executive function</em></li>
+<li>→ [[Temporal Lobe]] (organ) - <em>Language, semantic memory</em></li>
+<li>→ [[Parietal Lobe]] (organ) - <em>Visuospatial</em></li>
+</ul>
+<h3>Related Examinations</h3>
+<ul>
+<li>← [[MRI Volumetry]] (examination) - <em>Structural correlate</em></li>
+<li>← [[FDG-PET]] (examination) - <em>Metabolic correlate</em></li>
+</ul>
+<h3>Biomarkers</h3>
+<ul>
+<li>→ [[BDNF]] (biomarker) - <em>Cognitive reserve</em></li>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Correlates with decline</em></li>
+</ul>
+<h2>Clinical Applications</h2>
+<h3>Diagnosis</h3>
+<ul>
+<li>Characterize cognitive syndrome</li>
+<li>Differential diagnosis</li>
+<li>Severity staging (mild, moderate, severe)</li>
+</ul>
+<h3>Monitoring</h3>
+<ul>
+<li>Track progression over time</li>
+<li>Detect treatment effects</li>
+<li>Evaluate for clinical trial eligibility</li>
+</ul>
+<h3>Functional Implications</h3>
+<ul>
+<li>Driving capacity</li>
+<li>Financial decision-making capacity</li>
+<li>Independent living abilities</li>
+<li>Need for supervision</li>
+</ul>
+<h2>Practical Considerations</h2>
+<h3>Patient Factors</h3>
+<ul>
+<li>Best performance conditions (rested, glasses/hearing aids)</li>
+<li>Avoid testing during acute illness</li>
+<li>Account for depression, anxiety</li>
+<li>Primary language considerations</li>
+</ul>
+<h3>Timing</h3>
+<ul>
+<li>Annual testing for monitoring</li>
+<li>Minimum 6-12 months between repeat testing (practice effects)</li>
+<li>Use alternate forms when available</li>
+</ul>
+<h3>Report Components</h3>
+<ul>
+<li>Referral question and history</li>
+<li>Behavioral observations</li>
+<li>Domain-by-domain results</li>
+<li>Pattern interpretation</li>
+<li>Diagnostic impression</li>
+<li>Recommendations</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Standards</strong>: American Academy of Clinical Neuropsychology (2007). &quot;Practice guidelines for neuropsychological assessment.&quot;</li>
+<li><strong>AD Pattern</strong>: Weintraub, S., et al. (2012). &quot;Neuropsychological assessment of dementia.&quot; <em>Handbook of Clinical Neurology</em>.</li>
+<li><strong>Validity Testing</strong>: Heilbronner, R.L. (2005). &quot;Performance validity testing in neuropsychological assessment.&quot;</li>
+</ol>
 
-## Overview
-Neuropsychological testing is a systematic evaluation of cognitive function using standardized, validated instruments. It provides objective data on multiple cognitive domains, identifies patterns of impairment characteristic of different diseases, tracks progression over time, and informs capacity decisions. It is the clinical gold standard for characterizing cognitive dysfunction.
-
-## Cognitive Domains Assessed
-
-### Memory
-| Test | Measures | Typical AD Finding |
-|------|----------|-------------------|
-| RAVLT/CVLT | Verbal learning, delayed recall | Rapid forgetting, poor encoding |
-| Logical Memory (WMS) | Story recall | Poor delayed recall |
-| BVMT-R | Visual memory | Impaired |
-| Recognition vs. Recall | Encoding vs. retrieval | Recognition doesn't help (encoding deficit) |
-
-### Attention/Processing Speed
-| Test | Measures | Notes |
-|------|----------|-------|
-| Digit Span | Working memory, attention | Forward and backward |
-| Trail Making Test A | Processing speed, attention | Timed sequencing |
-| Symbol Digit Modalities | Processing speed | Sensitive to subcortical |
-
-### Executive Function
-| Test | Measures | Notes |
-|------|----------|-------|
-| Trail Making Test B | Set-shifting | A-1-B-2-C-3... |
-| Wisconsin Card Sorting | Cognitive flexibility | Perseverative errors |
-| Stroop Color-Word | Inhibition | Color naming interference |
-| Letter/Category Fluency | Generativity, switching | FAS, animals |
-| Clock Drawing | Planning, visuospatial | Screening tool |
-
-### Language
-| Test | Measures | Notes |
-|------|----------|-------|
-| Boston Naming Test | Confrontation naming | 60 items, semantic access |
-| Category Fluency | Semantic memory | Animals, supermarket |
-| Token Test | Comprehension | Following commands |
-| Reading/Writing | Literacy skills | Alexia, agraphia |
-
-### Visuospatial Function
-| Test | Measures | Notes |
-|------|----------|-------|
-| Rey-Osterrieth Complex Figure | Construction, planning | Copy and recall |
-| Block Design (WAIS) | Visuoconstruction | 3D manipulation |
-| Judgment of Line Orientation | Visuoperception | Angular discrimination |
-| Hooper Visual Organization | Perceptual organization | Fragmented objects |
-
-## Common Test Batteries
-
-### Brief Screening
-| Test | Duration | Domains |
-|------|----------|---------|
-| MoCA | 10-15 min | Multi-domain screening |
-| MMSE | 10 min | Global (less sensitive) |
-| Mini-Cog | 3 min | Memory + clock |
-| SLUMS | 10 min | Veterans Administration |
-
-### Standard Batteries
-| Battery | Duration | Use Case |
-|---------|----------|----------|
-| RBANS | 30-45 min | Brief standardized |
-| NAB | 3-4 hours | Comprehensive |
-| CERAD | 1 hour | AD-focused |
-| ADAS-Cog | 45 min | Clinical trial standard |
-
-### Comprehensive Evaluation
-- Full neuropsychological battery: 2-4 hours
-- Covers all major domains
-- Includes effort/validity testing
-- Detailed normative comparison
-
-## Disease-Specific Patterns
-
-### Alzheimer's Disease
-- **Primary deficit**: Episodic memory (rapid forgetting)
-- Semantic memory and naming difficulties
-- Visuospatial dysfunction
-- Relative preservation of attention early
-
-### Frontotemporal Dementia (bvFTD)
-- Executive dysfunction prominent
-- Behavioral changes may exceed cognitive
-- Memory relatively preserved early
-- Insight often impaired
-
-### Lewy Body Dementia
-- Fluctuating attention
-- Visuospatial/visuoperceptual deficits
-- Executive dysfunction
-- Memory less impaired than AD
-
-### Vascular Cognitive Impairment
-- Processing speed markedly slow
-- Executive dysfunction
-- "Subcortical pattern"
-- Stepwise progression
-
-### Primary Progressive Aphasia
-- Language domain primarily affected
-- Differs by variant (semantic, nonfluent, logopenic)
-- Other domains relatively spared early
-
-## Interpretation
-
-### Normative Comparison
-- Age, education, sex-adjusted norms
-- Percentile ranks or z-scores
-- Impairment typically <5th-16th percentile
-
-### Pattern Analysis
-- Compare across domains
-- Identify primary vs. secondary deficits
-- Consider premorbid functioning
-
-### Validity Assessment
-- Effort testing (TOMM, Green WMT)
-- Performance validity embedded measures
-- Detect suboptimal effort or malingering
-
-## Relationships
-
-### Conditions
-- → [[Alzheimer's Disease]] (condition) - *Amnestic pattern*
-- → [[Mild Cognitive Impairment]] (condition) - *1-2 SD below normal*
-- → [[Frontotemporal Dementia]] (condition) - *Executive/behavioral pattern*
-- → [[Vascular Dementia]] (condition) - *Processing speed, executive*
-- → [[Lewy Body Dementia]] (condition) - *Visuospatial, attention*
-- → [[ADHD]] (condition) - *Attention, executive*
-
-### Brain Regions (Correlation)
-- → [[Hippocampus]] (organ) - *Memory tests*
-- → [[Prefrontal Cortex]] (organ) - *Executive function*
-- → [[Temporal Lobe]] (organ) - *Language, semantic memory*
-- → [[Parietal Lobe]] (organ) - *Visuospatial*
-
-### Related Examinations
-- ← [[MRI Volumetry]] (examination) - *Structural correlate*
-- ← [[FDG-PET]] (examination) - *Metabolic correlate*
-
-### Biomarkers
-- → [[BDNF]] (biomarker) - *Cognitive reserve*
-- → [[Neurofilament Light Chain]] (biomarker) - *Correlates with decline*
-
-## Clinical Applications
-
-### Diagnosis
-- Characterize cognitive syndrome
-- Differential diagnosis
-- Severity staging (mild, moderate, severe)
-
-### Monitoring
-- Track progression over time
-- Detect treatment effects
-- Evaluate for clinical trial eligibility
-
-### Functional Implications
-- Driving capacity
-- Financial decision-making capacity
-- Independent living abilities
-- Need for supervision
-
-## Practical Considerations
-
-### Patient Factors
-- Best performance conditions (rested, glasses/hearing aids)
-- Avoid testing during acute illness
-- Account for depression, anxiety
-- Primary language considerations
-
-### Timing
-- Annual testing for monitoring
-- Minimum 6-12 months between repeat testing (practice effects)
-- Use alternate forms when available
-
-### Report Components
-- Referral question and history
-- Behavioral observations
-- Domain-by-domain results
-- Pattern interpretation
-- Diagnostic impression
-- Recommendations
-
-## References
-1. **Standards**: American Academy of Clinical Neuropsychology (2007). "Practice guidelines for neuropsychological assessment."
-2. **AD Pattern**: Weintraub, S., et al. (2012). "Neuropsychological assessment of dementia." *Handbook of Clinical Neurology*.
-3. **Validity Testing**: Heilbronner, R.L. (2005). "Performance validity testing in neuropsychological assessment."
+{% endraw %}

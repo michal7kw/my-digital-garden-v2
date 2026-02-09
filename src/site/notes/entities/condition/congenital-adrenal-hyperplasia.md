@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.470166Z'
+created: '2026-02-09T05:40:20.915239Z'
 description: A group of inherited genetic disorders that impair the adrenal glands'
   ability to produce cortisol and aldosterone, often leading to overproduction of
   androgens.
@@ -14,50 +14,52 @@ tags:
 - genetics
 - hormones
 - function-health
+templateEngineOverride: njk
 title: Congenital Adrenal Hyperplasia
 type: condition
-updated: '2026-02-08T19:45:44.470166Z'
+updated: '2026-02-09T05:40:20.915239Z'
 ---
 
-# Congenital Adrenal Hyperplasia
-
-## Overview
-
-Congenital Adrenal Hyperplasia (CAH) most commonly results from a deficiency of the enzyme **21-hydroxylase**. Because the body cannot make cortisol, the pituitary overproduces ACTH to stimulate the adrenals, causing them to enlarge (hyperplasia) and shunt precursors into the **Androgen** pathway.
-
-## Types
-
-- **Classic (Salt-wasting):** Most severe; life-threatening aldosterone deficiency.
-- **Classic (Simple Virilizing):** Moderate; primarily affects sexual development.
-- **Non-classic:** Milder; often appears in adolescence with acne or irregular periods.
-
+{% raw %}
+<h1>Congenital Adrenal Hyperplasia</h1>
+<h2>Overview</h2>
+<p>Congenital Adrenal Hyperplasia (CAH) most commonly results from a deficiency of the enzyme <strong>21-hydroxylase</strong>. Because the body cannot make cortisol, the pituitary overproduces ACTH to stimulate the adrenals, causing them to enlarge (hyperplasia) and shunt precursors into the <strong>Androgen</strong> pathway.</p>
+<h2>Types</h2>
+<ul>
+<li><strong>Classic (Salt-wasting):</strong> Most severe; life-threatening aldosterone deficiency.</li>
+<li><strong>Classic (Simple Virilizing):</strong> Moderate; primarily affects sexual development.</li>
+<li><strong>Non-classic:</strong> Milder; often appears in adolescence with acne or irregular periods.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Congenital_Adrenal_Hyperplasia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:36.416770'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Congenital_Adrenal_Hyperplasia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.416770'
 source: obsidian
-```
-- → [[Congenital_Adrenal_Hyperplasia]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:33.006435'
+</code></pre>
+<ul>
+<li>→ [[Congenital_Adrenal_Hyperplasia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:33.006435'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]<br />
+ASSOCIATED_WITH_CONDITION::[[Infertility]]<br />
+AFFECTS_ORGAN::[[Adrenal Glands]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[17-Hydroxyprogesterone]] - Key diagnostic marker.<br />
+ASSOCIATED_WITH_BIOMARKER::[[Cortisol]] - Low.<br />
+ASSOCIATED_WITH_BIOMARKER::[[Testosterone Total]] - High.<br />
+TREATED_BY_DRUG::[[Hydrocortisone]]<br />
+TREATED_BY_DRUG::[[Fludrocortisone]]</p>
+<h2>References</h2>
+<ul>
+<li>Speiser, P. W., et al. (2018). Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline.</li>
+<li>Mayo Clinic. Congenital adrenal hyperplasia.</li>
+<li>NIH. Congenital Adrenal Hyperplasia.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]
-ASSOCIATED_WITH_CONDITION::[[Infertility]]
-AFFECTS_ORGAN::[[Adrenal Glands]]
-ASSOCIATED_WITH_BIOMARKER::[[17-Hydroxyprogesterone]] - Key diagnostic marker.
-ASSOCIATED_WITH_BIOMARKER::[[Cortisol]] - Low.
-ASSOCIATED_WITH_BIOMARKER::[[Testosterone Total]] - High.
-TREATED_BY_DRUG::[[Hydrocortisone]]
-TREATED_BY_DRUG::[[Fludrocortisone]]
-
-## References
-
-- Speiser, P. W., et al. (2018). Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline.
-- Mayo Clinic. Congenital adrenal hyperplasia.
-- NIH. Congenital Adrenal Hyperplasia.
+{% endraw %}

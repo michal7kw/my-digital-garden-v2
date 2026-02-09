@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.537866Z'
+created: '2026-02-09T05:40:21.249894Z'
 description: The ketogenic diet is a very low-carb, high-fat diet that involves drastically
   reducing carbohydrate intake and replacing it with fat. This reduction in carbs
   puts your body into a metabolic state called ketosis.
@@ -12,230 +12,232 @@ tags:
 - diet
 - intervention
 - metabolic
+templateEngineOverride: njk
 title: Keto Diet
 type: intervention
-updated: '2026-02-08T19:45:44.537866Z'
+updated: '2026-02-09T05:40:21.249894Z'
 ---
 
-# Keto Diet
-
-## Overview
-The ketogenic diet is a very low-carb, high-fat diet that involves drastically reducing carbohydrate intake and replacing it with fat. This reduction in carbs puts your body into a metabolic state called ketosis.
-
-
-## Mechanism of Action
-Not specified.
-
-## Protocol
-
-
-## Safety Information
-
-
-
-
+{% raw %}
+<h1>Keto Diet</h1>
+<h2>Overview</h2>
+<p>The ketogenic diet is a very low-carb, high-fat diet that involves drastically reducing carbohydrate intake and replacing it with fat. This reduction in carbs puts your body into a metabolic state called ketosis.</p>
+<h2>Mechanism of Action</h2>
+<p>Not specified.</p>
+<h2>Protocol</h2>
+<h2>Safety Information</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Keto_Diet]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Keto_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-- → [[MCT8_Oil]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+</code></pre>
+<ul>
+<li>→ [[MCT8_Oil]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-- → [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+</code></pre>
+<ul>
+<li>→ [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-- → [[Keto_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+</code></pre>
+<ul>
+<li>→ [[Keto_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:48.239770'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
 source: obsidian
-```
-
-### Related To
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.650561'
+</code></pre>
+<h3>Related To</h3>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.650561'
 source: obsidian
-```
-
-### Affects Cellular Component
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:10.394807'
+</code></pre>
+<h3>Affects Cellular Component</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.394807'
 source: obsidian
-```
-
-### Requires Supplement
-- → [[MCT8_Oil]] (drug)
-```yaml
-last_modified: '2025-12-28T11:01:10.353448'
+</code></pre>
+<h3>Requires Supplement</h3>
+<ul>
+<li>→ [[MCT8_Oil]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.353448'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:10.311911'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.311911'
 source: obsidian
-```
-
-### Requires Intervention
-- ← [[MCT8_Oil]] (drug)
-```yaml
-last_modified: '2025-12-28T11:01:08.978922'
+</code></pre>
+<h3>Requires Intervention</h3>
+<ul>
+<li>← [[MCT8_Oil]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.978922'
 source: obsidian
-```
-
-### Worsened By Intervention
-- ← [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.449897'
+</code></pre>
+<h3>Worsened By Intervention</h3>
+<ul>
+<li>← [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.449897'
 source: obsidian
-```
-
-### Affected By Diet
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:06.639479'
+</code></pre>
+<h3>Affected By Diet</h3>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.639479'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Affected By Diet
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:06.639479'
+<h2>Relationships</h2>
+<h3>Affected By Diet</h3>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:06.639479'
 source: obsidian
-```
-
-### Worsened By Intervention
-- ← [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.449897'
+</code></pre>
+<h3>Worsened By Intervention</h3>
+<ul>
+<li>← [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.449897'
 source: obsidian
-```
-
-### Requires Intervention
-- ← [[MCT8_Oil]] (drug)
-```yaml
-last_modified: '2025-12-28T11:01:08.978922'
+</code></pre>
+<h3>Requires Intervention</h3>
+<ul>
+<li>← [[MCT8_Oil]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.978922'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:10.311911'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.311911'
 source: obsidian
-```
-
-### Requires Supplement
-- → [[MCT8_Oil]] (drug)
-```yaml
-last_modified: '2025-12-28T11:01:10.353448'
+</code></pre>
+<h3>Requires Supplement</h3>
+<ul>
+<li>→ [[MCT8_Oil]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.353448'
 source: obsidian
-```
-
-### Affects Cellular Component
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:10.394807'
+</code></pre>
+<h3>Affects Cellular Component</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.394807'
 source: obsidian
-```
-
-### Related To
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.650561'
+</code></pre>
+<h3>Related To</h3>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.650561'
 source: obsidian
-```
-
-### Related
-- ← [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-19T08:42:06.512352'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:42:06.512352'
 source: obsidian
-```
-- → [[MCT8_Oil]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[MCT8_Oil]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-- → [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-- → [[Keto_Diet]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[Keto_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-- → [[Keto_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-19T09:32:10.258074'
+</code></pre>
+<ul>
+<li>→ [[Keto_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
 source: obsidian
-```
-### Influences on Biomarkers
-```dataview
-LIST effect
+</code></pre>
+<h3>Influences on Biomarkers</h3>
+<pre><code class="language-dataview">LIST effect
 FROM [[Keto Diet]] AND #biomarker
 SORT confidence_score DESC
-```
-
-### Conditions Treated
-```dataview
-LIST effectiveness
+</code></pre>
+<h3>Conditions Treated</h3>
+<pre><code class="language-dataview">LIST effectiveness
 FROM [[Keto Diet]] AND #condition
 SORT confidence_score DESC
-```
-
-### Interactions with Other Interventions
-```dataview
-LIST interaction_type
+</code></pre>
+<h3>Interactions with Other Interventions</h3>
+<pre><code class="language-dataview">LIST interaction_type
 FROM [[Keto Diet]] AND #intervention
 SORT confidence_score DESC
-```
+</code></pre>
+<h2>Research Support</h2>
+<p>No research studies documented yet.</p>
+<h2>References</h2>
+<p>No references available.</p>
 
-## Research Support
-No research studies documented yet.
-
-## References
-No references available.
+{% endraw %}

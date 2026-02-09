@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.594282Z'
+created: '2026-02-09T05:40:21.537540Z'
 description: Zonulin test measures the serum or stool level of this protein that regulates
   intestinal permeability by modulating tight junctions between enterocytes. Elevated
   zonulin indicates increased intestinal permeability (leaky gut) and is associated
@@ -11,64 +11,113 @@ permalink: /garden/dev_admin/labtest/zonulin/
 slug: zonulin
 tags:
 - labtest
+templateEngineOverride: njk
 title: zonulin
 type: labtest
-updated: '2026-02-08T19:45:44.594282Z'
+updated: '2026-02-09T05:40:21.537540Z'
 ---
 
-# Zonulin
+{% raw %}
+<h1>Zonulin</h1>
+<h2>Overview</h2>
+<p>Zonulin is a protein that reversibly modulates intestinal permeability by disassembling the tight junctions between enterocytes. It was identified as the human analog of the Vibrio cholerae-derived zonula occludens toxin (Zot). When zonulin is released in excess, it opens tight junctions, increasing paracellular permeability and allowing luminal antigens, bacteria, and toxins to cross the intestinal barrier.</p>
+<p>Elevated zonulin serves as a biomarker for increased intestinal permeability (&quot;leaky gut&quot;). This increased permeability can trigger immune activation and systemic inflammation, and has been implicated in the pathogenesis of several autoimmune diseases. Zonulin is particularly relevant in celiac disease (where gliadin triggers zonulin release) and type 1 diabetes.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Gastrointestinal</td>
+</tr>
+<tr>
+<td><strong>Test Type</strong></td>
+<td>Specialized</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood (serum) or Stool</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture or stool sample</td>
+</tr>
+<tr>
+<td><strong>Fasting Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>HSA Eligible</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>FSA Eligible</strong></td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Range</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Normal</strong></td>
+<td>&lt;30 ng/mL (serum)</td>
+<td>Normal intestinal permeability</td>
+</tr>
+<tr>
+<td><strong>Borderline</strong></td>
+<td>30-50 ng/mL</td>
+<td>Mildly increased permeability</td>
+</tr>
+<tr>
+<td><strong>Elevated</strong></td>
+<td>&gt;50 ng/mL</td>
+<td>Significant intestinal permeability</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Celiac Disease]]</li>
+<li>[[Type 1 Diabetes]]</li>
+<li>[[Inflammatory Bowel Disease]]</li>
+<li>[[Autoimmune Disease]]</li>
+<li>[[Food Sensitivities]]</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Measures</h3>
+<ul>
+<li>→ [[Zonulin]] (biomarker)</li>
+</ul>
+<h3>Related Tests</h3>
+<ul>
+<li>→ [[fecal calprotectin]] (labtest) - Complementary gut inflammation marker</li>
+<li>→ [[gi map]] (labtest) - Comprehensive stool analysis</li>
+<li>→ [[food sensitivity igg]] (labtest) - Food reactivity testing</li>
+</ul>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Serum and stool zonulin may provide different clinical information</li>
+<li>Gluten exposure in celiac patients rapidly increases zonulin</li>
+<li>Some controversy exists about assay specificity for zonulin vs related proteins</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-02-07</em></p>
 
-## Overview
-Zonulin is a protein that reversibly modulates intestinal permeability by disassembling the tight junctions between enterocytes. It was identified as the human analog of the Vibrio cholerae-derived zonula occludens toxin (Zot). When zonulin is released in excess, it opens tight junctions, increasing paracellular permeability and allowing luminal antigens, bacteria, and toxins to cross the intestinal barrier.
-
-Elevated zonulin serves as a biomarker for increased intestinal permeability ("leaky gut"). This increased permeability can trigger immune activation and systemic inflammation, and has been implicated in the pathogenesis of several autoimmune diseases. Zonulin is particularly relevant in celiac disease (where gliadin triggers zonulin release) and type 1 diabetes.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Gastrointestinal |
-| **Test Type** | Specialized |
-| **Sample Type** | Blood (serum) or Stool |
-| **Collection Method** | Venipuncture or stool sample |
-| **Fasting Required** | No |
-| **HSA Eligible** | Yes |
-| **FSA Eligible** | No |
-
-## Reference Ranges
-
-| Range | Value | Interpretation |
-|-------|-------|----------------|
-| **Normal** | <30 ng/mL (serum) | Normal intestinal permeability |
-| **Borderline** | 30-50 ng/mL | Mildly increased permeability |
-| **Elevated** | >50 ng/mL | Significant intestinal permeability |
-
-## Recommended For
-
-### Conditions
-Useful for monitoring or diagnosing:
-- [[Celiac Disease]]
-- [[Type 1 Diabetes]]
-- [[Inflammatory Bowel Disease]]
-- [[Autoimmune Disease]]
-- [[Food Sensitivities]]
-
-## Relationships
-### Measures
-- → [[Zonulin]] (biomarker)
-
-### Related Tests
-- → [[fecal calprotectin]] (labtest) - Complementary gut inflammation marker
-- → [[gi map]] (labtest) - Comprehensive stool analysis
-- → [[food sensitivity igg]] (labtest) - Food reactivity testing
-
-## Notes
-- Results should be interpreted by a qualified healthcare provider
-- Serum and stool zonulin may provide different clinical information
-- Gluten exposure in celiac patients rapidly increases zonulin
-- Some controversy exists about assay specificity for zonulin vs related proteins
-
----
-*Last Updated: 2026-02-07*
+{% endraw %}

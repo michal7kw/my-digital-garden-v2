@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.476278Z'
+created: '2026-02-09T05:40:20.945298Z'
 description: A common, harmless genetic liver disorder in which the liver doesn't
   properly process bilirubin, leading to mild, intermittent jaundice.
 dg-home: false
@@ -12,44 +12,44 @@ tags:
 - hepatology
 - genetic
 - function-health
+templateEngineOverride: njk
 title: Gilberts Syndrome
 type: condition
-updated: '2026-02-08T19:45:44.476278Z'
+updated: '2026-02-09T05:40:20.945298Z'
 ---
 
-# Gilberts Syndrome
-
-## Overview
-
-Gilbert's Syndrome is caused by a reduced activity of the enzyme **UGT1A1**, which conjugates bilirubin. This leads to elevated levels of **Unconjugated Bilirubin** in the blood. It is a benign condition and does not require treatment, but it is important to distinguish it from more serious liver diseases.
-
-## Clinical Significance
-
-Individuals with Gilbert's Syndrome may be more sensitive to certain drugs metabolized by the UGT pathway, such as the chemotherapy drug Irinotecan.
-
+{% raw %}
+<h1>Gilberts Syndrome</h1>
+<h2>Overview</h2>
+<p>Gilbert's Syndrome is caused by a reduced activity of the enzyme <strong>UGT1A1</strong>, which conjugates bilirubin. This leads to elevated levels of <strong>Unconjugated Bilirubin</strong> in the blood. It is a benign condition and does not require treatment, but it is important to distinguish it from more serious liver diseases.</p>
+<h2>Clinical Significance</h2>
+<p>Individuals with Gilbert's Syndrome may be more sensitive to certain drugs metabolized by the UGT pathway, such as the chemotherapy drug Irinotecan.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Gilberts_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:39.308605'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Gilberts_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.308605'
 source: obsidian
-```
-- → [[Gilberts_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:37.360935'
+</code></pre>
+<ul>
+<li>→ [[Gilberts_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:37.360935'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_GENE::[[UGT1A1]]<br />
+AFFECTS_ORGAN::[[Liver]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Bilirubin Total]] - Elevated (Unconjugated).<br />
+ASSOCIATED_WITH_BIOMARKER::[[Jaundice]]</p>
+<h2>References</h2>
+<ul>
+<li>Fretzayas, A., et al. (2012). Gilbert syndrome; a benign condition or a bioactive entity? World Journal of Gastrointestinal Pathophysiology.</li>
+<li>British Liver Trust. Gilbert's Syndrome.</li>
+<li>Mayo Clinic. Gilbert's syndrome.</li>
+</ul>
 
-ASSOCIATED_WITH_GENE::[[UGT1A1]]
-AFFECTS_ORGAN::[[Liver]]
-ASSOCIATED_WITH_BIOMARKER::[[Bilirubin Total]] - Elevated (Unconjugated).
-ASSOCIATED_WITH_BIOMARKER::[[Jaundice]]
-
-## References
-
-- Fretzayas, A., et al. (2012). Gilbert syndrome; a benign condition or a bioactive entity? World Journal of Gastrointestinal Pathophysiology.
-- British Liver Trust. Gilbert's Syndrome.
-- Mayo Clinic. Gilbert's syndrome.
+{% endraw %}

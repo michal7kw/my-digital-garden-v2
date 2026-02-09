@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.452104Z'
+created: '2026-02-09T05:40:20.788166Z'
 description: Impaired cellular response to insulin, leading to elevated blood glucose
   and compensatory hyperinsulinemia. Precursor to type 2 diabetes.
 dg-home: false
@@ -14,45 +14,46 @@ tags:
 - diabetes
 - prediabetes
 - endocrine
+templateEngineOverride: njk
 title: Insulin Resistance
 type: clinicalpattern
-updated: '2026-02-08T19:45:44.452104Z'
+updated: '2026-02-09T05:40:20.788166Z'
 ---
 
-# Insulin Resistance
+{% raw %}
+<h1>Insulin Resistance</h1>
+<h2>Overview</h2>
+<p>Insulin Resistance is a pathological condition where cells fail to respond normally to insulin, requiring higher insulin levels to maintain normal blood glucose. It is the central driver of metabolic syndrome and type 2 diabetes.</p>
+<p>Evidence Level: 5/5 (Well-established pathophysiology)<br />
+Risk Multiplier: 2.0x for progression to type 2 diabetes</p>
+<h2>Key Biomarkers</h2>
+<ul>
+<li><strong>HOMA-IR</strong>: Primary diagnostic marker (&gt; 2.5 indicates resistance)</li>
+<li><strong>Fasting Insulin</strong>: Compensatory elevation (&gt; 10 uIU/mL concerning)</li>
+<li><strong>TG/HDL Ratio</strong>: Indirect marker (&gt; 2.0 suggests resistance)</li>
+<li><strong>Fasting Glucose</strong>: 100-125 mg/dL (prediabetic range)</li>
+</ul>
+<h2>Relationships</h2>
+<ul>
+<li>REQUIRES_BIOMARKER::[[HOMA-IR]]</li>
+<li>REQUIRES_BIOMARKER::[[Fasting Insulin]]</li>
+<li>REQUIRES_BIOMARKER::[[Triglycerides]]</li>
+<li>REQUIRES_BIOMARKER::[[HDL Cholesterol]]</li>
+<li>INCREASES_RISK_FOR::[[Type 2 Diabetes]]</li>
+<li>INCREASES_RISK_FOR::[[PCOS]]</li>
+<li>PRECURSOR_TO::[[Metabolic Syndrome]]</li>
+<li>AFFECTS_ORGAN::[[Pancreas]]</li>
+<li>AFFECTS_ORGAN::[[Liver]]</li>
+<li>AFFECTS_ORGAN::[[Muscle]]</li>
+<li>IMPROVED_BY_SUPPLEMENT::[[Berberine]]</li>
+<li>IMPROVED_BY_SUPPLEMENT::[[Chromium]]</li>
+<li>IMPROVED_BY_SUPPLEMENT::[[Alpha-Lipoic Acid]]</li>
+<li>MODULATED_BY_PATHWAY::[[Insulin Signaling]]</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>Reaven GM. Banting Lecture: Role of Insulin Resistance in Human Disease. Diabetes. 1988</li>
+<li>DeFronzo RA. Pathogenesis of Type 2 Diabetes Mellitus. Med Clin North Am. 2004</li>
+</ul>
 
-## Overview
-
-Insulin Resistance is a pathological condition where cells fail to respond normally to insulin, requiring higher insulin levels to maintain normal blood glucose. It is the central driver of metabolic syndrome and type 2 diabetes.
-
-Evidence Level: 5/5 (Well-established pathophysiology)
-Risk Multiplier: 2.0x for progression to type 2 diabetes
-
-## Key Biomarkers
-
-- **HOMA-IR**: Primary diagnostic marker (> 2.5 indicates resistance)
-- **Fasting Insulin**: Compensatory elevation (> 10 uIU/mL concerning)
-- **TG/HDL Ratio**: Indirect marker (> 2.0 suggests resistance)
-- **Fasting Glucose**: 100-125 mg/dL (prediabetic range)
-
-## Relationships
-
-- REQUIRES_BIOMARKER::[[HOMA-IR]]
-- REQUIRES_BIOMARKER::[[Fasting Insulin]]
-- REQUIRES_BIOMARKER::[[Triglycerides]]
-- REQUIRES_BIOMARKER::[[HDL Cholesterol]]
-- INCREASES_RISK_FOR::[[Type 2 Diabetes]]
-- INCREASES_RISK_FOR::[[PCOS]]
-- PRECURSOR_TO::[[Metabolic Syndrome]]
-- AFFECTS_ORGAN::[[Pancreas]]
-- AFFECTS_ORGAN::[[Liver]]
-- AFFECTS_ORGAN::[[Muscle]]
-- IMPROVED_BY_SUPPLEMENT::[[Berberine]]
-- IMPROVED_BY_SUPPLEMENT::[[Chromium]]
-- IMPROVED_BY_SUPPLEMENT::[[Alpha-Lipoic Acid]]
-- MODULATED_BY_PATHWAY::[[Insulin Signaling]]
-
-## References
-
-- Reaven GM. Banting Lecture: Role of Insulin Resistance in Human Disease. Diabetes. 1988
-- DeFronzo RA. Pathogenesis of Type 2 Diabetes Mellitus. Med Clin North Am. 2004
+{% endraw %}

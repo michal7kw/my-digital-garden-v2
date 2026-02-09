@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.514775Z'
+created: '2026-02-09T05:40:21.133493Z'
 description: Tricyclic antidepressant (TCA) with potent serotonin reuptake inhibition.
   The gold standard medication for Obsessive-Compulsive Disorder (OCD).
 dg-home: false
@@ -14,209 +14,248 @@ tags:
 - anxiety
 - imported
 - primekg
+templateEngineOverride: njk
 title: Clomipramine
 type: drug
-updated: '2026-02-08T19:45:44.514775Z'
+updated: '2026-02-09T05:40:21.133493Z'
 ---
 
-# Clomipramine
-
-## Overview
-Clomipramine is a tricyclic antidepressant (TCA) that is unique among its class for its extreme selectivity and potency for **serotonin reuptake inhibition**. It is FDA-approved for **Obsessive-Compulsive Disorder (OCD)** and is often considered the most effective pharmacological treatment for OCD, even surpassing SSRIs in some refractory cases.
-
-## Indications
-- **Obsessive-Compulsive Disorder (OCD)**: FDA approved; gold standard.
-- **Major Depressive Disorder**: Second-line.
-- **Panic Disorder**: Off-label.
-- **Cataplexy**: Associated with narcolepsy (off-label).
-- **Premature Ejaculation**: Off-label.
-
+{% raw %}
+<h1>Clomipramine</h1>
+<h2>Overview</h2>
+<p>Clomipramine is a tricyclic antidepressant (TCA) that is unique among its class for its extreme selectivity and potency for <strong>serotonin reuptake inhibition</strong>. It is FDA-approved for <strong>Obsessive-Compulsive Disorder (OCD)</strong> and is often considered the most effective pharmacological treatment for OCD, even surpassing SSRIs in some refractory cases.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Obsessive-Compulsive Disorder (OCD)</strong>: FDA approved; gold standard.</li>
+<li><strong>Major Depressive Disorder</strong>: Second-line.</li>
+<li><strong>Panic Disorder</strong>: Off-label.</li>
+<li><strong>Cataplexy</strong>: Associated with narcolepsy (off-label).</li>
+<li><strong>Premature Ejaculation</strong>: Off-label.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Carbamazepine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:56.519455'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Carbamazepine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.519455'
 source: obsidian
-```
-- ← [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.475847'
+</code></pre>
+<ul>
+<li>← [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
 source: obsidian
-```
-- ← [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>← [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- ← [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:36.875774'
+</code></pre>
+<ul>
+<li>← [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
-```
-- → [[Carbamazepine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Carbamazepine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Iobenguane_sulfate_I-123]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Iobenguane_sulfate_I-123]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Benzyl_alcohol]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Benzyl_alcohol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Magnesium_salicylate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Magnesium_salicylate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Clocortolone_acetate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Clocortolone_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[5-methoxy-NN-dimethyltryptamine]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[5-methoxy-NN-dimethyltryptamine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Oxazepam_acetate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Oxazepam_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Polymyxin_B]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Polymyxin_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Interferon_alfa-2b]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Interferon_alfa-2b]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Testosterone_propionate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Testosterone_propionate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Polyestradiol_phosphate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.184501'
+</code></pre>
+<ul>
+<li>→ [[Polyestradiol_phosphate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
 source: obsidian
-```
-- → [[Cataplexy]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[Cataplexy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- → [[OCD]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[OCD]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- → [[NET]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[NET]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- → [[SERT]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[SERT]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-
-### Interactswith
-- ← [[Carbamazepine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:36.888000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>← [[Carbamazepine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.888000+00:00'
 source: PrimeKG
-```
-- ← [[Oxazepam_acetate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.685000+00:00'
+</code></pre>
+<ul>
+<li>← [[Oxazepam_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.685000+00:00'
 source: PrimeKG
-```
-- ← [[Polyestradiol_phosphate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.695000+00:00'
+</code></pre>
+<ul>
+<li>← [[Polyestradiol_phosphate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.695000+00:00'
 source: PrimeKG
-```
-- ← [[Interferon_alfa-2b]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.745000+00:00'
+</code></pre>
+<ul>
+<li>← [[Interferon_alfa-2b]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.745000+00:00'
 source: PrimeKG
-```
-- ← [[Magnesium_salicylate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.768000+00:00'
+</code></pre>
+<ul>
+<li>← [[Magnesium_salicylate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.768000+00:00'
 source: PrimeKG
-```
-- ← [[5-methoxy-NN-dimethyltryptamine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.804000+00:00'
+</code></pre>
+<ul>
+<li>← [[5-methoxy-NN-dimethyltryptamine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.804000+00:00'
 source: PrimeKG
-```
-- ← [[Testosterone_propionate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.896000+00:00'
+</code></pre>
+<ul>
+<li>← [[Testosterone_propionate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.896000+00:00'
 source: PrimeKG
-```
-- ← [[Clocortolone_acetate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.901000+00:00'
+</code></pre>
+<ul>
+<li>← [[Clocortolone_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.901000+00:00'
 source: PrimeKG
-```
-- ← [[Benzyl_alcohol]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.920000+00:00'
+</code></pre>
+<ul>
+<li>← [[Benzyl_alcohol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.920000+00:00'
 source: PrimeKG
-```
-- ← [[Polymyxin_B]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.926000+00:00'
+</code></pre>
+<ul>
+<li>← [[Polymyxin_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.926000+00:00'
 source: PrimeKG
-```
-- ← [[Iobenguane_sulfate_I-123]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.942000+00:00'
+</code></pre>
+<ul>
+<li>← [[Iobenguane_sulfate_I-123]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.942000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter) - <em>Potent Reuptake Inhibition</em></li>
+<li>→ [[Norepinephrine]] (neurotransmitter) - <em>Reuptake Inhibition (via metabolite)</em></li>
+</ul>
+<h3>Modulates Protein</h3>
+<ul>
+<li>⊣ [[SERT]] (protein) - <em>Primary target</em></li>
+<li>⊣ [[NET]] (protein) - <em>Secondary target</em></li>
+</ul>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[OCD]] (condition)</li>
+<li>→ [[Depression]] (condition)</li>
+<li>→ [[Cataplexy]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>OCD</strong>: Katzman, M. A., et al. (2014). &quot;Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders.&quot; <em>BMC Psychiatry</em>.</li>
+<li><strong>Pharmacology</strong>: McTavish, D., &amp; Benfield, P. (1990). &quot;Clomipramine. An overview of its pharmacological properties and therapeutic use in obsessive-compulsive disorder and panic disorder.&quot; <em>Drugs</em>.</li>
+</ol>
 
-### Modulates Neurotransmitter
-- → [[Serotonin]] (neurotransmitter) - *Potent Reuptake Inhibition*
-- → [[Norepinephrine]] (neurotransmitter) - *Reuptake Inhibition (via metabolite)*
-
-### Modulates Protein
-- ⊣ [[SERT]] (protein) - *Primary target*
-- ⊣ [[NET]] (protein) - *Secondary target*
-
-### Treats Condition
-- → [[OCD]] (condition)
-- → [[Depression]] (condition)
-- → [[Cataplexy]] (condition)
-
-## References
-1. **OCD**: Katzman, M. A., et al. (2014). "Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders." *BMC Psychiatry*.
-2. **Pharmacology**: McTavish, D., & Benfield, P. (1990). "Clomipramine. An overview of its pharmacological properties and therapeutic use in obsessive-compulsive disorder and panic disorder." *Drugs*.
+{% endraw %}

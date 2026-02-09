@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.460228Z'
+created: '2026-02-09T05:40:20.860529Z'
 description: A fatal neurodegenerative disease characterized by progressive loss of
   upper and lower motor neurons, leading to muscle weakness, paralysis, and death
   typically within 2-5 years of symptom onset.
@@ -13,288 +13,342 @@ tags:
 - neurodegeneration
 - motor-neuron-disease
 - fatal
+templateEngineOverride: njk
 title: Amyotrophic Lateral Sclerosis
 type: condition
-updated: '2026-02-08T19:45:44.460228Z'
+updated: '2026-02-09T05:40:20.860529Z'
 ---
 
-# Amyotrophic Lateral Sclerosis
-
-## Overview
-Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig's disease, is a devastating motor neuron disease that selectively destroys upper motor neurons (in motor cortex) and lower motor neurons (in brainstem and spinal cord). The disease is uniformly fatal, with respiratory failure being the most common cause of death.
-
-## Clinical Features
-
-### Upper Motor Neuron Signs
-- Spasticity
-- Hyperreflexia
-- Pathological reflexes (Babinski sign)
-
-### Lower Motor Neuron Signs
-- Muscle weakness and atrophy
-- Fasciculations
-- Hyporeflexia (in affected segments)
-
-### Bulbar Symptoms
-- Dysarthria (slurred speech)
-- Dysphagia (swallowing difficulty)
-- Sialorrhea (drooling)
-
-## Pathophysiology
-1. **TDP-43 Proteinopathy**: Cytoplasmic inclusions of TDP-43 in ~97% of cases
-2. **SOD1 Mutations**: First identified ALS gene; toxic gain of function
-3. **C9orf72 Expansion**: Most common genetic cause; dipeptide repeat toxicity
-4. **Glutamate Excitotoxicity**: Excessive glutamate signaling
-5. **Mitochondrial Dysfunction**: Impaired energy metabolism
-6. **Oxidative Stress**: Free radical damage to motor neurons
-
-## Genetic Forms (~10% familial)
-- **C9orf72**: 40% of familial ALS; overlaps with FTD
-- **SOD1**: 20% of familial ALS
-- **TARDBP**: Encodes TDP-43
-- **FUS**: RNA-binding protein
-
-## Prognosis
-- Median survival: 2-4 years from symptom onset
-- 10% survive >10 years
-- Respiratory muscle weakness determines survival
-
+{% raw %}
+<h1>Amyotrophic Lateral Sclerosis</h1>
+<h2>Overview</h2>
+<p>Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig's disease, is a devastating motor neuron disease that selectively destroys upper motor neurons (in motor cortex) and lower motor neurons (in brainstem and spinal cord). The disease is uniformly fatal, with respiratory failure being the most common cause of death.</p>
+<h2>Clinical Features</h2>
+<h3>Upper Motor Neuron Signs</h3>
+<ul>
+<li>Spasticity</li>
+<li>Hyperreflexia</li>
+<li>Pathological reflexes (Babinski sign)</li>
+</ul>
+<h3>Lower Motor Neuron Signs</h3>
+<ul>
+<li>Muscle weakness and atrophy</li>
+<li>Fasciculations</li>
+<li>Hyporeflexia (in affected segments)</li>
+</ul>
+<h3>Bulbar Symptoms</h3>
+<ul>
+<li>Dysarthria (slurred speech)</li>
+<li>Dysphagia (swallowing difficulty)</li>
+<li>Sialorrhea (drooling)</li>
+</ul>
+<h2>Pathophysiology</h2>
+<ol>
+<li><strong>TDP-43 Proteinopathy</strong>: Cytoplasmic inclusions of TDP-43 in ~97% of cases</li>
+<li><strong>SOD1 Mutations</strong>: First identified ALS gene; toxic gain of function</li>
+<li><strong>C9orf72 Expansion</strong>: Most common genetic cause; dipeptide repeat toxicity</li>
+<li><strong>Glutamate Excitotoxicity</strong>: Excessive glutamate signaling</li>
+<li><strong>Mitochondrial Dysfunction</strong>: Impaired energy metabolism</li>
+<li><strong>Oxidative Stress</strong>: Free radical damage to motor neurons</li>
+</ol>
+<h2>Genetic Forms (~10% familial)</h2>
+<ul>
+<li><strong>C9orf72</strong>: 40% of familial ALS; overlaps with FTD</li>
+<li><strong>SOD1</strong>: 20% of familial ALS</li>
+<li><strong>TARDBP</strong>: Encodes TDP-43</li>
+<li><strong>FUS</strong>: RNA-binding protein</li>
+</ul>
+<h2>Prognosis</h2>
+<ul>
+<li>Median survival: 2-4 years from symptom onset</li>
+<li>10% survive &gt;10 years</li>
+<li>Respiratory muscle weakness determines survival</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Amyotrophic_Lateral_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:23.904081'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:23.904081'
 source: obsidian
-```
-- → [[Creatine_Kinase]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Creatine_Kinase]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Digital_Biomarkers_for_Neurodegeneration]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Digital_Biomarkers_for_Neurodegeneration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Phospho-Neurofilament_Heavy]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Phospho-Neurofilament_Heavy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Motor_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Motor_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[MRI_Brain_and_Spine]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[MRI_Brain_and_Spine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Neuroinflammation]] (pathway)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Neuroinflammation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Autophagy-Lysosomal_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[EMG_Electromyography]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[EMG_Electromyography]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Spinal_Cord]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Spinal_Cord]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Blood_NfL]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[EMG_and_Nerve_Conduction_Studies]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[EMG_and_Nerve_Conduction_Studies]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Progressive_Muscular_Atrophy]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Progressive_Muscular_Atrophy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Nerve_Conduction_Studies]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Nerve_Conduction_Studies]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Non-Invasive_Ventilation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Non-Invasive_Ventilation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Primary_Lateral_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>→ [[Primary_Lateral_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- → [[Brainstem]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Brainstem]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Primary_Lateral_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Primary_Lateral_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Nerve_Conduction_Studies]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Nerve_Conduction_Studies]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Phospho-Neurofilament_Heavy]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Phospho-Neurofilament_Heavy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Edaravone]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Edaravone]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[EMG_Electromyography]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[EMG_Electromyography]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[MRI_Brain_and_Spine]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[MRI_Brain_and_Spine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Riluzole]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Riluzole]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Progressive_Muscular_Atrophy]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Progressive_Muscular_Atrophy]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Non-Invasive_Ventilation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Non-Invasive_Ventilation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Motor_Cortex]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Motor_Cortex]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Spinal_Cord]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Spinal_Cord]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- ← [[Neuroinflammation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>← [[Neuroinflammation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- ← [[Autophagy-Lysosomal_Pathway]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- ← [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.198842'
+</code></pre>
+<ul>
+<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
 source: obsidian
-```
-- ← [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:11.464163'
+</code></pre>
+<ul>
+<li>← [[Digital_Biomarkers_for_Neurodegeneration]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
 source: obsidian
-```
-- ← [[Blood_NfL]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.597897'
+</code></pre>
+<ul>
+<li>← [[Blood_NfL]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
-```
-- ← [[EMG_and_Nerve_Conduction_Studies]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:44.705253'
+</code></pre>
+<ul>
+<li>← [[EMG_and_Nerve_Conduction_Studies]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.705253'
 source: obsidian
-```
-- ← [[Frontotemporal_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:27.931193'
+</code></pre>
+<ul>
+<li>← [[Frontotemporal_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.931193'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
-- → [[Creatine_Kinase]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:23.446168'
+</code></pre>
+<ul>
+<li>→ [[Creatine_Kinase]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.446168'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Affected Regions</h3>
+<ul>
+<li>→ [[Motor Cortex]] (organ) - <em>Upper motor neurons</em></li>
+<li>→ [[Spinal Cord]] (organ) - <em>Lower motor neurons</em></li>
+<li>→ [[Brainstem]] (organ) - <em>Bulbar motor neurons</em></li>
+</ul>
+<h3>Biomarkers</h3>
+<ul>
+<li>← [[Neurofilament Light Chain]] (biomarker) - <em>Strongly elevated; prognostic value</em></li>
+<li>← [[Phospho-Neurofilament Heavy]] (biomarker) - <em>CSF marker</em></li>
+<li>← [[Creatine Kinase]] (biomarker) - <em>Muscle damage marker</em></li>
+</ul>
+<h3>Diagnostic Tests</h3>
+<ul>
+<li>← [[EMG Electromyography]] (examination) - <em>Shows denervation</em></li>
+<li>← [[Nerve Conduction Studies]] (examination) - <em>Normal sensory</em></li>
+<li>← [[MRI Brain and Spine]] (examination) - <em>Exclude mimics</em></li>
+</ul>
+<h3>Treatments</h3>
+<ul>
+<li>← [[Riluzole]] (drug) - <em>Glutamate modulator; extends survival ~3 months</em></li>
+<li>← [[Edaravone]] (drug) - <em>Antioxidant; slows decline in some patients</em></li>
+<li>← [[Non-Invasive Ventilation]] (intervention) - <em>Respiratory support</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>ALS-FTD spectrum</em></li>
+<li>→ [[Primary Lateral Sclerosis]] (condition) - <em>UMN-only variant</em></li>
+<li>→ [[Progressive Muscular Atrophy]] (condition) - <em>LMN-only variant</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Review</strong>: Feldman, E.L., et al. (2022). &quot;Amyotrophic lateral sclerosis.&quot; <em>The Lancet</em>.</li>
+<li><strong>Biomarkers</strong>: Benatar, M., et al. (2018). &quot;Neurofilament light in ALS.&quot; <em>Neurology</em>.</li>
+</ol>
 
-### Affected Regions
-- → [[Motor Cortex]] (organ) - *Upper motor neurons*
-- → [[Spinal Cord]] (organ) - *Lower motor neurons*
-- → [[Brainstem]] (organ) - *Bulbar motor neurons*
-
-### Biomarkers
-- ← [[Neurofilament Light Chain]] (biomarker) - *Strongly elevated; prognostic value*
-- ← [[Phospho-Neurofilament Heavy]] (biomarker) - *CSF marker*
-- ← [[Creatine Kinase]] (biomarker) - *Muscle damage marker*
-
-### Diagnostic Tests
-- ← [[EMG Electromyography]] (examination) - *Shows denervation*
-- ← [[Nerve Conduction Studies]] (examination) - *Normal sensory*
-- ← [[MRI Brain and Spine]] (examination) - *Exclude mimics*
-
-### Treatments
-- ← [[Riluzole]] (drug) - *Glutamate modulator; extends survival ~3 months*
-- ← [[Edaravone]] (drug) - *Antioxidant; slows decline in some patients*
-- ← [[Non-Invasive Ventilation]] (intervention) - *Respiratory support*
-
-### Related Conditions
-- → [[Frontotemporal Dementia]] (condition) - *ALS-FTD spectrum*
-- → [[Primary Lateral Sclerosis]] (condition) - *UMN-only variant*
-- → [[Progressive Muscular Atrophy]] (condition) - *LMN-only variant*
-
-## References
-1. **Review**: Feldman, E.L., et al. (2022). "Amyotrophic lateral sclerosis." *The Lancet*.
-2. **Biomarkers**: Benatar, M., et al. (2018). "Neurofilament light in ALS." *Neurology*.
+{% endraw %}

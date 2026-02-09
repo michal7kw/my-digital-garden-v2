@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.615840Z'
+created: '2026-02-09T05:40:21.827985Z'
 description: The innate immune response within the central nervous system, involving
   activation of microglia and astrocytes. Chronic neuroinflammation contributes to
   neurodegeneration in AD, PD, MS, and other diseases.
@@ -14,419 +14,543 @@ tags:
 - inflammation
 - microglia
 - astrocyte
+templateEngineOverride: njk
 title: Neuroinflammation
 type: pathway
-updated: '2026-02-08T19:45:44.615840Z'
+updated: '2026-02-09T05:40:21.827985Z'
 ---
 
-# Neuroinflammation
-
-## Overview
-Neuroinflammation refers to the inflammatory response within the central nervous system (CNS), mediated primarily by resident immune cells—microglia and astrocytes. While acute neuroinflammation is protective (clearing pathogens and debris), chronic or dysregulated inflammation becomes detrimental, contributing to synaptic dysfunction, neuronal death, and disease progression in virtually all neurodegenerative conditions.
-
-## Key Cellular Players
-
-### Microglia
-- CNS-resident macrophages
-- First responders to injury/pathology
-- Highly dynamic surveillants
-- Can be pro-inflammatory (M1-like) or anti-inflammatory (M2-like)
-
-### Astrocytes
-- Reactive astrogliosis in disease
-- A1 (neurotoxic) vs A2 (neuroprotective) phenotypes
-- Barrier function compromised
-- Contribute to scar formation
-
-### Peripheral Immune Cells
-- T cells, monocytes can infiltrate CNS
-- Blood-brain barrier breakdown allows entry
-- Both protective and damaging roles
-
-## Inflammatory Mediators
-
-### Pro-Inflammatory
-| Mediator | Source | Effect |
-|----------|--------|--------|
-| TNF-α | Microglia | Neuronal death, BBB disruption |
-| IL-1β | Microglia, astrocytes | Fever, sickness behavior |
-| IL-6 | Multiple | Acute phase response |
-| CCL2 | Astrocytes | Monocyte recruitment |
-| NO/iNOS | Microglia | Oxidative damage |
-| Complement (C1q, C3) | Microglia | Synaptic pruning |
-
-### Anti-Inflammatory
-| Mediator | Source | Effect |
-|----------|--------|--------|
-| IL-10 | Microglia | Suppresses inflammation |
-| TGF-β | Astrocytes, microglia | Resolution, repair |
-| IL-4, IL-13 | T cells | M2 polarization |
-| Resolvins, protectins | Multiple | Resolution of inflammation |
-
-## Disease-Specific Patterns
-
-### Alzheimer's Disease
-- Microglia cluster around plaques
-- TREM2 variants increase AD risk
-- Complement-mediated synapse loss
-- Chronic activation drives progression
-
-### Parkinson's Disease
-- Microglial activation in substantia nigra
-- α-synuclein triggers inflammation
-- T cell infiltration
-- Peripheral inflammation contributes
-
-### Multiple Sclerosis
-- Autoimmune attack on myelin
-- T cell-mediated demyelination
-- Microglial/macrophage phagocytosis
-- Both detrimental and remyelination support
-
-### ALS
-- Microglial activation along motor pathways
-- Astrocyte glutamate dysregulation
-- Complement activation
-- Contributes to motor neuron death
-
-## Inflammaging
-
-### Age-Related Changes
-- Increased basal inflammation with aging
-- Microglial priming (hyper-responsive)
-- Reduced resolution mechanisms
-- Senescence-associated phenotype
-
-### Systemic-CNS Crosstalk
-- Peripheral inflammation affects brain
-- Gut-brain axis involvement
-- Metabolic inflammation (obesity, diabetes)
-
-## Biomarkers
-
-### CSF Markers
-- sTREM2 (soluble TREM2)
-- YKL-40/chitinase-3-like-1
-- Neopterin
-- Complement proteins
-
-### Blood Markers
-- CRP, IL-6, TNF-α
-- Glial fibrillary acidic protein (GFAP)
-- Cytokine panels
-
-### Imaging
-- TSPO PET (microglial activation)
-- [11C]PK11195, [18F]DPA-714
-
+{% raw %}
+<h1>Neuroinflammation</h1>
+<h2>Overview</h2>
+<p>Neuroinflammation refers to the inflammatory response within the central nervous system (CNS), mediated primarily by resident immune cells—microglia and astrocytes. While acute neuroinflammation is protective (clearing pathogens and debris), chronic or dysregulated inflammation becomes detrimental, contributing to synaptic dysfunction, neuronal death, and disease progression in virtually all neurodegenerative conditions.</p>
+<h2>Key Cellular Players</h2>
+<h3>Microglia</h3>
+<ul>
+<li>CNS-resident macrophages</li>
+<li>First responders to injury/pathology</li>
+<li>Highly dynamic surveillants</li>
+<li>Can be pro-inflammatory (M1-like) or anti-inflammatory (M2-like)</li>
+</ul>
+<h3>Astrocytes</h3>
+<ul>
+<li>Reactive astrogliosis in disease</li>
+<li>A1 (neurotoxic) vs A2 (neuroprotective) phenotypes</li>
+<li>Barrier function compromised</li>
+<li>Contribute to scar formation</li>
+</ul>
+<h3>Peripheral Immune Cells</h3>
+<ul>
+<li>T cells, monocytes can infiltrate CNS</li>
+<li>Blood-brain barrier breakdown allows entry</li>
+<li>Both protective and damaging roles</li>
+</ul>
+<h2>Inflammatory Mediators</h2>
+<h3>Pro-Inflammatory</h3>
+<table>
+<thead>
+<tr>
+<th>Mediator</th>
+<th>Source</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TNF-α</td>
+<td>Microglia</td>
+<td>Neuronal death, BBB disruption</td>
+</tr>
+<tr>
+<td>IL-1β</td>
+<td>Microglia, astrocytes</td>
+<td>Fever, sickness behavior</td>
+</tr>
+<tr>
+<td>IL-6</td>
+<td>Multiple</td>
+<td>Acute phase response</td>
+</tr>
+<tr>
+<td>CCL2</td>
+<td>Astrocytes</td>
+<td>Monocyte recruitment</td>
+</tr>
+<tr>
+<td>NO/iNOS</td>
+<td>Microglia</td>
+<td>Oxidative damage</td>
+</tr>
+<tr>
+<td>Complement (C1q, C3)</td>
+<td>Microglia</td>
+<td>Synaptic pruning</td>
+</tr>
+</tbody>
+</table>
+<h3>Anti-Inflammatory</h3>
+<table>
+<thead>
+<tr>
+<th>Mediator</th>
+<th>Source</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IL-10</td>
+<td>Microglia</td>
+<td>Suppresses inflammation</td>
+</tr>
+<tr>
+<td>TGF-β</td>
+<td>Astrocytes, microglia</td>
+<td>Resolution, repair</td>
+</tr>
+<tr>
+<td>IL-4, IL-13</td>
+<td>T cells</td>
+<td>M2 polarization</td>
+</tr>
+<tr>
+<td>Resolvins, protectins</td>
+<td>Multiple</td>
+<td>Resolution of inflammation</td>
+</tr>
+</tbody>
+</table>
+<h2>Disease-Specific Patterns</h2>
+<h3>Alzheimer's Disease</h3>
+<ul>
+<li>Microglia cluster around plaques</li>
+<li>TREM2 variants increase AD risk</li>
+<li>Complement-mediated synapse loss</li>
+<li>Chronic activation drives progression</li>
+</ul>
+<h3>Parkinson's Disease</h3>
+<ul>
+<li>Microglial activation in substantia nigra</li>
+<li>α-synuclein triggers inflammation</li>
+<li>T cell infiltration</li>
+<li>Peripheral inflammation contributes</li>
+</ul>
+<h3>Multiple Sclerosis</h3>
+<ul>
+<li>Autoimmune attack on myelin</li>
+<li>T cell-mediated demyelination</li>
+<li>Microglial/macrophage phagocytosis</li>
+<li>Both detrimental and remyelination support</li>
+</ul>
+<h3>ALS</h3>
+<ul>
+<li>Microglial activation along motor pathways</li>
+<li>Astrocyte glutamate dysregulation</li>
+<li>Complement activation</li>
+<li>Contributes to motor neuron death</li>
+</ul>
+<h2>Inflammaging</h2>
+<h3>Age-Related Changes</h3>
+<ul>
+<li>Increased basal inflammation with aging</li>
+<li>Microglial priming (hyper-responsive)</li>
+<li>Reduced resolution mechanisms</li>
+<li>Senescence-associated phenotype</li>
+</ul>
+<h3>Systemic-CNS Crosstalk</h3>
+<ul>
+<li>Peripheral inflammation affects brain</li>
+<li>Gut-brain axis involvement</li>
+<li>Metabolic inflammation (obesity, diabetes)</li>
+</ul>
+<h2>Biomarkers</h2>
+<h3>CSF Markers</h3>
+<ul>
+<li>sTREM2 (soluble TREM2)</li>
+<li>YKL-40/chitinase-3-like-1</li>
+<li>Neopterin</li>
+<li>Complement proteins</li>
+</ul>
+<h3>Blood Markers</h3>
+<ul>
+<li>CRP, IL-6, TNF-α</li>
+<li>Glial fibrillary acidic protein (GFAP)</li>
+<li>Cytokine panels</li>
+</ul>
+<h3>Imaging</h3>
+<ul>
+<li>TSPO PET (microglial activation)</li>
+<li>[11C]PK11195, [18F]DPA-714</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-26T06:42:49.757693'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:49.757693'
 source: obsidian
-```
-- → [[MTBR-tau243]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[MTBR-tau243]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[NF-B_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[NF-B_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Multiple_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Multiple_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Sleep_Optimization]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Sleep_Optimization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Complement_System]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Complement_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Amyloid_Cascade]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Cascade]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Huntingtons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Huntingtons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Oxidative_Stress]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Stress]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Blood_NfL]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Mediterranean_Diet]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Mediterranean_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.332585'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.332585'
 source: obsidian
-```
-- ← [[Mediterranean_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T06:48:05.770855'
+</code></pre>
+<ul>
+<li>← [[Mediterranean_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
 source: obsidian
-```
-- ← [[Exercise]] (intervention)
-```yaml
-last_modified: '2026-01-26T06:48:05.285853'
+</code></pre>
+<ul>
+<li>← [[Exercise]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.285853'
 source: obsidian
-```
-- ← [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:49.397368'
+</code></pre>
+<ul>
+<li>← [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.397368'
 source: obsidian
-```
-- ← [[Oxidative_Stress]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:48.905499'
+</code></pre>
+<ul>
+<li>← [[Oxidative_Stress]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.905499'
 source: obsidian
-```
-- ← [[Huntingtons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:40.871679'
+</code></pre>
+<ul>
+<li>← [[Huntingtons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.871679'
 source: obsidian
-```
-- ← [[Amyotrophic_Lateral_Sclerosis]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:30.937165'
+</code></pre>
+<ul>
+<li>← [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.937165'
 source: obsidian
-```
-- ← [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:30.206636'
+</code></pre>
+<ul>
+<li>← [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
 source: obsidian
-```
-- → [[Multiple_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Multiple_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[CRP]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[NF-B_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[NF-B_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[IL-6]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[IL-6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Complement_System]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Complement_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- ← [[Amyloid_Cascade]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>← [[Amyloid_Cascade]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- ← [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:10.957081'
+</code></pre>
+<ul>
+<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
-```
-- ← [[Sleep_Optimization]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.863953'
+</code></pre>
+<ul>
+<li>← [[Sleep_Optimization]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
-```
-- ← [[MTBR-tau243]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:14.924796'
+</code></pre>
+<ul>
+<li>← [[MTBR-tau243]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.924796'
 source: obsidian
-```
-- ← [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.668732'
+</code></pre>
+<ul>
+<li>← [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
-```
-- ← [[Blood_NfL]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.597897'
+</code></pre>
+<ul>
+<li>← [[Blood_NfL]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
-```
-- ← [[Omega-3_DHA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.685849'
+</code></pre>
+<ul>
+<li>← [[Omega-3_DHA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
-```
-- ← [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.950584'
+</code></pre>
+<ul>
+<li>← [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
-```
-- → [[Oxidative_Stress]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Stress]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Mediterranean_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Mediterranean_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Huntingtons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Huntingtons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Amyloid_Cascade]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Cascade]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Exercise]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Exercise]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Neurodegenerative Diseases</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Chronic microglial activation</em></li>
+<li>→ [[Parkinson's Disease]] (condition) - <em>Substantia nigra inflammation</em></li>
+<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Motor pathway involvement</em></li>
+<li>→ [[Multiple Sclerosis]] (condition) - <em>Central to pathogenesis</em></li>
+<li>→ [[Huntington's Disease]] (condition) - <em>Striatal inflammation</em></li>
+</ul>
+<h3>Upstream Triggers</h3>
+<ul>
+<li>← [[Amyloid Cascade]] (pathway) - <em>Plaque-induced activation</em></li>
+<li>← [[Alpha-Synuclein Aggregation]] (pathway) - <em>Protein aggregates trigger</em></li>
+<li>← [[Tau Phosphorylation]] (pathway) - <em>Tangle-associated inflammation</em></li>
+</ul>
+<h3>Related Pathways</h3>
+<ul>
+<li>→ [[Oxidative Stress]] (pathway) - <em>ROS production</em></li>
+<li>→ [[Complement System]] (pathway) - <em>Synaptic pruning</em></li>
+<li>→ [[NF-κB Signaling]] (pathway) - <em>Master inflammatory switch</em></li>
+</ul>
+<h3>Biomarkers</h3>
+<ul>
+<li>→ [[CRP]] (biomarker) - <em>Systemic inflammation</em></li>
+<li>→ [[GFAP]] (biomarker) - <em>Astrocyte activation</em></li>
+<li>→ [[IL-6]] (biomarker) - <em>Pro-inflammatory cytokine</em></li>
+</ul>
+<h3>Anti-Inflammatory Interventions</h3>
+<ul>
+<li>← [[Exercise]] (intervention) - <em>Anti-inflammatory effects</em></li>
+<li>← [[Omega-3 DHA]] (supplement) - <em>Resolution support</em></li>
+<li>← [[Curcumin]] (supplement) - <em>NF-κB inhibition</em></li>
+<li>← [[Mediterranean Diet]] (intervention) - <em>Anti-inflammatory pattern</em></li>
+</ul>
+<h2>Therapeutic Approaches</h2>
+<h3>Anti-Inflammatory Drugs</h3>
+<ul>
+<li>NSAIDs (epidemiological benefit, trial failures)</li>
+<li>TNF inhibitors (peripheral success, CNS challenging)</li>
+<li>IL-1β inhibitors (canakinumab)</li>
+</ul>
+<h3>Microglial Modulation</h3>
+<ul>
+<li>TREM2 agonists</li>
+<li>CSF1R inhibitors</li>
+<li>CD33 modulators</li>
+</ul>
+<h3>Resolution Promotion</h3>
+<ul>
+<li>SPMs (specialized pro-resolving mediators)</li>
+<li>Omega-3 derived resolvins</li>
+<li>Lipoxins</li>
+</ul>
+<h3>Lifestyle Interventions</h3>
+<ul>
+<li>Exercise (potent anti-inflammatory)</li>
+<li>Mediterranean diet</li>
+<li>Sleep optimization</li>
+<li>Stress reduction</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Review</strong>: Heneka, M.T., et al. (2015). &quot;Neuroinflammation in Alzheimer's disease.&quot; <em>The Lancet Neurology</em>.</li>
+<li><strong>Microglia</strong>: Salter, M.W., et al. (2017). &quot;Microglia emerge as central players in brain disease.&quot; <em>Nature Medicine</em>.</li>
+<li><strong>Therapeutics</strong>: Ransohoff, R.M. (2016). &quot;How neuroinflammation contributes to neurodegeneration.&quot; <em>Science</em>.</li>
+</ol>
 
-### Neurodegenerative Diseases
-- → [[Alzheimer's Disease]] (condition) - *Chronic microglial activation*
-- → [[Parkinson's Disease]] (condition) - *Substantia nigra inflammation*
-- → [[Amyotrophic Lateral Sclerosis]] (condition) - *Motor pathway involvement*
-- → [[Multiple Sclerosis]] (condition) - *Central to pathogenesis*
-- → [[Huntington's Disease]] (condition) - *Striatal inflammation*
-
-### Upstream Triggers
-- ← [[Amyloid Cascade]] (pathway) - *Plaque-induced activation*
-- ← [[Alpha-Synuclein Aggregation]] (pathway) - *Protein aggregates trigger*
-- ← [[Tau Phosphorylation]] (pathway) - *Tangle-associated inflammation*
-
-### Related Pathways
-- → [[Oxidative Stress]] (pathway) - *ROS production*
-- → [[Complement System]] (pathway) - *Synaptic pruning*
-- → [[NF-κB Signaling]] (pathway) - *Master inflammatory switch*
-
-### Biomarkers
-- → [[CRP]] (biomarker) - *Systemic inflammation*
-- → [[GFAP]] (biomarker) - *Astrocyte activation*
-- → [[IL-6]] (biomarker) - *Pro-inflammatory cytokine*
-
-### Anti-Inflammatory Interventions
-- ← [[Exercise]] (intervention) - *Anti-inflammatory effects*
-- ← [[Omega-3 DHA]] (supplement) - *Resolution support*
-- ← [[Curcumin]] (supplement) - *NF-κB inhibition*
-- ← [[Mediterranean Diet]] (intervention) - *Anti-inflammatory pattern*
-
-## Therapeutic Approaches
-
-### Anti-Inflammatory Drugs
-- NSAIDs (epidemiological benefit, trial failures)
-- TNF inhibitors (peripheral success, CNS challenging)
-- IL-1β inhibitors (canakinumab)
-
-### Microglial Modulation
-- TREM2 agonists
-- CSF1R inhibitors
-- CD33 modulators
-
-### Resolution Promotion
-- SPMs (specialized pro-resolving mediators)
-- Omega-3 derived resolvins
-- Lipoxins
-
-### Lifestyle Interventions
-- Exercise (potent anti-inflammatory)
-- Mediterranean diet
-- Sleep optimization
-- Stress reduction
-
-## References
-1. **Review**: Heneka, M.T., et al. (2015). "Neuroinflammation in Alzheimer's disease." *The Lancet Neurology*.
-2. **Microglia**: Salter, M.W., et al. (2017). "Microglia emerge as central players in brain disease." *Nature Medicine*.
-3. **Therapeutics**: Ransohoff, R.M. (2016). "How neuroinflammation contributes to neurodegeneration." *Science*.
+{% endraw %}

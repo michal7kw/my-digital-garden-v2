@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.520773Z'
+created: '2026-02-09T05:40:21.163942Z'
 description: Nicotine is a naturally occurring alkaloid found in tobacco plants that
   acts as a nicotinic acetylcholine receptor agonist. It influences mitochondrial
   function both in vitro and in vivo, affecting the respiratory chain, oxidative stress,
@@ -15,98 +15,105 @@ tags:
 - nicotinic_receptor_agonist
 - mitochondria
 - oxidative_stress
+templateEngineOverride: njk
 title: Nicotine
 type: drug
-updated: '2026-02-08T19:45:44.520773Z'
+updated: '2026-02-09T05:40:21.163942Z'
 ---
 
-# Nicotine
-
-## Overview
-
-Nicotine is a potent parasympathomimetic alkaloid derived from the nightshade family of plants. It is the primary psychoactive compound in tobacco products and acts primarily on nicotinic acetylcholine receptors (nAChRs).
-
-## Mitochondrial Effects
-
-According to the review by Malinska et al. (2019, PMID:31197632), nicotine influences mitochondrial function through:
-
-- **Respiratory Chain**: Effects on electron transport chain complexes
-- **Oxidative Stress**: Modulation of reactive oxygen species production
-- **Calcium Homeostasis**: Regulation of mitochondrial calcium handling
-- **Mitochondrial Dynamics**: Effects on fission and fusion processes
-- **Biogenesis**: Influence on mitochondrial DNA and protein synthesis
-- **Mitophagy**: Selective autophagy of damaged mitochondria
-
+{% raw %}
+<h1>Nicotine</h1>
+<h2>Overview</h2>
+<p>Nicotine is a potent parasympathomimetic alkaloid derived from the nightshade family of plants. It is the primary psychoactive compound in tobacco products and acts primarily on nicotinic acetylcholine receptors (nAChRs).</p>
+<h2>Mitochondrial Effects</h2>
+<p>According to the review by Malinska et al. (2019, PMID:31197632), nicotine influences mitochondrial function through:</p>
+<ul>
+<li><strong>Respiratory Chain</strong>: Effects on electron transport chain complexes</li>
+<li><strong>Oxidative Stress</strong>: Modulation of reactive oxygen species production</li>
+<li><strong>Calcium Homeostasis</strong>: Regulation of mitochondrial calcium handling</li>
+<li><strong>Mitochondrial Dynamics</strong>: Effects on fission and fusion processes</li>
+<li><strong>Biogenesis</strong>: Influence on mitochondrial DNA and protein synthesis</li>
+<li><strong>Mitophagy</strong>: Selective autophagy of damaged mitochondria</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Modulates
-- → [[Oxidative_Stress]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.749430'
+<h2>Relationships</h2>
+<h3>Modulates</h3>
+<ul>
+<li>→ [[Oxidative_Stress]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
 source: obsidian
-```
-
-### Affects
-- → [[Electron_Transport_Chain]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:42.749430'
+</code></pre>
+<h3>Affects</h3>
+<ul>
+<li>→ [[Electron_Transport_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
 source: obsidian
-```
-- → [[Mitophagy]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:07:42.749430'
+</code></pre>
+<ul>
+<li>→ [[Mitophagy]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:42.749430'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
 source: obsidian
-```
-
-### Related
-- ← [[Electron_Transport_Chain]] (pathway)
-```yaml
-last_modified: '2026-01-26T06:48:40.766680'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[Electron_Transport_Chain]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
 source: obsidian
-```
-- ← [[Oxidative_Stress]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>← [[Oxidative_Stress]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
-
-### Modulated By
-- ← [[Oxidative_Stress]] (condition)
-```yaml
-last_modified: '2026-01-19T09:37:22.629336'
+</code></pre>
+<h3>Modulated By</h3>
+<ul>
+<li>← [[Oxidative_Stress]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
 source: obsidian
-```
-- ← [[Mitophagy]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.248727'
+</code></pre>
+<ul>
+<li>← [[Mitophagy]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
 source: obsidian
-```
-
-### Affected By
-- ← [[Electron_Transport_Chain]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.837447'
+</code></pre>
+<h3>Affected By</h3>
+<ul>
+<li>← [[Electron_Transport_Chain]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<ul>
+<li>affects:: [[Mitochondria]]</li>
+<li>affects:: [[Electron_Transport_Chain]]</li>
+<li>modulates:: [[Oxidative_Stress]]</li>
+<li>affects:: [[Mitophagy]]</li>
+<li>binds_to:: Nicotinic Acetylcholine Receptors</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>PMID:31197632 - Malinska D, et al. (2019) &quot;Mitochondria as a possible target for nicotine action.&quot; J Bioenerg Biomembr. 51(4).</li>
+</ul>
 
-- affects:: [[Mitochondria]]
-- affects:: [[Electron_Transport_Chain]]
-- modulates:: [[Oxidative_Stress]]
-- affects:: [[Mitophagy]]
-- binds_to:: Nicotinic Acetylcholine Receptors
-
-## References
-
-- PMID:31197632 - Malinska D, et al. (2019) "Mitochondria as a possible target for nicotine action." J Bioenerg Biomembr. 51(4).
+{% endraw %}

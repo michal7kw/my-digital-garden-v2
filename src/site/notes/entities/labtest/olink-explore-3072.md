@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.574758Z'
+created: '2026-02-09T05:40:21.442849Z'
 description: Olink's high-throughput proteomics panel measuring 3000+ proteins with
   high specificity.
 dg-home: false
@@ -9,55 +9,68 @@ permalink: /garden/dev_admin/labtest/olink-explore-3072/
 slug: olink-explore-3072
 tags:
 - labtest
+templateEngineOverride: njk
 title: olink_explore_3072
 type: labtest
-updated: '2026-02-08T19:45:44.574758Z'
+updated: '2026-02-09T05:40:21.442849Z'
 ---
 
-# Olink Explore 3072
-
-## Overview
-Olink's high-throughput proteomics panel measuring 3000+ proteins with high specificity.
-
-**Evidence Level:** ⭐⭐ (2/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Proteomics |
-| **Subcategory** | Other || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 21-35 days || **Price Range** | $2000-$4000 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-General health screening.
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Olink Explore 3072</h1>
+<h2>Overview</h2>
+<p>Olink's high-throughput proteomics panel measuring 3000+ proteins with high specificity.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐ (2/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Proteomics</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Other</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>21-35 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2025-12-28T17:32:26+0000*
+{% endraw %}

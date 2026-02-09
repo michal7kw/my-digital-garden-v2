@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.567464Z'
+created: '2026-02-09T05:40:21.404506Z'
 description: Leptin is called the satiety hormone, and tells the brain when you are
   full and when to stop eating. It is an important hormone produced by fat cells to
   regulate metabolism and body weight. High levels often points to leptin resistance,
@@ -14,152 +14,182 @@ tags:
 - labtest
 - blood-panel
 - function-health
+templateEngineOverride: njk
 title: leptin
 type: labtest
-updated: '2026-02-08T19:45:44.567464Z'
+updated: '2026-02-09T05:40:21.404506Z'
 ---
 
-# Leptin
-
-## Overview
-Leptin is called the satiety hormone, and tells the brain when you are full and when to stop eating. It is an important hormone produced by fat cells to regulate metabolism and body weight. High levels often points to leptin resistance, which exacerbates chronic inflammation and insulin resistance, while increasing cardiovascular risk, metabolic issues, and obesity.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Cmp || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Obesity]]
-- [[Leptin Resistance]]
-- [[Metabolic Syndrome]]
-- [[Insulin Resistance]]
-- [[Hormonal Imbalance]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Leptin</h1>
+<h2>Overview</h2>
+<p>Leptin is called the satiety hormone, and tells the brain when you are full and when to stop eating. It is an important hormone produced by fat cells to regulate metabolism and body weight. High levels often points to leptin resistance, which exacerbates chronic inflammation and insulin resistance, while increasing cardiovascular risk, metabolic issues, and obesity.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Cmp</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Obesity]]</li>
+<li>[[Leptin Resistance]]</li>
+<li>[[Metabolic Syndrome]]</li>
+<li>[[Insulin Resistance]]</li>
+<li>[[Hormonal Imbalance]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Hormonal_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:18.522072'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Hormonal_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.522072'
 source: obsidian
-```
-- → [[Leptin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:18.522072'
+</code></pre>
+<ul>
+<li>→ [[Leptin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.522072'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:18.522072'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.522072'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:18.522072'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.522072'
 source: obsidian
-```
-- → [[Obesity]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>→ [[Obesity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- → [[Leptin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>→ [[Leptin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- → [[Hormonal_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>→ [[Hormonal_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
-```
-- ← [[Leptin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:31.799335'
+</code></pre>
+<ul>
+<li>← [[Leptin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.799335'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- ← [[Hormonal_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:29.342057'
+</code></pre>
+<ul>
+<li>← [[Hormonal_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
 source: obsidian
-```
-
-### May Detect
-- → [[Hormonal_Imbalance]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Hormonal_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Insulin_Resistance]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Leptin_Resistance]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Leptin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:30.431297</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:30.431297*
+{% endraw %}

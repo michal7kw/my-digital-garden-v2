@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.515787Z'
+created: '2026-02-09T05:40:21.142620Z'
 description: Reversible acetylcholinesterase inhibitor. First-line symptomatic treatment
   for Alzheimer's disease.
 dg-home: false
@@ -12,73 +12,86 @@ tags:
 - alzheimers
 - cognitive_enhancer
 - cholinergic
+templateEngineOverride: njk
 title: Donepezil
 type: drug
-updated: '2026-02-08T19:45:44.515787Z'
+updated: '2026-02-09T05:40:21.142620Z'
 ---
 
-# Donepezil
-
-## Overview
-Donepezil (Aricept) is the most widely prescribed drug for **Alzheimer's Disease**. It targets the **cholinergic deficit** characteristic of AD by inhibiting the breakdown of acetylcholine.
-
-While it does not stop the underlying neurodegeneration (amyloid/tau pathology), it provides modest symptomatic improvement in cognition and function for 6-12 months.
-
-## Indications
-- **Alzheimer's Disease**: Mild, Moderate, and Severe stages.
-- **Lewy Body Dementia**: Off-label.
-- **Vascular Dementia**: Off-label.
-
+{% raw %}
+<h1>Donepezil</h1>
+<h2>Overview</h2>
+<p>Donepezil (Aricept) is the most widely prescribed drug for <strong>Alzheimer's Disease</strong>. It targets the <strong>cholinergic deficit</strong> characteristic of AD by inhibiting the breakdown of acetylcholine.</p>
+<p>While it does not stop the underlying neurodegeneration (amyloid/tau pathology), it provides modest symptomatic improvement in cognition and function for 6-12 months.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Alzheimer's Disease</strong>: Mild, Moderate, and Severe stages.</li>
+<li><strong>Lewy Body Dementia</strong>: Off-label.</li>
+<li><strong>Vascular Dementia</strong>: Off-label.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Acetylcholine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:34.799400'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Acetylcholine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.259335'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.259335'
 source: obsidian
-```
-- → [[Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.406812'
+</code></pre>
+<ul>
+<li>→ [[Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
 source: obsidian
-```
-- → [[Acetylcholinesterase]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.406812'
+</code></pre>
+<ul>
+<li>→ [[Acetylcholinesterase]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:41.406812'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
 source: obsidian
-```
-- → [[Acetylcholine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:41.406812'
+</code></pre>
+<ul>
+<li>→ [[Acetylcholine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
 source: obsidian
-```
-- ← [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.210589'
+</code></pre>
+<ul>
+<li>← [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Acetylcholine]] (neurotransmitter) - <em>Increases availability</em></li>
+</ul>
+<h3>Modulates Protein</h3>
+<ul>
+<li>⊣ [[Acetylcholinesterase]] (protein) - <em>Reversible Inhibitor</em></li>
+</ul>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Symptomatic</em></li>
+<li>→ [[Dementia]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Efficacy</strong>: Birks, J. S., &amp; Harvey, R. J. (2018). &quot;Donepezil for dementia due to Alzheimer's disease.&quot; <em>Cochrane Database of Systematic Reviews</em>.</li>
+</ol>
 
-### Modulates Neurotransmitter
-- → [[Acetylcholine]] (neurotransmitter) - *Increases availability*
-
-### Modulates Protein
-- ⊣ [[Acetylcholinesterase]] (protein) - *Reversible Inhibitor*
-
-### Treats Condition
-- → [[Alzheimer's Disease]] (condition) - *Symptomatic*
-- → [[Dementia]] (condition)
-
-## References
-1. **Efficacy**: Birks, J. S., & Harvey, R. J. (2018). "Donepezil for dementia due to Alzheimer's disease." *Cochrane Database of Systematic Reviews*.
+{% endraw %}

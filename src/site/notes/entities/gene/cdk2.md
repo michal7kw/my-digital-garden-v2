@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.530835Z'
+created: '2026-02-09T05:40:21.220318Z'
 description: Encodes Cyclin-Dependent Kinase 2, a catalytic subunit of the protein
   kinase complex regulating the G1/S phase cell cycle transition.
 dg-home: false
@@ -13,21 +13,25 @@ tags:
 - kinase
 - imported
 - primekg
+templateEngineOverride: njk
 title: CDK2
 type: gene
-updated: '2026-02-08T19:45:44.530835Z'
+updated: '2026-02-09T05:40:21.220318Z'
 ---
 
-# CDK2
+{% raw %}
+<h1>CDK2</h1>
+<h2>Overview</h2>
+<p>The <strong>CDK2</strong> gene encodes a serine/threonine protein kinase that is essential for the G1/S phase transition of the eukaryotic cell cycle. Its activity is regulated by the binding of <strong>Cyclin E</strong> (G1/S) and <strong>Cyclin A</strong> (S/G2).</p>
+<p>Dysregulation of CDK2 is observed in various cancers, leading to uncontrolled proliferation.</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[CDK2]] (protein) - <em>Encodes</em></li>
+<li>→ [[Cell Cycle]] (pathway)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Function</strong>: Morgan, D. O. (1995). &quot;Principles of CDK regulation.&quot; <em>Nature</em>.</li>
+</ol>
 
-## Overview
-The **CDK2** gene encodes a serine/threonine protein kinase that is essential for the G1/S phase transition of the eukaryotic cell cycle. Its activity is regulated by the binding of **Cyclin E** (G1/S) and **Cyclin A** (S/G2).
-
-Dysregulation of CDK2 is observed in various cancers, leading to uncontrolled proliferation.
-
-## Relationships
-- → [[CDK2]] (protein) - *Encodes*
-- → [[Cell Cycle]] (pathway)
-
-## References
-1. **Function**: Morgan, D. O. (1995). "Principles of CDK regulation." *Nature*.
+{% endraw %}

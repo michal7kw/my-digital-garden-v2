@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.650600Z'
+created: '2026-02-09T05:40:22.189392Z'
 description: Essential trace mineral that enhances insulin signaling and glucose metabolism.
   Chromium picolinate is the most bioavailable form. Important for blood sugar regulation.
 dg-home: false
@@ -14,125 +14,132 @@ tags:
 - blood_sugar
 - insulin
 - metabolic
+templateEngineOverride: njk
 title: Chromium
 type: supplement
-updated: '2026-02-08T19:45:44.650600Z'
+updated: '2026-02-09T05:40:22.189392Z'
 ---
 
-# Chromium
-
-## Overview
-Essential trace mineral that enhances insulin signaling and glucose metabolism. Chromium picolinate is the most bioavailable form. Important for blood sugar regulation.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Chromium</h1>
+<h2>Overview</h2>
+<p>Essential trace mineral that enhances insulin signaling and glucose metabolism. Chromium picolinate is the most bioavailable form. Important for blood sugar regulation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:36.168047'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.168047'
 source: obsidian
-```
-- ← [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:40.282261'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.282261'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:36.168047'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.168047'
 source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:15.382658'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:15.382658'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-
-### Improved By Supplement
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.144745'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.144745'
 source: obsidian
-```
-
-### Affects Biomarker
-- → [[Hba1C]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Hba1C]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
 evidence_level: 3
 source: curated
-```
-- → [[Insulin]] (biomarker)
-```yaml
-effect_direction: modulates
+</code></pre>
+<ul>
+<li>→ [[Insulin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 magnitude: moderate
 evidence_level: 3
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Synergistic With
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.144745'
+<h2>Relationships</h2>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.144745'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:59.978505'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:50.148655'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:15.382658'
+source: obsidian
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:06:59.978505'
-source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
-source: obsidian
-```
-- ← [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:50.148655'
-source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:15.382658'
-source: obsidian
-```
-
-### Improved By Supplement
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
-source: obsidian
-```
+{% endraw %}

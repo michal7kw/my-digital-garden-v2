@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.525692Z'
+created: '2026-02-09T05:40:21.183132Z'
 description: Turmeric is a spice derived from the root of the Curcuma longa plant,
   known for its active compound curcumin, which possesses potent anti-inflammatory
   and antioxidant properties.
@@ -14,154 +14,151 @@ tags:
 - supplement
 - anti-inflammatory
 - antioxidant
+templateEngineOverride: njk
 title: Turmeric
 type: drug
-updated: '2026-02-08T19:45:44.525692Z'
+updated: '2026-02-09T05:40:21.183132Z'
 ---
 
-# Turmeric
-
-## Overview
-Turmeric is a spice derived from the root of the Curcuma longa plant, known for its active compound curcumin, which possesses potent anti-inflammatory and antioxidant properties.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Turmeric</h1>
+<h2>Overview</h2>
+<p>Turmeric is a spice derived from the root of the Curcuma longa plant, known for its active compound curcumin, which possesses potent anti-inflammatory and antioxidant properties.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.944079'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
-```
-- → [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.944079'
+</code></pre>
+<ul>
+<li>→ [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
-```
-- → [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.944079'
+</code></pre>
+<ul>
+<li>→ [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
-```
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:36.742492'
+</code></pre>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.742492'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:43.944079'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.944079'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.519524'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
-```
-
-### Contains
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:09.447198'
+</code></pre>
+<h3>Contains</h3>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.447198'
 source: obsidian
-```
-
-### Reduced By Drug
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.143561'
+</code></pre>
+<h3>Reduced By Drug</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.143561'
 source: obsidian
-```
-
-### Reduces Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:09.383582'
+</code></pre>
+<h3>Reduces Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.383582'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Reduces Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.383582'
+source: obsidian
+</code></pre>
+<h3>Reduced By Drug</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.143561'
+source: obsidian
+</code></pre>
+<h3>Contains</h3>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:09.447198'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:42:06.512352'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:42:07.311290'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[health_goals]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:04.933735'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:02.331491'
+source: obsidian
+</code></pre>
 
-### Reduces Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:09.383582'
-source: obsidian
-```
-
-### Reduced By Drug
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.143561'
-source: obsidian
-```
-
-### Contains
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:09.447198'
-source: obsidian
-```
-
-### Related
-- ← [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-19T08:42:06.512352'
-source: obsidian
-```
-- ← [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-19T08:42:07.311290'
-source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:04.933735'
-source: obsidian
-```
-- → [[health_goals]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:04.933735'
-source: obsidian
-```
-- → [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:04.933735'
-source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:57.049485'
-source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:32:04.933735'
-source: obsidian
-```
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:02.331491'
-source: obsidian
-```
+{% endraw %}

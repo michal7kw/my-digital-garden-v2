@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.523217Z'
+created: '2026-02-09T05:40:21.172282Z'
 description: The potassium salt form of Penicillin V, designed for oral administration
   to treat mild to moderate bacterial infections.
 dg-home: false
@@ -12,37 +12,37 @@ tags:
 - antibiotic
 - oral
 - beta-lactam
+templateEngineOverride: njk
 title: Penicillin V Potassium
 type: drug
-updated: '2026-02-08T19:45:44.523217Z'
+updated: '2026-02-09T05:40:21.172282Z'
 ---
 
-# Penicillin V Potassium
-
-## Overview
-
-Penicillin V Potassium (Penicillin VK) is the most common oral form of natural penicillin. It is better absorbed from the GI tract than penicillin G and is used primarily for infections caused by sensitive gram-positive organisms.
-
-## Indications
-
-- **Pharyngitis/Tonsillitis** (Strep Throat).
-- **Scarlet Fever.**
-- **Otitis Media.**
-- **Prophylaxis of Rheumatic Fever.**
-
+{% raw %}
+<h1>Penicillin V Potassium</h1>
+<h2>Overview</h2>
+<p>Penicillin V Potassium (Penicillin VK) is the most common oral form of natural penicillin. It is better absorbed from the GI tract than penicillin G and is used primarily for infections caused by sensitive gram-positive organisms.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Pharyngitis/Tonsillitis</strong> (Strep Throat).</li>
+<li><strong>Scarlet Fever.</strong></li>
+<li><strong>Otitis Media.</strong></li>
+<li><strong>Prophylaxis of Rheumatic Fever.</strong></li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Tonsillitis]]<br />
+TREATS_CONDITION::[[Scarlet Fever]]<br />
+PREVENTS_CONDITION::[[Rheumatic Fever]]<br />
+DRUG_CONTAINS_COMPOUND::[[Penicillin V]]</p>
+<h2>References</h2>
+<ul>
+<li>Mayo Clinic. Penicillin V (Oral Route).</li>
+<li>FDA. Penicillin V Potassium Tablets.</li>
+<li>Medscape. Penicillin V Potassium.</li>
+</ul>
 
-TREATS_CONDITION::[[Tonsillitis]]
-TREATS_CONDITION::[[Scarlet Fever]]
-PREVENTS_CONDITION::[[Rheumatic Fever]]
-DRUG_CONTAINS_COMPOUND::[[Penicillin V]]
-
-## References
-
-- Mayo Clinic. Penicillin V (Oral Route).
-- FDA. Penicillin V Potassium Tablets.
-- Medscape. Penicillin V Potassium.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.510845Z'
+created: '2026-02-09T05:40:21.113276Z'
 description: Damage to any part of the body caused by external force, ranging from
   minor skin breaks to life-threatening internal trauma.
 dg-home: false
@@ -12,51 +12,53 @@ tags:
 - trauma
 - surgery
 - emergency
+templateEngineOverride: njk
 title: Wounds and Injuries
 type: condition
-updated: '2026-02-08T19:45:44.510845Z'
+updated: '2026-02-09T05:40:21.113276Z'
 ---
 
-# Wounds and Injuries
-
-## Overview
-
-Wounds are injuries that break the skin or other body tissues. They include cuts, scrapes, scratches, and punctured skin. Injuries also include internal damage such as broken bones, sprains, and internal bleeding. Proper wound care is essential to prevent **Infection**.
-
-## Types of Wounds
-
-- **Abrasion:** Scrape.
-- **Laceration:** Cut or tear.
-- **Puncture:** Small hole from a sharp object.
-- **Avulsion:** Tissue torn away.
-- **Incision:** Clean cut (surgical).
-
+{% raw %}
+<h1>Wounds and Injuries</h1>
+<h2>Overview</h2>
+<p>Wounds are injuries that break the skin or other body tissues. They include cuts, scrapes, scratches, and punctured skin. Injuries also include internal damage such as broken bones, sprains, and internal bleeding. Proper wound care is essential to prevent <strong>Infection</strong>.</p>
+<h2>Types of Wounds</h2>
+<ul>
+<li><strong>Abrasion:</strong> Scrape.</li>
+<li><strong>Laceration:</strong> Cut or tear.</li>
+<li><strong>Puncture:</strong> Small hole from a sharp object.</li>
+<li><strong>Avulsion:</strong> Tissue torn away.</li>
+<li><strong>Incision:</strong> Clean cut (surgical).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Wounds_and_Injuries]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.198863'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Wounds_and_Injuries]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.198863'
 source: obsidian
-```
-- → [[Wounds_and_Injuries]] (condition)
-```yaml
-last_modified: '2026-01-26T06:04:02.812561'
+</code></pre>
+<ul>
+<li>→ [[Wounds_and_Injuries]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:04:02.812561'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Infection]]<br />
+ASSOCIATED_WITH_CONDITION::[[Inflammation]]<br />
+ASSOCIATED_WITH_CONDITION::[[Hemorrhage]]<br />
+ASSOCIATED_WITH_CONDITION::[[Sepsis]] - Risk from wound infection.<br />
+TREATED_BY_INTERVENTION::[[Surgery]]<br />
+TREATED_BY_DRUG::[[Antibiotics]] - For infected wounds.<br />
+TREATED_BY_DRUG::[[Lidocaine]] - Local anesthetic.</p>
+<h2>References</h2>
+<ul>
+<li>MedlinePlus. Wounds and Injuries.</li>
+<li>WHO. Injuries and violence.</li>
+<li>Gabriel, A., et al. (2021). Wound Healing and Care. Medscape.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Infection]]
-ASSOCIATED_WITH_CONDITION::[[Inflammation]]
-ASSOCIATED_WITH_CONDITION::[[Hemorrhage]]
-ASSOCIATED_WITH_CONDITION::[[Sepsis]] - Risk from wound infection.
-TREATED_BY_INTERVENTION::[[Surgery]]
-TREATED_BY_DRUG::[[Antibiotics]] - For infected wounds.
-TREATED_BY_DRUG::[[Lidocaine]] - Local anesthetic.
-
-## References
-
-- MedlinePlus. Wounds and Injuries.
-- WHO. Injuries and violence.
-- Gabriel, A., et al. (2021). Wound Healing and Care. Medscape.
+{% endraw %}

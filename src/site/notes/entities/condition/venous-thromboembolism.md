@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.510005Z'
+created: '2026-02-09T05:40:21.108143Z'
 description: A condition where a blood clot forms in a vein, encompassing Deep Vein
   Thrombosis (DVT) and Pulmonary Embolism (PE).
 dg-home: false
@@ -13,82 +13,66 @@ tags:
 - cardiology
 - vascular
 - emergency
+templateEngineOverride: njk
 title: Venous Thromboembolism
 type: condition
-updated: '2026-02-08T19:45:44.510005Z'
+updated: '2026-02-09T05:40:21.108143Z'
 ---
 
-# Venous Thromboembolism
-
-## Overview
-A condition where a blood clot forms in a vein, encompassing Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE).
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Venous Thromboembolism</h1>
+<h2>Overview</h2>
+<p>A condition where a blood clot forms in a vein, encompassing Deep Vein Thrombosis (DVT) and Pulmonary Embolism (PE).</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Venous Thromboembolism]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Venous_Thromboembolism]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:46.265186'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Venous_Thromboembolism]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.265186'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Venous Thromboembolism]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Venous Thromboembolism]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Venous_Thromboembolism]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.061698'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Venous_Thromboembolism]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.061698'
 source: obsidian
-```
-- → [[Venous_Thromboembolism]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:39.061698'
+</code></pre>
+<ul>
+<li>→ [[Venous_Thromboembolism]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.061698'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.538852Z'
+created: '2026-02-09T05:40:21.257221Z'
 description: A metabolic intervention where the proton gradient in mitochondria is
   dissipated (leaked) without generating ATP, forcing the cell to burn more fuel to
   maintain the potential. Mimics exercise and activates thermogenesis.
@@ -14,41 +14,39 @@ tags:
 - weight_loss
 - longevity
 - mitochondria
+templateEngineOverride: njk
 title: Mitochondrial Uncoupling
 type: intervention
-updated: '2026-02-08T19:45:44.538852Z'
+updated: '2026-02-09T05:40:21.257221Z'
 ---
 
-# Mitochondrial Uncoupling
+{% raw %}
+<h1>Mitochondrial Uncoupling</h1>
+<h2>Overview</h2>
+<p><strong>Mitochondrial Uncoupling</strong> dissociates the process of electron transport (oxidation) from ATP synthesis (phosphorylation). Instead of protons driving the ATP synthase turbine, they &quot;leak&quot; back into the matrix.</p>
+<p>This process occurs naturally in <strong>Brown Adipose Tissue</strong> via <strong>UCP1</strong> to generate heat. Pharmacological uncoupling attempts to mimic this effect to treat obesity, diabetes, and aging.</p>
+<h2>Mechanisms</h2>
+<ol>
+<li><strong>Chemical Uncouplers:</strong> Small molecules (like <strong>BAM15</strong> or the toxic <strong>DNP</strong>) shuttle protons across the membrane.</li>
+<li><strong>Natural Uncouplers:</strong> Proteins like UCP1, UCP2, and UCP3.</li>
+<li><strong>Mild Uncoupling:</strong> A protective mechanism to reduce Reactive Oxygen Species (ROS) production when the membrane potential is too high.</li>
+</ol>
+<h2>Benefits</h2>
+<ul>
+<li><strong>Fat Loss:</strong> Dramatic increase in caloric expenditure.</li>
+<li><strong>Insulin Sensitivity:</strong> Clears intracellular lipids.</li>
+<li><strong>Longevity:</strong> Mild uncoupling reduces ROS damage and mimics caloric restriction.</li>
+</ul>
+<h2>Risks</h2>
+<ul>
+<li><strong>Hyperthermia:</strong> Excessive uncoupling generates uncontrollable heat (the mechanism of DNP toxicity). Safer, self-limiting agents like BAM15 are under development.</li>
+</ul>
+<h2>Relationships</h2>
+<h2>TARGETS::[[Mitochondria]]<br />
+MIMICS::[[Exercise]]<br />
+MIMICS::[[Caloric Restriction]]<br />
+ACTIVATED_BY::[[Cold Exposure]] - Natural uncoupling<br />
+ACTIVATED_BY::[[BAM15]] - Synthetic uncoupler<br />
+ASSOCIATED_WITH_RESEARCH::[[2025 BAM15 Mitochondrial Uncoupling Review]]</h2>
 
-## Overview
-
-**Mitochondrial Uncoupling** dissociates the process of electron transport (oxidation) from ATP synthesis (phosphorylation). Instead of protons driving the ATP synthase turbine, they "leak" back into the matrix.
-
-This process occurs naturally in **Brown Adipose Tissue** via **UCP1** to generate heat. Pharmacological uncoupling attempts to mimic this effect to treat obesity, diabetes, and aging.
-
-## Mechanisms
-
-1.  **Chemical Uncouplers:** Small molecules (like **BAM15** or the toxic **DNP**) shuttle protons across the membrane.
-2.  **Natural Uncouplers:** Proteins like UCP1, UCP2, and UCP3.
-3.  **Mild Uncoupling:** A protective mechanism to reduce Reactive Oxygen Species (ROS) production when the membrane potential is too high.
-
-## Benefits
-
-- **Fat Loss:** Dramatic increase in caloric expenditure.
-- **Insulin Sensitivity:** Clears intracellular lipids.
-- **Longevity:** Mild uncoupling reduces ROS damage and mimics caloric restriction.
-
-## Risks
-
-- **Hyperthermia:** Excessive uncoupling generates uncontrollable heat (the mechanism of DNP toxicity). Safer, self-limiting agents like BAM15 are under development.
-
-## Relationships
-
-TARGETS::[[Mitochondria]]
-MIMICS::[[Exercise]]
-MIMICS::[[Caloric Restriction]]
-ACTIVATED_BY::[[Cold Exposure]] - Natural uncoupling
-ACTIVATED_BY::[[BAM15]] - Synthetic uncoupler
-ASSOCIATED_WITH_RESEARCH::[[2025 BAM15 Mitochondrial Uncoupling Review]]
----
+{% endraw %}

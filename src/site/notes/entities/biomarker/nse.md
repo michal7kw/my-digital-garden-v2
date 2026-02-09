@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.438752Z'
+created: '2026-02-09T05:40:20.686821Z'
 description: Neuron-Specific Enolase, a glycolytic enzyme found in neurons and neuroendocrine
   cells. Used as a biomarker for neuronal injury and as a tumor marker for small cell
   lung cancer and neuroblastoma.
@@ -14,250 +14,331 @@ tags:
 - tumor-marker
 - blood-test
 - prognosis
+templateEngineOverride: njk
 title: NSE
 type: biomarker
-updated: '2026-02-08T19:45:44.438752Z'
+updated: '2026-02-09T05:40:20.686821Z'
 ---
 
-# NSE (Neuron-Specific Enolase)
-
-## Overview
-Neuron-Specific Enolase (NSE) is the gamma-gamma isoform of the glycolytic enzyme enolase. It is highly expressed in neurons and neuroendocrine cells, making it a marker for both neuronal injury and neuroendocrine tumors. In neurology, NSE is used as a prognostic biomarker after cardiac arrest and hypoxic brain injury.
-
-## Biological Background
-
-### Expression
-- **Neurons**: Cytoplasmic localization
-- **Neuroendocrine cells**: Pancreatic islets, adrenal medulla
-- **Neuroendocrine tumors**: SCLC, neuroblastoma, carcinoid
-
-### Physiology
-- Essential for glycolysis (2-phosphoglycerate → phosphoenolpyruvate)
-- Half-life: ~24 hours
-- Constitutively expressed, released upon cell damage
-
-## Reference Values
-
-| Level (ug/L) | Interpretation |
-|--------------|----------------|
-| <12.5 | Normal |
-| 12.5-17 | Mildly elevated; correlate clinically |
-| >17 | Elevated; suggests neuronal injury or tumor |
-| >33 | After cardiac arrest: poor prognosis |
-
-*Cutoffs for prognostication vary by study*
-
-## Clinical Applications
-
-### Hypoxic-Ischemic Brain Injury
-- **Cardiac arrest prognostication**: High NSE predicts poor neurological outcome
-- **ERC/ESICM guidelines**: NSE >60 ug/L at 48-72h suggests poor prognosis
-- **Must exclude hemolysis**: RBCs contain NSE (false elevation)
-
-### Traumatic Brain Injury
-- Correlates with injury severity
-- Prognostic for outcome
-- Less specific than newer markers (GFAP, UCH-L1)
-
-### Tumor Marker
-- **Small Cell Lung Cancer (SCLC)**: Diagnosis and monitoring
-- **Neuroblastoma**: Staging and response assessment
-- **Other neuroendocrine tumors**: Merkel cell, carcinoid
-
-## Important Considerations
-
-### Hemolysis Interference
-- **Critical issue**: RBCs and platelets contain NSE
-- Hemolyzed samples produce falsely elevated results
-- Must measure hemolysis index and interpret cautiously
-- Some guidelines require hemolysis <50 mg/dL
-
-### Timing After Cardiac Arrest
-- **Sample at 48-72 hours** post-arrest
-- Single measurement insufficient; trend more informative
-- Combine with other prognostic tools (EEG, imaging, clinical exam)
-
+{% raw %}
+<h1>NSE (Neuron-Specific Enolase)</h1>
+<h2>Overview</h2>
+<p>Neuron-Specific Enolase (NSE) is the gamma-gamma isoform of the glycolytic enzyme enolase. It is highly expressed in neurons and neuroendocrine cells, making it a marker for both neuronal injury and neuroendocrine tumors. In neurology, NSE is used as a prognostic biomarker after cardiac arrest and hypoxic brain injury.</p>
+<h2>Biological Background</h2>
+<h3>Expression</h3>
+<ul>
+<li><strong>Neurons</strong>: Cytoplasmic localization</li>
+<li><strong>Neuroendocrine cells</strong>: Pancreatic islets, adrenal medulla</li>
+<li><strong>Neuroendocrine tumors</strong>: SCLC, neuroblastoma, carcinoid</li>
+</ul>
+<h3>Physiology</h3>
+<ul>
+<li>Essential for glycolysis (2-phosphoglycerate → phosphoenolpyruvate)</li>
+<li>Half-life: ~24 hours</li>
+<li>Constitutively expressed, released upon cell damage</li>
+</ul>
+<h2>Reference Values</h2>
+<table>
+<thead>
+<tr>
+<th>Level (ug/L)</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt;12.5</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td>12.5-17</td>
+<td>Mildly elevated; correlate clinically</td>
+</tr>
+<tr>
+<td>&gt;17</td>
+<td>Elevated; suggests neuronal injury or tumor</td>
+</tr>
+<tr>
+<td>&gt;33</td>
+<td>After cardiac arrest: poor prognosis</td>
+</tr>
+</tbody>
+</table>
+<p><em>Cutoffs for prognostication vary by study</em></p>
+<h2>Clinical Applications</h2>
+<h3>Hypoxic-Ischemic Brain Injury</h3>
+<ul>
+<li><strong>Cardiac arrest prognostication</strong>: High NSE predicts poor neurological outcome</li>
+<li><strong>ERC/ESICM guidelines</strong>: NSE &gt;60 ug/L at 48-72h suggests poor prognosis</li>
+<li><strong>Must exclude hemolysis</strong>: RBCs contain NSE (false elevation)</li>
+</ul>
+<h3>Traumatic Brain Injury</h3>
+<ul>
+<li>Correlates with injury severity</li>
+<li>Prognostic for outcome</li>
+<li>Less specific than newer markers (GFAP, UCH-L1)</li>
+</ul>
+<h3>Tumor Marker</h3>
+<ul>
+<li><strong>Small Cell Lung Cancer (SCLC)</strong>: Diagnosis and monitoring</li>
+<li><strong>Neuroblastoma</strong>: Staging and response assessment</li>
+<li><strong>Other neuroendocrine tumors</strong>: Merkel cell, carcinoid</li>
+</ul>
+<h2>Important Considerations</h2>
+<h3>Hemolysis Interference</h3>
+<ul>
+<li><strong>Critical issue</strong>: RBCs and platelets contain NSE</li>
+<li>Hemolyzed samples produce falsely elevated results</li>
+<li>Must measure hemolysis index and interpret cautiously</li>
+<li>Some guidelines require hemolysis &lt;50 mg/dL</li>
+</ul>
+<h3>Timing After Cardiac Arrest</h3>
+<ul>
+<li><strong>Sample at 48-72 hours</strong> post-arrest</li>
+<li>Single measurement insufficient; trend more informative</li>
+<li>Combine with other prognostic tools (EEG, imaging, clinical exam)</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Traumatic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[UCH-L1]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[UCH-L1]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[MRI_Brain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[MRI_Brain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[Small_Cell_Lung_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[Small_Cell_Lung_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[Cardiac_Arrest]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[Cardiac_Arrest]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[Hypoxic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- → [[Somatosensory_Evoked_Potentials]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>→ [[Somatosensory_Evoked_Potentials]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- ← [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:20.980878'
+</code></pre>
+<ul>
+<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
-```
-- ← [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:17.899103'
+</code></pre>
+<ul>
+<li>← [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
 source: obsidian
-```
-- → [[MRI_Brain]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[MRI_Brain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Small_Cell_Lung_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Small_Cell_Lung_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Hypoxic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Lactate]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Lactate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Cardiac_Arrest]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Cardiac_Arrest]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Somatosensory_Evoked_Potentials]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Somatosensory_Evoked_Potentials]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Neuroblastoma]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Neuroblastoma]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Stroke]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Stroke]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[Traumatic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[EEG]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[EEG]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[S100B]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[S100B]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- ← [[EEG]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:44.540742'
+</code></pre>
+<ul>
+<li>← [[EEG]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.540742'
 source: obsidian
-```
-- ← [[UCH-L1]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>← [[UCH-L1]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- ← [[S100B]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:16.720220'
+</code></pre>
+<ul>
+<li>← [[S100B]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
-- → [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.500703'
+</code></pre>
+<ul>
+<li>→ [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Conditions with Elevated NSE</h3>
+<ul>
+<li>→ [[Hypoxic Brain Injury]] (condition) - <em>Prognostic marker</em></li>
+<li>→ [[Cardiac Arrest]] (condition) - <em>Outcome prediction</em></li>
+<li>→ [[Traumatic Brain Injury]] (condition) - <em>Injury marker</em></li>
+<li>→ [[Small Cell Lung Cancer]] (condition) - <em>Tumor marker</em></li>
+<li>→ [[Neuroblastoma]] (condition) - <em>Tumor marker</em></li>
+<li>→ [[Stroke]] (condition) - <em>Injury marker</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[S100B]] (biomarker) - <em>Astrocyte injury</em></li>
+<li>→ [[GFAP]] (biomarker) - <em>Astrocyte injury</em></li>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Axonal injury</em></li>
+<li>→ [[Lactate]] (biomarker) - <em>Hypoxia marker</em></li>
+</ul>
+<h3>Diagnostic Context</h3>
+<ul>
+<li>← [[EEG]] (examination) - <em>Combined prognostication</em></li>
+<li>← [[MRI Brain]] (examination) - <em>Imaging correlation</em></li>
+<li>← [[Somatosensory Evoked Potentials]] (examination) - <em>Multimodal assessment</em></li>
+</ul>
+<h2>Prognostication After Cardiac Arrest</h2>
+<h3>European Guidelines (ERC/ESICM 2021)</h3>
+<ul>
+<li>NSE &gt;60 ug/L at 48-72h suggests poor outcome</li>
+<li>Must be measured on at least two time points</li>
+<li>Exclude hemolysis</li>
+<li>Combine with other modalities (SSEPs, EEG, imaging)</li>
+</ul>
+<h3>Multimodal Approach</h3>
+<p>NSE alone should not determine withdrawal of care:</p>
+<ol>
+<li>Clinical examination (pupillary reflex, motor response)</li>
+<li>Electrophysiology (SSEPs, EEG)</li>
+<li>Neuroimaging (CT, MRI)</li>
+<li>Biomarkers (NSE, +/- S100B)</li>
+</ol>
+<h2>Comparison: NSE vs S100B</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>NSE</th>
+<th>S100B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Source</td>
+<td>Neurons</td>
+<td>Astrocytes</td>
+</tr>
+<tr>
+<td>Peak</td>
+<td>48-72 hours</td>
+<td>2-4 hours</td>
+</tr>
+<tr>
+<td>Half-life</td>
+<td>~24 hours</td>
+<td>~2 hours</td>
+</tr>
+<tr>
+<td>Hemolysis</td>
+<td>Major confounder</td>
+<td>Minor issue</td>
+</tr>
+<tr>
+<td>Tumor use</td>
+<td>Yes (SCLC)</td>
+<td>Yes (melanoma)</td>
+</tr>
+</tbody>
+</table>
+<h2>References</h2>
+<ol>
+<li><strong>Cardiac Arrest</strong>: Sandroni, C., et al. (2021). &quot;ERC-ESICM guidelines on neuroprognostication after cardiac arrest.&quot; <em>Intensive Care Medicine</em>.</li>
+<li><strong>Review</strong>: Isgrò, M.A., et al. (2015). &quot;Neuron-specific enolase as a biomarker.&quot; <em>Biomark Med</em>.</li>
+<li><strong>TBI</strong>: Papa, L., et al. (2016). &quot;Biomarkers in TBI.&quot; <em>Seminars in Neurology</em>.</li>
+</ol>
 
-### Conditions with Elevated NSE
-- → [[Hypoxic Brain Injury]] (condition) - *Prognostic marker*
-- → [[Cardiac Arrest]] (condition) - *Outcome prediction*
-- → [[Traumatic Brain Injury]] (condition) - *Injury marker*
-- → [[Small Cell Lung Cancer]] (condition) - *Tumor marker*
-- → [[Neuroblastoma]] (condition) - *Tumor marker*
-- → [[Stroke]] (condition) - *Injury marker*
-
-### Related Biomarkers
-- → [[S100B]] (biomarker) - *Astrocyte injury*
-- → [[GFAP]] (biomarker) - *Astrocyte injury*
-- → [[Neurofilament Light Chain]] (biomarker) - *Axonal injury*
-- → [[Lactate]] (biomarker) - *Hypoxia marker*
-
-### Diagnostic Context
-- ← [[EEG]] (examination) - *Combined prognostication*
-- ← [[MRI Brain]] (examination) - *Imaging correlation*
-- ← [[Somatosensory Evoked Potentials]] (examination) - *Multimodal assessment*
-
-## Prognostication After Cardiac Arrest
-
-### European Guidelines (ERC/ESICM 2021)
-- NSE >60 ug/L at 48-72h suggests poor outcome
-- Must be measured on at least two time points
-- Exclude hemolysis
-- Combine with other modalities (SSEPs, EEG, imaging)
-
-### Multimodal Approach
-NSE alone should not determine withdrawal of care:
-1. Clinical examination (pupillary reflex, motor response)
-2. Electrophysiology (SSEPs, EEG)
-3. Neuroimaging (CT, MRI)
-4. Biomarkers (NSE, +/- S100B)
-
-## Comparison: NSE vs S100B
-
-| Feature | NSE | S100B |
-|---------|-----|-------|
-| Source | Neurons | Astrocytes |
-| Peak | 48-72 hours | 2-4 hours |
-| Half-life | ~24 hours | ~2 hours |
-| Hemolysis | Major confounder | Minor issue |
-| Tumor use | Yes (SCLC) | Yes (melanoma) |
-
-## References
-1. **Cardiac Arrest**: Sandroni, C., et al. (2021). "ERC-ESICM guidelines on neuroprognostication after cardiac arrest." *Intensive Care Medicine*.
-2. **Review**: Isgrò, M.A., et al. (2015). "Neuron-specific enolase as a biomarker." *Biomark Med*.
-3. **TBI**: Papa, L., et al. (2016). "Biomarkers in TBI." *Seminars in Neurology*.
+{% endraw %}

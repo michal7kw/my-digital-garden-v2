@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.524356Z'
+created: '2026-02-09T05:40:21.175661Z'
 description: Atypical antipsychotic used for schizophrenia, bipolar disorder, and
   adjunctive treatment of depression. Has sedative properties often used off-label
   for insomnia.
@@ -16,310 +16,367 @@ tags:
 - depression
 - imported
 - primekg
+templateEngineOverride: njk
 title: Quetiapine
 type: drug
-updated: '2026-02-08T19:45:44.524356Z'
+updated: '2026-02-09T05:40:21.175661Z'
 ---
 
-# Quetiapine
-
-## Overview
-Quetiapine (Seroquel) is a widely prescribed **atypical antipsychotic**. It is unique for its broad efficacy spectrum, treating schizophrenia, bipolar mania/depression, and acting as an add-on for major depression.
-
-Low doses (25-100 mg) act primarily as **antihistamines**, causing sedation, which leads to widespread off-label use for insomnia (though controversial due to metabolic side effects). Higher doses (>300 mg) recruit **D2 and 5-HT2A** receptor occupancy for antipsychotic effects.
-
-## Indications
-- **Schizophrenia**: Acute and maintenance.
-- **Bipolar I Disorder**: Manic and depressive episodes.
-- **Major Depressive Disorder**: Adjunctive therapy.
-- **Generalized Anxiety Disorder**: Off-label.
-- **Insomnia**: Off-label (widely used).
-
+{% raw %}
+<h1>Quetiapine</h1>
+<h2>Overview</h2>
+<p>Quetiapine (Seroquel) is a widely prescribed <strong>atypical antipsychotic</strong>. It is unique for its broad efficacy spectrum, treating schizophrenia, bipolar mania/depression, and acting as an add-on for major depression.</p>
+<p>Low doses (25-100 mg) act primarily as <strong>antihistamines</strong>, causing sedation, which leads to widespread off-label use for insomnia (though controversial due to metabolic side effects). Higher doses (&gt;300 mg) recruit <strong>D2 and 5-HT2A</strong> receptor occupancy for antipsychotic effects.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Schizophrenia</strong>: Acute and maintenance.</li>
+<li><strong>Bipolar I Disorder</strong>: Manic and depressive episodes.</li>
+<li><strong>Major Depressive Disorder</strong>: Adjunctive therapy.</li>
+<li><strong>Generalized Anxiety Disorder</strong>: Off-label.</li>
+<li><strong>Insomnia</strong>: Off-label (widely used).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Lisinopril]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:42.172265'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Lisinopril]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.172265'
 source: obsidian
-```
-- ← [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.475847'
+</code></pre>
+<ul>
+<li>← [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
 source: obsidian
-```
-- ← [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>← [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- ← [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:34.905107'
+</code></pre>
+<ul>
+<li>← [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.905107'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:45.214867'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
 source: obsidian
-```
-- ← [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:36.875774'
+</code></pre>
+<ul>
+<li>← [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
-```
-- ← [[Memantine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:59.667638'
+</code></pre>
+<ul>
+<li>← [[Memantine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.667638'
 source: obsidian
-```
-- → [[Memantine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Memantine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Metocurine_iodide]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Metocurine_iodide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[5-HT2A_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[5-HT2A_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Alpha-1_Adrenergic_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Estrone_sulfate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Estrone_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Carbaspirin_calcium]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Carbaspirin_calcium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Chromous_sulfate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Chromous_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Bipolar_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Bipolar_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Picosulfuric_acid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Picosulfuric_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Hydrocortisone_acetate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Hydrocortisone_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Hygromycin_B]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Hygromycin_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Plantago_ovata_seed]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Plantago_ovata_seed]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Megestrol_acetate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Megestrol_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Emetonium_iodide]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Emetonium_iodide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Dopamine_D2_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Schizophrenia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Schizophrenia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Histamine]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Histamine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Bipolar_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Bipolar_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Sedation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Sedation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Insomnia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Insomnia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Alpha-1_Adrenergic_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Dopamine_D2_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[5-HT2A_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[5-HT2A_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- → [[Lisinopril]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+</code></pre>
+<ul>
+<li>→ [[Lisinopril]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-
-### Interactswith
-- ← [[Carbaspirin_calcium]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.602000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>← [[Carbaspirin_calcium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.602000+00:00'
 source: PrimeKG
-```
-- ← [[Emetonium_iodide]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.626000+00:00'
+</code></pre>
+<ul>
+<li>← [[Emetonium_iodide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.626000+00:00'
 source: PrimeKG
-```
-- ← [[Chromous_sulfate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.631000+00:00'
+</code></pre>
+<ul>
+<li>← [[Chromous_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.631000+00:00'
 source: PrimeKG
-```
-- ← [[Megestrol_acetate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.653000+00:00'
+</code></pre>
+<ul>
+<li>← [[Megestrol_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.653000+00:00'
 source: PrimeKG
-```
-- ← [[Memantine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:37.681000+00:00'
+</code></pre>
+<ul>
+<li>← [[Memantine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.681000+00:00'
 source: PrimeKG
-```
-- ← [[Hygromycin_B]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.712000+00:00'
+</code></pre>
+<ul>
+<li>← [[Hygromycin_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.712000+00:00'
 source: PrimeKG
-```
-- ← [[Hydrocortisone_acetate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.738000+00:00'
+</code></pre>
+<ul>
+<li>← [[Hydrocortisone_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.738000+00:00'
 source: PrimeKG
-```
-- ← [[Lisinopril]] (drug)
-```yaml
-imported: '2025-12-26T11:56:37.798000+00:00'
+</code></pre>
+<ul>
+<li>← [[Lisinopril]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
 source: PrimeKG
-```
-- ← [[Picosulfuric_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.826000+00:00'
+</code></pre>
+<ul>
+<li>← [[Picosulfuric_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.826000+00:00'
 source: PrimeKG
-```
-- ← [[Metocurine_iodide]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.863000+00:00'
+</code></pre>
+<ul>
+<li>← [[Metocurine_iodide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.863000+00:00'
 source: PrimeKG
-```
-- ← [[Estrone_sulfate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.892000+00:00'
+</code></pre>
+<ul>
+<li>← [[Estrone_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.892000+00:00'
 source: PrimeKG
-```
-- ← [[Plantago_ovata_seed]] (entity)
-```yaml
-imported: '2025-12-26T11:56:37.914000+00:00'
+</code></pre>
+<ul>
+<li>← [[Plantago_ovata_seed]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.914000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter) - <em>5-HT2A antagonism</em></li>
+<li>→ [[Dopamine]] (neurotransmitter) - <em>D2 antagonism (moderate affinity)</em></li>
+<li>→ [[Histamine]] (neurotransmitter) - <em>Potent H1 antagonism</em></li>
+<li>→ [[Norepinephrine]] (neurotransmitter) - <em>NET inhibition (via Norquetiapine)</em></li>
+</ul>
+<h3>Modulates Protein</h3>
+<ul>
+<li>⊣ [[5-HT2A Receptor]] (protein)</li>
+<li>⊣ [[Dopamine D2 Receptor]] (protein)</li>
+<li>⊣ [[Histamine H1 Receptor]] (protein) - <em>Sedation</em></li>
+<li>⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - <em>Orthostatic hypotension</em></li>
+</ul>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[Schizophrenia]] (condition)</li>
+<li>→ [[Bipolar Disorder]] (condition)</li>
+<li>→ [[Depression]] (condition)</li>
+<li>→ [[Insomnia]] (condition)</li>
+</ul>
+<h3>Adverse Effects</h3>
+<ul>
+<li>→ [[Metabolic Syndrome]] (condition) - <em>Weight gain, hyperglycemia</em></li>
+<li>→ [[Sedation]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Bipolar Depression</strong>: Calabrese, J. R., et al. (2005). &quot;A randomized, double-blind, placebo-controlled trial of quetiapine in the treatment of bipolar I or II depression.&quot; <em>American Journal of Psychiatry</em>.</li>
+<li><strong>Pharmacology</strong>: Goldstein, J. M., et al. (2008). &quot;Quetiapine: a broad-spectrum antipsychotic.&quot; <em>CNS Drug Reviews</em>.</li>
+</ol>
 
-### Modulates Neurotransmitter
-- → [[Serotonin]] (neurotransmitter) - *5-HT2A antagonism*
-- → [[Dopamine]] (neurotransmitter) - *D2 antagonism (moderate affinity)*
-- → [[Histamine]] (neurotransmitter) - *Potent H1 antagonism*
-- → [[Norepinephrine]] (neurotransmitter) - *NET inhibition (via Norquetiapine)*
-
-### Modulates Protein
-- ⊣ [[5-HT2A Receptor]] (protein)
-- ⊣ [[Dopamine D2 Receptor]] (protein)
-- ⊣ [[Histamine H1 Receptor]] (protein) - *Sedation*
-- ⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - *Orthostatic hypotension*
-
-### Treats Condition
-- → [[Schizophrenia]] (condition)
-- → [[Bipolar Disorder]] (condition)
-- → [[Depression]] (condition)
-- → [[Insomnia]] (condition)
-
-### Adverse Effects
-- → [[Metabolic Syndrome]] (condition) - *Weight gain, hyperglycemia*
-- → [[Sedation]] (condition)
-
-## References
-1. **Bipolar Depression**: Calabrese, J. R., et al. (2005). "A randomized, double-blind, placebo-controlled trial of quetiapine in the treatment of bipolar I or II depression." *American Journal of Psychiatry*.
-2. **Pharmacology**: Goldstein, J. M., et al. (2008). "Quetiapine: a broad-spectrum antipsychotic." *CNS Drug Reviews*.
+{% endraw %}

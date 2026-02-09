@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.431239Z'
+created: '2026-02-09T05:40:20.644389Z'
 description: Blood glucose level after 8+ hours of fasting. Used to diagnose diabetes
   and assess metabolic health.
 dg-home: false
@@ -9,132 +9,138 @@ permalink: /garden/dev_admin/biomarker/glucose-fasting/
 slug: glucose-fasting
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Glucose Fasting
 type: biomarker
-updated: '2026-02-08T19:45:44.431239Z'
+updated: '2026-02-09T05:40:20.644389Z'
 ---
 
-# Glucose Fasting
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Glucose Fasting</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[fasting_glucose]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:18.191984'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[fasting_glucose]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.191984'
 source: obsidian
-```
-- → [[basic_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:18.191984'
+</code></pre>
+<ul>
+<li>→ [[basic_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.191984'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:18.191984'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.191984'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-- → [[basic_metabolic_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[basic_metabolic_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-- → [[fasting_glucose]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[fasting_glucose]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-- → [[Glucose_Fasting]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[Glucose_Fasting]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-- → [[Glucose_Fasting]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.830920'
+</code></pre>
+<ul>
+<li>→ [[Glucose_Fasting]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.830920'
 source: obsidian
-```
-
-### Indicates Organ Health
-- → [[Pancreas]] (organ)
-```yaml
-specificity: medium
+</code></pre>
+<h3>Indicates Organ Health</h3>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: medium
 function_indicated: Glucose Regulation
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Glucose_Fasting]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:17.407835'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Glucose_Fasting]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.407835'
 source: obsidian
-```
-- → [[Glucose_Fasting]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:17.407835'
+</code></pre>
+<ul>
+<li>→ [[Glucose_Fasting]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.407835'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-- [[Berberine]] - Decreases fasting glucose (moderate effect, evidence level 4)
-- [[Magnesium]] - Modulates fasting glucose in deficient individuals
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[fasting glucose]] - Fasting glucose measurement
-
-### Panel Tests
-- [[comprehensive metabolic panel]] - Part of CMP
-- [[basic metabolic panel]] - Part of BMP
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<ul>
+<li>[[Berberine]] - Decreases fasting glucose (moderate effect, evidence level 4)</li>
+<li>[[Magnesium]] - Modulates fasting glucose in deficient individuals</li>
+</ul>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[fasting glucose]] - Fasting glucose measurement</li>
+</ul>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[comprehensive metabolic panel]] - Part of CMP</li>
+<li>[[basic metabolic panel]] - Part of BMP</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Glucose Fasting]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

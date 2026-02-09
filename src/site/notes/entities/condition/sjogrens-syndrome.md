@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.505310Z'
+created: '2026-02-09T05:40:21.084451Z'
 description: A chronic autoimmune disease where the immune system mistakenly attacks
   moisture-producing glands, primarily the salivary and lacrimal glands.
 dg-home: false
@@ -13,52 +13,54 @@ tags:
 - autoimmune
 - immunology
 - function-health
+templateEngineOverride: njk
 title: Sjogrens Syndrome
 type: condition
-updated: '2026-02-08T19:45:44.505310Z'
+updated: '2026-02-09T05:40:21.084451Z'
 ---
 
-# Sjogrens Syndrome
-
-## Overview
-
-Sjogren's Syndrome primarily affects the exocrine glands. It can be **Primary** (occurring alone) or **Secondary** (associated with another condition like Rheumatoid Arthritis). While dryness is the hallmark, it is a systemic disease that can affect the lungs, kidneys, and nervous system.
-
-## Complications
-
-- **Dental Cavities:** Due to lack of saliva.
-- **Oral Yeast Infections (Thrush).**
-- **Lymphoma:** Small but significant increased risk.
-- **Peripheral Neuropathy.**
-
+{% raw %}
+<h1>Sjogrens Syndrome</h1>
+<h2>Overview</h2>
+<p>Sjogren's Syndrome primarily affects the exocrine glands. It can be <strong>Primary</strong> (occurring alone) or <strong>Secondary</strong> (associated with another condition like Rheumatoid Arthritis). While dryness is the hallmark, it is a systemic disease that can affect the lungs, kidneys, and nervous system.</p>
+<h2>Complications</h2>
+<ul>
+<li><strong>Dental Cavities:</strong> Due to lack of saliva.</li>
+<li><strong>Oral Yeast Infections (Thrush).</strong></li>
+<li><strong>Lymphoma:</strong> Small but significant increased risk.</li>
+<li><strong>Peripheral Neuropathy.</strong></li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Sjogrens_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:52.587105'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Sjogrens_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:52.587105'
 source: obsidian
-```
-- → [[Sjogrens_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:58.328899'
+</code></pre>
+<ul>
+<li>→ [[Sjogrens_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:58.328899'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Rheumatoid Arthritis]]<br />
+ASSOCIATED_WITH_CONDITION::[[Systemic Lupus Erythematosus]]<br />
+ASSOCIATED_WITH_CONDITION::[[Parotitis]]<br />
+AFFECTS_ORGAN::[[Salivary Gland]]<br />
+AFFECTS_ORGAN::[[Lacrimal Gland]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Anti-SSA]] (Ro).<br />
+ASSOCIATED_WITH_BIOMARKER::[[Anti-SSB]] (La).<br />
+TREATED_BY_DRUG::[[Hydroxychloroquine]]<br />
+TREATED_BY_DRUG::[[Pilocarpine]] - To increase secretions.</p>
+<h2>References</h2>
+<ul>
+<li>Mariette, X., &amp; Criswell, L. A. (2018). Primary Sjögren's Syndrome. NEJM.</li>
+<li>Mayo Clinic. Sjogren's syndrome.</li>
+<li>Sjogren's Foundation. What is Sjogren's?</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Rheumatoid Arthritis]]
-ASSOCIATED_WITH_CONDITION::[[Systemic Lupus Erythematosus]]
-ASSOCIATED_WITH_CONDITION::[[Parotitis]]
-AFFECTS_ORGAN::[[Salivary Gland]]
-AFFECTS_ORGAN::[[Lacrimal Gland]]
-ASSOCIATED_WITH_BIOMARKER::[[Anti-SSA]] (Ro).
-ASSOCIATED_WITH_BIOMARKER::[[Anti-SSB]] (La).
-TREATED_BY_DRUG::[[Hydroxychloroquine]]
-TREATED_BY_DRUG::[[Pilocarpine]] - To increase secretions.
-
-## References
-
-- Mariette, X., & Criswell, L. A. (2018). Primary Sjögren's Syndrome. NEJM.
-- Mayo Clinic. Sjogren's syndrome.
-- Sjogren's Foundation. What is Sjogren's?
+{% endraw %}

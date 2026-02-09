@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.541921Z'
+created: '2026-02-09T05:40:21.274327Z'
 description: Tested twice a year Albumin is the most abundant protein in the blood
   and plays a vital role in maintaining fluid balance and transporting nutrients.
   Healthy albumin levels are a good indicator of liver function and overall health.
@@ -12,160 +12,192 @@ tags:
 - labtest
 - blood-panel
 - function-health
+templateEngineOverride: njk
 title: albumin
 type: labtest
-updated: '2026-02-08T19:45:44.541921Z'
+updated: '2026-02-09T05:40:21.274327Z'
 ---
 
-# Albumin
-
-## Overview
-Tested twice a year Albumin is the most abundant protein in the blood and plays a vital role in maintaining fluid balance and transporting nutrients. Healthy albumin levels are a good indicator of liver function and overall health.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Liver Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Chronic Liver Disease]]
-- [[Nephrotic Syndrome]]
-- [[Malnutrition]]
-- [[Chronic Inflammation (E.G., Autoimmune Disease)]]
-- [[Heart Failure]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Albumin</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Albumin is the most abundant protein in the blood and plays a vital role in maintaining fluid balance and transporting nutrients. Healthy albumin levels are a good indicator of liver function and overall health.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Liver Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Chronic Liver Disease]]</li>
+<li>[[Nephrotic Syndrome]]</li>
+<li>[[Malnutrition]]</li>
+<li>[[Chronic Inflammation (E.G., Autoimmune Disease)]]</li>
+<li>[[Heart Failure]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Liver_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Liver_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- → [[Nephrotic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+</code></pre>
+<ul>
+<li>→ [[Nephrotic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- → [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- → [[Albumin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+</code></pre>
+<ul>
+<li>→ [[Albumin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- → [[Heart_Failure]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+</code></pre>
+<ul>
+<li>→ [[Heart_Failure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- → [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.479652'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
 source: obsidian
-```
-- → [[Chronic_Liver_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.479652'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Liver_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
 source: obsidian
-```
-- → [[Malnutrition]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.479652'
+</code></pre>
+<ul>
+<li>→ [[Malnutrition]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
 source: obsidian
-```
-- ← [[Albumin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:09.703173'
+</code></pre>
+<ul>
+<li>← [[Albumin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.703173'
 source: obsidian
-```
-- ← [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:51.872326'
+</code></pre>
+<ul>
+<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
-```
-- → [[Heart_Failure]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:49.479652'
+</code></pre>
+<ul>
+<li>→ [[Heart_Failure]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
 source: obsidian
-```
-- → [[Nephrotic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:49.479652'
+</code></pre>
+<ul>
+<li>→ [[Nephrotic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
 source: obsidian
-```
-- → [[liver_function_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:07.123823'
+</code></pre>
+<ul>
+<li>→ [[liver_function_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
 source: obsidian
-```
-- ← [[Nephrotic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:34.185599'
+</code></pre>
+<ul>
+<li>← [[Nephrotic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.185599'
 source: obsidian
-```
-- ← [[Heart_Failure]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:28.815607'
+</code></pre>
+<ul>
+<li>← [[Heart_Failure]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
 source: obsidian
-```
-- ← [[liver_function_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:56.401672'
+</code></pre>
+<ul>
+<li>← [[liver_function_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
 source: obsidian
-```
-
-### May Detect
-- → [[Heart_Failure]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Heart_Failure]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Nephrotic_Syndrome]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Nephrotic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:13.588119</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:13.588119*
+{% endraw %}

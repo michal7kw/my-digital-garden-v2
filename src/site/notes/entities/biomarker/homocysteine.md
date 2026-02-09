@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.433567Z'
+created: '2026-02-09T05:40:20.655684Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
@@ -10,113 +10,124 @@ permalink: /garden/dev_admin/biomarker/homocysteine/
 slug: homocysteine
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Homocysteine
 type: biomarker
-updated: '2026-02-08T19:45:44.433567Z'
+updated: '2026-02-09T05:40:20.655684Z'
 ---
 
-# Homocysteine
-
-## Overview
-Sulfur-containing amino acid that is an intermediate in the methylation cycle. Elevated homocysteine is an independent risk factor for cardiovascular disease, cognitive decline, and other conditions. Levels are modifiable through B vitamin supplementation.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Homocysteine</h1>
+<h2>Overview</h2>
+<p>Sulfur-containing amino acid that is an intermediate in the methylation cycle. Elevated homocysteine is an independent risk factor for cardiovascular disease, cognitive decline, and other conditions. Levels are modifiable through B vitamin supplementation.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Vascular_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:19.188711'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vascular_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.188711'
 source: obsidian
-```
-- → [[Mediterranean_Diet]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:19.188711'
+</code></pre>
+<ul>
+<li>→ [[Mediterranean_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.188711'
 source: obsidian
-```
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:13.678513'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:13.678513'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:13.678513'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
-```
-- ← [[Mediterranean_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.486140'
+</code></pre>
+<ul>
+<li>← [[Mediterranean_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
-```
-- ← [[Vascular_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:38.779185'
+</code></pre>
+<ul>
+<li>← [[Vascular_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.519524'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
-```
-- → [[Homocysteine]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:13.678513'
+</code></pre>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
-```
-- → [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:13.678513'
+</code></pre>
+<ul>
+<li>→ [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.678513'
 source: obsidian
-```
-- ← [[Folate]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.310574'
+</code></pre>
+<ul>
+<li>← [[Folate]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.310574'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:41.831836'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.831836'
 source: obsidian
-```
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- ← [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:36.975406'
+</code></pre>
+<ul>
+<li>← [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.975406'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.520330'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian
-```
-
-### Decreases Biomarker
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:41.501218'
 magnitude: moderate
@@ -129,88 +140,95 @@ source: obsidian
 study_references:
 - PMID:16522904
 - PMID:22493132
-```
-
-### Indicates Organ Health
-- → [[Blood]] (organ)
-```yaml
-specificity: medium
+</code></pre>
+<h3>Indicates Organ Health</h3>
+<ul>
+<li>→ [[Blood]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: medium
 function_indicated: Vascular Health / Methylation
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- ← [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:03.149967'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>← [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:03.149967'
 source: obsidian
-```
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:18.846152'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:18.846152'
 source: obsidian
-```
-- ← [[Folate]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:15.621784'
+</code></pre>
+<ul>
+<li>← [[Folate]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.621784'
 source: obsidian
-```
-- → [[Folate]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:19.312640'
+</code></pre>
+<ul>
+<li>→ [[Folate]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
-```
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:19.312640'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:19.312640'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
-```
-- → [[Homocysteine]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:19.312640'
+</code></pre>
+<ul>
+<li>→ [[Homocysteine]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:19.312640'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:19.312640'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:57.049485'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:37.999694'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
-```
-
-### Decreases Biomarker
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:17.506662'
 magnitude: moderate
@@ -223,23 +241,18 @@ source: obsidian
 study_references:
 - PMID:16522904
 - PMID:22493132
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Homocysteine]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

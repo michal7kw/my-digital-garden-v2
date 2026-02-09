@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.470441Z'
+created: '2026-02-09T05:40:20.916242Z'
 description: A medical condition characterized by either a deficiency or an excess
   (toxicity) of copper, an essential trace mineral required for various physiological
   processes.
@@ -14,113 +14,100 @@ tags:
 - nutrition
 - mineral
 - function-health
+templateEngineOverride: njk
 title: Copper Imbalance
 type: condition
-updated: '2026-02-08T19:45:44.470441Z'
+updated: '2026-02-09T05:40:20.916242Z'
 ---
 
-# Copper Imbalance
-
-## Overview
-A medical condition characterized by either a deficiency or an excess (toxicity) of copper, an essential trace mineral required for various physiological processes.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Copper Imbalance</h1>
+<h2>Overview</h2>
+<p>A medical condition characterized by either a deficiency or an excess (toxicity) of copper, an essential trace mineral required for various physiological processes.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Copper Imbalance]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[zinc]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[zinc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Copper_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:01.840816'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Copper_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:01.840816'
 source: obsidian
-```
-- → [[zinc]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:01.840816'
+</code></pre>
+<ul>
+<li>→ [[zinc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:01.840816'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Copper Imbalance]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Copper Imbalance]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Copper_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:26.592612'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Copper_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.592612'
 source: obsidian
-```
-- ← [[zinc]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:02.110806'
+</code></pre>
+<ul>
+<li>← [[zinc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
-```
-- → [[Copper_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:26.592612'
+</code></pre>
+<ul>
+<li>→ [[Copper_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.592612'
 source: obsidian
-```
-- → [[zinc]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:26.592612'
+</code></pre>
+<ul>
+<li>→ [[zinc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.592612'
 source: obsidian
-```
-
-### May Detect
-- ← [[zinc]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[zinc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

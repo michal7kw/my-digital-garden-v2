@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.473428Z'
+created: '2026-02-09T05:40:20.930333Z'
 description: A peptic ulcer that develops in the first part of the small intestine
   (duodenum), causing burning abdominal pain.
 dg-home: false
@@ -12,50 +12,52 @@ tags:
 - gastroenterology
 - ulcer
 - infection
+templateEngineOverride: njk
 title: Duodenal Ulcer
 type: condition
-updated: '2026-02-08T19:45:44.473428Z'
+updated: '2026-02-09T05:40:20.930333Z'
 ---
 
-# Duodenal Ulcer
-
-## Overview
-
-A Duodenal Ulcer is a type of **Peptic Ulcer Disease** affecting the lining of the duodenum. Unlike gastric ulcers, pain from a duodenal ulcer often improves with eating or antacids and worsens 2-3 hours after meals or at night. The most common cause is infection with the bacterium *Helicobacter pylori*.
-
-## Causes
-
-1.  **H. pylori Infection:** Damages the mucous coating protecting the intestine.
-2.  **NSAIDs:** Long-term use of nonsteroidal anti-inflammatory drugs blocks enzymes that produce protective mucus.
-3.  **Zollinger-Ellison Syndrome:** Rare condition causing excess acid production.
-
+{% raw %}
+<h1>Duodenal Ulcer</h1>
+<h2>Overview</h2>
+<p>A Duodenal Ulcer is a type of <strong>Peptic Ulcer Disease</strong> affecting the lining of the duodenum. Unlike gastric ulcers, pain from a duodenal ulcer often improves with eating or antacids and worsens 2-3 hours after meals or at night. The most common cause is infection with the bacterium <em>Helicobacter pylori</em>.</p>
+<h2>Causes</h2>
+<ol>
+<li><strong>H. pylori Infection:</strong> Damages the mucous coating protecting the intestine.</li>
+<li><strong>NSAIDs:</strong> Long-term use of nonsteroidal anti-inflammatory drugs blocks enzymes that produce protective mucus.</li>
+<li><strong>Zollinger-Ellison Syndrome:</strong> Rare condition causing excess acid production.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Duodenal_Ulcer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:37.881576'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Duodenal_Ulcer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:37.881576'
 source: obsidian
-```
-- → [[Duodenal_Ulcer]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:35.049275'
+</code></pre>
+<ul>
+<li>→ [[Duodenal_Ulcer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:35.049275'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Helicobacter pylori]]<br />
+CAUSED_BY::[[Ibuprofen]]<br />
+CAUSED_BY::[[Aspirin]]<br />
+ASSOCIATED_WITH_CONDITION::[[Gastritis]]<br />
+AFFECTS_ORGAN::[[Duodenum]]<br />
+TREATED_BY_DRUG::[[Omeprazole]] - PPI.<br />
+TREATED_BY_DRUG::[[Clarithromycin]] - Antibiotic.<br />
+TREATED_BY_DRUG::[[Amoxicillin]]</p>
+<h2>References</h2>
+<ul>
+<li>Lanas, A., &amp; Chan, F. K. (2017). Peptic ulcer disease. The Lancet.</li>
+<li>ACG. Peptic Ulcer Disease.</li>
+<li>Malfertheiner, P., et al. (2017). Management of Helicobacter pylori infection—the Maastricht V/Florence Consensus Report.</li>
+</ul>
 
-CAUSED_BY::[[Helicobacter pylori]]
-CAUSED_BY::[[Ibuprofen]]
-CAUSED_BY::[[Aspirin]]
-ASSOCIATED_WITH_CONDITION::[[Gastritis]]
-AFFECTS_ORGAN::[[Duodenum]]
-TREATED_BY_DRUG::[[Omeprazole]] - PPI.
-TREATED_BY_DRUG::[[Clarithromycin]] - Antibiotic.
-TREATED_BY_DRUG::[[Amoxicillin]]
-
-## References
-
-- Lanas, A., & Chan, F. K. (2017). Peptic ulcer disease. The Lancet.
-- ACG. Peptic Ulcer Disease.
-- Malfertheiner, P., et al. (2017). Management of Helicobacter pylori infection—the Maastricht V/Florence Consensus Report.
+{% endraw %}

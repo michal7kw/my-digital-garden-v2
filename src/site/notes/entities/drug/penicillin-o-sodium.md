@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.522801Z'
+created: '2026-02-09T05:40:21.171268Z'
 description: A sodium salt of Penicillin O (Almecillin), used as an antimicrobial
   agent.
 dg-home: false
@@ -11,27 +11,27 @@ tags:
 - drug
 - antibiotic
 - penicillin
+templateEngineOverride: njk
 title: Penicillin O Sodium
 type: drug
-updated: '2026-02-08T19:45:44.522801Z'
+updated: '2026-02-09T05:40:21.171268Z'
 ---
 
-# Penicillin O Sodium
-
-## Overview
-
-Penicillin O Sodium is the sodium salt of Almecillin. It is used for the treatment of infections caused by susceptible bacteria, particularly in cases where a less allergenic form of penicillin is desired.
-
+{% raw %}
+<h1>Penicillin O Sodium</h1>
+<h2>Overview</h2>
+<p>Penicillin O Sodium is the sodium salt of Almecillin. It is used for the treatment of infections caused by susceptible bacteria, particularly in cases where a less allergenic form of penicillin is desired.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Bacterial Infections]]<br />
+ASSOCIATED_WITH_DRUG::[[Penicillin G]]</p>
+<h2>References</h2>
+<ul>
+<li>DrugBank. Penicillin O Sodium.</li>
+<li>PubChem. Penicillin O Sodium.</li>
+</ul>
 
-TREATS_CONDITION::[[Bacterial Infections]]
-ASSOCIATED_WITH_DRUG::[[Penicillin G]]
-
-## References
-
-- DrugBank. Penicillin O Sodium.
-- PubChem. Penicillin O Sodium.
+{% endraw %}

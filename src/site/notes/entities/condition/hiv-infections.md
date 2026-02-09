@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.477777Z'
+created: '2026-02-09T05:40:20.951030Z'
 description: A chronic viral infection that attacks the body's immune system, specifically
   CD4 T cells, potentially leading to AIDS if untreated.
 dg-home: false
@@ -12,48 +12,48 @@ tags:
 - infectious_disease
 - immunology
 - viral
+templateEngineOverride: njk
 title: HIV Infections
 type: condition
-updated: '2026-02-08T19:45:44.477777Z'
+updated: '2026-02-09T05:40:20.951030Z'
 ---
 
-# HIV Infections
-
-## Overview
-
-Human Immunodeficiency Virus (HIV) targets the immune system by destroying CD4 T cells (helper T cells), which help the body fight infection. Without treatment (Antiretroviral Therapy or ART), HIV can gradually destroy the immune system and advance to **Acquired Immunodeficiency Syndrome (AIDS)**.
-
-## Pathogenesis
-
-HIV is a retrovirus that integrates its genetic material into the DNA of the host cell. It replicates primarily in CD4+ T cells, leading to their depletion and severe immunodeficiency.
-
+{% raw %}
+<h1>HIV Infections</h1>
+<h2>Overview</h2>
+<p>Human Immunodeficiency Virus (HIV) targets the immune system by destroying CD4 T cells (helper T cells), which help the body fight infection. Without treatment (Antiretroviral Therapy or ART), HIV can gradually destroy the immune system and advance to <strong>Acquired Immunodeficiency Syndrome (AIDS)</strong>.</p>
+<h2>Pathogenesis</h2>
+<p>HIV is a retrovirus that integrates its genetic material into the DNA of the host cell. It replicates primarily in CD4+ T cells, leading to their depletion and severe immunodeficiency.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[HIV_Infections]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:40.509480'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[HIV_Infections]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:40.509480'
 source: obsidian
-```
-- → [[HIV_Infections]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:39.195069'
+</code></pre>
+<ul>
+<li>→ [[HIV_Infections]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:39.195069'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Human Immunodeficiency Virus]]<br />
+ASSOCIATED_WITH_CONDITION::[[Acquired Immunodeficiency Syndrome]]<br />
+ASSOCIATED_WITH_CONDITION::[[Tuberculosis]]<br />
+ASSOCIATED_WITH_CONDITION::[[Kaposi Sarcoma]]<br />
+TREATED_BY_DRUG::[[Tenofovir]]<br />
+TREATED_BY_DRUG::[[Emtricitabine]]<br />
+TREATED_BY_DRUG::[[Dolutegravir]]<br />
+AFFECTS_ORGAN::[[Immune System]]</p>
+<h2>References</h2>
+<ul>
+<li>CDC. HIV Basics.</li>
+<li>World Health Organization. HIV/AIDS.</li>
+<li>EACS. Guidelines.</li>
+</ul>
 
-CAUSED_BY::[[Human Immunodeficiency Virus]]
-ASSOCIATED_WITH_CONDITION::[[Acquired Immunodeficiency Syndrome]]
-ASSOCIATED_WITH_CONDITION::[[Tuberculosis]]
-ASSOCIATED_WITH_CONDITION::[[Kaposi Sarcoma]]
-TREATED_BY_DRUG::[[Tenofovir]]
-TREATED_BY_DRUG::[[Emtricitabine]]
-TREATED_BY_DRUG::[[Dolutegravir]]
-AFFECTS_ORGAN::[[Immune System]]
-
-## References
-
-- CDC. HIV Basics.
-- World Health Organization. HIV/AIDS.
-- EACS. Guidelines.
+{% endraw %}

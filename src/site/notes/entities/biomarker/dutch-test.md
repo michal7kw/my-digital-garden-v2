@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.427109Z'
+created: '2026-02-09T05:40:20.620136Z'
 description: Dried Urine Test for Comprehensive Hormones, providing a detailed look
   at sex hormones, adrenal function (cortisol), and their metabolites.
 dg-home: false
@@ -12,83 +12,78 @@ tags:
 - labtest
 - endocrine
 - hormonal_health
+templateEngineOverride: njk
 title: DUTCH Test
 type: biomarker
-updated: '2026-02-08T19:45:44.427109Z'
+updated: '2026-02-09T05:40:20.620136Z'
 ---
 
-# DUTCH Test
-
-## Overview
-Dried Urine Test for Comprehensive Hormones, providing a detailed look at sex hormones, adrenal function (cortisol), and their metabolites.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Dried Urine (and sometimes Saliva)
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Annually or for mapping specific hormonal issues
-
-## Interpretation Guidelines
-- Measures 24-hour free cortisol pattern.
-- Measures cortisol metabolites (Total Cortisol Production/Clearance).
-- Measures Estrogen metabolism (2-OH, 4-OH, 16-OH pathways).
-- Measures Methylation capacity (via 2-Methoxyestrone).
-
-
+{% raw %}
+<h1>DUTCH Test</h1>
+<h2>Overview</h2>
+<p>Dried Urine Test for Comprehensive Hormones, providing a detailed look at sex hormones, adrenal function (cortisol), and their metabolites.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Dried Urine (and sometimes Saliva)</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Annually or for mapping specific hormonal issues</li>
+</ul>
+<h2>Interpretation Guidelines</h2>
+<ul>
+<li>Measures 24-hour free cortisol pattern.</li>
+<li>Measures cortisol metabolites (Total Cortisol Production/Clearance).</li>
+<li>Measures Estrogen metabolism (2-OH, 4-OH, 16-OH pathways).</li>
+<li>Measures Methylation capacity (via 2-Methoxyestrone).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[DUTCH_Test]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.561833'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[DUTCH_Test]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.561833'
 source: obsidian
-```
-- → [[DUTCH_Test]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:11.561833'
+</code></pre>
+<ul>
+<li>→ [[DUTCH_Test]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.561833'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[DUTCH_Test]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:14.112652'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[DUTCH_Test]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.112652'
 source: obsidian
-```
-- → [[DUTCH_Test]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:14.112652'
+</code></pre>
+<ul>
+<li>→ [[DUTCH_Test]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.112652'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[DUTCH Test]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

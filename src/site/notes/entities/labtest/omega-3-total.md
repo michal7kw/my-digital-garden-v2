@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.575819Z'
+created: '2026-02-09T05:40:21.447271Z'
 description: Omega-3 Total reflects major omega-3 fatty acids (including EPA, DHA,
   ALA) that support anti-inflammatory and resolving pathways. Adequate omega-3s help
   modulate immune responses, support cell membrane fluidity, and counterbalance excessive
@@ -12,137 +12,165 @@ permalink: /garden/dev_admin/labtest/omega-3-total/
 slug: omega-3-total
 tags:
 - labtest
+templateEngineOverride: njk
 title: omega_3_total
 type: labtest
-updated: '2026-02-08T19:45:44.575819Z'
+updated: '2026-02-09T05:40:21.447271Z'
 ---
 
-# Omega-3 Total
-
-## Overview
-Omega-3 Total reflects major omega-3 fatty acids (including EPA, DHA, ALA) that support anti-inflammatory and resolving pathways. Adequate omega-3s help modulate immune responses, support cell membrane fluidity, and counterbalance excessive omega-6 activity. This marker gives insight into how well the body is poised to resolve inflammation and maintain a balanced fatty acid profile.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Functional Medicine |
-| **Subcategory** | Nutrient Panel || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Omega-3 Deficiency]]
-- [[Chronic Inflammation]]
-- [[Cardiovascular Disease Risk]]
-- [[Cognitive Or Mood Imbalance]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Omega-3 Total</h1>
+<h2>Overview</h2>
+<p>Omega-3 Total reflects major omega-3 fatty acids (including EPA, DHA, ALA) that support anti-inflammatory and resolving pathways. Adequate omega-3s help modulate immune responses, support cell membrane fluidity, and counterbalance excessive omega-6 activity. This marker gives insight into how well the body is poised to resolve inflammation and maintain a balanced fatty acid profile.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Functional Medicine</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Nutrient Panel</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Omega-3 Deficiency]]</li>
+<li>[[Chronic Inflammation]]</li>
+<li>[[Cardiovascular Disease Risk]]</li>
+<li>[[Cognitive Or Mood Imbalance]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Cardiovascular_Disease_Risk]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:22.761303'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cardiovascular_Disease_Risk]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.761303'
 source: obsidian
-```
-- → [[Cognitive_Or_Mood_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:22.761303'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Or_Mood_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.761303'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:22.761303'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.761303'
 source: obsidian
-```
-- → [[Omega-3_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:22.761303'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.761303'
 source: obsidian
-```
-- → [[Omega-3_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.988761'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.988761'
 source: obsidian
-```
-- → [[Cardiovascular_Disease_Risk]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.988761'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Disease_Risk]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.988761'
 source: obsidian
-```
-- → [[Cognitive_Or_Mood_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.988761'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Or_Mood_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.988761'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:57.988761'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.988761'
 source: obsidian
-```
-- ← [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.244890'
+</code></pre>
+<ul>
+<li>← [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
-```
-- ← [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.904495'
+</code></pre>
+<ul>
+<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
-```
-- → [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:22.761303'
+</code></pre>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.761303'
 source: obsidian
-```
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:22.761303'
+</code></pre>
+<ul>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:22.761303'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.519524'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
-```
-
-### May Detect
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[mthfr_gene]] (labtestpanel)
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:37.362338</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:37.362338*
+{% endraw %}

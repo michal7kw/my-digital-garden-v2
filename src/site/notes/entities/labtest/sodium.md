@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.584006Z'
+created: '2026-02-09T05:40:21.486653Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -14,116 +14,141 @@ tags:
 - labtest
 - blood-panel
 - function-health
+templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-02-08T19:45:44.584006Z'
+updated: '2026-02-09T05:40:21.486653Z'
 ---
 
-# Sodium
-
-## Overview
-Tested twice a year Sodium, an essential electrolyte commonly consumed as part of table salt (sodium chloride), plays a vital role in maintaining the body’s fluid balance, supporting nerve signaling, and enabling muscle contractions, including those of the heart. Factors like hydration status, dietary patterns, medication use, and physical activity can influence sodium balance.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Kidney Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Dehydration]]
-- [[Fluid Imbalance (Low Or High Sodium)]]
-- [[Kidney Dysfunction]]
-- [[Hormonal Imbalance (Adrenal Or Thyroid)]]
-- [[Medication Effect]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Sodium</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Sodium, an essential electrolyte commonly consumed as part of table salt (sodium chloride), plays a vital role in maintaining the body’s fluid balance, supporting nerve signaling, and enabling muscle contractions, including those of the heart. Factors like hydration status, dietary patterns, medication use, and physical activity can influence sodium balance.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Kidney Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Dehydration]]</li>
+<li>[[Fluid Imbalance (Low Or High Sodium)]]</li>
+<li>[[Kidney Dysfunction]]</li>
+<li>[[Hormonal Imbalance (Adrenal Or Thyroid)]]</li>
+<li>[[Medication Effect]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Medication_Effect]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:25.865118'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Medication_Effect]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:25.865118'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
-```
-- → [[Hormonal_Imbalance_Adrenal_Or_Thyroid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:25.865118'
+</code></pre>
+<ul>
+<li>→ [[Hormonal_Imbalance_Adrenal_Or_Thyroid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
-```
-- → [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:25.865118'
+</code></pre>
+<ul>
+<li>→ [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
-```
-- → [[Fluid_Imbalance_Low_Or_High_Sodium]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:25.865118'
+</code></pre>
+<ul>
+<li>→ [[Fluid_Imbalance_Low_Or_High_Sodium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
 source: obsidian
-```
-- → [[Hormonal_Imbalance_Adrenal_Or_Thyroid]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.776145'
+</code></pre>
+<ul>
+<li>→ [[Hormonal_Imbalance_Adrenal_Or_Thyroid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
-```
-- → [[Fluid_Imbalance_Low_Or_High_Sodium]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.776145'
+</code></pre>
+<ul>
+<li>→ [[Fluid_Imbalance_Low_Or_High_Sodium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.776145'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
-```
-- → [[Dehydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.776145'
+</code></pre>
+<ul>
+<li>→ [[Dehydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
-```
-- → [[Medication_Effect]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.776145'
+</code></pre>
+<ul>
+<li>→ [[Medication_Effect]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
 source: obsidian
-```
-- ← [[comprehensive_metabolic_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:51.872326'
+</code></pre>
+<ul>
+<li>← [[comprehensive_metabolic_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:40.925124</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:40.925124*
+{% endraw %}

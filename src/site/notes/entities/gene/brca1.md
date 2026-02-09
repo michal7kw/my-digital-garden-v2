@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.530624Z'
+created: '2026-02-09T05:40:21.219775Z'
 description: Encodes a tumor suppressor protein involved in DNA repair. Mutations
   significantly increase the risk of breast and ovarian cancer.
 dg-home: false
@@ -14,22 +14,26 @@ tags:
 - breast_cancer
 - imported
 - primekg
+templateEngineOverride: njk
 title: BRCA1
 type: gene
-updated: '2026-02-08T19:45:44.530624Z'
+updated: '2026-02-09T05:40:21.219775Z'
 ---
 
-# BRCA1
+{% raw %}
+<h1>BRCA1</h1>
+<h2>Overview</h2>
+<p>The <strong>BRCA1</strong> gene encodes a nuclear phosphoprotein that plays a role in maintaining genomic stability. It acts as a <strong>tumor suppressor</strong>.</p>
+<p>Germline mutations in BRCA1 are responsible for approximately 40% of inherited breast cancers and more than 80% of inherited breast and ovarian cancers.</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[BRCA1]] (protein) - <em>Encodes</em></li>
+<li>→ [[Breast Cancer]] (condition) - <em>Associated with mutations</em></li>
+<li>→ [[Ovarian Cancer]] (condition) - <em>Associated with mutations</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Genetics</strong>: Miki, Y., et al. (1994). &quot;A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1.&quot; <em>Science</em>.</li>
+</ol>
 
-## Overview
-The **BRCA1** gene encodes a nuclear phosphoprotein that plays a role in maintaining genomic stability. It acts as a **tumor suppressor**.
-
-Germline mutations in BRCA1 are responsible for approximately 40% of inherited breast cancers and more than 80% of inherited breast and ovarian cancers.
-
-## Relationships
-- → [[BRCA1]] (protein) - *Encodes*
-- → [[Breast Cancer]] (condition) - *Associated with mutations*
-- → [[Ovarian Cancer]] (condition) - *Associated with mutations*
-
-## References
-1. **Genetics**: Miki, Y., et al. (1994). "A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1." *Science*.
+{% endraw %}

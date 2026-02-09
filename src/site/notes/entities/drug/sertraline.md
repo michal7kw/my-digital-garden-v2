@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.525458Z'
+created: '2026-02-09T05:40:21.182692Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
@@ -15,42 +15,25 @@ tags:
 - anxiety
 - psychiatry
 - prescription
+templateEngineOverride: njk
 title: Sertraline
 type: drug
-updated: '2026-02-08T19:45:44.525458Z'
+updated: '2026-02-09T05:40:21.182692Z'
 ---
 
-# Sertraline
-
-## Overview
-Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable safety profile.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Sertraline</h1>
+<h2>Overview</h2>
+<p>Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable safety profile.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

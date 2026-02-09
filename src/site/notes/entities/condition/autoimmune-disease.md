@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.461552Z'
+created: '2026-02-09T05:40:20.867243Z'
 description: A condition in which the immune system mistakenly attacks and damages
   the body's own healthy cells, tissues, and organs.
 dg-home: false
@@ -13,248 +13,260 @@ tags:
 - inflammation
 - autoimmune
 - function-health
+templateEngineOverride: njk
 title: Autoimmune Disease
 type: condition
-updated: '2026-02-08T19:45:44.461552Z'
+updated: '2026-02-09T05:40:20.867243Z'
 ---
 
-# Autoimmune Disease
-
-## Overview
-A condition in which the immune system mistakenly attacks and damages the body's own healthy cells, tissues, and organs.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Autoimmune Disease</h1>
+<h2>Overview</h2>
+<p>A condition in which the immune system mistakenly attacks and damages the body's own healthy cells, tissues, and organs.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Autoimmune Disease]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[basophils]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[basophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[eosinophils]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[eosinophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[lymphocytes]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[lymphocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[monocytes]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[white_blood_cell_count]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[white_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Autoimmune_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Autoimmune_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-- → [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<ul>
+<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-- → [[basophils]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<ul>
+<li>→ [[basophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-- → [[eosinophils]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<ul>
+<li>→ [[eosinophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-- → [[lymphocytes]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<ul>
+<li>→ [[lymphocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-- → [[monocytes]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<ul>
+<li>→ [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-- → [[white_blood_cell_count]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:48.674523'
+</code></pre>
+<ul>
+<li>→ [[white_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:48.674523'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Autoimmune Disease]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Autoimmune Disease]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Autoimmune_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Autoimmune_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- ← [[white_blood_cell_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.704457'
+</code></pre>
+<ul>
+<li>← [[white_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.704457'
 source: obsidian
-```
-- ← [[monocytes]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:57.436126'
+</code></pre>
+<ul>
+<li>← [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
 source: obsidian
-```
-- ← [[lymphocytes]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:56.658204'
+</code></pre>
+<ul>
+<li>← [[lymphocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.658204'
 source: obsidian
-```
-- ← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:54.105921'
+</code></pre>
+<ul>
+<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.105921'
 source: obsidian
-```
-- ← [[eosinophils]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:52.578220'
+</code></pre>
+<ul>
+<li>← [[eosinophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.578220'
 source: obsidian
-```
-- ← [[basophils]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:50.601190'
+</code></pre>
+<ul>
+<li>← [[basophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.601190'
 source: obsidian
-```
-- → [[Autoimmune_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[Autoimmune_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- → [[monocytes]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- → [[lymphocytes]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[lymphocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- → [[basophils]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[basophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- → [[eosinophils]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[eosinophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- → [[white_blood_cell_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[white_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-- → [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.757663'
+</code></pre>
+<ul>
+<li>→ [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
 source: obsidian
-```
-
-### May Detect
-- ← [[white_blood_cell_count]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[white_blood_cell_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[monocytes]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[monocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[lymphocytes]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[lymphocytes]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[eosinophils]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[eosinophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[basophils]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[basophils]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[high_sensitivity_c_reactive_protein_hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

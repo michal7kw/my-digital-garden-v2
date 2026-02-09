@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.466590Z'
+created: '2026-02-09T05:40:20.891331Z'
 description: A long-term inflammatory condition of the bronchial tubes, characterized
   by a persistent mucus-producing cough lasting at least three months per year for
   two consecutive years.
@@ -13,50 +13,52 @@ tags:
 - respiratory
 - chronic
 - inflammation
+templateEngineOverride: njk
 title: Chronic Bronchitis
 type: condition
-updated: '2026-02-08T19:45:44.466590Z'
+updated: '2026-02-09T05:40:20.891331Z'
 ---
 
-# Chronic Bronchitis
-
-## Overview
-
-Chronic Bronchitis is a type of **Chronic Obstructive Pulmonary Disease (COPD)**. It involves long-term inflammation of the bronchi (airways), which leads to excessive mucus production and thickening of the bronchial walls. This narrows the airways, making it difficult to breathe and leading to frequent respiratory infections. It is distinct from acute bronchitis, which is usually a temporary infection.
-
-## Pathophysiology
-
-The primary driver is chronic irritation (most commonly from tobacco smoke) which causes:
-1.  **Hypertrophy** of mucus-secreting glands.
-2.  **Inflammation** and edema of the bronchial wall.
-3.  **Ciliary dysfunction**, preventing clearance of mucus.
-
+{% raw %}
+<h1>Chronic Bronchitis</h1>
+<h2>Overview</h2>
+<p>Chronic Bronchitis is a type of <strong>Chronic Obstructive Pulmonary Disease (COPD)</strong>. It involves long-term inflammation of the bronchi (airways), which leads to excessive mucus production and thickening of the bronchial walls. This narrows the airways, making it difficult to breathe and leading to frequent respiratory infections. It is distinct from acute bronchitis, which is usually a temporary infection.</p>
+<h2>Pathophysiology</h2>
+<p>The primary driver is chronic irritation (most commonly from tobacco smoke) which causes:</p>
+<ol>
+<li><strong>Hypertrophy</strong> of mucus-secreting glands.</li>
+<li><strong>Inflammation</strong> and edema of the bronchial wall.</li>
+<li><strong>Ciliary dysfunction</strong>, preventing clearance of mucus.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Bronchitis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:33.917618'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Bronchitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:33.917618'
 source: obsidian
-```
-- → [[Chronic_Bronchitis]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:29.961007'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Bronchitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:29.961007'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Chronic Obstructive Pulmonary Disease]] - Major subtype.<br />
+ASSOCIATED_WITH_CONDITION::[[Emphysema]] - Often co-occurs.<br />
+CAUSED_BY::[[Tobacco Smoking]]<br />
+INCREASED_RISK_OF::[[Pneumonia]]<br />
+INCREASED_RISK_OF::[[Cor Pulmonale]] - Right-sided heart failure due to lung disease.<br />
+AFFECTS_ORGAN::[[Lung]]<br />
+CHARACTERIZED_BY::[[Inflammation]]</p>
+<h2>References</h2>
+<ul>
+<li>Global Initiative for Chronic Obstructive Lung Disease (GOLD). (2024). Global Strategy for the Diagnosis, Management, and Prevention of COPD.</li>
+<li>American Lung Association. Chronic Bronchitis.</li>
+<li>Kim, V., &amp; Criner, G. J. (2013). Chronic bronchitis and chronic obstructive pulmonary disease. American journal of respiratory and critical care medicine.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Chronic Obstructive Pulmonary Disease]] - Major subtype.
-ASSOCIATED_WITH_CONDITION::[[Emphysema]] - Often co-occurs.
-CAUSED_BY::[[Tobacco Smoking]]
-INCREASED_RISK_OF::[[Pneumonia]]
-INCREASED_RISK_OF::[[Cor Pulmonale]] - Right-sided heart failure due to lung disease.
-AFFECTS_ORGAN::[[Lung]]
-CHARACTERIZED_BY::[[Inflammation]]
-
-## References
-
-- Global Initiative for Chronic Obstructive Lung Disease (GOLD). (2024). Global Strategy for the Diagnosis, Management, and Prevention of COPD.
-- American Lung Association. Chronic Bronchitis.
-- Kim, V., & Criner, G. J. (2013). Chronic bronchitis and chronic obstructive pulmonary disease. American journal of respiratory and critical care medicine.
+{% endraw %}

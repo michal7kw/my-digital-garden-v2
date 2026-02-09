@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.593948Z'
+created: '2026-02-09T05:40:21.535562Z'
 description: Zinc is an essential mineral that plays a key role in immune strength,
   wound healing, metabolism, and hormone balance. Testing zinc levels shows whether
   the body has enough to support these functions. Low levels can be linked to issues
@@ -14,164 +14,197 @@ tags:
 - labtest
 - functional-medicine
 - function-health
+templateEngineOverride: njk
 title: zinc
 type: labtest
-updated: '2026-02-08T19:45:44.593948Z'
+updated: '2026-02-09T05:40:21.535562Z'
 ---
 
-# Zinc
-
-## Overview
-Zinc is an essential mineral that plays a key role in immune strength, wound healing, metabolism, and hormone balance. Testing zinc levels shows whether the body has enough to support these functions. Low levels can be linked to issues such as reduced immune response, slower healing, fatigue, or hormonal changes, while adequate levels help keep many biological processes running smoothly.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Functional Medicine |
-| **Subcategory** | Nutrient Panel || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Zinc Deficiency]]
-- [[Poor Nutrient Absorption]]
-- [[Malnutrition]]
-- [[Impaired Immune Function]]
-- [[Copper Imbalance]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Zinc</h1>
+<h2>Overview</h2>
+<p>Zinc is an essential mineral that plays a key role in immune strength, wound healing, metabolism, and hormone balance. Testing zinc levels shows whether the body has enough to support these functions. Low levels can be linked to issues such as reduced immune response, slower healing, fatigue, or hormonal changes, while adequate levels help keep many biological processes running smoothly.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Functional Medicine</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Nutrient Panel</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Zinc Deficiency]]</li>
+<li>[[Poor Nutrient Absorption]]</li>
+<li>[[Malnutrition]]</li>
+<li>[[Impaired Immune Function]]</li>
+<li>[[Copper Imbalance]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Zinc_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Zinc_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- → [[Impaired_Immune_Function]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+</code></pre>
+<ul>
+<li>→ [[Impaired_Immune_Function]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- → [[Poor_Nutrient_Absorption]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+</code></pre>
+<ul>
+<li>→ [[Poor_Nutrient_Absorption]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- → [[Copper_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+</code></pre>
+<ul>
+<li>→ [[Copper_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- → [[Impaired_Immune_Function]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:02.110806'
+</code></pre>
+<ul>
+<li>→ [[Impaired_Immune_Function]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
-```
-- → [[Poor_Nutrient_Absorption]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:02.110806'
+</code></pre>
+<ul>
+<li>→ [[Poor_Nutrient_Absorption]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
-```
-- → [[Malnutrition]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:02.110806'
+</code></pre>
+<ul>
+<li>→ [[Malnutrition]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
-```
-- → [[Copper_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:02.110806'
+</code></pre>
+<ul>
+<li>→ [[Copper_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
-```
-- → [[Zinc_Deficiency]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:02.110806'
+</code></pre>
+<ul>
+<li>→ [[Zinc_Deficiency]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
 source: obsidian
-```
-- ← [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.244890'
+</code></pre>
+<ul>
+<li>← [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
-```
-- ← [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.904495'
+</code></pre>
+<ul>
+<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
-```
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+</code></pre>
+<ul>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- → [[zinc_serum]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+</code></pre>
+<ul>
+<li>→ [[zinc_serum]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- → [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:29.979746'
+</code></pre>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
 source: obsidian
-```
-- ← [[Zinc_Deficiency]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:39.463462'
+</code></pre>
+<ul>
+<li>← [[Zinc_Deficiency]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
 source: obsidian
-```
-- ← [[Copper_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:26.592612'
+</code></pre>
+<ul>
+<li>← [[Copper_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.592612'
 source: obsidian
-```
-- ← [[zinc_serum]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:02.018670'
+</code></pre>
+<ul>
+<li>← [[zinc_serum]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.018670'
 source: obsidian
-```
-
-### May Detect
-- → [[Copper_Imbalance]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Copper_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Zinc_Deficiency]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Zinc_Deficiency]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[mthfr_gene]] (labtestpanel)
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:46.325095</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:46.325095*
+{% endraw %}

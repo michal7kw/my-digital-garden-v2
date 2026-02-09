@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.512153Z'
+created: '2026-02-09T05:40:21.117491Z'
 description: Tricyclic antidepressant (TCA) that inhibits the reuptake of serotonin
   and norepinephrine. Widely used for depression, neuropathic pain, and migraine prophylaxis.
 dg-home: false
@@ -12,246 +12,288 @@ tags:
 - antidepressant
 - pain_management
 - migraine
+templateEngineOverride: njk
 title: Amitriptyline
 type: drug
-updated: '2026-02-08T19:45:44.512153Z'
+updated: '2026-02-09T05:40:21.117491Z'
 ---
 
-# Amitriptyline
-
-## Overview
-Amitriptyline is a tricyclic antidepressant (TCA) first introduced in the 1960s. While its use as a first-line antidepressant has declined due to side effects compared to SSRIs, it remains a gold standard treatment for **neuropathic pain**, **migraine prophylaxis**, and **fibromyalgia**.
-
-It functions as a "dirty drug," meaning it affects multiple receptor systems. Its primary therapeutic effect comes from inhibiting the reuptake of serotonin and norepinephrine, increasing their synaptic availability. However, its antagonism of histamine (H1), muscarinic (mACh), and alpha-adrenergic receptors contributes to its side effect profile (sedation, dry mouth, orthostatic hypotension).
-
-## Indications
-- **Major Depressive Disorder (MDD)**: Effective but often second-line.
-- **Neuropathic Pain**: Diabetic neuropathy, post-herpetic neuralgia.
-- **Migraine Prophylaxis**: Effective at lower doses.
-- **Fibromyalgia**: Improvements in pain and sleep quality.
-- **Insomnia**: Off-label use due to strong sedative effects.
-
+{% raw %}
+<h1>Amitriptyline</h1>
+<h2>Overview</h2>
+<p>Amitriptyline is a tricyclic antidepressant (TCA) first introduced in the 1960s. While its use as a first-line antidepressant has declined due to side effects compared to SSRIs, it remains a gold standard treatment for <strong>neuropathic pain</strong>, <strong>migraine prophylaxis</strong>, and <strong>fibromyalgia</strong>.</p>
+<p>It functions as a &quot;dirty drug,&quot; meaning it affects multiple receptor systems. Its primary therapeutic effect comes from inhibiting the reuptake of serotonin and norepinephrine, increasing their synaptic availability. However, its antagonism of histamine (H1), muscarinic (mACh), and alpha-adrenergic receptors contributes to its side effect profile (sedation, dry mouth, orthostatic hypotension).</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Major Depressive Disorder (MDD)</strong>: Effective but often second-line.</li>
+<li><strong>Neuropathic Pain</strong>: Diabetic neuropathy, post-herpetic neuralgia.</li>
+<li><strong>Migraine Prophylaxis</strong>: Effective at lower doses.</li>
+<li><strong>Fibromyalgia</strong>: Improvements in pain and sleep quality.</li>
+<li><strong>Insomnia</strong>: Off-label use due to strong sedative effects.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:36.875774'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
 source: obsidian
-```
-- ← [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.475847'
+</code></pre>
+<ul>
+<li>← [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
 source: obsidian
-```
-- ← [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>← [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Botulinum_Toxin_Type_B]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Botulinum_Toxin_Type_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Muscarinic_Acetylcholine_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Metocurine_iodide]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Metocurine_iodide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Sodium_ascorbate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Sodium_ascorbate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Insulin_glargine]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Insulin_glargine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Nitrous_oxide]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Nitrous_oxide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Bismuth_subgallate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Bismuth_subgallate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Neuropathic_Pain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Neuropathic_Pain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Lithium_hydroxide]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.471827'
+</code></pre>
+<ul>
+<li>→ [[Lithium_hydroxide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.471827'
 source: obsidian
-```
-- → [[Alcohol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Alcohol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Insomnia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Insomnia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[MAOI]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[MAOI]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Fibromyalgia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Fibromyalgia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[SSRI]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[SSRI]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Migraine]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Migraine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Muscarinic_Acetylcholine_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[SERT]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[SERT]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Neuropathic_Pain]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Neuropathic_Pain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[NET]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[NET]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-
-### Interactswith
-- ← [[Lithium_hydroxide]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.353000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>← [[Lithium_hydroxide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.353000+00:00'
 source: PrimeKG
-```
-- ← [[Insulin_glargine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.393000+00:00'
+</code></pre>
+<ul>
+<li>← [[Insulin_glargine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.393000+00:00'
 source: PrimeKG
-```
-- ← [[Nitrous_oxide]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.502000+00:00'
+</code></pre>
+<ul>
+<li>← [[Nitrous_oxide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.502000+00:00'
 source: PrimeKG
-```
-- ← [[Metocurine_iodide]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.513000+00:00'
+</code></pre>
+<ul>
+<li>← [[Metocurine_iodide]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.513000+00:00'
 source: PrimeKG
-```
-- ← [[Bismuth_subgallate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.541000+00:00'
+</code></pre>
+<ul>
+<li>← [[Bismuth_subgallate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.541000+00:00'
 source: PrimeKG
-```
-- ← [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.552000+00:00'
+</code></pre>
+<ul>
+<li>← [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.552000+00:00'
 source: PrimeKG
-```
-- ← [[Botulinum_Toxin_Type_B]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.606000+00:00'
+</code></pre>
+<ul>
+<li>← [[Botulinum_Toxin_Type_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.606000+00:00'
 source: PrimeKG
-```
-- ← [[Sodium_ascorbate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:36.617000+00:00'
+</code></pre>
+<ul>
+<li>← [[Sodium_ascorbate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.617000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Modulates Neurotransmitter
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-mechanism: Reuptake Inhibition (SERT)
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">mechanism: Reuptake Inhibition (SERT)
 effect: Increases
 source: Manual
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-mechanism: Reuptake Inhibition (NET)
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">mechanism: Reuptake Inhibition (NET)
 effect: Increases
 source: Manual
-```
+</code></pre>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+<li>→ [[Neuropathic Pain]] (condition)</li>
+<li>→ [[Migraine]] (condition)</li>
+<li>→ [[Fibromyalgia]] (condition)</li>
+<li>→ [[Insomnia]] (condition)</li>
+</ul>
+<h3>Targets Protein</h3>
+<ul>
+<li>⊣ [[SERT]] (protein) - <em>Inhibits</em></li>
+<li>⊣ [[NET]] (protein) - <em>Inhibits</em></li>
+<li>⊣ [[Histamine H1 Receptor]] (protein) - <em>Antagonist (causes sedation)</em></li>
+<li>⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - <em>Antagonist (causes dry mouth)</em></li>
+</ul>
+<h3>Drug Interactions</h3>
+<ul>
+<li>↔ [[Alcohol]] - <em>Potentiates CNS depression</em></li>
+<li>↔ [[SSRI]] - <em>Risk of Serotonin Syndrome</em></li>
+<li>↔ [[MAOI]] - <em>Contraindicated</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Mechanism</strong>: Gillman, P. K. (2007). &quot;Tricyclic antidepressant pharmacology and therapeutic drug interactions updated.&quot; <em>British Journal of Pharmacology</em>.</li>
+<li><strong>Pain Management</strong>: Moore, R. A., et al. (2015). &quot;Amitriptyline for neuropathic pain in adults.&quot; <em>Cochrane Database of Systematic Reviews</em>.</li>
+<li><strong>Migraine</strong>: Jackson, J. L., et al. (2010). &quot;Tricyclic antidepressants and headaches: systematic review and meta-analysis.&quot; <em>BMJ</em>.</li>
+</ol>
 
-### Treats Condition
-- → [[Depression]] (condition)
-- → [[Neuropathic Pain]] (condition)
-- → [[Migraine]] (condition)
-- → [[Fibromyalgia]] (condition)
-- → [[Insomnia]] (condition)
-
-### Targets Protein
-- ⊣ [[SERT]] (protein) - *Inhibits*
-- ⊣ [[NET]] (protein) - *Inhibits*
-- ⊣ [[Histamine H1 Receptor]] (protein) - *Antagonist (causes sedation)*
-- ⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - *Antagonist (causes dry mouth)*
-
-### Drug Interactions
-- ↔ [[Alcohol]] - *Potentiates CNS depression*
-- ↔ [[SSRI]] - *Risk of Serotonin Syndrome*
-- ↔ [[MAOI]] - *Contraindicated*
-
-## References
-1. **Mechanism**: Gillman, P. K. (2007). "Tricyclic antidepressant pharmacology and therapeutic drug interactions updated." *British Journal of Pharmacology*.
-2. **Pain Management**: Moore, R. A., et al. (2015). "Amitriptyline for neuropathic pain in adults." *Cochrane Database of Systematic Reviews*.
-3. **Migraine**: Jackson, J. L., et al. (2010). "Tricyclic antidepressants and headaches: systematic review and meta-analysis." *BMJ*.
+{% endraw %}

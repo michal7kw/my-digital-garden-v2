@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.483690Z'
+created: '2026-02-09T05:40:20.989620Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
@@ -13,221 +13,228 @@ tags:
 - nephrology
 - metabolic
 - function-health
+templateEngineOverride: njk
 title: Kidney Stones
 type: condition
-updated: '2026-02-08T19:45:44.483690Z'
+updated: '2026-02-09T05:40:20.989620Z'
 ---
 
-# Kidney Stones
-
-## Overview
-Hard deposits made of minerals and salts that form inside the kidneys, often causing severe pain when passing through the urinary tract.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Kidney Stones</h1>
+<h2>Overview</h2>
+<p>Hard deposits made of minerals and salts that form inside the kidneys, often causing severe pain when passing through the urinary tract.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Kidney Stones]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[occult_blood_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[occult_blood_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ph_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ph_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[red_blood_cell_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[red_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[white_blood_cell_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[white_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[uric_acid]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Kidney_Stones]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:17.698895'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Kidney_Stones]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
-```
-- → [[occult_blood_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:17.698895'
+</code></pre>
+<ul>
+<li>→ [[occult_blood_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
-```
-- → [[ph_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:17.698895'
+</code></pre>
+<ul>
+<li>→ [[ph_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
-```
-- → [[red_blood_cell_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:17.698895'
+</code></pre>
+<ul>
+<li>→ [[red_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
-```
-- → [[white_blood_cell_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:17.698895'
+</code></pre>
+<ul>
+<li>→ [[white_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
-```
-- → [[uric_acid]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:17.698895'
+</code></pre>
+<ul>
+<li>→ [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:17.698895'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Kidney Stones]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Kidney Stones]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Kidney_Stones]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Kidney_Stones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-- ← [[white_blood_cell_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.794338'
+</code></pre>
+<ul>
+<li>← [[white_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.794338'
 source: obsidian
-```
-- ← [[uric_acid]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.406769'
+</code></pre>
+<ul>
+<li>← [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
 source: obsidian
-```
-- ← [[red_blood_cell_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:59.327453'
+</code></pre>
+<ul>
+<li>← [[red_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.327453'
 source: obsidian
-```
-- ← [[ph_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:58.579568'
+</code></pre>
+<ul>
+<li>← [[ph_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
 source: obsidian
-```
-- ← [[occult_blood_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:57.822281'
+</code></pre>
+<ul>
+<li>← [[occult_blood_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.822281'
 source: obsidian
-```
-- → [[occult_blood_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+</code></pre>
+<ul>
+<li>→ [[occult_blood_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-- → [[Kidney_Stones]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Stones]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-- → [[uric_acid]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+</code></pre>
+<ul>
+<li>→ [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-- → [[ph_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+</code></pre>
+<ul>
+<li>→ [[ph_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-- → [[red_blood_cell_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+</code></pre>
+<ul>
+<li>→ [[red_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-- → [[white_blood_cell_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:31.535622'
+</code></pre>
+<ul>
+<li>→ [[white_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
 source: obsidian
-```
-
-### May Detect
-- ← [[uric_acid]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[uric_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[white_blood_cell_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[white_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[red_blood_cell_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[red_blood_cell_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[ph_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[ph_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[occult_blood_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[occult_blood_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

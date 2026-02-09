@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.497580Z'
+created: '2026-02-09T05:40:21.056257Z'
 description: Inflammation of the pharynx, causing a sore throat.
 dg-home: false
 dg-publish: true
@@ -11,77 +11,60 @@ tags:
 - otolaryngology
 - infection
 - acute
+templateEngineOverride: njk
 title: Pharyngitis
 type: condition
-updated: '2026-02-08T19:45:44.497580Z'
+updated: '2026-02-09T05:40:21.056257Z'
 ---
 
-# Pharyngitis
-
-## Overview
-Inflammation of the pharynx, causing a sore throat.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Pharyngitis</h1>
+<h2>Overview</h2>
+<p>Inflammation of the pharynx, causing a sore throat.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Pharyngitis]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Pharyngitis]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:34.853231'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pharyngitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:34.853231'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Pharyngitis]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Pharyngitis]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Pharyngitis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:35.901420'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pharyngitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.901420'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

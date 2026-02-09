@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.457056Z'
+created: '2026-02-09T05:40:20.845685Z'
 description: A sudden episode of kidney failure or kidney damage that happens within
   a few hours or a few days, causing a build-up of waste products in the blood.
 dg-home: false
@@ -12,51 +12,53 @@ tags:
 - nephrology
 - acute
 - renal_failure
+templateEngineOverride: njk
 title: Acute Kidney Injury
 type: condition
-updated: '2026-02-08T19:45:44.457056Z'
+updated: '2026-02-09T05:40:20.845685Z'
 ---
 
-# Acute Kidney Injury
-
-## Overview
-
-Acute Kidney Injury (AKI), previously known as acute renal failure, is a sudden and rapid decline in kidney function. This impairment prevents the kidneys from effectively filtering waste products from the blood and maintaining the proper balance of fluids and electrolytes. AKI is common in hospitalized patients and can range from mild impairment to complete organ failure requiring dialysis.
-
-## Causes
-
-AKI causes are traditionally categorized into three types:
-1. **Prerenal:** Decreased blood flow to the kidney (e.g., dehydration, sepsis, heart failure, blood loss).
-2. **Intrinsic (Renal):** Direct damage to the kidney tissue (e.g., glomerulonephritis, acute tubular necrosis, nephrotoxic drugs like NSAIDs).
-3. **Postrenal:** Blockage of urine flow (e.g., kidney stones, enlarged prostate, bladder tumors).
-
+{% raw %}
+<h1>Acute Kidney Injury</h1>
+<h2>Overview</h2>
+<p>Acute Kidney Injury (AKI), previously known as acute renal failure, is a sudden and rapid decline in kidney function. This impairment prevents the kidneys from effectively filtering waste products from the blood and maintaining the proper balance of fluids and electrolytes. AKI is common in hospitalized patients and can range from mild impairment to complete organ failure requiring dialysis.</p>
+<h2>Causes</h2>
+<p>AKI causes are traditionally categorized into three types:</p>
+<ol>
+<li><strong>Prerenal:</strong> Decreased blood flow to the kidney (e.g., dehydration, sepsis, heart failure, blood loss).</li>
+<li><strong>Intrinsic (Renal):</strong> Direct damage to the kidney tissue (e.g., glomerulonephritis, acute tubular necrosis, nephrotoxic drugs like NSAIDs).</li>
+<li><strong>Postrenal:</strong> Blockage of urine flow (e.g., kidney stones, enlarged prostate, bladder tumors).</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Acute_Kidney_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:29.304561'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Acute_Kidney_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.304561'
 source: obsidian
-```
-- → [[Acute_Kidney_Injury]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:21.269179'
+</code></pre>
+<ul>
+<li>→ [[Acute_Kidney_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.269179'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>TREATS_CONDITION::[[Hydration]] - For prerenal AKI.<br />
+REDUCES_BIOMARKER::[[Glomerular Filtration Rate]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Creatinine]] - Increased levels indicate AKI.<br />
+ASSOCIATED_WITH_BIOMARKER::[[Blood Urea Nitrogen]]<br />
+INCREASED_RISK_OF::[[Chronic Kidney Disease]]<br />
+COMPLICATION_OF::[[Sepsis]]<br />
+COMPLICATION_OF::[[Diabetes Mellitus]]<br />
+CAUSED_BY_DRUG::[[Ibuprofen]] - Through prerenal and intrinsic mechanisms.</p>
+<h2>References</h2>
+<ul>
+<li>KDIGO Clinical Practice Guideline for Acute Kidney Injury. (2012). Kidney International Supplements.</li>
+<li>Hoste, E. A., et al. (2018). Global epidemiology and outcomes of acute kidney injury. Nature Reviews Nephrology.</li>
+<li>Mayo Clinic. Acute kidney failure.</li>
+</ul>
 
-TREATS_CONDITION::[[Hydration]] - For prerenal AKI.
-REDUCES_BIOMARKER::[[Glomerular Filtration Rate]]
-ASSOCIATED_WITH_BIOMARKER::[[Creatinine]] - Increased levels indicate AKI.
-ASSOCIATED_WITH_BIOMARKER::[[Blood Urea Nitrogen]]
-INCREASED_RISK_OF::[[Chronic Kidney Disease]]
-COMPLICATION_OF::[[Sepsis]]
-COMPLICATION_OF::[[Diabetes Mellitus]]
-CAUSED_BY_DRUG::[[Ibuprofen]] - Through prerenal and intrinsic mechanisms.
-
-## References
-
-- KDIGO Clinical Practice Guideline for Acute Kidney Injury. (2012). Kidney International Supplements.
-- Hoste, E. A., et al. (2018). Global epidemiology and outcomes of acute kidney injury. Nature Reviews Nephrology.
-- Mayo Clinic. Acute kidney failure.
+{% endraw %}

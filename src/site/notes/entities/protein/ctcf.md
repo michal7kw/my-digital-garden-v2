@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.635846Z'
+created: '2026-02-09T05:40:22.086674Z'
 description: Transcriptional repressor and insulator protein. Regulates 3D genome
   organization (TADs).
 dg-home: false
@@ -14,81 +14,97 @@ tags:
 - zinc_finger
 - imported
 - primekg
+templateEngineOverride: njk
 title: CTCF
 type: protein
-updated: '2026-02-08T19:45:44.635846Z'
+updated: '2026-02-09T05:40:22.086674Z'
 ---
 
-# CTCF
-
-## Overview
-**CTCF (CCCTC-binding factor)** is a highly conserved zinc finger protein. It is unique in its ability to function as a versatile regulatory hub.
-
-- **Insulation**: By binding between an enhancer and a promoter, it blocks their interaction, preventing inappropriate gene activation.
-- **Chromatin Looping**: It works with the **Cohesin** complex to extrude chromatin loops, organizing the genome into distinct functional domains (TADs).
-
+{% raw %}
+<h1>CTCF</h1>
+<h2>Overview</h2>
+<p><strong>CTCF (CCCTC-binding factor)</strong> is a highly conserved zinc finger protein. It is unique in its ability to function as a versatile regulatory hub.</p>
+<ul>
+<li><strong>Insulation</strong>: By binding between an enhancer and a promoter, it blocks their interaction, preventing inappropriate gene activation.</li>
+<li><strong>Chromatin Looping</strong>: It works with the <strong>Cohesin</strong> complex to extrude chromatin loops, organizing the genome into distinct functional domains (TADs).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Cancer]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:32.664708'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Cancer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
-```
-- → [[Cancer]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:29.769335'
+</code></pre>
+<ul>
+<li>→ [[Cancer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
-```
-- → [[Chromatin_Organization]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:00.096373'
+</code></pre>
+<ul>
+<li>→ [[Chromatin_Organization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.096373'
 source: obsidian
-```
-- → [[Gene_Regulation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:49:00.096373'
+</code></pre>
+<ul>
+<li>→ [[Gene_Regulation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.096373'
 source: obsidian
-```
-- → [[Gene_Regulation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.769335'
+</code></pre>
+<ul>
+<li>→ [[Gene_Regulation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
-```
-- → [[Cohesin]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.769335'
+</code></pre>
+<ul>
+<li>→ [[Cohesin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
-```
-- → [[Chromatin_Organization]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.769335'
+</code></pre>
+<ul>
+<li>→ [[Chromatin_Organization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
-```
-- → [[DNA]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.769335'
+</code></pre>
+<ul>
+<li>→ [[DNA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
-```
-- → [[CTCF]] (protein)
-```yaml
-last_modified: '2026-01-26T07:07:46.240763'
+</code></pre>
+<ul>
+<li>→ [[CTCF]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.240763'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Participates in Pathway</h3>
+<ul>
+<li>→ [[Chromatin Organization]] (pathway)</li>
+<li>→ [[Gene Regulation]] (pathway)</li>
+</ul>
+<h3>Interacts With</h3>
+<ul>
+<li>→ [[Cohesin]] (protein) - <em>Complex partner for loop extrusion</em></li>
+<li>→ [[DNA]] (cellularcomponent) - <em>Binds specific motifs</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Cancer]] (condition) - <em>Mutations disrupt boundaries, activating oncogenes</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>UniProt</strong>: P49711 (CTCF_HUMAN)</li>
+<li><strong>Review</strong>: Ong, C. T., &amp; Corces, V. G. (2014). &quot;CTCF: an architectural protein bridging genome topology and function.&quot; <em>Nature Reviews Genetics</em>.</li>
+</ol>
 
-### Participates in Pathway
-- → [[Chromatin Organization]] (pathway)
-- → [[Gene Regulation]] (pathway)
-
-### Interacts With
-- → [[Cohesin]] (protein) - *Complex partner for loop extrusion*
-- → [[DNA]] (cellularcomponent) - *Binds specific motifs*
-
-### Related Conditions
-- → [[Cancer]] (condition) - *Mutations disrupt boundaries, activating oncogenes*
-
-## References
-1. **UniProt**: P49711 (CTCF_HUMAN)
-2. **Review**: Ong, C. T., & Corces, V. G. (2014). "CTCF: an architectural protein bridging genome topology and function." *Nature Reviews Genetics*.
+{% endraw %}

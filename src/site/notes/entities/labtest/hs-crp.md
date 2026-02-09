@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.561857Z'
+created: '2026-02-09T05:40:21.375066Z'
 description: Sensitive marker of systemic inflammation. Important for cardiovascular
   risk stratification.
 dg-home: false
@@ -9,75 +9,91 @@ permalink: /garden/dev_admin/labtest/hs-crp/
 slug: hs-crp
 tags:
 - labtest
+templateEngineOverride: njk
 title: hs_crp
 type: labtest
-updated: '2026-02-08T19:45:44.561857Z'
+updated: '2026-02-09T05:40:21.375066Z'
 ---
 
-# hs-CRP (High-Sensitivity C-Reactive Protein)
-
-## Overview
-Sensitive marker of systemic inflammation. Important for cardiovascular risk stratification.
-
-**Evidence Level:** ⭐⭐⭐⭐⭐ (5/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Inflammation |
-| **Subcategory** | Inflammation Markers || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 1-3 days || **Price Range** | $25-$55 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-## Biomarkers Measured
-
-This test measures the following biomarkers:
-
-- [[hs_crp]]
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-General health screening.
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>hs-CRP (High-Sensitivity C-Reactive Protein)</h1>
+<h2>Overview</h2>
+<p>Sensitive marker of systemic inflammation. Important for cardiovascular risk stratification.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Inflammation</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Inflammation Markers</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>1-3 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li>[[hs_crp]]</li>
+</ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Hs_Crp]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:15.490367'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Hs_Crp]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:15.490367'
 source: obsidian
-```
-- ← [[Hs_Crp]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:19.365461'
+</code></pre>
+<ul>
+<li>← [[Hs_Crp]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.365461'
 source: obsidian
-```
-- → [[hs_crp]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:54.320936'
+</code></pre>
+<ul>
+<li>→ [[hs_crp]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.320936'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2025-12-28T17:32:26+0000*
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.661270Z'
+created: '2026-02-09T05:40:22.247765Z'
 description: Conditionally essential sulfur-containing amino acid abundant in heart,
   brain, and retina. Key roles in bile acid conjugation, osmoregulation, calcium signaling,
   and mitochondrial function.
@@ -15,41 +15,37 @@ tags:
 - neuroprotective
 - antioxidant
 - longevity
+templateEngineOverride: njk
 title: Taurine
 type: supplement
-updated: '2026-02-08T19:45:44.661270Z'
+updated: '2026-02-09T05:40:22.247765Z'
 ---
 
-# Taurine
-
-## Overview
-Conditionally essential sulfur-containing amino acid abundant in heart, brain, and retina. Key roles in bile acid conjugation, osmoregulation, calcium signaling, and mitochondrial function.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Taurine</h1>
+<h2>Overview</h2>
+<p>Conditionally essential sulfur-containing amino acid abundant in heart, brain, and retina. Key roles in bile acid conjugation, osmoregulation, calcium signaling, and mitochondrial function.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-
-### Affects Biomarker
-- → [[Alt]] (biomarker)
-```yaml
-effect_direction: decreases
+<h2>Relationships</h2>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Alt]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
 evidence_level: 3
 source: curated
-```
-- → [[Hs Crp]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Hs Crp]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: mild
 evidence_level: 2
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+
+{% endraw %}

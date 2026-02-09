@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.464092Z'
+created: '2026-02-09T05:40:20.878012Z'
 description: A group of disorders affecting the bone marrow's ability to produce healthy
   blood cells (red cells, white cells, or platelets).
 dg-home: false
@@ -12,140 +12,132 @@ tags:
 - hematology
 - oncology
 - function-health
+templateEngineOverride: njk
 title: Bone Marrow Disorder
 type: condition
-updated: '2026-02-08T19:45:44.464092Z'
+updated: '2026-02-09T05:40:20.878012Z'
 ---
 
-# Bone Marrow Disorder
-
-## Overview
-A group of disorders affecting the bone marrow's ability to produce healthy blood cells (red cells, white cells, or platelets).
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Bone Marrow Disorder</h1>
+<h2>Overview</h2>
+<p>A group of disorders affecting the bone marrow's ability to produce healthy blood cells (red cells, white cells, or platelets).</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Bone Marrow Disorder]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[mean_platelet_volume_mpv]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[mean_platelet_volume_mpv]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[platelet_count]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[platelet_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Bone_Marrow_Disorder]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:51.075492'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.075492'
 source: obsidian
-```
-- → [[mean_platelet_volume_mpv]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:51.075492'
+</code></pre>
+<ul>
+<li>→ [[mean_platelet_volume_mpv]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.075492'
 source: obsidian
-```
-- → [[platelet_count]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:51.075492'
+</code></pre>
+<ul>
+<li>→ [[platelet_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.075492'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Bone Marrow Disorder]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Bone Marrow Disorder]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Bone_Marrow_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:24.346890'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Bone_Marrow_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
-```
-- ← [[platelet_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:58.738195'
+</code></pre>
+<ul>
+<li>← [[platelet_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.738195'
 source: obsidian
-```
-- ← [[mean_platelet_volume_mpv]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:57.181105'
+</code></pre>
+<ul>
+<li>← [[mean_platelet_volume_mpv]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
 source: obsidian
-```
-- → [[platelet_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:24.346890'
+</code></pre>
+<ul>
+<li>→ [[platelet_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
-```
-- → [[mean_platelet_volume_mpv]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:24.346890'
+</code></pre>
+<ul>
+<li>→ [[mean_platelet_volume_mpv]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
-```
-- → [[Bone_Marrow_Disorder]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:24.346890'
+</code></pre>
+<ul>
+<li>→ [[Bone_Marrow_Disorder]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
 source: obsidian
-```
-
-### May Detect
-- ← [[platelet_count]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[platelet_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[mean_platelet_volume_mpv]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[mean_platelet_volume_mpv]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.428098Z'
+created: '2026-02-09T05:40:20.626526Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -9,30 +9,24 @@ tags:
 - biomarker
 - excalidraw
 - diagram
+templateEngineOverride: njk
 title: Drawing 2026-01-31 16.31.18.excalidraw
 type: biomarker
-updated: '2026-02-08T19:45:44.428098Z'
+updated: '2026-02-09T05:40:20.626526Z'
 ---
 
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Example Drawing ^SXKpLEA9
-
-note A ^opZYqL90
-
-note B ^4kwyy2Lh
-
-## Element Links
-ruhIj86r: [[Creatine_Kinase]]
-
-%%
-## Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAE4EmjoghH0EDihmbgBtcDBQMBKIEm4IAGUADQBpOAAZAFEAQUTUkshYRAqoLCgO0sxuZ3iADgAWbQB2AFZ+UpgRicT4
+{% raw %}
+<p><mark>⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠</mark> You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'</p>
+<h1>Excalidraw Data</h1>
+<h2>Text Elements</h2>
+<p>Example Drawing ^SXKpLEA9</p>
+<p>note A ^opZYqL90</p>
+<p>note B ^4kwyy2Lh</p>
+<h2>Element Links</h2>
+<p>ruhIj86r: [[Creatine_Kinase]]</p>
+<p>%%</p>
+<h2>Drawing</h2>
+<pre><code class="language-compressed-json">N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAE4EmjoghH0EDihmbgBtcDBQMBKIEm4IAGUADQBpOAAZAFEAQUTUkshYRAqoLCgO0sxuZ3iADgAWbQB2AFZ+UpgRicT4
 
 7QA2HnnCyAoSdW549fiFyEkEQmVpbi3TiGtlYO4ABjvmKFI2AGsEAGE2fBsUgVADE8QQ4PBg0gmlw2C+yk+Qg4xH+gOBEg+1mYcFwgWy0IgADNCPh8JVYE8JIIPIT3p8fgB1faSG5vD7fBAUmBU9A08p3JFXDjhXJoE47CBsXHYNRLcXPV6SxHCOAASWIYtQeQAuncieRMhruBwhGS7oQUVgKrhnoSkSiRcwtabzZKwghiId4tNpgBmCYTP13Rgs
 
@@ -61,5 +55,7 @@ CeYWzehAKlwAc3uE8ikp82uFGgOcTIFRALXAWAwQgCAKC6Woym2VYqiQG8N4MCA2ARAJzVH0fQFI6p6/
 OIuF9b8npoKIKeE5CNTmfDvF+W9X7/N5WUt+9+T6+KaufeTVIENgT4ZJqhwKDEy7pV+AT4AxsUvbaPm9GDYAYOXlmCCsUOEfR7xr30FzzWnzwshTWN0RBIE7xbXlxgOIApAQDpg7TV0QO5yGwQGX1wE0GCCfmZwQOXVCTIyUV0gBBnWUFhAAApQVcxeAfRqAGD6C9tZgABKQkBiZQM0PECoUgKg3AWgkNXgYQgrV4VAVgjgoAsfG8f2MvKCTgF0R
 
 1ZuO1BiK0ZdVrR7OnVdPAgGQ9QhIgVAg9WdOLVdJXbhEwnCGiDiZiSwyUfQPEH4UgBMO1bgfQmMBw0gJwnA3QlGHhIAuwLSBAKyZgSoVdOATA51Hw/A2LNXOEKCRgPcb/fAX/BmdqdIKyaeO4U3d4AwPcPRC/e+aLJnW9YkT4K3DIhQ4CDne+UIf8TIxI5IiLIAxwZgXA4If4VBOcbnLIIQWLcAQmSbYITaZSEAZSIAA
-```
-%%
+</code></pre>
+<p>%%</p>
+
+{% endraw %}

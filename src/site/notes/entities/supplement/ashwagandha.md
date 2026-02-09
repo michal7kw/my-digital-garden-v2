@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.649430Z'
+created: '2026-02-09T05:40:22.182851Z'
 description: Premier adaptogenic herb that reduces cortisol, supports thyroid function,
   and enhances stress resilience. One of the most well-researched adaptogens with
   evidence for anxiety, stress, and testosterone.
@@ -15,411 +15,464 @@ tags:
 - thyroid
 - testosterone
 - anxiety
+templateEngineOverride: njk
 title: Ashwagandha
 type: supplement
-updated: '2026-02-08T19:45:44.649430Z'
+updated: '2026-02-09T05:40:22.182851Z'
 ---
 
-# Ashwagandha
-
-## Overview
-Premier adaptogenic herb that reduces cortisol, supports thyroid function, and enhances stress resilience. One of the most well-researched adaptogens with evidence for anxiety, stress, and testosterone.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Ashwagandha</h1>
+<h2>Overview</h2>
+<p>Premier adaptogenic herb that reduces cortisol, supports thyroid function, and enhances stress resilience. One of the most well-researched adaptogens with evidence for anxiety, stress, and testosterone.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:22.394426'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:22.394426'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:21.041493'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.041493'
 source: obsidian
-```
-- ← [[Testosterone]] (hormone)
-```yaml
-last_modified: '2025-12-27T18:02:47.243106'
+</code></pre>
+<ul>
+<li>← [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:47.243106'
 source: obsidian
-```
-- ← [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-27T18:02:47.347667'
+</code></pre>
+<ul>
+<li>← [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:47.347667'
 source: obsidian
-```
-- ← [[Adrenal_Glands]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:14.973676'
+</code></pre>
+<ul>
+<li>← [[Adrenal_Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:14.973676'
 source: obsidian
-```
-- ← [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:15.846144'
+</code></pre>
+<ul>
+<li>← [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:15.846144'
 source: obsidian
-```
-- ← [[Thyroid]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:17.453107'
+</code></pre>
+<ul>
+<li>← [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:17.453107'
 source: obsidian
-```
-- ← [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2025-12-27T18:02:57.500691'
+</code></pre>
+<ul>
+<li>← [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:57.500691'
 source: obsidian
-```
-- ← [[GABA]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:17.327525'
+</code></pre>
+<ul>
+<li>← [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:17.327525'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:19.077210'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:19.077210'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Adrenal_Glands]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Glands]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Rhodiola_Rosea]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-
-### Reduced By Drug
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.188023'
+</code></pre>
+<h3>Reduced By Drug</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.188023'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Adrenal_Glands]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.419817'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Adrenal_Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.419817'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.458774'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.458774'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.383713'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.383713'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2025-12-28T11:01:18.685090'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.685090'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:22.818229'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.818229'
 source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.683616'
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.683616'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.658414'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.658414'
 source: obsidian
-```
-- → [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.633998'
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.633998'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:18.538530'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.538530'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:18.565259'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.565259'
 source: obsidian
-```
-
-### Modulates Neurotransmitter
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.592797'
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.592797'
 source: obsidian
-```
-
-### Affects Biomarker
-- → [[Cortisol]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: moderate
 evidence_level: 4
 source: curated
-```
-- → [[Tsh]] (biomarker)
-```yaml
-effect_direction: modulates
+</code></pre>
+<ul>
+<li>→ [[Tsh]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 magnitude: mild
 evidence_level: 3
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Affects Organ
-- → [[Adrenal_Glands]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.419817'
+<h2>Relationships</h2>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Adrenal_Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.419817'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.458774'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.458774'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:18.383713'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.383713'
 source: obsidian
-```
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.538530'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.565259'
+source: obsidian
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.592797'
+source: obsidian
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.658414'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.633998'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.818229'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.683616'
+source: obsidian
+</code></pre>
+<h3>Reduced By Drug</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.188023'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-29T18:55:37.731720'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Glands]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.041493'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:47.243106'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:47.347667'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Adrenal_Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:14.973676'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:15.846144'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T17:55:17.453107'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:57.500691'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:17.327525'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:19.077210'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:22.394426'
+source: obsidian
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.685090'
+source: obsidian
+</code></pre>
 
-### Modulates Hormone
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:18.538530'
-source: obsidian
-```
-- → [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:18.565259'
-source: obsidian
-```
-
-### Modulates Neurotransmitter
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.592797'
-source: obsidian
-```
-
-### Synergistic With
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.658414'
-source: obsidian
-```
-- → [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.633998'
-source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:22.818229'
-source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.683616'
-source: obsidian
-```
-
-### Reduced By Drug
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:07.188023'
-source: obsidian
-```
-
-### Related
-- ← [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2025-12-29T18:55:37.731720'
-source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Adrenal_Glands]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Thyroid_Hormones]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Rhodiola_Rosea]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-27T18:02:21.041493'
-source: obsidian
-```
-- ← [[Testosterone]] (hormone)
-```yaml
-last_modified: '2025-12-27T18:02:47.243106'
-source: obsidian
-```
-- ← [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-27T18:02:47.347667'
-source: obsidian
-```
-- ← [[Adrenal_Glands]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:14.973676'
-source: obsidian
-```
-- ← [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:15.846144'
-source: obsidian
-```
-- ← [[Thyroid]] (organ)
-```yaml
-last_modified: '2025-12-27T17:55:17.453107'
-source: obsidian
-```
-- ← [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2025-12-27T18:02:57.500691'
-source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
-source: obsidian
-```
-- ← [[GABA]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:17.327525'
-source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:19.077210'
-source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:22.394426'
-source: obsidian
-```
-
-### May Improve Condition
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2025-12-28T11:01:18.685090'
-source: obsidian
-```
+{% endraw %}

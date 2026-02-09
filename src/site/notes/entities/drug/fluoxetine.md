@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.516301Z'
+created: '2026-02-09T05:40:21.145875Z'
 description: First widely prescribed SSRI antidepressant (Prozac). Long half-life
   allows flexible dosing and easier discontinuation. FDA-approved for depression,
   OCD, panic disorder, bulimia, and PMDD.
@@ -15,42 +15,25 @@ tags:
 - anxiety
 - psychiatry
 - prescription
+templateEngineOverride: njk
 title: Fluoxetine
 type: drug
-updated: '2026-02-08T19:45:44.516301Z'
+updated: '2026-02-09T05:40:21.145875Z'
 ---
 
-# Fluoxetine
-
-## Overview
-First widely prescribed SSRI antidepressant (Prozac). Long half-life allows flexible dosing and easier discontinuation. FDA-approved for depression, OCD, panic disorder, bulimia, and PMDD.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Fluoxetine</h1>
+<h2>Overview</h2>
+<p>First widely prescribed SSRI antidepressant (Prozac). Long half-life allows flexible dosing and easier discontinuation. FDA-approved for depression, OCD, panic disorder, bulimia, and PMDD.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

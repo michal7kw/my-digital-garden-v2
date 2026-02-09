@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.572370Z'
+created: '2026-02-09T05:40:21.430280Z'
 description: Methylmalonic acid (MMA) is a substance involved in metabolism and energy
   production. MMA levels rise when vitamin B12 is low, making this one of the most
   sensitive tests for early or mild B12 deficiency—even before symptoms appear. While
@@ -14,143 +14,172 @@ permalink: /garden/dev_admin/labtest/methylmalonic-acid/
 slug: methylmalonic-acid
 tags:
 - labtest
+templateEngineOverride: njk
 title: methylmalonic_acid
 type: labtest
-updated: '2026-02-08T19:45:44.572370Z'
+updated: '2026-02-09T05:40:21.430280Z'
 ---
 
-# Methylmalonic Acid
-
-## Overview
-Methylmalonic acid (MMA) is a substance involved in metabolism and energy production. MMA levels rise when vitamin B12 is low, making this one of the most sensitive tests for early or mild B12 deficiency—even before symptoms appear. While elevated MMA usually points to low B12, it can also increase with kidney disease, thyroid problems, dehydration, certain genetic traits, or aging. Finding elevated MMA signals a chance to address diet, supplements, or underlying health issues before problems develop.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Functional Medicine |
-| **Subcategory** | Nutrient Panel || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Vitamin B12 Deficiency]]
-- [[Pernicious Anemia]]
-- [[Malabsorption]]
-- [[Chronic Kidney Disease]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Methylmalonic Acid</h1>
+<h2>Overview</h2>
+<p>Methylmalonic acid (MMA) is a substance involved in metabolism and energy production. MMA levels rise when vitamin B12 is low, making this one of the most sensitive tests for early or mild B12 deficiency—even before symptoms appear. While elevated MMA usually points to low B12, it can also increase with kidney disease, thyroid problems, dehydration, certain genetic traits, or aging. Finding elevated MMA signals a chance to address diet, supplements, or underlying health issues before problems develop.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Functional Medicine</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Nutrient Panel</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Vitamin B12 Deficiency]]</li>
+<li>[[Pernicious Anemia]]</li>
+<li>[[Malabsorption]]</li>
+<li>[[Chronic Kidney Disease]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Chronic_Kidney_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.426720'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Chronic_Kidney_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
-```
-- → [[Pernicious_Anemia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.426720'
+</code></pre>
+<ul>
+<li>→ [[Pernicious_Anemia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
-```
-- → [[Vitamin_B12_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:21.426720'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
-```
-- → [[Malabsorption]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.363959'
+</code></pre>
+<ul>
+<li>→ [[Malabsorption]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
-```
-- → [[Vitamin_B12_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:57.363959'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
-```
-- → [[Pernicious_Anemia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:57.363959'
+</code></pre>
+<ul>
+<li>→ [[Pernicious_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
-```
-- → [[Chronic_Kidney_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:57.363959'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
-```
-- ← [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.244890'
+</code></pre>
+<ul>
+<li>← [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
 source: obsidian
-```
-- ← [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.904495'
+</code></pre>
+<ul>
+<li>← [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
 source: obsidian
-```
-- → [[mthfr_gene]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:21.426720'
+</code></pre>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
-```
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:21.426720'
+</code></pre>
+<ul>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
 source: obsidian
-```
-- ← [[Pernicious_Anemia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:35.828660'
+</code></pre>
+<ul>
+<li>← [[Pernicious_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
-```
-- ← [[Chronic_Kidney_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:26.198940'
+</code></pre>
+<ul>
+<li>← [[Chronic_Kidney_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
 source: obsidian
-```
-
-### May Detect
-- → [[Chronic_Kidney_Disease]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Chronic_Kidney_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Pernicious_Anemia]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Pernicious_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[mthfr_gene]] (labtestpanel)
-- → [[extended_vitamins_minerals_nutrients]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[mthfr_gene]] (labtestpanel)</li>
+<li>→ [[extended_vitamins_minerals_nutrients]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:34.287398</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:34.287398*
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.617367Z'
+created: '2026-02-09T05:40:21.846222Z'
 description: The mitochondrial process that couples electron transport from NADH and
   FADH2 to oxygen with ATP synthesis. Produces the vast majority (~90%) of cellular
   ATP through chemiosmotic coupling across the inner mitochondrial membrane.
@@ -15,232 +15,284 @@ tags:
 - mitochondrial
 - atp_synthesis
 - respiration
+templateEngineOverride: njk
 title: Oxidative Phosphorylation
 type: pathway
-updated: '2026-02-08T19:45:44.617367Z'
+updated: '2026-02-09T05:40:21.846222Z'
 ---
 
-# Oxidative Phosphorylation
-
-## Overview
-
-Oxidative phosphorylation (OXPHOS) is the metabolic pathway that produces ATP by coupling electron transport with phosphorylation. It occurs in the inner mitochondrial membrane and is responsible for approximately 90% of cellular ATP production.
-
-The process involves two coupled systems:
-1. **Electron Transport Chain (ETC)**: Transfers electrons from NADH/FADH2 to O2
-2. **ATP Synthase**: Uses the proton gradient to synthesize ATP
-
-This coupling, explained by Peter Mitchell's chemiosmotic theory, represents one of the most important discoveries in biochemistry.
-
-## The Electron Transport Chain
-
-### Complex I (NADH:Ubiquinone Oxidoreductase)
-- **Reaction**: NADH + H⁺ + Q → NAD⁺ + QH₂
-- **Protons pumped**: 4 H⁺/2e⁻
-- **Components**: FMN, 8 iron-sulfur clusters
-- **Size**: ~45 subunits, largest respiratory complex
-- **Inhibitors**: Rotenone, metformin (mild)
-
-### Complex II (Succinate Dehydrogenase)
-- **Reaction**: Succinate + Q → Fumarate + QH₂
-- **Protons pumped**: 0 (no proton pumping)
-- **Components**: FAD, 3 iron-sulfur clusters
-- **Also**: TCA cycle enzyme
-- **Note**: Electrons enter at lower energy, fewer ATP
-
-### Complex III (Cytochrome bc1 Complex)
-- **Reaction**: QH₂ + 2 Cyt c(ox) → Q + 2 Cyt c(red) + 2H⁺
-- **Protons pumped**: 4 H⁺/2e⁻
-- **Mechanism**: Q-cycle
-- **Components**: Cytochrome b, cytochrome c1, Rieske iron-sulfur
-- **Inhibitors**: Antimycin A, myxothiazol
-
-### Complex IV (Cytochrome c Oxidase)
-- **Reaction**: 4 Cyt c(red) + O₂ + 8H⁺ → 4 Cyt c(ox) + 2H₂O + 4H⁺(pumped)
-- **Protons pumped**: 2 H⁺/2e⁻
-- **Components**: Heme a, heme a3, CuA, CuB
-- **Function**: Terminal oxidase, reduces O₂ to H₂O
-- **Inhibitors**: Cyanide, carbon monoxide, azide
-
-### Complex V (ATP Synthase)
-- **Reaction**: ADP + Pi + nH⁺(out) → ATP + nH⁺(in)
-- **Mechanism**: Rotary motor driven by proton flow
-- **Structure**: F₀ (membrane rotor) + F₁ (catalytic head)
-- **H⁺/ATP**: ~3-4 protons per ATP
-- **Inhibitors**: Oligomycin
-
-## Proton Motive Force
-
-The proton gradient (Δp) has two components:
-- **ΔpH**: Concentration gradient (~0.5 pH units)
-- **Δψ**: Electrical potential (~140 mV)
-
-**Δp = Δψ - 59·ΔpH ≈ 200 mV (equivalent)**
-
-This force drives:
-1. ATP synthesis (Complex V)
-2. Metabolite transport
-3. Heat generation (uncoupling)
-
-## ATP Yield
-
-Modern estimates of ATP per substrate:
-
-| Electron Source | H⁺ Pumped | ATP Yield |
-|-----------------|-----------|-----------|
-| NADH | 10 | ~2.5 ATP |
-| FADH2 | 6 | ~1.5 ATP |
-
-Complete glucose oxidation: ~30-32 ATP (revised from classic 36-38)
-
-## Respiratory Control
-
-ATP synthesis rate is controlled by ADP availability:
-
-- **State 3**: ADP present, maximal respiration
-- **State 4**: ADP depleted, respiration slows
-- **Coupling ratio**: State 3/State 4 (typically 4-10)
-
-This ensures ATP production matches demand.
-
-## Reactive Oxygen Species
-
-OXPHOS is the primary source of cellular ROS:
-- **Sites**: Complex I (NADH-binding site), Complex III (Q-cycle)
-- **Products**: Superoxide (O₂⁻), hydrogen peroxide (H₂O₂)
-- **Amount**: 0.1-2% of oxygen consumed
-- **Significance**: Oxidative stress, signaling, aging
-
-## Supplement Connections
-
-| Supplement | Target/Mechanism |
-|------------|------------------|
-| **[[CoQ10]]** | Electron carrier between CI/CII and CIII |
-| **[[PQQ]]** | Supports mitochondrial biogenesis |
-| **[[NMN]]** / **[[Nicotinamide Riboside]]** | NAD+ precursor for Complex I |
-| **[[Alpha Lipoic Acid]]** | Antioxidant, supports NAD+ metabolism |
-| **[[Creatine]]** | Buffers ATP via phosphocreatine |
-
-## Clinical Significance
-
-### Mitochondrial Diseases
-- Complex I deficiency (most common)
-- LHON (Leber hereditary optic neuropathy)
-- MELAS, MERRF (mtDNA mutations)
-- Leigh syndrome
-
-### Aging
-- Decline in OXPHOS capacity with age
-- Increased ROS production
-- mtDNA damage accumulation
-- Target of longevity interventions
-
-### Pharmacology
-- Metformin: mild Complex I inhibitor
-- Statins: may affect CoQ10 synthesis
-- Anesthetics: affect OXPHOS
-
+{% raw %}
+<h1>Oxidative Phosphorylation</h1>
+<h2>Overview</h2>
+<p>Oxidative phosphorylation (OXPHOS) is the metabolic pathway that produces ATP by coupling electron transport with phosphorylation. It occurs in the inner mitochondrial membrane and is responsible for approximately 90% of cellular ATP production.</p>
+<p>The process involves two coupled systems:</p>
+<ol>
+<li><strong>Electron Transport Chain (ETC)</strong>: Transfers electrons from NADH/FADH2 to O2</li>
+<li><strong>ATP Synthase</strong>: Uses the proton gradient to synthesize ATP</li>
+</ol>
+<p>This coupling, explained by Peter Mitchell's chemiosmotic theory, represents one of the most important discoveries in biochemistry.</p>
+<h2>The Electron Transport Chain</h2>
+<h3>Complex I (NADH:Ubiquinone Oxidoreductase)</h3>
+<ul>
+<li><strong>Reaction</strong>: NADH + H⁺ + Q → NAD⁺ + QH₂</li>
+<li><strong>Protons pumped</strong>: 4 H⁺/2e⁻</li>
+<li><strong>Components</strong>: FMN, 8 iron-sulfur clusters</li>
+<li><strong>Size</strong>: ~45 subunits, largest respiratory complex</li>
+<li><strong>Inhibitors</strong>: Rotenone, metformin (mild)</li>
+</ul>
+<h3>Complex II (Succinate Dehydrogenase)</h3>
+<ul>
+<li><strong>Reaction</strong>: Succinate + Q → Fumarate + QH₂</li>
+<li><strong>Protons pumped</strong>: 0 (no proton pumping)</li>
+<li><strong>Components</strong>: FAD, 3 iron-sulfur clusters</li>
+<li><strong>Also</strong>: TCA cycle enzyme</li>
+<li><strong>Note</strong>: Electrons enter at lower energy, fewer ATP</li>
+</ul>
+<h3>Complex III (Cytochrome bc1 Complex)</h3>
+<ul>
+<li><strong>Reaction</strong>: QH₂ + 2 Cyt c(ox) → Q + 2 Cyt c(red) + 2H⁺</li>
+<li><strong>Protons pumped</strong>: 4 H⁺/2e⁻</li>
+<li><strong>Mechanism</strong>: Q-cycle</li>
+<li><strong>Components</strong>: Cytochrome b, cytochrome c1, Rieske iron-sulfur</li>
+<li><strong>Inhibitors</strong>: Antimycin A, myxothiazol</li>
+</ul>
+<h3>Complex IV (Cytochrome c Oxidase)</h3>
+<ul>
+<li><strong>Reaction</strong>: 4 Cyt c(red) + O₂ + 8H⁺ → 4 Cyt c(ox) + 2H₂O + 4H⁺(pumped)</li>
+<li><strong>Protons pumped</strong>: 2 H⁺/2e⁻</li>
+<li><strong>Components</strong>: Heme a, heme a3, CuA, CuB</li>
+<li><strong>Function</strong>: Terminal oxidase, reduces O₂ to H₂O</li>
+<li><strong>Inhibitors</strong>: Cyanide, carbon monoxide, azide</li>
+</ul>
+<h3>Complex V (ATP Synthase)</h3>
+<ul>
+<li><strong>Reaction</strong>: ADP + Pi + nH⁺(out) → ATP + nH⁺(in)</li>
+<li><strong>Mechanism</strong>: Rotary motor driven by proton flow</li>
+<li><strong>Structure</strong>: F₀ (membrane rotor) + F₁ (catalytic head)</li>
+<li><strong>H⁺/ATP</strong>: ~3-4 protons per ATP</li>
+<li><strong>Inhibitors</strong>: Oligomycin</li>
+</ul>
+<h2>Proton Motive Force</h2>
+<p>The proton gradient (Δp) has two components:</p>
+<ul>
+<li><strong>ΔpH</strong>: Concentration gradient (~0.5 pH units)</li>
+<li><strong>Δψ</strong>: Electrical potential (~140 mV)</li>
+</ul>
+<p><strong>Δp = Δψ - 59·ΔpH ≈ 200 mV (equivalent)</strong></p>
+<p>This force drives:</p>
+<ol>
+<li>ATP synthesis (Complex V)</li>
+<li>Metabolite transport</li>
+<li>Heat generation (uncoupling)</li>
+</ol>
+<h2>ATP Yield</h2>
+<p>Modern estimates of ATP per substrate:</p>
+<table>
+<thead>
+<tr>
+<th>Electron Source</th>
+<th>H⁺ Pumped</th>
+<th>ATP Yield</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NADH</td>
+<td>10</td>
+<td>~2.5 ATP</td>
+</tr>
+<tr>
+<td>FADH2</td>
+<td>6</td>
+<td>~1.5 ATP</td>
+</tr>
+</tbody>
+</table>
+<p>Complete glucose oxidation: ~30-32 ATP (revised from classic 36-38)</p>
+<h2>Respiratory Control</h2>
+<p>ATP synthesis rate is controlled by ADP availability:</p>
+<ul>
+<li><strong>State 3</strong>: ADP present, maximal respiration</li>
+<li><strong>State 4</strong>: ADP depleted, respiration slows</li>
+<li><strong>Coupling ratio</strong>: State 3/State 4 (typically 4-10)</li>
+</ul>
+<p>This ensures ATP production matches demand.</p>
+<h2>Reactive Oxygen Species</h2>
+<p>OXPHOS is the primary source of cellular ROS:</p>
+<ul>
+<li><strong>Sites</strong>: Complex I (NADH-binding site), Complex III (Q-cycle)</li>
+<li><strong>Products</strong>: Superoxide (O₂⁻), hydrogen peroxide (H₂O₂)</li>
+<li><strong>Amount</strong>: 0.1-2% of oxygen consumed</li>
+<li><strong>Significance</strong>: Oxidative stress, signaling, aging</li>
+</ul>
+<h2>Supplement Connections</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Target/Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[[CoQ10]]</strong></td>
+<td>Electron carrier between CI/CII and CIII</td>
+</tr>
+<tr>
+<td><strong>[[PQQ]]</strong></td>
+<td>Supports mitochondrial biogenesis</td>
+</tr>
+<tr>
+<td><strong>[[NMN]]</strong> / <strong>[[Nicotinamide Riboside]]</strong></td>
+<td>NAD+ precursor for Complex I</td>
+</tr>
+<tr>
+<td><strong>[[Alpha Lipoic Acid]]</strong></td>
+<td>Antioxidant, supports NAD+ metabolism</td>
+</tr>
+<tr>
+<td><strong>[[Creatine]]</strong></td>
+<td>Buffers ATP via phosphocreatine</td>
+</tr>
+</tbody>
+</table>
+<h2>Clinical Significance</h2>
+<h3>Mitochondrial Diseases</h3>
+<ul>
+<li>Complex I deficiency (most common)</li>
+<li>LHON (Leber hereditary optic neuropathy)</li>
+<li>MELAS, MERRF (mtDNA mutations)</li>
+<li>Leigh syndrome</li>
+</ul>
+<h3>Aging</h3>
+<ul>
+<li>Decline in OXPHOS capacity with age</li>
+<li>Increased ROS production</li>
+<li>mtDNA damage accumulation</li>
+<li>Target of longevity interventions</li>
+</ul>
+<h3>Pharmacology</h3>
+<ul>
+<li>Metformin: mild Complex I inhibitor</li>
+<li>Statins: may affect CoQ10 synthesis</li>
+<li>Anesthetics: affect OXPHOS</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.845781'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T06:48:41.845781'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.845781'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
-```
-- → [[Nicotinamide_Riboside]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:41.845781'
+</code></pre>
+<ul>
+<li>→ [[Nicotinamide_Riboside]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
-```
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T06:48:41.845781'
+</code></pre>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:41.845781'
 source: obsidian
-```
-- → [[CoQ10]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- ← [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:10.957081'
+</code></pre>
+<ul>
+<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
-```
-- ← [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:05.909377'
+</code></pre>
+<ul>
+<li>← [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
-- → [[Nicotinamide_Riboside]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>→ [[Nicotinamide_Riboside]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- → [[PQQ]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>→ [[PQQ]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- → [[Creatine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>→ [[Creatine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- → [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>→ [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-
-### Related To
-- ← [[Creatine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Related To</h3>
+<ul>
+<li>← [[Creatine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>LOCATED_IN::[[Mitochondria]] - Inner membrane<br />
+CONSUMES::[[NADH]] - Primary electron donor<br />
+CONSUMES::[[FADH2]] - Secondary electron donor<br />
+CONSUMES::[[Oxygen]] - Terminal electron acceptor<br />
+PRODUCES::[[ATP]] - Primary product<br />
+PRODUCES::[[Water]] - Reduction product<br />
+PRODUCES::[[NAD+]] - Regenerated for metabolism<br />
+UTILIZES::[[CoQ10]] - Mobile electron carrier<br />
+INCLUDES::[[Electron Transport Chain]] - Electron flow<br />
+INCLUDES::[[ATP Synthase]] - ATP synthesis<br />
+REGULATED_BY::[[ADP]] - Respiratory control<br />
+SUPPORTED_BY::[[NMN]] - NAD+ precursor<br />
+SUPPORTED_BY::[[CoQ10]] - Electron carrier<br />
+CONNECTED_TO::[[Citric Acid Cycle]] - NADH source<br />
+CONNECTED_TO::[[Beta-Oxidation]] - NADH/FADH2 source</p>
+<h2>References</h2>
+<ul>
+<li>Mitchell P. Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. Nature. 1961;191:144-8. PMID: 13771349</li>
+<li>Hinkle PC. P/O ratios of mitochondrial oxidative phosphorylation. Biochim Biophys Acta. 2005;1706(1-2):1-11. PMID: 15620362</li>
+<li>Murphy MP. How mitochondria produce reactive oxygen species. Biochem J. 2009;417(1):1-13. PMID: 19061483</li>
+</ul>
 
-LOCATED_IN::[[Mitochondria]] - Inner membrane
-CONSUMES::[[NADH]] - Primary electron donor
-CONSUMES::[[FADH2]] - Secondary electron donor
-CONSUMES::[[Oxygen]] - Terminal electron acceptor
-PRODUCES::[[ATP]] - Primary product
-PRODUCES::[[Water]] - Reduction product
-PRODUCES::[[NAD+]] - Regenerated for metabolism
-UTILIZES::[[CoQ10]] - Mobile electron carrier
-INCLUDES::[[Electron Transport Chain]] - Electron flow
-INCLUDES::[[ATP Synthase]] - ATP synthesis
-REGULATED_BY::[[ADP]] - Respiratory control
-SUPPORTED_BY::[[NMN]] - NAD+ precursor
-SUPPORTED_BY::[[CoQ10]] - Electron carrier
-CONNECTED_TO::[[Citric Acid Cycle]] - NADH source
-CONNECTED_TO::[[Beta-Oxidation]] - NADH/FADH2 source
-
-## References
-
-- Mitchell P. Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. Nature. 1961;191:144-8. PMID: 13771349
-- Hinkle PC. P/O ratios of mitochondrial oxidative phosphorylation. Biochim Biophys Acta. 2005;1706(1-2):1-11. PMID: 15620362
-- Murphy MP. How mitochondria produce reactive oxygen species. Biochem J. 2009;417(1):1-13. PMID: 19061483
+{% endraw %}

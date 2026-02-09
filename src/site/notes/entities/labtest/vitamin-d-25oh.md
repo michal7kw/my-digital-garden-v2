@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.591920Z'
+created: '2026-02-09T05:40:21.524213Z'
 description: Primary vitamin D status marker. Important for bone health, immune function,
   and overall wellness.
 dg-home: false
@@ -9,70 +9,85 @@ permalink: /garden/dev_admin/labtest/vitamin-d-25oh/
 slug: vitamin-d-25oh
 tags:
 - labtest
+templateEngineOverride: njk
 title: vitamin_d_25oh
 type: labtest
-updated: '2026-02-08T19:45:44.591920Z'
+updated: '2026-02-09T05:40:21.524213Z'
 ---
 
-# Vitamin D (25-OH)
-
-## Overview
-Primary vitamin D status marker. Important for bone health, immune function, and overall wellness.
-
-**Evidence Level:** ⭐⭐⭐⭐⭐ (5/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Other || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 2-5 days || **Price Range** | $35-$85 || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-## Biomarkers Measured
-
-This test measures the following biomarkers:
-
-- [[vitamin_d]]
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-General health screening.
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Vitamin D (25-OH)</h1>
+<h2>Overview</h2>
+<p>Primary vitamin D status marker. Important for bone health, immune function, and overall wellness.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Other</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>2-5 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li>[[vitamin_d]]</li>
+</ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[vitamin_d]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:29.084652'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[vitamin_d]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.084652'
 source: obsidian
-```
-- → [[vitamin_d]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:08:01.541578'
+</code></pre>
+<ul>
+<li>→ [[vitamin_d]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.541578'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2025-12-28T17:32:27+0000</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2025-12-28T17:32:27+0000*
+{% endraw %}

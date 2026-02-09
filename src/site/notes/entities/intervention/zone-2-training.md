@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.539760Z'
+created: '2026-02-09T05:40:21.264519Z'
 description: Moderate-intensity aerobic exercise performed at a pace that allows for
   steady-state fat oxidation and mitochondrial development.
 dg-home: false
@@ -12,77 +12,68 @@ tags:
 - exercise
 - metabolic
 - mitochondrial_health
+templateEngineOverride: njk
 title: Zone 2 Training
 type: intervention
-updated: '2026-02-08T19:45:44.539760Z'
+updated: '2026-02-09T05:40:21.264519Z'
 ---
 
-# Zone 2 Training
-
-## Overview
-Moderate-intensity aerobic exercise performed at a pace that allows for steady-state fat oxidation and mitochondrial development.
-
-
-## Mechanism of Action
-Not specified.
-
-## Protocol
-
-
-## Safety Information
-
-
-
-
+{% raw %}
+<h1>Zone 2 Training</h1>
+<h2>Overview</h2>
+<p>Moderate-intensity aerobic exercise performed at a pace that allows for steady-state fat oxidation and mitochondrial development.</p>
+<h2>Mechanism of Action</h2>
+<p>Not specified.</p>
+<h2>Protocol</h2>
+<h2>Safety Information</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Zone_2_Training]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:49.022178'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Zone_2_Training]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.022178'
 source: obsidian
-```
-- → [[Zone_2_Training]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:49.022178'
+</code></pre>
+<ul>
+<li>→ [[Zone_2_Training]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.022178'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Related
-- → [[Zone_2_Training]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:12.453407'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Zone_2_Training]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:12.453407'
 source: obsidian
-```
-- → [[Zone_2_Training]] (intervention)
-```yaml
-last_modified: '2026-01-19T09:32:12.453407'
+</code></pre>
+<ul>
+<li>→ [[Zone_2_Training]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:12.453407'
 source: obsidian
-```
-### Influences on Biomarkers
-```dataview
-LIST effect
+</code></pre>
+<h3>Influences on Biomarkers</h3>
+<pre><code class="language-dataview">LIST effect
 FROM [[Zone 2 Training]] AND #biomarker
 SORT confidence_score DESC
-```
-
-### Conditions Treated
-```dataview
-LIST effectiveness
+</code></pre>
+<h3>Conditions Treated</h3>
+<pre><code class="language-dataview">LIST effectiveness
 FROM [[Zone 2 Training]] AND #condition
 SORT confidence_score DESC
-```
-
-### Interactions with Other Interventions
-```dataview
-LIST interaction_type
+</code></pre>
+<h3>Interactions with Other Interventions</h3>
+<pre><code class="language-dataview">LIST interaction_type
 FROM [[Zone 2 Training]] AND #intervention
 SORT confidence_score DESC
-```
+</code></pre>
+<h2>Research Support</h2>
+<p>No research studies documented yet.</p>
+<h2>References</h2>
+<p>No references available.</p>
 
-## Research Support
-No research studies documented yet.
-
-## References
-No references available.
+{% endraw %}

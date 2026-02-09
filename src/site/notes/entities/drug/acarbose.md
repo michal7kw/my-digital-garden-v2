@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.511647Z'
+created: '2026-02-09T05:40:21.116524Z'
 description: Alpha-glucosidase inhibitor that slows carbohydrate absorption. Reduces
   postprandial glucose spikes. Studied for longevity due to caloric restriction mimetic
   properties.
@@ -15,42 +15,25 @@ tags:
 - metabolic
 - longevity
 - prescription
+templateEngineOverride: njk
 title: Acarbose
 type: drug
-updated: '2026-02-08T19:45:44.511647Z'
+updated: '2026-02-09T05:40:21.116524Z'
 ---
 
-# Acarbose
-
-## Overview
-Alpha-glucosidase inhibitor that slows carbohydrate absorption. Reduces postprandial glucose spikes. Studied for longevity due to caloric restriction mimetic properties.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Acarbose</h1>
+<h2>Overview</h2>
+<p>Alpha-glucosidase inhibitor that slows carbohydrate absorption. Reduces postprandial glucose spikes. Studied for longevity due to caloric restriction mimetic properties.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

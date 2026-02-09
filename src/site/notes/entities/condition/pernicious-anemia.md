@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.497298Z'
+created: '2026-02-09T05:40:21.055297Z'
 description: An autoimmune condition characterized by the body's inability to absorb
   Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and
   neurological issues.
@@ -14,113 +14,100 @@ tags:
 - immunology
 - autoimmune
 - function-health
+templateEngineOverride: njk
 title: Pernicious Anemia
 type: condition
-updated: '2026-02-08T19:45:44.497298Z'
+updated: '2026-02-09T05:40:21.055297Z'
 ---
 
-# Pernicious Anemia
-
-## Overview
-An autoimmune condition characterized by the body's inability to absorb Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and neurological issues.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Pernicious Anemia</h1>
+<h2>Overview</h2>
+<p>An autoimmune condition characterized by the body's inability to absorb Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and neurological issues.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Pernicious Anemia]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[methylmalonic_acid]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[methylmalonic_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Pernicious_Anemia]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:34.644127'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pernicious_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:34.644127'
 source: obsidian
-```
-- → [[methylmalonic_acid]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:34.644127'
+</code></pre>
+<ul>
+<li>→ [[methylmalonic_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:34.644127'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Pernicious Anemia]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Pernicious Anemia]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Pernicious_Anemia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:35.828660'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pernicious_Anemia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
-```
-- ← [[methylmalonic_acid]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:57.363959'
+</code></pre>
+<ul>
+<li>← [[methylmalonic_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
 source: obsidian
-```
-- → [[Pernicious_Anemia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:35.828660'
+</code></pre>
+<ul>
+<li>→ [[Pernicious_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
-```
-- → [[methylmalonic_acid]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:35.828660'
+</code></pre>
+<ul>
+<li>→ [[methylmalonic_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
 source: obsidian
-```
-
-### May Detect
-- ← [[methylmalonic_acid]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[methylmalonic_acid]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

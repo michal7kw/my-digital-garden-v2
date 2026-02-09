@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.648473Z'
+created: '2026-02-09T05:40:22.175893Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
@@ -15,73 +15,120 @@ tags:
 - cognitive
 - sports_nutrition
 - growth_hormone
+templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-02-08T19:45:44.648473Z'
+updated: '2026-02-09T05:40:22.175893Z'
 ---
 
-# Alpha-GPC
-
-## Overview
-
-Alpha-GPC (L-Alpha glycerylphosphorylcholine) is the most bioavailable choline supplement, providing 40% choline by weight. It efficiently crosses the blood-brain barrier and is used clinically in Europe for cognitive disorders.
-
-**Evidence Level: 4/5** - Strong clinical evidence; pharmaceutical use in Europe.
-
-## Mechanism of Action
-
-### Cholinergic Support
-```
-Alpha-GPC
+{% raw %}
+<h1>Alpha-GPC</h1>
+<h2>Overview</h2>
+<p>Alpha-GPC (L-Alpha glycerylphosphorylcholine) is the most bioavailable choline supplement, providing 40% choline by weight. It efficiently crosses the blood-brain barrier and is used clinically in Europe for cognitive disorders.</p>
+<p><strong>Evidence Level: 4/5</strong> - Strong clinical evidence; pharmaceutical use in Europe.</p>
+<h2>Mechanism of Action</h2>
+<h3>Cholinergic Support</h3>
+<pre><code>Alpha-GPC
     ↓ (absorbed intact or hydrolyzed)
 Choline + Glycerophosphate
     ↓
 Choline → Acetylcholine (ACh)
        → Phosphatidylcholine (PC)
-```
-
-### Growth Hormone Effects
-- Activates cholinergic neurons in hypothalamus
-- Stimulates GHRH release
-- 600mg pre-exercise increased GH 44-fold (vs placebo)
-
-## Comparison with Citicoline
-
-| Aspect | Alpha-GPC | Citicoline |
-|--------|-----------|------------|
-| Choline content | 40% | 18% |
-| Additional compounds | Glycerophosphate | Cytidine (→ uridine) |
-| GH effects | Stronger | Minimal |
-| Membrane support | Via PC | Stronger |
-| Cost | Higher | Moderate |
-
-## Clinical Evidence
-
-| Application | Dose | Finding |
-|-------------|------|---------|
-| Cognitive decline | 1200mg/day | Improved cognitive scores |
-| Athletic performance | 600mg | Increased power output, GH |
-| Stroke recovery | 1000mg/day | Enhanced recovery |
-| Healthy adults | 400mg | Improved memory |
-
+</code></pre>
+<h3>Growth Hormone Effects</h3>
+<ul>
+<li>Activates cholinergic neurons in hypothalamus</li>
+<li>Stimulates GHRH release</li>
+<li>600mg pre-exercise increased GH 44-fold (vs placebo)</li>
+</ul>
+<h2>Comparison with Citicoline</h2>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th>Alpha-GPC</th>
+<th>Citicoline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Choline content</td>
+<td>40%</td>
+<td>18%</td>
+</tr>
+<tr>
+<td>Additional compounds</td>
+<td>Glycerophosphate</td>
+<td>Cytidine (→ uridine)</td>
+</tr>
+<tr>
+<td>GH effects</td>
+<td>Stronger</td>
+<td>Minimal</td>
+</tr>
+<tr>
+<td>Membrane support</td>
+<td>Via PC</td>
+<td>Stronger</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>Higher</td>
+<td>Moderate</td>
+</tr>
+</tbody>
+</table>
+<h2>Clinical Evidence</h2>
+<table>
+<thead>
+<tr>
+<th>Application</th>
+<th>Dose</th>
+<th>Finding</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cognitive decline</td>
+<td>1200mg/day</td>
+<td>Improved cognitive scores</td>
+</tr>
+<tr>
+<td>Athletic performance</td>
+<td>600mg</td>
+<td>Increased power output, GH</td>
+</tr>
+<tr>
+<td>Stroke recovery</td>
+<td>1000mg/day</td>
+<td>Enhanced recovery</td>
+</tr>
+<tr>
+<td>Healthy adults</td>
+<td>400mg</td>
+<td>Improved memory</td>
+</tr>
+</tbody>
+</table>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>AFFECTS_ORGAN::[[Brain]] - Cholinergic enhancement<br />
+PRODUCES::[[Acetylcholine]] - Direct precursor<br />
+INCREASES_EXPRESSION::[[Growth_Hormone]]<br />
+SYNERGISTIC_WITH::[[Caffeine]] - Athletic performance<br />
+SYNERGISTIC_WITH::[[Phosphatidylserine]]<br />
+SYNERGISTIC_WITH::[[Lions_Mane]]<br />
+MAY_IMPROVE_CONDITION::[[Cognitive_Impairment]]<br />
+MAY_IMPROVE_CONDITION::[[Alzheimers_Disease]]<br />
+IMPROVES_BIOMARKER::[[Power_Output]]</p>
+<h2>References</h2>
+<ul>
+<li>Parnetti L, et al. Multicentre study of l-alpha-glyceryl-phosphorylcholine vs ST200 among patients with probable senile dementia of Alzheimer's type. Drugs Aging. 1993;3(2):159-164.</li>
+<li>Ziegenfuss T, et al. Acute supplementation with alpha-glycerylphosphorylcholine augments growth hormone response to, and peak force production during, resistance exercise. J Int Soc Sports Nutr. 2008;5(Suppl 1):P15.</li>
+<li>Kawamura T, et al. Glycerophosphocholine enhances growth hormone secretion and fat oxidation in young adults. Nutrition. 2012;28(11-12):1122-1126.</li>
+</ul>
 
-AFFECTS_ORGAN::[[Brain]] - Cholinergic enhancement
-PRODUCES::[[Acetylcholine]] - Direct precursor
-INCREASES_EXPRESSION::[[Growth_Hormone]]
-SYNERGISTIC_WITH::[[Caffeine]] - Athletic performance
-SYNERGISTIC_WITH::[[Phosphatidylserine]]
-SYNERGISTIC_WITH::[[Lions_Mane]]
-MAY_IMPROVE_CONDITION::[[Cognitive_Impairment]]
-MAY_IMPROVE_CONDITION::[[Alzheimers_Disease]]
-IMPROVES_BIOMARKER::[[Power_Output]]
-
-## References
-
-- Parnetti L, et al. Multicentre study of l-alpha-glyceryl-phosphorylcholine vs ST200 among patients with probable senile dementia of Alzheimer's type. Drugs Aging. 1993;3(2):159-164.
-- Ziegenfuss T, et al. Acute supplementation with alpha-glycerylphosphorylcholine augments growth hormone response to, and peak force production during, resistance exercise. J Int Soc Sports Nutr. 2008;5(Suppl 1):P15.
-- Kawamura T, et al. Glycerophosphocholine enhances growth hormone secretion and fat oxidation in young adults. Nutrition. 2012;28(11-12):1122-1126.
+{% endraw %}

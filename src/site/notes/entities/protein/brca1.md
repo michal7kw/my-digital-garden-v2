@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.634831Z'
+created: '2026-02-09T05:40:22.080345Z'
 description: E3 ubiquitin-protein ligase that plays a central role in DNA repair (Homologous
   Recombination). Maintains genomic stability.
 dg-home: false
@@ -14,137 +14,162 @@ tags:
 - ubiquitin_ligase
 - imported
 - primekg
+templateEngineOverride: njk
 title: BRCA1
 type: protein
-updated: '2026-02-08T19:45:44.634831Z'
+updated: '2026-02-09T05:40:22.080345Z'
 ---
 
-# BRCA1
-
-## Overview
-**BRCA1** is a multifunctional tumor suppressor protein. Its most critical role is in the repair of DNA double-strand breaks via **Homologous Recombination (HR)**. Cells lacking functional BRCA1 are unable to repair these breaks accurately, leading to genomic instability and cancer susceptibility.
-
-Because BRCA1-deficient cells rely on alternative, error-prone repair pathways (like PARP-mediated base excision repair), they are exquisitely sensitive to **PARP Inhibitors** (synthetic lethality).
-
-## Function
-- **DNA Repair**: Promotes high-fidelity Homologous Recombination.
-- **Checkpoint Control**: Regulates G2/M checkpoint.
-- **Ubiquitination**: E3 ligase activity with BARD1.
-
+{% raw %}
+<h1>BRCA1</h1>
+<h2>Overview</h2>
+<p><strong>BRCA1</strong> is a multifunctional tumor suppressor protein. Its most critical role is in the repair of DNA double-strand breaks via <strong>Homologous Recombination (HR)</strong>. Cells lacking functional BRCA1 are unable to repair these breaks accurately, leading to genomic instability and cancer susceptibility.</p>
+<p>Because BRCA1-deficient cells rely on alternative, error-prone repair pathways (like PARP-mediated base excision repair), they are exquisitely sensitive to <strong>PARP Inhibitors</strong> (synthetic lethality).</p>
+<h2>Function</h2>
+<ul>
+<li><strong>DNA Repair</strong>: Promotes high-fidelity Homologous Recombination.</li>
+<li><strong>Checkpoint Control</strong>: Regulates G2/M checkpoint.</li>
+<li><strong>Ubiquitination</strong>: E3 ligase activity with BARD1.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[TP53]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:05.350587'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[TP53]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:05.350587'
 source: obsidian
-```
-- → [[DNA_Repair_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:59.585882'
+</code></pre>
+<ul>
+<li>→ [[DNA_Repair_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
-```
-- → [[Breast_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:59.585882'
+</code></pre>
+<ul>
+<li>→ [[Breast_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
-```
-- → [[Homologous_Recombination]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:59.585882'
+</code></pre>
+<ul>
+<li>→ [[Homologous_Recombination]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
-```
-- → [[Ovarian_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:59.585882'
+</code></pre>
+<ul>
+<li>→ [[Ovarian_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
-```
-- → [[Talazoparib]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[Talazoparib]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[DNA_Repair_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[DNA_Repair_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[Olaparib]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[Olaparib]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[RAD51]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[RAD51]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[Homologous_Recombination]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[Homologous_Recombination]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[BRCA2]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[BRCA2]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[BARD1]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[BARD1]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[Ovarian_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[Ovarian_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[Breast_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[Breast_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[TP53]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:29.344075'
+</code></pre>
+<ul>
+<li>→ [[TP53]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.344075'
 source: obsidian
-```
-- → [[BRCA1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:07:46.014889'
+</code></pre>
+<ul>
+<li>→ [[BRCA1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.014889'
 source: obsidian
-```
-- ← [[STAT3]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:33.987980'
+</code></pre>
+<ul>
+<li>← [[STAT3]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.987980'
 source: obsidian
-```
-- → [[STAT3]] (protein)
-```yaml
-last_modified: '2026-01-26T06:48:59.585882'
+</code></pre>
+<ul>
+<li>→ [[STAT3]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.585882'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Participates in Pathway</h3>
+<ul>
+<li>→ [[Homologous Recombination]] (pathway)</li>
+<li>→ [[DNA Repair Pathway]] (pathway)</li>
+</ul>
+<h3>Interacts With</h3>
+<ul>
+<li>→ [[BARD1]] (protein) - <em>Obligate heterodimer partner</em></li>
+<li>→ [[BRCA2]] (protein) - <em>Partner in HR</em></li>
+<li>→ [[RAD51]] (protein) - <em>Recruited by BRCA1/2</em></li>
+<li>→ [[TP53]] (protein) - <em>Regulates stability</em></li>
+</ul>
+<h3>Targeted By</h3>
+<ul>
+<li>⊣ [[Olaparib]] (drug) - <em>Synthetic Lethality (in BRCA-mutant context)</em></li>
+<li>⊣ [[Talazoparib]] (drug) - <em>Synthetic Lethality</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Breast Cancer]] (condition)</li>
+<li>→ [[Ovarian Cancer]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>UniProt</strong>: P38398 (BRCA1_HUMAN)</li>
+<li><strong>Mechanism</strong>: Roy, R., et al. (2011). &quot;BRCA1 and BRCA2: different roles in a common pathway of genome protection.&quot; <em>Nature Reviews Cancer</em>.</li>
+</ol>
 
-### Participates in Pathway
-- → [[Homologous Recombination]] (pathway)
-- → [[DNA Repair Pathway]] (pathway)
-
-### Interacts With
-- → [[BARD1]] (protein) - *Obligate heterodimer partner*
-- → [[BRCA2]] (protein) - *Partner in HR*
-- → [[RAD51]] (protein) - *Recruited by BRCA1/2*
-- → [[TP53]] (protein) - *Regulates stability*
-
-### Targeted By
-- ⊣ [[Olaparib]] (drug) - *Synthetic Lethality (in BRCA-mutant context)*
-- ⊣ [[Talazoparib]] (drug) - *Synthetic Lethality*
-
-### Related Conditions
-- → [[Breast Cancer]] (condition)
-- → [[Ovarian Cancer]] (condition)
-
-## References
-1. **UniProt**: P38398 (BRCA1_HUMAN)
-2. **Mechanism**: Roy, R., et al. (2011). "BRCA1 and BRCA2: different roles in a common pathway of genome protection." *Nature Reviews Cancer*.
+{% endraw %}

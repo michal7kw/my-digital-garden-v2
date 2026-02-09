@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.461833Z'
+created: '2026-02-09T05:40:20.869201Z'
 description: A chronic liver disease in which the body's immune system mistakenly
   attacks liver cells, causing inflammation and liver damage.
 dg-home: false
@@ -13,173 +13,172 @@ tags:
 - immunology
 - autoimmune
 - function-health
+templateEngineOverride: njk
 title: Autoimmune Hepatitis
 type: condition
-updated: '2026-02-08T19:45:44.461833Z'
+updated: '2026-02-09T05:40:20.869201Z'
 ---
 
-# Autoimmune Hepatitis
-
-## Overview
-A chronic liver disease in which the body's immune system mistakenly attacks liver cells, causing inflammation and liver damage.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Autoimmune Hepatitis</h1>
+<h2>Overview</h2>
+<p>A chronic liver disease in which the body's immune system mistakenly attacks liver cells, causing inflammation and liver damage.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Autoimmune Hepatitis]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[alanine_transaminase_alt]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- ← [[Arthralgia]] (phenotype)
-```yaml
-last_modified: '2026-01-18T17:27:07.420190'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[Arthralgia]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:27:07.420190'
 source: obsidian
-```
-- ← [[Abdominal_pain]] (phenotype)
-```yaml
-last_modified: '2026-01-18T17:27:18.378061'
+</code></pre>
+<ul>
+<li>← [[Abdominal_pain]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:27:18.378061'
 source: obsidian
-```
-- ← [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-18T17:27:33.556534'
+</code></pre>
+<ul>
+<li>← [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:27:33.556534'
 source: obsidian
-```
-- → [[Autoimmune_Hepatitis]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:49.116700'
+</code></pre>
+<ul>
+<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
-```
-- → [[alanine_transaminase_alt]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:30:49.116700'
+</code></pre>
+<ul>
+<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
-```
-- → [[Arthralgia]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:30:49.116700'
+</code></pre>
+<ul>
+<li>→ [[Arthralgia]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
-```
-- → [[Abdominal_pain]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:49.116700'
+</code></pre>
+<ul>
+<li>→ [[Abdominal_pain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:30:49.116700'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:49.116700'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Autoimmune Hepatitis]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Autoimmune Hepatitis]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Abdominal_pain]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Abdominal_pain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- → [[Autoimmune_Hepatitis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+</code></pre>
+<ul>
+<li>→ [[Autoimmune_Hepatitis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- ← [[alanine_transaminase_alt]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>← [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- → [[Autoimmune_Hepatitis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+</code></pre>
+<ul>
+<li>→ [[Autoimmune_Hepatitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- → [[Arthralgia]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+</code></pre>
+<ul>
+<li>→ [[Arthralgia]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- → [[alanine_transaminase_alt]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:23.911901'
+</code></pre>
+<ul>
+<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
 source: obsidian
-```
-- ← [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-18T17:27:33.556534'
+</code></pre>
+<ul>
+<li>← [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:27:33.556534'
 source: obsidian
-```
-- ← [[Abdominal_pain]] (phenotype)
-```yaml
-last_modified: '2026-01-18T17:27:18.378061'
+</code></pre>
+<ul>
+<li>← [[Abdominal_pain]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:27:18.378061'
 source: obsidian
-```
-- ← [[Arthralgia]] (phenotype)
-```yaml
-last_modified: '2026-01-18T17:27:07.420190'
+</code></pre>
+<ul>
+<li>← [[Arthralgia]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:27:07.420190'
 source: obsidian
-```
-
-### May Detect
-- ← [[alanine_transaminase_alt]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

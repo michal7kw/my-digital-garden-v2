@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.657888Z'
+created: '2026-02-09T05:40:22.229822Z'
 description: Essential polyunsaturated fatty acids (EPA and DHA) critical for cardiovascular
   health, brain function, and inflammation reduction. Found naturally in fatty fish
   and available as concentrated supplements.
@@ -14,275 +14,305 @@ tags:
 - cardiovascular
 - anti_inflammatory
 - brain_health
+templateEngineOverride: njk
 title: Omega-3 Fatty Acids
 type: supplement
-updated: '2026-02-08T19:45:44.657888Z'
+updated: '2026-02-09T05:40:22.229822Z'
 ---
 
-# Omega-3 Fatty Acids
-
-## Overview
-Essential polyunsaturated fatty acids (EPA and DHA) critical for cardiovascular health, brain function, and inflammation reduction. Found naturally in fatty fish and available as concentrated supplements.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Omega-3 Fatty Acids</h1>
+<h2>Overview</h2>
+<p>Essential polyunsaturated fatty acids (EPA and DHA) critical for cardiovascular health, brain function, and inflammation reduction. Found naturally in fatty fish and available as concentrated supplements.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Hdl]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:13.379048'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Hdl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.379048'
 source: obsidian
-```
-- ← [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:17.986638'
+</code></pre>
+<ul>
+<li>← [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.986638'
 source: obsidian
-```
-- ← [[Ldl]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:14.497617'
+</code></pre>
+<ul>
+<li>← [[Ldl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.497617'
 source: obsidian
-```
-- ← [[Hs_Crp]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:13.822195'
+</code></pre>
+<ul>
+<li>← [[Hs_Crp]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.822195'
 source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Ldl]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:42:53.153209'
+</code></pre>
+<ul>
+<li>→ [[Ldl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.153209'
 source: obsidian
-```
-- → [[Hs_Crp]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:53.153209'
+</code></pre>
+<ul>
+<li>→ [[Hs_Crp]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.153209'
 source: obsidian
-```
-- → [[Hdl]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:42:53.153209'
+</code></pre>
+<ul>
+<li>→ [[Hdl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.153209'
 source: obsidian
-```
-- → [[Keto_Diet]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Keto_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Vitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[CoQ10]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[VLDL]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[VLDL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Omega-3_Index]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Index]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Kidney_Stress_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Stress_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[hs-CRP]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Hypertension]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Joints]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Joints]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Eyes]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Eyes]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-
-### Improves Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:24.349991'
+</code></pre>
+<h3>Improves Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.349991'
 source: obsidian
-```
-
-### Related To
-- → [[Keto_Diet]] (intervention)
-```yaml
-last_modified: '2025-12-28T11:01:24.650561'
+</code></pre>
+<h3>Related To</h3>
+<ul>
+<li>→ [[Keto_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.650561'
 source: obsidian
-```
-
-### Increases Biomarker
-- → [[Omega-3_Index]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>→ [[Omega-3_Index]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
 last_modified: '2026-01-26T07:08:39.853055'
 magnitude: strong
 magnitude_range: 4-8% absolute increase
-notes: Direct supplementation effect. Target >8% for cardiovascular protection.
+notes: Direct supplementation effect. Target &gt;8% for cardiovascular protection.
 onset_timeframe: 4-8 weeks
 population_context: general
 source: obsidian
 study_references:
 - PMID:24558110
 - PMID:29754316
-```
-
-### Affects Organ
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.114762'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.114762'
 source: obsidian
-```
-- → [[Eyes]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.168501'
+</code></pre>
+<ul>
+<li>→ [[Eyes]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.168501'
 source: obsidian
-```
-- → [[Joints]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.195233'
+</code></pre>
+<ul>
+<li>→ [[Joints]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.195233'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.143491'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.143491'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Hypertension]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:24.377214'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.377214'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:24.404652'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.404652'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2025-12-28T11:01:24.461317'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.461317'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:20.437235'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.437235'
 source: obsidian
-```
-- ← [[Vitamin_D]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:28.208162'
+</code></pre>
+<ul>
+<li>← [[Vitamin_D]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.208162'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.619060'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.619060'
 source: obsidian
-```
-
-### Modulates Neurotransmitter
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:24.222648'
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.222648'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:24.249170'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.249170'
 source: obsidian
-```
-
-### Decreases Biomarker
-- → [[Triglycerides]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
 last_modified: '2026-01-26T07:08:39.853055'
 magnitude: strong
@@ -295,25 +325,27 @@ source: obsidian
 study_references:
 - PMID:30586774
 - PMID:31422671
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 3
 last_modified: '2026-01-26T07:08:39.853055'
 magnitude: mild
 magnitude_range: 2-4 mmHg systolic
-notes: Effect via improved endothelial function. More pronounced with >3g/day EPA+DHA.
+notes: Effect via improved endothelial function. More pronounced with &gt;3g/day EPA+DHA.
 onset_timeframe: 8-12 weeks
 population_context: hypertensive
 source: obsidian
 study_references:
 - PMID:24610882
 - PMID:28493050
-```
-- → [[VLDL]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[VLDL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:39.853055'
 magnitude: moderate
@@ -324,10 +356,11 @@ population_context: elevated triglycerides
 source: obsidian
 study_references:
 - PMID:31422671
-```
-- → [[hs-CRP]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:39.853055'
 magnitude: moderate
@@ -340,215 +373,243 @@ source: obsidian
 study_references:
 - PMID:29215416
 - PMID:24505395
-```
-
-### Improved By Supplement
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:20.311340'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
-```
-- ← [[Kidney_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:21.334944'
+</code></pre>
+<ul>
+<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.334944'
 source: obsidian
-```
-
-### Affects Biomarker
-- → [[Hs Crp]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Hs Crp]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 magnitude: moderate
 evidence_level: 4
 source: curated
-```
-- → [[Hdl]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Hdl]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 magnitude: mild
 evidence_level: 3
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Affects Organ
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.114762'
+<h2>Relationships</h2>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.114762'
 source: obsidian
-```
-- → [[Eyes]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.168501'
+</code></pre>
+<ul>
+<li>→ [[Eyes]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.168501'
 source: obsidian
-```
-- → [[Joints]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.195233'
+</code></pre>
+<ul>
+<li>→ [[Joints]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.195233'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:24.143491'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.143491'
 source: obsidian
-```
-
-### Modulates Neurotransmitter
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:24.222648'
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.222648'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:24.249170'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.249170'
 source: obsidian
-```
-
-### Improves Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:24.349991'
+</code></pre>
+<h3>Improves Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.349991'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Hypertension]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:24.377214'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.377214'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:24.404652'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.404652'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2025-12-28T11:01:24.461317'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.461317'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:20.437235'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:20.437235'
 source: obsidian
-```
-- → [[CoQ10]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.567405'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.567405'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.619060'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.619060'
 source: obsidian
-```
-- ← [[Vitamin_D]] (biomarker)
-```yaml
-last_modified: '2025-12-28T11:01:28.208162'
+</code></pre>
+<ul>
+<li>← [[Vitamin_D]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.208162'
 source: obsidian
-```
-
-### Related To
-- → [[Keto_Diet]] (intervention)
-```yaml
-last_modified: '2025-12-28T11:01:24.650561'
+</code></pre>
+<h3>Related To</h3>
+<ul>
+<li>→ [[Keto_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.650561'
 source: obsidian
-```
-
-### Related
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Vitamin_D]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_D]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Keto_Diet]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Keto_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Hypertension]] (condition)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Curcumin]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Curcumin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[CoQ10]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Joints]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Joints]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Eyes]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Eyes]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-
-### Decreases Biomarker
-- → [[Triglycerides]] (biomarker)
-```yaml
-effect_direction: decreases
+</code></pre>
+<h3>Decreases Biomarker</h3>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 5
 last_modified: '2026-01-19T09:07:12.526277'
 magnitude: strong
@@ -561,10 +622,11 @@ source: obsidian
 study_references:
 - PMID:30586774
 - PMID:31422671
-```
-- → [[hs-CRP]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[hs-CRP]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:12.526277'
 magnitude: moderate
@@ -577,25 +639,27 @@ source: obsidian
 study_references:
 - PMID:29215416
 - PMID:24505395
-```
-- → [[Blood_Pressure]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[Blood_Pressure]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 3
 last_modified: '2026-01-19T09:07:12.526277'
 magnitude: mild
 magnitude_range: 2-4 mmHg systolic
-notes: Effect via improved endothelial function. More pronounced with >3g/day EPA+DHA.
+notes: Effect via improved endothelial function. More pronounced with &gt;3g/day EPA+DHA.
 onset_timeframe: 8-12 weeks
 population_context: hypertensive
 source: obsidian
 study_references:
 - PMID:24610882
 - PMID:28493050
-```
-- → [[VLDL]] (entity)
-```yaml
-effect_direction: decreases
+</code></pre>
+<ul>
+<li>→ [[VLDL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: decreases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:12.526277'
 magnitude: moderate
@@ -606,38 +670,42 @@ population_context: elevated triglycerides
 source: obsidian
 study_references:
 - PMID:31422671
-```
-
-### Increases Biomarker
-- → [[Omega-3_Index]] (entity)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>→ [[Omega-3_Index]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 5
 last_modified: '2026-01-19T09:07:12.526277'
 magnitude: strong
 magnitude_range: 4-8% absolute increase
-notes: Direct supplementation effect. Target >8% for cardiovascular protection.
+notes: Direct supplementation effect. Target &gt;8% for cardiovascular protection.
 onset_timeframe: 4-8 weeks
 population_context: general
 source: obsidian
 study_references:
 - PMID:24558110
 - PMID:29754316
-```
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:04:55.233761'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Kidney_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:04:58.085415'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:04:59.412832'
+source: obsidian
+</code></pre>
 
-### Improved By Supplement
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:04:55.233761'
-source: obsidian
-```
-- ← [[Kidney_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:04:58.085415'
-source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:04:59.412832'
-source: obsidian
-```
+{% endraw %}

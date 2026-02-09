@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.530314Z'
+created: '2026-02-09T05:40:21.219248Z'
 description: Encodes the Androgen Receptor, a DNA-binding transcription factor that
   regulates gene expression in response to androgens.
 dg-home: false
@@ -13,21 +13,25 @@ tags:
 - transcription_factor
 - imported
 - primekg
+templateEngineOverride: njk
 title: AR
 type: gene
-updated: '2026-02-08T19:45:44.530314Z'
+updated: '2026-02-09T05:40:21.219248Z'
 ---
 
-# AR
+{% raw %}
+<h1>AR</h1>
+<h2>Overview</h2>
+<p>The <strong>AR</strong> gene encodes the <strong>Androgen Receptor</strong>, a nuclear receptor superfamily member. Upon binding androgenic hormones (testosterone, dihydrotestosterone), it translocates to the nucleus and regulates the expression of genes involved in male sexual development and maintenance.</p>
+<p>Mutations in this gene are associated with Androgen Insensitivity Syndrome (AIS) and Spinal Bulbar Muscular Atrophy (Kennedy's disease). It is a key driver and therapeutic target in <strong>Prostate Cancer</strong>.</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[AR]] (protein) - <em>Encodes</em></li>
+<li>→ [[Prostate Cancer]] (condition) - <em>Driver</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Genetics</strong>: Quigley, C. A., et al. (1995). &quot;Androgen receptor defects: historical, clinical, and molecular perspectives.&quot; <em>Endocrine Reviews</em>.</li>
+</ol>
 
-## Overview
-The **AR** gene encodes the **Androgen Receptor**, a nuclear receptor superfamily member. Upon binding androgenic hormones (testosterone, dihydrotestosterone), it translocates to the nucleus and regulates the expression of genes involved in male sexual development and maintenance.
-
-Mutations in this gene are associated with Androgen Insensitivity Syndrome (AIS) and Spinal Bulbar Muscular Atrophy (Kennedy's disease). It is a key driver and therapeutic target in **Prostate Cancer**.
-
-## Relationships
-- → [[AR]] (protein) - *Encodes*
-- → [[Prostate Cancer]] (condition) - *Driver*
-
-## References
-1. **Genetics**: Quigley, C. A., et al. (1995). "Androgen receptor defects: historical, clinical, and molecular perspectives." *Endocrine Reviews*.
+{% endraw %}

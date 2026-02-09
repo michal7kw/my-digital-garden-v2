@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.518637Z'
+created: '2026-02-09T05:40:21.155966Z'
 description: Mood stabilizer and gold standard for bipolar disorder. Also studied
   at micro-doses for neuroprotection and longevity. Modulates multiple signaling pathways
   including GSK-3β and inositol.
@@ -15,52 +15,37 @@ tags:
 - neuroprotective
 - psychiatry
 - prescription
+templateEngineOverride: njk
 title: Lithium
 type: drug
-updated: '2026-02-08T19:45:44.518637Z'
+updated: '2026-02-09T05:40:21.155966Z'
 ---
 
-# Lithium
-
-## Overview
-Mood stabilizer and gold standard for bipolar disorder. Also studied at micro-doses for neuroprotection and longevity. Modulates multiple signaling pathways including GSK-3β and inositol.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Lithium</h1>
+<h2>Overview</h2>
+<p>Mood stabilizer and gold standard for bipolar disorder. Also studied at micro-doses for neuroprotection and longevity. Modulates multiple signaling pathways including GSK-3β and inositol.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Tau_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:59.488112'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.488112'
 source: obsidian
-```
-- ← [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.950584'
+</code></pre>
+<ul>
+<li>← [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

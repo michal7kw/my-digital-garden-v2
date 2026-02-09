@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.609181Z'
+created: '2026-02-09T05:40:21.771521Z'
 description: The cellular degradation and recycling system that removes damaged organelles
   and protein aggregates. Dysfunction contributes to accumulation of toxic proteins
   in neurodegenerative diseases.
@@ -14,327 +14,380 @@ tags:
 - autophagy
 - lysosome
 - proteostasis
+templateEngineOverride: njk
 title: Autophagy-Lysosomal Pathway
 type: pathway
-updated: '2026-02-08T19:45:44.609181Z'
+updated: '2026-02-09T05:40:21.771521Z'
 ---
 
-# Autophagy-Lysosomal Pathway
-
-## Overview
-The autophagy-lysosomal pathway (ALP) is the primary cellular system for degrading and recycling long-lived proteins, protein aggregates, and damaged organelles. Autophagy ("self-eating") delivers cargo to lysosomes for breakdown. In neurons, which are post-mitotic and cannot dilute toxic proteins through cell division, a functional ALP is critical for survival. Dysfunction of this pathway is implicated in virtually all neurodegenerative diseases.
-
-## Types of Autophagy
-
-### Macroautophagy
-- Most studied form
-- Double-membrane vesicles (autophagosomes) engulf cargo
-- Autophagosomes fuse with lysosomes
-- Bulk degradation
-
-### Chaperone-Mediated Autophagy (CMA)
-- Selective degradation via KFFERQ-like motifs
-- HSC70 recognizes substrates
-- LAMP2A receptor on lysosome
-- Direct translocation into lysosome
-
-### Microautophagy
-- Direct invagination of lysosomal membrane
-- Less characterized in neurons
-
-## Macroautophagy Steps
-
-### 1. Initiation
-- **ULK1 complex**: Senses nutrient/energy status
-- mTORC1 inhibition activates autophagy
-- AMPK activation promotes autophagy
-
-### 2. Nucleation
-- **Beclin-1 complex**: VPS34, ATG14
-- PI3P production
-- Omegasome formation
-
-### 3. Elongation
-- **ATG5-ATG12-ATG16L complex**
-- **LC3-II**: Lipidated LC3 marks autophagosome membrane
-- Membrane expansion
-
-### 4. Cargo Recognition
-- **p62/SQSTM1**: Ubiquitin-binding adaptor
-- **OPTN, NBR1, NDP52**: Additional adaptors
-- Selective autophagy of aggregates (aggrephagy)
-
-### 5. Fusion
-- Autophagosome-lysosome fusion
-- SNARE proteins, Rab7
-- Autolysosome formation
-
-### 6. Degradation
-- Lysosomal hydrolases (cathepsins)
-- Acidic pH (~4.5)
-- Nutrient recycling
-
-## Regulation
-
-### Inhibitors of Autophagy
-- **mTORC1**: Master negative regulator
-- Fed state, growth factors
-- High amino acids
-
-### Activators of Autophagy
-- **AMPK**: Energy sensor; activates autophagy
-- Starvation, caloric restriction
-- Exercise
-- Rapamycin (mTOR inhibitor)
-- Spermidine, resveratrol
-
-## Dysfunction in Disease
-
-### Alzheimer's Disease
-- Autophagosome accumulation
-- Lysosomal acidification defects (presenilin)
-- APOE4 impairs autophagy
-- Aβ and tau accumulate
-
-### Parkinson's Disease
-- PINK1/Parkin mitophagy defects
-- α-synuclein impairs autophagy
-- GBA1 mutations → lysosomal dysfunction
-- LRRK2 affects autophagy
-
-### Huntington's Disease
-- Mutant huntingtin impairs cargo recognition
-- p62 dysfunction
-- Autophagosome formation defects
-
-### ALS
-- TDP-43, FUS, C9orf72 affect autophagy
-- Stress granule accumulation
-- Autophagy receptor mutations
-
-### Lysosomal Storage Disorders
-- Enzyme deficiencies
-- Substrate accumulation
-- Secondary autophagy block
-
+{% raw %}
+<h1>Autophagy-Lysosomal Pathway</h1>
+<h2>Overview</h2>
+<p>The autophagy-lysosomal pathway (ALP) is the primary cellular system for degrading and recycling long-lived proteins, protein aggregates, and damaged organelles. Autophagy (&quot;self-eating&quot;) delivers cargo to lysosomes for breakdown. In neurons, which are post-mitotic and cannot dilute toxic proteins through cell division, a functional ALP is critical for survival. Dysfunction of this pathway is implicated in virtually all neurodegenerative diseases.</p>
+<h2>Types of Autophagy</h2>
+<h3>Macroautophagy</h3>
+<ul>
+<li>Most studied form</li>
+<li>Double-membrane vesicles (autophagosomes) engulf cargo</li>
+<li>Autophagosomes fuse with lysosomes</li>
+<li>Bulk degradation</li>
+</ul>
+<h3>Chaperone-Mediated Autophagy (CMA)</h3>
+<ul>
+<li>Selective degradation via KFFERQ-like motifs</li>
+<li>HSC70 recognizes substrates</li>
+<li>LAMP2A receptor on lysosome</li>
+<li>Direct translocation into lysosome</li>
+</ul>
+<h3>Microautophagy</h3>
+<ul>
+<li>Direct invagination of lysosomal membrane</li>
+<li>Less characterized in neurons</li>
+</ul>
+<h2>Macroautophagy Steps</h2>
+<h3>1. Initiation</h3>
+<ul>
+<li><strong>ULK1 complex</strong>: Senses nutrient/energy status</li>
+<li>mTORC1 inhibition activates autophagy</li>
+<li>AMPK activation promotes autophagy</li>
+</ul>
+<h3>2. Nucleation</h3>
+<ul>
+<li><strong>Beclin-1 complex</strong>: VPS34, ATG14</li>
+<li>PI3P production</li>
+<li>Omegasome formation</li>
+</ul>
+<h3>3. Elongation</h3>
+<ul>
+<li><strong>ATG5-ATG12-ATG16L complex</strong></li>
+<li><strong>LC3-II</strong>: Lipidated LC3 marks autophagosome membrane</li>
+<li>Membrane expansion</li>
+</ul>
+<h3>4. Cargo Recognition</h3>
+<ul>
+<li><strong>p62/SQSTM1</strong>: Ubiquitin-binding adaptor</li>
+<li><strong>OPTN, NBR1, NDP52</strong>: Additional adaptors</li>
+<li>Selective autophagy of aggregates (aggrephagy)</li>
+</ul>
+<h3>5. Fusion</h3>
+<ul>
+<li>Autophagosome-lysosome fusion</li>
+<li>SNARE proteins, Rab7</li>
+<li>Autolysosome formation</li>
+</ul>
+<h3>6. Degradation</h3>
+<ul>
+<li>Lysosomal hydrolases (cathepsins)</li>
+<li>Acidic pH (~4.5)</li>
+<li>Nutrient recycling</li>
+</ul>
+<h2>Regulation</h2>
+<h3>Inhibitors of Autophagy</h3>
+<ul>
+<li><strong>mTORC1</strong>: Master negative regulator</li>
+<li>Fed state, growth factors</li>
+<li>High amino acids</li>
+</ul>
+<h3>Activators of Autophagy</h3>
+<ul>
+<li><strong>AMPK</strong>: Energy sensor; activates autophagy</li>
+<li>Starvation, caloric restriction</li>
+<li>Exercise</li>
+<li>Rapamycin (mTOR inhibitor)</li>
+<li>Spermidine, resveratrol</li>
+</ul>
+<h2>Dysfunction in Disease</h2>
+<h3>Alzheimer's Disease</h3>
+<ul>
+<li>Autophagosome accumulation</li>
+<li>Lysosomal acidification defects (presenilin)</li>
+<li>APOE4 impairs autophagy</li>
+<li>Aβ and tau accumulate</li>
+</ul>
+<h3>Parkinson's Disease</h3>
+<ul>
+<li>PINK1/Parkin mitophagy defects</li>
+<li>α-synuclein impairs autophagy</li>
+<li>GBA1 mutations → lysosomal dysfunction</li>
+<li>LRRK2 affects autophagy</li>
+</ul>
+<h3>Huntington's Disease</h3>
+<ul>
+<li>Mutant huntingtin impairs cargo recognition</li>
+<li>p62 dysfunction</li>
+<li>Autophagosome formation defects</li>
+</ul>
+<h3>ALS</h3>
+<ul>
+<li>TDP-43, FUS, C9orf72 affect autophagy</li>
+<li>Stress granule accumulation</li>
+<li>Autophagy receptor mutations</li>
+</ul>
+<h3>Lysosomal Storage Disorders</h3>
+<ul>
+<li>Enzyme deficiencies</li>
+<li>Substrate accumulation</li>
+<li>Secondary autophagy block</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Parkinsons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Parkinsons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Amyloid_Cascade]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Cascade]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Ubiquitin-Proteasome_System]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Ubiquitin-Proteasome_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Intermittent_Fasting]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Intermittent_Fasting]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Huntingtons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Huntingtons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[mTOR_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[mTOR_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Caloric_Restriction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Caloric_Restriction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.063840'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[AMPK]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[AMPK]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[mTOR_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[mTOR_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Ubiquitin-Proteasome_System]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Ubiquitin-Proteasome_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- ← [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:10.957081'
+</code></pre>
+<ul>
+<li>← [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
 source: obsidian
-```
-- → [[Amyloid_Cascade]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Cascade]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Mitophagy]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Mitophagy]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Rapamycin]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Rapamycin]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Amyotrophic_Lateral_Sclerosis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Amyotrophic_Lateral_Sclerosis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Spermidine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Spermidine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Exercise]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Exercise]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Caloric_Restriction]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Caloric_Restriction]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Intermittent_Fasting]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Intermittent_Fasting]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
-- → [[Huntingtons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>→ [[Huntingtons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Neurodegenerative Diseases</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Lysosomal dysfunction</em></li>
+<li>→ [[Parkinson's Disease]] (condition) - <em>Mitophagy defects</em></li>
+<li>→ [[Huntington's Disease]] (condition) - <em>Cargo recognition impaired</em></li>
+<li>→ [[Amyotrophic Lateral Sclerosis]] (condition) - <em>Autophagy gene mutations</em></li>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>C9orf72, GRN involvement</em></li>
+</ul>
+<h3>Related Pathways</h3>
+<ul>
+<li>→ [[Mitophagy]] (pathway) - <em>Selective mitochondria autophagy</em></li>
+<li>→ [[Ubiquitin-Proteasome System]] (pathway) - <em>Complementary degradation</em></li>
+<li>→ [[mTOR Signaling]] (pathway) - <em>Master regulator</em></li>
+<li>← [[AMPK]] (protein) - <em>Autophagy activator</em></li>
+</ul>
+<h3>Pathological Cargo</h3>
+<ul>
+<li>← [[Alpha-Synuclein Aggregation]] (pathway) - <em>Cleared by autophagy</em></li>
+<li>← [[Tau Phosphorylation]] (pathway) - <em>Tau degraded by autophagy/CMA</em></li>
+<li>← [[Amyloid Cascade]] (pathway) - <em>Aβ cleared by autophagy</em></li>
+</ul>
+<h3>Interventions</h3>
+<ul>
+<li>← [[Caloric Restriction]] (intervention) - <em>Potent autophagy inducer</em></li>
+<li>← [[Exercise]] (intervention) - <em>Activates AMPK, autophagy</em></li>
+<li>← [[Rapamycin]] (drug) - <em>mTOR inhibitor; autophagy inducer</em></li>
+<li>← [[Spermidine]] (supplement) - <em>Autophagy enhancer</em></li>
+<li>← [[Intermittent Fasting]] (intervention) - <em>Autophagy activation</em></li>
+</ul>
+<h2>Therapeutic Strategies</h2>
+<h3>Autophagy Inducers</h3>
+<ul>
+<li>Rapamycin/rapalogs (mTOR inhibition)</li>
+<li>AMPK activators (metformin, AICAR)</li>
+<li>Trehalose (mTOR-independent)</li>
+<li>Spermidine</li>
+</ul>
+<h3>Lysosomal Enhancement</h3>
+<ul>
+<li>Acidification restoration</li>
+<li>Enzyme replacement (LSDs)</li>
+<li>Gene therapy for lysosomal enzymes</li>
+</ul>
+<h3>Substrate Reduction</h3>
+<ul>
+<li>Reduce toxic protein production</li>
+<li>Antisense oligonucleotides</li>
+<li>Small molecule aggregation inhibitors</li>
+</ul>
+<h3>Lifestyle</h3>
+<ul>
+<li>Caloric restriction mimetics</li>
+<li>Exercise prescription</li>
+<li>Intermittent fasting protocols</li>
+<li>Time-restricted eating</li>
+</ul>
+<h2>Biomarkers</h2>
+<h3>Autophagy Markers</h3>
+<ul>
+<li>LC3-II/LC3-I ratio</li>
+<li>p62/SQSTM1 levels</li>
+<li>Autophagy flux assays</li>
+</ul>
+<h3>Lysosomal Markers</h3>
+<ul>
+<li>Cathepsin activity</li>
+<li>LAMP1/LAMP2 levels</li>
+<li>Lysosomal pH</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Review</strong>: Menzies, F.M., et al. (2017). &quot;Autophagy and neurodegeneration.&quot; <em>Molecular Cell</em>.</li>
+<li><strong>Parkinson's</strong>: Nguyen, M., et al. (2019). &quot;Autophagy and Parkinson's disease.&quot; <em>Journal of Parkinson's Disease</em>.</li>
+<li><strong>Therapeutics</strong>: Rubinsztein, D.C., et al. (2015). &quot;Autophagy modulation as a potential therapeutic target.&quot; <em>Nature Reviews Drug Discovery</em>.</li>
+</ol>
 
-### Neurodegenerative Diseases
-- → [[Alzheimer's Disease]] (condition) - *Lysosomal dysfunction*
-- → [[Parkinson's Disease]] (condition) - *Mitophagy defects*
-- → [[Huntington's Disease]] (condition) - *Cargo recognition impaired*
-- → [[Amyotrophic Lateral Sclerosis]] (condition) - *Autophagy gene mutations*
-- → [[Frontotemporal Dementia]] (condition) - *C9orf72, GRN involvement*
-
-### Related Pathways
-- → [[Mitophagy]] (pathway) - *Selective mitochondria autophagy*
-- → [[Ubiquitin-Proteasome System]] (pathway) - *Complementary degradation*
-- → [[mTOR Signaling]] (pathway) - *Master regulator*
-- ← [[AMPK]] (protein) - *Autophagy activator*
-
-### Pathological Cargo
-- ← [[Alpha-Synuclein Aggregation]] (pathway) - *Cleared by autophagy*
-- ← [[Tau Phosphorylation]] (pathway) - *Tau degraded by autophagy/CMA*
-- ← [[Amyloid Cascade]] (pathway) - *Aβ cleared by autophagy*
-
-### Interventions
-- ← [[Caloric Restriction]] (intervention) - *Potent autophagy inducer*
-- ← [[Exercise]] (intervention) - *Activates AMPK, autophagy*
-- ← [[Rapamycin]] (drug) - *mTOR inhibitor; autophagy inducer*
-- ← [[Spermidine]] (supplement) - *Autophagy enhancer*
-- ← [[Intermittent Fasting]] (intervention) - *Autophagy activation*
-
-## Therapeutic Strategies
-
-### Autophagy Inducers
-- Rapamycin/rapalogs (mTOR inhibition)
-- AMPK activators (metformin, AICAR)
-- Trehalose (mTOR-independent)
-- Spermidine
-
-### Lysosomal Enhancement
-- Acidification restoration
-- Enzyme replacement (LSDs)
-- Gene therapy for lysosomal enzymes
-
-### Substrate Reduction
-- Reduce toxic protein production
-- Antisense oligonucleotides
-- Small molecule aggregation inhibitors
-
-### Lifestyle
-- Caloric restriction mimetics
-- Exercise prescription
-- Intermittent fasting protocols
-- Time-restricted eating
-
-## Biomarkers
-
-### Autophagy Markers
-- LC3-II/LC3-I ratio
-- p62/SQSTM1 levels
-- Autophagy flux assays
-
-### Lysosomal Markers
-- Cathepsin activity
-- LAMP1/LAMP2 levels
-- Lysosomal pH
-
-## References
-1. **Review**: Menzies, F.M., et al. (2017). "Autophagy and neurodegeneration." *Molecular Cell*.
-2. **Parkinson's**: Nguyen, M., et al. (2019). "Autophagy and Parkinson's disease." *Journal of Parkinson's Disease*.
-3. **Therapeutics**: Rubinsztein, D.C., et al. (2015). "Autophagy modulation as a potential therapeutic target." *Nature Reviews Drug Discovery*.
+{% endraw %}

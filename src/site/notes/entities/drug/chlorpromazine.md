@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.514482Z'
+created: '2026-02-09T05:40:21.131322Z'
 description: First-generation typical antipsychotic used for schizophrenia, manic
   episodes, and nausea. Acts primarily as a dopamine D2 receptor antagonist.
 dg-home: false
@@ -14,194 +14,228 @@ tags:
 - schizophrenia
 - imported
 - primekg
+templateEngineOverride: njk
 title: Chlorpromazine
 type: drug
-updated: '2026-02-08T19:45:44.514482Z'
+updated: '2026-02-09T05:40:21.131322Z'
 ---
 
-# Chlorpromazine
-
-## Overview
-Chlorpromazine was the first antipsychotic drug developed (1950s), revolutionizing the treatment of schizophrenia. It is a low-potency **typical antipsychotic** of the phenothiazine class.
-
-While less commonly used today for long-term psychosis due to side effects (tardive dyskinesia, sedation), it remains useful for acute agitation, severe nausea/vomiting, and intractable hiccups (singultus).
-
-## Indications
-- **Schizophrenia**: Especially positive symptoms.
-- **Bipolar Disorder**: Acute manic episodes.
-- **Nausea and Vomiting**: Severe cases.
-- **Intractable Hiccups**: FDA approved indication.
-- **Acute Intermittent Porphyria**: Adjunct treatment.
-- **Tetanus**: Adjunct treatment.
-
+{% raw %}
+<h1>Chlorpromazine</h1>
+<h2>Overview</h2>
+<p>Chlorpromazine was the first antipsychotic drug developed (1950s), revolutionizing the treatment of schizophrenia. It is a low-potency <strong>typical antipsychotic</strong> of the phenothiazine class.</p>
+<p>While less commonly used today for long-term psychosis due to side effects (tardive dyskinesia, sedation), it remains useful for acute agitation, severe nausea/vomiting, and intractable hiccups (singultus).</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Schizophrenia</strong>: Especially positive symptoms.</li>
+<li><strong>Bipolar Disorder</strong>: Acute manic episodes.</li>
+<li><strong>Nausea and Vomiting</strong>: Severe cases.</li>
+<li><strong>Intractable Hiccups</strong>: FDA approved indication.</li>
+<li><strong>Acute Intermittent Porphyria</strong>: Adjunct treatment.</li>
+<li><strong>Tetanus</strong>: Adjunct treatment.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Amlodipine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:39.825584'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Amlodipine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.825584'
 source: obsidian
-```
-- ← [[Nausea]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:48:53.078701'
+</code></pre>
+<ul>
+<li>← [[Nausea]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:53.078701'
 source: obsidian
-```
-- ← [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:34.905107'
+</code></pre>
+<ul>
+<li>← [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.905107'
 source: obsidian
-```
-- → [[Amlodipine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Amlodipine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Huperzine_A]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Huperzine_A]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Fluticasone_furoate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Fluticasone_furoate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Dopamine_D2_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Insulin_human]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Insulin_human]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Alpha-1_Adrenergic_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Bipolar_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Bipolar_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Peginterferon_beta-1a]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Peginterferon_beta-1a]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Salmon_calcitonin]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Salmon_calcitonin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Muscarinic_Acetylcholine_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:56.911644'
+</code></pre>
+<ul>
+<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.911644'
 source: obsidian
-```
-- → [[Histamine_H1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Histamine_H1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Schizophrenia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Schizophrenia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Dopamine_D2_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Bipolar_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Bipolar_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Muscarinic_Acetylcholine_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Muscarinic_Acetylcholine_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Hiccups]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Hiccups]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Alpha-1_Adrenergic_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Nausea]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Nausea]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:40.683822'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.683822'
 source: obsidian
-```
-
-### Interactswith
-- ← [[Insulin_human]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.605000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>← [[Insulin_human]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.605000+00:00'
 source: PrimeKG
-```
-- ← [[Amlodipine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:35.696000+00:00'
+</code></pre>
+<ul>
+<li>← [[Amlodipine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.696000+00:00'
 source: PrimeKG
-```
-- ← [[Salmon_calcitonin]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.737000+00:00'
+</code></pre>
+<ul>
+<li>← [[Salmon_calcitonin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.737000+00:00'
 source: PrimeKG
-```
-- ← [[Fluticasone_furoate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.789000+00:00'
+</code></pre>
+<ul>
+<li>← [[Fluticasone_furoate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.789000+00:00'
 source: PrimeKG
-```
-- ← [[Peginterferon_beta-1a]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.796000+00:00'
+</code></pre>
+<ul>
+<li>← [[Peginterferon_beta-1a]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.796000+00:00'
 source: PrimeKG
-```
-- ← [[Huperzine_A]] (entity)
-```yaml
-imported: '2025-12-26T11:56:35.919000+00:00'
+</code></pre>
+<ul>
+<li>← [[Huperzine_A]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:35.919000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>⊣ [[Dopamine]] (neurotransmitter) - <em>D2 Receptor Antagonist</em></li>
+</ul>
+<h3>Modulates Protein</h3>
+<ul>
+<li>⊣ [[Dopamine D2 Receptor]] (protein) - <em>Antagonist</em></li>
+<li>⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - <em>Antagonist (Hypotension)</em></li>
+<li>⊣ [[Histamine H1 Receptor]] (protein) - <em>Antagonist (Sedation)</em></li>
+<li>⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - <em>Antagonist</em></li>
+</ul>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[Schizophrenia]] (condition)</li>
+<li>→ [[Bipolar Disorder]] (condition)</li>
+<li>→ [[Nausea]] (condition)</li>
+<li>→ [[Hiccups]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>History</strong>: Ban, T. A. (2007). &quot;Fifty years of chlorpromazine: a historical perspective.&quot; <em>Neuropsychiatric Disease and Treatment</em>.</li>
+<li><strong>Mechanism</strong>: Seeman, P. (2002). &quot;Atypical antipsychotics: mechanism of action.&quot; <em>Canadian Journal of Psychiatry</em>.</li>
+</ol>
 
-### Modulates Neurotransmitter
-- ⊣ [[Dopamine]] (neurotransmitter) - *D2 Receptor Antagonist*
-
-### Modulates Protein
-- ⊣ [[Dopamine D2 Receptor]] (protein) - *Antagonist*
-- ⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - *Antagonist (Hypotension)*
-- ⊣ [[Histamine H1 Receptor]] (protein) - *Antagonist (Sedation)*
-- ⊣ [[Muscarinic Acetylcholine Receptor]] (protein) - *Antagonist*
-
-### Treats Condition
-- → [[Schizophrenia]] (condition)
-- → [[Bipolar Disorder]] (condition)
-- → [[Nausea]] (condition)
-- → [[Hiccups]] (condition)
-
-## References
-1. **History**: Ban, T. A. (2007). "Fifty years of chlorpromazine: a historical perspective." *Neuropsychiatric Disease and Treatment*.
-2. **Mechanism**: Seeman, P. (2002). "Atypical antipsychotics: mechanism of action." *Canadian Journal of Psychiatry*.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.530109Z'
+created: '2026-02-09T05:40:21.218754Z'
 description: Encodes the Amyloid-Beta Precursor Protein. Mutations in this gene are
   associated with early-onset Alzheimer's disease.
 dg-home: false
@@ -13,19 +13,24 @@ tags:
 - neurodegeneration
 - imported
 - primekg
+templateEngineOverride: njk
 title: APP
 type: gene
-updated: '2026-02-08T19:45:44.530109Z'
+updated: '2026-02-09T05:40:21.218754Z'
 ---
 
-# APP
+{% raw %}
+<h1>APP</h1>
+<h2>Overview</h2>
+<p>The <strong>APP</strong> gene encodes a cell surface receptor and transmembrane precursor protein that is cleaved by secretases to form a number of peptides. Some of these peptides are secreted and can bind to the acetyltransferase complex APBB1/TIP60 to promote transcriptional activation, while others form the protein basis of the <strong>amyloid plaques</strong> found in the brains of patients with Alzheimer disease.</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[APP]] (protein) - <em>Encodes</em></li>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>Associated with mutations</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Genetics</strong>: Goate, A., et al. (1991). &quot;Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease.&quot; <em>Nature</em>.</li>
+</ol>
 
-## Overview
-The **APP** gene encodes a cell surface receptor and transmembrane precursor protein that is cleaved by secretases to form a number of peptides. Some of these peptides are secreted and can bind to the acetyltransferase complex APBB1/TIP60 to promote transcriptional activation, while others form the protein basis of the **amyloid plaques** found in the brains of patients with Alzheimer disease.
-
-## Relationships
-- → [[APP]] (protein) - *Encodes*
-- → [[Alzheimer's Disease]] (condition) - *Associated with mutations*
-
-## References
-1. **Genetics**: Goate, A., et al. (1991). "Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease." *Nature*.
+{% endraw %}

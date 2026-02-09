@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.446085Z'
+created: '2026-02-09T05:40:20.740423Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -7,100 +7,99 @@ permalink: /garden/dev_admin/biomarker/total-cholesterol/
 slug: total-cholesterol
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Total Cholesterol
 type: biomarker
-updated: '2026-02-08T19:45:44.446085Z'
+updated: '2026-02-09T05:40:20.740423Z'
 ---
 
-# Total Cholesterol
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Total Cholesterol</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[lipid_panel_standard]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:23.644632'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[lipid_panel_standard]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
 source: obsidian
-```
-- → [[advanced_lipid_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:23.644632'
+</code></pre>
+<ul>
+<li>→ [[advanced_lipid_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
 source: obsidian
-```
-- → [[lipid_panel_standard]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.308633'
+</code></pre>
+<ul>
+<li>→ [[lipid_panel_standard]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
-```
-- → [[Total_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.308633'
+</code></pre>
+<ul>
+<li>→ [[Total_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
-```
-- → [[advanced_lipid_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:17.308633'
+</code></pre>
+<ul>
+<li>→ [[advanced_lipid_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
-```
-- → [[Total_Cholesterol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:17.308633'
+</code></pre>
+<ul>
+<li>→ [[Total_Cholesterol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.308633'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Total_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:27.491036'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Total_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.491036'
 source: obsidian
-```
-- → [[Total_Cholesterol]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:27.491036'
+</code></pre>
+<ul>
+<li>→ [[Total_Cholesterol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:27.491036'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Panel Tests
-- [[lipid panel standard]] - Standard lipid panel (primary measurement)
-- [[advanced lipid panel]] - Advanced lipid panel with additional markers
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[lipid panel standard]] - Standard lipid panel (primary measurement)</li>
+<li>[[advanced lipid panel]] - Advanced lipid panel with additional markers</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Total Cholesterol]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

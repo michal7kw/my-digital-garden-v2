@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.506251Z'
+created: '2026-02-09T05:40:21.088150Z'
 description: An uncontrolled growth of abnormal cells arising from the squamous cells
   in the epidermis (skin) or linings of digestive/respiratory tracts.
 dg-home: false
@@ -13,82 +13,66 @@ tags:
 - dermatology
 - skin
 - cancer
+templateEngineOverride: njk
 title: Squamous Cell Carcinoma
 type: condition
-updated: '2026-02-08T19:45:44.506251Z'
+updated: '2026-02-09T05:40:21.088150Z'
 ---
 
-# Squamous Cell Carcinoma
-
-## Overview
-An uncontrolled growth of abnormal cells arising from the squamous cells in the epidermis (skin) or linings of digestive/respiratory tracts.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Squamous Cell Carcinoma</h1>
+<h2>Overview</h2>
+<p>An uncontrolled growth of abnormal cells arising from the squamous cells in the epidermis (skin) or linings of digestive/respiratory tracts.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Squamous Cell Carcinoma]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Squamous_Cell_Carcinoma]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:42.555695'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Squamous_Cell_Carcinoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:42.555695'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Squamous Cell Carcinoma]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Squamous Cell Carcinoma]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Squamous_Cell_Carcinoma]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:37.770243'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Squamous_Cell_Carcinoma]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.770243'
 source: obsidian
-```
-- → [[Squamous_Cell_Carcinoma]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:37.770243'
+</code></pre>
+<ul>
+<li>→ [[Squamous_Cell_Carcinoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.770243'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

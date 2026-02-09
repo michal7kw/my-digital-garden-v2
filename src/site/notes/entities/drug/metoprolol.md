@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.520103Z'
+created: '2026-02-09T05:40:21.162323Z'
 description: Cardioselective beta-1 blocker for hypertension, angina, heart failure,
   and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most
   prescribed cardiovascular medications.
@@ -14,42 +14,25 @@ tags:
 - antihypertensive
 - cardiovascular
 - prescription
+templateEngineOverride: njk
 title: Metoprolol
 type: drug
-updated: '2026-02-08T19:45:44.520103Z'
+updated: '2026-02-09T05:40:21.162323Z'
 ---
 
-# Metoprolol
-
-## Overview
-Cardioselective beta-1 blocker for hypertension, angina, heart failure, and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most prescribed cardiovascular medications.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Metoprolol</h1>
+<h2>Overview</h2>
+<p>Cardioselective beta-1 blocker for hypertension, angina, heart failure, and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most prescribed cardiovascular medications.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.511361Z'
+created: '2026-02-09T05:40:21.115163Z'
 description: A large group of diseases characterized by the uncontrolled growth and
   spread of abnormal cells, which can invade nearby tissues and metastasize to distant
   organs.
@@ -13,151 +13,146 @@ tags:
 - oncology
 - malignant_neoplasm
 - genetic_disorder
+templateEngineOverride: njk
 title: Cancer
 type: condition
-updated: '2026-02-08T19:45:44.511361Z'
+updated: '2026-02-09T05:40:21.115163Z'
 ---
 
-# Cancer
-
-## Overview
-A large group of diseases characterized by the uncontrolled growth and spread of abnormal cells, which can invade nearby tissues and metastasize to distant organs.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Cancer</h1>
+<h2>Overview</h2>
+<p>A large group of diseases characterized by the uncontrolled growth and spread of abnormal cells, which can invade nearby tissues and metastasize to distant organs.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Cancer]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Increases Risk For
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:37.999694'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
 source: obsidian
-```
-
-### Related
-- → [[Cancer]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:51.934014'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cancer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.934014'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:51.934014'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.934014'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:57.049485'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Cancer]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Cancer]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T06:47:32.664708'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
-```
-- → [[CTCF]] (protein)
-```yaml
-last_modified: '2026-01-26T06:47:32.664708'
+</code></pre>
+<ul>
+<li>→ [[CTCF]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
-```
-- → [[CDK2]] (protein)
-```yaml
-last_modified: '2026-01-26T06:47:32.664708'
+</code></pre>
+<ul>
+<li>→ [[CDK2]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
-```
-- → [[AKT1]] (protein)
-```yaml
-last_modified: '2026-01-26T06:47:32.664708'
+</code></pre>
+<ul>
+<li>→ [[AKT1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:24.513258'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.513258'
 source: obsidian
-```
-- ← [[CTCF]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:29.769335'
+</code></pre>
+<ul>
+<li>← [[CTCF]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
 source: obsidian
-```
-- ← [[CDK2]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:29.529226'
+</code></pre>
+<ul>
+<li>← [[CDK2]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.529226'
 source: obsidian
-```
-- ← [[AKT1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:28.530000'
+</code></pre>
+<ul>
+<li>← [[AKT1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.530000'
 source: obsidian
-```
-- ← [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T07:07:46.919120'
+</code></pre>
+<ul>
+<li>← [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.919120'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.519524'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
-```
-- → [[Cancer]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:24.513258'
+</code></pre>
+<ul>
+<li>→ [[Cancer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.513258'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.520330'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

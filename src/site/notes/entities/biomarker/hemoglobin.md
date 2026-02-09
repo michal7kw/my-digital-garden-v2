@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.433181Z'
+created: '2026-02-09T05:40:20.652950Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -7,96 +7,105 @@ permalink: /garden/dev_admin/biomarker/hemoglobin/
 slug: hemoglobin
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Hemoglobin
 type: biomarker
-updated: '2026-02-08T19:45:44.433181Z'
+updated: '2026-02-09T05:40:20.652950Z'
 ---
 
-# Hemoglobin
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Hemoglobin</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[complete_blood_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:10.815417'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[complete_blood_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.815417'
 source: obsidian
-```
-- ← [[hemoglobin]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:14.856201'
+</code></pre>
+<ul>
+<li>← [[hemoglobin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
 source: obsidian
-```
-- → [[Dyspnea]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:18.975721'
+</code></pre>
+<ul>
+<li>→ [[Dyspnea]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
-```
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:18.975721'
+</code></pre>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
-```
-- → [[complete_blood_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:18.975721'
+</code></pre>
+<ul>
+<li>→ [[complete_blood_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.975721'
 source: obsidian
-```
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:13.512799'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
-```
-- → [[complete_blood_count]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:13.512799'
+</code></pre>
+<ul>
+<li>→ [[complete_blood_count]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
-```
-- ← [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:18.588212'
+</code></pre>
+<ul>
+<li>← [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
-```
-- ← [[Dyspnea]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:16.835648'
+</code></pre>
+<ul>
+<li>← [[Dyspnea]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:16.835648'
 source: obsidian
-```
-- → [[hemoglobin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:13.512799'
+</code></pre>
+<ul>
+<li>→ [[hemoglobin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
-```
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:41.602027'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.602027'
 source: obsidian
-```
-- → [[Hemoglobin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:13.512799'
+</code></pre>
+<ul>
+<li>→ [[Hemoglobin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
 source: obsidian
-```
-
-### Increases Biomarker
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
 last_modified: '2026-01-26T07:08:41.501218'
 magnitude: moderate
@@ -108,46 +117,46 @@ population_context: B12 deficiency anemia
 source: obsidian
 study_references:
 - PMID:23325609
-```
-
-### Indicates Organ Health
-- → [[Bones]] (organ)
-```yaml
-specificity: high
+</code></pre>
+<h3>Indicates Organ Health</h3>
+<ul>
+<li>→ [[Bones]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: high
 function_indicated: Erythropoiesis
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Vitamin_B12]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:18.663564'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vitamin_B12]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:18.663564'
 source: obsidian
-```
-- → [[Hemoglobin]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:18.663564'
+</code></pre>
+<ul>
+<li>→ [[Hemoglobin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:18.663564'
 source: obsidian
-```
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:30.196142'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:30.196142'
 source: obsidian
-```
-
-### Increases Biomarker
-- ← [[Vitamin_B12]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<h3>Increases Biomarker</h3>
+<ul>
+<li>← [[Vitamin_B12]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 evidence_level: 4
 last_modified: '2026-01-19T09:07:17.506662'
 magnitude: moderate
@@ -159,27 +168,25 @@ population_context: B12 deficiency anemia
 source: obsidian
 study_references:
 - PMID:23325609
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[hemoglobin]] - Direct hemoglobin measurement
-
-### Panel Tests
-- [[complete blood count]] - Part of CBC panel
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[hemoglobin]] - Direct hemoglobin measurement</li>
+</ul>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[complete blood count]] - Part of CBC panel</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Hemoglobin]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

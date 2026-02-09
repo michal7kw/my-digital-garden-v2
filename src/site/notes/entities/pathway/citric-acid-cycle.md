@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.610796Z'
+created: '2026-02-09T05:40:21.787164Z'
 description: The central metabolic hub that oxidizes acetyl-CoA to CO2, generating
   NADH, FADH2, and GTP for ATP production. Also known as the TCA cycle or Krebs cycle,
   it connects carbohydrate, fat, and protein metabolism and provides biosynthetic
@@ -16,206 +16,285 @@ tags:
 - central_metabolism
 - mitochondrial
 - catabolic
+templateEngineOverride: njk
 title: Citric Acid Cycle
 type: pathway
-updated: '2026-02-08T19:45:44.610796Z'
+updated: '2026-02-09T05:40:21.787164Z'
 ---
 
-# Citric Acid Cycle
-
-## Overview
-
-The citric acid cycle (also called the TCA cycle or Krebs cycle) is the central metabolic pathway for aerobic energy production in all organisms. It oxidizes acetyl-CoA derived from carbohydrates, fats, and proteins to CO₂, capturing the released energy as NADH, FADH2, and GTP.
-
-The cycle operates in the mitochondrial matrix and consists of eight enzyme-catalyzed reactions that:
-1. Accept two carbons (as acetyl-CoA)
-2. Release two carbons (as CO₂)
-3. Regenerate the starting molecule (oxaloacetate)
-4. Produce reducing equivalents for ATP synthesis
-
-## The Eight Reactions
-
-### 1. Citrate Synthase
-**Acetyl-CoA + Oxaloacetate + H₂O → Citrate + CoA-SH**
-- First committed step
-- Highly exergonic (ΔG°' = -32.2 kJ/mol)
-- Regulated by substrate availability
-
-### 2. Aconitase
-**Citrate ⇌ Isocitrate** (via cis-Aconitate)
-- Iron-sulfur cluster enzyme
-- Near-equilibrium reaction
-- Sensitive to oxidative damage
-
-### 3. Isocitrate Dehydrogenase
-**Isocitrate + NAD⁺ → α-Ketoglutarate + CO₂ + NADH**
-- First NADH produced
-- First CO₂ released
-- Major regulatory point (activated by ADP, Ca²⁺)
-
-### 4. α-Ketoglutarate Dehydrogenase Complex
-**α-Ketoglutarate + NAD⁺ + CoA-SH → Succinyl-CoA + CO₂ + NADH**
-- Second NADH produced
-- Second CO₂ released
-- Similar to pyruvate dehydrogenase complex
-- Requires TPP, lipoate, FAD, NAD⁺, CoA
-
-### 5. Succinyl-CoA Synthetase
-**Succinyl-CoA + GDP + Pi ⇌ Succinate + GTP + CoA-SH**
-- Substrate-level phosphorylation
-- GTP → ATP via nucleoside diphosphate kinase
-- Only direct high-energy phosphate
-
-### 6. Succinate Dehydrogenase (Complex II)
-**Succinate + FAD → Fumarate + FADH₂**
-- Only membrane-bound TCA enzyme
-- Directly linked to ETC
-- Produces FADH₂ (not NADH)
-
-### 7. Fumarase
-**Fumarate + H₂O → L-Malate**
-- Stereospecific hydration
-- Near-equilibrium reaction
-
-### 8. Malate Dehydrogenase
-**L-Malate + NAD⁺ → Oxaloacetate + NADH**
-- Third NADH produced
-- Completes the cycle
-- Thermodynamically unfavorable, pulled by citrate synthase
-
-## Energy Yield
-
-Per acetyl-CoA oxidized:
-| Product | Number | ATP Equivalent |
-|---------|--------|----------------|
-| NADH | 3 | ~7.5 ATP |
-| FADH₂ | 1 | ~1.5 ATP |
-| GTP | 1 | 1 ATP |
-| **Total** | | **~10 ATP** |
-
-## Regulation
-
-### Key Control Points
-1. **Citrate synthase**: Substrate availability, product inhibition
-2. **Isocitrate dehydrogenase**: ADP activates, ATP/NADH inhibit
-3. **α-Ketoglutarate dehydrogenase**: Similar to PDH
-
-### Calcium Activation
-- Ca²⁺ activates isocitrate DH and α-KG DH
-- Links muscle contraction to energy production
-- Important in cardiac muscle
-
-## Anaplerotic Reactions
-
-TCA intermediates are depleted for biosynthesis and must be replenished:
-
-| Reaction | Enzyme | Significance |
-|----------|--------|--------------|
-| Pyruvate → OAA | Pyruvate carboxylase | Major anaplerosis |
-| Glutamate → α-KG | Glutamate dehydrogenase | Amino acid entry |
-| Aspartate → OAA | Aspartate aminotransferase | Amino acid entry |
-
-## Biosynthetic Functions
-
-The TCA cycle provides precursors for:
-- **Citrate**: Fatty acid synthesis, cholesterol synthesis
-- **α-Ketoglutarate**: Amino acid synthesis (glutamate family)
-- **Succinyl-CoA**: Heme synthesis, odd-chain fatty acid metabolism
-- **Oxaloacetate**: Gluconeogenesis, amino acid synthesis (aspartate)
-
-## Clinical Significance
-
-### Enzyme Deficiencies
-- **Fumarase deficiency**: Severe encephalopathy, cancer predisposition
-- **Succinate dehydrogenase deficiency**: Paragangliomas, pheochromocytomas
-- **α-Ketoglutarate dehydrogenase deficiency**: Neurological dysfunction
-
-### Cancer Metabolism
-- SDH, FH, IDH mutations in specific cancers
-- Oncometabolite accumulation
-- Altered TCA cycle flux
-
-## Supplement Connections
-
-| Supplement | Effect on TCA Cycle |
-|------------|---------------------|
-| **[[Alpha Lipoic Acid]]** | Cofactor for α-KG dehydrogenase and PDH |
-| **[[CoQ10]]** | Supports Complex II function |
-| **[[Carnitine]]** | Delivers fatty acid-derived acetyl-CoA |
-| **[[B Vitamins]]** | Multiple coenzyme functions |
-
+{% raw %}
+<h1>Citric Acid Cycle</h1>
+<h2>Overview</h2>
+<p>The citric acid cycle (also called the TCA cycle or Krebs cycle) is the central metabolic pathway for aerobic energy production in all organisms. It oxidizes acetyl-CoA derived from carbohydrates, fats, and proteins to CO₂, capturing the released energy as NADH, FADH2, and GTP.</p>
+<p>The cycle operates in the mitochondrial matrix and consists of eight enzyme-catalyzed reactions that:</p>
+<ol>
+<li>Accept two carbons (as acetyl-CoA)</li>
+<li>Release two carbons (as CO₂)</li>
+<li>Regenerate the starting molecule (oxaloacetate)</li>
+<li>Produce reducing equivalents for ATP synthesis</li>
+</ol>
+<h2>The Eight Reactions</h2>
+<h3>1. Citrate Synthase</h3>
+<p><strong>Acetyl-CoA + Oxaloacetate + H₂O → Citrate + CoA-SH</strong></p>
+<ul>
+<li>First committed step</li>
+<li>Highly exergonic (ΔG°' = -32.2 kJ/mol)</li>
+<li>Regulated by substrate availability</li>
+</ul>
+<h3>2. Aconitase</h3>
+<p><strong>Citrate ⇌ Isocitrate</strong> (via cis-Aconitate)</p>
+<ul>
+<li>Iron-sulfur cluster enzyme</li>
+<li>Near-equilibrium reaction</li>
+<li>Sensitive to oxidative damage</li>
+</ul>
+<h3>3. Isocitrate Dehydrogenase</h3>
+<p><strong>Isocitrate + NAD⁺ → α-Ketoglutarate + CO₂ + NADH</strong></p>
+<ul>
+<li>First NADH produced</li>
+<li>First CO₂ released</li>
+<li>Major regulatory point (activated by ADP, Ca²⁺)</li>
+</ul>
+<h3>4. α-Ketoglutarate Dehydrogenase Complex</h3>
+<p><strong>α-Ketoglutarate + NAD⁺ + CoA-SH → Succinyl-CoA + CO₂ + NADH</strong></p>
+<ul>
+<li>Second NADH produced</li>
+<li>Second CO₂ released</li>
+<li>Similar to pyruvate dehydrogenase complex</li>
+<li>Requires TPP, lipoate, FAD, NAD⁺, CoA</li>
+</ul>
+<h3>5. Succinyl-CoA Synthetase</h3>
+<p><strong>Succinyl-CoA + GDP + Pi ⇌ Succinate + GTP + CoA-SH</strong></p>
+<ul>
+<li>Substrate-level phosphorylation</li>
+<li>GTP → ATP via nucleoside diphosphate kinase</li>
+<li>Only direct high-energy phosphate</li>
+</ul>
+<h3>6. Succinate Dehydrogenase (Complex II)</h3>
+<p><strong>Succinate + FAD → Fumarate + FADH₂</strong></p>
+<ul>
+<li>Only membrane-bound TCA enzyme</li>
+<li>Directly linked to ETC</li>
+<li>Produces FADH₂ (not NADH)</li>
+</ul>
+<h3>7. Fumarase</h3>
+<p><strong>Fumarate + H₂O → L-Malate</strong></p>
+<ul>
+<li>Stereospecific hydration</li>
+<li>Near-equilibrium reaction</li>
+</ul>
+<h3>8. Malate Dehydrogenase</h3>
+<p><strong>L-Malate + NAD⁺ → Oxaloacetate + NADH</strong></p>
+<ul>
+<li>Third NADH produced</li>
+<li>Completes the cycle</li>
+<li>Thermodynamically unfavorable, pulled by citrate synthase</li>
+</ul>
+<h2>Energy Yield</h2>
+<p>Per acetyl-CoA oxidized:</p>
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th>Number</th>
+<th>ATP Equivalent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NADH</td>
+<td>3</td>
+<td>~7.5 ATP</td>
+</tr>
+<tr>
+<td>FADH₂</td>
+<td>1</td>
+<td>~1.5 ATP</td>
+</tr>
+<tr>
+<td>GTP</td>
+<td>1</td>
+<td>1 ATP</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td><strong>~10 ATP</strong></td>
+</tr>
+</tbody>
+</table>
+<h2>Regulation</h2>
+<h3>Key Control Points</h3>
+<ol>
+<li><strong>Citrate synthase</strong>: Substrate availability, product inhibition</li>
+<li><strong>Isocitrate dehydrogenase</strong>: ADP activates, ATP/NADH inhibit</li>
+<li><strong>α-Ketoglutarate dehydrogenase</strong>: Similar to PDH</li>
+</ol>
+<h3>Calcium Activation</h3>
+<ul>
+<li>Ca²⁺ activates isocitrate DH and α-KG DH</li>
+<li>Links muscle contraction to energy production</li>
+<li>Important in cardiac muscle</li>
+</ul>
+<h2>Anaplerotic Reactions</h2>
+<p>TCA intermediates are depleted for biosynthesis and must be replenished:</p>
+<table>
+<thead>
+<tr>
+<th>Reaction</th>
+<th>Enzyme</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pyruvate → OAA</td>
+<td>Pyruvate carboxylase</td>
+<td>Major anaplerosis</td>
+</tr>
+<tr>
+<td>Glutamate → α-KG</td>
+<td>Glutamate dehydrogenase</td>
+<td>Amino acid entry</td>
+</tr>
+<tr>
+<td>Aspartate → OAA</td>
+<td>Aspartate aminotransferase</td>
+<td>Amino acid entry</td>
+</tr>
+</tbody>
+</table>
+<h2>Biosynthetic Functions</h2>
+<p>The TCA cycle provides precursors for:</p>
+<ul>
+<li><strong>Citrate</strong>: Fatty acid synthesis, cholesterol synthesis</li>
+<li><strong>α-Ketoglutarate</strong>: Amino acid synthesis (glutamate family)</li>
+<li><strong>Succinyl-CoA</strong>: Heme synthesis, odd-chain fatty acid metabolism</li>
+<li><strong>Oxaloacetate</strong>: Gluconeogenesis, amino acid synthesis (aspartate)</li>
+</ul>
+<h2>Clinical Significance</h2>
+<h3>Enzyme Deficiencies</h3>
+<ul>
+<li><strong>Fumarase deficiency</strong>: Severe encephalopathy, cancer predisposition</li>
+<li><strong>Succinate dehydrogenase deficiency</strong>: Paragangliomas, pheochromocytomas</li>
+<li><strong>α-Ketoglutarate dehydrogenase deficiency</strong>: Neurological dysfunction</li>
+</ul>
+<h3>Cancer Metabolism</h3>
+<ul>
+<li>SDH, FH, IDH mutations in specific cancers</li>
+<li>Oncometabolite accumulation</li>
+<li>Altered TCA cycle flux</li>
+</ul>
+<h2>Supplement Connections</h2>
+<table>
+<thead>
+<tr>
+<th>Supplement</th>
+<th>Effect on TCA Cycle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[[Alpha Lipoic Acid]]</strong></td>
+<td>Cofactor for α-KG dehydrogenase and PDH</td>
+</tr>
+<tr>
+<td><strong>[[CoQ10]]</strong></td>
+<td>Supports Complex II function</td>
+</tr>
+<tr>
+<td><strong>[[Carnitine]]</strong></td>
+<td>Delivers fatty acid-derived acetyl-CoA</td>
+</tr>
+<tr>
+<td><strong>[[B Vitamins]]</strong></td>
+<td>Multiple coenzyme functions</td>
+</tr>
+</tbody>
+</table>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.589405'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
-```
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T06:48:40.589405'
+</code></pre>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T06:48:40.589405'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
-```
-- → [[B_Vitamins]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:40.589405'
+</code></pre>
+<ul>
+<li>→ [[B_Vitamins]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.589405'
 source: obsidian
-```
-- → [[B_Vitamins]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.663413'
+</code></pre>
+<ul>
+<li>→ [[B_Vitamins]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
-```
-- → [[CoQ10]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.663413'
+</code></pre>
+<ul>
+<li>→ [[CoQ10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
-```
-- → [[Carnitine]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:11.663413'
+</code></pre>
+<ul>
+<li>→ [[Carnitine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
-```
-- ← [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:05.909377'
+</code></pre>
+<ul>
+<li>← [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:11.663413'
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>LOCATED_IN::[[Mitochondria]] - Mitochondrial matrix<br />
+PRODUCES::[[NADH]] - Three per cycle<br />
+PRODUCES::[[FADH2]] - One per cycle<br />
+PRODUCES::[[ATP]] - Via GTP<br />
+CONSUMES::[[Acetyl-CoA]] - Primary substrate<br />
+CONSUMES::[[NAD+]] - Electron acceptor<br />
+FEEDS_INTO::[[Electron Transport Chain]] - Via NADH, FADH2<br />
+CONNECTED_TO::[[Glycolysis]] - Via pyruvate → acetyl-CoA<br />
+CONNECTED_TO::[[Beta-Oxidation]] - Via acetyl-CoA<br />
+CONNECTED_TO::[[Gluconeogenesis]] - Via oxaloacetate<br />
+AFFECTED_BY::[[Alpha Lipoic Acid]] - Cofactor support<br />
+INCLUDES_ENZYME::[[Succinate Dehydrogenase]] - Complex II<br />
+RELATED_TO::[[Oxidative Phosphorylation]] - Energy coupling</p>
+<h2>References</h2>
+<ul>
+<li>Krebs HA, Johnson WA. The role of citric acid in intermediate metabolism in animal tissues. Enzymologia. 1937;4:148-156.</li>
+<li>Berg JM, et al. Biochemistry (8th ed). W.H. Freeman; 2015. Chapter 17.</li>
+<li>Martínez-Reyes I, Chandel NS. Mitochondrial TCA cycle metabolites control physiology and disease. Nat Commun. 2020;11(1):102. PMID: 31900386</li>
+</ul>
 
-LOCATED_IN::[[Mitochondria]] - Mitochondrial matrix
-PRODUCES::[[NADH]] - Three per cycle
-PRODUCES::[[FADH2]] - One per cycle
-PRODUCES::[[ATP]] - Via GTP
-CONSUMES::[[Acetyl-CoA]] - Primary substrate
-CONSUMES::[[NAD+]] - Electron acceptor
-FEEDS_INTO::[[Electron Transport Chain]] - Via NADH, FADH2
-CONNECTED_TO::[[Glycolysis]] - Via pyruvate → acetyl-CoA
-CONNECTED_TO::[[Beta-Oxidation]] - Via acetyl-CoA
-CONNECTED_TO::[[Gluconeogenesis]] - Via oxaloacetate
-AFFECTED_BY::[[Alpha Lipoic Acid]] - Cofactor support
-INCLUDES_ENZYME::[[Succinate Dehydrogenase]] - Complex II
-RELATED_TO::[[Oxidative Phosphorylation]] - Energy coupling
-
-## References
-
-- Krebs HA, Johnson WA. The role of citric acid in intermediate metabolism in animal tissues. Enzymologia. 1937;4:148-156.
-- Berg JM, et al. Biochemistry (8th ed). W.H. Freeman; 2015. Chapter 17.
-- Martínez-Reyes I, Chandel NS. Mitochondrial TCA cycle metabolites control physiology and disease. Nat Commun. 2020;11(1):102. PMID: 31900386
+{% endraw %}

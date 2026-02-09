@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.660598Z'
+created: '2026-02-09T05:40:22.246319Z'
 description: A natural polyamine that induces autophagy and has been associated with
   increased lifespan and cardiovascular protection.
 dg-home: false
@@ -12,36 +12,33 @@ tags:
 - longevity
 - autophagy
 - cardiovascular
+templateEngineOverride: njk
 title: Spermidine
 type: supplement
-updated: '2026-02-08T19:45:44.660598Z'
+updated: '2026-02-09T05:40:22.246319Z'
 ---
 
-# Spermidine
-
-## Overview
-A natural polyamine that induces autophagy and has been associated with increased lifespan and cardiovascular protection.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Spermidine</h1>
+<h2>Overview</h2>
+<p>A natural polyamine that induces autophagy and has been associated with increased lifespan and cardiovascular protection.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Autophagy-Lysosomal_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:54.543507'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Autophagy-Lysosomal_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:54.543507'
 source: obsidian
-```
-- ← [[Autophagy-Lysosomal_Pathway]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.341134'
+</code></pre>
+<ul>
+<li>← [[Autophagy-Lysosomal_Pathway]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+
+{% endraw %}

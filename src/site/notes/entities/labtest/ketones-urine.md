@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.564464Z'
+created: '2026-02-09T05:40:21.388434Z'
 description: Tested twice a year Ketones are energy molecules the body makes when
   it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged
   exercise. This can be a normal response, but high levels of ketones in urine (ketonuria)
@@ -11,101 +11,123 @@ permalink: /garden/dev_admin/labtest/ketones-urine/
 slug: ketones-urine
 tags:
 - labtest
+templateEngineOverride: njk
 title: ketones_urine
 type: labtest
-updated: '2026-02-08T19:45:44.564464Z'
+updated: '2026-02-09T05:40:21.388434Z'
 ---
 
-# Ketones, Urine
-
-## Overview
-Tested twice a year Ketones are energy molecules the body makes when it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged exercise. This can be a normal response, but high levels of ketones in urine (ketonuria) may also be linked to conditions such as diabetes or kidney disease.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Kidney Function || **Test Type** | Standard |
-| **Sample Type** | Urine |
-| **Collection Method** | Spot Urine |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Type 1 Or Type 2 Diabetes]]
-- [[Prediabetes]]
-- [[Low-Carbohydrate Diet State (Ketosis)]]
-- [[Prolonged Fasting]]
-- [[Dehydration]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Ketones, Urine</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Ketones are energy molecules the body makes when it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged exercise. This can be a normal response, but high levels of ketones in urine (ketonuria) may also be linked to conditions such as diabetes or kidney disease.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Kidney Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Urine</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Spot Urine</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Type 1 Or Type 2 Diabetes]]</li>
+<li>[[Prediabetes]]</li>
+<li>[[Low-Carbohydrate Diet State (Ketosis)]]</li>
+<li>[[Prolonged Fasting]]</li>
+<li>[[Dehydration]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Prolonged_Fasting]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:16.811809'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Prolonged_Fasting]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.811809'
 source: obsidian
-```
-- → [[Type_1_Or_Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:16.811809'
+</code></pre>
+<ul>
+<li>→ [[Type_1_Or_Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.811809'
 source: obsidian
-```
-- → [[Low-Carbohydrate_Diet_State_Ketosis]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:16.811809'
+</code></pre>
+<ul>
+<li>→ [[Low-Carbohydrate_Diet_State_Ketosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.811809'
 source: obsidian
-```
-- → [[Type_1_Or_Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:55.058683'
+</code></pre>
+<ul>
+<li>→ [[Type_1_Or_Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
-```
-- → [[Dehydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:55.058683'
+</code></pre>
+<ul>
+<li>→ [[Dehydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
-```
-- → [[Prediabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:55.058683'
+</code></pre>
+<ul>
+<li>→ [[Prediabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
-```
-- → [[Prolonged_Fasting]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:55.058683'
+</code></pre>
+<ul>
+<li>→ [[Prolonged_Fasting]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
-```
-- → [[Low-Carbohydrate_Diet_State_Ketosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:55.058683'
+</code></pre>
+<ul>
+<li>→ [[Low-Carbohydrate_Diet_State_Ketosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.058683'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:27.691370</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:27.691370*
+{% endraw %}

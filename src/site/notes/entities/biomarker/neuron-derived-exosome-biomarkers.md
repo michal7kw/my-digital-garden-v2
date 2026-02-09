@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.439459Z'
+created: '2026-02-09T05:40:20.695531Z'
 description: Blood-based biomarkers isolated from brain-derived extracellular vesicles
   (exosomes) that cross the blood-brain barrier. Provide a non-invasive window into
   CNS pathology including Aβ, tau, and α-synuclein.
@@ -15,27 +15,26 @@ tags:
 - cutting-edge
 - extracellular-vesicle
 - research
+templateEngineOverride: njk
 title: Neuron-Derived Exosome Biomarkers
 type: biomarker
-updated: '2026-02-08T19:45:44.439459Z'
+updated: '2026-02-09T05:40:20.695531Z'
 ---
 
-# Neuron-Derived Exosome Biomarkers
-
-## Overview
-Neuron-derived exosomes (NDEs) are extracellular vesicles released by neurons that cross the blood-brain barrier and can be isolated from blood. By capturing exosomes with neuronal markers (L1CAM), researchers can access brain-derived proteins from a simple blood draw. This approach may overcome the dilution problem of measuring brain proteins in total plasma, providing a more direct window into CNS pathology.
-
-## Technology Concept
-
-### Exosomes and Extracellular Vesicles
-- Small vesicles (30-150 nm) released by all cells
-- Contain proteins, RNA, lipids from parent cell
-- Cross blood-brain barrier
-- Can be isolated from blood
-
-### Neuron-Derived Enrichment
-```
-Blood Collection
+{% raw %}
+<h1>Neuron-Derived Exosome Biomarkers</h1>
+<h2>Overview</h2>
+<p>Neuron-derived exosomes (NDEs) are extracellular vesicles released by neurons that cross the blood-brain barrier and can be isolated from blood. By capturing exosomes with neuronal markers (L1CAM), researchers can access brain-derived proteins from a simple blood draw. This approach may overcome the dilution problem of measuring brain proteins in total plasma, providing a more direct window into CNS pathology.</p>
+<h2>Technology Concept</h2>
+<h3>Exosomes and Extracellular Vesicles</h3>
+<ul>
+<li>Small vesicles (30-150 nm) released by all cells</li>
+<li>Contain proteins, RNA, lipids from parent cell</li>
+<li>Cross blood-brain barrier</li>
+<li>Can be isolated from blood</li>
+</ul>
+<h3>Neuron-Derived Enrichment</h3>
+<pre><code>Blood Collection
        ↓
 Exosome Isolation (ultracentrifugation or kit)
        ↓
@@ -44,256 +43,391 @@ L1CAM Immunocapture (neural cell adhesion molecule)
 Neuron-Derived Exosome fraction
        ↓
 Measure: Aβ42, p-tau181, α-synuclein, insulin pathway proteins
-```
-
-## Key Research Findings
-
-### Alzheimer's Disease
-| Cargo Measured | Finding | Study |
-|----------------|---------|-------|
-| Aβ42 in NDEs | Decreased 10 years before symptoms | Fiandaca 2015 |
-| p-tau181 in NDEs | Elevated, predicts conversion | Kapogiannis 2019 |
-| Insulin signaling | Impaired in AD | Kapogiannis 2015 |
-
-### Parkinson's Disease
-- α-synuclein elevated in NDEs
-- Differentiates PD from controls
-- May predict progression
-- More specific than total plasma
-
-### Advantages Over Total Plasma
-| Feature | Total Plasma | Neuron-Derived Exosomes |
-|---------|--------------|-------------------------|
-| Brain specificity | Low (diluted) | High (enriched) |
-| Signal-to-noise | Lower | Higher |
-| Aβ42 detection | Challenging | More robust |
-| α-synuclein | Peripheral sources | Brain-derived |
-
-## Isolation Methods
-
-### L1CAM Immunocapture (Common)
-- L1CAM: Neural cell adhesion molecule
-- Enriches for neuronal EVs
-- Commercial kits available
-- Concerns about L1CAM specificity ongoing
-
-### Alternative Markers
-| Marker | Target Cell Type | Status |
-|--------|------------------|--------|
-| L1CAM | Neurons | Most studied |
-| NCAM | Neurons | Alternative |
-| GLAST | Astrocytes | Astrocyte-derived EVs |
-| CD11b | Microglia | Microglia-derived EVs |
-
-### Size-Exclusion Chromatography
-- EV isolation without immunocapture
-- Less specific but more standardized
-- Combined approaches emerging
-
-## Current Evidence
-
-### Promising Results
-1. **Preclinical AD detection**: NDEs abnormal years before symptoms
-2. **Insulin resistance**: CNS insulin signaling in blood
-3. **α-synuclein**: Brain-specific synuclein measurement
-4. **Treatment response**: Potential monitoring tool
-
-### Limitations and Controversies
-1. **L1CAM specificity**: May not be neuron-exclusive
-2. **Standardization**: Protocol variation affects results
-3. **Reproducibility**: Some findings not replicated
-4. **Validation**: Limited large-cohort studies
-5. **Clinical readiness**: Still research phase
-
+</code></pre>
+<h2>Key Research Findings</h2>
+<h3>Alzheimer's Disease</h3>
+<table>
+<thead>
+<tr>
+<th>Cargo Measured</th>
+<th>Finding</th>
+<th>Study</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aβ42 in NDEs</td>
+<td>Decreased 10 years before symptoms</td>
+<td>Fiandaca 2015</td>
+</tr>
+<tr>
+<td>p-tau181 in NDEs</td>
+<td>Elevated, predicts conversion</td>
+<td>Kapogiannis 2019</td>
+</tr>
+<tr>
+<td>Insulin signaling</td>
+<td>Impaired in AD</td>
+<td>Kapogiannis 2015</td>
+</tr>
+</tbody>
+</table>
+<h3>Parkinson's Disease</h3>
+<ul>
+<li>α-synuclein elevated in NDEs</li>
+<li>Differentiates PD from controls</li>
+<li>May predict progression</li>
+<li>More specific than total plasma</li>
+</ul>
+<h3>Advantages Over Total Plasma</h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Total Plasma</th>
+<th>Neuron-Derived Exosomes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Brain specificity</td>
+<td>Low (diluted)</td>
+<td>High (enriched)</td>
+</tr>
+<tr>
+<td>Signal-to-noise</td>
+<td>Lower</td>
+<td>Higher</td>
+</tr>
+<tr>
+<td>Aβ42 detection</td>
+<td>Challenging</td>
+<td>More robust</td>
+</tr>
+<tr>
+<td>α-synuclein</td>
+<td>Peripheral sources</td>
+<td>Brain-derived</td>
+</tr>
+</tbody>
+</table>
+<h2>Isolation Methods</h2>
+<h3>L1CAM Immunocapture (Common)</h3>
+<ul>
+<li>L1CAM: Neural cell adhesion molecule</li>
+<li>Enriches for neuronal EVs</li>
+<li>Commercial kits available</li>
+<li>Concerns about L1CAM specificity ongoing</li>
+</ul>
+<h3>Alternative Markers</h3>
+<table>
+<thead>
+<tr>
+<th>Marker</th>
+<th>Target Cell Type</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1CAM</td>
+<td>Neurons</td>
+<td>Most studied</td>
+</tr>
+<tr>
+<td>NCAM</td>
+<td>Neurons</td>
+<td>Alternative</td>
+</tr>
+<tr>
+<td>GLAST</td>
+<td>Astrocytes</td>
+<td>Astrocyte-derived EVs</td>
+</tr>
+<tr>
+<td>CD11b</td>
+<td>Microglia</td>
+<td>Microglia-derived EVs</td>
+</tr>
+</tbody>
+</table>
+<h3>Size-Exclusion Chromatography</h3>
+<ul>
+<li>EV isolation without immunocapture</li>
+<li>Less specific but more standardized</li>
+<li>Combined approaches emerging</li>
+</ul>
+<h2>Current Evidence</h2>
+<h3>Promising Results</h3>
+<ol>
+<li><strong>Preclinical AD detection</strong>: NDEs abnormal years before symptoms</li>
+<li><strong>Insulin resistance</strong>: CNS insulin signaling in blood</li>
+<li><strong>α-synuclein</strong>: Brain-specific synuclein measurement</li>
+<li><strong>Treatment response</strong>: Potential monitoring tool</li>
+</ol>
+<h3>Limitations and Controversies</h3>
+<ol>
+<li><strong>L1CAM specificity</strong>: May not be neuron-exclusive</li>
+<li><strong>Standardization</strong>: Protocol variation affects results</li>
+<li><strong>Reproducibility</strong>: Some findings not replicated</li>
+<li><strong>Validation</strong>: Limited large-cohort studies</li>
+<li><strong>Clinical readiness</strong>: Still research phase</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Neuron-Derived_Exosome_Biomarkers]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Blood_NfL]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Plasma_Amyloid-Beta_Ratio]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Plasma_Amyloid-Beta_Ratio]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Alpha-Synuclein_SAA]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_SAA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Amyloid_Cascade]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Cascade]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Plasma_p-tau217]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Plasma_p-tau217]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:21.461659'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
 source: obsidian
-```
-- → [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:03:10.798993'
+</code></pre>
+<ul>
+<li>→ [[Neuron-Derived_Exosome_Biomarkers]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:10.798993'
 source: obsidian
-```
-- → [[Alpha-Synuclein_Aggregation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_Aggregation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Tau_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Tau_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Amyloid_Cascade]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Cascade]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Plasma_p-tau217]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Plasma_p-tau217]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Plasma_Amyloid-Beta_Ratio]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Plasma_Amyloid-Beta_Ratio]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Alpha-Synuclein_SAA]] (examination)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Synuclein_SAA]] (examination)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Frontotemporal_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Frontotemporal_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
-- → [[Blood_NfL]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:15.353378'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition) - <em>NDE Aβ and tau research</em></li>
+<li>→ [[Parkinson's Disease]] (condition) - <em>NDE α-synuclein</em></li>
+<li>→ [[Type 2 Diabetes]] (condition) - <em>Insulin resistance in NDEs</em></li>
+<li>→ [[Frontotemporal Dementia]] (condition) - <em>Emerging research</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[Plasma p-tau217]] (biomarker) - <em>More validated, simpler</em></li>
+<li>→ [[Plasma Amyloid-Beta Ratio]] (biomarker) - <em>Alternative approach</em></li>
+<li>→ [[Blood NfL]] (biomarker) - <em>Complementary</em></li>
+<li>→ [[Alpha-Synuclein SAA]] (examination) - <em>More established for synuclein</em></li>
+</ul>
+<h3>Pathways</h3>
+<ul>
+<li>→ [[Amyloid Cascade]] (pathway) - <em>NDE Aβ reflects</em></li>
+<li>→ [[Tau Phosphorylation]] (pathway) - <em>NDE p-tau reflects</em></li>
+<li>→ [[Alpha-Synuclein Aggregation]] (pathway) - <em>NDE αSyn reflects</em></li>
+</ul>
+<h2>Comparison to Other Blood Biomarkers</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>NDEs</th>
+<th>Total Plasma p-tau217</th>
+<th>Total Plasma Aβ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Brain specificity</td>
+<td>High</td>
+<td>Moderate</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Standardization</td>
+<td>Low</td>
+<td>Moderate-High</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Clinical validation</td>
+<td>Low</td>
+<td>High</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Complexity</td>
+<td>High</td>
+<td>Low</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Clinical readiness</td>
+<td>Research</td>
+<td>Near-clinical</td>
+<td>Emerging</td>
+</tr>
+</tbody>
+</table>
+<h2>Future Potential</h2>
+<h3>If Standardization Achieved</h3>
+<ul>
+<li>Could provide multi-biomarker panel from single draw</li>
+<li>Access multiple pathologies simultaneously</li>
+<li>Brain insulin signaling assessment</li>
+<li>Treatment target engagement</li>
+</ul>
+<h3>Challenges to Overcome</h3>
+<ol>
+<li>Standardized isolation protocols</li>
+<li>Validated neuronal markers</li>
+<li>Large validation cohorts</li>
+<li>Head-to-head vs. simpler plasma assays</li>
+<li>Cost-effectiveness</li>
+</ol>
+<h3>Realistic Role</h3>
+<ul>
+<li>Likely complementary to simpler plasma assays</li>
+<li>May offer unique information (insulin signaling)</li>
+<li>Research tool before clinical implementation</li>
+<li>Alpha-synuclein may be best application</li>
+</ul>
+<h2>Sample Considerations</h2>
+<h3>Collection</h3>
+<ul>
+<li>Standard K2-EDTA plasma</li>
+<li>Fresh or frozen</li>
+<li>Large volume helpful (10-20 mL plasma)</li>
+</ul>
+<h3>Processing</h3>
+<ul>
+<li>Requires specialized isolation</li>
+<li>Hours of processing time</li>
+<li>Laboratory expertise needed</li>
+<li>Not point-of-care ready</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Original AD Study</strong>: Fiandaca, M.S., et al. (2015). &quot;Identification of preclinical AD with NDEs.&quot; <em>Alzheimer's &amp; Dementia</em>.</li>
+<li><strong>Insulin Signaling</strong>: Kapogiannis, D., et al. (2015). &quot;Dysfunctionally phosphorylated type 1 insulin receptor in NDEs.&quot; <em>FASEB Journal</em>.</li>
+<li><strong>Critical Review</strong>: Hornung, S., et al. (2020). &quot;CNS-derived blood exosomes: Considerations for biomarker.&quot; <em>Frontiers in Molecular Neuroscience</em>.</li>
+<li><strong>α-Synuclein</strong>: Shi, M., et al. (2014). &quot;Plasma exosomal α-synuclein in PD.&quot; <em>Annals of Neurology</em>.</li>
+</ol>
 
-### Conditions
-- → [[Alzheimer's Disease]] (condition) - *NDE Aβ and tau research*
-- → [[Parkinson's Disease]] (condition) - *NDE α-synuclein*
-- → [[Type 2 Diabetes]] (condition) - *Insulin resistance in NDEs*
-- → [[Frontotemporal Dementia]] (condition) - *Emerging research*
-
-### Related Biomarkers
-- → [[Plasma p-tau217]] (biomarker) - *More validated, simpler*
-- → [[Plasma Amyloid-Beta Ratio]] (biomarker) - *Alternative approach*
-- → [[Blood NfL]] (biomarker) - *Complementary*
-- → [[Alpha-Synuclein SAA]] (examination) - *More established for synuclein*
-
-### Pathways
-- → [[Amyloid Cascade]] (pathway) - *NDE Aβ reflects*
-- → [[Tau Phosphorylation]] (pathway) - *NDE p-tau reflects*
-- → [[Alpha-Synuclein Aggregation]] (pathway) - *NDE αSyn reflects*
-
-## Comparison to Other Blood Biomarkers
-
-| Feature | NDEs | Total Plasma p-tau217 | Total Plasma Aβ |
-|---------|------|----------------------|-----------------|
-| Brain specificity | High | Moderate | Low |
-| Standardization | Low | Moderate-High | Moderate |
-| Clinical validation | Low | High | Moderate |
-| Complexity | High | Low | Moderate |
-| Clinical readiness | Research | Near-clinical | Emerging |
-
-## Future Potential
-
-### If Standardization Achieved
-- Could provide multi-biomarker panel from single draw
-- Access multiple pathologies simultaneously
-- Brain insulin signaling assessment
-- Treatment target engagement
-
-### Challenges to Overcome
-1. Standardized isolation protocols
-2. Validated neuronal markers
-3. Large validation cohorts
-4. Head-to-head vs. simpler plasma assays
-5. Cost-effectiveness
-
-### Realistic Role
-- Likely complementary to simpler plasma assays
-- May offer unique information (insulin signaling)
-- Research tool before clinical implementation
-- Alpha-synuclein may be best application
-
-## Sample Considerations
-
-### Collection
-- Standard K2-EDTA plasma
-- Fresh or frozen
-- Large volume helpful (10-20 mL plasma)
-
-### Processing
-- Requires specialized isolation
-- Hours of processing time
-- Laboratory expertise needed
-- Not point-of-care ready
-
-## References
-1. **Original AD Study**: Fiandaca, M.S., et al. (2015). "Identification of preclinical AD with NDEs." *Alzheimer's & Dementia*.
-2. **Insulin Signaling**: Kapogiannis, D., et al. (2015). "Dysfunctionally phosphorylated type 1 insulin receptor in NDEs." *FASEB Journal*.
-3. **Critical Review**: Hornung, S., et al. (2020). "CNS-derived blood exosomes: Considerations for biomarker." *Frontiers in Molecular Neuroscience*.
-4. **α-Synuclein**: Shi, M., et al. (2014). "Plasma exosomal α-synuclein in PD." *Annals of Neurology*.
+{% endraw %}

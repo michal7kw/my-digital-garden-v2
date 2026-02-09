@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.428982Z'
+created: '2026-02-09T05:40:20.629919Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
@@ -9,185 +9,203 @@ permalink: /garden/dev_admin/biomarker/egfr/
 slug: egfr
 tags:
 - biomarker
+templateEngineOverride: njk
 title: EGFR
 type: biomarker
-updated: '2026-02-08T19:45:44.428982Z'
+updated: '2026-02-09T05:40:20.629919Z'
 ---
 
-# Egfr
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
+{% raw %}
+<h1>Egfr</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[AKT1]] (protein)
-```yaml
-last_modified: '2026-01-26T06:48:58.404292'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[AKT1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.404292'
 source: obsidian
-```
-- ← [[Glioblastoma]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:39.447169'
+</code></pre>
+<ul>
+<li>← [[Glioblastoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.447169'
 source: obsidian
-```
-- → [[Egfr]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:11.969487'
+</code></pre>
+<ul>
+<li>→ [[Egfr]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.969487'
 source: obsidian
-```
-- → [[Colorectal_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[Colorectal_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[EGFR_Status]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[EGFR_Status]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[Lung_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[Lung_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[MAPK_Signaling_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[EGFR_Signaling_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[EGFR_Signaling_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[Gefitinib]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[Gefitinib]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[Cetuximab]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[Cetuximab]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[EGF]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[EGF]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[KRAS]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[KRAS]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[TGF-alpha]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[TGF-alpha]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[EGFR_Signaling_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[EGFR_Signaling_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[MAPK_Signaling_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[MAPK_Signaling_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[Colorectal_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[Colorectal_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[Erlotinib]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[Erlotinib]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[Lung_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[Lung_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- ← [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:33.887168'
+</code></pre>
+<ul>
+<li>← [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
 source: obsidian
-```
-- → [[Glioblastoma]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[Glioblastoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- → [[AKT1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:30.803713'
+</code></pre>
+<ul>
+<li>→ [[AKT1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
 source: obsidian
-```
-- ← [[EGFR_Status]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:11.766148'
+</code></pre>
+<ul>
+<li>← [[EGFR_Status]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
 source: obsidian
-```
-- ← [[UBC]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:34.416393'
+</code></pre>
+<ul>
+<li>← [[UBC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
-```
-- → [[UBC]] (protein)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>→ [[UBC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- → [[EGFR]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:46.410223'
+</code></pre>
+<ul>
+<li>→ [[EGFR]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.410223'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Egfr]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

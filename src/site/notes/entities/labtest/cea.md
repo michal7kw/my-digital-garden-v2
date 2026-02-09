@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.550294Z'
+created: '2026-02-09T05:40:21.316780Z'
 description: Carcinoembryonic Antigen (CEA) test. Tumor marker primarily used for
   monitoring colorectal cancer treatment response and detecting recurrence. Also elevated
   in pancreatic, lung, breast, and other adenocarcinomas.
@@ -10,69 +10,125 @@ permalink: /garden/dev_admin/labtest/cea/
 slug: cea
 tags:
 - labtest
+templateEngineOverride: njk
 title: cea
 type: labtest
-updated: '2026-02-08T19:45:44.550294Z'
+updated: '2026-02-09T05:40:21.316780Z'
 ---
 
-# CEA
+{% raw %}
+<h1>CEA</h1>
+<h2>Overview</h2>
+<p>Carcinoembryonic Antigen (CEA) is a glycoprotein involved in cell adhesion that is normally produced during fetal development and is present at very low levels in healthy adults. CEA is one of the most widely used tumor markers in clinical oncology, primarily for monitoring colorectal cancer patients during and after treatment. It was first identified in 1965 and remains a cornerstone of post-treatment surveillance protocols.</p>
+<p>CEA is not recommended as a screening test for cancer in the general population due to insufficient sensitivity and specificity. However, it has well-established clinical utility in several specific contexts: preoperative staging (elevated CEA predicts poorer prognosis), monitoring response to chemotherapy (declining levels indicate treatment response), post-surgical surveillance (rising levels may indicate recurrence 3-6 months before clinical detection), and monitoring of metastatic disease burden.</p>
+<p>In colorectal cancer, the American Society of Clinical Oncology (ASCO) recommends measuring CEA preoperatively and monitoring every 3 months for at least 3 years after curative resection. A sustained rise in CEA above baseline warrants further investigation with imaging. CEA can also be elevated in non-malignant conditions including smoking, inflammatory bowel disease, pancreatitis, hepatitis, and cirrhosis.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Cancer Screening</td>
+</tr>
+<tr>
+<td><strong>Test Type</strong></td>
+<td>Specialized</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Fasting Required</strong></td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>HSA Eligible</strong></td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>FSA Eligible</strong></td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Range</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Normal (non-smoker)</strong></td>
+<td>&lt;3.0 ng/mL</td>
+<td>Within normal limits</td>
+</tr>
+<tr>
+<td><strong>Normal (smoker)</strong></td>
+<td>&lt;5.0 ng/mL</td>
+<td>Within normal limits for smokers</td>
+</tr>
+<tr>
+<td><strong>Borderline</strong></td>
+<td>5-10 ng/mL</td>
+<td>Mild elevation; evaluate for benign causes or malignancy</td>
+</tr>
+<tr>
+<td><strong>Elevated</strong></td>
+<td>&gt;10 ng/mL</td>
+<td>Suspicious for malignancy; further workup recommended</td>
+</tr>
+<tr>
+<td><strong>Markedly Elevated</strong></td>
+<td>&gt;20 ng/mL</td>
+<td>Highly suggestive of metastatic disease</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Colorectal Cancer]]</li>
+<li>[[Pancreatic Cancer]]</li>
+<li>[[Lung Cancer]]</li>
+<li>[[Breast Cancer]]</li>
+<li>[[Inflammatory Bowel Disease]]</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Measures</h3>
+<ul>
+<li>→ [[CEA]] (biomarker)</li>
+</ul>
+<h3>Included In</h3>
+<ul>
+<li>→ [[cancer screening panel]] (labtestpanel)</li>
+</ul>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>CEA is NOT recommended as a screening test for cancer in asymptomatic populations</li>
+<li>Smoking elevates baseline CEA levels; always note smoking status</li>
+<li>Serial measurements are more informative than single values; trend over time matters</li>
+<li>Post-surgical CEA should normalize within 4-6 weeks after complete tumor resection</li>
+<li>Persistently rising CEA after treatment suggests recurrence or metastatic progression</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-02-07</em></p>
 
-## Overview
-Carcinoembryonic Antigen (CEA) is a glycoprotein involved in cell adhesion that is normally produced during fetal development and is present at very low levels in healthy adults. CEA is one of the most widely used tumor markers in clinical oncology, primarily for monitoring colorectal cancer patients during and after treatment. It was first identified in 1965 and remains a cornerstone of post-treatment surveillance protocols.
-
-CEA is not recommended as a screening test for cancer in the general population due to insufficient sensitivity and specificity. However, it has well-established clinical utility in several specific contexts: preoperative staging (elevated CEA predicts poorer prognosis), monitoring response to chemotherapy (declining levels indicate treatment response), post-surgical surveillance (rising levels may indicate recurrence 3-6 months before clinical detection), and monitoring of metastatic disease burden.
-
-In colorectal cancer, the American Society of Clinical Oncology (ASCO) recommends measuring CEA preoperatively and monitoring every 3 months for at least 3 years after curative resection. A sustained rise in CEA above baseline warrants further investigation with imaging. CEA can also be elevated in non-malignant conditions including smoking, inflammatory bowel disease, pancreatitis, hepatitis, and cirrhosis.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Cancer Screening |
-| **Test Type** | Specialized |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Fasting Required** | No |
-| **HSA Eligible** | Yes |
-| **FSA Eligible** | Yes |
-
-## Reference Ranges
-
-| Range | Value | Interpretation |
-|-------|-------|----------------|
-| **Normal (non-smoker)** | <3.0 ng/mL | Within normal limits |
-| **Normal (smoker)** | <5.0 ng/mL | Within normal limits for smokers |
-| **Borderline** | 5-10 ng/mL | Mild elevation; evaluate for benign causes or malignancy |
-| **Elevated** | >10 ng/mL | Suspicious for malignancy; further workup recommended |
-| **Markedly Elevated** | >20 ng/mL | Highly suggestive of metastatic disease |
-
-## Recommended For
-
-### Conditions
-Useful for monitoring or diagnosing:
-- [[Colorectal Cancer]]
-- [[Pancreatic Cancer]]
-- [[Lung Cancer]]
-- [[Breast Cancer]]
-- [[Inflammatory Bowel Disease]]
-
-## Relationships
-### Measures
-- → [[CEA]] (biomarker)
-
-### Included In
-- → [[cancer screening panel]] (labtestpanel)
-
-## Notes
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- CEA is NOT recommended as a screening test for cancer in asymptomatic populations
-- Smoking elevates baseline CEA levels; always note smoking status
-- Serial measurements are more informative than single values; trend over time matters
-- Post-surgical CEA should normalize within 4-6 weeks after complete tumor resection
-- Persistently rising CEA after treatment suggests recurrence or metastatic progression
-
----
-*Last Updated: 2026-02-07*
+{% endraw %}

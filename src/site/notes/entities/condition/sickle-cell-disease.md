@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.505060Z'
+created: '2026-02-09T05:40:21.083418Z'
 description: A group of inherited red blood cell disorders characterized by abnormal
   hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.
 dg-home: false
@@ -12,113 +12,100 @@ tags:
 - hematology
 - genetic
 - function-health
+templateEngineOverride: njk
 title: Sickle Cell Disease
 type: condition
-updated: '2026-02-08T19:45:44.505060Z'
+updated: '2026-02-09T05:40:21.083418Z'
 ---
 
-# Sickle Cell Disease
-
-## Overview
-A group of inherited red blood cell disorders characterized by abnormal hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Sickle Cell Disease</h1>
+<h2>Overview</h2>
+<p>A group of inherited red blood cell disorders characterized by abnormal hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Sickle Cell Disease]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Sickle_Cell_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:41.477897'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Sickle_Cell_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:41.477897'
 source: obsidian
-```
-- → [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:41.477897'
+</code></pre>
+<ul>
+<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:41.477897'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Sickle Cell Disease]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Sickle Cell Disease]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Sickle_Cell_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:37.564852'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Sickle_Cell_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
-```
-- ← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:56.923847'
+</code></pre>
+<ul>
+<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
 source: obsidian
-```
-- → [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:37.564852'
+</code></pre>
+<ul>
+<li>→ [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
-```
-- → [[Sickle_Cell_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:37.564852'
+</code></pre>
+<ul>
+<li>→ [[Sickle_Cell_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
 source: obsidian
-```
-
-### May Detect
-- ← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[mean_corpuscular_hemoglobin_concentration_mchc]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

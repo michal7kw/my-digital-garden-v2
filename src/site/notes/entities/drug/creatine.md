@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.515411Z'
+created: '2026-02-09T05:40:21.138745Z'
 description: Most researched sports supplement. Enhances ATP regeneration for high-intensity
   exercise and supports brain energy. Proven safe and effective.
 dg-home: false
@@ -15,512 +15,568 @@ tags:
 - muscle
 - brain
 - athletic
+templateEngineOverride: njk
 title: Creatine
 type: drug
-updated: '2026-02-08T19:45:44.515411Z'
+updated: '2026-02-09T05:40:21.138745Z'
 ---
 
-# Creatine
-
-## Overview
-Most researched sports supplement. Enhances ATP regeneration for high-intensity exercise and supports brain energy. Proven safe and effective.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Creatine</h1>
+<h2>Overview</h2>
+<p>Most researched sports supplement. Enhances ATP regeneration for high-intensity exercise and supports brain energy. Proven safe and effective.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Phosphocreatine]] (metabolite)
-```yaml
-last_modified: '2026-01-26T06:48:34.635496'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Phosphocreatine]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.635496'
 source: obsidian
-```
-- ← [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-26T06:48:37.114477'
+</code></pre>
+<ul>
+<li>← [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:37.114477'
 source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:19.549791'
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
 source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:25.519524'
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
 source: obsidian
-```
-- ← [[Sarcopenia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:37.192580'
+</code></pre>
+<ul>
+<li>← [[Sarcopenia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.192580'
 source: obsidian
-```
-- ← [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:05.909377'
+</code></pre>
+<ul>
+<li>← [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.909377'
 source: obsidian
-```
-- ← [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:07.961287'
+</code></pre>
+<ul>
+<li>← [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.961287'
 source: obsidian
-```
-- ← [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:09.801738'
+</code></pre>
+<ul>
+<li>← [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:09.801738'
 source: obsidian
-```
-- ← [[Coenzyme_Q10]] (supplement)
-```yaml
-last_modified: '2026-01-26T06:42:49.159387'
+</code></pre>
+<ul>
+<li>← [[Coenzyme_Q10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:49.159387'
 source: obsidian
-```
-- ← [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:26.895632'
+</code></pre>
+<ul>
+<li>← [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.895632'
 source: obsidian
-```
-- ← [[Parkinsons_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:35.297115'
+</code></pre>
+<ul>
+<li>← [[Parkinsons_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
 source: obsidian
-```
-- ← [[Oxidative_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.714420'
+</code></pre>
+<ul>
+<li>← [[Oxidative_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
 source: obsidian
-```
-- ← [[ATP_Synthase]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:29.174663'
+</code></pre>
+<ul>
+<li>← [[ATP_Synthase]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.174663'
 source: obsidian
-```
-- ← [[ADP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T06:48:33.426519'
+</code></pre>
+<ul>
+<li>← [[ADP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:33.426519'
 source: obsidian
-```
-- → [[Coenzyme_Q10]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:08.697730'
+</code></pre>
+<ul>
+<li>→ [[Coenzyme_Q10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.697730'
 source: obsidian
-```
-- → [[Sarcopenia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Sarcopenia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Coenzyme_Q10]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Coenzyme_Q10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Carbohydrates]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Carbohydrates]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Beta-Alanine]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Beta-Alanine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Phosphocreatine]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Phosphocreatine]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[HMB]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[HMB]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Cognitive_Decline]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.099790'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
 source: obsidian
-```
-- → [[Parkinsons_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.863912'
+</code></pre>
+<ul>
+<li>→ [[Parkinsons_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.863912'
 source: obsidian
-```
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-26T06:47:57.863912'
+</code></pre>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.863912'
 source: obsidian
-```
-- → [[Oxidative_Phosphorylation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.863912'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Phosphorylation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.863912'
 source: obsidian
-```
-- → [[ATP_Synthase]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.863912'
+</code></pre>
+<ul>
+<li>→ [[ATP_Synthase]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.863912'
 source: obsidian
-```
-- → [[Creatine_Phosphate_Shuttle]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:57.863912'
+</code></pre>
+<ul>
+<li>→ [[Creatine_Phosphate_Shuttle]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.863912'
 source: obsidian
-```
-- → [[ADP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T06:47:57.863912'
+</code></pre>
+<ul>
+<li>→ [[ADP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.863912'
 source: obsidian
-```
-
-### Improves Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:08.561961'
+</code></pre>
+<h3>Improves Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.561961'
 source: obsidian
-```
-
-### Related To
-- → [[ADP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Related To</h3>
+<ul>
+<li>→ [[ADP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Oxidative_Phosphorylation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Phosphorylation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-
-### Has Mechanism Of Action
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:08.518365'
+</code></pre>
+<h3>Has Mechanism Of Action</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.518365'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Heart]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Heart]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Sarcopenia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Sarcopenia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Cognitive_Decline]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-
-### Synergistic With
-- → [[HMB]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[HMB]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Carbohydrates]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Carbohydrates]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Beta-Alanine]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Beta-Alanine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-
-### Increases Metabolite
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Increases Metabolite</h3>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-- → [[Phosphocreatine]] (metabolite)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<ul>
+<li>→ [[Phosphocreatine]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-
-### Supports
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Supports</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
-
-### Participates In Pathway
-- → [[Creatine_Phosphate_Shuttle]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:36.518401'
+</code></pre>
+<h3>Participates In Pathway</h3>
+<ul>
+<li>→ [[Creatine_Phosphate_Shuttle]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Improves Condition</h3>
+<ul>
+<li>→ [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.561961'
+source: obsidian
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Sarcopenia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<h3>Has Mechanism Of Action</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.518365'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Coenzyme_Q10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:08.697730'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:42:07.311290'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Phosphocreatine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Carbohydrates]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Beta-Alanine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[HMB]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Cognitive_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Coenzyme_Q10]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[supplement_regimen]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Depression]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.923985'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:34.809082'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Chronic_Inflammation]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Sarcopenia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.327345'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Sarcopenia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:55.212976'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:02.002935'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:08.852769'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Coenzyme_Q10]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-18T17:28:10.254635'
+source: obsidian
+</code></pre>
+<h3>Increases Metabolite</h3>
+<ul>
+<li>→ [[ATP]] (metabolite)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Phosphocreatine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Carbohydrates]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Beta-Alanine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[HMB]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
+source: obsidian
+</code></pre>
 
-### Improves Condition
-- → [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2025-12-28T11:01:08.561961'
-source: obsidian
-```
-
-### Affects Organ
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-
-### May Improve Condition
-- → [[Sarcopenia]] (condition)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-- → [[Cognitive_Decline]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-
-### Has Mechanism Of Action
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2025-12-28T11:01:08.518365'
-source: obsidian
-```
-
-### Related
-- → [[Coenzyme_Q10]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:08.697730'
-source: obsidian
-```
-- ← [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-19T08:42:07.311290'
-source: obsidian
-```
-- → [[Phosphocreatine]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Carbohydrates]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Beta-Alanine]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[HMB]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Cognitive_Decline]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Chronic_Inflammation]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Coenzyme_Q10]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[supplement_regimen]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- ← [[Depression]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:02.923985'
-source: obsidian
-```
-- ← [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:30:34.809082'
-source: obsidian
-```
-- ← [[Chronic_Inflammation]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:57.049485'
-source: obsidian
-```
-- ← [[Sarcopenia]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:40.327345'
-source: obsidian
-```
-- → [[Sarcopenia]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-```
-- ← [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:32:55.212976'
-source: obsidian
-```
-- ← [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:33:02.002935'
-source: obsidian
-```
-- ← [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-19T09:33:08.852769'
-source: obsidian
-```
-- ← [[Coenzyme_Q10]] (supplement)
-```yaml
-last_modified: '2026-01-18T17:28:10.254635'
-source: obsidian
-```
-
-### Increases Metabolite
-- → [[ATP]] (metabolite)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-- → [[Phosphocreatine]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-
-### Synergistic With
-- → [[Carbohydrates]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-- → [[Beta-Alanine]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
-- → [[HMB]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-```
+{% endraw %}

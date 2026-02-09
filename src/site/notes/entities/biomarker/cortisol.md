@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.425771Z'
+created: '2026-02-09T05:40:20.612260Z'
 description: Primary glucocorticoid hormone produced by the adrenal cortex that regulates
   stress response, metabolism, immune function, and circadian rhythm. Essential for
   life but chronically elevated levels contribute to numerous health problems.
@@ -10,186 +10,213 @@ permalink: /garden/dev_admin/biomarker/cortisol/
 slug: cortisol
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Cortisol
 type: biomarker
-updated: '2026-02-08T19:45:44.425771Z'
+updated: '2026-02-09T05:40:20.612260Z'
 ---
 
-# Cortisol
-
-## Overview
-Primary glucocorticoid hormone produced by the adrenal cortex that regulates stress response, metabolism, immune function, and circadian rhythm. Essential for life but chronically elevated levels contribute to numerous health problems.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Cortisol</h1>
+<h2>Overview</h2>
+<p>Primary glucocorticoid hormone produced by the adrenal cortex that regulates stress response, metabolism, immune function, and circadian rhythm. Essential for life but chronically elevated levels contribute to numerous health problems.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[dutch_complete]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:12.279711'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[dutch_complete]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.279711'
 source: obsidian
-```
-- ← [[cortisol_am]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.375834'
+</code></pre>
+<ul>
+<li>← [[cortisol_am]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.375834'
 source: obsidian
-```
-- ← [[cortisol]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>← [[cortisol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Sleep_Optimization]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[Sleep_Optimization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[BDNF]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[BDNF]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[Apigenin]] (supplement)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[Apigenin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[Bacopa_Monnieri]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[Bacopa_Monnieri]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[cortisol_am]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[cortisol_am]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[dutch_complete]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:15.523733'
+</code></pre>
+<ul>
+<li>→ [[dutch_complete]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
 source: obsidian
-```
-- → [[dutch_complete]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[dutch_complete]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[Vitamin_C]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[cortisol_am]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[cortisol_am]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[Rhodiola_Rosea]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- ← [[Bacopa_Monnieri]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.750324'
+</code></pre>
+<ul>
+<li>← [[Bacopa_Monnieri]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.750324'
 source: obsidian
-```
-- ← [[Apigenin]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.283353'
+</code></pre>
+<ul>
+<li>← [[Apigenin]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
 source: obsidian
-```
-- ← [[Anxiety]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:13.859142'
+</code></pre>
+<ul>
+<li>← [[Anxiety]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:13.859142'
 source: obsidian
-```
-- → [[cortisol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[cortisol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- ← [[Sleep_Optimization]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.863953'
+</code></pre>
+<ul>
+<li>← [[Sleep_Optimization]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
-```
-- ← [[BDNF]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.191066'
+</code></pre>
+<ul>
+<li>← [[BDNF]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.191066'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[Ashwagandha]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- ← [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.117515'
+</code></pre>
+<ul>
+<li>← [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.117515'
 source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:38.494293'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.494293'
 source: obsidian
-```
-- ← [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.408952'
+</code></pre>
+<ul>
+<li>← [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.408952'
 source: obsidian
-```
-- ← [[Ashwagandha]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:39.946713'
+</code></pre>
+<ul>
+<li>← [[Ashwagandha]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.946713'
 source: obsidian
-```
-
-### Modulates Biomarker
-- ← [[Magnesium]] (supplement)
-```yaml
-effect_direction: modulates
+</code></pre>
+<h3>Modulates Biomarker</h3>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 evidence_level: 2
 last_modified: '2026-01-26T07:08:38.359573'
 magnitude: mild
@@ -199,91 +226,100 @@ population_context: stressed individuals
 source: obsidian
 study_references:
 - PMID:21835188
-```
-
-### Indicates Organ Health
-- → [[Adrenal Glands]] (organ)
-```yaml
-specificity: high
+</code></pre>
+<h3>Indicates Organ Health</h3>
+<ul>
+<li>→ [[Adrenal Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: high
 function_indicated: Stress Response / HPA Axis
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- ← [[Ashwagandha]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:49.132972'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>← [[Ashwagandha]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:49.132972'
 source: obsidian
-```
-- ← [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:57.682226'
+</code></pre>
+<ul>
+<li>← [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:57.682226'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:07.990267'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:07.990267'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
 source: obsidian
-```
-- ← [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:20.032007'
+</code></pre>
+<ul>
+<li>← [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:20.032007'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:12.236167'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.236167'
 source: obsidian
-```
-- → [[Ashwagandha]] (drug)
-```yaml
-last_modified: '2026-01-19T09:30:12.236167'
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.236167'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:12.236167'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.236167'
 source: obsidian
-```
-- → [[Rhodiola_Rosea]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:12.236167'
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.236167'
 source: obsidian
-```
-- → [[Vitamin_C]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:12.236167'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.236167'
 source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:12.236167'
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:12.236167'
 source: obsidian
-```
-
-### Modulates Biomarker
-- ← [[Magnesium]] (supplement)
-```yaml
-effect_direction: modulates
+</code></pre>
+<h3>Modulates Biomarker</h3>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 evidence_level: 2
 last_modified: '2026-01-19T09:07:07.467811'
 magnitude: mild
@@ -293,28 +329,26 @@ population_context: stressed individuals
 source: obsidian
 study_references:
 - PMID:21835188
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[cortisol]] - Serum cortisol measurement
-- [[cortisol am]] - Morning cortisol measurement
-
-### Panel Tests
-- [[dutch complete]] - Comprehensive hormone panel with cortisol metabolites
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[cortisol]] - Serum cortisol measurement</li>
+<li>[[cortisol am]] - Morning cortisol measurement</li>
+</ul>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[dutch complete]] - Comprehensive hormone panel with cortisol metabolites</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Cortisol]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

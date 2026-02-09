@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.653880Z'
+created: '2026-02-09T05:40:22.204381Z'
 description: Essential trace element required for thyroid hormone synthesis (T3 and
   T4). Critical for metabolic regulation, cognitive development, and overall health.
   Deficiency remains common worldwide.
@@ -15,106 +15,112 @@ tags:
 - thyroid
 - metabolic
 - hormone
+templateEngineOverride: njk
 title: Iodine
 type: supplement
-updated: '2026-02-08T19:45:44.653880Z'
+updated: '2026-02-09T05:40:22.204381Z'
 ---
 
-# Iodine
-
-## Overview
-Essential trace element required for thyroid hormone synthesis (T3 and T4). Critical for metabolic regulation, cognitive development, and overall health. Deficiency remains common worldwide.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Iodine</h1>
+<h2>Overview</h2>
+<p>Essential trace element required for thyroid hormone synthesis (T3 and T4). Critical for metabolic regulation, cognitive development, and overall health. Deficiency remains common worldwide.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:41.100039'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.100039'
 source: obsidian
-```
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:38.057218'
+</code></pre>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.057218'
 source: obsidian
-```
-- → [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:37.544457'
+</code></pre>
+<ul>
+<li>→ [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.544457'
 source: obsidian
-```
-- → [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:37.544457'
+</code></pre>
+<ul>
+<li>→ [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.544457'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.995017'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.995017'
 source: obsidian
-```
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:21.763526'
+</code></pre>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.763526'
 source: obsidian
-```
-
-### Affects Biomarker
-- → [[Tsh]] (biomarker)
-```yaml
-effect_direction: modulates
+</code></pre>
+<h3>Affects Biomarker</h3>
+<ul>
+<li>→ [[Tsh]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: modulates
 magnitude: moderate
 evidence_level: 4
 source: curated
-```
-- → [[Free T4]] (biomarker)
-```yaml
-effect_direction: increases
+</code></pre>
+<ul>
+<li>→ [[Free T4]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">effect_direction: increases
 magnitude: moderate
 evidence_level: 4
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Synergistic With
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:21.763526'
+<h2>Relationships</h2>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.763526'
 source: obsidian
-```
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.995017'
+</code></pre>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.995017'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.598897'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.598897'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:06.449515'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.719280'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:04.598897'
-source: obsidian
-```
-- → [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:04.598897'
-source: obsidian
-```
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:06.449515'
-source: obsidian
-```
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:16.719280'
-source: obsidian
-```
+{% endraw %}

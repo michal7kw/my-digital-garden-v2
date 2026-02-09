@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.448176Z'
+created: '2026-02-09T05:40:20.759108Z'
 description: Ubiquitin C-terminal Hydrolase L1, a neuron-specific enzyme released
   upon neuronal injury. FDA-cleared for traumatic brain injury assessment in combination
   with GFAP.
@@ -14,243 +14,314 @@ tags:
 - neuronal-injury
 - tbi
 - fda-cleared
+templateEngineOverride: njk
 title: UCH-L1
 type: biomarker
-updated: '2026-02-08T19:45:44.448176Z'
+updated: '2026-02-09T05:40:20.759108Z'
 ---
 
-# UCH-L1 (Ubiquitin C-terminal Hydrolase L1)
-
-## Overview
-Ubiquitin C-terminal Hydrolase L1 (UCH-L1) is a deubiquitinating enzyme highly expressed in neurons, comprising 1-2% of total brain protein. Upon neuronal damage, UCH-L1 is rapidly released into blood, making it a sensitive acute biomarker for brain injury. Combined with GFAP, UCH-L1 is FDA-cleared for traumatic brain injury triage.
-
-## Biological Background
-
-### Normal Function
-- Deubiquitinating enzyme (protein recycling)
-- Highly abundant in neurons
-- Involved in synaptic function
-- Regulates protein degradation
-
-### Release in Injury
-- Released from damaged neurons
-- Peaks early (hours after injury)
-- Shorter half-life than GFAP
-- Complements GFAP kinetics
-
-## FDA-Cleared Application
-
-### TBI Triage (Abbott i-STAT TBI Plasma Test)
-- Combined UCH-L1 + GFAP algorithm
-- Indicated for adults with suspected mild TBI
-- Rules out need for head CT
-- Point-of-care testing (~15 minutes)
-
-### Clinical Performance
-| Metric | Value |
-|--------|-------|
-| NPV for intracranial lesion | 99.6% |
-| Sensitivity | >97% |
-| Specificity | ~37% (optimized for NPV) |
-| Time to result | ~15 minutes |
-
-### When to Use
-- Glasgow Coma Scale 13-15 (mild TBI)
-- Within 12 hours of injury
-- Presentation where CT is considered
-
-## Kinetics After Brain Injury
-
-### UCH-L1 vs GFAP Timing
-| Biomarker | Peak | Half-life | Window |
-|-----------|------|-----------|--------|
-| UCH-L1 | 6-12 hours | 7-9 hours | 0-24 hours |
-| GFAP | 24-48 hours | 24-48 hours | 0-7 days |
-
-### Complementary Kinetics
-- UCH-L1: Early detection (first 12 hours)
-- GFAP: Extended window (days)
-- Combined: Broad temporal coverage
-
-## Other Clinical Contexts
-
-### Cardiac Arrest
-- Elevated in hypoxic brain injury
-- Prognostic potential
-- Less studied than NSE for this indication
-
-### Stroke
-- Acute elevation
-- May correlate with infarct size
-- Research stage
-
-### Neurodegeneration
-- Some studies show elevation in AD
-- Less validated than NfL, p-tau
-- Research interest
-
+{% raw %}
+<h1>UCH-L1 (Ubiquitin C-terminal Hydrolase L1)</h1>
+<h2>Overview</h2>
+<p>Ubiquitin C-terminal Hydrolase L1 (UCH-L1) is a deubiquitinating enzyme highly expressed in neurons, comprising 1-2% of total brain protein. Upon neuronal damage, UCH-L1 is rapidly released into blood, making it a sensitive acute biomarker for brain injury. Combined with GFAP, UCH-L1 is FDA-cleared for traumatic brain injury triage.</p>
+<h2>Biological Background</h2>
+<h3>Normal Function</h3>
+<ul>
+<li>Deubiquitinating enzyme (protein recycling)</li>
+<li>Highly abundant in neurons</li>
+<li>Involved in synaptic function</li>
+<li>Regulates protein degradation</li>
+</ul>
+<h3>Release in Injury</h3>
+<ul>
+<li>Released from damaged neurons</li>
+<li>Peaks early (hours after injury)</li>
+<li>Shorter half-life than GFAP</li>
+<li>Complements GFAP kinetics</li>
+</ul>
+<h2>FDA-Cleared Application</h2>
+<h3>TBI Triage (Abbott i-STAT TBI Plasma Test)</h3>
+<ul>
+<li>Combined UCH-L1 + GFAP algorithm</li>
+<li>Indicated for adults with suspected mild TBI</li>
+<li>Rules out need for head CT</li>
+<li>Point-of-care testing (~15 minutes)</li>
+</ul>
+<h3>Clinical Performance</h3>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NPV for intracranial lesion</td>
+<td>99.6%</td>
+</tr>
+<tr>
+<td>Sensitivity</td>
+<td>&gt;97%</td>
+</tr>
+<tr>
+<td>Specificity</td>
+<td>~37% (optimized for NPV)</td>
+</tr>
+<tr>
+<td>Time to result</td>
+<td>~15 minutes</td>
+</tr>
+</tbody>
+</table>
+<h3>When to Use</h3>
+<ul>
+<li>Glasgow Coma Scale 13-15 (mild TBI)</li>
+<li>Within 12 hours of injury</li>
+<li>Presentation where CT is considered</li>
+</ul>
+<h2>Kinetics After Brain Injury</h2>
+<h3>UCH-L1 vs GFAP Timing</h3>
+<table>
+<thead>
+<tr>
+<th>Biomarker</th>
+<th>Peak</th>
+<th>Half-life</th>
+<th>Window</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>UCH-L1</td>
+<td>6-12 hours</td>
+<td>7-9 hours</td>
+<td>0-24 hours</td>
+</tr>
+<tr>
+<td>GFAP</td>
+<td>24-48 hours</td>
+<td>24-48 hours</td>
+<td>0-7 days</td>
+</tr>
+</tbody>
+</table>
+<h3>Complementary Kinetics</h3>
+<ul>
+<li>UCH-L1: Early detection (first 12 hours)</li>
+<li>GFAP: Extended window (days)</li>
+<li>Combined: Broad temporal coverage</li>
+</ul>
+<h2>Other Clinical Contexts</h2>
+<h3>Cardiac Arrest</h3>
+<ul>
+<li>Elevated in hypoxic brain injury</li>
+<li>Prognostic potential</li>
+<li>Less studied than NSE for this indication</li>
+</ul>
+<h3>Stroke</h3>
+<ul>
+<li>Acute elevation</li>
+<li>May correlate with infarct size</li>
+<li>Research stage</li>
+</ul>
+<h3>Neurodegeneration</h3>
+<ul>
+<li>Some studies show elevation in AD</li>
+<li>Less validated than NfL, p-tau</li>
+<li>Research interest</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Cardiac_Arrest]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:24.670857'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cardiac_Arrest]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
-```
-- → [[Blood_NfL]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:24.670857'
+</code></pre>
+<ul>
+<li>→ [[Blood_NfL]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
-```
-- → [[Hypoxic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:24.670857'
+</code></pre>
+<ul>
+<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:24.670857'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
-```
-- → [[Traumatic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:24.670857'
+</code></pre>
+<ul>
+<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
-```
-- → [[CT_Head]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:24.670857'
+</code></pre>
+<ul>
+<li>→ [[CT_Head]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.670857'
 source: obsidian
-```
-- ← [[NSE]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:21.693422'
+</code></pre>
+<ul>
+<li>← [[NSE]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
 source: obsidian
-```
-- ← [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:20.980878'
+</code></pre>
+<ul>
+<li>← [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
 source: obsidian
-```
-- → [[CT_Head]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[CT_Head]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[Stroke]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[Stroke]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[Cardiac_Arrest]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[Cardiac_Arrest]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[Hypoxic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[Hypoxic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[Traumatic_Brain_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[Traumatic_Brain_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- ← [[S100B]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:16.720220'
+</code></pre>
+<ul>
+<li>← [[S100B]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
 source: obsidian
-```
-- ← [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.668732'
+</code></pre>
+<ul>
+<li>← [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
 source: obsidian
-```
-- ← [[Blood_NfL]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.597897'
+</code></pre>
+<ul>
+<li>← [[Blood_NfL]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
 source: obsidian
-```
-- → [[Neurofilament_Light_Chain]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[Neurofilament_Light_Chain]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[NSE]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[NSE]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[GFAP]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[GFAP]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
-- → [[S100B]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:18.184073'
+</code></pre>
+<ul>
+<li>→ [[S100B]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Traumatic Brain Injury]] (condition) - <em>FDA-cleared indication</em></li>
+<li>→ [[Hypoxic Brain Injury]] (condition) - <em>Elevated acutely</em></li>
+<li>→ [[Stroke]] (condition) - <em>Research</em></li>
+<li>→ [[Cardiac Arrest]] (condition) - <em>Prognostic potential</em></li>
+</ul>
+<h3>Related Biomarkers</h3>
+<ul>
+<li>→ [[GFAP]] (biomarker) - <em>Combined in TBI test</em></li>
+<li>→ [[S100B]] (biomarker) - <em>Alternative TBI marker</em></li>
+<li>→ [[NSE]] (biomarker) - <em>Neuronal marker</em></li>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Axonal damage</em></li>
+</ul>
+<h3>Examinations</h3>
+<ul>
+<li>← [[CT Head]] (examination) - <em>Imaging decision support</em></li>
+</ul>
+<h2>Advantages and Limitations</h2>
+<h3>Advantages</h3>
+<ul>
+<li>FDA-cleared, point-of-care</li>
+<li>Neuron-specific</li>
+<li>Rapid results (15 minutes)</li>
+<li>High NPV for CT decision</li>
+<li>Early detection after injury</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>Short half-life (miss delayed presentation)</li>
+<li>Lower specificity (false positives)</li>
+<li>Limited to acute injury window</li>
+<li>Not validated for neurodegeneration</li>
+<li>Only in combination with GFAP</li>
+</ul>
+<h2>Sample Considerations</h2>
+<h3>Collection</h3>
+<ul>
+<li>Plasma (K2-EDTA) or serum</li>
+<li>Within 12 hours of injury for optimal sensitivity</li>
+<li>Standard handling procedures</li>
+</ul>
+<h3>Interference</h3>
+<ul>
+<li>Hemolysis may affect results</li>
+<li>Following manufacturer protocol critical</li>
+</ul>
+<h2>Clinical Decision Support</h2>
+<h3>Negative Result (Low UCH-L1 + GFAP)</h3>
+<ul>
+<li>Low probability of intracranial lesion</li>
+<li>CT may not be needed</li>
+<li>Clinical judgment still applies</li>
+<li>Observe for symptom changes</li>
+</ul>
+<h3>Positive Result (Elevated)</h3>
+<ul>
+<li>Does not confirm lesion (low specificity)</li>
+<li>CT imaging recommended</li>
+<li>Rule-in test, not rule-out</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>FDA Clearance</strong>: Abbott i-STAT TBI Plasma test (2018, updated 2021).</li>
+<li><strong>Validation</strong>: Bazarian, J.J., et al. (2018). &quot;Serum GFAP and UCH-L1 for prediction of absence of intracranial injuries.&quot; <em>The Lancet Neurology</em>.</li>
+<li><strong>Kinetics</strong>: Papa, L., et al. (2016). &quot;Time course and diagnostic accuracy of glial and neuronal blood biomarkers GFAP and UCH-L1.&quot; <em>JAMA Neurology</em>.</li>
+</ol>
 
-### Conditions
-- → [[Traumatic Brain Injury]] (condition) - *FDA-cleared indication*
-- → [[Hypoxic Brain Injury]] (condition) - *Elevated acutely*
-- → [[Stroke]] (condition) - *Research*
-- → [[Cardiac Arrest]] (condition) - *Prognostic potential*
-
-### Related Biomarkers
-- → [[GFAP]] (biomarker) - *Combined in TBI test*
-- → [[S100B]] (biomarker) - *Alternative TBI marker*
-- → [[NSE]] (biomarker) - *Neuronal marker*
-- → [[Neurofilament Light Chain]] (biomarker) - *Axonal damage*
-
-### Examinations
-- ← [[CT Head]] (examination) - *Imaging decision support*
-
-## Advantages and Limitations
-
-### Advantages
-- FDA-cleared, point-of-care
-- Neuron-specific
-- Rapid results (15 minutes)
-- High NPV for CT decision
-- Early detection after injury
-
-### Limitations
-- Short half-life (miss delayed presentation)
-- Lower specificity (false positives)
-- Limited to acute injury window
-- Not validated for neurodegeneration
-- Only in combination with GFAP
-
-## Sample Considerations
-
-### Collection
-- Plasma (K2-EDTA) or serum
-- Within 12 hours of injury for optimal sensitivity
-- Standard handling procedures
-
-### Interference
-- Hemolysis may affect results
-- Following manufacturer protocol critical
-
-## Clinical Decision Support
-
-### Negative Result (Low UCH-L1 + GFAP)
-- Low probability of intracranial lesion
-- CT may not be needed
-- Clinical judgment still applies
-- Observe for symptom changes
-
-### Positive Result (Elevated)
-- Does not confirm lesion (low specificity)
-- CT imaging recommended
-- Rule-in test, not rule-out
-
-## References
-1. **FDA Clearance**: Abbott i-STAT TBI Plasma test (2018, updated 2021).
-2. **Validation**: Bazarian, J.J., et al. (2018). "Serum GFAP and UCH-L1 for prediction of absence of intracranial injuries." *The Lancet Neurology*.
-3. **Kinetics**: Papa, L., et al. (2016). "Time course and diagnostic accuracy of glial and neuronal blood biomarkers GFAP and UCH-L1." *JAMA Neurology*.
+{% endraw %}

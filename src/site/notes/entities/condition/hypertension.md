@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.480552Z'
+created: '2026-02-09T05:40:20.966756Z'
 description: Persistently elevated blood pressure (≥130/80 mmHg) that increases risk
   of heart disease, stroke, kidney disease, and premature death. Often called the
   'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.
@@ -14,212 +14,216 @@ tags:
 - chronic
 - hypertension
 - modifiable_risk
+templateEngineOverride: njk
 title: Hypertension
 type: condition
-updated: '2026-02-08T19:45:44.480552Z'
+updated: '2026-02-09T05:40:20.966756Z'
 ---
 
-# Hypertension
-
-## Overview
-Persistently elevated blood pressure (≥130/80 mmHg) that increases risk of heart disease, stroke, kidney disease, and premature death. Often called the 'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Hypertension</h1>
+<h2>Overview</h2>
+<p>Persistently elevated blood pressure (≥130/80 mmHg) that increases risk of heart disease, stroke, kidney disease, and premature death. Often called the 'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Hypertension]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Improve Condition
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:22.486474'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Improve Condition</h3>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.486474'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.377214'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.377214'
 source: obsidian
-```
-
-### May Detect
-- ← [[lead]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[lead]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[PRAZOSIN]] (entity)
-```yaml
-last_modified: '2026-01-19T08:39:36.089288'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[PRAZOSIN]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T08:39:36.089288'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:11.853683'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
 source: obsidian
-```
-- ← [[PRAZOSIN]] (drug)
-```yaml
-last_modified: '2026-01-19T09:32:02.527184'
+</code></pre>
+<ul>
+<li>← [[PRAZOSIN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:02.527184'
 source: obsidian
-```
-- → [[PRAZOSIN]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:11.853683'
+</code></pre>
+<ul>
+<li>→ [[PRAZOSIN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
 source: obsidian
-```
-- → [[lead]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:11.853683'
+</code></pre>
+<ul>
+<li>→ [[lead]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
 source: obsidian
-```
-- → [[Hypertension]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:11.853683'
+</code></pre>
+<ul>
+<li>→ [[Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:31:11.853683'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
 source: obsidian
-```
-- ← [[lead]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:32:30.205261'
+</code></pre>
+<ul>
+<li>← [[lead]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:30.205261'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:07.990267'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:07.990267'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:12.965838'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Hypertension]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Hypertension]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Vascular_Dementia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:41.165362'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vascular_Dementia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.165362'
 source: obsidian
-```
-- → [[Omega-3_Fatty_Acids]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:29.661054'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_Fatty_Acids]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
 source: obsidian
-```
-- ← [[Vascular_Dementia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:38.779185'
+</code></pre>
+<ul>
+<li>← [[Vascular_Dementia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
 source: obsidian
-```
-- ← [[lead]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.745625'
+</code></pre>
+<ul>
+<li>← [[lead]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
 source: obsidian
-```
-- → [[lead]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:29.661054'
+</code></pre>
+<ul>
+<li>→ [[lead]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
 source: obsidian
-```
-- → [[PRAZOSIN]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:29.661054'
+</code></pre>
+<ul>
+<li>→ [[PRAZOSIN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
 source: obsidian
-```
-- ← [[PRAZOSIN]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:43.289113'
+</code></pre>
+<ul>
+<li>← [[PRAZOSIN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.289113'
 source: obsidian
-```
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.989104'
+</code></pre>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:38.494293'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.494293'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:29.661054'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
 source: obsidian
-```
-- → [[Hypertension]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:29.661054'
+</code></pre>
+<ul>
+<li>→ [[Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
 source: obsidian
-```
-
-### May Detect
-- ← [[lead]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[lead]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### May Improve Condition
-- ← [[Omega-3_Fatty_Acids]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:24.377214'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>← [[Omega-3_Fatty_Acids]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.377214'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:22.486474'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.486474'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

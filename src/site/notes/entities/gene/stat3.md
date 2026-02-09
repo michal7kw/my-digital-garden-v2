@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.534370Z'
+created: '2026-02-09T05:40:21.231770Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,51 +13,51 @@ tags:
 - cancer_biology
 - imported
 - primekg
+templateEngineOverride: njk
 title: STAT3
 type: gene
-updated: '2026-02-08T19:45:44.534370Z'
+updated: '2026-02-09T05:40:21.231770Z'
 ---
 
-# "STAT3"
+{% raw %}
+<h1>&quot;STAT3&quot;</h1>
+<h2>Overview</h2>
+<p><strong>STAT3</strong> (Signal Transducer and Activator of Transcription 3) is a member of the STAT protein family. It acts as both a cytoplasmic signaling messenger and a nuclear transcription factor.</p>
+<p>Upon phosphorylation by JAK kinases (in response to cytokines like <strong>IL-6</strong>) or growth factor receptors, STAT3 dimerizes, translocates to the nucleus, and drives the expression of genes involved in cell survival, proliferation, and immune suppression.</p>
+<h2>Biological Functions</h2>
+<h3>1. Inflammation and Immunity</h3>
+<ul>
+<li><strong>Acute Phase Response:</strong> Drives the liver's production of acute-phase proteins (e.g., CRP) during inflammation.</li>
+<li><strong>Th17 Differentiation:</strong> Essential for the development of Th17 helper T-cells, crucial for fighting fungal infections.</li>
+<li><strong>Immune Suppression:</strong> In the tumor microenvironment, STAT3 inhibits the activity of dendritic cells and promotes regulatory T-cells (Tregs), helping tumors evade the immune system.</li>
+</ul>
+<h3>2. Cell Survival</h3>
+<ul>
+<li>Upregulates anti-apoptotic genes (like <em>BCL2</em>, <em>BCL-XL</em>, <em>MCL1</em>), preventing cell death.</li>
+</ul>
+<h2>Clinical Significance</h2>
+<ul>
+<li><strong>Cancer:</strong> STAT3 is constitutively activated (always &quot;on&quot;) in diverse cancers (breast, prostate, melanoma, leukemia). It drives tumor growth, metastasis, and drug resistance.</li>
+<li><strong>Hyper-IgE Syndrome (Job's Syndrome):</strong> Caused by dominant-negative mutations in STAT3. Characterized by eczema, recurrent staphylococcal lung infections, and extremely high IgE levels due to Th17 deficiency.</li>
+<li><strong>Autoimmunity:</strong> Gain-of-function mutations lead to early-onset autoimmunity.</li>
+</ul>
+<h2>Relationships</h2>
+<p>ENCODES::[[STAT3 Protein]]<br />
+ACTIVATED_BY::[[IL-6]] - Primary cytokine activator<br />
+ACTIVATED_BY::[[JAK2]] - Upstream kinase<br />
+ACTIVATED_BY::[[EGFR]]<br />
+PARTICIPATES_IN_PATHWAY::[[JAK-STAT Pathway]]<br />
+REGULATES::[[Inflammation]]<br />
+REGULATES::[[Th17 Cells]]<br />
+ASSOCIATED_WITH_CONDITION::[[Cancer]] - Promotes survival/metastasis<br />
+ASSOCIATED_WITH_CONDITION::[[Hyper-IgE Syndrome]] - Loss of function<br />
+ASSOCIATED_WITH_CONDITION::[[Psoriasis]] - Driven by Th17/STAT3 axis<br />
+TARGETS::[[BCL2]] - Anti-apoptotic gene<br />
+TARGETS::[[VEGF]] - Angiogenesis gene</p>
+<h2>References</h2>
+<ul>
+<li>Yu H, Lee H, Herrmann A, Buettner R, Jove R. Revisiting STAT3 signalling in cancer: new and unexpected biological functions. Nat Rev Cancer. 2014;14(11):736-46.</li>
+<li>Holland, S. M., et al. (2007). STAT3 mutations in the hyper-IgE syndrome. New England Journal of Medicine, 357(16), 1608-1619.</li>
+</ul>
 
-## Overview
-
-**STAT3** (Signal Transducer and Activator of Transcription 3) is a member of the STAT protein family. It acts as both a cytoplasmic signaling messenger and a nuclear transcription factor.
-
-Upon phosphorylation by JAK kinases (in response to cytokines like **IL-6**) or growth factor receptors, STAT3 dimerizes, translocates to the nucleus, and drives the expression of genes involved in cell survival, proliferation, and immune suppression.
-
-## Biological Functions
-
-### 1. Inflammation and Immunity
-- **Acute Phase Response:** Drives the liver's production of acute-phase proteins (e.g., CRP) during inflammation.
-- **Th17 Differentiation:** Essential for the development of Th17 helper T-cells, crucial for fighting fungal infections.
-- **Immune Suppression:** In the tumor microenvironment, STAT3 inhibits the activity of dendritic cells and promotes regulatory T-cells (Tregs), helping tumors evade the immune system.
-
-### 2. Cell Survival
-- Upregulates anti-apoptotic genes (like *BCL2*, *BCL-XL*, *MCL1*), preventing cell death.
-
-## Clinical Significance
-
-- **Cancer:** STAT3 is constitutively activated (always "on") in diverse cancers (breast, prostate, melanoma, leukemia). It drives tumor growth, metastasis, and drug resistance.
-- **Hyper-IgE Syndrome (Job's Syndrome):** Caused by dominant-negative mutations in STAT3. Characterized by eczema, recurrent staphylococcal lung infections, and extremely high IgE levels due to Th17 deficiency.
-- **Autoimmunity:** Gain-of-function mutations lead to early-onset autoimmunity.
-
-## Relationships
-
-ENCODES::[[STAT3 Protein]]
-ACTIVATED_BY::[[IL-6]] - Primary cytokine activator
-ACTIVATED_BY::[[JAK2]] - Upstream kinase
-ACTIVATED_BY::[[EGFR]]
-PARTICIPATES_IN_PATHWAY::[[JAK-STAT Pathway]]
-REGULATES::[[Inflammation]]
-REGULATES::[[Th17 Cells]]
-ASSOCIATED_WITH_CONDITION::[[Cancer]] - Promotes survival/metastasis
-ASSOCIATED_WITH_CONDITION::[[Hyper-IgE Syndrome]] - Loss of function
-ASSOCIATED_WITH_CONDITION::[[Psoriasis]] - Driven by Th17/STAT3 axis
-TARGETS::[[BCL2]] - Anti-apoptotic gene
-TARGETS::[[VEGF]] - Angiogenesis gene
-
-## References
-
-- Yu H, Lee H, Herrmann A, Buettner R, Jove R. Revisiting STAT3 signalling in cancer: new and unexpected biological functions. Nat Rev Cancer. 2014;14(11):736-46.
-- Holland, S. M., et al. (2007). STAT3 mutations in the hyper-IgE syndrome. New England Journal of Medicine, 357(16), 1608-1619.
+{% endraw %}

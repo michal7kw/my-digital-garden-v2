@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.473157Z'
+created: '2026-02-09T05:40:20.928857Z'
 description: Liver damage caused by medications, herbal products, or other xenobiotics,
   which can range from mild enzyme elevations to acute liver failure.
 dg-home: false
@@ -12,167 +12,164 @@ tags:
 - hepatology
 - toxicology
 - function-health
+templateEngineOverride: njk
 title: Drug-Induced Liver Injury
 type: condition
-updated: '2026-02-08T19:45:44.473157Z'
+updated: '2026-02-09T05:40:20.928857Z'
 ---
 
-# Drug-Induced Liver Injury
-
-## Overview
-Liver damage caused by medications, herbal products, or other xenobiotics, which can range from mild enzyme elevations to acute liver failure.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Drug-Induced Liver Injury</h1>
+<h2>Overview</h2>
+<p>Liver damage caused by medications, herbal products, or other xenobiotics, which can range from mild enzyme elevations to acute liver failure.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Drug-Induced Liver Injury]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[alanine_transaminase_alt]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[gamma_glutamyl_transferase_ggt]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[bilirubin_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Drug-Induced_Liver_Injury]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:05.096122'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:05.096122'
 source: obsidian
-```
-- → [[alanine_transaminase_alt]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:05.096122'
+</code></pre>
+<ul>
+<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:05.096122'
 source: obsidian
-```
-- → [[gamma_glutamyl_transferase_ggt]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:05.096122'
+</code></pre>
+<ul>
+<li>→ [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:05.096122'
 source: obsidian
-```
-- → [[bilirubin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:05.096122'
+</code></pre>
+<ul>
+<li>→ [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:05.096122'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Drug-Induced Liver Injury]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Drug-Induced Liver Injury]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Drug-Induced_Liver_Injury]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:27.359033'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Drug-Induced_Liver_Injury]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
-```
-- ← [[gamma_glutamyl_transferase_ggt]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.061334'
+</code></pre>
+<ul>
+<li>← [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.061334'
 source: obsidian
-```
-- ← [[bilirubin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:50.709630'
+</code></pre>
+<ul>
+<li>← [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
-```
-- ← [[alanine_transaminase_alt]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:49.215543'
+</code></pre>
+<ul>
+<li>← [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
 source: obsidian
-```
-- → [[bilirubin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:27.359033'
+</code></pre>
+<ul>
+<li>→ [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
-```
-- → [[alanine_transaminase_alt]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:27.359033'
+</code></pre>
+<ul>
+<li>→ [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
-```
-- → [[gamma_glutamyl_transferase_ggt]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:27.359033'
+</code></pre>
+<ul>
+<li>→ [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
-```
-- → [[Drug-Induced_Liver_Injury]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:27.359033'
+</code></pre>
+<ul>
+<li>→ [[Drug-Induced_Liver_Injury]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
 source: obsidian
-```
-
-### May Detect
-- ← [[bilirubin_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[gamma_glutamyl_transferase_ggt]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[gamma_glutamyl_transferase_ggt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[alanine_transaminase_alt]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[alanine_transaminase_alt]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

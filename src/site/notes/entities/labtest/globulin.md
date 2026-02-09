@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.557939Z'
+created: '2026-02-09T05:40:21.354531Z'
 description: Tested twice a year Globulin is a protein essential for liver function,
   blood clotting, and immune system operations. Abnormal globulin levels may indicate
   changes affecting the liver, immune system, or overall health.
@@ -12,111 +12,135 @@ tags:
 - labtest
 - blood-panel
 - function-health
+templateEngineOverride: njk
 title: globulin
 type: labtest
-updated: '2026-02-08T19:45:44.557939Z'
+updated: '2026-02-09T05:40:21.354531Z'
 ---
 
-# Globulin
-
-## Overview
-Tested twice a year Globulin is a protein essential for liver function, blood clotting, and immune system operations. Abnormal globulin levels may indicate changes affecting the liver, immune system, or overall health.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Liver Function || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Monoclonal Gammopathies (E.G., Multiple Myeloma, Mgus)]]
-- [[Chronic Inflammation (E.G., Autoimmune Disease)]]
-- [[Liver Dysfunction]]
-- [[Kidney Disease]]
-- [[Malnutrition Or Poor Absorption]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Globulin</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Globulin is a protein essential for liver function, blood clotting, and immune system operations. Abnormal globulin levels may indicate changes affecting the liver, immune system, or overall health.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Liver Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Monoclonal Gammopathies (E.G., Multiple Myeloma, Mgus)]]</li>
+<li>[[Chronic Inflammation (E.G., Autoimmune Disease)]]</li>
+<li>[[Liver Dysfunction]]</li>
+<li>[[Kidney Disease]]</li>
+<li>[[Malnutrition Or Poor Absorption]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Liver_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:13.450913'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Liver_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
-```
-- → [[Kidney_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:13.450913'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
-```
-- → [[Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:13.450913'
+</code></pre>
+<ul>
+<li>→ [[Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
-```
-- → [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:13.450913'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
-```
-- → [[Malnutrition_Or_Poor_Absorption]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:13.450913'
+</code></pre>
+<ul>
+<li>→ [[Malnutrition_Or_Poor_Absorption]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
 source: obsidian
-```
-- → [[Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.218767'
+</code></pre>
+<ul>
+<li>→ [[Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
-```
-- → [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.218767'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Inflammation_EG_Autoimmune_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
-```
-- → [[Malnutrition_Or_Poor_Absorption]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.218767'
+</code></pre>
+<ul>
+<li>→ [[Malnutrition_Or_Poor_Absorption]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
-```
-- → [[Kidney_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.218767'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
-```
-- → [[Liver_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.218767'
+</code></pre>
+<ul>
+<li>→ [[Liver_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:22.636616</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:22.636616*
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.552332Z'
+created: '2026-02-09T05:40:21.327926Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
@@ -13,131 +13,159 @@ tags:
 - labtest
 - hormones
 - function-health
+templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-02-08T19:45:44.552332Z'
+updated: '2026-02-09T05:40:21.327926Z'
 ---
 
-# Cortisol
-
-## Overview
-Cortisol is often called “the stress hormone” because it rises during times of pressure or emotional distress, helping the body respond and adapt. Either high or low levels can signal chronic stress, sleep problems, or disorders of the adrenal glands.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Hormones |
-| **Subcategory** | Adrenal || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Adrenal Insufficiency]]
-- [[Cushing’S Syndrome]]
-- [[Chronic Stress (Elevated Cortisol)]]
-- [[Adrenal Hyperplasia]]
-- [[Pituitary Disorders]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Cortisol</h1>
+<h2>Overview</h2>
+<p>Cortisol is often called “the stress hormone” because it rises during times of pressure or emotional distress, helping the body respond and adapt. Either high or low levels can signal chronic stress, sleep problems, or disorders of the adrenal glands.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Hormones</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Adrenal</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Adrenal Insufficiency]]</li>
+<li>[[Cushing’S Syndrome]]</li>
+<li>[[Chronic Stress (Elevated Cortisol)]]</li>
+<li>[[Adrenal Hyperplasia]]</li>
+<li>[[Pituitary Disorders]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[CushingS_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[CushingS_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Chronic_Stress_Elevated_Cortisol]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Stress_Elevated_Cortisol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Pituitary_Disorders]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>→ [[Pituitary_Disorders]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Adrenal_Hyperplasia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Hyperplasia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Adrenal_Insufficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Insufficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- → [[Pituitary_Disorders]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.112102'
+</code></pre>
+<ul>
+<li>→ [[Pituitary_Disorders]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
 source: obsidian
-```
-- → [[Adrenal_Insufficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.112102'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Insufficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
 source: obsidian
-```
-- → [[CushingS_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.112102'
+</code></pre>
+<ul>
+<li>→ [[CushingS_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
 source: obsidian
-```
-- → [[Adrenal_Hyperplasia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.112102'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Hyperplasia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
 source: obsidian
-```
-- → [[Chronic_Stress_Elevated_Cortisol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.112102'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Stress_Elevated_Cortisol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
 source: obsidian
-```
-- ← [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:10.940019'
+</code></pre>
+<ul>
+<li>← [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
 source: obsidian
-```
-- → [[cortisol_am]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:11.477843'
+</code></pre>
+<ul>
+<li>→ [[cortisol_am]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
 source: obsidian
-```
-- ← [[cortisol_am]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:52.036701'
+</code></pre>
+<ul>
+<li>← [[cortisol_am]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.036701'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:19.640599</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:19.640599*
+{% endraw %}

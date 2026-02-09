@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.559877Z'
+created: '2026-02-09T05:40:21.364985Z'
 description: Tested twice a year Hematocrit measures the percentage of red blood cells
   in the blood—the cells responsible for carrying oxygen throughout the body. Low
   levels are most often linked to anemia or blood loss, while high levels may reflect
@@ -15,151 +15,181 @@ tags:
 - labtest
 - blood-panel
 - function-health
+templateEngineOverride: njk
 title: hematocrit
 type: labtest
-updated: '2026-02-08T19:45:44.559877Z'
+updated: '2026-02-09T05:40:21.364985Z'
 ---
 
-# Hematocrit
-
-## Overview
-Tested twice a year Hematocrit measures the percentage of red blood cells in the blood—the cells responsible for carrying oxygen throughout the body. Low levels are most often linked to anemia or blood loss, while high levels may reflect dehydration or conditions that increase red cell production. Tracking hematocrit provides important insight into how well the body is maintaining healthy oxygen delivery.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Cbc || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Iron Deficiency Anemia]]
-- [[Anemia Of Chronic Disease]]
-- [[Polycythemia Vera]]
-- [[Dehydration]]
-- [[Chronic Lung Disease]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Hematocrit</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Hematocrit measures the percentage of red blood cells in the blood—the cells responsible for carrying oxygen throughout the body. Low levels are most often linked to anemia or blood loss, while high levels may reflect dehydration or conditions that increase red cell production. Tracking hematocrit provides important insight into how well the body is maintaining healthy oxygen delivery.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Cbc</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Iron Deficiency Anemia]]</li>
+<li>[[Anemia Of Chronic Disease]]</li>
+<li>[[Polycythemia Vera]]</li>
+<li>[[Dehydration]]</li>
+<li>[[Chronic Lung Disease]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Anemia_Of_Chronic_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:14.452360'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Anemia_Of_Chronic_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
-```
-- → [[Iron_Deficiency_Anemia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:14.452360'
+</code></pre>
+<ul>
+<li>→ [[Iron_Deficiency_Anemia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
-```
-- → [[Polycythemia_Vera]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:14.452360'
+</code></pre>
+<ul>
+<li>→ [[Polycythemia_Vera]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
-```
-- → [[Chronic_Lung_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:14.452360'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Lung_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
-```
-- → [[Dehydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.812807'
+</code></pre>
+<ul>
+<li>→ [[Dehydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
-```
-- → [[Anemia_Of_Chronic_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:53.812807'
+</code></pre>
+<ul>
+<li>→ [[Anemia_Of_Chronic_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
-```
-- → [[Chronic_Lung_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:53.812807'
+</code></pre>
+<ul>
+<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
-```
-- → [[Iron_Deficiency_Anemia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:53.812807'
+</code></pre>
+<ul>
+<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
-```
-- → [[Polycythemia_Vera]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:53.812807'
+</code></pre>
+<ul>
+<li>→ [[Polycythemia_Vera]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
 source: obsidian
-```
-- → [[complete_blood_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:14.452360'
+</code></pre>
+<ul>
+<li>→ [[complete_blood_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.452360'
 source: obsidian
-```
-- ← [[Polycythemia_Vera]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:36.134207'
+</code></pre>
+<ul>
+<li>← [[Polycythemia_Vera]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
 source: obsidian
-```
-- ← [[Iron_Deficiency_Anemia]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.669493'
+</code></pre>
+<ul>
+<li>← [[Iron_Deficiency_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
 source: obsidian
-```
-- ← [[Chronic_Lung_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:36.051041'
+</code></pre>
+<ul>
+<li>← [[Chronic_Lung_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
 source: obsidian
-```
-- ← [[complete_blood_count]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:51.718250'
+</code></pre>
+<ul>
+<li>← [[complete_blood_count]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
 source: obsidian
-```
-
-### May Detect
-- → [[Chronic_Lung_Disease]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Chronic_Lung_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Polycythemia_Vera]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Polycythemia_Vera]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- → [[Iron_Deficiency_Anemia]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>→ [[Iron_Deficiency_Anemia]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:23.650480</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:23.650480*
+{% endraw %}

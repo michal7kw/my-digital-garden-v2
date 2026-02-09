@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.659822Z'
+created: '2026-02-09T05:40:22.241933Z'
 description: Adaptogenic herb that enhances stress resilience, mental performance,
   and physical endurance. Modulates stress hormones and supports dopamine levels.
 dg-home: false
@@ -13,212 +13,233 @@ tags:
 - stress
 - energy
 - cognitive
+templateEngineOverride: njk
 title: Rhodiola Rosea
 type: supplement
-updated: '2026-02-08T19:45:44.659822Z'
+updated: '2026-02-09T05:40:22.241933Z'
 ---
 
-# Rhodiola Rosea
-
-## Overview
-Adaptogenic herb that enhances stress resilience, mental performance, and physical endurance. Modulates stress hormones and supports dopamine levels.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Rhodiola Rosea</h1>
+<h2>Overview</h2>
+<p>Adaptogenic herb that enhances stress resilience, mental performance, and physical endurance. Modulates stress hormones and supports dopamine levels.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Adrenal_Glands]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Adrenal_Glands]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Ashwagandha]] (drug)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- → [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:22.394426'
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:22.394426'
 source: obsidian
-```
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-
-### May Improve Condition
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2025-12-28T11:01:25.710508'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.710508'
 source: obsidian
-```
-
-### Synergistic With
-- → [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.683616'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.683616'
 source: obsidian
-```
-- ← [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.633998'
+</code></pre>
+<ul>
+<li>← [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.633998'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:25.500386'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.500386'
 source: obsidian
-```
-- → [[Adrenal_Glands]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:25.526047'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.526047'
 source: obsidian
-```
-
-### Affects Neurotransmitter
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:25.658881'
+</code></pre>
+<h3>Affects Neurotransmitter</h3>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.658881'
 source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:25.621430'
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:25.576728'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.576728'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Affects Organ
-- → [[Adrenal_Glands]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:25.526047'
+<h2>Relationships</h2>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Adrenal_Glands]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.526047'
 source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:25.500386'
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.500386'
 source: obsidian
-```
+</code></pre>
+<h3>Affects Neurotransmitter</h3>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.576728'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.658881'
+source: obsidian
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.633998'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.683616'
+source: obsidian
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.710508'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Cortisol]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Glands]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Ashwagandha]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:22.394426'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Brain]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Serotonin]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Norepinephrine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
 
-### Affects Neurotransmitter
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:25.576728'
-source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:25.621430'
-source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2025-12-28T11:01:25.658881'
-source: obsidian
-```
-
-### Synergistic With
-- ← [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:18.633998'
-source: obsidian
-```
-- → [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.683616'
-source: obsidian
-```
-
-### May Improve Condition
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2025-12-28T11:01:25.710508'
-source: obsidian
-```
-
-### Related
-- → [[Cortisol]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Ashwagandha]] (drug)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Adrenal_Glands]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Ashwagandha]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:04:22.394426'
-source: obsidian
-```
-- → [[Brain]] (organ)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Serotonin]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Norepinephrine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
+{% endraw %}

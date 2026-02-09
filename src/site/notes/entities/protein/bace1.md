@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.634613Z'
+created: '2026-02-09T05:40:22.079388Z'
 description: Beta-secretase 1. The rate-limiting enzyme in the production of Amyloid
   Beta (Aβ).
 dg-home: false
@@ -12,74 +12,87 @@ tags:
 - enzyme
 - alzheimers
 - amyloid
+templateEngineOverride: njk
 title: BACE1
 type: protein
-updated: '2026-02-08T19:45:44.634613Z'
+updated: '2026-02-09T05:40:22.079388Z'
 ---
 
-# BACE1
-
-## Overview
-**BACE1 (Beta-site APP Cleaving Enzyme 1)** is an aspartyl protease. It performs the first cut of the Amyloid Precursor Protein (APP), creating the C99 fragment. This is the **rate-limiting step** in the generation of the toxic Amyloid Beta peptide.
-
-Because of this, BACE1 inhibition has been a major target for Alzheimer's drugs, though clinical trials have struggled with side effects (due to BACE1's role in myelin maintenance via Neuregulin-1 cleavage).
-
+{% raw %}
+<h1>BACE1</h1>
+<h2>Overview</h2>
+<p><strong>BACE1 (Beta-site APP Cleaving Enzyme 1)</strong> is an aspartyl protease. It performs the first cut of the Amyloid Precursor Protein (APP), creating the C99 fragment. This is the <strong>rate-limiting step</strong> in the generation of the toxic Amyloid Beta peptide.</p>
+<p>Because of this, BACE1 inhibition has been a major target for Alzheimer's drugs, though clinical trials have struggled with side effects (due to BACE1's role in myelin maintenance via Neuregulin-1 cleavage).</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Amyloidogenic_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:59.467500'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.467500'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:59.467500'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.467500'
 source: obsidian
-```
-- → [[Amyloidogenic_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.251699'
+</code></pre>
+<ul>
+<li>→ [[Amyloidogenic_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
-```
-- → [[Neuregulin-1]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.251699'
+</code></pre>
+<ul>
+<li>→ [[Neuregulin-1]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
-```
-- ← [[APP]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:28.853140'
+</code></pre>
+<ul>
+<li>← [[APP]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.853140'
 source: obsidian
-```
-- ← [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:23.210589'
+</code></pre>
+<ul>
+<li>← [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:29.251699'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
-```
-- → [[APP]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:29.251699'
+</code></pre>
+<ul>
+<li>→ [[APP]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.251699'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Participates in Pathway</h3>
+<ul>
+<li>→ [[Amyloidogenic Pathway]] (pathway)</li>
+</ul>
+<h3>Interacts With</h3>
+<ul>
+<li>→ [[APP]] (protein) - <em>Substrate</em></li>
+<li>→ [[Neuregulin-1]] (protein) - <em>Physiological substrate (myelination)</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>UniProt</strong>: P56817 (BACE1_HUMAN)</li>
+<li><strong>Review</strong>: Vassar, R., et al. (1999). &quot;Beta-secretase cleavage of Alzheimer's amyloid precursor protein by the transmembrane aspartic protease BACE.&quot; <em>Science</em>.</li>
+</ol>
 
-### Participates in Pathway
-- → [[Amyloidogenic Pathway]] (pathway)
-
-### Interacts With
-- → [[APP]] (protein) - *Substrate*
-- → [[Neuregulin-1]] (protein) - *Physiological substrate (myelination)*
-
-### Related Conditions
-- → [[Alzheimer's Disease]] (condition)
-
-## References
-1. **UniProt**: P56817 (BACE1_HUMAN)
-2. **Review**: Vassar, R., et al. (1999). "Beta-secretase cleavage of Alzheimer's amyloid precursor protein by the transmembrane aspartic protease BACE." *Science*.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.584557Z'
+created: '2026-02-09T05:40:21.489010Z'
 description: Tested twice a year Urine specific gravity measures how concentrated
   or diluted urine is compared to water, providing insight into hydration status and
   kidney function. Abnormal readings—either too low or too high—can be associated
@@ -11,114 +11,137 @@ permalink: /garden/dev_admin/labtest/specific-gravity-urine/
 slug: specific-gravity-urine
 tags:
 - labtest
+templateEngineOverride: njk
 title: specific_gravity_urine
 type: labtest
-updated: '2026-02-08T19:45:44.584557Z'
+updated: '2026-02-09T05:40:21.489010Z'
 ---
 
-# Specific Gravity, Urine
-
-## Overview
-Tested twice a year Urine specific gravity measures how concentrated or diluted urine is compared to water, providing insight into hydration status and kidney function. Abnormal readings—either too low or too high—can be associated with conditions such as dehydration, kidney stones, or impaired kidney function.
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Blood Panel |
-| **Subcategory** | Kidney Function || **Test Type** | Standard |
-| **Sample Type** | Urine |
-| **Collection Method** | Spot Urine |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Dehydration]]
-- [[Overhydration]]
-- [[Kidney Dysfunction]]
-- [[Metabolic Dysfunction]]
-- [[Urinary Concentration Imbalance]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>Specific Gravity, Urine</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Urine specific gravity measures how concentrated or diluted urine is compared to water, providing insight into hydration status and kidney function. Abnormal readings—either too low or too high—can be associated with conditions such as dehydration, kidney stones, or impaired kidney function.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Kidney Function</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Urine</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Spot Urine</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Dehydration]]</li>
+<li>[[Overhydration]]</li>
+<li>[[Kidney Dysfunction]]</li>
+<li>[[Metabolic Dysfunction]]</li>
+<li>[[Urinary Concentration Imbalance]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:26.048203'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
 source: obsidian
-```
-- → [[Metabolic_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:26.048203'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
 source: obsidian
-```
-- → [[Urinary_Concentration_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:26.048203'
+</code></pre>
+<ul>
+<li>→ [[Urinary_Concentration_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
 source: obsidian
-```
-- → [[Metabolic_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.926138'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
-```
-- → [[Dehydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.926138'
+</code></pre>
+<ul>
+<li>→ [[Dehydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
-```
-- → [[Overhydration]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.926138'
+</code></pre>
+<ul>
+<li>→ [[Overhydration]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
-```
-- → [[Kidney_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:59.926138'
+</code></pre>
+<ul>
+<li>→ [[Kidney_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
-```
-- → [[Urinary_Concentration_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:59.926138'
+</code></pre>
+<ul>
+<li>→ [[Urinary_Concentration_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
 source: obsidian
-```
-- ← [[Urinary_Concentration_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:38.546204'
+</code></pre>
+<ul>
+<li>← [[Urinary_Concentration_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.546204'
 source: obsidian
-```
-
-### May Detect
-- → [[Urinary_Concentration_Imbalance]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Urinary_Concentration_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:41.087673</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:41.087673*
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.659061Z'
+created: '2026-02-09T05:40:22.237937Z'
 description: Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic
   properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast
   cell degranulation.
@@ -15,100 +15,107 @@ tags:
 - anti_inflammatory
 - senolytic
 - allergy
+templateEngineOverride: njk
 title: Quercetin
 type: supplement
-updated: '2026-02-08T19:45:44.659061Z'
+updated: '2026-02-09T05:40:22.237937Z'
 ---
 
-# Quercetin
-
-## Overview
-Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast cell degranulation.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Quercetin</h1>
+<h2>Overview</h2>
+<p>Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast cell degranulation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[AMPK]] (protein)
-```yaml
-last_modified: '2026-01-26T06:42:53.794401'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[AMPK]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.794401'
 source: obsidian
-```
-- ← [[AMPK]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:28.642108'
+</code></pre>
+<ul>
+<li>← [[AMPK]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
 source: obsidian
-```
-- ← [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:40.671045'
+</code></pre>
+<ul>
+<li>← [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.671045'
 source: obsidian
-```
-- → [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:40.518911'
+</code></pre>
+<ul>
+<li>→ [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.518911'
 source: obsidian
-```
-- → [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:40.518911'
+</code></pre>
+<ul>
+<li>→ [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.518911'
 source: obsidian
-```
-- ← [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.445715'
+</code></pre>
+<ul>
+<li>← [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.445715'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.355088'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.355088'
 source: obsidian
-```
-- ← [[NMN]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.834997'
+</code></pre>
+<ul>
+<li>← [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.834997'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Synergistic With
-- ← [[NMN]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.834997'
+<h2>Relationships</h2>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.834997'
 source: obsidian
-```
-- ← [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.355088'
+</code></pre>
+<ul>
+<li>← [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.355088'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>← [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:11.744171'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:14.820591'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NMN]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:14.820591'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Resveratrol]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:15.214418'
+source: obsidian
+</code></pre>
 
-### Related
-- ← [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:11.744171'
-source: obsidian
-```
-- → [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:14.820591'
-source: obsidian
-```
-- → [[NMN]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:14.820591'
-source: obsidian
-```
-- ← [[Resveratrol]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:15.214418'
-source: obsidian
-```
+{% endraw %}

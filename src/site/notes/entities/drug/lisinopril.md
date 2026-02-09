@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.518407Z'
+created: '2026-02-09T05:40:21.155257Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
@@ -15,76 +15,63 @@ tags:
 - cardiovascular
 - nephroprotective
 - prescription
+templateEngineOverride: njk
 title: Lisinopril
 type: drug
-updated: '2026-02-08T19:45:44.518407Z'
+updated: '2026-02-09T05:40:21.155257Z'
 ---
 
-# Lisinopril
-
-## Overview
-ACE inhibitor for hypertension, heart failure, and diabetic nephropathy. Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal protection.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Lisinopril</h1>
+<h2>Overview</h2>
+<p>ACE inhibitor for hypertension, heart failure, and diabetic nephropathy. Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal protection.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:00.766849'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
 source: obsidian
-```
-- → [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:42.172265'
+</code></pre>
+<ul>
+<li>→ [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.172265'
 source: obsidian
-```
-
-### Interactswith
-- → [[Quetiapine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:37.798000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>→ [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Interactswith
-- → [[Quetiapine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:37.798000+00:00'
+<h2>Relationships</h2>
+<h3>Interactswith</h3>
+<ul>
+<li>→ [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
 source: PrimeKG
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:58.772897'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:03.350124'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:58.772897'
-source: obsidian
-```
-- ← [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:32:03.350124'
-source: obsidian
-```
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.535713Z'
+created: '2026-02-09T05:40:21.236221Z'
 description: Peptide hormone produced by pancreatic beta cells that regulates glucose
   metabolism, enabling cells to absorb glucose from the bloodstream for energy production
   or storage.
@@ -14,83 +14,108 @@ tags:
 - metabolic
 - glucose_regulation
 - pancreas
+templateEngineOverride: njk
 title: Insulin
 type: hormone
-updated: '2026-02-08T19:45:44.535713Z'
+updated: '2026-02-09T05:40:21.236221Z'
 ---
 
-# Insulin
+{% raw %}
+<h1>Insulin</h1>
+<h2>Overview</h2>
+<p>Insulin is a peptide hormone central to metabolic regulation. Produced by pancreatic beta cells, it is the primary anabolic hormone of the body, facilitating glucose uptake and utilization while promoting energy storage. Dysregulation of insulin signaling is central to metabolic disorders including type 2 diabetes, metabolic syndrome, and obesity.</p>
+<h2>Mechanism of Action</h2>
+<h3>Glucose Regulation</h3>
+<ul>
+<li>Binds to insulin receptors (tyrosine kinase receptors) on target cells</li>
+<li>Triggers GLUT4 transporter translocation to cell membrane</li>
+<li>Enables glucose entry into muscle and adipose cells</li>
+<li>Activates glycogen synthase for glucose storage</li>
+</ul>
+<h3>Metabolic Effects</h3>
+<ul>
+<li><strong>Liver</strong>: Promotes glycogenesis, inhibits gluconeogenesis and glycogenolysis</li>
+<li><strong>Muscle</strong>: Increases glucose uptake, promotes protein synthesis</li>
+<li><strong>Adipose</strong>: Promotes lipogenesis, inhibits lipolysis</li>
+<li><strong>Brain</strong>: Regulates appetite, cognitive function</li>
+</ul>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Fasting Insulin</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Optimal</td>
+<td>2-6 mIU/L</td>
+<td>Ideal insulin sensitivity</td>
+</tr>
+<tr>
+<td>Normal</td>
+<td>6-12 mIU/L</td>
+<td>Adequate sensitivity</td>
+</tr>
+<tr>
+<td>Elevated</td>
+<td>12-25 mIU/L</td>
+<td>Early insulin resistance</td>
+</tr>
+<tr>
+<td>High</td>
+<td>&gt;25 mIU/L</td>
+<td>Significant resistance</td>
+</tr>
+</tbody>
+</table>
+<h2>Clinical Significance</h2>
+<h3>Conditions Associated with Insulin Dysregulation</h3>
+<ul>
+<li><strong>Type 2 Diabetes</strong>: Insulin resistance with compensatory hyperinsulinemia</li>
+<li><strong>Type 1 Diabetes</strong>: Autoimmune destruction of beta cells</li>
+<li><strong>Metabolic Syndrome</strong>: Insulin resistance with dyslipidemia</li>
+<li><strong>PCOS</strong>: Hyperinsulinemia contributing to androgen excess</li>
+<li><strong>Hypoglycemia</strong>: Excess insulin (exogenous or insulinoma)</li>
+</ul>
+<h3>HOMA-IR Assessment</h3>
+<p>HOMA-IR = (Fasting Insulin x Fasting Glucose) / 405</p>
+<ul>
+<li>Optimal: &lt;1.0</li>
+<li>Normal: 1.0-2.0</li>
+<li>Insulin Resistant: &gt;2.0</li>
+</ul>
+<h2>Supplements That Modulate</h2>
+<p>Several supplements can improve insulin sensitivity:</p>
+<ul>
+<li><strong>Berberine</strong>: Activates AMPK, improves glucose uptake</li>
+<li><strong>Magnesium</strong>: Cofactor for insulin signaling</li>
+<li><strong>Alpha Lipoic Acid</strong>: Enhances glucose disposal</li>
+<li><strong>Chromium</strong>: Potentiates insulin action</li>
+<li><strong>Omega-3</strong>: Reduces insulin resistance</li>
+</ul>
+<h2>Relationships</h2>
+<p>PRODUCED_BY_ORGAN::[[Pancreas]]<br />
+AFFECTS_ORGAN::[[Liver]]<br />
+AFFECTS_ORGAN::[[Muscle]]<br />
+AFFECTS_ORGAN::[[Adipose Tissue]]<br />
+AFFECTS_ORGAN::[[Brain]]<br />
+REGULATES::[[Blood Glucose]]<br />
+ANTAGONIST_OF::[[Glucagon]]<br />
+ASSOCIATED_WITH_CONDITION::[[Diabetes]]<br />
+ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
+MODULATED_BY_SUPPLEMENT::[[Berberine]]<br />
+MODULATED_BY_SUPPLEMENT::[[Magnesium]]<br />
+MODULATED_BY_SUPPLEMENT::[[Alpha Lipoic Acid]]<br />
+AFFECTS_BIOMARKER::[[HbA1c]]<br />
+AFFECTS_BIOMARKER::[[Fasting Glucose]]</p>
+<h2>References</h2>
+<ul>
+<li>Wilcox G. Insulin and insulin resistance. Clin Biochem Rev. 2005</li>
+<li>Petersen MC, Shulman GI. Mechanisms of Insulin Action and Insulin Resistance. Physiol Rev. 2018</li>
+<li>American Diabetes Association. Standards of Medical Care in Diabetes</li>
+</ul>
 
-## Overview
-
-Insulin is a peptide hormone central to metabolic regulation. Produced by pancreatic beta cells, it is the primary anabolic hormone of the body, facilitating glucose uptake and utilization while promoting energy storage. Dysregulation of insulin signaling is central to metabolic disorders including type 2 diabetes, metabolic syndrome, and obesity.
-
-## Mechanism of Action
-
-### Glucose Regulation
-- Binds to insulin receptors (tyrosine kinase receptors) on target cells
-- Triggers GLUT4 transporter translocation to cell membrane
-- Enables glucose entry into muscle and adipose cells
-- Activates glycogen synthase for glucose storage
-
-### Metabolic Effects
-- **Liver**: Promotes glycogenesis, inhibits gluconeogenesis and glycogenolysis
-- **Muscle**: Increases glucose uptake, promotes protein synthesis
-- **Adipose**: Promotes lipogenesis, inhibits lipolysis
-- **Brain**: Regulates appetite, cognitive function
-
-## Reference Ranges
-
-| Status | Fasting Insulin | Interpretation |
-|--------|-----------------|----------------|
-| Optimal | 2-6 mIU/L | Ideal insulin sensitivity |
-| Normal | 6-12 mIU/L | Adequate sensitivity |
-| Elevated | 12-25 mIU/L | Early insulin resistance |
-| High | >25 mIU/L | Significant resistance |
-
-## Clinical Significance
-
-### Conditions Associated with Insulin Dysregulation
-- **Type 2 Diabetes**: Insulin resistance with compensatory hyperinsulinemia
-- **Type 1 Diabetes**: Autoimmune destruction of beta cells
-- **Metabolic Syndrome**: Insulin resistance with dyslipidemia
-- **PCOS**: Hyperinsulinemia contributing to androgen excess
-- **Hypoglycemia**: Excess insulin (exogenous or insulinoma)
-
-### HOMA-IR Assessment
-HOMA-IR = (Fasting Insulin x Fasting Glucose) / 405
-- Optimal: <1.0
-- Normal: 1.0-2.0
-- Insulin Resistant: >2.0
-
-## Supplements That Modulate
-
-Several supplements can improve insulin sensitivity:
-- **Berberine**: Activates AMPK, improves glucose uptake
-- **Magnesium**: Cofactor for insulin signaling
-- **Alpha Lipoic Acid**: Enhances glucose disposal
-- **Chromium**: Potentiates insulin action
-- **Omega-3**: Reduces insulin resistance
-
-## Relationships
-
-PRODUCED_BY_ORGAN::[[Pancreas]]
-AFFECTS_ORGAN::[[Liver]]
-AFFECTS_ORGAN::[[Muscle]]
-AFFECTS_ORGAN::[[Adipose Tissue]]
-AFFECTS_ORGAN::[[Brain]]
-REGULATES::[[Blood Glucose]]
-ANTAGONIST_OF::[[Glucagon]]
-ASSOCIATED_WITH_CONDITION::[[Diabetes]]
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]
-MODULATED_BY_SUPPLEMENT::[[Berberine]]
-MODULATED_BY_SUPPLEMENT::[[Magnesium]]
-MODULATED_BY_SUPPLEMENT::[[Alpha Lipoic Acid]]
-AFFECTS_BIOMARKER::[[HbA1c]]
-AFFECTS_BIOMARKER::[[Fasting Glucose]]
-
-## References
-
-- Wilcox G. Insulin and insulin resistance. Clin Biochem Rev. 2005
-- Petersen MC, Shulman GI. Mechanisms of Insulin Action and Insulin Resistance. Physiol Rev. 2018
-- American Diabetes Association. Standards of Medical Care in Diabetes
+{% endraw %}

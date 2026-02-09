@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.507715Z'
+created: '2026-02-09T05:40:21.093561Z'
 description: A type of cancer that starts in the thyroid gland, with papillary thyroid
   carcinoma being the most common and generally treatable form.
 dg-home: false
@@ -13,49 +13,51 @@ tags:
 - endocrinology
 - thyroid
 - function-health
+templateEngineOverride: njk
 title: Thyroid Cancer
 type: condition
-updated: '2026-02-08T19:45:44.507715Z'
+updated: '2026-02-09T05:40:21.093561Z'
 ---
 
-# Thyroid Cancer
-
-## Overview
-
-Thyroid Cancer originates in the follicular or parafollicular cells of the thyroid. **Papillary Thyroid Cancer (PTC)** is the most common type (80-85%) and has an excellent prognosis. Other types include Follicular, Medullary, and the highly aggressive Anaplastic carcinoma.
-
-## Key Types
-
-- **Papillary:** Slow-growing, excellent survival rate.
-- **Follicular:** Also generally favorable prognosis.
-- **Medullary:** Arises from C-cells (calcitonin-producing); often genetic.
-- **Anaplastic:** Rare, very aggressive, and difficult to treat.
-
+{% raw %}
+<h1>Thyroid Cancer</h1>
+<h2>Overview</h2>
+<p>Thyroid Cancer originates in the follicular or parafollicular cells of the thyroid. <strong>Papillary Thyroid Cancer (PTC)</strong> is the most common type (80-85%) and has an excellent prognosis. Other types include Follicular, Medullary, and the highly aggressive Anaplastic carcinoma.</p>
+<h2>Key Types</h2>
+<ul>
+<li><strong>Papillary:</strong> Slow-growing, excellent survival rate.</li>
+<li><strong>Follicular:</strong> Also generally favorable prognosis.</li>
+<li><strong>Medullary:</strong> Arises from C-cells (calcitonin-producing); often genetic.</li>
+<li><strong>Anaplastic:</strong> Rare, very aggressive, and difficult to treat.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Thyroid_Cancer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:53.201085'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Thyroid_Cancer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.201085'
 source: obsidian
-```
-- → [[Thyroid_Cancer]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:59.641637'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Cancer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:59.641637'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Hashimotos Thyroiditis]] - Linked to increased risk of PTC.<br />
+AFFECTS_ORGAN::[[Thyroid Gland]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Thyroglobulin]] - Used as a tumor marker after surgery.<br />
+ASSOCIATED_WITH_BIOMARKER::[[Calcitonin]] - Marker for Medullary type.<br />
+TREATED_BY_INTERVENTION::[[Thyroidectomy]]<br />
+TREATED_BY_INTERVENTION::[[Radioactive Iodine]]</p>
+<h2>References</h2>
+<ul>
+<li>Haugen, B. R., et al. (2016). 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer.</li>
+<li>Mayo Clinic. Thyroid cancer.</li>
+<li>American Cancer Society. Thyroid Cancer.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Hashimotos Thyroiditis]] - Linked to increased risk of PTC.
-AFFECTS_ORGAN::[[Thyroid Gland]]
-ASSOCIATED_WITH_BIOMARKER::[[Thyroglobulin]] - Used as a tumor marker after surgery.
-ASSOCIATED_WITH_BIOMARKER::[[Calcitonin]] - Marker for Medullary type.
-TREATED_BY_INTERVENTION::[[Thyroidectomy]]
-TREATED_BY_INTERVENTION::[[Radioactive Iodine]]
-
-## References
-
-- Haugen, B. R., et al. (2016). 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer.
-- Mayo Clinic. Thyroid cancer.
-- American Cancer Society. Thyroid Cancer.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.470926Z'
+created: '2026-02-09T05:40:20.918099Z'
 description: A type of heart disease characterized by the narrowing or blockage of
   the coronary arteries, usually caused by atherosclerosis, which reduces blood flow
   to the heart muscle.
@@ -14,106 +14,92 @@ tags:
 - vascular
 - chronic
 - function-health
+templateEngineOverride: njk
 title: Coronary Artery Disease
 type: condition
-updated: '2026-02-08T19:45:44.470926Z'
+updated: '2026-02-09T05:40:20.918099Z'
 ---
 
-# Coronary Artery Disease
-
-## Overview
-A type of heart disease characterized by the narrowing or blockage of the coronary arteries, usually caused by atherosclerosis, which reduces blood flow to the heart muscle.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Coronary Artery Disease</h1>
+<h2>Overview</h2>
+<p>A type of heart disease characterized by the narrowing or blockage of the coronary arteries, usually caused by atherosclerosis, which reduces blood flow to the heart muscle.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Coronary Artery Disease]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Increases Risk For
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:30:36.399745'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:36.399745'
 source: obsidian
-```
-
-### Related
-- → [[Coronary_Artery_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:02.307529'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Coronary_Artery_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.307529'
 source: obsidian
-```
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:02.307529'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.307529'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Coronary Artery Disease]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Coronary Artery Disease]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Coronary_Artery_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:26.706824'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Coronary_Artery_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.706824'
 source: obsidian
-```
-- → [[Cardiovascular_Risk_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:26.706824'
+</code></pre>
+<ul>
+<li>→ [[Cardiovascular_Risk_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.706824'
 source: obsidian
-```
-- → [[Coronary_Artery_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:26.706824'
+</code></pre>
+<ul>
+<li>→ [[Coronary_Artery_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.706824'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:20.311340'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Cardiovascular_Risk_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

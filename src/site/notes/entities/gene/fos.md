@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.532846Z'
+created: '2026-02-09T05:40:21.226444Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,18 +10,21 @@ tags:
 - gene
 - imported
 - primekg
+templateEngineOverride: njk
 title: FOS
 type: gene
-updated: '2026-02-08T19:45:44.532846Z'
+updated: '2026-02-09T05:40:21.226444Z'
 ---
 
-# "FOS"
+{% raw %}
+<h1>&quot;FOS&quot;</h1>
+<h2>Overview</h2>
+<p>Gene imported from PrimeKG. No detailed description available.</p>
+<h2>Relationships</h2>
+<p>No relationships documented.</p>
+<h2>References</h2>
+<ul>
+<li>Imported from PrimeKG knowledge graph</li>
+</ul>
 
-## Overview
-Gene imported from PrimeKG. No detailed description available.
-
-## Relationships
-No relationships documented.
-
-## References
-- Imported from PrimeKG knowledge graph
+{% endraw %}

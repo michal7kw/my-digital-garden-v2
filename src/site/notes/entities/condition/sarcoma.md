@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.503630Z'
+created: '2026-02-09T05:40:21.077911Z'
 description: A broad group of cancers that begin in the bones and soft tissues (muscle,
   fat, blood vessels, nerves, tendons, and lining of joints).
 dg-home: false
@@ -13,77 +13,60 @@ tags:
 - cancer
 - orthopedics
 - rare_disease
+templateEngineOverride: njk
 title: Sarcoma
 type: condition
-updated: '2026-02-08T19:45:44.503630Z'
+updated: '2026-02-09T05:40:21.077911Z'
 ---
 
-# Sarcoma
-
-## Overview
-A broad group of cancers that begin in the bones and soft tissues (muscle, fat, blood vessels, nerves, tendons, and lining of joints).
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Sarcoma</h1>
+<h2>Overview</h2>
+<p>A broad group of cancers that begin in the bones and soft tissues (muscle, fat, blood vessels, nerves, tendons, and lining of joints).</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Sarcoma]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Sarcoma]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:40.142684'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Sarcoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.142684'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Sarcoma]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Sarcoma]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Sarcoma]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:37.130561'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Sarcoma]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.130561'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

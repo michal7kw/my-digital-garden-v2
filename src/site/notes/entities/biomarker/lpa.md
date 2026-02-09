@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.436308Z'
+created: '2026-02-09T05:40:20.670805Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
@@ -10,77 +10,71 @@ permalink: /garden/dev_admin/biomarker/lpa/
 slug: lpa
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-02-08T19:45:44.436308Z'
+updated: '2026-02-09T05:40:20.670805Z'
 ---
 
-# Lp A
-
-## Overview
-
-**Lipoprotein(a)**, or **Lp(a)**, is a unique lipoprotein particle. It is essentially an LDL ("bad cholesterol") particle that has a second protein, **apolipoprotein(a)** or apo(a), attached to it via a disulfide bridge.
-
-Unlike LDL cholesterol, Lp(a) levels are determined almost entirely (>90%) by genetics (specifically the *LPA* gene) and are not significantly influenced by diet or lifestyle.
-
-## Pathophysiology
-
-Lp(a) is a "triple threat" for cardiovascular disease:
-1.  **Atherogenic:** Like LDL, it can penetrate arterial walls and deposit cholesterol, forming plaque.
-2.  **Pro-thrombotic:** The apo(a) protein is structurally similar to plasminogen but lacks enzymatic activity. It competes with plasminogen for binding sites, inhibiting clot breakdown (fibrinolysis) and promoting clot formation.
-3.  **Pro-inflammatory:** It carries oxidized phospholipids (OxPL), which trigger inflammation in blood vessel walls.
-
-## Clinical Significance
-
-- **Independent Risk Factor:** Elevated Lp(a) is a causal risk factor for myocardial infarction (heart attack), ischemic stroke, and aortic valve stenosis.
-- **Residual Risk:** Explains why some people have heart attacks despite having normal LDL cholesterol.
-- **Testing:** Recommendations are shifting towards testing Lp(a) at least once in every adult's lifetime.
-
-## Management
-
-Lp(a) is notoriously difficult to lower.
-- **Statins:** Do NOT lower Lp(a) and may slightly increase it.
-- **PCSK9 Inhibitors:** Can reduce Lp(a) by 20-30%.
-- **Niacin:** Lowers levels but did not show clinical benefit in trials.
-- **Emerging Therapies:** Antisense oligonucleotides (e.g., Pelacarsen) and siRNAs (e.g., Olpasiran) in clinical trials show potent reductions >80%.
-
-## Relationships
-
-ASSOCIATED_WITH_GENE::[[LPA Gene]] - Determines >90% of levels
-RISK_FACTOR_FOR::[[Cardiovascular Disease]] - Independent causal factor
-RISK_FACTOR_FOR::[[Aortic Valve Stenosis]]
-RISK_FACTOR_FOR::[[Myocardial Infarction]]
-SIMILAR_TO::[[LDL]] - Structural core
-INHIBITS::[[Plasminogen]] - Pro-thrombotic mechanism
-AFFECTED_BY::[[PCSK9 Inhibitors]] - Modest reduction
-UNAFFECTED_BY::[[Diet]] - Generally resistant to lifestyle change
-UNAFFECTED_BY::[[Statins]]
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-
-- Tsimikas S. A Test in Context: Lipoprotein(a): Diagnosis, Prognosis, Controversies, and Emerging Therapies. J Am Coll Cardiol. 2017;69(6):692-711.
-- Nordestgaard BG, et al. Lipoprotein(a) as a cardiovascular risk factor: current status. Eur Heart J. 2010;31(23):2844-53.
-
-
+{% raw %}
+<h1>Lp A</h1>
+<h2>Overview</h2>
+<p><strong>Lipoprotein(a)</strong>, or <strong>Lp(a)</strong>, is a unique lipoprotein particle. It is essentially an LDL (&quot;bad cholesterol&quot;) particle that has a second protein, <strong>apolipoprotein(a)</strong> or apo(a), attached to it via a disulfide bridge.</p>
+<p>Unlike LDL cholesterol, Lp(a) levels are determined almost entirely (&gt;90%) by genetics (specifically the <em>LPA</em> gene) and are not significantly influenced by diet or lifestyle.</p>
+<h2>Pathophysiology</h2>
+<p>Lp(a) is a &quot;triple threat&quot; for cardiovascular disease:</p>
+<ol>
+<li><strong>Atherogenic:</strong> Like LDL, it can penetrate arterial walls and deposit cholesterol, forming plaque.</li>
+<li><strong>Pro-thrombotic:</strong> The apo(a) protein is structurally similar to plasminogen but lacks enzymatic activity. It competes with plasminogen for binding sites, inhibiting clot breakdown (fibrinolysis) and promoting clot formation.</li>
+<li><strong>Pro-inflammatory:</strong> It carries oxidized phospholipids (OxPL), which trigger inflammation in blood vessel walls.</li>
+</ol>
+<h2>Clinical Significance</h2>
+<ul>
+<li><strong>Independent Risk Factor:</strong> Elevated Lp(a) is a causal risk factor for myocardial infarction (heart attack), ischemic stroke, and aortic valve stenosis.</li>
+<li><strong>Residual Risk:</strong> Explains why some people have heart attacks despite having normal LDL cholesterol.</li>
+<li><strong>Testing:</strong> Recommendations are shifting towards testing Lp(a) at least once in every adult's lifetime.</li>
+</ul>
+<h2>Management</h2>
+<p>Lp(a) is notoriously difficult to lower.</p>
+<ul>
+<li><strong>Statins:</strong> Do NOT lower Lp(a) and may slightly increase it.</li>
+<li><strong>PCSK9 Inhibitors:</strong> Can reduce Lp(a) by 20-30%.</li>
+<li><strong>Niacin:</strong> Lowers levels but did not show clinical benefit in trials.</li>
+<li><strong>Emerging Therapies:</strong> Antisense oligonucleotides (e.g., Pelacarsen) and siRNAs (e.g., Olpasiran) in clinical trials show potent reductions &gt;80%.</li>
+</ul>
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_GENE::[[LPA Gene]] - Determines &gt;90% of levels<br />
+RISK_FACTOR_FOR::[[Cardiovascular Disease]] - Independent causal factor<br />
+RISK_FACTOR_FOR::[[Aortic Valve Stenosis]]<br />
+RISK_FACTOR_FOR::[[Myocardial Infarction]]<br />
+SIMILAR_TO::[[LDL]] - Structural core<br />
+INHIBITS::[[Plasminogen]] - Pro-thrombotic mechanism<br />
+AFFECTED_BY::[[PCSK9 Inhibitors]] - Modest reduction<br />
+UNAFFECTED_BY::[[Diet]] - Generally resistant to lifestyle change<br />
+UNAFFECTED_BY::[[Statins]]</p>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<ul>
+<li>Tsimikas S. A Test in Context: Lipoprotein(a): Diagnosis, Prognosis, Controversies, and Emerging Therapies. J Am Coll Cardiol. 2017;69(6):692-711.</li>
+<li>Nordestgaard BG, et al. Lipoprotein(a) as a cardiovascular risk factor: current status. Eur Heart J. 2010;31(23):2844-53.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Lp_A]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:14.579785'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Lp_A]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.579785'
 source: obsidian
-```
-- → [[Lp_A]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:14.579785'
+</code></pre>
+<ul>
+<li>→ [[Lp_A]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.579785'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
+{% endraw %}

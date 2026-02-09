@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.463581Z'
+created: '2026-02-09T05:40:20.876103Z'
 description: A state where blood sugar levels are either too high (hyperglycemia)
   or too low (hypoglycemia), often due to impaired insulin regulation.
 dg-home: false
@@ -13,51 +13,53 @@ tags:
 - endocrinology
 - diabetes
 - function-health
+templateEngineOverride: njk
 title: Blood Glucose Imbalance
 type: condition
-updated: '2026-02-08T19:45:44.463581Z'
+updated: '2026-02-09T05:40:20.876103Z'
 ---
 
-# Blood Glucose Imbalance
-
-## Overview
-
-Blood Glucose Imbalance refers to deviations from the normal range of blood sugar (typically 70–99 mg/dL fasting). **Hyperglycemia** is a hallmark of diabetes and can lead to long-term organ damage. **Hypoglycemia** is an acute medical emergency that can lead to seizures and loss of consciousness.
-
-## Clinical States
-
-- **Hyperglycemia:** High blood sugar; caused by insulin resistance or deficiency.
-- **Hypoglycemia:** Low blood sugar; often a complication of diabetes treatment or rare tumors (Insulinoma).
-
+{% raw %}
+<h1>Blood Glucose Imbalance</h1>
+<h2>Overview</h2>
+<p>Blood Glucose Imbalance refers to deviations from the normal range of blood sugar (typically 70–99 mg/dL fasting). <strong>Hyperglycemia</strong> is a hallmark of diabetes and can lead to long-term organ damage. <strong>Hypoglycemia</strong> is an acute medical emergency that can lead to seizures and loss of consciousness.</p>
+<h2>Clinical States</h2>
+<ul>
+<li><strong>Hyperglycemia:</strong> High blood sugar; caused by insulin resistance or deficiency.</li>
+<li><strong>Hypoglycemia:</strong> Low blood sugar; often a complication of diabetes treatment or rare tumors (Insulinoma).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Blood_Glucose_Imbalance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:32.311061'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Blood_Glucose_Imbalance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.311061'
 source: obsidian
-```
-- → [[Blood_Glucose_Imbalance]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:26.135293'
+</code></pre>
+<ul>
+<li>→ [[Blood_Glucose_Imbalance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.135293'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
+ASSOCIATED_WITH_CONDITION::[[Insulin Resistance]]<br />
+ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
+AFFECTS_ORGAN::[[Pancreas]]<br />
+AFFECTS_ORGAN::[[Brain]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Blood Glucose]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[HbA1c]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Fasting Insulin]]<br />
+TREATED_BY_DRUG::[[Insulin]]<br />
+TREATED_BY_DRUG::[[Metformin]]</p>
+<h2>References</h2>
+<ul>
+<li>ADA. Standards of Medical Care in Diabetes.</li>
+<li>Mayo Clinic. Hyperglycemia in diabetes.</li>
+<li>Mayo Clinic. Hypoglycemia.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]
-ASSOCIATED_WITH_CONDITION::[[Insulin Resistance]]
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]
-AFFECTS_ORGAN::[[Pancreas]]
-AFFECTS_ORGAN::[[Brain]]
-ASSOCIATED_WITH_BIOMARKER::[[Blood Glucose]]
-ASSOCIATED_WITH_BIOMARKER::[[HbA1c]]
-ASSOCIATED_WITH_BIOMARKER::[[Fasting Insulin]]
-TREATED_BY_DRUG::[[Insulin]]
-TREATED_BY_DRUG::[[Metformin]]
-
-## References
-
-- ADA. Standards of Medical Care in Diabetes.
-- Mayo Clinic. Hyperglycemia in diabetes.
-- Mayo Clinic. Hypoglycemia.
+{% endraw %}

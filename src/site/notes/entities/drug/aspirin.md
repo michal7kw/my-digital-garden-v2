@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.513085Z'
+created: '2026-02-09T05:40:21.123757Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet
   effects. Used for pain, fever, inflammation, and cardiovascular protection. One
   of the most widely used medications worldwide.
@@ -15,42 +15,25 @@ tags:
 - cardiovascular
 - anti_inflammatory
 - otc
+templateEngineOverride: njk
 title: Aspirin
 type: drug
-updated: '2026-02-08T19:45:44.513085Z'
+updated: '2026-02-09T05:40:21.123757Z'
 ---
 
-# Aspirin
-
-## Overview
-Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet effects. Used for pain, fever, inflammation, and cardiovascular protection. One of the most widely used medications worldwide.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Aspirin</h1>
+<h2>Overview</h2>
+<p>Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet effects. Used for pain, fever, inflammation, and cardiovascular protection. One of the most widely used medications worldwide.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

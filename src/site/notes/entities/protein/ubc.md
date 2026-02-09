@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.643746Z'
+created: '2026-02-09T05:40:22.147831Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,120 +10,140 @@ tags:
 - protein
 - imported
 - primekg
+templateEngineOverride: njk
 title: UBC
 type: protein
-updated: '2026-02-08T19:45:44.643746Z'
+updated: '2026-02-09T05:40:22.147831Z'
 ---
 
-# UBC
-(Gene: UBC)
-## Function Summary
-No function summary available.
-
-## Detailed Description
-... 
-## Gene Information
-- **Gene ID:** N/A
-- **Ensembl ID:** N/A
-- **Chromosome:** N/A
-- **Location:** N/A
-
-## Protein Details
-- **UniProt ID:** N/A
-- **Organism:** N/A
-- **Cellular Location:** N/A
-- **Molecular Weight:** N/A
-- **Tissue Expression:** N/A
-
-## Sequence & Structure
-
-
+{% raw %}
+<h1>UBC</h1>
+<p>(Gene: UBC)</p>
+<h2>Function Summary</h2>
+<p>No function summary available.</p>
+<h2>Detailed Description</h2>
+<p>...</p>
+<h2>Gene Information</h2>
+<ul>
+<li><strong>Gene ID:</strong> N/A</li>
+<li><strong>Ensembl ID:</strong> N/A</li>
+<li><strong>Chromosome:</strong> N/A</li>
+<li><strong>Location:</strong> N/A</li>
+</ul>
+<h2>Protein Details</h2>
+<ul>
+<li><strong>UniProt ID:</strong> N/A</li>
+<li><strong>Organism:</strong> N/A</li>
+<li><strong>Cellular Location:</strong> N/A</li>
+<li><strong>Molecular Weight:</strong> N/A</li>
+<li><strong>Tissue Expression:</strong> N/A</li>
+</ul>
+<h2>Sequence &amp; Structure</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[ETS1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:34.416393'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[ETS1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
-```
-- → [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:34.416393'
+</code></pre>
+<ul>
+<li>→ [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
-```
-- → [[EGFR]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:34.416393'
+</code></pre>
+<ul>
+<li>→ [[EGFR]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
-```
-- → [[CYP3A4]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:34.416393'
+</code></pre>
+<ul>
+<li>→ [[CYP3A4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
 source: obsidian
-```
-- ← [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:04.662517'
+</code></pre>
+<ul>
+<li>← [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.662517'
 source: obsidian
-```
-- ← [[ETS1]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:31.116238'
+</code></pre>
+<ul>
+<li>← [[ETS1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.116238'
 source: obsidian
-```
-- ← [[EGFR]] (biomarker)
-```yaml
-last_modified: '2026-01-26T06:47:17.003644'
+</code></pre>
+<ul>
+<li>← [[EGFR]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
 source: obsidian
-```
-- ← [[CYP3A4]] (protein)
-```yaml
-last_modified: '2026-01-26T06:49:00.549297'
+</code></pre>
+<ul>
+<li>← [[CYP3A4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.549297'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Related
-- ← [[CYP3A4]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:45.570959'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[CYP3A4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.570959'
 source: obsidian
-```
-- ← [[EGFR]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:14.295791'
+</code></pre>
+<ul>
+<li>← [[EGFR]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.295791'
 source: obsidian
-```
-- ← [[ETS1]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:47.931123'
+</code></pre>
+<ul>
+<li>← [[ETS1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.931123'
 source: obsidian
-```
-- ← [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:55.075571'
+</code></pre>
+<ul>
+<li>← [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.075571'
 source: obsidian
-```
-- → [[ETS1]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:55.582179'
+</code></pre>
+<ul>
+<li>→ [[ETS1]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
-```
-- → [[EGFR]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:06:55.582179'
+</code></pre>
+<ul>
+<li>→ [[EGFR]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
-```
-- → [[CYP3A4]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:55.582179'
+</code></pre>
+<ul>
+<li>→ [[CYP3A4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
-```
-- → [[SRC]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:55.582179'
+</code></pre>
+<ul>
+<li>→ [[SRC]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:55.582179'
 source: obsidian
-```
+</code></pre>
+<h2>Source Data</h2>
+<ul>
+<li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-03T08:01:21+0000</li>
+</ul>
 
-## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-03T08:01:21+0000
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.481105Z'
+created: '2026-02-09T05:40:20.969766Z'
 description: A broad category of conditions where the immune system is either underactive
   (deficiency) or overactive (dysfunction/autoimmunity/allergy).
 dg-home: false
@@ -11,52 +11,54 @@ tags:
 - condition
 - immunology
 - function-health
+templateEngineOverride: njk
 title: Immune System Disorder
 type: condition
-updated: '2026-02-08T19:45:44.481105Z'
+updated: '2026-02-09T05:40:20.969766Z'
 ---
 
-# Immune System Disorder
-
-## Overview
-
-The immune system protects the body from pathogens. Disorders occur when this system fails to work correctly. **Immunodeficiency** leaves the body vulnerable to infections, while **Immune Dysfunction** (including Autoimmunity and Allergies) results in the system attacking healthy tissue or overreacting to harmless substances.
-
-## Main Categories
-
-- **Primary Immunodeficiency:** Inherited genetic defects.
-- **Secondary Immunodeficiency:** Acquired due to infection (HIV), medication, or aging.
-- **Autoimmune Disease:** Immune system attacks "self" (Lupus, RA, Hashimoto's).
-- **Hypersensitivity:** Overreaction to allergens (Asthma, Hay fever).
-
+{% raw %}
+<h1>Immune System Disorder</h1>
+<h2>Overview</h2>
+<p>The immune system protects the body from pathogens. Disorders occur when this system fails to work correctly. <strong>Immunodeficiency</strong> leaves the body vulnerable to infections, while <strong>Immune Dysfunction</strong> (including Autoimmunity and Allergies) results in the system attacking healthy tissue or overreacting to harmless substances.</p>
+<h2>Main Categories</h2>
+<ul>
+<li><strong>Primary Immunodeficiency:</strong> Inherited genetic defects.</li>
+<li><strong>Secondary Immunodeficiency:</strong> Acquired due to infection (HIV), medication, or aging.</li>
+<li><strong>Autoimmune Disease:</strong> Immune system attacks &quot;self&quot; (Lupus, RA, Hashimoto's).</li>
+<li><strong>Hypersensitivity:</strong> Overreaction to allergens (Asthma, Hay fever).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Immune_System_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:41.507172'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Immune_System_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.507172'
 source: obsidian
-```
-- → [[Immune_System_Disorder]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:40.666639'
+</code></pre>
+<ul>
+<li>→ [[Immune_System_Disorder]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:40.666639'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[HIV Infections]]<br />
+ASSOCIATED_WITH_CONDITION::[[Rheumatoid Arthritis]]<br />
+ASSOCIATED_WITH_CONDITION::[[Inflammation]]<br />
+AFFECTS_ORGAN::[[Immune System]]<br />
+AFFECTS_ORGAN::[[Lymph Node]]<br />
+AFFECTS_ORGAN::[[Bone Marrow]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[White Blood Cell Count]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[C-Reactive Protein]]<br />
+TREATED_BY_DRUG::[[Immunosuppressants]]</p>
+<h2>References</h2>
+<ul>
+<li>Chapel, H., et al. (2014). Essentials of Clinical Immunology.</li>
+<li>NIH. Immune System Disorders.</li>
+<li>Cleveland Clinic. Immune Disorders.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[HIV Infections]]
-ASSOCIATED_WITH_CONDITION::[[Rheumatoid Arthritis]]
-ASSOCIATED_WITH_CONDITION::[[Inflammation]]
-AFFECTS_ORGAN::[[Immune System]]
-AFFECTS_ORGAN::[[Lymph Node]]
-AFFECTS_ORGAN::[[Bone Marrow]]
-ASSOCIATED_WITH_BIOMARKER::[[White Blood Cell Count]]
-ASSOCIATED_WITH_BIOMARKER::[[C-Reactive Protein]]
-TREATED_BY_DRUG::[[Immunosuppressants]]
-
-## References
-
-- Chapel, H., et al. (2014). Essentials of Clinical Immunology.
-- NIH. Immune System Disorders.
-- Cleveland Clinic. Immune Disorders.
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.596488Z'
+created: '2026-02-09T05:40:21.546535Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
@@ -15,58 +15,57 @@ tags:
 - learning
 - parasympathetic
 - cholinergic
+templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-02-08T19:45:44.596488Z'
+updated: '2026-02-09T05:40:21.546535Z'
 ---
 
-# Acetylcholine
-
-## Overview
-First neurotransmitter discovered, essential for learning, memory, attention, and muscle control. Functions in both central and peripheral nervous systems, including parasympathetic ("rest and digest") activation.
-
-
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Acetylcholine</h1>
+<h2>Overview</h2>
+<p>First neurotransmitter discovered, essential for learning, memory, attention, and muscle control. Functions in both central and peripheral nervous systems, including parasympathetic (&quot;rest and digest&quot;) activation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Clozapine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:34.799400'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Clozapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
-```
-- → [[Donepezil]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:34.799400'
+</code></pre>
+<ul>
+<li>→ [[Donepezil]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
-```
-- → [[Imipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:34.799400'
+</code></pre>
+<ul>
+<li>→ [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
 source: obsidian
-```
-- ← [[Imipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:42.019672'
+</code></pre>
+<ul>
+<li>← [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
-```
-- ← [[Donepezil]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:41.406812'
+</code></pre>
+<ul>
+<li>← [[Donepezil]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
 source: obsidian
-```
-- ← [[Clozapine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:40.913292'
+</code></pre>
+<ul>
+<li>← [[Clozapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+
+{% endraw %}

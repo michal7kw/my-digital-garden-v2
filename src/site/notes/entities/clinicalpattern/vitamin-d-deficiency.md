@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.453653Z'
+created: '2026-02-09T05:40:20.794467Z'
 description: Insufficient vitamin D levels associated with bone health, immune function,
   cardiovascular health, and chronic disease risk.
 dg-home: false
@@ -14,53 +14,88 @@ tags:
 - vitamin_d
 - bone
 - immune
+templateEngineOverride: njk
 title: Vitamin D Deficiency
 type: clinicalpattern
-updated: '2026-02-08T19:45:44.453653Z'
+updated: '2026-02-09T05:40:20.794467Z'
 ---
 
-# Vitamin D Deficiency
+{% raw %}
+<h1>Vitamin D Deficiency</h1>
+<h2>Overview</h2>
+<p>Vitamin D deficiency is one of the most common nutritional deficiencies, affecting an estimated 1 billion people worldwide. Vitamin D is essential for calcium absorption, bone health, immune function, and may protect against various chronic diseases.</p>
+<p>Evidence Level: 4/5 (Strong epidemiological evidence)<br />
+Risk Multiplier: 1.2x for bone and immune-related conditions</p>
+<h2>Key Biomarker</h2>
+<ul>
+<li><strong>25-OH Vitamin D</strong>: Primary measure of vitamin D status
+<ul>
+<li>Deficient: &lt; 20 ng/mL</li>
+<li>Insufficient: 20-29 ng/mL</li>
+<li>Sufficient: 30-50 ng/mL</li>
+<li>Optimal: 40-60 ng/mL</li>
+</ul>
+</li>
+</ul>
+<h2>Vitamin D Status Classification</h2>
+<table>
+<thead>
+<tr>
+<th>Level (ng/mL)</th>
+<th>Status</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt; 12</td>
+<td>Severe deficiency</td>
+<td>High-dose supplementation</td>
+</tr>
+<tr>
+<td>12-20</td>
+<td>Deficient</td>
+<td>Supplementation required</td>
+</tr>
+<tr>
+<td>20-30</td>
+<td>Insufficient</td>
+<td>Supplementation recommended</td>
+</tr>
+<tr>
+<td>30-50</td>
+<td>Sufficient</td>
+<td>Maintain current intake</td>
+</tr>
+<tr>
+<td>50-100</td>
+<td>High normal</td>
+<td>May reduce supplementation</td>
+</tr>
+<tr>
+<td>&gt; 100</td>
+<td>Potentially toxic</td>
+<td>Reduce/stop supplementation</td>
+</tr>
+</tbody>
+</table>
+<h2>Relationships</h2>
+<ul>
+<li>REQUIRES_BIOMARKER::[[25-OH Vitamin D]]</li>
+<li>INCREASES_RISK_FOR::[[Osteoporosis]]</li>
+<li>INCREASES_RISK_FOR::[[Depression]]</li>
+<li>INCREASES_RISK_FOR::[[Immune Dysfunction]]</li>
+<li>AFFECTS_ORGAN::[[Bones]]</li>
+<li>AFFECTS_ORGAN::[[Immune System]]</li>
+<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin D3]]</li>
+<li>IMPROVED_BY_SUPPLEMENT::[[Vitamin K2]]</li>
+<li>IMPROVED_BY_SUPPLEMENT::[[Magnesium]]</li>
+<li>MODULATED_BY_PATHWAY::[[Calcium Homeostasis]]</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>Holick MF, et al. Evaluation, Treatment, and Prevention of Vitamin D Deficiency. J Clin Endocrinol Metab. 2011</li>
+<li>Hossein-nezhad A, Holick MF. Vitamin D for Health: A Global Perspective. Mayo Clin Proc. 2013</li>
+</ul>
 
-## Overview
-
-Vitamin D deficiency is one of the most common nutritional deficiencies, affecting an estimated 1 billion people worldwide. Vitamin D is essential for calcium absorption, bone health, immune function, and may protect against various chronic diseases.
-
-Evidence Level: 4/5 (Strong epidemiological evidence)
-Risk Multiplier: 1.2x for bone and immune-related conditions
-
-## Key Biomarker
-
-- **25-OH Vitamin D**: Primary measure of vitamin D status
-  - Deficient: < 20 ng/mL
-  - Insufficient: 20-29 ng/mL
-  - Sufficient: 30-50 ng/mL
-  - Optimal: 40-60 ng/mL
-
-## Vitamin D Status Classification
-
-| Level (ng/mL) | Status | Action |
-|---------------|--------|--------|
-| < 12 | Severe deficiency | High-dose supplementation |
-| 12-20 | Deficient | Supplementation required |
-| 20-30 | Insufficient | Supplementation recommended |
-| 30-50 | Sufficient | Maintain current intake |
-| 50-100 | High normal | May reduce supplementation |
-| > 100 | Potentially toxic | Reduce/stop supplementation |
-
-## Relationships
-
-- REQUIRES_BIOMARKER::[[25-OH Vitamin D]]
-- INCREASES_RISK_FOR::[[Osteoporosis]]
-- INCREASES_RISK_FOR::[[Depression]]
-- INCREASES_RISK_FOR::[[Immune Dysfunction]]
-- AFFECTS_ORGAN::[[Bones]]
-- AFFECTS_ORGAN::[[Immune System]]
-- IMPROVED_BY_SUPPLEMENT::[[Vitamin D3]]
-- IMPROVED_BY_SUPPLEMENT::[[Vitamin K2]]
-- IMPROVED_BY_SUPPLEMENT::[[Magnesium]]
-- MODULATED_BY_PATHWAY::[[Calcium Homeostasis]]
-
-## References
-
-- Holick MF, et al. Evaluation, Treatment, and Prevention of Vitamin D Deficiency. J Clin Endocrinol Metab. 2011
-- Hossein-nezhad A, Holick MF. Vitamin D for Health: A Global Perspective. Mayo Clin Proc. 2013
+{% endraw %}

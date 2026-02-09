@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.429676Z'
+created: '2026-02-09T05:40:20.633428Z'
 description: Ferritin is the main iron storage protein. Low levels indicate iron deficiency;
   high levels may indicate iron overload, inflammation, or liver disease.
 dg-home: false
@@ -9,160 +9,167 @@ permalink: /garden/dev_admin/biomarker/ferritin/
 slug: ferritin
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Ferritin
 type: biomarker
-updated: '2026-02-08T19:45:44.429676Z'
+updated: '2026-02-09T05:40:20.633428Z'
 ---
 
-# Ferritin
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Ferritin</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[iron_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:16.231051'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[iron_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.231051'
 source: obsidian
-```
-- ← [[ferritin]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:48:12.778690'
+</code></pre>
+<ul>
+<li>← [[ferritin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
 source: obsidian
-```
-- → [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T06:47:17.277692'
+</code></pre>
+<ul>
+<li>→ [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
-```
-- → [[iron_panel]] (labtest)
-```yaml
-last_modified: '2026-01-26T06:47:17.277692'
+</code></pre>
+<ul>
+<li>→ [[iron_panel]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
-```
-- → [[Iron_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:17.277692'
+</code></pre>
+<ul>
+<li>→ [[Iron_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
 source: obsidian
-```
-- → [[iron_panel]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.099734'
+</code></pre>
+<ul>
+<li>→ [[iron_panel]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
-```
-- → [[Iron_Deficiency_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:12.099734'
+</code></pre>
+<ul>
+<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
-```
-- ← [[Fatigue]] (phenotype)
-```yaml
-last_modified: '2026-01-26T07:08:18.588212'
+</code></pre>
+<ul>
+<li>← [[Fatigue]] (phenotype)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
 source: obsidian
-```
-- → [[ferritin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:12.099734'
+</code></pre>
+<ul>
+<li>→ [[ferritin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
-```
-- ← [[Iron_Deficiency]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:31.184931'
+</code></pre>
+<ul>
+<li>← [[Iron_Deficiency]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
 source: obsidian
-```
-- → [[Ferritin]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.099734'
+</code></pre>
+<ul>
+<li>→ [[Ferritin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.099734'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Iron_Deficiency]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.890940'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Iron_Deficiency]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
 source: obsidian
-```
-
-### Indicates Organ Health
-- → [[Liver]] (organ)
-```yaml
-specificity: high
+</code></pre>
+<h3>Indicates Organ Health</h3>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: high
 function_indicated: Iron Storage
 source: curated
-```
-- → [[Bones]] (organ)
-```yaml
-specificity: high
+</code></pre>
+<ul>
+<li>→ [[Bones]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">specificity: high
 function_indicated: Iron Storage / Erythropoiesis
 source: curated
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Ferritin]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:15.116371'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Ferritin]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.116371'
 source: obsidian
-```
-- → [[Iron_Deficiency_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:15.116371'
+</code></pre>
+<ul>
+<li>→ [[Iron_Deficiency_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:15.116371'
 source: obsidian
-```
-- ← [[Iron_Deficiency_Pattern]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:16.661054'
+</code></pre>
+<ul>
+<li>← [[Iron_Deficiency_Pattern]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
 source: obsidian
-```
-
-### Requires Biomarker
-- ← [[Iron_Deficiency_Pattern]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:39.366268'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>← [[Iron_Deficiency_Pattern]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- [[ferritin]] - Direct ferritin measurement
-
-### Panel Tests
-- [[iron panel]] - Part of iron studies panel
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>[[ferritin]] - Direct ferritin measurement</li>
+</ul>
+<h3>Panel Tests</h3>
+<ul>
+<li>[[iron panel]] - Part of iron studies panel</li>
+</ul>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Ferritin]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

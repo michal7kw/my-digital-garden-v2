@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.475540Z'
+created: '2026-02-09T05:40:20.941670Z'
 description: A range of conditions affecting the gallbladder, most commonly involving
   gallstones or inflammation (cholecystitis).
 dg-home: false
@@ -11,167 +11,164 @@ tags:
 - condition
 - gastroenterology
 - function-health
+templateEngineOverride: njk
 title: Gallbladder Disease
 type: condition
-updated: '2026-02-08T19:45:44.475540Z'
+updated: '2026-02-09T05:40:20.941670Z'
 ---
 
-# Gallbladder Disease
-
-## Overview
-A range of conditions affecting the gallbladder, most commonly involving gallstones or inflammation (cholecystitis).
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Gallbladder Disease</h1>
+<h2>Overview</h2>
+<p>A range of conditions affecting the gallbladder, most commonly involving gallstones or inflammation (cholecystitis).</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Gallbladder Disease]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[amylase]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[amylase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[lipase]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[lipase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[bilirubin_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Gallbladder_Disease]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:07.269459'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Gallbladder_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
-```
-- → [[amylase]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:07.269459'
+</code></pre>
+<ul>
+<li>→ [[amylase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
-```
-- → [[lipase]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:07.269459'
+</code></pre>
+<ul>
+<li>→ [[lipase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
-```
-- → [[bilirubin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:07.269459'
+</code></pre>
+<ul>
+<li>→ [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:07.269459'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Gallbladder Disease]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Gallbladder Disease]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Gallbladder_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:28.084583'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Gallbladder_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
-```
-- ← [[lipase]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:56.162445'
+</code></pre>
+<ul>
+<li>← [[lipase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
 source: obsidian
-```
-- ← [[bilirubin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:50.709630'
+</code></pre>
+<ul>
+<li>← [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.709630'
 source: obsidian
-```
-- ← [[amylase]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:49.692341'
+</code></pre>
+<ul>
+<li>← [[amylase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.692341'
 source: obsidian
-```
-- → [[Gallbladder_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:28.084583'
+</code></pre>
+<ul>
+<li>→ [[Gallbladder_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
-```
-- → [[lipase]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:28.084583'
+</code></pre>
+<ul>
+<li>→ [[lipase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
-```
-- → [[bilirubin_urine]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:28.084583'
+</code></pre>
+<ul>
+<li>→ [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
-```
-- → [[amylase]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:28.084583'
+</code></pre>
+<ul>
+<li>→ [[amylase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
 source: obsidian
-```
-
-### May Detect
-- ← [[bilirubin_urine]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[bilirubin_urine]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[lipase]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[lipase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[amylase]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[amylase]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

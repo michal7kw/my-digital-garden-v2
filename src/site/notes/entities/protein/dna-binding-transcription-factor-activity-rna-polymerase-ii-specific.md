@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.637433Z'
+created: '2026-02-09T05:40:22.099711Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -8,164 +8,189 @@ permalink: /garden/dev_admin/protein/dna-binding-transcription-factor-activity-r
 slug: dna-binding-transcription-factor-activity-rna-polymerase-ii-specific
 tags:
 - protein
+templateEngineOverride: njk
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-02-08T19:45:44.637433Z'
+updated: '2026-02-09T05:40:22.099711Z'
 ---
 
-# DNA-binding transcription factor activity, RNA polymerase II-specific
-
-## Function Summary
-No function summary available.
-
-## Detailed Description
-... 
-## Gene Information
-- **Gene ID:** N/A
-- **Ensembl ID:** N/A
-- **Chromosome:** N/A
-- **Location:** N/A
-
-## Protein Details
-- **UniProt ID:** N/A
-- **Organism:** N/A
-- **Cellular Location:** N/A
-- **Molecular Weight:** N/A
-- **Tissue Expression:** N/A
-
-## Sequence & Structure
-
-
+{% raw %}
+<h1>DNA-binding transcription factor activity, RNA polymerase II-specific</h1>
+<h2>Function Summary</h2>
+<p>No function summary available.</p>
+<h2>Detailed Description</h2>
+<p>...</p>
+<h2>Gene Information</h2>
+<ul>
+<li><strong>Gene ID:</strong> N/A</li>
+<li><strong>Ensembl ID:</strong> N/A</li>
+<li><strong>Chromosome:</strong> N/A</li>
+<li><strong>Location:</strong> N/A</li>
+</ul>
+<h2>Protein Details</h2>
+<ul>
+<li><strong>UniProt ID:</strong> N/A</li>
+<li><strong>Organism:</strong> N/A</li>
+<li><strong>Cellular Location:</strong> N/A</li>
+<li><strong>Molecular Weight:</strong> N/A</li>
+<li><strong>Tissue Expression:</strong> N/A</li>
+</ul>
+<h2>Sequence &amp; Structure</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[DNA-binding_transcription_factor_activity]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.608162'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
-```
-- → [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.608162'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
-```
-- → [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.608162'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
-```
-- → [[nuclear_receptor_activity]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:30.608162'
+</code></pre>
+<ul>
+<li>→ [[nuclear_receptor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.608162'
 source: obsidian
-```
-
-### Relatedtofunction
-- ← [[DNA-binding_transcription_factor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.119000+00:00'
+</code></pre>
+<h3>Relatedtofunction</h3>
+<ul>
+<li>← [[DNA-binding_transcription_factor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.119000+00:00'
 source: PrimeKG
-```
-- ← [[nuclear_receptor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.124000+00:00'
+</code></pre>
+<ul>
+<li>← [[nuclear_receptor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.124000+00:00'
 source: PrimeKG
-```
-- ← [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.130000+00:00'
+</code></pre>
+<ul>
+<li>← [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.130000+00:00'
 source: PrimeKG
-```
-- ← [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.135000+00:00'
+</code></pre>
+<ul>
+<li>← [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.135000+00:00'
 source: PrimeKG
-```
-- → [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.140000+00:00'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.140000+00:00'
 source: PrimeKG
-```
-- → [[DNA-binding_transcription_factor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.145000+00:00'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.145000+00:00'
 source: PrimeKG
-```
-- → [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.151000+00:00'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.151000+00:00'
 source: PrimeKG
-```
-- → [[nuclear_receptor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.157000+00:00'
+</code></pre>
+<ul>
+<li>→ [[nuclear_receptor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.157000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Relatedtofunction
-- ← [[DNA-binding_transcription_factor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.119000+00:00'
+<h2>Relationships</h2>
+<h3>Relatedtofunction</h3>
+<ul>
+<li>← [[DNA-binding_transcription_factor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.119000+00:00'
 source: PrimeKG
-```
-- ← [[nuclear_receptor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.124000+00:00'
+</code></pre>
+<ul>
+<li>← [[nuclear_receptor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.124000+00:00'
 source: PrimeKG
-```
-- ← [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.130000+00:00'
+</code></pre>
+<ul>
+<li>← [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.130000+00:00'
 source: PrimeKG
-```
-- ← [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.135000+00:00'
+</code></pre>
+<ul>
+<li>← [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.135000+00:00'
 source: PrimeKG
-```
-- → [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.140000+00:00'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.140000+00:00'
 source: PrimeKG
-```
-- → [[DNA-binding_transcription_factor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.145000+00:00'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.145000+00:00'
 source: PrimeKG
-```
-- → [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.151000+00:00'
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.151000+00:00'
 source: PrimeKG
-```
-- → [[nuclear_receptor_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:16.157000+00:00'
+</code></pre>
+<ul>
+<li>→ [[nuclear_receptor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:16.157000+00:00'
 source: PrimeKG
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[DNA-binding_transcription_factor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[nuclear_receptor_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:47.289561'
+source: obsidian
+</code></pre>
+<h2>Source Data</h2>
+<ul>
+<li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-19T09:06:47.566969+00:00</li>
+</ul>
 
-### Related
-- → [[DNA-binding_transcription_factor_activity]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:47.289561'
-source: obsidian
-```
-- → [[nuclear_receptor_activity]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:47.289561'
-source: obsidian
-```
-- → [[DNA-binding_transcription_activator_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:47.289561'
-source: obsidian
-```
-- → [[DNA-binding_transcription_repressor_activity_RNA_polymerase_II-specific]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:47.289561'
-source: obsidian
-```
-
-## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-19T09:06:47.566969+00:00
+{% endraw %}

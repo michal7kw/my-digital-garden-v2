@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.494138Z'
+created: '2026-02-09T05:40:21.040648Z'
 description: Oxidative stress is an imbalance between the production of reactive oxygen
   species (ROS) and the biological system's ability to detoxify or repair the resulting
   damage. It is implicated in many pathological conditions including neurodegeneration,
@@ -15,172 +15,167 @@ tags:
 - reactive_oxygen_species
 - mitochondria
 - aging
+templateEngineOverride: njk
 title: Oxidative Stress
 type: condition
-updated: '2026-02-08T19:45:44.494138Z'
+updated: '2026-02-09T05:40:21.040648Z'
 ---
 
-# Oxidative Stress
-
-## Overview
-Oxidative stress is an imbalance between the production of reactive oxygen species (ROS) and the biological system's ability to detoxify or repair the resulting damage. It is implicated in many pathological conditions including neurodegeneration, cardiovascular diseases, and metabolic disorders.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Oxidative Stress</h1>
+<h2>Overview</h2>
+<p>Oxidative stress is an imbalance between the production of reactive oxygen species (ROS) and the biological system's ability to detoxify or repair the resulting damage. It is implicated in many pathological conditions including neurodegeneration, cardiovascular diseases, and metabolic disorders.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Oxidative Stress]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Involves
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:31:31.414383'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Involves</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
-```
-- → [[Electron_Transport_Chain]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:31.414383'
+</code></pre>
+<ul>
+<li>→ [[Electron_Transport_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
-```
-
-### Modulated By
-- → [[Nicotine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:31.414383'
+</code></pre>
+<h3>Modulated By</h3>
+<ul>
+<li>→ [[Nicotine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
-```
-
-### Activates
-- → [[Nrf2_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:31.414383'
+</code></pre>
+<h3>Activates</h3>
+<ul>
+<li>→ [[Nrf2_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
 source: obsidian
-```
-
-### Related
-- → [[Oxidative_Stress]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:31.681292'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Oxidative_Stress]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:31:31.681292'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
-```
-- → [[Electron_Transport_Chain]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:31.681292'
+</code></pre>
+<ul>
+<li>→ [[Electron_Transport_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
-```
-- → [[Nicotine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:31.681292'
+</code></pre>
+<ul>
+<li>→ [[Nicotine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
-```
-- → [[Nrf2_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:31.681292'
+</code></pre>
+<ul>
+<li>→ [[Nrf2_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Oxidative Stress]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Oxidative Stress]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Neuroinflammation]] (pathway)
-```yaml
-last_modified: '2026-01-26T06:47:48.905499'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Neuroinflammation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.905499'
 source: obsidian
-```
-- → [[Oxidative_Stress]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Stress]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-- → [[Electron_Transport_Chain]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>→ [[Electron_Transport_Chain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-- → [[Nrf2_Pathway]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>→ [[Nrf2_Pathway]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-- ← [[Neuroinflammation]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:12.428247'
+</code></pre>
+<ul>
+<li>← [[Neuroinflammation]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
 source: obsidian
-```
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-- → [[Nicotine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>→ [[Nicotine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-- → [[Oxidative_Stress]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:34.918464'
+</code></pre>
+<ul>
+<li>→ [[Oxidative_Stress]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
 source: obsidian
-```
-
-### Modulated By
-- → [[Nicotine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:37:22.629336'
+</code></pre>
+<h3>Modulated By</h3>
+<ul>
+<li>→ [[Nicotine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
 source: obsidian
-```
-
-### Involves
-- → [[Mitochondria]] (cellularcomponent)
-```yaml
-last_modified: '2026-01-19T09:37:22.629336'
+</code></pre>
+<h3>Involves</h3>
+<ul>
+<li>→ [[Mitochondria]] (cellularcomponent)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

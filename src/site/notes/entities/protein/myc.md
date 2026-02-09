@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.639259Z'
+created: '2026-02-09T05:40:22.109710Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,80 +10,92 @@ tags:
 - protein
 - imported
 - primekg
+templateEngineOverride: njk
 title: MYC
 type: protein
-updated: '2026-02-08T19:45:44.639259Z'
+updated: '2026-02-09T05:40:22.109710Z'
 ---
 
-# MYC
-(Gene: MYC)
-## Function Summary
-No function summary available.
-
-## Detailed Description
-... 
-## Gene Information
-- **Gene ID:** N/A
-- **Ensembl ID:** N/A
-- **Chromosome:** N/A
-- **Location:** N/A
-
-## Protein Details
-- **UniProt ID:** N/A
-- **Organism:** N/A
-- **Cellular Location:** N/A
-- **Molecular Weight:** N/A
-- **Tissue Expression:** N/A
-
-## Sequence & Structure
-
-
+{% raw %}
+<h1>MYC</h1>
+<p>(Gene: MYC)</p>
+<h2>Function Summary</h2>
+<p>No function summary available.</p>
+<h2>Detailed Description</h2>
+<p>...</p>
+<h2>Gene Information</h2>
+<ul>
+<li><strong>Gene ID:</strong> N/A</li>
+<li><strong>Ensembl ID:</strong> N/A</li>
+<li><strong>Chromosome:</strong> N/A</li>
+<li><strong>Location:</strong> N/A</li>
+</ul>
+<h2>Protein Details</h2>
+<ul>
+<li><strong>UniProt ID:</strong> N/A</li>
+<li><strong>Organism:</strong> N/A</li>
+<li><strong>Cellular Location:</strong> N/A</li>
+<li><strong>Molecular Weight:</strong> N/A</li>
+<li><strong>Tissue Expression:</strong> N/A</li>
+</ul>
+<h2>Sequence &amp; Structure</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[DNA_binding]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:31.590073'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[DNA_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.590073'
 source: obsidian
-```
-- → [[CXCR4]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:31.590073'
+</code></pre>
+<ul>
+<li>→ [[CXCR4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.590073'
 source: obsidian
-```
-- ← [[CXCR4]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:29.948634'
+</code></pre>
+<ul>
+<li>← [[CXCR4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
 source: obsidian
-```
-- ← [[DNA_binding]] (protein)
-```yaml
-last_modified: '2026-01-26T07:08:30.221674'
+</code></pre>
+<ul>
+<li>← [[DNA_binding]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.221674'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Related
-- ← [[DNA_binding]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:46.093355'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[DNA_binding]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:46.093355'
 source: obsidian
-```
-- ← [[CXCR4]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:45.354183'
+</code></pre>
+<ul>
+<li>← [[CXCR4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
 source: obsidian
-```
-- → [[CXCR4]] (protein)
-```yaml
-last_modified: '2026-01-19T09:06:49.074450'
+</code></pre>
+<ul>
+<li>→ [[CXCR4]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:49.074450'
 source: obsidian
-```
-- → [[DNA_binding]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:49.074450'
+</code></pre>
+<ul>
+<li>→ [[DNA_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:49.074450'
 source: obsidian
-```
+</code></pre>
+<h2>Source Data</h2>
+<ul>
+<li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-03T08:01:21+0000</li>
+</ul>
 
-## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-03T08:01:21+0000
+{% endraw %}

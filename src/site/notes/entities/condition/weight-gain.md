@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.510610Z'
+created: '2026-02-09T05:40:21.112230Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
@@ -12,54 +12,56 @@ tags:
 - metabolic
 - endocrinology
 - symptom
+templateEngineOverride: njk
 title: Weight Gain
 type: condition
-updated: '2026-02-08T19:45:44.510610Z'
+updated: '2026-02-09T05:40:21.112230Z'
 ---
 
-# Weight Gain
-
-## Overview
-
-Weight gain occurs when you take in more calories than your body uses. While often related to diet and exercise, unexplained or rapid weight gain can be a symptom of an underlying medical condition, such as hormonal imbalances or fluid retention (**Edema**).
-
-## Potential Medical Causes
-
-- **Hypothyroidism:** Underactive thyroid slows metabolism.
-- **Cushing's Syndrome:** Excess cortisol.
-- **PCOS:** Hormonal imbalance in women.
-- **Heart/Kidney/Liver Failure:** Causes fluid buildup.
-- **Depression:** Changes in eating/activity levels.
-
+{% raw %}
+<h1>Weight Gain</h1>
+<h2>Overview</h2>
+<p>Weight gain occurs when you take in more calories than your body uses. While often related to diet and exercise, unexplained or rapid weight gain can be a symptom of an underlying medical condition, such as hormonal imbalances or fluid retention (<strong>Edema</strong>).</p>
+<h2>Potential Medical Causes</h2>
+<ul>
+<li><strong>Hypothyroidism:</strong> Underactive thyroid slows metabolism.</li>
+<li><strong>Cushing's Syndrome:</strong> Excess cortisol.</li>
+<li><strong>PCOS:</strong> Hormonal imbalance in women.</li>
+<li><strong>Heart/Kidney/Liver Failure:</strong> Causes fluid buildup.</li>
+<li><strong>Depression:</strong> Changes in eating/activity levels.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Weight_Gain]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:55.153563'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Weight_Gain]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.153563'
 source: obsidian
-```
-- → [[Weight_Gain]] (condition)
-```yaml
-last_modified: '2026-01-26T06:04:02.726028'
+</code></pre>
+<ul>
+<li>→ [[Weight_Gain]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:04:02.726028'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Obesity]]<br />
+ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]<br />
+ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]<br />
+ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]<br />
+ASSOCIATED_WITH_CONDITION::[[Depressive Disorder]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[BMI]] - Elevated.<br />
+TREATED_BY_DRUG::[[Orlistat]]<br />
+TREATED_BY_DRUG::[[Semaglutide]] - GLP-1 agonist.<br />
+IMPROVED_BY_INTERVENTION::[[Exercise]]<br />
+IMPROVED_BY_INTERVENTION::[[Dietary Modification]]</p>
+<h2>References</h2>
+<ul>
+<li>WHO. Obesity and overweight.</li>
+<li>Mayo Clinic. Unexplained weight gain.</li>
+<li>NIH. Weight Management.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Obesity]]
-ASSOCIATED_WITH_CONDITION::[[Diabetes Mellitus]]
-ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]
-ASSOCIATED_WITH_CONDITION::[[Metabolic Syndrome]]
-ASSOCIATED_WITH_CONDITION::[[Depressive Disorder]]
-ASSOCIATED_WITH_BIOMARKER::[[BMI]] - Elevated.
-TREATED_BY_DRUG::[[Orlistat]]
-TREATED_BY_DRUG::[[Semaglutide]] - GLP-1 agonist.
-IMPROVED_BY_INTERVENTION::[[Exercise]]
-IMPROVED_BY_INTERVENTION::[[Dietary Modification]]
-
-## References
-
-- WHO. Obesity and overweight.
-- Mayo Clinic. Unexplained weight gain.
-- NIH. Weight Management.
+{% endraw %}

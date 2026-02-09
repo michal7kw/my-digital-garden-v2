@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.526638Z'
+created: '2026-02-09T05:40:21.190406Z'
 description: Single-photon emission computed tomography imaging of dopamine transporter
   density. Used to confirm dopaminergic deficit in Parkinson's disease and differentiate
   from essential tremor or drug-induced parkinsonism.
@@ -14,159 +14,253 @@ tags:
 - spect
 - dopamine
 - parkinsons
+templateEngineOverride: njk
 title: DAT-SPECT
 type: examination
-updated: '2026-02-08T19:45:44.526638Z'
+updated: '2026-02-09T05:40:21.190406Z'
 ---
 
-# DAT-SPECT (Dopamine Transporter SPECT)
+{% raw %}
+<h1>DAT-SPECT (Dopamine Transporter SPECT)</h1>
+<h2>Overview</h2>
+<p>DAT-SPECT (also known as DaTscan when using ioflupane) is a nuclear imaging technique that visualizes dopamine transporter (DAT) density in the striatum. DAT is located on presynaptic dopaminergic nerve terminals, so reduced DAT signal indicates loss of nigrostriatal dopamine neurons. This is the imaging hallmark of neurodegenerative parkinsonism (PD, MSA, PSP, CBD) and distinguishes it from conditions without dopaminergic degeneration.</p>
+<h2>FDA-Approved Tracers</h2>
+<table>
+<thead>
+<tr>
+<th>Tracer</th>
+<th>Brand Name</th>
+<th>Half-life</th>
+<th>Approval</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[123I]Ioflupane</td>
+<td>DaTscan</td>
+<td>13 hours</td>
+<td>FDA 2011</td>
+</tr>
+<tr>
+<td>[99mTc]TRODAT-1</td>
+<td>-</td>
+<td>6 hours</td>
+<td>Non-US</td>
+</tr>
+<tr>
+<td>[18F]FE-PE2I</td>
+<td>-</td>
+<td>110 min</td>
+<td>Research (PET)</td>
+</tr>
+</tbody>
+</table>
+<h3>DaTscan Mechanism</h3>
+<ul>
+<li>Binds to dopamine transporter (DAT) on presynaptic terminals</li>
+<li>Normal: Symmetric &quot;comma&quot; or &quot;crescent&quot; shaped uptake</li>
+<li>Abnormal: Reduced uptake, asymmetry, &quot;dot&quot; or &quot;egg&quot; pattern</li>
+</ul>
+<h2>Clinical Indications</h2>
+<h3>FDA-Approved Use</h3>
+<ol>
+<li><strong>Essential tremor vs. Parkinson's disease</strong></li>
+<li><strong>Dementia with Lewy bodies vs. Alzheimer's disease</strong></li>
+<li><strong>Drug-induced parkinsonism vs. neurodegenerative</strong></li>
+</ol>
+<h3>Key Clinical Questions</h3>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>DaTscan Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tremor-predominant: ET or PD?</td>
+<td>Normal in ET, abnormal in PD</td>
+</tr>
+<tr>
+<td>Is dementia DLB or AD?</td>
+<td>Abnormal in DLB, normal in AD</td>
+</tr>
+<tr>
+<td>Is parkinsonism from medications?</td>
+<td>Normal if drug-induced</td>
+</tr>
+</tbody>
+</table>
+<h2>Interpretation</h2>
+<h3>Normal Scan</h3>
+<ul>
+<li>Bilateral symmetric uptake</li>
+<li>&quot;Comma&quot; or &quot;crescent&quot; shape (includes caudate and putamen)</li>
+<li>Preserved striatal volume</li>
+</ul>
+<h3>Abnormal Patterns</h3>
+<table>
+<thead>
+<tr>
+<th>Pattern</th>
+<th>Description</th>
+<th>Conditions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Asymmetric loss</td>
+<td>One side more affected</td>
+<td>Early PD (contralateral to symptoms)</td>
+</tr>
+<tr>
+<td>Putaminal loss</td>
+<td>&quot;Period&quot; or &quot;dot&quot; (caudate only)</td>
+<td>Parkinsonism</td>
+</tr>
+<tr>
+<td>Bilateral severe</td>
+<td>Marked reduction both sides</td>
+<td>Advanced PD, PSP, MSA</td>
+</tr>
+</tbody>
+</table>
+<h3>Semiquantitative Analysis</h3>
+<ul>
+<li>Striatal binding ratios (SBR)</li>
+<li>Caudate/putamen ratios</li>
+<li>Asymmetry indices</li>
+<li>Comparison to age-matched controls</li>
+</ul>
+<h2>Diseases and DAT-SPECT Findings</h2>
+<h3>Abnormal DAT-SPECT (Dopaminergic Deficit)</h3>
+<ul>
+<li><strong>Parkinson's disease</strong>: Asymmetric, putamen &gt; caudate</li>
+<li><strong>Multiple system atrophy</strong>: Often symmetric, severe</li>
+<li><strong>Progressive supranuclear palsy</strong>: Variable, may be symmetric</li>
+<li><strong>Corticobasal degeneration</strong>: Asymmetric</li>
+<li><strong>Dementia with Lewy bodies</strong>: Abnormal in 70-80%</li>
+</ul>
+<h3>Normal DAT-SPECT (No Dopaminergic Deficit)</h3>
+<ul>
+<li>Essential tremor</li>
+<li>Drug-induced parkinsonism</li>
+<li>Psychogenic parkinsonism</li>
+<li>Vascular parkinsonism (usually)</li>
+<li>Alzheimer's disease (pure)</li>
+<li>Dystonic tremor</li>
+</ul>
+<h2>SWEDD Phenomenon</h2>
+<h3>Scans Without Evidence of Dopaminergic Deficit</h3>
+<ul>
+<li>~10-15% of clinically diagnosed PD patients have normal DaTscan</li>
+<li>May represent misdiagnosis or early/atypical presentation</li>
+<li>Follow-up often reveals alternative diagnoses</li>
+<li>Term now discouraged; prefer specific diagnosis</li>
+</ul>
+<h2>Relationship to Disease Progression</h2>
+<h3>Sensitivity</h3>
+<ul>
+<li>Abnormal early in disease (often at symptom onset)</li>
+<li>50-70% DAT loss by time of diagnosis</li>
+<li>Compensatory mechanisms delay symptoms</li>
+</ul>
+<h3>Progression Monitoring</h3>
+<ul>
+<li>Not recommended for routine monitoring</li>
+<li>Research use: Track decline in trials</li>
+<li>~5-8% annual decline in DAT binding in PD</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Conditions</h3>
+<ul>
+<li>→ [[Parkinson's Disease]] (condition) - <em>Confirms dopaminergic deficit</em></li>
+<li>→ [[Lewy Body Dementia]] (condition) - <em>Distinguishes from AD</em></li>
+<li>→ [[Multiple System Atrophy]] (condition) - <em>Abnormal</em></li>
+<li>→ [[Progressive Supranuclear Palsy]] (condition) - <em>Variable abnormality</em></li>
+<li>→ [[Essential Tremor]] (condition) - <em>Normal (excludes PD)</em></li>
+</ul>
+<h3>Brain Regions</h3>
+<ul>
+<li>→ [[Substantia Nigra]] (organ) - <em>Source of dopamine neurons</em></li>
+<li>→ [[Striatum]] (organ) - <em>Imaging target</em></li>
+<li>→ [[Putamen]] (organ) - <em>First affected in PD</em></li>
+</ul>
+<h3>Related Pathways</h3>
+<ul>
+<li>→ [[Nigrostriatal Dopamine Pathway]] (pathway) - <em>Assessed pathway</em></li>
+<li>→ [[Alpha-Synuclein Aggregation]] (pathway) - <em>Underlying pathology</em></li>
+</ul>
+<h3>Biomarkers</h3>
+<ul>
+<li>→ [[Alpha-Synuclein CSF]] (biomarker) - <em>Complementary</em></li>
+<li>→ [[Neurofilament Light Chain]] (biomarker) - <em>Neurodegeneration</em></li>
+</ul>
+<h2>Practical Considerations</h2>
+<h3>Patient Preparation</h3>
+<ul>
+<li>Discontinue medications affecting DAT binding (certain antidepressants, stimulants)</li>
+<li>Thyroid blockade (potassium iodide or perchlorate)</li>
+<li>Explain procedure (injection, 3-6 hour wait, scan)</li>
+</ul>
+<h3>Medications to Discontinue</h3>
+<table>
+<thead>
+<tr>
+<th>Medication</th>
+<th>Discontinuation Time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cocaine/amphetamines</td>
+<td>1-2 weeks</td>
+</tr>
+<tr>
+<td>Methylphenidate</td>
+<td>2-3 days</td>
+</tr>
+<tr>
+<td>Bupropion</td>
+<td>8 days</td>
+</tr>
+<tr>
+<td>Modafinil</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>SSRIs/SNRIs</td>
+<td>Variable; usually OK</td>
+</tr>
+</tbody>
+</table>
+<h3>Scan Protocol</h3>
+<ul>
+<li>Injection → 3-6 hour uptake period</li>
+<li>30-45 minute acquisition</li>
+<li>Low-dose CT for attenuation correction</li>
+</ul>
+<h2>Advantages and Limitations</h2>
+<h3>Advantages</h3>
+<ul>
+<li>Objective evidence of dopaminergic deficit</li>
+<li>High sensitivity (&gt;95%) for established PD</li>
+<li>Differentiates from mimics</li>
+<li>Supports DLB diagnosis</li>
+</ul>
+<h3>Limitations</h3>
+<ul>
+<li>Cannot distinguish between PD, MSA, PSP, CBD</li>
+<li>Cost (~$2,000-3,500)</li>
+<li>Radiation exposure (~5 mSv)</li>
+<li>Does not predict disease course</li>
+<li>False negatives in very early disease possible</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>FDA Approval</strong>: FDA News Release (2011). &quot;FDA approves DaTscan for Parkinson's diagnosis.&quot;</li>
+<li><strong>Clinical Utility</strong>: Seibyl, J.P., et al. (2017). &quot;Dopamine transporter SPECT.&quot; <em>Journal of Nuclear Medicine</em>.</li>
+<li><strong>DLB Criteria</strong>: McKeith, I.G., et al. (2017). &quot;DLB diagnostic criteria.&quot; <em>Neurology</em>.</li>
+</ol>
 
-## Overview
-DAT-SPECT (also known as DaTscan when using ioflupane) is a nuclear imaging technique that visualizes dopamine transporter (DAT) density in the striatum. DAT is located on presynaptic dopaminergic nerve terminals, so reduced DAT signal indicates loss of nigrostriatal dopamine neurons. This is the imaging hallmark of neurodegenerative parkinsonism (PD, MSA, PSP, CBD) and distinguishes it from conditions without dopaminergic degeneration.
-
-## FDA-Approved Tracers
-
-| Tracer | Brand Name | Half-life | Approval |
-|--------|------------|-----------|----------|
-| [123I]Ioflupane | DaTscan | 13 hours | FDA 2011 |
-| [99mTc]TRODAT-1 | - | 6 hours | Non-US |
-| [18F]FE-PE2I | - | 110 min | Research (PET) |
-
-### DaTscan Mechanism
-- Binds to dopamine transporter (DAT) on presynaptic terminals
-- Normal: Symmetric "comma" or "crescent" shaped uptake
-- Abnormal: Reduced uptake, asymmetry, "dot" or "egg" pattern
-
-## Clinical Indications
-
-### FDA-Approved Use
-1. **Essential tremor vs. Parkinson's disease**
-2. **Dementia with Lewy bodies vs. Alzheimer's disease**
-3. **Drug-induced parkinsonism vs. neurodegenerative**
-
-### Key Clinical Questions
-| Question | DaTscan Role |
-|----------|--------------|
-| Tremor-predominant: ET or PD? | Normal in ET, abnormal in PD |
-| Is dementia DLB or AD? | Abnormal in DLB, normal in AD |
-| Is parkinsonism from medications? | Normal if drug-induced |
-
-## Interpretation
-
-### Normal Scan
-- Bilateral symmetric uptake
-- "Comma" or "crescent" shape (includes caudate and putamen)
-- Preserved striatal volume
-
-### Abnormal Patterns
-| Pattern | Description | Conditions |
-|---------|-------------|------------|
-| Asymmetric loss | One side more affected | Early PD (contralateral to symptoms) |
-| Putaminal loss | "Period" or "dot" (caudate only) | Parkinsonism |
-| Bilateral severe | Marked reduction both sides | Advanced PD, PSP, MSA |
-
-### Semiquantitative Analysis
-- Striatal binding ratios (SBR)
-- Caudate/putamen ratios
-- Asymmetry indices
-- Comparison to age-matched controls
-
-## Diseases and DAT-SPECT Findings
-
-### Abnormal DAT-SPECT (Dopaminergic Deficit)
-- **Parkinson's disease**: Asymmetric, putamen > caudate
-- **Multiple system atrophy**: Often symmetric, severe
-- **Progressive supranuclear palsy**: Variable, may be symmetric
-- **Corticobasal degeneration**: Asymmetric
-- **Dementia with Lewy bodies**: Abnormal in 70-80%
-
-### Normal DAT-SPECT (No Dopaminergic Deficit)
-- Essential tremor
-- Drug-induced parkinsonism
-- Psychogenic parkinsonism
-- Vascular parkinsonism (usually)
-- Alzheimer's disease (pure)
-- Dystonic tremor
-
-## SWEDD Phenomenon
-
-### Scans Without Evidence of Dopaminergic Deficit
-- ~10-15% of clinically diagnosed PD patients have normal DaTscan
-- May represent misdiagnosis or early/atypical presentation
-- Follow-up often reveals alternative diagnoses
-- Term now discouraged; prefer specific diagnosis
-
-## Relationship to Disease Progression
-
-### Sensitivity
-- Abnormal early in disease (often at symptom onset)
-- 50-70% DAT loss by time of diagnosis
-- Compensatory mechanisms delay symptoms
-
-### Progression Monitoring
-- Not recommended for routine monitoring
-- Research use: Track decline in trials
-- ~5-8% annual decline in DAT binding in PD
-
-## Relationships
-
-### Conditions
-- → [[Parkinson's Disease]] (condition) - *Confirms dopaminergic deficit*
-- → [[Lewy Body Dementia]] (condition) - *Distinguishes from AD*
-- → [[Multiple System Atrophy]] (condition) - *Abnormal*
-- → [[Progressive Supranuclear Palsy]] (condition) - *Variable abnormality*
-- → [[Essential Tremor]] (condition) - *Normal (excludes PD)*
-
-### Brain Regions
-- → [[Substantia Nigra]] (organ) - *Source of dopamine neurons*
-- → [[Striatum]] (organ) - *Imaging target*
-- → [[Putamen]] (organ) - *First affected in PD*
-
-### Related Pathways
-- → [[Nigrostriatal Dopamine Pathway]] (pathway) - *Assessed pathway*
-- → [[Alpha-Synuclein Aggregation]] (pathway) - *Underlying pathology*
-
-### Biomarkers
-- → [[Alpha-Synuclein CSF]] (biomarker) - *Complementary*
-- → [[Neurofilament Light Chain]] (biomarker) - *Neurodegeneration*
-
-## Practical Considerations
-
-### Patient Preparation
-- Discontinue medications affecting DAT binding (certain antidepressants, stimulants)
-- Thyroid blockade (potassium iodide or perchlorate)
-- Explain procedure (injection, 3-6 hour wait, scan)
-
-### Medications to Discontinue
-| Medication | Discontinuation Time |
-|------------|---------------------|
-| Cocaine/amphetamines | 1-2 weeks |
-| Methylphenidate | 2-3 days |
-| Bupropion | 8 days |
-| Modafinil | 1 week |
-| SSRIs/SNRIs | Variable; usually OK |
-
-### Scan Protocol
-- Injection → 3-6 hour uptake period
-- 30-45 minute acquisition
-- Low-dose CT for attenuation correction
-
-## Advantages and Limitations
-
-### Advantages
-- Objective evidence of dopaminergic deficit
-- High sensitivity (>95%) for established PD
-- Differentiates from mimics
-- Supports DLB diagnosis
-
-### Limitations
-- Cannot distinguish between PD, MSA, PSP, CBD
-- Cost (~$2,000-3,500)
-- Radiation exposure (~5 mSv)
-- Does not predict disease course
-- False negatives in very early disease possible
-
-## References
-1. **FDA Approval**: FDA News Release (2011). "FDA approves DaTscan for Parkinson's diagnosis."
-2. **Clinical Utility**: Seibyl, J.P., et al. (2017). "Dopamine transporter SPECT." *Journal of Nuclear Medicine*.
-3. **DLB Criteria**: McKeith, I.G., et al. (2017). "DLB diagnostic criteria." *Neurology*.
+{% endraw %}

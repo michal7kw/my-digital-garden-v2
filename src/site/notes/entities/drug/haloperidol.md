@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.516752Z'
+created: '2026-02-09T05:40:21.146732Z'
 description: Potent first-generation typical antipsychotic (butyrophenone). Widely
   used for acute agitation, Tourette syndrome, and psychosis.
 dg-home: false
@@ -14,262 +14,310 @@ tags:
 - tourette_syndrome
 - imported
 - primekg
+templateEngineOverride: njk
 title: Haloperidol
 type: drug
-updated: '2026-02-08T19:45:44.516752Z'
+updated: '2026-02-09T05:40:21.146732Z'
 ---
 
-# Haloperidol
-
-## Overview
-Haloperidol is a high-potency **typical antipsychotic** of the butyrophenone class. It is one of the most frequently used antipsychotics in emergency settings for **acute agitation** or psychosis due to its rapid onset (especially IM) and relatively clean cardiovascular profile (less hypotension than chlorpromazine).
-
-However, its high affinity for D2 receptors in the striatum leads to a high incidence of **Extrapyramidal Symptoms (EPS)**, such as dystonia, akathisia, and parkinsonism.
-
-## Indications
-- **Schizophrenia**: Acute and maintenance treatment.
-- **Acute Psychosis/Agitation**: Emergency management.
-- **Tourette Syndrome**: Control of tics.
-- **Delirium**: Often used in ICU settings (though evidence is debated).
-- **Huntington's Disease**: Chorea management.
-
+{% raw %}
+<h1>Haloperidol</h1>
+<h2>Overview</h2>
+<p>Haloperidol is a high-potency <strong>typical antipsychotic</strong> of the butyrophenone class. It is one of the most frequently used antipsychotics in emergency settings for <strong>acute agitation</strong> or psychosis due to its rapid onset (especially IM) and relatively clean cardiovascular profile (less hypotension than chlorpromazine).</p>
+<p>However, its high affinity for D2 receptors in the striatum leads to a high incidence of <strong>Extrapyramidal Symptoms (EPS)</strong>, such as dystonia, akathisia, and parkinsonism.</p>
+<h2>Indications</h2>
+<ul>
+<li><strong>Schizophrenia</strong>: Acute and maintenance treatment.</li>
+<li><strong>Acute Psychosis/Agitation</strong>: Emergency management.</li>
+<li><strong>Tourette Syndrome</strong>: Control of tics.</li>
+<li><strong>Delirium</strong>: Often used in ICU settings (though evidence is debated).</li>
+<li><strong>Huntington's Disease</strong>: Chorea management.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Imipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:59.154865'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
 source: obsidian
-```
-- ← [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T06:48:34.905107'
+</code></pre>
+<ul>
+<li>← [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.905107'
 source: obsidian
-```
-- → [[Imipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[QT_Prolongation]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[QT_Prolongation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Dopamine_D2_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Technetium_Tc-99m_pyrophosphate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Technetium_Tc-99m_pyrophosphate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Methadyl_acetate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Methadyl_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Botulinum_Toxin_Type_B]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Botulinum_Toxin_Type_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Extrapyramidal_Symptoms]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Extrapyramidal_Symptoms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Methylprednisolone_hemisuccinate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Methylprednisolone_hemisuccinate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Tardive_Dyskinesia]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Tardive_Dyskinesia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Chenodeoxycholic_acid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Chenodeoxycholic_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Sigma-1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Sigma-1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Alpha-1_Adrenergic_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Nalidixic_acid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Nalidixic_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Tourette_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Tourette_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Estrone_sulfate]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Estrone_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Iofetamine_I-123]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Iofetamine_I-123]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[Gadobenic_acid]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:58.723650'
+</code></pre>
+<ul>
+<li>→ [[Gadobenic_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:58.723650'
 source: obsidian
-```
-- → [[QT_Prolongation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[QT_Prolongation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Tourette_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Tourette_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Dopamine_D2_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Dopamine_D2_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Tardive_Dyskinesia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Tardive_Dyskinesia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Delirium]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Delirium]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Extrapyramidal_Symptoms]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Extrapyramidal_Symptoms]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Agitation]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Agitation]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Sigma-1_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Sigma-1_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Alpha-1_Adrenergic_Receptor]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Alpha-1_Adrenergic_Receptor]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Schizophrenia]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Schizophrenia]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-- → [[Dopamine]] (neurotransmitter)
-```yaml
-last_modified: '2026-01-26T07:07:41.747424'
+</code></pre>
+<ul>
+<li>→ [[Dopamine]] (neurotransmitter)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.747424'
 source: obsidian
-```
-
-### Interactswith
-- ← [[Methylprednisolone_hemisuccinate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.309000+00:00'
+</code></pre>
+<h3>Interactswith</h3>
+<ul>
+<li>← [[Methylprednisolone_hemisuccinate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.309000+00:00'
 source: PrimeKG
-```
-- ← [[Botulinum_Toxin_Type_B]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.319000+00:00'
+</code></pre>
+<ul>
+<li>← [[Botulinum_Toxin_Type_B]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.319000+00:00'
 source: PrimeKG
-```
-- ← [[Technetium_Tc-99m_pyrophosphate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.331000+00:00'
+</code></pre>
+<ul>
+<li>← [[Technetium_Tc-99m_pyrophosphate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.331000+00:00'
 source: PrimeKG
-```
-- ← [[Chenodeoxycholic_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.360000+00:00'
+</code></pre>
+<ul>
+<li>← [[Chenodeoxycholic_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.360000+00:00'
 source: PrimeKG
-```
-- ← [[Gadobenic_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.379000+00:00'
+</code></pre>
+<ul>
+<li>← [[Gadobenic_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.379000+00:00'
 source: PrimeKG
-```
-- ← [[Estrone_sulfate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.403000+00:00'
+</code></pre>
+<ul>
+<li>← [[Estrone_sulfate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.403000+00:00'
 source: PrimeKG
-```
-- ← [[Nalidixic_acid]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.487000+00:00'
+</code></pre>
+<ul>
+<li>← [[Nalidixic_acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.487000+00:00'
 source: PrimeKG
-```
-- ← [[Iofetamine_I-123]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.493000+00:00'
+</code></pre>
+<ul>
+<li>← [[Iofetamine_I-123]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.493000+00:00'
 source: PrimeKG
-```
-- ← [[Methadyl_acetate]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.517000+00:00'
+</code></pre>
+<ul>
+<li>← [[Methadyl_acetate]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.517000+00:00'
 source: PrimeKG
-```
-- ← [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)
-```yaml
-imported: '2025-12-26T11:56:38.528000+00:00'
+</code></pre>
+<ul>
+<li>← [[1-2-Phenylethyl-4-phenyl-4-acetoxypiperidine]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:38.528000+00:00'
 source: PrimeKG
-```
-- → [[Imipramine]] (drug)
-```yaml
-imported: '2025-12-26T11:56:36.989000+00:00'
+</code></pre>
+<ul>
+<li>→ [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.989000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>⊣ [[Dopamine]] (neurotransmitter) - <em>Potent D2 antagonism</em></li>
+</ul>
+<h3>Modulates Protein</h3>
+<ul>
+<li>⊣ [[Dopamine D2 Receptor]] (protein) - <em>High Affinity Antagonist</em></li>
+<li>⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - <em>Antagonist</em></li>
+<li>⊣ [[Sigma-1 Receptor]] (protein) - <em>Antagonist</em></li>
+</ul>
+<h3>Treats Condition</h3>
+<ul>
+<li>→ [[Schizophrenia]] (condition)</li>
+<li>→ [[Agitation]] (condition)</li>
+<li>→ [[Tourette Syndrome]] (condition)</li>
+<li>→ [[Delirium]] (condition)</li>
+</ul>
+<h3>Adverse Effects</h3>
+<ul>
+<li>→ [[Extrapyramidal Symptoms]] (condition) - <em>High risk</em></li>
+<li>→ [[Tardive Dyskinesia]] (condition)</li>
+<li>→ [[QT Prolongation]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Clinical Use</strong>: Joy, C. B., et al. (2006). &quot;Haloperidol versus placebo for schizophrenia.&quot; <em>Cochrane Database of Systematic Reviews</em>.</li>
+<li><strong>Agitation</strong>: Wilson, M. P., et al. (2012). &quot;The psychopharmacology of agitation: consensus statement...&quot; <em>Western Journal of Emergency Medicine</em>.</li>
+</ol>
 
-### Modulates Neurotransmitter
-- ⊣ [[Dopamine]] (neurotransmitter) - *Potent D2 antagonism*
-
-### Modulates Protein
-- ⊣ [[Dopamine D2 Receptor]] (protein) - *High Affinity Antagonist*
-- ⊣ [[Alpha-1 Adrenergic Receptor]] (protein) - *Antagonist*
-- ⊣ [[Sigma-1 Receptor]] (protein) - *Antagonist*
-
-### Treats Condition
-- → [[Schizophrenia]] (condition)
-- → [[Agitation]] (condition)
-- → [[Tourette Syndrome]] (condition)
-- → [[Delirium]] (condition)
-
-### Adverse Effects
-- → [[Extrapyramidal Symptoms]] (condition) - *High risk*
-- → [[Tardive Dyskinesia]] (condition)
-- → [[QT Prolongation]] (condition)
-
-## References
-1. **Clinical Use**: Joy, C. B., et al. (2006). "Haloperidol versus placebo for schizophrenia." *Cochrane Database of Systematic Reviews*.
-2. **Agitation**: Wilson, M. P., et al. (2012). "The psychopharmacology of agitation: consensus statement..." *Western Journal of Emergency Medicine*.
+{% endraw %}

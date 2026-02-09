@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.475034Z'
+created: '2026-02-09T05:40:20.936500Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -7,59 +7,51 @@ permalink: /garden/dev_admin/condition/fever/
 slug: fever
 tags:
 - condition
+templateEngineOverride: njk
 title: Fever
 type: condition
-updated: '2026-02-08T19:45:44.475034Z'
+updated: '2026-02-09T05:40:20.936500Z'
 ---
 
-# Fever
-
-## Overview
-No description available.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-## Diagnostic Information
-
-## Risk Factors
-
-## Management
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Fever</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Fever]] AND #intervention
 SORT confidence_score DESC
-```
-
-## Other Relationships
-### Treats
-- ← [[DEXIBUPROFEN]] (drug)
-```yaml
-created_at: '2025-12-16T18:56:20.196353'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Treats</h3>
+<ul>
+<li>← [[DEXIBUPROFEN]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">created_at: '2025-12-16T18:56:20.196353'
 max_phase: '3.0'
 source: ChEMBL
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Fever]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Fever]] AND #clinical-trial
 SORT date DESC
-```
+</code></pre>
+<h2>References</h2>
+<p>No references available.</p>
 
-## References
-No references available.
+{% endraw %}

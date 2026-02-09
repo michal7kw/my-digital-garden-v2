@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.663066Z'
+created: '2026-02-09T05:40:22.256547Z'
 description: Fat-soluble antioxidant family consisting of tocopherols and tocotrienols.
   Protects cell membranes from oxidative damage. Full-spectrum forms preferred over
   synthetic alpha-tocopherol.
@@ -15,123 +15,129 @@ tags:
 - fat_soluble
 - cardiovascular
 - skin
+templateEngineOverride: njk
 title: Vitamin E
 type: supplement
-updated: '2026-02-08T19:45:44.663066Z'
+updated: '2026-02-09T05:40:22.256547Z'
 ---
 
-# Vitamin E
-
-## Overview
-Fat-soluble antioxidant family consisting of tocopherols and tocotrienols. Protects cell membranes from oxidative damage. Full-spectrum forms preferred over synthetic alpha-tocopherol.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Vitamin E</h1>
+<h2>Overview</h2>
+<p>Fat-soluble antioxidant family consisting of tocopherols and tocotrienols. Protects cell membranes from oxidative damage. Full-spectrum forms preferred over synthetic alpha-tocopherol.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Mediterranean_Diet]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:55.910275'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Mediterranean_Diet]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:55.910275'
 source: obsidian
-```
-- → [[Omega-3_DHA]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:55.910275'
+</code></pre>
+<ul>
+<li>→ [[Omega-3_DHA]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:55.910275'
 source: obsidian
-```
-- → [[Vitamin_C]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.607529'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.607529'
 source: obsidian
-```
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.607529'
+</code></pre>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.607529'
 source: obsidian
-```
-- → [[Liver_Stress_Pattern]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.607529'
+</code></pre>
+<ul>
+<li>→ [[Liver_Stress_Pattern]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.607529'
 source: obsidian
-```
-- ← [[Omega-3_DHA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.685849'
+</code></pre>
+<ul>
+<li>← [[Omega-3_DHA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
 source: obsidian
-```
-- ← [[Mediterranean_Diet]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.486140'
+</code></pre>
+<ul>
+<li>← [[Mediterranean_Diet]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
 source: obsidian
-```
-
-### Improved By Supplement
-- ← [[Liver_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-26T07:07:21.724538'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Liver_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.724538'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:27.461926'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.461926'
 source: obsidian
-```
-
-### Regenerates
-- ← [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:27.348115'
+</code></pre>
+<h3>Regenerates</h3>
+<ul>
+<li>← [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.348115'
 source: obsidian
-```
-- ← [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.952562'
+</code></pre>
+<ul>
+<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.952562'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Regenerates
-- ← [[Alpha_Lipoic_Acid]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:17.952562'
+<h2>Relationships</h2>
+<h3>Regenerates</h3>
+<ul>
+<li>← [[Alpha_Lipoic_Acid]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.952562'
 source: obsidian
-```
-- ← [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:27.348115'
+</code></pre>
+<ul>
+<li>← [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.348115'
 source: obsidian
-```
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Vitamin_C]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:27.461926'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Alpha_Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:21.866735'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Vitamin_C]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:21.866735'
+source: obsidian
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Liver_Stress_Pattern]] (clinicalpattern)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:04:58.744687'
+source: obsidian
+</code></pre>
 
-### Synergistic With
-- ← [[Vitamin_C]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:27.461926'
-source: obsidian
-```
-
-### Related
-- → [[Alpha_Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:21.866735'
-source: obsidian
-```
-- → [[Vitamin_C]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:21.866735'
-source: obsidian
-```
-
-### Improved By Supplement
-- ← [[Liver_Stress_Pattern]] (clinicalpattern)
-```yaml
-last_modified: '2026-01-19T09:04:58.744687'
-source: obsidian
-```
+{% endraw %}

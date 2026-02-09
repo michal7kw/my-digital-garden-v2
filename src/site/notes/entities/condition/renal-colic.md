@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.502358Z'
+created: '2026-02-09T05:40:21.073536Z'
 description: Severe pain caused by a kidney stone moving through the urinary tract,
   typically blocking the flow of urine.
 dg-home: false
@@ -13,82 +13,66 @@ tags:
 - urology
 - symptom
 - pain
+templateEngineOverride: njk
 title: Renal Colic
 type: condition
-updated: '2026-02-08T19:45:44.502358Z'
+updated: '2026-02-09T05:40:21.073536Z'
 ---
 
-# Renal Colic
-
-## Overview
-Severe pain caused by a kidney stone moving through the urinary tract, typically blocking the flow of urine.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Renal Colic</h1>
+<h2>Overview</h2>
+<p>Severe pain caused by a kidney stone moving through the urinary tract, typically blocking the flow of urine.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Renal Colic]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Renal_Colic]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:39.089157'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Renal_Colic]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:39.089157'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Renal Colic]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Renal Colic]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Renal_Colic]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:36.917440'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Renal_Colic]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.917440'
 source: obsidian
-```
-- → [[Renal_Colic]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:36.917440'
+</code></pre>
+<ul>
+<li>→ [[Renal_Colic]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.917440'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.516527Z'
+created: '2026-02-09T05:40:21.146287Z'
 description: Anticonvulsant and analgesic used for neuropathic pain, epilepsy, and
   restless leg syndrome. Binds to alpha-2-delta calcium channel subunit. Not actually
   a GABA analog despite the name.
@@ -14,42 +14,25 @@ tags:
 - neuropathic_pain
 - gabapentinoid
 - prescription
+templateEngineOverride: njk
 title: Gabapentin
 type: drug
-updated: '2026-02-08T19:45:44.516527Z'
+updated: '2026-02-09T05:40:21.146287Z'
 ---
 
-# Gabapentin
-
-## Overview
-Anticonvulsant and analgesic used for neuropathic pain, epilepsy, and restless leg syndrome. Binds to alpha-2-delta calcium channel subunit. Not actually a GABA analog despite the name.
-
-
-## Pharmacological Information
-
-
-
-
-
-## Clinical Features
-
-
-
-
-
-
-## Classification
-
-
-
-
-
-## Chemical Properties
-
+{% raw %}
+<h1>Gabapentin</h1>
+<h2>Overview</h2>
+<p>Anticonvulsant and analgesic used for neuropathic pain, epilepsy, and restless leg syndrome. Binds to alpha-2-delta calcium channel subunit. Not actually a GABA analog despite the name.</p>
+<h2>Pharmacological Information</h2>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

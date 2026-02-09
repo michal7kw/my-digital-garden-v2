@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.431470Z'
+created: '2026-02-09T05:40:20.645659Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -7,88 +7,83 @@ permalink: /garden/dev_admin/biomarker/glucose/
 slug: glucose
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Glucose
 type: biomarker
-updated: '2026-02-08T19:45:44.431470Z'
+updated: '2026-02-09T05:40:20.645659Z'
 ---
 
-# Glucose
-
-## Overview
-No description available.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Glucose</h1>
+<h2>Overview</h2>
+<p>No description available.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- ← [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:27.090852'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>← [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
 source: obsidian
-```
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:12.943509'
+</code></pre>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.943509'
 source: obsidian
-```
-- → [[Glucose]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:12.943509'
+</code></pre>
+<ul>
+<li>→ [[Glucose]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.943509'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Related
-- → [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:17.188234'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Related</h3>
+<ul>
+<li>→ [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.188234'
 source: obsidian
-```
-- → [[Glucose]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:17.188234'
+</code></pre>
+<ul>
+<li>→ [[Glucose]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.188234'
 source: obsidian
-```
-- ← [[Diabetes]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:03.553962'
+</code></pre>
+<ul>
+<li>← [[Diabetes]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Glucose]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

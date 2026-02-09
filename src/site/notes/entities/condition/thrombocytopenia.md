@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.507476Z'
+created: '2026-02-09T05:40:21.092792Z'
 description: A condition characterized by an abnormally low number of platelets (thrombocytes)
   in the blood, which can lead to excessive bleeding and bruising.
 dg-home: false
@@ -11,36 +11,36 @@ tags:
 - condition
 - hematology
 - function-health
+templateEngineOverride: njk
 title: Thrombocytopenia
 type: condition
-updated: '2026-02-08T19:45:44.507476Z'
+updated: '2026-02-09T05:40:21.092792Z'
 ---
 
-# Thrombocytopenia
+{% raw %}
+<h1>Thrombocytopenia</h1>
+<h2>Overview</h2>
+<p>Thrombocytopenia occurs when the platelet count falls below the normal range (typically 150,000 to 450,000 per microliter). Platelets are essential for blood clotting. A low count increases the risk of spontaneous bleeding, which can be internal and life-threatening if the count is very low (&lt;10,000-20,000).</p>
+<h2>Causes</h2>
+<ul>
+<li><strong>Decreased Production:</strong> Bone marrow failure, nutritional deficiencies (B12/Folate).</li>
+<li><strong>Increased Destruction:</strong> Autoimmune (ITP), drug-induced, or consumption (DIC/TTP).</li>
+<li><strong>Sequestration:</strong> Enlarged spleen (Hypersplenism).</li>
+</ul>
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Bone Marrow Disorder]]<br />
+ASSOCIATED_WITH_CONDITION::[[Liver Disease]] - Via low thrombopoietin or big spleen.<br />
+ASSOCIATED_WITH_CONDITION::[[HIV Infections]]<br />
+AFFECTS_ORGAN::[[Blood]]<br />
+AFFECTS_ORGAN::[[Spleen]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Platelet Count]] - Key marker.<br />
+TREATED_BY_DRUG::[[Prednisone]] - For immune-mediated.<br />
+TREATED_BY_INTERVENTION::[[Platelet Transfusion]]</p>
+<h2>References</h2>
+<ul>
+<li>Gauer, R. L., &amp; Braun, M. M. (2012). Thrombocytopenia. American Family Physician.</li>
+<li>Mayo Clinic. Thrombocytopenia (low platelet count).</li>
+<li>NIH. What Is Thrombocytopenia?</li>
+</ul>
 
-## Overview
-
-Thrombocytopenia occurs when the platelet count falls below the normal range (typically 150,000 to 450,000 per microliter). Platelets are essential for blood clotting. A low count increases the risk of spontaneous bleeding, which can be internal and life-threatening if the count is very low (<10,000-20,000).
-
-## Causes
-
-- **Decreased Production:** Bone marrow failure, nutritional deficiencies (B12/Folate).
-- **Increased Destruction:** Autoimmune (ITP), drug-induced, or consumption (DIC/TTP).
-- **Sequestration:** Enlarged spleen (Hypersplenism).
-
-## Relationships
-
-ASSOCIATED_WITH_CONDITION::[[Bone Marrow Disorder]]
-ASSOCIATED_WITH_CONDITION::[[Liver Disease]] - Via low thrombopoietin or big spleen.
-ASSOCIATED_WITH_CONDITION::[[HIV Infections]]
-AFFECTS_ORGAN::[[Blood]]
-AFFECTS_ORGAN::[[Spleen]]
-ASSOCIATED_WITH_BIOMARKER::[[Platelet Count]] - Key marker.
-TREATED_BY_DRUG::[[Prednisone]] - For immune-mediated.
-TREATED_BY_INTERVENTION::[[Platelet Transfusion]]
-
-## References
-
-- Gauer, R. L., & Braun, M. M. (2012). Thrombocytopenia. American Family Physician.
-- Mayo Clinic. Thrombocytopenia (low platelet count).
-- NIH. What Is Thrombocytopenia?
+{% endraw %}

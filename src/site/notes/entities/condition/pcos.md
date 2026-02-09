@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.494480Z'
+created: '2026-02-09T05:40:21.041998Z'
 description: Polycystic Ovary Syndrome, a complex hormonal and metabolic disorder
   affecting women of reproductive age.
 dg-home: false
@@ -12,165 +12,160 @@ tags:
 - endocrine
 - metabolic
 - reproductive_health
+templateEngineOverride: njk
 title: PCOS
 type: condition
-updated: '2026-02-08T19:45:44.494480Z'
+updated: '2026-02-09T05:40:21.041998Z'
 ---
 
-# PCOS
-
-## Overview
-Polycystic Ovary Syndrome, a complex hormonal and metabolic disorder affecting women of reproductive age.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>PCOS</h1>
+<h2>Overview</h2>
+<p>Polycystic Ovary Syndrome, a complex hormonal and metabolic disorder affecting women of reproductive age.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[PCOS]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Improve Condition
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.252065'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Improve Condition</h3>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.252065'
 source: obsidian
-```
-
-### Related
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:33.234080'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:33.234080'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:33.234080'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:33.234080'
 source: obsidian
-```
-- ← [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:50.148655'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:50.148655'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:33.234080'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:33.234080'
 source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:02:22.303164'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:22.303164'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:06:58.948673'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[PCOS]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[PCOS]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:35.529927'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.529927'
 source: obsidian
-```
-- ← [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:40.282261'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.282261'
 source: obsidian
-```
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:35.529927'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.529927'
 source: obsidian
-```
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:35.916356'
+</code></pre>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
 source: obsidian
-```
-- → [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-27T18:02:22.303164'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:22.303164'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:35.529927'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.529927'
 source: obsidian
-```
-
-### Increases Risk For
-- ← [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>← [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### May Improve Condition
-- ← [[Berberine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:19.252065'
+</code></pre>
+<h3>May Improve Condition</h3>
+<ul>
+<li>← [[Berberine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.252065'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.497812Z'
+created: '2026-02-09T05:40:21.056834Z'
 description: A group of conditions resulting from the dysfunction of the pituitary
   gland, the body's "master gland," typically caused by tumors or inflammation.
 dg-home: false
@@ -12,53 +12,55 @@ tags:
 - endocrinology
 - hormones
 - function-health
+templateEngineOverride: njk
 title: Pituitary Disorder
 type: condition
-updated: '2026-02-08T19:45:44.497812Z'
+updated: '2026-02-09T05:40:21.056834Z'
 ---
 
-# Pituitary Disorder
-
-## Overview
-
-The pituitary gland regulates most other endocrine glands. Dysfunction can involve overproduction (**Hyperpituitarism**) or underproduction (**Hypopituitarism**) of hormones. Most pituitary disorders are caused by a benign tumor called a **Pituitary Adenoma**.
-
-## Key Conditions
-
-- **Prolactinoma:** Excess prolactin causing reproductive issues.
-- **Acromegaly:** Excess growth hormone in adults.
-- **Cushing's Disease:** Excess ACTH leading to high cortisol.
-- **Diabetes Insipidus:** ADH deficiency leading to excessive thirst/urination.
-- **Central Hypothyroidism:** TSH deficiency.
-
+{% raw %}
+<h1>Pituitary Disorder</h1>
+<h2>Overview</h2>
+<p>The pituitary gland regulates most other endocrine glands. Dysfunction can involve overproduction (<strong>Hyperpituitarism</strong>) or underproduction (<strong>Hypopituitarism</strong>) of hormones. Most pituitary disorders are caused by a benign tumor called a <strong>Pituitary Adenoma</strong>.</p>
+<h2>Key Conditions</h2>
+<ul>
+<li><strong>Prolactinoma:</strong> Excess prolactin causing reproductive issues.</li>
+<li><strong>Acromegaly:</strong> Excess growth hormone in adults.</li>
+<li><strong>Cushing's Disease:</strong> Excess ACTH leading to high cortisol.</li>
+<li><strong>Diabetes Insipidus:</strong> ADH deficiency leading to excessive thirst/urination.</li>
+<li><strong>Central Hypothyroidism:</strong> TSH deficiency.</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Pituitary_Disorder]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:50.466795'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pituitary_Disorder]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.466795'
 source: obsidian
-```
-- → [[Pituitary_Disorder]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:54.631192'
+</code></pre>
+<ul>
+<li>→ [[Pituitary_Disorder]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.631192'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]<br />
+ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]<br />
+ASSOCIATED_WITH_CONDITION::[[Infertility]]<br />
+AFFECTS_ORGAN::[[Pituitary Gland]]<br />
+AFFECTS_ORGAN::[[Hypothalamus]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[TSH]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[ACTH]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Growth Hormone]]<br />
+TREATED_BY_INTERVENTION::[[Transsphenoidal Surgery]]</p>
+<h2>References</h2>
+<ul>
+<li>Melmed, S. (2011). The Pituitary. Academic Press.</li>
+<li>Mayo Clinic. Pituitary tumors.</li>
+<li>Hormone Health Network. Pituitary Disorders.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Hypothyroidism]]
-ASSOCIATED_WITH_CONDITION::[[Adrenal Disease]]
-ASSOCIATED_WITH_CONDITION::[[Infertility]]
-AFFECTS_ORGAN::[[Pituitary Gland]]
-AFFECTS_ORGAN::[[Hypothalamus]]
-ASSOCIATED_WITH_BIOMARKER::[[TSH]]
-ASSOCIATED_WITH_BIOMARKER::[[ACTH]]
-ASSOCIATED_WITH_BIOMARKER::[[Growth Hormone]]
-TREATED_BY_INTERVENTION::[[Transsphenoidal Surgery]]
-
-## References
-
-- Melmed, S. (2011). The Pituitary. Academic Press.
-- Mayo Clinic. Pituitary tumors.
-- Hormone Health Network. Pituitary Disorders.
+{% endraw %}

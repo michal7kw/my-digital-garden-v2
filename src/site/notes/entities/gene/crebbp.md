@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.531036Z'
+created: '2026-02-09T05:40:21.220821Z'
 description: Encodes CREB-binding protein, a histone acetyltransferase and transcriptional
   coactivator.
 dg-home: false
@@ -13,21 +13,25 @@ tags:
 - transcription
 - imported
 - primekg
+templateEngineOverride: njk
 title: CREBBP
 type: gene
-updated: '2026-02-08T19:45:44.531036Z'
+updated: '2026-02-09T05:40:21.220821Z'
 ---
 
-# CREBBP
+{% raw %}
+<h1>CREBBP</h1>
+<h2>Overview</h2>
+<p>The <strong>CREBBP</strong> gene (also known as CBP) encodes a protein that functions as a transcriptional coactivator. It binds to the phosphorylated form of the CREB transcription factor (cyclic-AMP response element-binding protein). It possesses intrinsic <strong>histone acetyltransferase (HAT)</strong> activity, relaxing chromatin structure to facilitate gene expression.</p>
+<p>Mutations in CREBBP are associated with <strong>Rubinstein-Taybi syndrome</strong> and various cancers (lymphoma).</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[CREBBP]] (protein) - <em>Encodes</em></li>
+<li>→ [[Rubinstein-Taybi Syndrome]] (condition) - <em>Associated with mutations</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Function</strong>: Bannister, A. J., &amp; Kouzarides, T. (1996). &quot;The CBP co-activator is a histone acetyltransferase.&quot; <em>Nature</em>.</li>
+</ol>
 
-## Overview
-The **CREBBP** gene (also known as CBP) encodes a protein that functions as a transcriptional coactivator. It binds to the phosphorylated form of the CREB transcription factor (cyclic-AMP response element-binding protein). It possesses intrinsic **histone acetyltransferase (HAT)** activity, relaxing chromatin structure to facilitate gene expression.
-
-Mutations in CREBBP are associated with **Rubinstein-Taybi syndrome** and various cancers (lymphoma).
-
-## Relationships
-- → [[CREBBP]] (protein) - *Encodes*
-- → [[Rubinstein-Taybi Syndrome]] (condition) - *Associated with mutations*
-
-## References
-1. **Function**: Bannister, A. J., & Kouzarides, T. (1996). "The CBP co-activator is a histone acetyltransferase." *Nature*.
+{% endraw %}

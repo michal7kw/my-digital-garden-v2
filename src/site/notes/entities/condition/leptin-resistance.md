@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.484778Z'
+created: '2026-02-09T05:40:20.994129Z'
 description: A hormonal imbalance where the brain fails to respond effectively to
   leptin, the "satiety hormone," leading to increased appetite and difficulty losing
   weight.
@@ -14,113 +14,100 @@ tags:
 - endocrinology
 - nutrition
 - function-health
+templateEngineOverride: njk
 title: Leptin Resistance
 type: condition
-updated: '2026-02-08T19:45:44.484778Z'
+updated: '2026-02-09T05:40:20.994129Z'
 ---
 
-# Leptin Resistance
-
-## Overview
-A hormonal imbalance where the brain fails to respond effectively to leptin, the "satiety hormone," leading to increased appetite and difficulty losing weight.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Leptin Resistance</h1>
+<h2>Overview</h2>
+<p>A hormonal imbalance where the brain fails to respond effectively to leptin, the &quot;satiety hormone,&quot; leading to increased appetite and difficulty losing weight.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Leptin Resistance]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[leptin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related
-- → [[Leptin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:18.754069'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Leptin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:18.754069'
 source: obsidian
-```
-- → [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:18.754069'
+</code></pre>
+<ul>
+<li>→ [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:18.754069'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Leptin Resistance]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Leptin Resistance]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Leptin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:31.799335'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Leptin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.799335'
 source: obsidian
-```
-- ← [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- → [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:31.799335'
+</code></pre>
+<ul>
+<li>→ [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.799335'
 source: obsidian
-```
-- → [[Leptin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:31.799335'
+</code></pre>
+<ul>
+<li>→ [[Leptin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.799335'
 source: obsidian
-```
-
-### May Detect
-- ← [[leptin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

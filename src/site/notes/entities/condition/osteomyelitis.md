@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.492901Z'
+created: '2026-02-09T05:40:21.036094Z'
 description: Infection of the bone, typically caused by bacteria, which can be acute
   or chronic.
 dg-home: false
@@ -12,77 +12,60 @@ tags:
 - orthopedics
 - infectious_disease
 - bone
+templateEngineOverride: njk
 title: Osteomyelitis
 type: condition
-updated: '2026-02-08T19:45:44.492901Z'
+updated: '2026-02-09T05:40:21.036094Z'
 ---
 
-# Osteomyelitis
-
-## Overview
-Infection of the bone, typically caused by bacteria, which can be acute or chronic.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Osteomyelitis</h1>
+<h2>Overview</h2>
+<p>Infection of the bone, typically caused by bacteria, which can be acute or chronic.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Osteomyelitis]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Osteomyelitis]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:30.232037'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Osteomyelitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:30.232037'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Osteomyelitis]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Osteomyelitis]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Osteomyelitis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:34.534687'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Osteomyelitis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.534687'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

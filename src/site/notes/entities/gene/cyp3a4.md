@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.531631Z'
+created: '2026-02-09T05:40:21.222510Z'
 description: Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme
   in the body.
 dg-home: false
@@ -13,22 +13,26 @@ tags:
 - liver
 - imported
 - primekg
+templateEngineOverride: njk
 title: CYP3A4
 type: gene
-updated: '2026-02-08T19:45:44.531631Z'
+updated: '2026-02-09T05:40:21.222510Z'
 ---
 
-# CYP3A4
+{% raw %}
+<h1>CYP3A4</h1>
+<h2>Overview</h2>
+<p>The <strong>CYP3A4</strong> gene encodes the cytochrome P450 3A4 enzyme, which is localized primarily in the liver and small intestine. It is responsible for the metabolism of approximately <strong>50-60% of all prescribed medications</strong>, as well as endogenous substrates like steroids and bile acids.</p>
+<p>Genetic polymorphisms in this gene can influence drug efficacy and toxicity, although they are less common/impactful than those of CYP2D6 or CYP2C19.</p>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[CYP3A4]] (protein) - <em>Encodes</em></li>
+<li>→ [[Liver]] (organ) - <em>Primary expression site</em></li>
+<li>→ [[Intestine]] (organ) - <em>Significant expression site</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Pharmacogenomics</strong>: Zanger, U. M., &amp; Schwab, M. (2013). &quot;Cytochrome P450 enzymes in drug metabolism...&quot; <em>Pharmacology &amp; Therapeutics</em>.</li>
+</ol>
 
-## Overview
-The **CYP3A4** gene encodes the cytochrome P450 3A4 enzyme, which is localized primarily in the liver and small intestine. It is responsible for the metabolism of approximately **50-60% of all prescribed medications**, as well as endogenous substrates like steroids and bile acids.
-
-Genetic polymorphisms in this gene can influence drug efficacy and toxicity, although they are less common/impactful than those of CYP2D6 or CYP2C19.
-
-## Relationships
-- → [[CYP3A4]] (protein) - *Encodes*
-- → [[Liver]] (organ) - *Primary expression site*
-- → [[Intestine]] (organ) - *Significant expression site*
-
-## References
-1. **Pharmacogenomics**: Zanger, U. M., & Schwab, M. (2013). "Cytochrome P450 enzymes in drug metabolism..." *Pharmacology & Therapeutics*.
+{% endraw %}

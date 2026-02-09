@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.532023Z'
+created: '2026-02-09T05:40:21.223578Z'
 description: Encodes Early Growth Response 1, a zinc finger transcription factor activated
   by growth factors, stress, and neuronal activity.
 dg-home: false
@@ -14,22 +14,28 @@ tags:
 - immediate_early_gene
 - imported
 - primekg
+templateEngineOverride: njk
 title: EGR1
 type: gene
-updated: '2026-02-08T19:45:44.532023Z'
+updated: '2026-02-09T05:40:21.223578Z'
 ---
 
-# EGR1
+{% raw %}
+<h1>EGR1</h1>
+<h2>Overview</h2>
+<p>The <strong>EGR1</strong> gene (also known as Zif268 or NGFI-A) is an <strong>Immediate Early Gene (IEG)</strong>. This means its transcription is rapidly and transiently activated in response to a wide range of stimuli (growth factors, stress, neurotransmitters) without the need for new protein synthesis.</p>
+<p>It is critical for:</p>
+<ol>
+<li><strong>Neuronal Plasticity</strong>: Essential for Long-Term Potentiation (LTP) and memory consolidation.</li>
+<li><strong>Cell Growth</strong>: Regulates proliferation and differentiation.</li>
+</ol>
+<h2>Relationships</h2>
+<ul>
+<li>→ [[EGR1]] (protein) - <em>Encodes</em></li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>Neuroscience</strong>: Knapska, E., &amp; Kaczmarek, L. (2004). &quot;A marker for neuronal activation.&quot; <em>Behavioural Brain Research</em>.</li>
+</ol>
 
-## Overview
-The **EGR1** gene (also known as Zif268 or NGFI-A) is an **Immediate Early Gene (IEG)**. This means its transcription is rapidly and transiently activated in response to a wide range of stimuli (growth factors, stress, neurotransmitters) without the need for new protein synthesis.
-
-It is critical for:
-1.  **Neuronal Plasticity**: Essential for Long-Term Potentiation (LTP) and memory consolidation.
-2.  **Cell Growth**: Regulates proliferation and differentiation.
-
-## Relationships
-- → [[EGR1]] (protein) - *Encodes*
-
-## References
-1. **Neuroscience**: Knapska, E., & Kaczmarek, L. (2004). "A marker for neuronal activation." *Behavioural Brain Research*.
+{% endraw %}

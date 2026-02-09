@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.554278Z'
+created: '2026-02-09T05:40:21.336895Z'
 description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and
   serves as a building block for other hormones, including estrogen and testosterone.
   Measuring DHEA-S can provide insight into reproductive function, adrenal gland health,
@@ -14,148 +14,178 @@ permalink: /garden/dev_admin/labtest/dhea-sulfate/
 slug: dhea-sulfate
 tags:
 - labtest
+templateEngineOverride: njk
 title: dhea_sulfate
 type: labtest
-updated: '2026-02-08T19:45:44.554278Z'
+updated: '2026-02-09T05:40:21.336895Z'
 ---
 
-# DHEA-Sulfate
-
-## Overview
-DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and serves as a building block for other hormones, including estrogen and testosterone. Measuring DHEA-S can provide insight into reproductive function, adrenal gland health, and overall hormone balance. Levels that are too high or too low may prompt further testing, as DHEA-S has also been linked with aspects of immune health, longevity, and healthy aging. Possible symptoms IRREGULAR MENSTRUAL CYCLES HAIR THINNING OR HAIR LOSS MOOD CHANGES
-
-**Evidence Level:** ⭐⭐⭐ (3/5)
-
-## Test Information
-
-| Property | Value |
-|----------|-------|
-| **Category** | Hormones |
-| **Subcategory** | Sex Hormones || **Test Type** | Standard |
-| **Sample Type** | Blood |
-| **Collection Method** | Venipuncture |
-| **Turnaround Time** | 3-7 days || **Price Range** | $null-$null || **HSA Eligible** | ✅ Yes || **FSA Eligible** | ✅ Yes |
-
-
-
-
-## Recommended For
-
-### Supplement Monitoring
-No specific supplement monitoring recommendations.
-
-### Conditions
-Useful for monitoring or diagnosing:
-
-- [[Adrenal Dysfunction]]
-- [[Polycystic Ovary Syndrome (Pcos)]]
-- [[Hormonal Imbalance (Androgen Excess Or Deficiency)]]
-- [[Aging-Related Decline]]
-- [[Metabolic Syndrome]]
-
-## Reference Ranges
-
-Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.
-
+{% raw %}
+<h1>DHEA-Sulfate</h1>
+<h2>Overview</h2>
+<p>DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and serves as a building block for other hormones, including estrogen and testosterone. Measuring DHEA-S can provide insight into reproductive function, adrenal gland health, and overall hormone balance. Levels that are too high or too low may prompt further testing, as DHEA-S has also been linked with aspects of immune health, longevity, and healthy aging. Possible symptoms IRREGULAR MENSTRUAL CYCLES HAIR THINNING OR HAIR LOSS MOOD CHANGES</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Hormones</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Sex Hormones</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>3-7 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>Useful for monitoring or diagnosing:</p>
+<ul>
+<li>[[Adrenal Dysfunction]]</li>
+<li>[[Polycystic Ovary Syndrome (Pcos)]]</li>
+<li>[[Hormonal Imbalance (Androgen Excess Or Deficiency)]]</li>
+<li>[[Aging-Related Decline]]</li>
+<li>[[Metabolic Syndrome]]</li>
+</ul>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Polycystic_Ovary_Syndrome_Pcos]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- → [[Hormonal_Imbalance_Androgen_Excess_Or_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+</code></pre>
+<ul>
+<li>→ [[Hormonal_Imbalance_Androgen_Excess_Or_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- → [[Aging-Related_Decline]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+</code></pre>
+<ul>
+<li>→ [[Aging-Related_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- → [[Adrenal_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- → [[Polycystic_Ovary_Syndrome_Pcos]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.422749'
+</code></pre>
+<ul>
+<li>→ [[Polycystic_Ovary_Syndrome_Pcos]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
 source: obsidian
-```
-- → [[Adrenal_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.422749'
+</code></pre>
+<ul>
+<li>→ [[Adrenal_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
 source: obsidian
-```
-- → [[Hormonal_Imbalance_Androgen_Excess_Or_Deficiency]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.422749'
+</code></pre>
+<ul>
+<li>→ [[Hormonal_Imbalance_Androgen_Excess_Or_Deficiency]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
 source: obsidian
-```
-- → [[Aging-Related_Decline]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:52.422749'
+</code></pre>
+<ul>
+<li>→ [[Aging-Related_Decline]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:52.422749'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
 source: obsidian
-```
-- ← [[pregnancy_hcg]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:05.634365'
+</code></pre>
+<ul>
+<li>← [[pregnancy_hcg]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
 source: obsidian
-```
-- ← [[extended_hormone_health]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T07:08:03.266447'
+</code></pre>
+<ul>
+<li>← [[extended_hormone_health]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
 source: obsidian
-```
-- → [[extended_hormone_health]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+</code></pre>
+<ul>
+<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- → [[pregnancy_hcg]] (labtestpanel)
-```yaml
-last_modified: '2026-01-26T06:48:12.089825'
+</code></pre>
+<ul>
+<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
 source: obsidian
-```
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:32.678592'
+</code></pre>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
 source: obsidian
-```
-
-### May Detect
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Included In
-- → [[pregnancy_hcg]] (labtestpanel)
-- → [[extended_hormone_health]] (labtestpanel)
+</code></pre>
+<h3>Included In</h3>
+<ul>
+<li>→ [[pregnancy_hcg]] (labtestpanel)</li>
+<li>→ [[extended_hormone_health]] (labtestpanel)</li>
+</ul>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-01-19T09:32:20.469446</em></p>
 
-## Notes
-
-- Results should be interpreted by a qualified healthcare provider
-- Reference ranges may vary by laboratory
-- Individual factors (age, sex, health status) affect interpretation
-
----
-*Last Updated: 2026-01-19T09:32:20.469446*
+{% endraw %}

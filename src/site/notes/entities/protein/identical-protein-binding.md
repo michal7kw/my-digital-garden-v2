@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.644187Z'
+created: '2026-02-09T05:40:22.149982Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,104 +10,117 @@ tags:
 - protein
 - imported
 - primekg
+templateEngineOverride: njk
 title: identical protein binding
 type: protein
-updated: '2026-02-08T19:45:44.644187Z'
+updated: '2026-02-09T05:40:22.149982Z'
 ---
 
-# identical protein binding
-
-## Function Summary
-No function summary available.
-
-## Detailed Description
-... 
-## Gene Information
-- **Gene ID:** N/A
-- **Ensembl ID:** N/A
-- **Chromosome:** N/A
-- **Location:** N/A
-
-## Protein Details
-- **UniProt ID:** N/A
-- **Organism:** N/A
-- **Cellular Location:** N/A
-- **Molecular Weight:** N/A
-- **Tissue Expression:** N/A
-
-## Sequence & Structure
-
-
+{% raw %}
+<h1>identical protein binding</h1>
+<h2>Function Summary</h2>
+<p>No function summary available.</p>
+<h2>Detailed Description</h2>
+<p>...</p>
+<h2>Gene Information</h2>
+<ul>
+<li><strong>Gene ID:</strong> N/A</li>
+<li><strong>Ensembl ID:</strong> N/A</li>
+<li><strong>Chromosome:</strong> N/A</li>
+<li><strong>Location:</strong> N/A</li>
+</ul>
+<h2>Protein Details</h2>
+<ul>
+<li><strong>UniProt ID:</strong> N/A</li>
+<li><strong>Organism:</strong> N/A</li>
+<li><strong>Cellular Location:</strong> N/A</li>
+<li><strong>Molecular Weight:</strong> N/A</li>
+<li><strong>Tissue Expression:</strong> N/A</li>
+</ul>
+<h2>Sequence &amp; Structure</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[protein_homodimerization_activity]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:31.270540'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[protein_homodimerization_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.270540'
 source: obsidian
-```
-- → [[protein_binding]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:31.270540'
+</code></pre>
+<ul>
+<li>→ [[protein_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.270540'
 source: obsidian
-```
-
-### Relatedtofunction
-- ← [[protein_binding]] (protein)
-```yaml
-imported: '2025-12-26T09:40:13.358000+00:00'
+</code></pre>
+<h3>Relatedtofunction</h3>
+<ul>
+<li>← [[protein_binding]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.358000+00:00'
 source: PrimeKG
-```
-- ← [[protein_homodimerization_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.366000+00:00'
+</code></pre>
+<ul>
+<li>← [[protein_homodimerization_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.366000+00:00'
 source: PrimeKG
-```
-- → [[protein_homodimerization_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.371000+00:00'
+</code></pre>
+<ul>
+<li>→ [[protein_homodimerization_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.371000+00:00'
 source: PrimeKG
-```
-- → [[protein_binding]] (protein)
-```yaml
-imported: '2025-12-26T09:40:13.376000+00:00'
+</code></pre>
+<ul>
+<li>→ [[protein_binding]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.376000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Relatedtofunction
-- ← [[protein_binding]] (protein)
-```yaml
-imported: '2025-12-26T09:40:13.358000+00:00'
+<h2>Relationships</h2>
+<h3>Relatedtofunction</h3>
+<ul>
+<li>← [[protein_binding]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.358000+00:00'
 source: PrimeKG
-```
-- ← [[protein_homodimerization_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.366000+00:00'
+</code></pre>
+<ul>
+<li>← [[protein_homodimerization_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.366000+00:00'
 source: PrimeKG
-```
-- → [[protein_homodimerization_activity]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.371000+00:00'
+</code></pre>
+<ul>
+<li>→ [[protein_homodimerization_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.371000+00:00'
 source: PrimeKG
-```
-- → [[protein_binding]] (protein)
-```yaml
-imported: '2025-12-26T09:40:13.376000+00:00'
+</code></pre>
+<ul>
+<li>→ [[protein_binding]] (protein)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.376000+00:00'
 source: PrimeKG
-```
-
-### Related
-- → [[protein_binding]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:48.243848'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[protein_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.243848'
 source: obsidian
-```
-- → [[protein_homodimerization_activity]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:48.243848'
+</code></pre>
+<ul>
+<li>→ [[protein_homodimerization_activity]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:48.243848'
 source: obsidian
-```
+</code></pre>
+<h2>Source Data</h2>
+<ul>
+<li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-19T09:06:48.173260+00:00</li>
+</ul>
 
-## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-19T09:06:48.173260+00:00
+{% endraw %}

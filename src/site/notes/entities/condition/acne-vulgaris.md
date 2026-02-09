@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.456820Z'
+created: '2026-02-09T05:40:20.844733Z'
 description: A common chronic inflammatory skin condition of the pilosebaceous unit,
   characterized by comedones, papules, pustules, and nodules.
 dg-home: false
@@ -12,51 +12,53 @@ tags:
 - dermatology
 - inflammation
 - hormonal
+templateEngineOverride: njk
 title: Acne Vulgaris
 type: condition
-updated: '2026-02-08T19:45:44.456820Z'
+updated: '2026-02-09T05:40:20.844733Z'
 ---
 
-# Acne Vulgaris
-
-## Overview
-
-Acne Vulgaris is the most common skin disease worldwide, primarily affecting adolescents but often persisting into adulthood. It occurs when hair follicles become clogged with oil (sebum) and dead skin cells, often leading to the growth of bacteria (*Cutibacterium acnes*) and subsequent inflammation.
-
-## Pathogenesis
-
-Four key factors are involved in the development of acne:
-1. **Follicular hyperkeratinization:** Clogging of the pore.
-2. **Increased sebum production:** Often driven by androgens.
-3. **Bacterial colonization:** Overgrowth of *C. acnes*.
-4. **Inflammation:** Immune response to bacteria and follicle rupture.
-
+{% raw %}
+<h1>Acne Vulgaris</h1>
+<h2>Overview</h2>
+<p>Acne Vulgaris is the most common skin disease worldwide, primarily affecting adolescents but often persisting into adulthood. It occurs when hair follicles become clogged with oil (sebum) and dead skin cells, often leading to the growth of bacteria (<em>Cutibacterium acnes</em>) and subsequent inflammation.</p>
+<h2>Pathogenesis</h2>
+<p>Four key factors are involved in the development of acne:</p>
+<ol>
+<li><strong>Follicular hyperkeratinization:</strong> Clogging of the pore.</li>
+<li><strong>Increased sebum production:</strong> Often driven by androgens.</li>
+<li><strong>Bacterial colonization:</strong> Overgrowth of <em>C. acnes</em>.</li>
+<li><strong>Inflammation:</strong> Immune response to bacteria and follicle rupture.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Acne_Vulgaris]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:29.260022'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Acne_Vulgaris]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.260022'
 source: obsidian
-```
-- → [[Acne_Vulgaris]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:21.034112'
+</code></pre>
+<ul>
+<li>→ [[Acne_Vulgaris]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.034112'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Polycystic Ovary Syndrome]] - Due to hyperandrogenism.<br />
+IMPROVED_BY_INTERVENTION::[[Low Glycemic Diet]]<br />
+AFFECTS_ORGAN::[[Skin]]<br />
+REDUCED_BY_DRUG::[[Isotretinoin]]<br />
+REDUCED_BY_DRUG::[[Benzoyl Peroxide]]<br />
+ASSOCIATED_WITH_BIOMARKER::[[Testosterone]]<br />
+RELATED_TO::[[Cortisol]] - Stress-induced exacerbation.</p>
+<h2>References</h2>
+<ul>
+<li>Zaenglein, A. L., et al. (2016). Guidelines of care for the management of acne vulgaris. Journal of the American Academy of Dermatology.</li>
+<li>Gollnick, H. P. (2015). From basic science to a systemic medical treatment of acne. Dermatology.</li>
+<li>American Academy of Dermatology Association. Acne: Signs and symptoms.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Polycystic Ovary Syndrome]] - Due to hyperandrogenism.
-IMPROVED_BY_INTERVENTION::[[Low Glycemic Diet]]
-AFFECTS_ORGAN::[[Skin]]
-REDUCED_BY_DRUG::[[Isotretinoin]]
-REDUCED_BY_DRUG::[[Benzoyl Peroxide]]
-ASSOCIATED_WITH_BIOMARKER::[[Testosterone]]
-RELATED_TO::[[Cortisol]] - Stress-induced exacerbation.
-
-## References
-
-- Zaenglein, A. L., et al. (2016). Guidelines of care for the management of acne vulgaris. Journal of the American Academy of Dermatology.
-- Gollnick, H. P. (2015). From basic science to a systemic medical treatment of acne. Dermatology.
-- American Academy of Dermatology Association. Acne: Signs and symptoms.
+{% endraw %}

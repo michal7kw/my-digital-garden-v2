@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.597840Z'
+created: '2026-02-09T05:40:21.553872Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
@@ -15,180 +15,195 @@ tags:
 - stress
 - alertness
 - focus
+templateEngineOverride: njk
 title: Norepinephrine
 type: neurotransmitter
-updated: '2026-02-08T19:45:44.597840Z'
+updated: '2026-02-09T05:40:21.553872Z'
 ---
 
-# Norepinephrine
-
-## Overview
-Catecholamine neurotransmitter and hormone that mediates the fight-or-flight response, promotes alertness and arousal, enhances attention and focus, and regulates blood pressure. Also known as noradrenaline.
-
-
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Norepinephrine</h1>
+<h2>Overview</h2>
+<p>Catecholamine neurotransmitter and hormone that mediates the fight-or-flight response, promotes alertness and arousal, enhances attention and focus, and regulates blood pressure. Also known as noradrenaline.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Amitriptyline]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Amitriptyline]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- → [[Imipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>→ [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- → [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>→ [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- → [[Doxepin]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>→ [[Doxepin]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- → [[Clomipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T06:48:35.279530'
+</code></pre>
+<ul>
+<li>→ [[Clomipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
 source: obsidian
-```
-- → [[Rhodiola_Rosea]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:07.117461'
+</code></pre>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.117461'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:07.117461'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.117461'
 source: obsidian
-```
-- ← [[Quetiapine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:43.555748'
+</code></pre>
+<ul>
+<li>← [[Quetiapine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.555748'
 source: obsidian
-```
-- ← [[Imipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:42.019672'
+</code></pre>
+<ul>
+<li>← [[Imipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
 source: obsidian
-```
-- ← [[Doxepin]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:41.513007'
+</code></pre>
+<ul>
+<li>← [[Doxepin]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.513007'
 source: obsidian
-```
-- ← [[Clomipramine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:40.791132'
+</code></pre>
+<ul>
+<li>← [[Clomipramine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
 source: obsidian
-```
-- ← [[Amitriptyline]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:39.673750'
+</code></pre>
+<ul>
+<li>← [[Amitriptyline]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.673750'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:41.831836'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.831836'
 source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:40.898292'
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:40.898292'
 source: obsidian
-```
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:38.057218'
+</code></pre>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.057218'
 source: obsidian
-```
-- → [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:07.117461'
+</code></pre>
+<ul>
+<li>→ [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:07.117461'
 source: obsidian
-```
-
-### Required For Synthesis
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.931928'
+</code></pre>
+<h3>Required For Synthesis</h3>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.931928'
 source: obsidian
-```
-
-### Affects Neurotransmitter
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.621430'
+</code></pre>
+<h3>Affects Neurotransmitter</h3>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
 source: obsidian
-```
-
-### Precursor Of
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:21.556035'
+</code></pre>
+<h3>Precursor Of</h3>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.556035'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Precursor Of
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:21.556035'
+<h2>Relationships</h2>
+<h3>Precursor Of</h3>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:21.556035'
 source: obsidian
-```
+</code></pre>
+<h3>Affects Neurotransmitter</h3>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:25.621430'
+source: obsidian
+</code></pre>
+<h3>Required For Synthesis</h3>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.931928'
+source: obsidian
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Rhodiola_Rosea]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.490628'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.490628'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:58.490628'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[L-Tyrosine]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:06.449515'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Rhodiola_Rosea]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.038863'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:18.846152'
+source: obsidian
+</code></pre>
 
-### Affects Neurotransmitter
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:25.621430'
-source: obsidian
-```
-
-### Required For Synthesis
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.931928'
-source: obsidian
-```
-
-### Related
-- → [[Rhodiola_Rosea]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:58.490628'
-source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-19T09:32:58.490628'
-source: obsidian
-```
-- → [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:32:58.490628'
-source: obsidian
-```
-- ← [[L-Tyrosine]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:06.449515'
-source: obsidian
-```
-- ← [[Rhodiola_Rosea]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:16.038863'
-source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:18.846152'
-source: obsidian
-```
+{% endraw %}

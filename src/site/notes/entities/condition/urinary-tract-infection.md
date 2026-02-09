@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.509005Z'
+created: '2026-02-09T05:40:21.100896Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
@@ -12,46 +12,48 @@ tags:
 - urology
 - infection
 - bacterial
+templateEngineOverride: njk
 title: Urinary Tract Infection
 type: condition
-updated: '2026-02-08T19:45:44.509005Z'
+updated: '2026-02-09T05:40:21.100896Z'
 ---
 
-# Urinary Tract Infection
-
-## Overview
-
-Urinary Tract Infection (UTI) is most commonly caused by bacteria (*Escherichia coli*) entering the urinary tract through the urethra. Most infections involve the lower urinary tract — the bladder (**Cystitis**) and the urethra (**Urethritis**). However, serious complications can occur if the infection spreads to the kidneys (**Pyelonephritis**).
-
+{% raw %}
+<h1>Urinary Tract Infection</h1>
+<h2>Overview</h2>
+<p>Urinary Tract Infection (UTI) is most commonly caused by bacteria (<em>Escherichia coli</em>) entering the urinary tract through the urethra. Most infections involve the lower urinary tract — the bladder (<strong>Cystitis</strong>) and the urethra (<strong>Urethritis</strong>). However, serious complications can occur if the infection spreads to the kidneys (<strong>Pyelonephritis</strong>).</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Urinary_Tract_Infection]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:53.962054'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Urinary_Tract_Infection]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.962054'
 source: obsidian
-```
-- → [[Urinary_Tract_Infection]] (condition)
-```yaml
-last_modified: '2026-01-26T06:04:00.836580'
+</code></pre>
+<ul>
+<li>→ [[Urinary_Tract_Infection]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:04:00.836580'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Escherichia coli]]<br />
+ASSOCIATED_WITH_CONDITION::[[Kidney Calculi]]<br />
+ASSOCIATED_WITH_CONDITION::[[Sepsis]] - Urosepsis.<br />
+AFFECTS_ORGAN::[[Bladder]]<br />
+AFFECTS_ORGAN::[[Kidney]]<br />
+AFFECTS_ORGAN::[[Urethra]]<br />
+TREATED_BY_DRUG::[[Nitrofurantoin]]<br />
+TREATED_BY_DRUG::[[Trimethoprim-Sulfamethoxazole]]<br />
+TREATED_BY_DRUG::[[Ciprofloxacin]]<br />
+IMPROVED_BY_INTERVENTION::[[Hydration]]</p>
+<h2>References</h2>
+<ul>
+<li>Gupta, K., et al. (2011). International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women.</li>
+<li>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Urinary Tract Infection.</li>
+<li>Flores-Mireles, A. L., et al. (2015). Urinary tract infections: epidemiology, mechanisms of infection and treatment options. Nature Reviews Microbiology.</li>
+</ul>
 
-CAUSED_BY::[[Escherichia coli]]
-ASSOCIATED_WITH_CONDITION::[[Kidney Calculi]]
-ASSOCIATED_WITH_CONDITION::[[Sepsis]] - Urosepsis.
-AFFECTS_ORGAN::[[Bladder]]
-AFFECTS_ORGAN::[[Kidney]]
-AFFECTS_ORGAN::[[Urethra]]
-TREATED_BY_DRUG::[[Nitrofurantoin]]
-TREATED_BY_DRUG::[[Trimethoprim-Sulfamethoxazole]]
-TREATED_BY_DRUG::[[Ciprofloxacin]]
-IMPROVED_BY_INTERVENTION::[[Hydration]]
-
-## References
-
-- Gupta, K., et al. (2011). International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women.
-- National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Urinary Tract Infection.
-- Flores-Mireles, A. L., et al. (2015). Urinary tract infections: epidemiology, mechanisms of infection and treatment options. Nature Reviews Microbiology.
+{% endraw %}

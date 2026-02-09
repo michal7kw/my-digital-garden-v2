@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.464859Z'
+created: '2026-02-09T05:40:20.881044Z'
 description: A fungal infection caused by an overgrowth of Candida species, primarily
   Candida albicans, affecting the skin, mucous membranes, or internal organs.
 dg-home: false
@@ -14,77 +14,60 @@ tags:
 - dermatology
 - gynecology
 - function-health
+templateEngineOverride: njk
 title: Candidiasis
 type: condition
-updated: '2026-02-08T19:45:44.464859Z'
+updated: '2026-02-09T05:40:20.881044Z'
 ---
 
-# Candidiasis
-
-## Overview
-A fungal infection caused by an overgrowth of Candida species, primarily Candida albicans, affecting the skin, mucous membranes, or internal organs.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Candidiasis</h1>
+<h2>Overview</h2>
+<p>A fungal infection caused by an overgrowth of Candida species, primarily Candida albicans, affecting the skin, mucous membranes, or internal organs.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Candidiasis]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### Related
-- → [[Candidiasis]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:52.137631'
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Candidiasis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:52.137631'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Candidiasis]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Candidiasis]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Candidiasis]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:24.588715'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Candidiasis]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.588715'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

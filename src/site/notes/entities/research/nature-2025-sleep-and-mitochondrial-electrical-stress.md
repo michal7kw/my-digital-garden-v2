@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.647046Z'
+created: '2026-02-09T05:40:22.170021Z'
 description: A breakthrough study identifying mitochondrial electrical stress as a
   direct trigger for sleep pressure in fruit flies.
 dg-home: false
@@ -13,36 +13,34 @@ tags:
 - sleep
 - neuroscience
 - oxidative_stress
+templateEngineOverride: njk
 title: 'Nature 2025: Sleep and Mitochondrial Electrical Stress'
 type: research
-updated: '2026-02-08T19:45:44.647046Z'
+updated: '2026-02-09T05:40:22.170021Z'
 ---
 
-# Nature 2025: Sleep and Mitochondrial Electrical Stress
+{% raw %}
+<h1>Nature 2025: Sleep and Mitochondrial Electrical Stress</h1>
+<h2>Overview</h2>
+<p>This landmark study by University of Oxford researchers provides a mechanistic link between cellular energy metabolism and the biological need for sleep. Using fruit fly models, the team discovered that &quot;sleep pressure&quot; is driven by the accumulation of <strong>electrical stress</strong> (electron leak) in the mitochondria of specific sleep-regulating neurons.</p>
+<p><strong>Paper:</strong> <em>Mitochondrial origins of the pressure to sleep</em></p>
+<h2>Key Findings</h2>
+<ol>
+<li><strong>The Sleep Signal:</strong> Prolonged wakefulness leads to &quot;overcharged&quot; mitochondria in sleep-control neurons.</li>
+<li><strong>ROS as Messenger:</strong> This electrical stress causes electron leakage, generating <strong>Reactive Oxygen Species (ROS)</strong>. These ROS act not just as damage agents, but as specific signaling molecules that trigger sleep onset.</li>
+<li><strong>Restoration:</strong> Sleep allows these neurons to reset their mitochondrial membrane potential and clear the accumulated oxidative stress.</li>
+<li><strong>Causal Link:</strong> Manipulating electron flow in these neurons directly controlled sleep duration in the flies.</li>
+</ol>
+<h2>Implications</h2>
+<ul>
+<li><strong>Why We Sleep:</strong> Suggests a primary function of sleep is metabolic restoration at the mitochondrial level.</li>
+<li><strong>Therapeutic Targets:</strong> Antioxidants or mitochondrial uncouplers might influence sleep disorders.</li>
+<li><strong>Aging:</strong> Age-related mitochondrial dysfunction could explain sleep fragmentation in the elderly.</li>
+</ul>
+<h2>Relationships</h2>
+<h2>STUDIED_TOPIC::[[Mitochondria]]<br />
+STUDIED_TOPIC::[[Sleep Optimization]]<br />
+STUDIED_TOPIC::[[Reactive Oxygen Species]]<br />
+SUPPORTS_HYPOTHESIS::[[Mitochondrial Theory of Aging]]</h2>
 
-## Overview
-
-This landmark study by University of Oxford researchers provides a mechanistic link between cellular energy metabolism and the biological need for sleep. Using fruit fly models, the team discovered that "sleep pressure" is driven by the accumulation of **electrical stress** (electron leak) in the mitochondria of specific sleep-regulating neurons.
-
-**Paper:** *Mitochondrial origins of the pressure to sleep*
-
-## Key Findings
-
-1.  **The Sleep Signal:** Prolonged wakefulness leads to "overcharged" mitochondria in sleep-control neurons.
-2.  **ROS as Messenger:** This electrical stress causes electron leakage, generating **Reactive Oxygen Species (ROS)**. These ROS act not just as damage agents, but as specific signaling molecules that trigger sleep onset.
-3.  **Restoration:** Sleep allows these neurons to reset their mitochondrial membrane potential and clear the accumulated oxidative stress.
-4.  **Causal Link:** Manipulating electron flow in these neurons directly controlled sleep duration in the flies.
-
-## Implications
-
-- **Why We Sleep:** Suggests a primary function of sleep is metabolic restoration at the mitochondrial level.
-- **Therapeutic Targets:** Antioxidants or mitochondrial uncouplers might influence sleep disorders.
-- **Aging:** Age-related mitochondrial dysfunction could explain sleep fragmentation in the elderly.
-
-## Relationships
-
-STUDIED_TOPIC::[[Mitochondria]]
-STUDIED_TOPIC::[[Sleep Optimization]]
-STUDIED_TOPIC::[[Reactive Oxygen Species]]
-SUPPORTS_HYPOTHESIS::[[Mitochondrial Theory of Aging]]
----
+{% endraw %}

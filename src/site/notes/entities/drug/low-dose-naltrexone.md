@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.519099Z'
+created: '2026-02-09T05:40:21.157010Z'
 description: Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and
   anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain,
   and cancer support. Distinct from standard naltrexone dosing.
@@ -16,41 +16,35 @@ tags:
 - chronic_pain
 - off_label
 - prescription
+templateEngineOverride: njk
 title: Low Dose Naltrexone
 type: drug
-updated: '2026-02-08T19:45:44.519099Z'
+updated: '2026-02-09T05:40:21.157010Z'
 ---
 
-# Low Dose Naltrexone
-
-## Overview
-Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain, and cancer support. Distinct from standard naltrexone dosing.
-
-**Short Description**: Low-dose opioid antagonist for immune modulation
-
-## Pharmacological Information
-
-**DrugBank ID**: DB00704
-
-**Drug Class**: Opioid Antagonist (low-dose immunomodulator)
-
-**Synonyms**:
-- LDN
-
-### Mechanism of Action
-Transient opioid blockade → endorphin upregulation; TLR4 modulation → anti-inflammatory
-
-## Clinical Features
-
-## Classification
-
-## Chemical Properties
-No content available.
-
+{% raw %}
+<h1>Low Dose Naltrexone</h1>
+<h2>Overview</h2>
+<p>Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain, and cancer support. Distinct from standard naltrexone dosing.</p>
+<p><strong>Short Description</strong>: Low-dose opioid antagonist for immune modulation</p>
+<h2>Pharmacological Information</h2>
+<p><strong>DrugBank ID</strong>: DB00704</p>
+<p><strong>Drug Class</strong>: Opioid Antagonist (low-dose immunomodulator)</p>
+<p><strong>Synonyms</strong>:</p>
+<ul>
+<li>LDN</li>
+</ul>
+<h3>Mechanism of Action</h3>
+<p>Transient opioid blockade → endorphin upregulation; TLR4 modulation → anti-inflammatory</p>
+<h2>Clinical Features</h2>
+<h2>Classification</h2>
+<h2>Chemical Properties</h2>
+<p>No content available.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
-No relationships found.
+{% endraw %}

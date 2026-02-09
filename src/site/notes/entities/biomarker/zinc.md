@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.449844Z'
+created: '2026-02-09T05:40:20.772438Z'
 description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
   for immune function, wound healing, testosterone production, and thyroid function.
 dg-home: false
@@ -9,462 +9,515 @@ permalink: /garden/dev_admin/biomarker/zinc/
 slug: zinc
 tags:
 - biomarker
+templateEngineOverride: njk
 title: Zinc
 type: biomarker
-updated: '2026-02-08T19:45:44.449844Z'
+updated: '2026-02-09T05:40:20.772438Z'
 ---
 
-# Zinc
-
-## Overview
-Essential trace mineral involved in over 300 enzymatic reactions. Critical for immune function, wound healing, testosterone production, and thyroid function.
-
-## Reference Ranges
-Reference ranges not available.
-
-
-## Testing Information
-- **Measurement Unit**: Not specified
-- **Sample Type**: Not specified
-- **Fasting Required**: False
-- **Recommended Test Frequency**: Not specified
-
-
-
+{% raw %}
+<h1>Zinc</h1>
+<h2>Overview</h2>
+<p>Essential trace mineral involved in over 300 enzymatic reactions. Critical for immune function, wound healing, testosterone production, and thyroid function.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges not available.</p>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: Not specified</li>
+<li><strong>Sample Type</strong>: Not specified</li>
+<li><strong>Fasting Required</strong>: False</li>
+<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[thyroid_dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:19.161962'
+</code></pre>
+<ul>
+<li>→ [[thyroid_dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.161962'
 source: obsidian
-```
-- → [[Immune_System]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Thyroid_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:19.161962'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.161962'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Thyroid_Dysfunction]] (condition)
-```yaml
-last_modified: '2026-01-25T20:32:36.355190'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Dysfunction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-25T20:32:36.355190'
 source: obsidian
-```
-- ← [[Thyroid_Dysfunction]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:38.158795'
+</code></pre>
+<ul>
+<li>← [[Thyroid_Dysfunction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.158795'
 source: obsidian
-```
-- → [[Zinc]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Iron]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Iron]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Copper]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Copper]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:42.803952'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.803952'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:41.831836'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.831836'
 source: obsidian
-```
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:41.100039'
+</code></pre>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:41.100039'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:38.494293'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.494293'
 source: obsidian
-```
-- ← [[Iron]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:37.659844'
+</code></pre>
+<ul>
+<li>← [[Iron]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.659844'
 source: obsidian
-```
-- ← [[GABA]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:37.177034'
+</code></pre>
+<ul>
+<li>← [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.177034'
 source: obsidian
-```
-- ← [[Copper]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:36.394442'
+</code></pre>
+<ul>
+<li>← [[Copper]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.394442'
 source: obsidian
-```
-- ← [[Thyroid]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:10.744954'
+</code></pre>
+<ul>
+<li>← [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.744954'
 source: obsidian
-```
-- ← [[Skin]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:10.493356'
+</code></pre>
+<ul>
+<li>← [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.493356'
 source: obsidian
-```
-- ← [[Immune_System]] (organ)
-```yaml
-last_modified: '2026-01-26T07:08:09.147697'
+</code></pre>
+<ul>
+<li>← [[Immune_System]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:09.147697'
 source: obsidian
-```
-- ← [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2026-01-26T07:07:47.588992'
+</code></pre>
+<ul>
+<li>← [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.588992'
 source: obsidian
-```
-- ← [[Testosterone]] (hormone)
-```yaml
-last_modified: '2026-01-26T07:07:47.464009'
+</code></pre>
+<ul>
+<li>← [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.464009'
 source: obsidian
-```
-
-### Improved By Supplement
-- ← [[Thyroid_Dysfunction]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:22.098625'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[Thyroid_Dysfunction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
 source: obsidian
-```
-
-### Competes With
-- → [[Copper]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.847855'
+</code></pre>
+<h3>Competes With</h3>
+<ul>
+<li>→ [[Copper]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.847855'
 source: obsidian
-```
-- → [[Iron]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.889622'
+</code></pre>
+<ul>
+<li>→ [[Iron]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.889622'
 source: obsidian
-```
-
-### Synergistic With
-- → [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.794112'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>→ [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.794112'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.820480'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.820480'
 source: obsidian
-```
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.022386'
+</code></pre>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.022386'
 source: obsidian
-```
-
-### Modulates Neurotransmitter
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.768968'
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.768968'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:28.741407'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.741407'
 source: obsidian
-```
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:28.718009'
+</code></pre>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.718009'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:28.659626'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.659626'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:28.633534'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.633534'
 source: obsidian
-```
-- → [[Immune_System]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:28.607844'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.607844'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-
-### Influences
-No known influences documented.
-
-### Correlations
-No correlations documented.
-
-### Other Relationships
-### Synergistic With
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:26.022386'
+<h2>Relationships</h2>
+<h3>Influences</h3>
+<p>No known influences documented.</p>
+<h3>Correlations</h3>
+<p>No correlations documented.</p>
+<h3>Other Relationships</h3>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:26.022386'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.820480'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.820480'
 source: obsidian
-```
-- → [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.794112'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.794112'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Immune_System]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:28.607844'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Immune_System]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.607844'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:28.633534'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.633534'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2025-12-28T11:01:28.659626'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.659626'
 source: obsidian
-```
-
-### Modulates Hormone
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:28.718009'
+</code></pre>
+<h3>Modulates Hormone</h3>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.718009'
 source: obsidian
-```
-- → [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2025-12-28T11:01:28.741407'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.741407'
 source: obsidian
-```
-
-### Modulates Neurotransmitter
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.768968'
+</code></pre>
+<h3>Modulates Neurotransmitter</h3>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.768968'
 source: obsidian
-```
-
-### Competes With
-- → [[Iron]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.889622'
+</code></pre>
+<h3>Competes With</h3>
+<ul>
+<li>→ [[Iron]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.889622'
 source: obsidian
-```
-- → [[Copper]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:28.847855'
+</code></pre>
+<ul>
+<li>→ [[Copper]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.847855'
 source: obsidian
-```
-
-### Improved By Supplement
-- ← [[thyroid_dysfunction]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:43.393690'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>← [[thyroid_dysfunction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
 source: obsidian
-```
-
-### Related
-- → [[Thyroid_Hormones]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Thyroid_Hormones]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Immune_System]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Immune_System]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Vitamin_B6]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Vitamin_B6]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Thyroid_Dysfunction]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Thyroid_Dysfunction]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- ← [[thyroid_dysfunction]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:44.205334'
+</code></pre>
+<ul>
+<li>← [[thyroid_dysfunction]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:44.205334'
 source: obsidian
-```
-- ← [[Testosterone]] (hormone)
-```yaml
-last_modified: '2026-01-19T09:32:06.958661'
+</code></pre>
+<ul>
+<li>← [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:06.958661'
 source: obsidian
-```
-- ← [[Thyroid_Hormones]] (hormone)
-```yaml
-last_modified: '2026-01-19T09:32:07.745594'
+</code></pre>
+<ul>
+<li>← [[Thyroid_Hormones]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:07.745594'
 source: obsidian
-```
-- ← [[Immune_System]] (organ)
-```yaml
-last_modified: '2026-01-19T09:33:06.536831'
+</code></pre>
+<ul>
+<li>← [[Immune_System]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:06.536831'
 source: obsidian
-```
-- ← [[Skin]] (organ)
-```yaml
-last_modified: '2026-01-19T09:33:11.052898'
+</code></pre>
+<ul>
+<li>← [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:11.052898'
 source: obsidian
-```
-- ← [[Thyroid]] (organ)
-```yaml
-last_modified: '2026-01-19T09:33:11.816720'
+</code></pre>
+<ul>
+<li>← [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:33:11.816720'
 source: obsidian
-```
-- ← [[Copper]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:00.167865'
+</code></pre>
+<ul>
+<li>← [[Copper]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:00.167865'
 source: obsidian
-```
-- ← [[GABA]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:03.738932'
+</code></pre>
+<ul>
+<li>← [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:03.738932'
 source: obsidian
-```
-- ← [[Iron]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:04.890717'
+</code></pre>
+<ul>
+<li>← [[Iron]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.890717'
 source: obsidian
-```
-- ← [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:07.990267'
+</code></pre>
+<ul>
+<li>← [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:07.990267'
 source: obsidian
-```
-- ← [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:16.719280'
+</code></pre>
+<ul>
+<li>← [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:16.719280'
 source: obsidian
-```
-- ← [[Vitamin_B6]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:18.846152'
+</code></pre>
+<ul>
+<li>← [[Vitamin_B6]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:18.846152'
 source: obsidian
-```
-- → [[Skin]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Skin]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Thyroid]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Thyroid]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Copper]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Copper]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Iron]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Iron]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Magnesium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Magnesium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Selenium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Selenium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[GABA]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[GABA]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Testosterone]] (hormone)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Testosterone]] (hormone)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-- → [[Zinc]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:33.292194'
+</code></pre>
+<ul>
+<li>→ [[Zinc]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:33.292194'
 source: obsidian
-```
-
-## 💊 Supplements That Affect This Biomarker
-
-No supplement effects documented yet. Add effects in the respective supplement notes.
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-No lab tests linked yet. Add biomarker measurements in the respective lab test notes.
-
-## References
-No references available.
-
-## Dataview Queries
-```dataview
-LIST
+</code></pre>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
+<h2>References</h2>
+<p>No references available.</p>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[Zinc]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

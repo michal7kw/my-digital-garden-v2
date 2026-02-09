@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.654425Z'
+created: '2026-02-09T05:40:22.206429Z'
 description: Amino acid derivative essential for fatty acid transport into mitochondria
   for energy production. Supports heart health, exercise performance, and cognitive
   function. Multiple forms for different applications.
@@ -15,26 +15,21 @@ tags:
 - mitochondrial
 - cardiovascular
 - fat_metabolism
+templateEngineOverride: njk
 title: L-Carnitine
 type: supplement
-updated: '2026-02-08T19:45:44.654425Z'
+updated: '2026-02-09T05:40:22.206429Z'
 ---
 
-# L-Carnitine
-
-## Overview
-Amino acid derivative essential for fatty acid transport into mitochondria for energy production. Supports heart health, exercise performance, and cognitive function. Multiple forms for different applications.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>L-Carnitine</h1>
+<h2>Overview</h2>
+<p>Amino acid derivative essential for fatty acid transport into mitochondria for energy production. Supports heart health, exercise performance, and cognitive function. Multiple forms for different applications.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+
+{% endraw %}

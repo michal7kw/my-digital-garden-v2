@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.634184Z'
+created: '2026-02-09T05:40:22.076831Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,104 +10,117 @@ tags:
 - protein
 - imported
 - primekg
+templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-02-08T19:45:44.634184Z'
+updated: '2026-02-09T05:40:22.076831Z'
 ---
 
-# ATP binding
-
-## Function Summary
-No function summary available.
-
-## Detailed Description
-... 
-## Gene Information
-- **Gene ID:** N/A
-- **Ensembl ID:** N/A
-- **Chromosome:** N/A
-- **Location:** N/A
-
-## Protein Details
-- **UniProt ID:** N/A
-- **Organism:** N/A
-- **Cellular Location:** N/A
-- **Molecular Weight:** N/A
-- **Tissue Expression:** N/A
-
-## Sequence & Structure
-
-
+{% raw %}
+<h1>ATP binding</h1>
+<h2>Function Summary</h2>
+<p>No function summary available.</p>
+<h2>Detailed Description</h2>
+<p>...</p>
+<h2>Gene Information</h2>
+<ul>
+<li><strong>Gene ID:</strong> N/A</li>
+<li><strong>Ensembl ID:</strong> N/A</li>
+<li><strong>Chromosome:</strong> N/A</li>
+<li><strong>Location:</strong> N/A</li>
+</ul>
+<h2>Protein Details</h2>
+<ul>
+<li><strong>UniProt ID:</strong> N/A</li>
+<li><strong>Organism:</strong> N/A</li>
+<li><strong>Cellular Location:</strong> N/A</li>
+<li><strong>Molecular Weight:</strong> N/A</li>
+<li><strong>Tissue Expression:</strong> N/A</li>
+</ul>
+<h2>Sequence &amp; Structure</h2>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[purine_ribonucleoside_triphosphate_binding]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.082826'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.082826'
 source: obsidian
-```
-- → [[adenyl_ribonucleotide_binding]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:29.082826'
+</code></pre>
+<ul>
+<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.082826'
 source: obsidian
-```
-
-### Relatedtofunction
-- ← [[adenyl_ribonucleotide_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.962000+00:00'
+</code></pre>
+<h3>Relatedtofunction</h3>
+<ul>
+<li>← [[adenyl_ribonucleotide_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.962000+00:00'
 source: PrimeKG
-```
-- ← [[purine_ribonucleoside_triphosphate_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.968000+00:00'
+</code></pre>
+<ul>
+<li>← [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.968000+00:00'
 source: PrimeKG
-```
-- → [[purine_ribonucleoside_triphosphate_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.974000+00:00'
+</code></pre>
+<ul>
+<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.974000+00:00'
 source: PrimeKG
-```
-- → [[adenyl_ribonucleotide_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.979000+00:00'
+</code></pre>
+<ul>
+<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.979000+00:00'
 source: PrimeKG
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Relatedtofunction
-- ← [[adenyl_ribonucleotide_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.962000+00:00'
+<h2>Relationships</h2>
+<h3>Relatedtofunction</h3>
+<ul>
+<li>← [[adenyl_ribonucleotide_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.962000+00:00'
 source: PrimeKG
-```
-- ← [[purine_ribonucleoside_triphosphate_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.968000+00:00'
+</code></pre>
+<ul>
+<li>← [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.968000+00:00'
 source: PrimeKG
-```
-- → [[purine_ribonucleoside_triphosphate_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.974000+00:00'
+</code></pre>
+<ul>
+<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.974000+00:00'
 source: PrimeKG
-```
-- → [[adenyl_ribonucleotide_binding]] (entity)
-```yaml
-imported: '2025-12-26T09:40:13.979000+00:00'
+</code></pre>
+<ul>
+<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.979000+00:00'
 source: PrimeKG
-```
-
-### Related
-- → [[adenyl_ribonucleotide_binding]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:44.799071'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[adenyl_ribonucleotide_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.799071'
 source: obsidian
-```
-- → [[purine_ribonucleoside_triphosphate_binding]] (entity)
-```yaml
-last_modified: '2026-01-19T09:06:44.799071'
+</code></pre>
+<ul>
+<li>→ [[purine_ribonucleoside_triphosphate_binding]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.799071'
 source: obsidian
-```
+</code></pre>
+<h2>Source Data</h2>
+<ul>
+<li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-19T09:06:44.728839+00:00</li>
+</ul>
 
-## Source Data
-- **Source System:** PrimeKG - **Last Modified in Source:** 2026-01-19T09:06:44.728839+00:00
+{% endraw %}

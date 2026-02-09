@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.634381Z'
+created: '2026-02-09T05:40:22.078123Z'
 description: Lipid transport protein. The E4 isoform fails to effectively clear Amyloid
   Beta from the brain.
 dg-home: false
@@ -12,109 +12,130 @@ tags:
 - lipoprotein
 - alzheimers
 - cholesterol
+templateEngineOverride: njk
 title: ApoE
 type: protein
-updated: '2026-02-08T19:45:44.634381Z'
+updated: '2026-02-09T05:40:22.078123Z'
 ---
 
-# ApoE
-
-## Overview
-**Apolipoprotein E (ApoE)** is the primary cholesterol carrier in the brain. It is produced mainly by astrocytes.
-
-The **ApoE4** isoform differs from the common ApoE3 by a single amino acid change (Cys112Arg), which alters its structure. This structural change:
-1.  Reduces its ability to bind and clear Amyloid Beta plaques.
-2.  Increases neuroinflammation.
-3.  Impairs blood-brain barrier integrity.
-
+{% raw %}
+<h1>ApoE</h1>
+<h2>Overview</h2>
+<p><strong>Apolipoprotein E (ApoE)</strong> is the primary cholesterol carrier in the brain. It is produced mainly by astrocytes.</p>
+<p>The <strong>ApoE4</strong> isoform differs from the common ApoE3 by a single amino acid change (Cys112Arg), which alters its structure. This structural change:</p>
+<ol>
+<li>Reduces its ability to bind and clear Amyloid Beta plaques.</li>
+<li>Increases neuroinflammation.</li>
+<li>Impairs blood-brain barrier integrity.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Amyloid_Cascade]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:58.801399'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Amyloid_Cascade]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
-```
-- → [[Lipid_Metabolism]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:58.801399'
+</code></pre>
+<ul>
+<li>→ [[Lipid_Metabolism]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
-```
-- → [[Amyloid_Beta]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:58.801399'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Beta]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:58.801399'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
-```
-- → [[Amyloid_Clearance]] (entity)
-```yaml
-last_modified: '2026-01-26T06:48:58.801399'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Clearance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.801399'
 source: obsidian
-```
-- ← [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:47:30.206636'
+</code></pre>
+<ul>
+<li>← [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
 source: obsidian
-```
-- → [[Lipid_Metabolism]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:28.742616'
+</code></pre>
+<ul>
+<li>→ [[Lipid_Metabolism]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
-```
-- → [[LDLR]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:28.742616'
+</code></pre>
+<ul>
+<li>→ [[LDLR]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
-```
-- → [[Amyloid_Beta]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:28.742616'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Beta]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
-```
-- → [[Atherosclerosis]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:28.742616'
+</code></pre>
+<ul>
+<li>→ [[Atherosclerosis]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
-```
-- → [[Amyloid_Clearance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:28.742616'
+</code></pre>
+<ul>
+<li>→ [[Amyloid_Clearance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
-```
-- → [[ApoE]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:45.851454'
+</code></pre>
+<ul>
+<li>→ [[ApoE]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.851454'
 source: obsidian
-```
-- ← [[Amyloid_Cascade]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:08:11.155642'
+</code></pre>
+<ul>
+<li>← [[Amyloid_Cascade]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
 source: obsidian
-```
-- → [[Alzheimers_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T07:08:28.742616'
+</code></pre>
+<ul>
+<li>→ [[Alzheimers_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.742616'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<h3>Participates in Pathway</h3>
+<ul>
+<li>→ [[Lipid Metabolism]] (pathway)</li>
+<li>→ [[Amyloid Clearance]] (pathway)</li>
+</ul>
+<h3>Interacts With</h3>
+<ul>
+<li>→ [[Amyloid Beta]] (protein) - <em>Direct binding</em></li>
+<li>→ [[LDLR]] (protein) - <em>Receptor</em></li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Alzheimer's Disease]] (condition)</li>
+<li>→ [[Atherosclerosis]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ol>
+<li><strong>UniProt</strong>: P02649 (APOE_HUMAN)</li>
+<li><strong>Review</strong>: Liu, C. C., et al. (2013). &quot;Apolipoprotein E and Alzheimer disease: risk, mechanisms and therapy.&quot; <em>Nature Reviews Neurology</em>.</li>
+</ol>
 
-### Participates in Pathway
-- → [[Lipid Metabolism]] (pathway)
-- → [[Amyloid Clearance]] (pathway)
-
-### Interacts With
-- → [[Amyloid Beta]] (protein) - *Direct binding*
-- → [[LDLR]] (protein) - *Receptor*
-
-### Related Conditions
-- → [[Alzheimer's Disease]] (condition)
-- → [[Atherosclerosis]] (condition)
-
-## References
-1. **UniProt**: P02649 (APOE_HUMAN)
-2. **Review**: Liu, C. C., et al. (2013). "Apolipoprotein E and Alzheimer disease: risk, mechanisms and therapy." *Nature Reviews Neurology*.
+{% endraw %}

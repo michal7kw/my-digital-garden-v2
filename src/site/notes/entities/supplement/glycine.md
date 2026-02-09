@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.653291Z'
+created: '2026-02-09T05:40:22.202323Z'
 description: Conditionally essential amino acid with inhibitory neurotransmitter function.
   Key component of collagen, glutathione precursor, and important for sleep quality
   through body temperature regulation.
@@ -15,100 +15,107 @@ tags:
 - sleep
 - antioxidant
 - collagen
+templateEngineOverride: njk
 title: Glycine
 type: supplement
-updated: '2026-02-08T19:45:44.653291Z'
+updated: '2026-02-09T05:40:22.202323Z'
 ---
 
-# Glycine
-
-## Overview
-Conditionally essential amino acid with inhibitory neurotransmitter function. Key component of collagen, glutathione precursor, and important for sleep quality through body temperature regulation.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Glycine</h1>
+<h2>Overview</h2>
+<p>Conditionally essential amino acid with inhibitory neurotransmitter function. Key component of collagen, glutathione precursor, and important for sleep quality through body temperature regulation.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Sleep_Optimization]] (entity)
-```yaml
-last_modified: '2026-01-26T06:42:50.482199'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Sleep_Optimization]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:50.482199'
 source: obsidian
-```
-- → [[Melatonin_Supplement]] (entity)
-```yaml
-last_modified: '2026-01-26T07:08:37.370937'
+</code></pre>
+<ul>
+<li>→ [[Melatonin_Supplement]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.370937'
 source: obsidian
-```
-- ← [[Sleep_Optimization]] (intervention)
-```yaml
-last_modified: '2026-01-26T07:07:48.863953'
+</code></pre>
+<ul>
+<li>← [[Sleep_Optimization]] (intervention)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
 source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.175951'
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.175951'
 source: obsidian
-```
-- ← [[Melatonin_Supplement]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:39.028484'
+</code></pre>
+<ul>
+<li>← [[Melatonin_Supplement]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
 source: obsidian
-```
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:08:37.370937'
+</code></pre>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:37.370937'
 source: obsidian
-```
-
-### Synergistic With
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.397847'
+</code></pre>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.397847'
 source: obsidian
-```
-- ← [[Melatonin_Supplement]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.056323'
+</code></pre>
+<ul>
+<li>← [[Melatonin_Supplement]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.056323'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-### Synergistic With
-- ← [[Melatonin_Supplement]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.056323'
+<h2>Relationships</h2>
+<h3>Synergistic With</h3>
+<ul>
+<li>← [[Melatonin_Supplement]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.056323'
 source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2025-12-28T11:01:23.397847'
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.397847'
 source: obsidian
-```
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Melatonin_Supplement]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.328270'
+source: obsidian
+</code></pre>
+<ul>
+<li>→ [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:04.328270'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[Melatonin_Supplement]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
+source: obsidian
+</code></pre>
+<ul>
+<li>← [[NAC]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.800458'
+source: obsidian
+</code></pre>
 
-### Related
-- → [[Melatonin_Supplement]] (entity)
-```yaml
-last_modified: '2026-01-19T09:07:04.328270'
-source: obsidian
-```
-- → [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:04.328270'
-source: obsidian
-```
-- ← [[Melatonin_Supplement]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-```
-- ← [[NAC]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:07:10.800458'
-source: obsidian
-```
+{% endraw %}

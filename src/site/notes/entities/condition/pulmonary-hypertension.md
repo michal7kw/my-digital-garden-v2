@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.501585Z'
+created: '2026-02-09T05:40:21.071139Z'
 description: A type of high blood pressure that affects the arteries in the lungs
   and the right side of the heart.
 dg-home: false
@@ -12,52 +12,54 @@ tags:
 - cardiology
 - respiratory
 - vascular
+templateEngineOverride: njk
 title: Pulmonary Hypertension
 type: condition
-updated: '2026-02-08T19:45:44.501585Z'
+updated: '2026-02-09T05:40:21.071139Z'
 ---
 
-# Pulmonary Hypertension
-
-## Overview
-
-Pulmonary Hypertension (PH) is high blood pressure in the pulmonary arteries (the vessels that carry blood from the heart to the lungs). The high pressure forces the right side of the heart to work harder to pump blood, eventually causing the heart muscle to weaken and fail (**Cor Pulmonale**).
-
-## WHO Classifications
-
-1.  **Group 1:** Pulmonary Arterial Hypertension (PAH).
-2.  **Group 2:** PH due to left heart disease (most common).
-3.  **Group 3:** PH due to lung disease/hypoxia (COPD).
-4.  **Group 4:** Chronic Thromboembolic Pulmonary Hypertension (CTEPH).
-5.  **Group 5:** Unclear/multifactorial mechanisms.
-
+{% raw %}
+<h1>Pulmonary Hypertension</h1>
+<h2>Overview</h2>
+<p>Pulmonary Hypertension (PH) is high blood pressure in the pulmonary arteries (the vessels that carry blood from the heart to the lungs). The high pressure forces the right side of the heart to work harder to pump blood, eventually causing the heart muscle to weaken and fail (<strong>Cor Pulmonale</strong>).</p>
+<h2>WHO Classifications</h2>
+<ol>
+<li><strong>Group 1:</strong> Pulmonary Arterial Hypertension (PAH).</li>
+<li><strong>Group 2:</strong> PH due to left heart disease (most common).</li>
+<li><strong>Group 3:</strong> PH due to lung disease/hypoxia (COPD).</li>
+<li><strong>Group 4:</strong> Chronic Thromboembolic Pulmonary Hypertension (CTEPH).</li>
+<li><strong>Group 5:</strong> Unclear/multifactorial mechanisms.</li>
+</ol>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Pulmonary_Hypertension]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:51.590434'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Pulmonary_Hypertension]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.590434'
 source: obsidian
-```
-- → [[Pulmonary_Hypertension]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:56.705736'
+</code></pre>
+<ul>
+<li>→ [[Pulmonary_Hypertension]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:56.705736'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::[[Heart Failure]]<br />
+ASSOCIATED_WITH_CONDITION::[[Chronic Obstructive Pulmonary Disease]]<br />
+ASSOCIATED_WITH_CONDITION::[[Sleep Apnea]]<br />
+AFFECTS_ORGAN::[[Lung]]<br />
+AFFECTS_ORGAN::[[Heart]]<br />
+TREATED_BY_DRUG::[[Sildenafil]]<br />
+TREATED_BY_DRUG::[[Bosentan]]<br />
+TREATED_BY_DRUG::[[Epoprostenol]]</p>
+<h2>References</h2>
+<ul>
+<li>Galie, N., et al. (2016). ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. European Heart Journal.</li>
+<li>Pulmonary Hypertension Association.</li>
+<li>Simonneau, G., et al. (2013). Updated clinical classification of pulmonary hypertension. JACC.</li>
+</ul>
 
-ASSOCIATED_WITH_CONDITION::[[Heart Failure]]
-ASSOCIATED_WITH_CONDITION::[[Chronic Obstructive Pulmonary Disease]]
-ASSOCIATED_WITH_CONDITION::[[Sleep Apnea]]
-AFFECTS_ORGAN::[[Lung]]
-AFFECTS_ORGAN::[[Heart]]
-TREATED_BY_DRUG::[[Sildenafil]]
-TREATED_BY_DRUG::[[Bosentan]]
-TREATED_BY_DRUG::[[Epoprostenol]]
-
-## References
-
-- Galie, N., et al. (2016). ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. European Heart Journal.
-- Pulmonary Hypertension Association.
-- Simonneau, G., et al. (2013). Updated clinical classification of pulmonary hypertension. JACC.
+{% endraw %}

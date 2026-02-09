@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.503383Z'
+created: '2026-02-09T05:40:21.076954Z'
 description: A condition in which the heart valves have been permanently damaged by
   rheumatic fever.
 dg-home: false
@@ -13,48 +13,48 @@ tags:
 - autoimmune
 - infectious_disease
 - global_health
+templateEngineOverride: njk
 title: Rheumatic Heart Disease
 type: condition
-updated: '2026-02-08T19:45:44.503383Z'
+updated: '2026-02-09T05:40:21.076954Z'
 ---
 
-# Rheumatic Heart Disease
-
-## Overview
-
-Rheumatic Heart Disease (RHD) results from **Rheumatic Fever**, an inflammatory disease that can affect connective tissues, especially in the heart, joints, skin, or brain. The heart valves can become inflamed and scarred over time. This narrows or leaks the valve, making it harder for the heart to function normally. It usually starts as a strep throat infection.
-
-## Pathophysiology
-
-An untreated infection with *Group A Streptococcus* bacteria triggers an autoimmune reaction where the body's antibodies attack its own tissues (molecular mimicry), particularly the heart valves.
-
+{% raw %}
+<h1>Rheumatic Heart Disease</h1>
+<h2>Overview</h2>
+<p>Rheumatic Heart Disease (RHD) results from <strong>Rheumatic Fever</strong>, an inflammatory disease that can affect connective tissues, especially in the heart, joints, skin, or brain. The heart valves can become inflamed and scarred over time. This narrows or leaks the valve, making it harder for the heart to function normally. It usually starts as a strep throat infection.</p>
+<h2>Pathophysiology</h2>
+<p>An untreated infection with <em>Group A Streptococcus</em> bacteria triggers an autoimmune reaction where the body's antibodies attack its own tissues (molecular mimicry), particularly the heart valves.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Rheumatic_Heart_Disease]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:51.985663'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Rheumatic_Heart_Disease]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.985663'
 source: obsidian
-```
-- → [[Rheumatic_Heart_Disease]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:57.381239'
+</code></pre>
+<ul>
+<li>→ [[Rheumatic_Heart_Disease]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:57.381239'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Streptococcus pyogenes]]<br />
+ASSOCIATED_WITH_CONDITION::[[Rheumatic Fever]]<br />
+ASSOCIATED_WITH_CONDITION::[[Heart Failure]]<br />
+ASSOCIATED_WITH_CONDITION::[[Atrial Fibrillation]]<br />
+ASSOCIATED_WITH_CONDITION::[[Stroke]]<br />
+AFFECTS_ORGAN::[[Heart]]<br />
+AFFECTS_ORGAN::[[Heart Valve]]<br />
+TREATED_BY_DRUG::[[Penicillin]] - Long-term prophylaxis.<br />
+TREATED_BY_INTERVENTION::[[Valve Replacement]]</p>
+<h2>References</h2>
+<ul>
+<li>Carapetis, J. R., et al. (2016). The global burden of group A streptococcal diseases. The Lancet Infectious Diseases.</li>
+<li>World Heart Federation. Rheumatic Heart Disease.</li>
+</ul>
 
-CAUSED_BY::[[Streptococcus pyogenes]]
-ASSOCIATED_WITH_CONDITION::[[Rheumatic Fever]]
-ASSOCIATED_WITH_CONDITION::[[Heart Failure]]
-ASSOCIATED_WITH_CONDITION::[[Atrial Fibrillation]]
-ASSOCIATED_WITH_CONDITION::[[Stroke]]
-AFFECTS_ORGAN::[[Heart]]
-AFFECTS_ORGAN::[[Heart Valve]]
-TREATED_BY_DRUG::[[Penicillin]] - Long-term prophylaxis.
-TREATED_BY_INTERVENTION::[[Valve Replacement]]
-
-## References
-
-- Carapetis, J. R., et al. (2016). The global burden of group A streptococcal diseases. The Lancet Infectious Diseases.
-- World Heart Federation. Rheumatic Heart Disease.
+{% endraw %}

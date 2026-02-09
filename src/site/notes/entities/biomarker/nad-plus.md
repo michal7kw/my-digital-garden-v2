@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.438482Z'
+created: '2026-02-09T05:40:20.685288Z'
 description: Nicotinamide adenine dinucleotide is a critical coenzyme present in every
   cell, essential for cellular energy metabolism, DNA repair, sirtuin activity, and
   over 500 enzymatic reactions. NAD+ levels decline with age and are implicated in
@@ -11,71 +11,96 @@ permalink: /garden/dev_admin/biomarker/nad-plus/
 slug: nad-plus
 tags:
 - biomarker
+templateEngineOverride: njk
 title: NAD Plus
 type: biomarker
-updated: '2026-02-08T19:45:44.438482Z'
+updated: '2026-02-09T05:40:20.685288Z'
 ---
 
-# NAD Plus
-
-## Overview
-Nicotinamide adenine dinucleotide (NAD+) is a coenzyme found in all living cells that plays a central role in cellular metabolism. It exists in two forms: the oxidized form (NAD+) and the reduced form (NADH). NAD+ participates in over 500 enzymatic reactions and is essential for mitochondrial energy production, DNA repair via PARP enzymes, epigenetic regulation via sirtuins (SIRT1-7), and cellular signaling.
-
-NAD+ levels decline significantly with age - by approximately 50% between ages 40 and 60. This decline is associated with mitochondrial dysfunction, impaired DNA repair, cellular senescence, and metabolic deterioration. Reduced NAD+ has been implicated in virtually every age-related disease including neurodegeneration, cardiovascular disease, metabolic syndrome, and cancer.
-
-Research into NAD+ restoration has become one of the most active areas in longevity science. NAD+ precursors (NMN, NR, niacin) can effectively boost NAD+ levels. Clinical trials have shown that supplementation with NMN and NR increases blood NAD+ levels by 40-90%, with emerging evidence of functional benefits including improved muscle function, insulin sensitivity, and vascular health.
-
-## Reference Ranges
-
-| Range | Value | Interpretation |
-|-------|-------|----------------|
-| **Low** | <20 umol/L | Depleted; associated with aging/chronic disease |
-| **Normal** | 20-40 umol/L | Age-appropriate levels |
-| **Optimal** | 40-60 umol/L | Youthful levels; target for longevity optimization |
-| **High** | >60 umol/L | Typically only seen with active supplementation |
-
-## Testing Information
-- **Measurement Unit**: umol/L (whole blood)
-- **Sample Type**: Blood (whole blood preferred)
-- **Fasting Required**: True (morning fasting sample recommended)
-- **Recommended Test Frequency**: Every 6-12 months for longevity tracking
-
-## 💊 Supplements That Affect This Biomarker
-
-- [[NMN]] - Strongly increases NAD+ (40-90% elevation, evidence level 2)
-- [[Nicotinamide Riboside]] - Strongly increases NAD+ (strong effect, evidence level 2)
-- [[Niacin]] - Increases NAD+ through the Preiss-Handler pathway (mild effect, evidence level 3)
-- [[Resveratrol]] - Activates sirtuins that consume NAD+; synergistic with NAD+ boosters (evidence level 3)
-
-## 🧪 Lab Tests That Measure This Biomarker
-
-### Direct Tests
-- Jinfiniti IntracellularNAD Test - Intracellular NAD+ measurement
-- [[truage complete]] - May include NAD+ assessment in aging panel
-
-## Relationships
-
-### Correlations
-- → [[GrimAge]] (biomarker) - NAD+ depletion accelerates epigenetic aging
-- → [[GlycanAge]] (biomarker) - Both are aging biomarkers
-- → [[Glutathione]] (biomarker) - NAD+ supports glutathione recycling
-- → [[HbA1c]] (biomarker) - NAD+ influences glucose metabolism
-
-### Related Conditions
-- → [[Aging]] (condition)
-- → [[Mitochondrial Dysfunction]] (condition)
-- → [[Neurodegeneration]] (condition)
-
-## References
-- PMID:34238308 - Yoshino et al. (2021) NMN increases NAD+ in humans
-- PMID:29184669 - Martens et al. (2018) Chronic NR supplementation is well-tolerated and elevates NAD+
-- PMID:30069493 - Dollerup et al. (2018) NR augments NAD+ metabolome in overweight humans
-- PMID:36482258 - Yi et al. (2023) NMN supplementation in middle-aged adults
-
-## Dataview Queries
-```dataview
-LIST
+{% raw %}
+<h1>NAD Plus</h1>
+<h2>Overview</h2>
+<p>Nicotinamide adenine dinucleotide (NAD+) is a coenzyme found in all living cells that plays a central role in cellular metabolism. It exists in two forms: the oxidized form (NAD+) and the reduced form (NADH). NAD+ participates in over 500 enzymatic reactions and is essential for mitochondrial energy production, DNA repair via PARP enzymes, epigenetic regulation via sirtuins (SIRT1-7), and cellular signaling.</p>
+<p>NAD+ levels decline significantly with age - by approximately 50% between ages 40 and 60. This decline is associated with mitochondrial dysfunction, impaired DNA repair, cellular senescence, and metabolic deterioration. Reduced NAD+ has been implicated in virtually every age-related disease including neurodegeneration, cardiovascular disease, metabolic syndrome, and cancer.</p>
+<p>Research into NAD+ restoration has become one of the most active areas in longevity science. NAD+ precursors (NMN, NR, niacin) can effectively boost NAD+ levels. Clinical trials have shown that supplementation with NMN and NR increases blood NAD+ levels by 40-90%, with emerging evidence of functional benefits including improved muscle function, insulin sensitivity, and vascular health.</p>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Range</th>
+<th>Value</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Low</strong></td>
+<td>&lt;20 umol/L</td>
+<td>Depleted; associated with aging/chronic disease</td>
+</tr>
+<tr>
+<td><strong>Normal</strong></td>
+<td>20-40 umol/L</td>
+<td>Age-appropriate levels</td>
+</tr>
+<tr>
+<td><strong>Optimal</strong></td>
+<td>40-60 umol/L</td>
+<td>Youthful levels; target for longevity optimization</td>
+</tr>
+<tr>
+<td><strong>High</strong></td>
+<td>&gt;60 umol/L</td>
+<td>Typically only seen with active supplementation</td>
+</tr>
+</tbody>
+</table>
+<h2>Testing Information</h2>
+<ul>
+<li><strong>Measurement Unit</strong>: umol/L (whole blood)</li>
+<li><strong>Sample Type</strong>: Blood (whole blood preferred)</li>
+<li><strong>Fasting Required</strong>: True (morning fasting sample recommended)</li>
+<li><strong>Recommended Test Frequency</strong>: Every 6-12 months for longevity tracking</li>
+</ul>
+<h2>💊 Supplements That Affect This Biomarker</h2>
+<ul>
+<li>[[NMN]] - Strongly increases NAD+ (40-90% elevation, evidence level 2)</li>
+<li>[[Nicotinamide Riboside]] - Strongly increases NAD+ (strong effect, evidence level 2)</li>
+<li>[[Niacin]] - Increases NAD+ through the Preiss-Handler pathway (mild effect, evidence level 3)</li>
+<li>[[Resveratrol]] - Activates sirtuins that consume NAD+; synergistic with NAD+ boosters (evidence level 3)</li>
+</ul>
+<h2>🧪 Lab Tests That Measure This Biomarker</h2>
+<h3>Direct Tests</h3>
+<ul>
+<li>Jinfiniti IntracellularNAD Test - Intracellular NAD+ measurement</li>
+<li>[[truage complete]] - May include NAD+ assessment in aging panel</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Correlations</h3>
+<ul>
+<li>→ [[GrimAge]] (biomarker) - NAD+ depletion accelerates epigenetic aging</li>
+<li>→ [[GlycanAge]] (biomarker) - Both are aging biomarkers</li>
+<li>→ [[Glutathione]] (biomarker) - NAD+ supports glutathione recycling</li>
+<li>→ [[HbA1c]] (biomarker) - NAD+ influences glucose metabolism</li>
+</ul>
+<h3>Related Conditions</h3>
+<ul>
+<li>→ [[Aging]] (condition)</li>
+<li>→ [[Mitochondrial Dysfunction]] (condition)</li>
+<li>→ [[Neurodegeneration]] (condition)</li>
+</ul>
+<h2>References</h2>
+<ul>
+<li>PMID:34238308 - Yoshino et al. (2021) NMN increases NAD+ in humans</li>
+<li>PMID:29184669 - Martens et al. (2018) Chronic NR supplementation is well-tolerated and elevates NAD+</li>
+<li>PMID:30069493 - Dollerup et al. (2018) NR augments NAD+ metabolome in overweight humans</li>
+<li>PMID:36482258 - Yi et al. (2023) NMN supplementation in middle-aged adults</li>
+</ul>
+<h2>Dataview Queries</h2>
+<pre><code class="language-dataview">LIST
 FROM [[NAD Plus]]
-WHERE contains(type, "Intervention")
+WHERE contains(type, &quot;Intervention&quot;)
 SORT confidence_score DESC
-```
+</code></pre>
+
+{% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.481876Z'
+created: '2026-02-09T05:40:20.973482Z'
 description: A physiological condition where cells fail to respond normally to the
   hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
 dg-home: false
@@ -12,544 +12,596 @@ tags:
 - metabolic
 - endocrine
 - glucose_metabolism
+templateEngineOverride: njk
 title: Insulin Resistance
 type: condition
-updated: '2026-02-08T19:45:44.481876Z'
+updated: '2026-02-09T05:40:20.973482Z'
 ---
 
-# Insulin Resistance
-
-## Overview
-A physiological condition where cells fail to respond normally to the hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
-
-## Clinical Presentation
-### Symptoms
-Not specified.
-
-
-
-## Diagnostic Information
-
-
-## Risk Factors
-
-
-
-## Management
-
-
-### Interventions
-```dataview
-TABLE 
-    effectiveness AS "Effectiveness",
-    confidence_score AS "Confidence"
+{% raw %}
+<h1>Insulin Resistance</h1>
+<h2>Overview</h2>
+<p>A physiological condition where cells fail to respond normally to the hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.</p>
+<h2>Clinical Presentation</h2>
+<h3>Symptoms</h3>
+<p>Not specified.</p>
+<h2>Diagnostic Information</h2>
+<h2>Risk Factors</h2>
+<h2>Management</h2>
+<h3>Interventions</h3>
+<pre><code class="language-dataview">TABLE 
+    effectiveness AS &quot;Effectiveness&quot;,
+    confidence_score AS &quot;Confidence&quot;
 FROM [[Insulin Resistance]] AND #intervention
 SORT confidence_score DESC
-```
-
-
-
-
-
-## Other Relationships
-### May Detect
-- ← [[hdl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h2>Other Relationships</h2>
+<h3>May Detect</h3>
+<ul>
+<li>← [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[sex_hormone_binding_globulin_shbg]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[insulin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[leptin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Requires Biomarker
-- → [[HOMA-IR]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>→ [[HOMA-IR]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[Fasting_Insulin]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[Fasting_Insulin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Increases Risk For
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Improved By Supplement
-- → [[Alpha-Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>→ [[Alpha-Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Related
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<h3>Related</h3>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[sex_hormone_binding_globulin_shbg]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[insulin]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[HOMA-IR]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[HOMA-IR]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Fasting_Insulin]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Fasting_Insulin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Alpha-Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Insulin_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-19T09:31:13.820465'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.820465'
 source: obsidian
-```
-
-### Precursor To
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Precursor To</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Modulated By Pathway
-- → [[Insulin_Signaling]] (pathway)
-```yaml
-last_modified: '2026-01-19T09:30:38.659417'
+</code></pre>
+<h3>Modulated By Pathway</h3>
+<ul>
+<li>→ [[Insulin_Signaling]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:38.659417'
 source: obsidian
-```
-
-### Related Pattern
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-19T09:30:42.706915'
+</code></pre>
+<h3>Related Pattern</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:42.706915'
 source: obsidian
-```
-
-## Research
-### Recent Studies
-```dataview
-LIST
+</code></pre>
+<h2>Research</h2>
+<h3>Recent Studies</h3>
+<pre><code class="language-dataview">LIST
 FROM [[Insulin Resistance]] AND #research
-WHERE date >= date(today) - dur(1 year)
+WHERE date &gt;= date(today) - dur(1 year)
 SORT date DESC
-```
-
-### Clinical Trials
-```dataview
-LIST status
+</code></pre>
+<h3>Clinical Trials</h3>
+<pre><code class="language-dataview">LIST status
 FROM [[Insulin Resistance]] AND #clinical-trial
 SORT date DESC
-```
-
+</code></pre>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Fasting_Insulin]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Fasting_Insulin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Alpha-Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Alpha-Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Insulin_Signaling]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Signaling]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[HOMA-IR]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[HOMA-IR]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Metabolic_Syndrome]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- ← [[sex_hormone_binding_globulin_shbg]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:59.671283'
+</code></pre>
+<ul>
+<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.671283'
 source: obsidian
-```
-- ← [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:55.853821'
+</code></pre>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.853821'
 source: obsidian
-```
-- ← [[insulin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:54.576387'
+</code></pre>
+<ul>
+<li>← [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.576387'
 source: obsidian
-```
-- ← [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.915353'
+</code></pre>
+<ul>
+<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
 source: obsidian
-```
-- ← [[hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:53.581046'
+</code></pre>
+<ul>
+<li>← [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.581046'
 source: obsidian
-```
-- → [[insulin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[sex_hormone_binding_globulin_shbg]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[leptin]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[hdl_cholesterol]] (labtest)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-- → [[Insulin_Resistance]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:30.181114'
+</code></pre>
+<ul>
+<li>→ [[Insulin_Resistance]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
 source: obsidian
-```
-
-### Improved By Supplement
-- → [[Alpha-Lipoic_Acid]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Improved By Supplement</h3>
+<ul>
+<li>→ [[Alpha-Lipoic_Acid]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[Chromium]] (supplement)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[Chromium]] (supplement)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[Berberine]] (drug)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[Berberine]] (drug)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### Increases Risk For
-- → [[Type_2_Diabetes]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Increases Risk For</h3>
+<ul>
+<li>→ [[Type_2_Diabetes]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[PCOS]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[PCOS]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### Requires Biomarker
-- → [[Fasting_Insulin]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Requires Biomarker</h3>
+<ul>
+<li>→ [[Fasting_Insulin]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[HOMA-IR]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[HOMA-IR]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[HDL_Cholesterol]] (entity)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[HDL_Cholesterol]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[Triglycerides]] (biomarker)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[Triglycerides]] (biomarker)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### May Detect
-- ← [[leptin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<h3>May Detect</h3>
+<ul>
+<li>← [[leptin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[insulin]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[insulin]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hemoglobin_a1c_hba1c]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hemoglobin_a1c_hba1c]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[sex_hormone_binding_globulin_shbg]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[sex_hormone_binding_globulin_shbg]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-- ← [[hdl_cholesterol]] (labtest)
-```yaml
-confidence: suggested
+</code></pre>
+<ul>
+<li>← [[hdl_cholesterol]] (labtest)</li>
+</ul>
+<pre><code class="language-yaml">confidence: suggested
 created_at: '2026-01-18T16:02:36.677740'
 source: function-health
-```
-
-### Related Pattern
-- ← [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:21.922538'
+</code></pre>
+<h3>Related Pattern</h3>
+<ul>
+<li>← [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:21.922538'
 source: obsidian
-```
-
-### Modulated By Pathway
-- → [[Insulin_Signaling]] (pathway)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Modulated By Pathway</h3>
+<ul>
+<li>→ [[Insulin_Signaling]] (pathway)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### Affects Organ
-- → [[Muscle]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Affects Organ</h3>
+<ul>
+<li>→ [[Muscle]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[Liver]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[Liver]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-- → [[Pancreas]] (organ)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<ul>
+<li>→ [[Pancreas]] (organ)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
-
-### Precursor To
-- → [[Metabolic_Syndrome]] (condition)
-```yaml
-last_modified: '2026-01-26T07:07:20.706349'
+</code></pre>
+<h3>Precursor To</h3>
+<ul>
+<li>→ [[Metabolic_Syndrome]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.706349'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## References
-No references available.
+<h2>References</h2>
+<p>No references available.</p>
+
+{% endraw %}

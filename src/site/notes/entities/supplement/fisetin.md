@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.652451Z'
+created: '2026-02-09T05:40:22.197492Z'
 description: A plant polyphenol and potent senolytic that selectively clears senescent
   cells and supports cognitive health.
 dg-home: false
@@ -12,26 +12,21 @@ tags:
 - senolytic
 - neuroprotective
 - longevity
+templateEngineOverride: njk
 title: Fisetin
 type: supplement
-updated: '2026-02-08T19:45:44.652451Z'
+updated: '2026-02-09T05:40:22.197492Z'
 ---
 
-# Fisetin
-
-## Overview
-A plant polyphenol and potent senolytic that selectively clears senescent cells and supports cognitive health.
-
-
-
-
-
-
-
-
+{% raw %}
+<h1>Fisetin</h1>
+<h2>Overview</h2>
+<p>A plant polyphenol and potent senolytic that selectively clears senescent cells and supports cognitive health.</p>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
-No relationships found.
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+
+{% endraw %}

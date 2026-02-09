@@ -1,5 +1,5 @@
 ---
-created: '2026-02-08T19:45:44.470715Z'
+created: '2026-02-09T05:40:20.917160Z'
 description: An open sore on the cornea, usually caused by an eye infection, severe
   dry eye, or other eye disorders.
 dg-home: false
@@ -12,49 +12,51 @@ tags:
 - ophthalmology
 - infection
 - acute
+templateEngineOverride: njk
 title: Corneal Ulcer
 type: condition
-updated: '2026-02-08T19:45:44.470715Z'
+updated: '2026-02-09T05:40:20.917160Z'
 ---
 
-# Corneal Ulcer
-
-## Overview
-
-A corneal ulcer (keratitis) is an open sore on the clear front surface of the eye. It is considered a medical emergency because it can lead to permanent blindness if untreated. The most common cause is infection (bacterial, viral, fungal, or parasitic).
-
-## Causes
-
-- **Bacterial:** *Pseudomonas aeruginosa* (common in contact lens wearers), *Staphylococcus aureus*.
-- **Viral:** *Herpes Simplex Virus* (Ocular Herpes).
-- **Fungal:** *Fusarium*, *Aspergillus*.
-- **Parasitic:** *Acanthamoeba* (water/soil exposure).
-
+{% raw %}
+<h1>Corneal Ulcer</h1>
+<h2>Overview</h2>
+<p>A corneal ulcer (keratitis) is an open sore on the clear front surface of the eye. It is considered a medical emergency because it can lead to permanent blindness if untreated. The most common cause is infection (bacterial, viral, fungal, or parasitic).</p>
+<h2>Causes</h2>
+<ul>
+<li><strong>Bacterial:</strong> <em>Pseudomonas aeruginosa</em> (common in contact lens wearers), <em>Staphylococcus aureus</em>.</li>
+<li><strong>Viral:</strong> <em>Herpes Simplex Virus</em> (Ocular Herpes).</li>
+<li><strong>Fungal:</strong> <em>Fusarium</em>, <em>Aspergillus</em>.</li>
+<li><strong>Parasitic:</strong> <em>Acanthamoeba</em> (water/soil exposure).</li>
+</ul>
 <!-- NEO4J_CONTENT_START -->
-## Relationships
-### Related
-- → [[Corneal_Ulcer]] (entity)
-```yaml
-last_modified: '2026-01-26T06:47:36.569911'
+<h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>→ [[Corneal_Ulcer]] (entity)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.569911'
 source: obsidian
-```
-- → [[Corneal_Ulcer]] (condition)
-```yaml
-last_modified: '2026-01-26T06:03:33.290342'
+</code></pre>
+<ul>
+<li>→ [[Corneal_Ulcer]] (condition)</li>
+</ul>
+<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:33.290342'
 source: obsidian
-```
+</code></pre>
 <!-- NEO4J_CONTENT_END -->
-## Relationships
+<h2>Relationships</h2>
+<p>CAUSED_BY::[[Infection]]<br />
+ASSOCIATED_WITH_CONDITION::[[Dry Eye Syndrome]]<br />
+AFFECTS_ORGAN::[[Eye]]<br />
+TREATED_BY_DRUG::[[Ciprofloxacin]] - Antibiotic eye drops.<br />
+TREATED_BY_DRUG::[[Acyclovir]] - For HSV.<br />
+COMPLICATION_OF::[[Contact Lens Use]]</p>
+<h2>References</h2>
+<ul>
+<li>American Academy of Ophthalmology. Corneal Ulcer.</li>
+<li>Austin, A., et al. (2017). The epidemiology of corneal ulcers.</li>
+<li>CDC. Contact Lens-Related Eye Infections.</li>
+</ul>
 
-CAUSED_BY::[[Infection]]
-ASSOCIATED_WITH_CONDITION::[[Dry Eye Syndrome]]
-AFFECTS_ORGAN::[[Eye]]
-TREATED_BY_DRUG::[[Ciprofloxacin]] - Antibiotic eye drops.
-TREATED_BY_DRUG::[[Acyclovir]] - For HSV.
-COMPLICATION_OF::[[Contact Lens Use]]
-
-## References
-
-- American Academy of Ophthalmology. Corneal Ulcer.
-- Austin, A., et al. (2017). The epidemiology of corneal ulcers.
-- CDC. Contact Lens-Related Eye Infections.
+{% endraw %}
