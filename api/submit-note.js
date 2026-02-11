@@ -1,14 +1,14 @@
-const { Octokit } = require("@octokit/rest");
+const { Octokit } = require('@octokit/rest');
 
 module.exports = async (req, res) => {
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Method Not Allowed" });
+  if (req.method !== 'POST') {
+    return res.status(405).json({ error: 'Method Not Allowed' });
   }
 
-  const { title, content, folder = "" } = req.body;
+  const { title, content, folder = '' } = req.body;
 
   if (!title || !content) {
-    return res.status(400).json({ error: "Title and content are required." });
+    return res.status(400).json({ error: 'Title and content are required.' });
   }
 
   const octokit = new Octokit({
@@ -28,7 +28,7 @@ module.exports = async (req, res) => {
       path,
       message: `Add/Update note: ${title}`,
       content: fileContent,
-      branch: "main" // or your default branch
+      branch: 'main', // or your default branch
     });
 
     res.status(200).json({ success: true });

@@ -115,8 +115,11 @@ npm run check-links
 
 ### Data Sources
 - **Obsidian Vault** - Direct integration with personal health notes
-- **Knowledge Graph** - Display of related medical entities
-- **Biomarker Data** - Integration with health analytics
+- **Triple Knowledge Graph** - Display of related medical entities from:
+  - Curated Personal KG (user health data)
+  - PrimeKG (100,000+ biomedical entities)
+  - DrugBank (14,000+ pharmaceutical entities)
+- **Biomarker Data** - Integration with health analytics via FastAPI backend
 - **Recommendation Engine** - Display of personalized health insights
 
 ### Publishing Pipeline

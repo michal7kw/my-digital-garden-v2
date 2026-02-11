@@ -1,5 +1,4 @@
 ---
-permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
@@ -15,7 +14,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
-    
+
     {%include "components/navbar.njk"%}
     {% if settings.dgShowFileTree === true %}
       {%include "components/filetree.njk"%}
@@ -29,6 +28,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       <header>
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
+        {% endif %}
+        {# Entity type badge - display if entity type is set #}
+        {% set entityType = page.data['dg-entity-type'] or page.data.type %}
+        {% if entityType %}
+          <div class="entity-header-badge">
+            {% include "components/entityBadge.njk" %}
+          </div>
         {% endif %}
         <div class="header-meta">
           {% if settings.dgShowTags === true and tags %}
@@ -66,6 +72,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
+      {# Entity metadata section - display for entity notes #}
+      {% set entityType = page.data['dg-entity-type'] or page.data.type %}
+      {% if entityType %}
+        {% include "components/entityMetadata.njk" %}
+      {% endif %}
       {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
@@ -90,6 +101,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
+    {# Excalidraw interactivity for embedded drawings #}
+    {%include "components/excalidrawScript.njk"%}
     {%include "components/lucideIcons.njk"%}
   </body>
 </html>

@@ -83,13 +83,13 @@
                 args = arguments;
             var later = function () {
                 timeout = null;
-                if (!immediate) 
+                if (!immediate)
                     func.apply(context, args);
                 };
             var callNow = immediate && !timeout;
             clearTimeout(timeout);
             timeout = setTimeout(later, wait);
-            if (callNow) 
+            if (callNow)
                 func.apply(context, args);
             };
     };
@@ -146,7 +146,7 @@
                 let index = createIndex(docs);
                 window.docs = docs
                 window.index = index;
-            }        
+            }
         }
         if(shouldFetch){
             let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
@@ -275,9 +275,9 @@
         let search = field
             .value
             .trim();
-        if (!search) 
+        if (!search)
             return;
-        if (search == lastSearch) 
+        if (search == lastSearch)
             return;
         console.log(`search for ${search}`);
         window.lastSearch = search;
@@ -325,7 +325,7 @@
     function truncate(str, size) {
         //first, remove HTML
         str = str.replaceAll(/<[^>]*>/g, '');
-        if (str.length < size) 
+        if (str.length < size)
             return str;
         return str.substring(0, size - 3) + '...';
     }

@@ -1,0 +1,21 @@
+---
+title: Interventions
+permalink: /entities/intervention/
+---
+
+<div class="entity-index">
+  <h1>⚡ Interventions</h1>
+  <p class="entity-description">Therapeutic interventions and treatments</p>
+
+  <div class="entity-list">
+    {%- for note in collections.note -%}
+      {%- if (note.data.tags and 'intervention' in note.data.tags) or note.data.type == 'intervention' -%}
+        <div class="entity-item intervention">
+          <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
+  <p class="back-link"><a href="/entities/">← Back to Entity Types</a></p>
+</div>

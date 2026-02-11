@@ -1,0 +1,395 @@
+/**
+ * Excalidraw Drawing Styles for Digital Garden
+ *
+ * Provides styling for embedded and standalone Excalidraw drawings
+ * with support for zoom, pan, and fullscreen modes.
+ */
+
+// ==========================================================================
+// Base Container Styles
+// ==========================================================================
+
+.excalidraw-svg {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  background: var(--background-secondary, #f5f5f5);
+  border: 1px solid var(--background-modifier-border, #ddd);
+
+  // SVG element
+  svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.1s ease-out;
+    transform-origin: center center;
+  }
+
+  // Clickable links within SVG
+  a {
+    cursor: pointer;
+    transition: filter 0.15s ease;
+
+    &:hover {
+      filter: brightness(1.15);
+    }
+
+    // Highlight linked elements
+    &.excalidraw-link {
+      outline: none;
+
+      &:focus {
+        outline: 2px solid var(--text-accent, #448aff);
+        outline-offset: 2px;
+      }
+    }
+  }
+}
+
+// ==========================================================================
+// Zoom Controls
+// ==========================================================================
+
+.excalidraw-controls {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  display: flex;
+  gap: 4px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 10;
+
+  .excalidraw-svg:hover & {
+    opacity: 1;
+  }
+}
+
+.excalidraw-control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: none;
+  border-radius: 6px;
+  background: var(--background-primary, white);
+  color: var(--text-normal, #333);
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.15s ease;
+
+  &:hover {
+    background: var(--background-secondary, #f5f5f5);
+    transform: scale(1.05);
+  }
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  svg {
+    width: 16px;
+    height: 16px;
+    stroke-width: 2;
+  }
+}
+
+// ==========================================================================
+// Fullscreen Mode
+// ==========================================================================
+
+.excalidraw-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 999;
+  cursor: pointer;
+}
+
+.excalidraw-svg.enlarged {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90vw;
+  height: 90vh;
+  max-width: none;
+  z-index: 1000;
+  background: var(--background-primary, white);
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  margin: 0;
+
+  svg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .excalidraw-controls {
+    opacity: 1;
+    top: 16px;
+    right: 16px;
+  }
+}
+
+// ==========================================================================
+// Standalone Diagram Page Layout
+// ==========================================================================
+
+.diagram-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  header {
+    margin-bottom: 1.5rem;
+
+    h1 {
+      margin-bottom: 0.5rem;
+      font-size: 2rem;
+    }
+  }
+
+  .diagram-description {
+    color: var(--text-muted, #666);
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+  }
+
+  .diagram-meta {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--background-modifier-border, #ddd);
+    font-size: 0.9rem;
+    color: var(--text-muted, #666);
+  }
+}
+
+// Full-width diagram container for standalone pages
+.excalidraw-fullpage {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--background-secondary, #f8f8f8);
+  border-radius: 12px;
+  padding: 2rem;
+
+  .excalidraw-svg {
+    width: 100%;
+    height: auto;
+    min-height: 50vh;
+    background: transparent;
+    border: none;
+    margin: 0;
+
+    svg {
+      max-height: 80vh;
+      width: auto;
+      margin: 0 auto;
+    }
+  }
+}
+
+// ==========================================================================
+// Error and Loading States
+// ==========================================================================
+
+.excalidraw-missing,
+.excalidraw-error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  padding: 2rem;
+  background: var(--background-secondary, #f5f5f5);
+  border: 2px dashed var(--background-modifier-border, #ddd);
+  border-radius: 8px;
+  color: var(--text-muted, #666);
+  font-style: italic;
+  text-align: center;
+}
+
+.excalidraw-error {
+  border-color: var(--text-error, #ff5555);
+  color: var(--text-error, #ff5555);
+}
+
+.excalidraw-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  background: var(--background-secondary, #f5f5f5);
+  border-radius: 8px;
+
+  &::after {
+    content: '';
+    width: 32px;
+    height: 32px;
+    border: 3px solid var(--background-modifier-border, #ddd);
+    border-top-color: var(--text-accent, #448aff);
+    border-radius: 50%;
+    animation: excalidraw-spin 0.8s linear infinite;
+  }
+}
+
+@keyframes excalidraw-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+// ==========================================================================
+// Backlinks Section for Diagrams
+// ==========================================================================
+
+.diagram-backlinks {
+  margin-top: 2rem;
+
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: var(--text-normal, #333);
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--background-secondary, #f5f5f5);
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--text-normal, #333);
+    transition: all 0.15s ease;
+
+    &:hover {
+      background: var(--background-modifier-hover, #eee);
+      color: var(--text-accent, #448aff);
+    }
+  }
+}
+
+// ==========================================================================
+// Dark Theme Adjustments
+// ==========================================================================
+
+.theme-dark {
+  .excalidraw-svg {
+    background: var(--background-secondary, #2d2d2d);
+    border-color: var(--background-modifier-border, #444);
+  }
+
+  .excalidraw-control {
+    background: var(--background-secondary, #2d2d2d);
+    color: var(--text-normal, #ddd);
+
+    &:hover {
+      background: var(--background-modifier-hover, #3d3d3d);
+    }
+  }
+
+  .excalidraw-svg.enlarged {
+    background: var(--background-primary, #1a1a1a);
+  }
+
+  .excalidraw-backdrop {
+    background: rgba(0, 0, 0, 0.9);
+  }
+
+  .excalidraw-fullpage {
+    background: var(--background-secondary, #2d2d2d);
+  }
+}
+
+// ==========================================================================
+// Responsive Adjustments
+// ==========================================================================
+
+@media (max-width: 768px) {
+  .excalidraw-svg {
+    margin: 1rem 0;
+  }
+
+  .excalidraw-controls {
+    opacity: 1; // Always visible on mobile
+    top: 4px;
+    right: 4px;
+  }
+
+  .excalidraw-control {
+    width: 40px;
+    height: 40px; // Larger touch targets
+
+    svg {
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .excalidraw-svg.enlarged {
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+    padding: 0.5rem;
+  }
+
+  .diagram-page {
+    padding: 1rem;
+
+    header h1 {
+      font-size: 1.5rem;
+    }
+  }
+
+  .excalidraw-fullpage {
+    min-height: 40vh;
+    padding: 1rem;
+  }
+}
+
+// ==========================================================================
+// Print Styles
+// ==========================================================================
+
+@media print {
+  .excalidraw-controls {
+    display: none;
+  }
+
+  .excalidraw-svg {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    background: white;
+    border: 1px solid #ccc;
+  }
+
+  .excalidraw-svg.enlarged {
+    position: static;
+    transform: none;
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+  }
+}

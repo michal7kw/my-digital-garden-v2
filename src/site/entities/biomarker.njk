@@ -1,0 +1,21 @@
+---
+title: Biomarkers
+permalink: /entities/biomarker/
+---
+
+<div class="entity-index">
+  <h1>📊 Biomarkers</h1>
+  <p class="entity-description">Measurable indicators of biological states or conditions</p>
+
+  <div class="entity-list">
+    {%- for note in collections.note -%}
+      {%- if (note.data.tags and 'biomarker' in note.data.tags) or note.data.type == 'biomarker' -%}
+        <div class="entity-item biomarker">
+          <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
+  <p class="back-link"><a href="/entities/">← Back to Entity Types</a></p>
+</div>

@@ -1,0 +1,21 @@
+---
+title: Proteins
+permalink: /entities/protein/
+---
+
+<div class="entity-index">
+  <h1>🧬 Proteins</h1>
+  <p class="entity-description">Proteins and molecular structures</p>
+
+  <div class="entity-list">
+    {%- for note in collections.note -%}
+      {%- if (note.data.tags and 'protein' in note.data.tags) or note.data.type == 'protein' -%}
+        <div class="entity-item protein">
+          <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
+  <p class="back-link"><a href="/entities/">← Back to Entity Types</a></p>
+</div>

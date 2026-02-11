@@ -11,21 +11,21 @@ function extractLinks(content) {
       (link) =>
         link
           .slice(2, -2)
-          .split("|")[0]
-          .replace(/.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
+          .split('|')[0]
+          .replace(/.(md|markdown)\s?$/i, '')
+          .replace('\\', '')
           .trim()
-          .split("#")[0]
+          .split('#')[0]
     ),
     ...(content.match(internalLinkRegex) || []).map(
       (link) =>
         link
           .slice(6, -1)
-          .split("|")[0]
-          .replace(/.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
+          .split('|')[0]
+          .replace(/.(md|markdown)\s?$/i, '')
+          .replace('\\', '')
           .trim()
-          .split("#")[0]
+          .split('#')[0]
     ),
   ];
 }
@@ -34,11 +34,11 @@ function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
-  let homeAlias = "/";
+  let homeAlias = '/';
   (data.collections.note || []).forEach((v, idx) => {
-    let fpath = v.filePathStem.replace("/notes/", "");
-    let parts = fpath.split("/");
-    let group = "none";
+    let fpath = v.filePathStem.replace('/notes/', '');
+    let parts = fpath.split('/');
+    let group = 'none';
     if (parts.length >= 3) {
       group = parts[parts.length - 2];
     }
@@ -47,10 +47,7 @@ function getGraph(data) {
       title: v.data.title || v.fileSlug,
       url: v.url,
       group,
-      home:
-        v.data["dg-home"] ||
-        (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
-        false,
+      home: v.data['dg-home'] || (v.data.tags && v.data.tags.indexOf('gardenEntry') > -1) || false,
       outBound: extractLinks(v.template.frontMatter.content),
       neighbors: new Set(),
       backLinks: new Set(),
@@ -58,17 +55,14 @@ function getGraph(data) {
       hide: v.data.hideInGraph || false,
     };
     stemURLs[fpath] = v.url;
-    if (
-      v.data["dg-home"] ||
-      (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
-    ) {
+    if (v.data['dg-home'] || (v.data.tags && v.data.tags.indexOf('gardenEntry') > -1)) {
       homeAlias = v.url;
     }
   });
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
-      let link = (stemURLs[olink] || olink).split("#")[0];
+      let link = (stemURLs[olink] || olink).split('#')[0];
       outBound.add(link);
     });
     node.outBound = Array.from(outBound);

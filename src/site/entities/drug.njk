@@ -1,0 +1,21 @@
+---
+title: Drugs
+permalink: /entities/drug/
+---
+
+<div class="entity-index">
+  <h1>💊 Drugs</h1>
+  <p class="entity-description">Pharmaceutical compounds and medications</p>
+
+  <div class="entity-list">
+    {%- for note in collections.note -%}
+      {%- if (note.data.tags and 'drug' in note.data.tags) or note.data.type == 'drug' -%}
+        <div class="entity-item drug">
+          <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
+  <p class="back-link"><a href="/entities/">← Back to Entity Types</a></p>
+</div>

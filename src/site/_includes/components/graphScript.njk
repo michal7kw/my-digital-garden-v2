@@ -1,8 +1,33 @@
 <script>
+    // Entity type color palette - matches _entity-types.scss
+    const entityTypeColors = {
+        biomarker: '#4CAF50',
+        drug: '#2196F3',
+        supplement: '#9C27B0',
+        condition: '#FF9800',
+        intervention: '#00BCD4',
+        hormone: '#E91E63',
+        organ: '#795548',
+        metabolite: '#607D8B',
+        gene: '#8BC34A',
+        protein: '#3F51B5',
+        neurotransmitter: '#FF5722',
+        cellularcomponent: '#009688',
+        default: '#888888'
+    };
+
+    // Active entity type filters
+    let activeEntityFilters = new Set();
+
     async function fetchGraphData() {
         const graphData = await fetch('/graph.json').then(res => res.json());
         const fullGraphData  = filterFullGraphData(graphData);
         return {graphData, fullGraphData}
+    }
+
+    function getEntityTypeColor(node) {
+        const entityType = node.entityType || node.type || 'default';
+        return entityTypeColors[entityType.toLowerCase()] || entityTypeColors.default;
     }
 
     function getNextLevelNeighbours(existing, remaining) {
@@ -28,10 +53,19 @@
         let links = JSON.parse(JSON.stringify(graphData.links));
         let currentLink = decodeURI(window.location.pathname);
         let currentNode = remaining[currentLink] || Object.values(remaining).find((v) => v.home);
+
+        // Guard: if no matching node found, return null gracefully
+        if (!currentNode) {
+            console.warn('Graph: No matching node found for current page:', currentLink);
+            return null;
+        }
+
         delete remaining[currentNode.url];
         if (!currentNode.home) {
             let home = Object.values(remaining).find((v) => v.home);
-            delete remaining[home.url];
+            if (home) {
+                delete remaining[home.url];
+            }
         }
         currentNode.current = true;
         let existing = {};
@@ -61,9 +95,13 @@
 
     function renderGraph(graphData, id, delay, fullScreen) {
         if (graphData == null) {
-            return;
+            return null;
         }
         const el = document.getElementById(id);
+        if (!el) {
+            console.warn('Graph: Element not found:', id);
+            return null;
+        }
         width = el.offsetWidth;
         height = el.offsetHeight;
         const highlightNodes = new Set();
@@ -92,40 +130,46 @@
                 } else {
                     return mutedColor;
                 }
-                
+
             })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
-                
+
+                // Get entity type color for this node
+                const nodeColor = getEntityTypeColor(node);
+
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
                 if (hoverNode == null) {
-                    ctx.fillStyle = color;
+                    ctx.fillStyle = nodeColor;
                 } else {
                     if (node == hoverNode || highlightNodes.has(node.url)) {
-                        ctx.fillStyle = color;
+                        ctx.fillStyle = nodeColor;
                     } else {
                         ctx.fillStyle = mutedColor;
                     }
                 }
-                 
+
                 ctx.fill();
-                
+
+                // Current node indicator ring
                 if (node.current) {
                     ctx.beginPath();
                     ctx.arc(node.x, node.y, nodeR + 1, 0, 2 * Math.PI, false);
                     ctx.lineWidth = 0.5;
-                    ctx.strokeStyle = color;
+                    ctx.strokeStyle = nodeColor;
                     ctx.stroke();
                 }
 
+                // Node label
                 const label = htmlDecode(node.title)
                 const fontSize = 3.5;
                 ctx.font = `${fontSize}px Sans-Serif`;
 
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'top';
+                ctx.fillStyle = color; // Label always uses default text color
                 ctx.fillText(label, node.x, node.y + nodeR + 2);
             })
             .onNodeClick(node => {
@@ -138,7 +182,7 @@
                 node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
                 }
                 hoverNode = node || null;
-                
+
             });
             if (fullScreen || (delay != null && graphData.nodes.length > 4)) {
                 setTimeout(() => {
@@ -170,12 +214,15 @@
     }
 
     function openFullGraph(fullGraphData) {
-        lucide.createIcons({
+        // Guard: only call lucide if it has finished loading
+        if (typeof lucide !== 'undefined' && lucide.createIcons) {
+            lucide.createIcons({
                 attrs: {
                     class: ["svg-icon"]
                 }
             });
-        return renderGraph(fullGraphData, "full-graph-container", 200, false);;
+        }
+        return renderGraph(fullGraphData, "full-graph-container", 200, false);
     }
 
     function closefullGraph(fullGraph) {
@@ -185,7 +232,7 @@
         return null;
     }
 </script>
-<div  x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
+<div  x-init="{graphData, fullGraphData} = await fetchGraphData();" x-data="{ graphData: null, depth: 1, graph: null, fullGraph: null, showFullGraph: false, fullScreen: false, fullGraphData: null, showLegend: false}" id="graph-component" x-bind:class="fullScreen ? 'graph graph-fs' : 'graph'" v-scope>
     <div class="graph-title-container">
         <div class="graph-title">Connected Pages</div>
         <div id="graph-controls">
@@ -202,9 +249,24 @@
                     <span id="depth-display" x-text="depth"></span>
                 </div>
                 <div class="ctrl-right">
+                    <span id="legend-btn" x-on:click="showLegend = !showLegend" title="Toggle entity type legend"><i icon-name="palette" aria-hidden="true"></i></span>
                     <span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i  icon-name="globe" aria-hidden="true"></i></span>
                     <span  id="graph-fs-btn"  x-on:click="fullScreen = !fullScreen"><i  icon-name="expand" aria-hidden="true"></i></span>
                 </div>
+        </div>
+    </div>
+    {# Entity type legend #}
+    <div x-show="showLegend" class="graph-legend" style="display: none;">
+        <div class="legend-title">Entity Types</div>
+        <div class="legend-items">
+            <div class="legend-item"><span class="legend-dot" style="background: #4CAF50;"></span> Biomarker</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #2196F3;"></span> Drug</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #9C27B0;"></span> Supplement</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #FF9800;"></span> Condition</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #00BCD4;"></span> Intervention</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #E91E63;"></span> Hormone</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #795548;"></span> Organ</div>
+            <div class="legend-item"><span class="legend-dot" style="background: #888888;"></span> Other</div>
         </div>
     </div>
     <div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph" ></div>

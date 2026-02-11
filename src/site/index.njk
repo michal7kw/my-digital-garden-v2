@@ -1,0 +1,93 @@
+---
+layout: layouts/index.njk
+title: Medical Knowledge Garden
+eleventyExcludeFromCollections: true
+---
+
+<div class="home-container">
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1>🌱 Medical Knowledge Garden</h1>
+    <p>A digital garden for exploring medical knowledge, biomarkers, interventions, and health insights</p>
+  </header>
+
+  <!-- Quick Navigation Cards -->
+  <section class="quick-nav">
+    <!-- Documentation Card -->
+    <div class="nav-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+      <h2>📚 Documentation</h2>
+      <p>Learn how to use the digital garden</p>
+      <div>
+        <a href="/docs/getting-started/">Getting Started →</a>
+        <a href="/docs/entity-types/">Entity Types Reference →</a>
+        <a href="/docs/frontmatter-reference/">Frontmatter Guide →</a>
+      </div>
+    </div>
+
+    <!-- Personal Health Card -->
+    <div class="nav-card" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+      <h2>💊 Health Dashboard</h2>
+      <p>Track your health metrics and insights</p>
+      <div>
+        <a href="/personal-health-dashboard/">View Dashboard →</a>
+        <a href="/lab-tests/">Lab Tests →</a>
+        <a href="/daily-metrics/">Daily Metrics →</a>
+      </div>
+    </div>
+
+    <!-- Knowledge Graph Card -->
+    <div class="nav-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+      <h2>🔗 Knowledge Graph</h2>
+      <p>Explore entity relationships</p>
+      <div>
+        <a href="/graph/">Explore Graph →</a>
+        <a href="/search/">Search →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Entity Categories -->
+  <section class="entity-categories">
+    <h2>Browse by Entity Type</h2>
+    <div class="entity-types-grid">
+      <a href="/entities/biomarker/" class="entity-type-card biomarker">
+        <span class="icon">📊</span>
+        <span class="label">Biomarkers</span>
+      </a>
+
+      <a href="/entities/drug/" class="entity-type-card drug">
+        <span class="icon">💊</span>
+        <span class="label">Drugs</span>
+      </a>
+
+      <a href="/entities/supplement/" class="entity-type-card supplement">
+        <span class="icon">🌿</span>
+        <span class="label">Supplements</span>
+      </a>
+
+      <a href="/entities/condition/" class="entity-type-card condition">
+        <span class="icon">🏥</span>
+        <span class="label">Conditions</span>
+      </a>
+
+      <a href="/entities/intervention/" class="entity-type-card intervention">
+        <span class="icon">⚡</span>
+        <span class="label">Interventions</span>
+      </a>
+
+      <a href="/entities/protein/" class="entity-type-card protein">
+        <span class="icon">🧬</span>
+        <span class="label">Proteins</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Footer Info -->
+  <footer class="home-footer">
+    <p>Medical Knowledge Graph Platform</p>
+    <p>
+      Built with <a href="https://www.11ty.dev/">Eleventy</a> •
+      Powered by Neo4j Knowledge Graph
+    </p>
+  </footer>
+</div>

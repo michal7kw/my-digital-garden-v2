@@ -1,0 +1,21 @@
+---
+title: Conditions
+permalink: /entities/condition/
+---
+
+<div class="entity-index">
+  <h1>🏥 Conditions</h1>
+  <p class="entity-description">Medical conditions and diseases</p>
+
+  <div class="entity-list">
+    {%- for note in collections.note -%}
+      {%- if (note.data.tags and 'condition' in note.data.tags) or note.data.type == 'condition' -%}
+        <div class="entity-item condition">
+          <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
+  <p class="back-link"><a href="/entities/">← Back to Entity Types</a></p>
+</div>
