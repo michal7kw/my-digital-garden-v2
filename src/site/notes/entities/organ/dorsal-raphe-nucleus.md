@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.911752Z'
+created: '2026-02-13T19:27:05.856268Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Dorsal Raphe Nucleus
 type: organ
-updated: '2026-02-13T19:12:34.911752Z'
+updated: '2026-02-13T19:27:05.856268Z'
 ---
 
 {% raw %}

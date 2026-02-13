@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.288996Z'
+created: '2026-02-13T19:27:04.027258Z'
 description: A highly contagious infection of the conjunctiva caused by bacteria,
   characterized by purulent discharge and redness.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Conjunctivitis
 type: condition
-updated: '2026-02-13T19:12:33.288996Z'
+updated: '2026-02-13T19:27:04.027258Z'
 ---
 
 {% raw %}

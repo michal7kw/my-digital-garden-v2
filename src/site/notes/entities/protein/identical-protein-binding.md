@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.795618Z'
+created: '2026-02-13T19:27:07.358849Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: identical protein binding
 type: protein
-updated: '2026-02-13T19:12:35.795618Z'
+updated: '2026-02-13T19:27:07.358849Z'
 ---
 
 {% raw %}

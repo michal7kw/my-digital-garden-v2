@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.608718Z'
+created: '2026-02-13T19:27:04.473967Z'
 description: A progressive neurodegenerative disorder characterized by motor symptoms
   including tremor, rigidity, and bradykinesia, caused by dopaminergic neuron loss
   in the substantia nigra and alpha-synuclein aggregation.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Parkinson's Disease
 type: condition
-updated: '2026-02-13T19:12:33.608718Z'
+updated: '2026-02-13T19:27:04.473967Z'
 ---
 
 {% raw %}

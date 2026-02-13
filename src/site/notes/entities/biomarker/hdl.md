@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:32.931473Z'
+created: '2026-02-13T19:27:03.492232Z'
 description: High-density lipoprotein (HDL) cholesterol transports cholesterol away
   from arteries. Higher levels are protective against cardiovascular disease.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Hdl
 type: biomarker
-updated: '2026-02-13T19:12:32.931473Z'
+updated: '2026-02-13T19:27:03.492232Z'
 ---
 
 {% raw %}

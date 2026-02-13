@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.913539Z'
+created: '2026-02-13T19:27:07.514577Z'
 description: First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown
   mitochondria to reverse age-related bioenergetic decline.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 2025 Mitrix Bio Mitochondrial Transplantation Trial
 type: research
-updated: '2026-02-13T19:12:35.913539Z'
+updated: '2026-02-13T19:27:07.514577Z'
 ---
 
 {% raw %}

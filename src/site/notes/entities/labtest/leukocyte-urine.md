@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.286558Z'
+created: '2026-02-13T19:27:05.410677Z'
 description: Tested twice a year Leukocytes (white blood cells) are part of the immune
   system and normally help the body fight infection. When they appear in urine, which
   is called leukocyturia, it can signal inflammation in the urinary tract.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: leukocyte_urine
 type: labtest
-updated: '2026-02-13T19:12:34.286558Z'
+updated: '2026-02-13T19:27:05.410677Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.697821Z'
+created: '2026-02-13T19:27:04.624585Z'
 description: A blockage that inhibits the normal flow of urine through the urinary
   tract, potentially leading to kidney damage and infection.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Obstruction
 type: condition
-updated: '2026-02-13T19:12:33.697821Z'
+updated: '2026-02-13T19:27:04.624585Z'
 ---
 
 {% raw %}

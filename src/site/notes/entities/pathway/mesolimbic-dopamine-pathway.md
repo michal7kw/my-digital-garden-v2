@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.212674Z'
+created: '2026-02-13T19:27:06.487584Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mesolimbic Dopamine Pathway
 type: pathway
-updated: '2026-02-13T19:12:35.212674Z'
+updated: '2026-02-13T19:27:06.487584Z'
 ---
 
 {% raw %}

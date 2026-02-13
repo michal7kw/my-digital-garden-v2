@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.985302Z'
+created: '2026-02-13T19:27:05.968302Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus
 type: organ
-updated: '2026-02-13T19:12:34.985302Z'
+updated: '2026-02-13T19:27:05.968302Z'
 ---
 
 {% raw %}

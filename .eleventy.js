@@ -118,6 +118,10 @@ function getAnchorAttributes(filePath, linkTitle) {
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 module.exports = function (eleventyConfig) {
+  // Don't use .gitignore for Eleventy's ignore list — generated entity files
+  // in src/site/notes/entities/ are gitignored but must be processed by Eleventy.
+  eleventyConfig.setUseGitIgnore(false);
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
@@ -570,9 +574,9 @@ module.exports = function (eleventyConfig) {
           const notesDir = './src/site/notes/entities/';
           let resolvedType = 'biomarker'; // fallback default
           try {
-            const entityTypes = fs.readdirSync(notesDir).filter(d =>
-              fs.statSync(path.join(notesDir, d)).isDirectory()
-            );
+            const entityTypes = fs
+              .readdirSync(notesDir)
+              .filter((d) => fs.statSync(path.join(notesDir, d)).isDirectory());
             for (const type of entityTypes) {
               const testPath = path.join(notesDir, type, `${displayName}.md`);
               const testPathSlug = path.join(notesDir, type, `${encodedName}.md`);
@@ -581,7 +585,9 @@ module.exports = function (eleventyConfig) {
                 break;
               }
             }
-          } catch (e) { /* directory doesn't exist yet, use fallback */ }
+          } catch (e) {
+            /* directory doesn't exist yet, use fallback */
+          }
           return `href="/notes/entities/${resolvedType}/${encodedName}/" class="excalidraw-link" data-internal-link`;
         });
 

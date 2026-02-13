@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.362203Z'
+created: '2026-02-13T19:27:04.149772Z'
 description: Cancer that starts in the colon or rectum, usually beginning as a growth
   called a polyp.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Colorectal Neoplasms
 type: condition
-updated: '2026-02-13T19:12:33.362203Z'
+updated: '2026-02-13T19:27:04.149772Z'
 ---
 
 {% raw %}

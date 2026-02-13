@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.512379Z'
+created: '2026-02-13T19:27:04.345424Z'
 description: A condition where a woman has a lower number of eggs remaining in her
   ovaries than expected for her age, which can impact fertility.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Low Ovarian Reserve
 type: condition
-updated: '2026-02-13T19:12:33.512379Z'
+updated: '2026-02-13T19:27:04.345424Z'
 ---
 
 {% raw %}

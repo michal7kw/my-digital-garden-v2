@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.953739Z'
+created: '2026-02-13T19:27:04.968998Z'
 description: Insulin-like Growth Factor 1. An anabolic hormone structurally similar
   to insulin that promotes growth and tissue repair but inhibits longevity pathways
   (mTOR activation).
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: IGF-1
 type: hormone
-updated: '2026-02-13T19:12:33.953739Z'
+updated: '2026-02-13T19:27:04.968998Z'
 ---
 
 {% raw %}

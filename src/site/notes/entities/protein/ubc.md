@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.908809Z'
+created: '2026-02-13T19:27:07.506246Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: UBC
 type: protein
-updated: '2026-02-13T19:12:35.908809Z'
+updated: '2026-02-13T19:27:07.506246Z'
 ---
 
 {% raw %}

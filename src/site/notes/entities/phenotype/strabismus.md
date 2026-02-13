@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.630206Z'
+created: '2026-02-13T19:27:07.139103Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Strabismus
 type: phenotype
-updated: '2026-02-13T19:12:35.630206Z'
+updated: '2026-02-13T19:27:07.139103Z'
 ---
 
 {% raw %}

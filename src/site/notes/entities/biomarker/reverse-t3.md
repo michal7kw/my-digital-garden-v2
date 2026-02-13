@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.046282Z'
+created: '2026-02-13T19:27:03.663695Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Reverse T3
 type: biomarker
-updated: '2026-02-13T19:12:33.046282Z'
+updated: '2026-02-13T19:27:03.663695Z'
 ---
 
 {% raw %}

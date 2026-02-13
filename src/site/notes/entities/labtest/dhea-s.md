@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.125074Z'
+created: '2026-02-13T19:27:05.229022Z'
 description: Adrenal androgen precursor. Marker for adrenal function and biological
   aging.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: dhea_s
 type: labtest
-updated: '2026-02-13T19:12:34.125074Z'
+updated: '2026-02-13T19:27:05.229022Z'
 ---
 
 {% raw %}

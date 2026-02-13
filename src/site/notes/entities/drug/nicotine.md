@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.834842Z'
+created: '2026-02-13T19:27:04.784692Z'
 description: Nicotine is a naturally occurring alkaloid found in tobacco plants that
   acts as a nicotinic acetylcholine receptor agonist. It influences mitochondrial
   function both in vitro and in vivo, affecting the respiratory chain, oxidative stress,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotine
 type: drug
-updated: '2026-02-13T19:12:33.834842Z'
+updated: '2026-02-13T19:27:04.784692Z'
 ---
 
 {% raw %}

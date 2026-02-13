@@ -3,3 +3,6 @@ dist/
 .cache/
 .env
 *.log
+
+# Generated entity content (source of truth is curated_kg/entities/)
+src/site/notes/entities/

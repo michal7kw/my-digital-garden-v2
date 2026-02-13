@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.290850Z'
+created: '2026-02-13T19:27:06.611015Z'
 description: The serotonin synthesis pathway converts the essential amino acid tryptophan
   to serotonin (5-HT) through two enzymatic steps, producing the neurotransmitter
   crucial for mood, sleep, appetite, and cognition.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin Synthesis
 type: pathway
-updated: '2026-02-13T19:12:35.290850Z'
+updated: '2026-02-13T19:27:06.611015Z'
 ---
 
 {% raw %}

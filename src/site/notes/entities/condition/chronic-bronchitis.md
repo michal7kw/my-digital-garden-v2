@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.322636Z'
+created: '2026-02-13T19:27:04.086132Z'
 description: A long-term inflammatory condition of the bronchial tubes, characterized
   by a persistent mucus-producing cough lasting at least three months per year for
   two consecutive years.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Bronchitis
 type: condition
-updated: '2026-02-13T19:12:33.322636Z'
+updated: '2026-02-13T19:27:04.086132Z'
 ---
 
 {% raw %}

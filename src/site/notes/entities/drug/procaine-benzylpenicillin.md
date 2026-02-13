@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.863914Z'
+created: '2026-02-13T19:27:04.813557Z'
 description: A long-acting form of Penicillin G combined with procaine to slow absorption
   and reduce injection site pain.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Procaine Benzylpenicillin
 type: drug
-updated: '2026-02-13T19:12:33.863914Z'
+updated: '2026-02-13T19:27:04.813557Z'
 ---
 
 {% raw %}

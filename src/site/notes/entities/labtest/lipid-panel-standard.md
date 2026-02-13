@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.294682Z'
+created: '2026-02-13T19:27:05.431177Z'
 description: Measures total cholesterol, LDL, HDL, and triglycerides. Essential for
   cardiovascular risk assessment.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: lipid_panel_standard
 type: labtest
-updated: '2026-02-13T19:12:34.294682Z'
+updated: '2026-02-13T19:27:05.431177Z'
 ---
 
 {% raw %}

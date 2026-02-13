@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.677190Z'
+created: '2026-02-13T19:27:04.588146Z'
 description: Cancer developing from the lining of the stomach, most commonly adenocarcinoma.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Stomach Neoplasms
 type: condition
-updated: '2026-02-13T19:12:33.677190Z'
+updated: '2026-02-13T19:27:04.588146Z'
 ---
 
 {% raw %}

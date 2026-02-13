@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.039941Z'
+created: '2026-02-13T19:27:03.651603Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Platelets
 type: biomarker
-updated: '2026-02-13T19:12:33.039941Z'
+updated: '2026-02-13T19:27:03.651603Z'
 ---
 
 {% raw %}

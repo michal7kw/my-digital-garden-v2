@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.281117Z'
+created: '2026-02-13T19:27:06.593917Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonergic Raphe Pathways
 type: pathway
-updated: '2026-02-13T19:12:35.281117Z'
+updated: '2026-02-13T19:27:06.593917Z'
 ---
 
 {% raw %}

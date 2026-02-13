@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.714875Z'
+created: '2026-02-13T19:27:07.238731Z'
 description: AMP-activated protein kinase, the master cellular energy sensor that
   responds to decreased ATP/AMP ratio by activating catabolic pathways (fatty acid
   oxidation, autophagy) and inhibiting anabolic pathways (protein synthesis, lipogenesis).
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: AMPK
 type: protein
-updated: '2026-02-13T19:12:35.714875Z'
+updated: '2026-02-13T19:27:07.238731Z'
 ---
 
 {% raw %}

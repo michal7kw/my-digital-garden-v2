@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.833212Z'
+created: '2026-02-13T19:27:04.782110Z'
 description: Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift
   work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from
   traditional stimulants.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Modafinil
 type: drug
-updated: '2026-02-13T19:12:33.833212Z'
+updated: '2026-02-13T19:27:04.782110Z'
 ---
 
 {% raw %}

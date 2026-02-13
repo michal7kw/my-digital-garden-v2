@@ -105,6 +105,11 @@ module.exports = {
         return '/';
       }
 
+      // If explicit permalink is set in frontmatter, use it
+      if (data.permalink) {
+        return data.permalink;
+      }
+
       // Extract garden info from file path
       const { gardenUsername, entityType } = extractGardenInfo(data.page?.inputPath);
 

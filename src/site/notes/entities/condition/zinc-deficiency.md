@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.717695Z'
+created: '2026-02-13T19:27:04.654262Z'
 description: A nutritional deficiency state characterized by insufficient levels of
   zinc, an essential trace element involved in immune function, protein synthesis,
   and wound healing.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc Deficiency
 type: condition
-updated: '2026-02-13T19:12:33.717695Z'
+updated: '2026-02-13T19:27:04.654262Z'
 ---
 
 {% raw %}

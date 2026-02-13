@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:32.943520Z'
+created: '2026-02-13T19:27:03.512465Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Igf1
 type: biomarker
-updated: '2026-02-13T19:12:32.943520Z'
+updated: '2026-02-13T19:27:03.512465Z'
 ---
 
 {% raw %}

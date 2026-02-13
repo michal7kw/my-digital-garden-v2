@@ -1,8 +1,12 @@
 ---
 title: Knowledge Graph Explorer
-layout: layouts/note.njk
+layout: layouts/index.njk
 permalink: /graph/
 eleventyExcludeFromCollections: true
+dgShowFileTree: false
+dgShowBacklinks: false
+dgShowLocalGraph: false
+dgShowToc: false
 ---
 
 <div class="graph-explorer" id="graph-explorer">
@@ -17,6 +21,9 @@ eleventyExcludeFromCollections: true
     <div class="loading-spinner"></div>
     <span>Loading graph data...</span>
   </div>
+
+  <!-- Flex Body: Controls + Graph -->
+  <div class="graph-body">
 
   <!-- Control Panel -->
   <div class="graph-control-panel" id="control-panel">
@@ -60,14 +67,6 @@ eleventyExcludeFromCollections: true
         </div>
       </div>
 
-      <!-- Physics Controls -->
-      <div class="control-section">
-        <label class="control-label">Physics Simulation</label>
-        <div class="physics-controls">
-          <button class="control-btn active" id="physics-toggle">▶ Running</button>
-        </div>
-      </div>
-
       <!-- Node Size -->
       <div class="control-section">
         <label class="control-label">Node Size: <span id="node-size-value">1.0</span>x</label>
@@ -80,12 +79,20 @@ eleventyExcludeFromCollections: true
         <input type="range" id="link-distance" class="control-slider" min="10" max="100" step="5" value="30">
       </div>
 
+      <!-- Show All toggle -->
+      <div class="control-section">
+        <button class="control-btn full-width" id="show-all-toggle">Show All Nodes</button>
+      </div>
+
       <!-- Full Screen -->
       <div class="control-section">
         <button class="control-btn full-width" id="fullscreen-toggle">⛶ Full Screen</button>
       </div>
     </div>
   </div>
+
+  <!-- Graph Main Area -->
+  <div class="graph-main">
 
   <!-- Legend Panel -->
   <div class="graph-legend" id="graph-legend">
@@ -120,6 +127,9 @@ eleventyExcludeFromCollections: true
   <!-- Tooltip -->
   <div class="graph-tooltip" id="graph-tooltip"></div>
 
+  </div><!-- /.graph-main -->
+  </div><!-- /.graph-body -->
+
   <!-- Back Link -->
   <p class="back-link"><a href="/">← Back to Home</a></p>
 </div>
@@ -147,14 +157,75 @@ eleventyExcludeFromCollections: true
     default: '#888888'
   };
 
+  const MAX_GRAPH_NODES = 100;
   let nodeScale = 1.0;
   let linkDistance = 30;
   let activeFilters = new Set(['all']);
   let highlightNodes = new Set();
   let hoverNode = null;
   let searchHighlight = null;
-  let isPaused = false;
+  let showAllNodes = false;
   let originalData = null;
+
+  // Sample a dense, type-diverse subgraph via greedy expansion
+  function sampleDenseSubgraph(nodes, links, maxNodes) {
+    if (nodes.length <= maxNodes) return { nodes, links };
+
+    const adj = {};
+    const nodeById = {};
+    nodes.forEach(n => { adj[n.id] = []; nodeById[n.id] = n; });
+    links.forEach(l => {
+      const sid = typeof l.source === 'object' ? l.source.id : l.source;
+      const tid = typeof l.target === 'object' ? l.target.id : l.target;
+      if (adj[sid]) adj[sid].push(tid);
+      if (adj[tid]) adj[tid].push(sid);
+    });
+
+    // Seed: one high-degree node per entity type
+    const byType = {};
+    nodes.forEach(n => {
+      const t = getEntityType(n);
+      if (!byType[t]) byType[t] = [];
+      byType[t].push(n);
+    });
+    const pickedSet = new Set();
+    const pickedList = [];
+    Object.keys(byType).forEach(t => {
+      byType[t].sort((a, b) => (adj[b.id].length) - (adj[a.id].length));
+      const seed = byType[t][0];
+      if (seed && !pickedSet.has(seed.id)) {
+        pickedSet.add(seed.id);
+        pickedList.push(seed);
+      }
+    });
+
+    // Greedy expand: pick candidate with most links to picked set
+    while (pickedList.length < maxNodes) {
+      let bestNode = null;
+      let bestScore = 0;
+      const candidates = new Set();
+      pickedList.forEach(n => {
+        adj[n.id].forEach(nid => {
+          if (!pickedSet.has(nid) && nodeById[nid]) candidates.add(nid);
+        });
+      });
+      candidates.forEach(cid => {
+        let score = 0;
+        adj[cid].forEach(nid => { if (pickedSet.has(nid)) score++; });
+        if (score > bestScore) { bestScore = score; bestNode = nodeById[cid]; }
+      });
+      if (!bestNode) break;
+      pickedSet.add(bestNode.id);
+      pickedList.push(bestNode);
+    }
+
+    const sampledLinks = links.filter(l => {
+      const sid = typeof l.source === 'object' ? l.source.id : l.source;
+      const tid = typeof l.target === 'object' ? l.target.id : l.target;
+      return pickedSet.has(sid) && pickedSet.has(tid);
+    });
+    return { nodes: pickedList, links: sampledLinks };
+  }
 
   // =========================================================================
   // Utility Functions
@@ -227,8 +298,10 @@ eleventyExcludeFromCollections: true
   const bgColor = getCssVar('--background-primary') || '#201f1f';
   const linkColor = getCssVar('--background-modifier-border') || '#444444';
 
+  const initialData = sampleDenseSubgraph(originalData.nodes, originalData.links, MAX_GRAPH_NODES);
+
   const Graph = ForceGraph()(container)
-    .graphData(JSON.parse(JSON.stringify(originalData)))
+    .graphData(JSON.parse(JSON.stringify(initialData)))
     .nodeId('id')
     .linkSource('source')
     .linkTarget('target')
@@ -356,12 +429,25 @@ eleventyExcludeFromCollections: true
   // Update link distance
   Graph.d3Force('link').distance(linkDistance);
 
-  // Initial zoom to fit
-  setTimeout(() => Graph.zoomToFit(400, 60), 800);
+  // Resize canvas to actual container size, then zoom to fit
+  setTimeout(() => {
+    Graph.width(container.clientWidth).height(container.clientHeight);
+    Graph.zoomToFit(400, 60);
+  }, 300);
+  setTimeout(() => Graph.zoomToFit(400, 60), 1200);
 
   // Update stats
-  document.getElementById('graph-stats').innerHTML =
-    `<strong>${originalData.nodes.length}</strong> entities • <strong>${originalData.links.length}</strong> connections`;
+  function updateStats(displayed, total) {
+    const statsEl = document.getElementById('graph-stats');
+    if (displayed.nodes.length < total.nodes.length) {
+      statsEl.innerHTML =
+        `<strong>${displayed.nodes.length}</strong> of ${total.nodes.length} entities • <strong>${displayed.links.length}</strong> connections`;
+    } else {
+      statsEl.innerHTML =
+        `<strong>${displayed.nodes.length}</strong> entities • <strong>${displayed.links.length}</strong> connections`;
+    }
+  }
+  updateStats(initialData, originalData);
 
   // =========================================================================
   // Tooltip Position Tracking
@@ -405,20 +491,6 @@ eleventyExcludeFromCollections: true
     Graph.centerAt(0, 0, 300);
   });
 
-  // Physics toggle
-  document.getElementById('physics-toggle').addEventListener('click', (e) => {
-    isPaused = !isPaused;
-    if (isPaused) {
-      Graph.pauseAnimation();
-      e.target.textContent = '⏸ Paused';
-      e.target.classList.remove('active');
-    } else {
-      Graph.resumeAnimation();
-      e.target.textContent = '▶ Running';
-      e.target.classList.add('active');
-    }
-  });
-
   // Node size slider
   document.getElementById('node-size').addEventListener('input', (e) => {
     nodeScale = parseFloat(e.target.value);
@@ -433,6 +505,20 @@ eleventyExcludeFromCollections: true
     Graph.d3Force('link').distance(linkDistance);
     Graph.d3ReheatSimulation();
   });
+
+  // Show all toggle
+  document.getElementById('show-all-toggle').addEventListener('click', () => {
+    showAllNodes = !showAllNodes;
+    applyFilters();
+  });
+  // Set initial button text
+  if (originalData.nodes.length > MAX_GRAPH_NODES) {
+    document.getElementById('show-all-toggle').textContent = `Show All (${originalData.nodes.length})`;
+  } else {
+    const btn = document.getElementById('show-all-toggle');
+    btn.textContent = `Showing All (${originalData.nodes.length})`;
+    btn.classList.add('active');
+  }
 
   // Full screen toggle
   document.getElementById('fullscreen-toggle').addEventListener('click', () => {
@@ -486,27 +572,34 @@ eleventyExcludeFromCollections: true
   });
 
   function applyFilters() {
+    let pool, totalPool;
     if (activeFilters.has('all')) {
-      Graph.graphData(JSON.parse(JSON.stringify(originalData)));
+      pool = { nodes: originalData.nodes, links: originalData.links };
     } else {
-      const filteredNodes = originalData.nodes.filter(node => {
-        const type = getEntityType(node);
-        return activeFilters.has(type);
-      });
+      const filteredNodes = originalData.nodes.filter(node => activeFilters.has(getEntityType(node)));
       const nodeIds = new Set(filteredNodes.map(n => n.id));
       const filteredLinks = originalData.links.filter(link => {
         const s = typeof link.source === 'object' ? link.source.id : link.source;
         const t = typeof link.target === 'object' ? link.target.id : link.target;
         return nodeIds.has(s) && nodeIds.has(t);
       });
-
-      Graph.graphData({ nodes: filteredNodes, links: filteredLinks });
+      pool = { nodes: filteredNodes, links: filteredLinks };
     }
+    totalPool = pool;
 
-    // Update stats
-    const data = Graph.graphData();
-    document.getElementById('graph-stats').innerHTML =
-      `<strong>${data.nodes.length}</strong> entities • <strong>${data.links.length}</strong> connections`;
+    const displayData = showAllNodes ? pool : sampleDenseSubgraph(pool.nodes, pool.links, MAX_GRAPH_NODES);
+    Graph.graphData(JSON.parse(JSON.stringify(displayData)));
+    updateStats(displayData, totalPool);
+
+    // Update show-all button text
+    const btn = document.getElementById('show-all-toggle');
+    if (showAllNodes || pool.nodes.length <= MAX_GRAPH_NODES) {
+      btn.textContent = `Showing All (${pool.nodes.length})`;
+      btn.classList.add('active');
+    } else {
+      btn.textContent = `Show All (${pool.nodes.length})`;
+      btn.classList.remove('active');
+    }
 
     setTimeout(() => Graph.zoomToFit(400, 60), 300);
   }

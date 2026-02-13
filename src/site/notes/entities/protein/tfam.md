@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.899640Z'
+created: '2026-02-13T19:27:07.496647Z'
 description: Mitochondrial transcription factor A, essential for mitochondrial DNA
   replication, transcription, and maintenance. A nuclear-encoded protein that packages
   mtDNA into nucleoids and is required for mitochondrial biogenesis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: TFAM
 type: protein
-updated: '2026-02-13T19:12:35.899640Z'
+updated: '2026-02-13T19:27:07.496647Z'
 ---
 
 {% raw %}

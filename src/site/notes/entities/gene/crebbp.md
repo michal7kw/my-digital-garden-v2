@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:33.933140Z'
+created: '2026-02-13T19:27:04.931646Z'
 description: Encodes CREB-binding protein, a histone acetyltransferase and transcriptional
   coactivator.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CREBBP
 type: gene
-updated: '2026-02-13T19:12:33.933140Z'
+updated: '2026-02-13T19:27:04.931646Z'
 ---
 
 {% raw %}

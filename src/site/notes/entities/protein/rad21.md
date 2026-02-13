@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:35.847140Z'
+created: '2026-02-13T19:27:07.431972Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: RAD21
 type: protein
-updated: '2026-02-13T19:12:35.847140Z'
+updated: '2026-02-13T19:27:07.431972Z'
 ---
 
 {% raw %}

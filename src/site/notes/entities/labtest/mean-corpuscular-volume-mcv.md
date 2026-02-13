@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.335449Z'
+created: '2026-02-13T19:27:05.469212Z'
 description: Tested twice a year Mean corpuscular volume (MCV) looks at the average
   size of red blood cells, the cells that carry oxygen throughout the body. Smaller-than-normal
   cells (low MCV) are often linked to iron deficiency anemia or thalassemia, while
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: mean_corpuscular_volume_mcv
 type: labtest
-updated: '2026-02-13T19:12:34.335449Z'
+updated: '2026-02-13T19:27:05.469212Z'
 ---
 
 {% raw %}

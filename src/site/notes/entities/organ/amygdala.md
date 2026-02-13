@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:12:34.871580Z'
+created: '2026-02-13T19:27:05.813192Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Amygdala
 type: organ
-updated: '2026-02-13T19:12:34.871580Z'
+updated: '2026-02-13T19:27:05.813192Z'
 ---
 
 {% raw %}
