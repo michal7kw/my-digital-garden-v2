@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.921708Z'
+created: '2026-02-13T19:12:33.822521Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lisinopril
 type: drug
-updated: '2026-02-13T19:04:38.921708Z'
+updated: '2026-02-13T19:12:33.822521Z'
 ---
 
 {% raw %}

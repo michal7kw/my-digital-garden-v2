@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.023148Z'
+created: '2026-02-13T19:12:33.902018Z'
 description: A procedure to collect cerebrospinal fluid (CSF) for analysis of neurodegeneration
   biomarkers including amyloid-beta, tau proteins, and emerging markers. Essential
   for ATN classification and dementia diagnosis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lumbar Puncture
 type: examination
-updated: '2026-02-13T19:04:39.023148Z'
+updated: '2026-02-13T19:12:33.902018Z'
 ---
 
 {% raw %}

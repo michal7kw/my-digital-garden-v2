@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:41.253364Z'
+created: '2026-02-13T19:12:36.043448Z'
 description: Nicotinamide mononucleotide, a direct precursor to NAD+. Emerging longevity
   supplement that may support cellular energy, DNA repair, and healthy aging.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NMN
 type: supplement
-updated: '2026-02-13T19:04:41.253364Z'
+updated: '2026-02-13T19:12:36.043448Z'
 ---
 
 {% raw %}

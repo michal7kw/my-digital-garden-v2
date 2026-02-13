@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.769075Z'
+created: '2026-02-13T19:12:33.678441Z'
 description: A mild form of hypothyroidism characterized by slightly elevated TSH
   levels despite normal free T4 levels, often asymptomatic but carrying risks for
   progression.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Subclinical Hypothyroidism
 type: condition
-updated: '2026-02-13T19:04:38.769075Z'
+updated: '2026-02-13T19:12:33.678441Z'
 ---
 
 {% raw %}

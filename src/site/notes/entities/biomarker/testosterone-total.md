@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:37.947799Z'
+created: '2026-02-13T19:12:33.060181Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone Total
 type: biomarker
-updated: '2026-02-13T19:04:37.947799Z'
+updated: '2026-02-13T19:12:33.060181Z'
 ---
 
 {% raw %}

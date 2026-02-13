@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.154612Z'
+created: '2026-02-13T19:12:33.996612Z'
 description: A metabolic intervention where the proton gradient in mitochondria is
   dissipated (leaked) without generating ATP, forcing the cell to burn more fuel to
   maintain the potential. Mimics exercise and activates thermogenesis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Uncoupling
 type: intervention
-updated: '2026-02-13T19:04:39.154612Z'
+updated: '2026-02-13T19:12:33.996612Z'
 ---
 
 {% raw %}

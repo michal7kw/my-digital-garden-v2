@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.713458Z'
+created: '2026-02-13T19:12:34.827879Z'
 description: Comprehensive evaluation of blood clotting function covering both intrinsic
   and extrinsic pathways, fibrinolysis markers, and platelet function. Used for bleeding
   disorder evaluation, pre-surgical assessment, and thrombotic risk.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: coagulation_panel
 type: labtestpanel
-updated: '2026-02-13T19:04:39.713458Z'
+updated: '2026-02-13T19:12:34.827879Z'
 ---
 
 {% raw %}

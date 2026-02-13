@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:41.243076Z'
+created: '2026-02-13T19:12:36.033791Z'
 description: N-Acetyl Cysteine, a powerful antioxidant precursor that boosts glutathione
   production. Supports liver detoxification, respiratory health, and has emerging
   applications for mental health.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: NAC
 type: supplement
-updated: '2026-02-13T19:04:41.243076Z'
+updated: '2026-02-13T19:12:36.033791Z'
 ---
 
 {% raw %}

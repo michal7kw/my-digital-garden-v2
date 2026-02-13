@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.712504Z'
+created: '2026-02-13T19:12:33.637590Z'
 description: A mental health condition triggered by experiencing or witnessing a terrifying
   event, characterized by flashbacks, nightmares, and severe anxiety.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Post-Traumatic Stress Disorder
 type: condition
-updated: '2026-02-13T19:04:38.712504Z'
+updated: '2026-02-13T19:12:33.637590Z'
 ---
 
 {% raw %}

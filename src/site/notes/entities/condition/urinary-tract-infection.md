@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.795909Z'
+created: '2026-02-13T19:12:33.696232Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Infection
 type: condition
-updated: '2026-02-13T19:04:38.795909Z'
+updated: '2026-02-13T19:12:33.696232Z'
 ---
 
 {% raw %}

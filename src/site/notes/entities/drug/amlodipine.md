@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.833917Z'
+created: '2026-02-13T19:12:33.726572Z'
 description: Long-acting dihydropyridine calcium channel blocker for hypertension
   and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the
   most prescribed antihypertensives.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Amlodipine
 type: drug
-updated: '2026-02-13T19:04:38.833917Z'
+updated: '2026-02-13T19:12:33.726572Z'
 ---
 
 {% raw %}

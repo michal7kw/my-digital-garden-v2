@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.925927Z'
+created: '2026-02-13T19:12:33.824615Z'
 description: Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and
   anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain,
   and cancer support. Distinct from standard naltrexone dosing.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Low Dose Naltrexone
 type: drug
-updated: '2026-02-13T19:04:38.925927Z'
+updated: '2026-02-13T19:12:33.824615Z'
 ---
 
 {% raw %}

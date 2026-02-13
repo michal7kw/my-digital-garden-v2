@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:40.110651Z'
+created: '2026-02-13T19:12:35.154535Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Cholinergic Basal Forebrain Pathways
 type: pathway
-updated: '2026-02-13T19:04:40.110651Z'
+updated: '2026-02-13T19:12:35.154535Z'
 ---
 
 {% raw %}

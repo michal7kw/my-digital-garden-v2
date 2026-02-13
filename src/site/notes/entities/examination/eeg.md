@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.008756Z'
+created: '2026-02-13T19:12:33.890649Z'
 description: Recording of brain electrical activity used for seizure detection, encephalopathy
   assessment, and prognostication after cardiac arrest. Shows characteristic slowing
   in neurodegenerative diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EEG
 type: examination
-updated: '2026-02-13T19:04:39.008756Z'
+updated: '2026-02-13T19:12:33.890649Z'
 ---
 
 {% raw %}

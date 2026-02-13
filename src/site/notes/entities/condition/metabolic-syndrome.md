@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.575320Z'
+created: '2026-02-13T19:12:33.525158Z'
 description: Cluster of metabolic abnormalities including central obesity, insulin
   resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular
   disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Metabolic Syndrome
 type: condition
-updated: '2026-02-13T19:04:38.575320Z'
+updated: '2026-02-13T19:12:33.525158Z'
 ---
 
 {% raw %}

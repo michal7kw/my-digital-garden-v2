@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:41.311175Z'
+created: '2026-02-13T19:12:36.104838Z'
 description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
   for immune function, wound healing, testosterone production, and thyroid function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc
 type: supplement
-updated: '2026-02-13T19:04:41.311175Z'
+updated: '2026-02-13T19:12:36.104838Z'
 ---
 
 {% raw %}

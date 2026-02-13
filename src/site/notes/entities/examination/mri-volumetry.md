@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.027847Z'
+created: '2026-02-13T19:12:33.906412Z'
 description: Quantitative magnetic resonance imaging measuring brain structure volumes,
   particularly hippocampal atrophy. Used for neurodegeneration assessment in the ATN
   framework and clinical trials.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: MRI Volumetry
 type: examination
-updated: '2026-02-13T19:04:39.027847Z'
+updated: '2026-02-13T19:12:33.906412Z'
 ---
 
 {% raw %}

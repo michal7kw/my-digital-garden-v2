@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.078879Z'
+created: '2026-02-13T19:12:33.941211Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: FOS
 type: gene
-updated: '2026-02-13T19:04:39.078879Z'
+updated: '2026-02-13T19:12:33.941211Z'
 ---
 
 {% raw %}

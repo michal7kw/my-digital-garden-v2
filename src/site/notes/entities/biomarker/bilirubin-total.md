@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:37.682896Z'
+created: '2026-02-13T19:12:32.831941Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Total
 type: biomarker
-updated: '2026-02-13T19:04:37.682896Z'
+updated: '2026-02-13T19:12:32.831941Z'
 ---
 
 {% raw %}

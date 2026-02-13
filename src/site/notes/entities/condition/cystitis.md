@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.397158Z'
+created: '2026-02-13T19:12:33.375533Z'
 description: Inflammation of the bladder, most often caused by a bacterial urinary
   tract infection (UTI).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cystitis
 type: condition
-updated: '2026-02-13T19:04:38.397158Z'
+updated: '2026-02-13T19:12:33.375533Z'
 ---
 
 {% raw %}

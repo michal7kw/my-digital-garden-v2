@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.872505Z'
+created: '2026-02-13T19:12:34.978458Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Insula
 type: organ
-updated: '2026-02-13T19:04:39.872505Z'
+updated: '2026-02-13T19:12:34.978458Z'
 ---
 
 {% raw %}

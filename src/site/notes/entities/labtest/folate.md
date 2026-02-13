@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.351495Z'
+created: '2026-02-13T19:12:34.145592Z'
 description: B-vitamin essential for DNA synthesis. Important for pregnancy and cardiovascular
   health.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: folate
 type: labtest
-updated: '2026-02-13T19:04:39.351495Z'
+updated: '2026-02-13T19:12:34.145592Z'
 ---
 
 {% raw %}

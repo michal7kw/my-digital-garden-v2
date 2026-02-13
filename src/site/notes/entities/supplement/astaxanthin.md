@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:41.147437Z'
+created: '2026-02-13T19:12:35.963823Z'
 description: Powerful carotenoid antioxidant derived from microalgae (Haematococcus
   pluvialis). One of nature's strongest antioxidants - 6000x more potent than vitamin
   C. Protects skin, eyes, and cardiovascular system.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Astaxanthin
 type: supplement
-updated: '2026-02-13T19:04:41.147437Z'
+updated: '2026-02-13T19:12:35.963823Z'
 ---
 
 {% raw %}

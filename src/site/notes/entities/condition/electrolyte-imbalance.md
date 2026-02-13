@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.423250Z'
+created: '2026-02-13T19:12:33.399032Z'
 description: A condition where the levels of essential minerals (electrolytes) in
   the blood are too high or too low, disrupting vital bodily functions.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Electrolyte Imbalance
 type: condition
-updated: '2026-02-13T19:04:38.423250Z'
+updated: '2026-02-13T19:12:33.399032Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:41.069688Z'
+created: '2026-02-13T19:12:35.885344Z'
 description: Sirtuin 1, an NAD+-dependent deacetylase that regulates cellular metabolism,
   stress responses, and aging. Key longevity protein that removes acetyl groups from
   histone and non-histone proteins, affecting gene expression and metabolic pathways.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: SIRT1
 type: protein
-updated: '2026-02-13T19:04:41.069688Z'
+updated: '2026-02-13T19:12:35.885344Z'
 ---
 
 {% raw %}

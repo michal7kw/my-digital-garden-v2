@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.940644Z'
+created: '2026-02-13T19:12:35.028588Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Periaqueductal Gray
 type: organ
-updated: '2026-02-13T19:04:39.940644Z'
+updated: '2026-02-13T19:12:35.028588Z'
 ---
 
 {% raw %}

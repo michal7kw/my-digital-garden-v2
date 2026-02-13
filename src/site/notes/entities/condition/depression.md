@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:38.398380Z'
+created: '2026-02-13T19:12:33.377110Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Depression
 type: condition
-updated: '2026-02-13T19:04:38.398380Z'
+updated: '2026-02-13T19:12:33.377110Z'
 ---
 
 {% raw %}

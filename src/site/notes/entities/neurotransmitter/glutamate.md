@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:04:39.737445Z'
+created: '2026-02-13T19:12:34.851874Z'
 description: The brain's primary excitatory neurotransmitter, essential for learning,
   memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate
   can cause excitotoxicity and neuronal damage.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamate
 type: neurotransmitter
-updated: '2026-02-13T19:04:39.737445Z'
+updated: '2026-02-13T19:12:34.851874Z'
 ---
 
 {% raw %}
