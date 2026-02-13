@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.069968Z'
+created: '2026-02-13T14:58:20.414221Z'
 description: Tested twice a year Ketones are energy molecules the body makes when
   it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged
   exercise. This can be a normal response, but high levels of ketones in urine (ketonuria)
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ketones_urine
 type: labtest
-updated: '2026-02-13T14:57:57.069968Z'
+updated: '2026-02-13T14:58:20.414221Z'
 ---
 
 {% raw %}

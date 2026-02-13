@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:55.865378Z'
+created: '2026-02-13T14:58:19.343360Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Folate
 type: biomarker
-updated: '2026-02-13T14:57:55.865378Z'
+updated: '2026-02-13T14:58:19.343360Z'
 ---
 
 {% raw %}

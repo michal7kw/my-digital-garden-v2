@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.490660Z'
+created: '2026-02-13T14:58:19.939959Z'
 description: Infections caused by the bacterium Streptococcus pneumoniae, ranging
   from ear and sinus infections to pneumonia and bloodstream infections.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pneumococcal Infections
 type: condition
-updated: '2026-02-13T14:57:56.490660Z'
+updated: '2026-02-13T14:58:19.939959Z'
 ---
 
 {% raw %}

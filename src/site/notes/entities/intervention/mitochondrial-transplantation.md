@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.873737Z'
+created: '2026-02-13T14:58:20.224931Z'
 description: The transfer of healthy, functional mitochondria into cells or tissues
   with damaged mitochondria. A cutting-edge "Mitotherapy" for aging and ischemic injury.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Transplantation
 type: intervention
-updated: '2026-02-13T14:57:56.873737Z'
+updated: '2026-02-13T14:58:20.224931Z'
 ---
 
 {% raw %}

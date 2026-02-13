@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.381722Z'
+created: '2026-02-13T14:58:20.730558Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Hypothalamus
 type: organ
-updated: '2026-02-13T14:57:57.381722Z'
+updated: '2026-02-13T14:58:20.730558Z'
 ---
 
 {% raw %}

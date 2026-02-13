@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:58.253160Z'
+created: '2026-02-13T14:58:21.597320Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: STAT3
 type: protein
-updated: '2026-02-13T14:57:58.253160Z'
+updated: '2026-02-13T14:58:21.597320Z'
 ---
 
 {% raw %}

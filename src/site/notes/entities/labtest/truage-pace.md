@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.260564Z'
+created: '2026-02-13T14:58:20.606233Z'
 description: Measures DunedinPACE - the rate of biological aging rather than absolute
   age.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: truage_pace
 type: labtest
-updated: '2026-02-13T14:57:57.260564Z'
+updated: '2026-02-13T14:58:20.606233Z'
 ---
 
 {% raw %}

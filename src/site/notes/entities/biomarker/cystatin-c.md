@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:55.821857Z'
+created: '2026-02-13T14:58:19.315628Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Cystatin C
 type: biomarker
-updated: '2026-02-13T14:57:55.821857Z'
+updated: '2026-02-13T14:58:19.315628Z'
 ---
 
 {% raw %}

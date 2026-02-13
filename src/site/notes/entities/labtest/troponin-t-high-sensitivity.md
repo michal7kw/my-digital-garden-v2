@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.258018Z'
+created: '2026-02-13T14:58:20.603638Z'
 description: High-sensitivity cardiac troponin T (hs-cTnT) test. Gold standard cardiac
   biomarker for detecting myocardial injury. Used in the diagnosis of acute myocardial
   infarction and prognostication in heart failure.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: troponin_t_high_sensitivity
 type: labtest
-updated: '2026-02-13T14:57:57.258018Z'
+updated: '2026-02-13T14:58:20.603638Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.795225Z'
+created: '2026-02-13T14:58:21.214768Z'
 description: Abnormal accumulation of fluid in tissues causing swelling.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Edema
 type: phenotype
-updated: '2026-02-13T14:57:57.795225Z'
+updated: '2026-02-13T14:58:21.214768Z'
 ---
 
 {% raw %}

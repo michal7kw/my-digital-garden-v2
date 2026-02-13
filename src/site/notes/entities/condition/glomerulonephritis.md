@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.336048Z'
+created: '2026-02-13T14:58:19.786462Z'
 description: A group of diseases that cause inflammation and damage to the glomeruli,
   the tiny filtering units within the kidneys.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Glomerulonephritis
 type: condition
-updated: '2026-02-13T14:57:56.336048Z'
+updated: '2026-02-13T14:58:19.786462Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.035174Z'
+created: '2026-02-13T14:58:19.488404Z'
 description: Total tau protein concentration in CSF, reflecting overall neuronal damage
   and degeneration. Elevated in Alzheimer's disease and acutely after stroke or brain
   injury.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Total Tau
 type: biomarker
-updated: '2026-02-13T14:57:56.035174Z'
+updated: '2026-02-13T14:58:19.488404Z'
 ---
 
 {% raw %}

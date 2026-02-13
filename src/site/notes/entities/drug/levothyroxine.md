@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.722740Z'
+created: '2026-02-13T14:58:20.079508Z'
 description: Synthetic thyroid hormone (T4) for hypothyroidism replacement therapy.
   The most prescribed medication for thyroid disorders. Requires careful dose titration
   based on TSH levels.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Levothyroxine
 type: drug
-updated: '2026-02-13T14:57:56.722740Z'
+updated: '2026-02-13T14:58:20.079508Z'
 ---
 
 {% raw %}

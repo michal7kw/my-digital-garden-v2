@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:58.095829Z'
+created: '2026-02-13T14:58:21.516889Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: GATA2
 type: protein
-updated: '2026-02-13T14:57:58.095829Z'
+updated: '2026-02-13T14:58:21.516889Z'
 ---
 
 {% raw %}

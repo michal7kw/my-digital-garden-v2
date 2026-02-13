@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:58.057303Z'
+created: '2026-02-13T14:58:21.477805Z'
 description: Serine/threonine-protein kinase essential for the G1/S transition and
   DNA synthesis.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CDK2
 type: protein
-updated: '2026-02-13T14:57:58.057303Z'
+updated: '2026-02-13T14:58:21.477805Z'
 ---
 
 {% raw %}

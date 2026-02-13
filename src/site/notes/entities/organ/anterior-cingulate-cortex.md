@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.325753Z'
+created: '2026-02-13T14:58:20.674737Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Anterior Cingulate Cortex
 type: organ
-updated: '2026-02-13T14:57:57.325753Z'
+updated: '2026-02-13T14:58:20.674737Z'
 ---
 
 {% raw %}

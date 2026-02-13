@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.491843Z'
+created: '2026-02-13T14:58:20.929612Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Subthalamic Nucleus
 type: organ
-updated: '2026-02-13T14:57:57.491843Z'
+updated: '2026-02-13T14:58:20.929612Z'
 ---
 
 {% raw %}

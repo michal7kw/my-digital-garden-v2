@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.151959Z'
+created: '2026-02-13T14:58:20.495666Z'
 description: Olink's high-throughput proteomics panel measuring 3000+ proteins with
   high specificity.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: olink_explore_3072
 type: labtest
-updated: '2026-02-13T14:57:57.151959Z'
+updated: '2026-02-13T14:58:20.495666Z'
 ---
 
 {% raw %}

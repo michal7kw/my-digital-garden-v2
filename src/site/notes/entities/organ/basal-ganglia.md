@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.333461Z'
+created: '2026-02-13T14:58:20.682465Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Ganglia
 type: organ
-updated: '2026-02-13T14:57:57.333461Z'
+updated: '2026-02-13T14:58:20.682465Z'
 ---
 
 {% raw %}

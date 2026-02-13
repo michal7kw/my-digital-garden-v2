@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:58.093259Z'
+created: '2026-02-13T14:58:21.513118Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ETS1
 type: protein
-updated: '2026-02-13T14:57:58.093259Z'
+updated: '2026-02-13T14:58:21.513118Z'
 ---
 
 {% raw %}

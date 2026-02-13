@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.939596Z'
+created: '2026-02-13T14:58:20.289972Z'
 description: Tested twice a year Bilirubin is a natural substance produced when the
   body breaks down old red blood cells. Under healthy conditions, the liver processes
   bilirubin, and it is not usually present in urine. When bilirubin does appear in
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: bilirubin_urine
 type: labtest
-updated: '2026-02-13T14:57:56.939596Z'
+updated: '2026-02-13T14:58:20.289972Z'
 ---
 
 {% raw %}

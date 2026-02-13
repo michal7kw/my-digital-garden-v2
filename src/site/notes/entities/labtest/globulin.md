@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.018000Z'
+created: '2026-02-13T14:58:20.365212Z'
 description: Tested twice a year Globulin is a protein essential for liver function,
   blood clotting, and immune system operations. Abnormal globulin levels may indicate
   changes affecting the liver, immune system, or overall health.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: globulin
 type: labtest
-updated: '2026-02-13T14:57:57.018000Z'
+updated: '2026-02-13T14:58:20.365212Z'
 ---
 
 {% raw %}

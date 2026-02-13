@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.392866Z'
+created: '2026-02-13T14:58:19.843602Z'
 description: A hormonal imbalance where the brain fails to respond effectively to
   leptin, the "satiety hormone," leading to increased appetite and difficulty losing
   weight.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Leptin Resistance
 type: condition
-updated: '2026-02-13T14:57:56.392866Z'
+updated: '2026-02-13T14:58:19.843602Z'
 ---
 
 {% raw %}

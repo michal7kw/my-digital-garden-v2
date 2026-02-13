@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.047210Z'
+created: '2026-02-13T14:58:19.501816Z'
 description: Cardiac troponin (I and T) is the gold standard biomarker for detecting
   myocardial injury and diagnosing acute myocardial infarction.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Troponin
 type: biomarker
-updated: '2026-02-13T14:57:56.047210Z'
+updated: '2026-02-13T14:58:19.501816Z'
 ---
 
 {% raw %}

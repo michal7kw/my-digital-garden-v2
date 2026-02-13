@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.817239Z'
+created: '2026-02-13T14:58:20.169896Z'
 description: Encodes a tumor suppressor protein involved in DNA repair. Mutations
   significantly increase the risk of breast and ovarian cancer.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BRCA1
 type: gene
-updated: '2026-02-13T14:57:56.817239Z'
+updated: '2026-02-13T14:58:20.169896Z'
 ---
 
 {% raw %}

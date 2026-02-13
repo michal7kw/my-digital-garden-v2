@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.509656Z'
+created: '2026-02-13T14:58:19.958577Z'
 description: A type of high blood pressure that affects the arteries in the lungs
   and the right side of the heart.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pulmonary Hypertension
 type: condition
-updated: '2026-02-13T14:57:56.509656Z'
+updated: '2026-02-13T14:58:19.958577Z'
 ---
 
 {% raw %}

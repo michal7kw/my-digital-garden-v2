@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.969874Z'
+created: '2026-02-13T14:58:21.388390Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Short stature
 type: phenotype
-updated: '2026-02-13T14:57:57.969874Z'
+updated: '2026-02-13T14:58:21.388390Z'
 ---
 
 {% raw %}

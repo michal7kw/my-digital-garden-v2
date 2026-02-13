@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.028445Z'
+created: '2026-02-13T14:58:19.482595Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Total Cholesterol
 type: biomarker
-updated: '2026-02-13T14:57:56.028445Z'
+updated: '2026-02-13T14:58:19.482595Z'
 ---
 
 {% raw %}

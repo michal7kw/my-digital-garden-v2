@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.754776Z'
+created: '2026-02-13T14:58:20.109557Z'
 description: Atypical antipsychotic used for schizophrenia, bipolar disorder, and
   adjunctive treatment of depression. Has sedative properties often used off-label
   for insomnia.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Quetiapine
 type: drug
-updated: '2026-02-13T14:57:56.754776Z'
+updated: '2026-02-13T14:58:20.109557Z'
 ---
 
 {% raw %}

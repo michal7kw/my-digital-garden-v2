@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.709806Z'
+created: '2026-02-13T14:58:20.067916Z'
 description: Potent first-generation typical antipsychotic (butyrophenone). Widely
   used for acute agitation, Tourette syndrome, and psychosis.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Haloperidol
 type: drug
-updated: '2026-02-13T14:57:56.709806Z'
+updated: '2026-02-13T14:58:20.067916Z'
 ---
 
 {% raw %}

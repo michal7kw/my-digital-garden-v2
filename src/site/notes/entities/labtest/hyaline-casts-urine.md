@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:57.050289Z'
+created: '2026-02-13T14:58:20.395770Z'
 description: Tested twice a year Hyaline casts are the most common type of urinary
   casts and can appear in small numbers in healthy people. When found in larger amounts,
   hyaline casts may point to underlying kidney strain or indicate an underlying kidney
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: hyaline_casts_urine
 type: labtest
-updated: '2026-02-13T14:57:57.050289Z'
+updated: '2026-02-13T14:58:20.395770Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:58.039127Z'
+created: '2026-02-13T14:58:21.459514Z'
 description: Transmembrane protein cleaved to form Amyloid Beta (Aβ), the primary
   component of amyloid plaques in Alzheimer's disease.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: APP
 type: protein
-updated: '2026-02-13T14:57:58.039127Z'
+updated: '2026-02-13T14:58:21.459514Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:55.909809Z'
+created: '2026-02-13T14:58:19.373435Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Hemoglobin
 type: biomarker
-updated: '2026-02-13T14:57:55.909809Z'
+updated: '2026-02-13T14:58:19.373435Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:57:56.248833Z'
+created: '2026-02-13T14:58:19.703375Z'
 description: A long-term infection where the pathogen remains in the body for an extended
   period, often leading to persistent inflammation and organ damage.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Infection
 type: condition
-updated: '2026-02-13T14:57:56.248833Z'
+updated: '2026-02-13T14:58:19.703375Z'
 ---
 
 {% raw %}
