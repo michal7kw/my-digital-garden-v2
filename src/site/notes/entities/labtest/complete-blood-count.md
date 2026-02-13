@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.975220Z'
+created: '2026-02-13T19:00:15.742411Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: complete_blood_count
 type: labtest
-updated: '2026-02-13T18:51:25.975220Z'
+updated: '2026-02-13T19:00:15.742411Z'
 ---
 
 {% raw %}

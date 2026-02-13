@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.325958Z'
+created: '2026-02-13T19:00:15.169469Z'
 description: Nausea and vomiting that occurs after surgery, typically within the first
   24 hours, often a side effect of anesthesia.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Postoperative Nausea and Vomiting
 type: condition
-updated: '2026-02-13T18:51:25.325958Z'
+updated: '2026-02-13T19:00:15.169469Z'
 ---
 
 {% raw %}

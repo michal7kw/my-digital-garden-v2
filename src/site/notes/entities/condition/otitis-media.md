@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.280896Z'
+created: '2026-02-13T19:00:15.121157Z'
 description: An infection or inflammation of the middle ear, located behind the eardrum.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Otitis Media
 type: condition
-updated: '2026-02-13T18:51:25.280896Z'
+updated: '2026-02-13T19:00:15.121157Z'
 ---
 
 {% raw %}

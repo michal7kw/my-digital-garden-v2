@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.715975Z'
+created: '2026-02-13T19:00:15.566243Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-02-13T18:51:25.715975Z'
+updated: '2026-02-13T19:00:15.566243Z'
 ---
 
 {% raw %}

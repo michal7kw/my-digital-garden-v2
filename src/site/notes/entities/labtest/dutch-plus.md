@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.014165Z'
+created: '2026-02-13T19:00:15.787005Z'
 description: DUTCH Complete plus cortisol awakening response (CAR) assessment via
   saliva samples.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: dutch_plus
 type: labtest
-updated: '2026-02-13T18:51:26.014165Z'
+updated: '2026-02-13T19:00:15.787005Z'
 ---
 
 {% raw %}

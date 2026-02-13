@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.817144Z'
+created: '2026-02-13T19:00:14.556982Z'
 description: Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling
   center and a central hub for nutrient sensing via mTOR/AMPK.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lysosome
 type: cellularcomponent
-updated: '2026-02-13T18:51:24.817144Z'
+updated: '2026-02-13T19:00:14.556982Z'
 ---
 
 {% raw %}

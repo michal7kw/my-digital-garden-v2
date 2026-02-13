@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.530476Z'
+created: '2026-02-13T19:00:14.168785Z'
 description: Fecal calprotectin is a neutrophil-derived protein that serves as a non-invasive
   marker of gastrointestinal inflammation. It is the gold standard stool biomarker
   for distinguishing inflammatory bowel disease from irritable bowel syndrome.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Calprotectin
 type: biomarker
-updated: '2026-02-13T18:51:24.530476Z'
+updated: '2026-02-13T19:00:14.168785Z'
 ---
 
 {% raw %}

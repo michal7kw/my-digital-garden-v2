@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.273785Z'
+created: '2026-02-13T19:00:15.114693Z'
 description: Infection of the bone, typically caused by bacteria, which can be acute
   or chronic.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Osteomyelitis
 type: condition
-updated: '2026-02-13T18:51:25.273785Z'
+updated: '2026-02-13T19:00:15.114693Z'
 ---
 
 {% raw %}

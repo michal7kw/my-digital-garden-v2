@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.757733Z'
+created: '2026-02-13T19:00:14.483014Z'
 description: Trimethylamine N-oxide is a gut microbiome-derived metabolite produced
   from dietary choline, betaine, and L-carnitine. Elevated levels are strongly associated
   with increased cardiovascular disease risk, atherosclerosis, and thrombotic events.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: TMAO
 type: biomarker
-updated: '2026-02-13T18:51:24.757733Z'
+updated: '2026-02-13T19:00:14.483014Z'
 ---
 
 {% raw %}

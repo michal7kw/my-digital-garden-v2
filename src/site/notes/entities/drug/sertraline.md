@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.571119Z'
+created: '2026-02-13T19:00:15.426965Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Sertraline
 type: drug
-updated: '2026-02-13T18:51:25.571119Z'
+updated: '2026-02-13T19:00:15.426965Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.947603Z'
+created: '2026-02-13T19:00:15.706763Z'
 description: Tested twice a year Blood urea nitrogen (BUN) measures the amount of
   nitrogen in the blood that comes from urea, a waste product made when the body breaks
   down protein. BUN is commonly used to check kidney function, since healthy kidneys
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: blood_urea_nitrogen
 type: labtest
-updated: '2026-02-13T18:51:25.947603Z'
+updated: '2026-02-13T19:00:15.706763Z'
 ---
 
 {% raw %}

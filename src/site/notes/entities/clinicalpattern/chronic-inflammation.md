@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.831163Z'
+created: '2026-02-13T19:00:14.581257Z'
 description: Persistent low-grade inflammation indicated by elevated inflammatory
   biomarkers. Associated with accelerated aging and chronic disease.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Inflammation
 type: clinicalpattern
-updated: '2026-02-13T18:51:24.831163Z'
+updated: '2026-02-13T19:00:14.581257Z'
 ---
 
 {% raw %}

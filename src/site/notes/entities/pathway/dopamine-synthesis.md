@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.795480Z'
+created: '2026-02-13T19:00:16.729209Z'
 description: The dopamine synthesis pathway converts the amino acid tyrosine to dopamine
   through two enzymatic steps, providing the neurotransmitter essential for reward,
   motivation, movement, and cognition.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine Synthesis
 type: pathway
-updated: '2026-02-13T18:51:26.795480Z'
+updated: '2026-02-13T19:00:16.729209Z'
 ---
 
 {% raw %}

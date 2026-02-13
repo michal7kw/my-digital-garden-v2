@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:27.803263Z'
+created: '2026-02-13T19:00:17.787986Z'
 description: Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic
   properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast
   cell degranulation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Quercetin
 type: supplement
-updated: '2026-02-13T18:51:27.803263Z'
+updated: '2026-02-13T19:00:17.787986Z'
 ---
 
 {% raw %}

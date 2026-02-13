@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:27.603402Z'
+created: '2026-02-13T19:00:17.672595Z'
 description: CDP-choline, a naturally occurring compound that provides both choline
   and cytidine. Superior nootropic supporting phosphatidylcholine synthesis, dopamine
   signaling, and neuroprotection.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Citicoline
 type: supplement
-updated: '2026-02-13T18:51:27.603402Z'
+updated: '2026-02-13T19:00:17.672595Z'
 ---
 
 {% raw %}

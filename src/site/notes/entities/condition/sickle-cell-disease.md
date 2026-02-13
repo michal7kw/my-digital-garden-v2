@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.367169Z'
+created: '2026-02-13T19:00:15.205532Z'
 description: A group of inherited red blood cell disorders characterized by abnormal
   hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sickle Cell Disease
 type: condition
-updated: '2026-02-13T18:51:25.367169Z'
+updated: '2026-02-13T19:00:15.205532Z'
 ---
 
 {% raw %}

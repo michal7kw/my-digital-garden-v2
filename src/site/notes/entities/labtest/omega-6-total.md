@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.261314Z'
+created: '2026-02-13T19:00:16.025378Z'
 description: Omega-6 Total measures the key omega-6 fatty acids that make up a large
   portion of the body’s essential fat stores. While omega-6s are important building
   blocks for cells and play a role in growth, energy, and normal immune function,
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: omega_6_total
 type: labtest
-updated: '2026-02-13T18:51:26.261314Z'
+updated: '2026-02-13T19:00:16.025378Z'
 ---
 
 {% raw %}

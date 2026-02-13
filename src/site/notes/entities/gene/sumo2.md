@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.680090Z'
+created: '2026-02-13T19:00:15.530441Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: SUMO2
 type: gene
-updated: '2026-02-13T18:51:25.680090Z'
+updated: '2026-02-13T19:00:15.530441Z'
 ---
 
 {% raw %}

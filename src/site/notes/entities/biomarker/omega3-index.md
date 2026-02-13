@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.702375Z'
+created: '2026-02-13T19:00:14.384925Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Omega3 Index
 type: biomarker
-updated: '2026-02-13T18:51:24.702375Z'
+updated: '2026-02-13T19:00:14.384925Z'
 ---
 
 {% raw %}

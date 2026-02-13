@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.510451Z'
+created: '2026-02-13T19:00:16.304123Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Cerebellum
 type: organ
-updated: '2026-02-13T18:51:26.510451Z'
+updated: '2026-02-13T19:00:16.304123Z'
 ---
 
 {% raw %}

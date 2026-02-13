@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.541809Z'
+created: '2026-02-13T19:00:15.396230Z'
 description: A narrow-spectrum antibiotic used to treat serious bacterial infections
   caused by susceptible organisms, typically administered by injection.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G
 type: drug
-updated: '2026-02-13T18:51:25.541809Z'
+updated: '2026-02-13T19:00:15.396230Z'
 ---
 
 {% raw %}

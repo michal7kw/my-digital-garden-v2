@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:27.779360Z'
+created: '2026-02-13T19:00:17.753913Z'
 description: An NAD+ precursor that efficiently raises cellular NAD+ levels via the
   NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors
   and has demonstrated safety and efficacy in human clinical trials for boosting NAD+
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotinamide Riboside
 type: supplement
-updated: '2026-02-13T18:51:27.779360Z'
+updated: '2026-02-13T19:00:17.753913Z'
 ---
 
 {% raw %}

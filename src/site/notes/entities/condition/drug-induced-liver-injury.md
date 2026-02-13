@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.082300Z'
+created: '2026-02-13T19:00:14.883449Z'
 description: Liver damage caused by medications, herbal products, or other xenobiotics,
   which can range from mild enzyme elevations to acute liver failure.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Drug-Induced Liver Injury
 type: condition
-updated: '2026-02-13T18:51:25.082300Z'
+updated: '2026-02-13T19:00:14.883449Z'
 ---
 
 {% raw %}

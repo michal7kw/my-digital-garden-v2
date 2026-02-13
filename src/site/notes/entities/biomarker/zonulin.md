@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.813987Z'
+created: '2026-02-13T19:00:14.553300Z'
 description: Zonulin is a protein that reversibly modulates intestinal tight junction
   permeability. Elevated serum zonulin indicates increased intestinal permeability
   and is associated with autoimmune and inflammatory conditions.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Zonulin
 type: biomarker
-updated: '2026-02-13T18:51:24.813987Z'
+updated: '2026-02-13T19:00:14.553300Z'
 ---
 
 {% raw %}

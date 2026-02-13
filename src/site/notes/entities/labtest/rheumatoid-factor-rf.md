@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.315133Z'
+created: '2026-02-13T19:00:16.083957Z'
 description: Rheumatoid factor (RF) is an antibody commonly associated with autoimmune
   conditions like rheumatoid arthritis, rheumatoid vasculitis, or Sjögren’s syndrome.
   Higher levels of RF typically point to more severe complications of the autoimmune
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: rheumatoid_factor_rf
 type: labtest
-updated: '2026-02-13T18:51:26.315133Z'
+updated: '2026-02-13T19:00:16.083957Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.141835Z'
+created: '2026-02-13T19:00:15.926848Z'
 description: Leptin is called the satiety hormone, and tells the brain when you are
   full and when to stop eating. It is an important hormone produced by fat cells to
   regulate metabolism and body weight. High levels often points to leptin resistance,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: leptin
 type: labtest
-updated: '2026-02-13T18:51:26.141835Z'
+updated: '2026-02-13T19:00:15.926848Z'
 ---
 
 {% raw %}

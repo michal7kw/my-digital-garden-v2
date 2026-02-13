@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.647316Z'
+created: '2026-02-13T19:00:16.455519Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Posterior Cingulate Cortex
 type: organ
-updated: '2026-02-13T18:51:26.647316Z'
+updated: '2026-02-13T19:00:16.455519Z'
 ---
 
 {% raw %}

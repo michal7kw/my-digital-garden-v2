@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:27.636908Z'
+created: '2026-02-13T19:00:17.713667Z'
 description: Essential amino acid and precursor to serotonin and melatonin. The rate-limiting
   substrate for serotonin synthesis, commonly used to support mood, sleep, and stress
   resilience.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tryptophan
 type: supplement
-updated: '2026-02-13T18:51:27.636908Z'
+updated: '2026-02-13T19:00:17.713667Z'
 ---
 
 {% raw %}

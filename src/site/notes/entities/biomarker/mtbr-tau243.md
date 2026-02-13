@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:24.666102Z'
+created: '2026-02-13T19:00:14.343721Z'
 description: A novel tau biomarker from the microtubule-binding region that specifically
   reflects tau tangle pathology and neurodegeneration. May outperform p-tau217 for
   tracking disease progression and treatment response.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: MTBR-tau243
 type: biomarker
-updated: '2026-02-13T18:51:24.666102Z'
+updated: '2026-02-13T19:00:14.343721Z'
 ---
 
 {% raw %}

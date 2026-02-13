@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:26.238027Z'
+created: '2026-02-13T19:00:16.008552Z'
 description: 'oh-MAY-guh three: D-P-A Docosapentaenoic acid (DPA) is an omega-3 fatty
   acid that the body produces as it converts EPA into DHA—two other important omega-3s
   that support heart, brain, and immune health. Because DPA can shift between these
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: omega_3_dpa
 type: labtest
-updated: '2026-02-13T18:51:26.238027Z'
+updated: '2026-02-13T19:00:16.008552Z'
 ---
 
 {% raw %}

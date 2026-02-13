@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.257389Z'
+created: '2026-02-13T19:00:15.097203Z'
 description: A group of rare autoimmune diseases characterized by chronic muscle inflammation
   and weakness, including polymyositis and dermatomyositis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Myositis
 type: condition
-updated: '2026-02-13T18:51:25.257389Z'
+updated: '2026-02-13T19:00:15.097203Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:27.396266Z'
+created: '2026-02-13T19:00:17.405675Z'
 description: Transcriptional repressor and insulator protein. Regulates 3D genome
   organization (TADs).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CTCF
 type: protein
-updated: '2026-02-13T18:51:27.396266Z'
+updated: '2026-02-13T19:00:17.405675Z'
 ---
 
 {% raw %}

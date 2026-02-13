@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:25.247981Z'
+created: '2026-02-13T19:00:15.084129Z'
 description: A state of impaired mitochondrial function characterized by reduced ATP
   production, increased oxidative stress, and defective mitophagy.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Dysfunction
 type: condition
-updated: '2026-02-13T18:51:25.247981Z'
+updated: '2026-02-13T19:00:15.084129Z'
 ---
 
 {% raw %}

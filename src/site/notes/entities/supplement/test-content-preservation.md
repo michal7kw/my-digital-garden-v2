@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:51:27.830045Z'
+created: '2026-02-13T19:00:17.811204Z'
 description: Test supplement for content preservation
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Test Content Preservation
 type: supplement
-updated: '2026-02-13T18:51:27.830045Z'
+updated: '2026-02-13T19:00:17.811204Z'
 ---
 
 {% raw %}
