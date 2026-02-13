@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.596401Z'
+created: '2026-02-13T14:55:29.391750Z'
 description: Primary estrogen in reproductive-age women. Important for fertility,
   menopause assessment, and hormone therapy monitoring.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: estradiol
 type: labtest
-updated: '2026-02-09T08:04:40.596401Z'
+updated: '2026-02-13T14:55:29.391750Z'
 ---
 
 {% raw %}

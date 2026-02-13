@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.021814Z'
+created: '2026-02-13T14:55:30.009293Z'
 description: A biological phenomenon where a beneficial effect results from exposure
   to low doses of an agent that is otherwise toxic or lethal at higher doses. The
   "what doesn't kill you makes you stronger" mechanism.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hormesis
 type: pathway
-updated: '2026-02-09T08:04:41.021814Z'
+updated: '2026-02-13T14:55:30.009293Z'
 ---
 
 {% raw %}

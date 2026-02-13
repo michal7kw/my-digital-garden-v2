@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.984062Z'
+created: '2026-02-13T14:55:28.521590Z'
 description: A measurement of the total amount of albumin and globulin in the serum,
   reflecting nutritional status and organ function.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Total Protein
 type: biomarker
-updated: '2026-02-09T08:04:39.984062Z'
+updated: '2026-02-13T14:55:28.521590Z'
 ---
 
 {% raw %}

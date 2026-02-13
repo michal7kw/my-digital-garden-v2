@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.298099Z'
+created: '2026-02-13T14:55:28.976605Z'
 description: An infection that inflames the air sacs (alveoli) in one or both lungs,
   which may fill with fluid or pus.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pneumonia
 type: condition
-updated: '2026-02-09T08:04:40.298099Z'
+updated: '2026-02-13T14:55:28.976605Z'
 ---
 
 {% raw %}

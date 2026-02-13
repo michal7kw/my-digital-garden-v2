@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.633785Z'
+created: '2026-02-13T14:55:29.443974Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: insulin
 type: labtest
-updated: '2026-02-09T08:04:40.633785Z'
+updated: '2026-02-13T14:55:29.443974Z'
 ---
 
 {% raw %}

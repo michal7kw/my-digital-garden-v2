@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.175193Z'
+created: '2026-02-13T14:55:28.801359Z'
 description: A state of adaptation or dysregulation of the thyroid axis during severe
   non-thyroidal illness, characterized by abnormal thyroid tests in the absence of
   primary thyroid disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Euthyroid Sick Syndrome
 type: condition
-updated: '2026-02-09T08:04:40.175193Z'
+updated: '2026-02-13T14:55:28.801359Z'
 ---
 
 {% raw %}

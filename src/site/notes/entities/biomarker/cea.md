@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.860169Z'
+created: '2026-02-13T14:55:28.227170Z'
 description: Carcinoembryonic antigen is a glycoprotein tumor marker used primarily
   for monitoring colorectal cancer treatment response and recurrence. It is not recommended
   as a primary screening tool due to limited sensitivity and specificity.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: CEA
 type: biomarker
-updated: '2026-02-09T08:04:39.860169Z'
+updated: '2026-02-13T14:55:28.227170Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.416457Z'
+created: '2026-02-13T14:55:29.136437Z'
 description: A sodium salt form of Penicillin G, preferred for patients who cannot
   tolerate the potassium load of Penicillin G Potassium.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G Sodium
 type: drug
-updated: '2026-02-09T08:04:40.416457Z'
+updated: '2026-02-13T14:55:29.136437Z'
 ---
 
 {% raw %}

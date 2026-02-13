@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.228085Z'
+created: '2026-02-13T14:55:30.307169Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Fatigue
 type: phenotype
-updated: '2026-02-09T08:04:41.228085Z'
+updated: '2026-02-13T14:55:30.307169Z'
 ---
 
 {% raw %}

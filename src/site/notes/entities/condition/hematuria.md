@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.195999Z'
+created: '2026-02-13T14:55:28.830076Z'
 description: The presence of red blood cells in the urine, which can be visible (gross)
   or only detectable under a microscope (microscopic).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hematuria
 type: condition
-updated: '2026-02-09T08:04:40.195999Z'
+updated: '2026-02-13T14:55:28.830076Z'
 ---
 
 {% raw %}

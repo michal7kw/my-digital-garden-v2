@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.266695Z'
+created: '2026-02-13T14:55:28.931377Z'
 description: A kidney disorder that causes the body to excrete too much protein in
   the urine, characterized by a specific group of symptoms including edema and hypoalbuminemia.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Nephrotic Syndrome
 type: condition
-updated: '2026-02-09T08:04:40.266695Z'
+updated: '2026-02-13T14:55:28.931377Z'
 ---
 
 {% raw %}

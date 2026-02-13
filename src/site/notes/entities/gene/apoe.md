@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.466920Z'
+created: '2026-02-13T14:55:29.207912Z'
 description: Encodes Apolipoprotein E, a major cholesterol carrier in the brain. The
   APOE4 allele is the strongest genetic risk factor for late-onset Alzheimer's disease.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: APOE
 type: gene
-updated: '2026-02-09T08:04:40.466920Z'
+updated: '2026-02-13T14:55:29.207912Z'
 ---
 
 {% raw %}

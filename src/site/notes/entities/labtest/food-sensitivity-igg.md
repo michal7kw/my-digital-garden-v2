@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.605542Z'
+created: '2026-02-13T14:55:29.404150Z'
 description: 'Tests IgG antibodies to 100+ foods. Note: IgG food sensitivity testing
   has limited clinical evidence.'
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: food_sensitivity_igg
 type: labtest
-updated: '2026-02-09T08:04:40.605542Z'
+updated: '2026-02-13T14:55:29.404150Z'
 ---
 
 {% raw %}

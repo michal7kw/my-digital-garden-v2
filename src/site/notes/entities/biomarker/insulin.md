@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.915183Z'
+created: '2026-02-13T14:55:28.315330Z'
 description: Peptide hormone produced by pancreatic beta cells that regulates glucose
   metabolism, enabling cells to absorb glucose from the bloodstream for energy production
   or storage.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: biomarker
-updated: '2026-02-09T08:04:39.915183Z'
+updated: '2026-02-13T14:55:28.315330Z'
 ---
 
 {% raw %}

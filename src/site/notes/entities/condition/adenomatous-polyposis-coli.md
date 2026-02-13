@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.084823Z'
+created: '2026-02-13T14:55:28.673850Z'
 description: An inherited disorder characterized by the development of hundreds to
   thousands of adenomatous polyps in the colon and rectum, with a high risk of progression
   to colorectal cancer.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Adenomatous Polyposis Coli
 type: condition
-updated: '2026-02-09T08:04:40.084823Z'
+updated: '2026-02-13T14:55:28.673850Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.283805Z'
+created: '2026-02-13T14:55:28.955478Z'
 description: Inflammation of the pancreas, which can be acute (sudden and severe)
   or chronic (long-term and progressive).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreatitis
 type: condition
-updated: '2026-02-09T08:04:40.283805Z'
+updated: '2026-02-13T14:55:28.955478Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.081093Z'
+created: '2026-02-13T14:55:28.668151Z'
 description: A sudden episode of kidney failure or kidney damage that happens within
   a few hours or a few days, causing a build-up of waste products in the blood.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Kidney Injury
 type: condition
-updated: '2026-02-09T08:04:40.081093Z'
+updated: '2026-02-13T14:55:28.668151Z'
 ---
 
 {% raw %}

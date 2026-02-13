@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.845262Z'
+created: '2026-02-13T14:55:28.200411Z'
 description: Brain-Derived Neurotrophic Factor, a neurotrophin essential for neuronal
   survival, synaptic plasticity, and learning. Reduced levels associated with depression,
   neurodegeneration, and cognitive decline.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BDNF
 type: biomarker
-updated: '2026-02-09T08:04:39.845262Z'
+updated: '2026-02-13T14:55:28.200411Z'
 ---
 
 {% raw %}

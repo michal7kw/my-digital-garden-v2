@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.887379Z'
+created: '2026-02-13T14:55:28.271756Z'
 description: Ferritin is the main iron storage protein. Low levels indicate iron deficiency;
   high levels may indicate iron overload, inflammation, or liver disease.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Ferritin
 type: biomarker
-updated: '2026-02-09T08:04:39.887379Z'
+updated: '2026-02-13T14:55:28.271756Z'
 ---
 
 {% raw %}

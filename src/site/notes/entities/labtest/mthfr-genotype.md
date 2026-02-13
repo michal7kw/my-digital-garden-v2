@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.694507Z'
+created: '2026-02-13T14:55:29.528378Z'
 description: Tests C677T and A1298C variants affecting folate metabolism and homocysteine
   levels.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: mthfr_genotype
 type: labtest
-updated: '2026-02-09T08:04:40.694507Z'
+updated: '2026-02-13T14:55:29.528378Z'
 ---
 
 {% raw %}

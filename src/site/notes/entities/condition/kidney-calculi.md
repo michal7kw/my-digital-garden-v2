@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.223951Z'
+created: '2026-02-13T14:55:28.871374Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Calculi
 type: condition
-updated: '2026-02-09T08:04:40.223951Z'
+updated: '2026-02-13T14:55:28.871374Z'
 ---
 
 {% raw %}

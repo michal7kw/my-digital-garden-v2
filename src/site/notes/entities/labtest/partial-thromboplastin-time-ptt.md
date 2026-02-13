@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.721950Z'
+created: '2026-02-13T14:55:29.569700Z'
 description: Activated Partial Thromboplastin Time (aPTT) test. Evaluates the intrinsic
   and common coagulation pathways (Factors XII, XI, IX, VIII, X, V, II, I). Used for
   monitoring unfractionated heparin therapy and screening for coagulation disorders.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: partial_thromboplastin_time_ptt
 type: labtest
-updated: '2026-02-09T08:04:40.721950Z'
+updated: '2026-02-13T14:55:29.569700Z'
 ---
 
 {% raw %}

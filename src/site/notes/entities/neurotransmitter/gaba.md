@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.814380Z'
+created: '2026-02-13T14:55:29.715354Z'
 description: Gamma-aminobutyric acid, the brain's primary inhibitory neurotransmitter.
   GABA reduces neuronal excitability, promotes relaxation, reduces anxiety, and facilitates
   sleep. It provides the "brake" to glutamate's "accelerator."
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: GABA
 type: neurotransmitter
-updated: '2026-02-09T08:04:40.814380Z'
+updated: '2026-02-13T14:55:29.715354Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.302786Z'
+created: '2026-02-13T14:55:28.983731Z'
 description: An autoimmune inflammatory condition of the thyroid gland that occurs
   within the first year after childbirth, characterized by a transient hyperthyroid
   phase followed by a hypothyroid phase.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Postpartum Thyroiditis
 type: condition
-updated: '2026-02-09T08:04:40.302786Z'
+updated: '2026-02-13T14:55:28.983731Z'
 ---
 
 {% raw %}

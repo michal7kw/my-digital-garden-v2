@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.881266Z'
+created: '2026-02-13T14:55:28.261118Z'
 description: Predictive biomarker for lung and colorectal cancer. Measures EGFR protein
   expression (IHC) or gene mutations (PCR/NGS).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR Status
 type: biomarker
-updated: '2026-02-09T08:04:39.881266Z'
+updated: '2026-02-13T14:55:28.261118Z'
 ---
 
 {% raw %}

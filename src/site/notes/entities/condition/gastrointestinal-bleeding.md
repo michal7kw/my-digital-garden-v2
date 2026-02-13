@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.185176Z'
+created: '2026-02-13T14:55:28.815274Z'
 description: Any bleeding that occurs in the digestive tract, ranging from the esophagus
   to the rectum, which can be acute or chronic.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Gastrointestinal Bleeding
 type: condition
-updated: '2026-02-09T08:04:40.185176Z'
+updated: '2026-02-13T14:55:28.815274Z'
 ---
 
 {% raw %}

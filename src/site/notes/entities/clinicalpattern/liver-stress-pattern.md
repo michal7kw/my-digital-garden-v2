@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.029956Z'
+created: '2026-02-13T14:55:28.593699Z'
 description: Elevated liver enzymes indicating hepatocyte damage or stress. May suggest
   fatty liver disease, medication toxicity, or other hepatic conditions.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Liver Stress Pattern
 type: clinicalpattern
-updated: '2026-02-09T08:04:40.029956Z'
+updated: '2026-02-13T14:55:28.593699Z'
 ---
 
 {% raw %}

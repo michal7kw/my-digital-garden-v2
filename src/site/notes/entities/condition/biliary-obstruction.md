@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.111329Z'
+created: '2026-02-13T14:55:28.711876Z'
 description: A blockage in the bile ducts, which transport bile from the liver and
   gallbladder to the small intestine, commonly caused by gallstones or tumors.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Biliary Obstruction
 type: condition
-updated: '2026-02-09T08:04:40.111329Z'
+updated: '2026-02-13T14:55:28.711876Z'
 ---
 
 {% raw %}

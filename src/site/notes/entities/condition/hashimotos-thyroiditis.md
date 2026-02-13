@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.193201Z'
+created: '2026-02-13T14:55:28.825955Z'
 description: A chronic autoimmune disorder where the immune system attacks and gradually
   destroys the thyroid gland, leading to hypothyroidism.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hashimotos Thyroiditis
 type: condition
-updated: '2026-02-09T08:04:40.193201Z'
+updated: '2026-02-13T14:55:28.825955Z'
 ---
 
 {% raw %}

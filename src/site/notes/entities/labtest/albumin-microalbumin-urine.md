@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.525685Z'
+created: '2026-02-13T14:55:29.293893Z'
 description: Albumin in the urine, even in small amounts—a condition called microalbuminuria—is
   one of the earliest warning signs that the kidneys’ filters are under stress and
   may be starting to leak protein they normally keep in the blood.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: albumin_microalbumin_urine
 type: labtest
-updated: '2026-02-09T08:04:40.525685Z'
+updated: '2026-02-13T14:55:29.293893Z'
 ---
 
 {% raw %}

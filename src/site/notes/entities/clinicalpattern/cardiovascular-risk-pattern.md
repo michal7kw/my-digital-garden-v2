@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.024790Z'
+created: '2026-02-13T14:55:28.586026Z'
 description: Elevated cardiovascular disease risk based on lipid abnormalities, inflammation,
   and other markers.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Risk Pattern
 type: clinicalpattern
-updated: '2026-02-09T08:04:40.024790Z'
+updated: '2026-02-13T14:55:28.586026Z'
 ---
 
 {% raw %}

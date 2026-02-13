@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.233368Z'
+created: '2026-02-13T14:55:28.885148Z'
 description: Abnormal growth of tissue in the lung which can be benign or malignant
   (cancerous).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Lung Neoplasms
 type: condition
-updated: '2026-02-09T08:04:40.233368Z'
+updated: '2026-02-13T14:55:28.885148Z'
 ---
 
 {% raw %}

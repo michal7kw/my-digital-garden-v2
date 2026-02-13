@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.428446Z'
+created: '2026-02-13T14:55:30.562975Z'
 description: The major Phase I drug-metabolizing enzyme in humans. Oxidizes xenobiotics
   (toxins, drugs) and endogenous steroids.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CYP3A4
 type: protein
-updated: '2026-02-09T08:04:41.428446Z'
+updated: '2026-02-13T14:55:30.562975Z'
 ---
 
 {% raw %}

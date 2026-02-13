@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.374380Z'
+created: '2026-02-13T14:55:29.080790Z'
 description: Tricyclic antidepressant (TCA) with potent serotonin reuptake inhibition.
   The gold standard medication for Obsessive-Compulsive Disorder (OCD).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clomipramine
 type: drug
-updated: '2026-02-09T08:04:40.374380Z'
+updated: '2026-02-13T14:55:29.080790Z'
 ---
 
 {% raw %}

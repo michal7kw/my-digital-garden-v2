@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:39.983489Z'
+created: '2026-02-13T14:55:28.520572Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Tibc
 type: biomarker
-updated: '2026-02-09T08:04:39.983489Z'
+updated: '2026-02-13T14:55:28.520572Z'
 ---
 
 {% raw %}

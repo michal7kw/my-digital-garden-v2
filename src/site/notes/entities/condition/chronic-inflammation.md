@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.133624Z'
+created: '2026-02-13T14:55:28.743433Z'
 description: Chronic inflammation is a prolonged inflammatory response that can last
   for weeks, months, or even years. It is characterized by the simultaneous active
   inflammation, tissue destruction, and attempts at healing.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Inflammation
 type: condition
-updated: '2026-02-09T08:04:40.133624Z'
+updated: '2026-02-13T14:55:28.743433Z'
 ---
 
 {% raw %}

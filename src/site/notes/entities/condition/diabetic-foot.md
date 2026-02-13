@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.169437Z'
+created: '2026-02-13T14:55:28.792082Z'
 description: A complication of diabetes involving lower extremity pathology, including
   neuropathy, infection, ulcers, and ischemia.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetic Foot
 type: condition
-updated: '2026-02-09T08:04:40.169437Z'
+updated: '2026-02-13T14:55:28.792082Z'
 ---
 
 {% raw %}

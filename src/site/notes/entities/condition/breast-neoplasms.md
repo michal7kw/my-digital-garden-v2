@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.117922Z'
+created: '2026-02-13T14:55:28.721847Z'
 description: Cancer that forms in the cells of the breasts, most commonly in the ducts
   or lobules.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Breast Neoplasms
 type: condition
-updated: '2026-02-09T08:04:40.117922Z'
+updated: '2026-02-13T14:55:28.721847Z'
 ---
 
 {% raw %}

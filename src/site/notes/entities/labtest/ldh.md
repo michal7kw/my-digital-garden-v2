@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.647371Z'
+created: '2026-02-13T14:55:29.461921Z'
 description: Lactate Dehydrogenase (LDH) test. Non-specific tissue damage marker present
   in nearly all body tissues. Elevated in hemolytic anemia, liver disease, lymphoma,
   and myocardial infarction. Also a prognostic marker in oncology.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ldh
 type: labtest
-updated: '2026-02-09T08:04:40.647371Z'
+updated: '2026-02-13T14:55:29.461921Z'
 ---
 
 {% raw %}

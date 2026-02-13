@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.275779Z'
+created: '2026-02-13T14:55:28.944868Z'
 description: A chronic condition characterized by decreased bone mass and deterioration
   of bone tissue, making bones fragile and more likely to fracture.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Osteoporosis
 type: condition
-updated: '2026-02-09T08:04:40.275779Z'
+updated: '2026-02-13T14:55:28.944868Z'
 ---
 
 {% raw %}

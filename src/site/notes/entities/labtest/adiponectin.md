@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.518451Z'
+created: '2026-02-13T14:55:29.279030Z'
 description: Adiponectin test measures this anti-inflammatory adipokine hormone produced
   by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular
   risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: adiponectin
 type: labtest
-updated: '2026-02-09T08:04:40.518451Z'
+updated: '2026-02-13T14:55:29.279030Z'
 ---
 
 {% raw %}

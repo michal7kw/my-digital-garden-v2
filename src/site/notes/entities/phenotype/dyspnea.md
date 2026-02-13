@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.199118Z'
+created: '2026-02-13T14:55:30.271596Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Dyspnea
 type: phenotype
-updated: '2026-02-09T08:04:41.199118Z'
+updated: '2026-02-13T14:55:30.271596Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.625712Z'
+created: '2026-02-13T14:55:30.815217Z'
 description: Essential water-soluble vitamin crucial for neurotransmitter synthesis,
   amino acid metabolism, and over 100 enzymatic reactions. The active form P5P bypasses
   liver conversion.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B6
 type: supplement
-updated: '2026-02-09T08:04:41.625712Z'
+updated: '2026-02-13T14:55:30.815217Z'
 ---
 
 {% raw %}

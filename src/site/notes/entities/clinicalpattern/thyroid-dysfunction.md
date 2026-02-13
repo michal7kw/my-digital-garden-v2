@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.031868Z'
+created: '2026-02-13T14:55:28.596308Z'
 description: Abnormal thyroid function based on TSH and thyroid hormone levels. Can
   manifest as hypothyroidism or hyperthyroidism affecting metabolism and energy.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: clinicalpattern
-updated: '2026-02-09T08:04:40.031868Z'
+updated: '2026-02-13T14:55:28.596308Z'
 ---
 
 {% raw %}

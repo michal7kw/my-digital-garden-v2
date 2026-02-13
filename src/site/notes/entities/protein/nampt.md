@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.451445Z'
+created: '2026-02-13T14:55:30.599128Z'
 description: Nicotinamide phosphoribosyltransferase, the rate-limiting enzyme in the
   NAD+ salvage pathway. Converts nicotinamide to nicotinamide mononucleotide (NMN),
   representing a critical control point for cellular NAD+ biosynthesis.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: NAMPT
 type: protein
-updated: '2026-02-09T08:04:41.451445Z'
+updated: '2026-02-13T14:55:30.599128Z'
 ---
 
 {% raw %}

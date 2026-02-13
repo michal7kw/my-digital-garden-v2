@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.236986Z'
+created: '2026-02-13T14:55:28.888996Z'
 description: A problematic pattern of cannabis use leading to clinically significant
   impairment or distress, also known as Cannabis Use Disorder.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Marijuana Abuse
 type: condition
-updated: '2026-02-09T08:04:40.236986Z'
+updated: '2026-02-13T14:55:28.888996Z'
 ---
 
 {% raw %}

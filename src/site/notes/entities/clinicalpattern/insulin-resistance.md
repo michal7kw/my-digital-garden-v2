@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.026872Z'
+created: '2026-02-13T14:55:28.589106Z'
 description: Impaired cellular response to insulin, leading to elevated blood glucose
   and compensatory hyperinsulinemia. Precursor to type 2 diabetes.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Resistance
 type: clinicalpattern
-updated: '2026-02-09T08:04:40.026872Z'
+updated: '2026-02-13T14:55:28.589106Z'
 ---
 
 {% raw %}

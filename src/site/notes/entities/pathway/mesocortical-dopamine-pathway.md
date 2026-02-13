@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:41.070803Z'
+created: '2026-02-13T14:55:30.010931Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mesocortical Dopamine Pathway
 type: pathway
-updated: '2026-02-09T08:04:41.070803Z'
+updated: '2026-02-13T14:55:30.010931Z'
 ---
 
 {% raw %}

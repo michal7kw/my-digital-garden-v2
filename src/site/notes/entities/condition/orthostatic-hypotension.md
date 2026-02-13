@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.274356Z'
+created: '2026-02-13T14:55:28.942701Z'
 description: A form of low blood pressure that happens when standing up from sitting
   or lying down, causing dizziness or fainting.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Orthostatic Hypotension
 type: condition
-updated: '2026-02-09T08:04:40.274356Z'
+updated: '2026-02-13T14:55:28.942701Z'
 ---
 
 {% raw %}

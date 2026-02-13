@@ -1,5 +1,5 @@
 ---
-created: '2026-02-09T08:04:40.129180Z'
+created: '2026-02-13T14:55:28.737235Z'
 description: A type of cancer that develops in the cells of the cervix, almost always
   caused by persistent infection with high-risk human papillomavirus (HPV).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cervical Cancer
 type: condition
-updated: '2026-02-09T08:04:40.129180Z'
+updated: '2026-02-13T14:55:28.737235Z'
 ---
 
 {% raw %}
