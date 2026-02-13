@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.932313Z'
+created: '2026-02-13T18:17:35.916478Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Striatum
 type: organ
-updated: '2026-02-13T17:51:32.932313Z'
+updated: '2026-02-13T18:17:35.916478Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.886879Z'
+created: '2026-02-13T18:17:34.174067Z'
 description: A chronic, non-infectious condition causing bladder pressure, bladder
   pain, and sometimes pelvic pain, also known as bladder pain syndrome.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Interstitial Cystitis
 type: condition
-updated: '2026-02-13T17:51:31.886879Z'
+updated: '2026-02-13T18:17:34.174067Z'
 ---
 
 {% raw %}

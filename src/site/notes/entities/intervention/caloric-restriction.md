@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.263549Z'
+created: '2026-02-13T18:17:34.831042Z'
 description: A dietary intervention involving sustained reduction of caloric intake
   (typically 20-40% below ad libitum) without malnutrition. The most robust and reproducible
   intervention for extending lifespan and healthspan across multiple species, from
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Caloric Restriction
 type: intervention
-updated: '2026-02-13T17:51:32.263549Z'
+updated: '2026-02-13T18:17:34.831042Z'
 ---
 
 {% raw %}

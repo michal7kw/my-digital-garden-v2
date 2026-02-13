@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.857915Z'
+created: '2026-02-13T18:17:34.125762Z'
 description: The physiological process by which the body adjusts to the decreased
   partial pressure of oxygen at high altitudes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: High Altitude Adaptation
 type: condition
-updated: '2026-02-13T17:51:31.857915Z'
+updated: '2026-02-13T18:17:34.125762Z'
 ---
 
 {% raw %}

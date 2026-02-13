@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.721174Z'
+created: '2026-02-13T18:17:35.592671Z'
 description: Evaluates bone formation and resorption markers alongside calcium-vitamin
   D metabolism. Essential for osteoporosis risk assessment, monitoring treatment efficacy,
   and evaluating metabolic bone diseases.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: bone_health_panel
 type: labtestpanel
-updated: '2026-02-13T17:51:32.721174Z'
+updated: '2026-02-13T18:17:35.592671Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.572132Z'
+created: '2026-02-13T18:17:35.366808Z'
 description: oh-meg-uh six / oh-meg-uh three ray-shee-oh The omega-6 to omega-3 ratio
   reflects the body’s internal balance between fats that promote inflammation and
   those that help resolve it. Most people consuming a typical Western diet have a
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: omega_6_omega_3_ratio
 type: labtest
-updated: '2026-02-13T17:51:32.572132Z'
+updated: '2026-02-13T18:17:35.366808Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.751049Z'
+created: '2026-02-13T18:17:33.934579Z'
 description: A type of cancer that starts in cells that make up the skin or the tissue
   lining organs, such as the liver or kidneys.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Carcinoma
 type: condition
-updated: '2026-02-13T17:51:31.751049Z'
+updated: '2026-02-13T18:17:33.934579Z'
 ---
 
 {% raw %}

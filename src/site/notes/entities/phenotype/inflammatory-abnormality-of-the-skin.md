@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.415351Z'
+created: '2026-02-13T18:17:36.744455Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammatory abnormality of the skin
 type: phenotype
-updated: '2026-02-13T17:51:33.415351Z'
+updated: '2026-02-13T18:17:36.744455Z'
 ---
 
 {% raw %}

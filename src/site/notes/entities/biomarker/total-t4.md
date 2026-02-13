@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.530472Z'
+created: '2026-02-13T18:17:33.433249Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Total T4
 type: biomarker
-updated: '2026-02-13T17:51:31.530472Z'
+updated: '2026-02-13T18:17:33.433249Z'
 ---
 
 {% raw %}

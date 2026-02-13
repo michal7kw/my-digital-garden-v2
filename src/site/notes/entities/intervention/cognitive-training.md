@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.266620Z'
+created: '2026-02-13T18:17:34.836770Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-02-13T17:51:32.266620Z'
+updated: '2026-02-13T18:17:34.836770Z'
 ---
 
 {% raw %}

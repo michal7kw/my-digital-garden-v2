@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.323148Z'
+created: '2026-02-13T18:17:34.941561Z'
 description: Amylase is a digestive enzyme made by the salivary glands and pancreas
   that helps break down complex carbohydrates from food into usable energy. Abnormal
   levels can be an early sign of problems in the salivary glands, strain on the digestive
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: amylase
 type: labtest
-updated: '2026-02-13T17:51:32.323148Z'
+updated: '2026-02-13T18:17:34.941561Z'
 ---
 
 {% raw %}

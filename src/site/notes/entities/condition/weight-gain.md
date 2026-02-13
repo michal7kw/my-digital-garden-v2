@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.080366Z'
+created: '2026-02-13T18:17:34.513953Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Gain
 type: condition
-updated: '2026-02-13T17:51:32.080366Z'
+updated: '2026-02-13T18:17:34.513953Z'
 ---
 
 {% raw %}

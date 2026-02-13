@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.855245Z'
+created: '2026-02-13T18:17:34.120630Z'
 description: The release of blood from a broken blood vessel, either inside or outside
   the body.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hemorrhage
 type: condition
-updated: '2026-02-13T17:51:31.855245Z'
+updated: '2026-02-13T18:17:34.120630Z'
 ---
 
 {% raw %}

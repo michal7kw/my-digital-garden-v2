@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.727665Z'
+created: '2026-02-13T18:17:37.289359Z'
 description: This comprehensive review examines alpha-lipoic acid's (ALA) dual role
   as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms
   in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione,
@@ -23,7 +23,7 @@ templateEngineOverride: njk
 title: Alpha-lipoic acid as a biological antioxidant and its role in mitochondrial
   function
 type: research
-updated: '2026-02-13T17:51:33.727665Z'
+updated: '2026-02-13T18:17:37.289359Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.715844Z'
+created: '2026-02-13T18:17:33.876076Z'
 description: A fatal neurodegenerative disease characterized by progressive loss of
   upper and lower motor neurons, leading to muscle weakness, paralysis, and death
   typically within 2-5 years of symptom onset.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amyotrophic Lateral Sclerosis
 type: condition
-updated: '2026-02-13T17:51:31.715844Z'
+updated: '2026-02-13T18:17:33.876076Z'
 ---
 
 {% raw %}

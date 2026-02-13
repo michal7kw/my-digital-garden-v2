@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.477052Z'
+created: '2026-02-13T18:17:35.198132Z'
 description: Iron is a mineral the body uses to make hemoglobin, which helps red blood
   cells carry oxygen in the blood to maintain energy and health. Testing iron can
   show if levels are too low (leading to anemia with tiredness and weakness) or too
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: iron
 type: labtest
-updated: '2026-02-13T17:51:32.477052Z'
+updated: '2026-02-13T18:17:35.198132Z'
 ---
 
 {% raw %}

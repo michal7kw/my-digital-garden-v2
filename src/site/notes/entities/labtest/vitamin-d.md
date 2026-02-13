@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.698089Z'
+created: '2026-02-13T18:17:35.554238Z'
 description: Vitamin D is an essential nutrient for immune health, strong bones and
   muscles, and optimal brain performance. Unlike most vitamins, it isn't widely available
   in food and is mainly made in the body through sun exposure. Because of this, low
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d
 type: labtest
-updated: '2026-02-13T17:51:32.698089Z'
+updated: '2026-02-13T18:17:35.554238Z'
 ---
 
 {% raw %}

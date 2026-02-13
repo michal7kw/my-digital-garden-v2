@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.410609Z'
+created: '2026-02-13T18:17:36.734418Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Hypotonia
 type: phenotype
-updated: '2026-02-13T17:51:33.410609Z'
+updated: '2026-02-13T18:17:36.734418Z'
 ---
 
 {% raw %}

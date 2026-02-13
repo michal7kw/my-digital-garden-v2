@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.599315Z'
+created: '2026-02-13T18:17:35.413042Z'
 description: pros-tate speh-sif-ik an-tih-jen (p-s-a) toh-tul Total prostate-specific
   antigen (PSA) measures the overall amount of PSA in the blood, including both PSA
   that is attached to proteins and PSA that is free. This test is considered alongside
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: prostate_specific_antigen_psa_total
 type: labtest
-updated: '2026-02-13T17:51:32.599315Z'
+updated: '2026-02-13T18:17:35.413042Z'
 ---
 
 {% raw %}

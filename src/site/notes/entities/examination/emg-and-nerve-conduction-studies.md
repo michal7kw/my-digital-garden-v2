@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.204402Z'
+created: '2026-02-13T18:17:34.725833Z'
 description: Electrodiagnostic testing of peripheral nerves and muscles. Essential
   for diagnosing ALS, distinguishing it from mimics, and evaluating peripheral neuropathy.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EMG and Nerve Conduction Studies
 type: examination
-updated: '2026-02-13T17:51:32.204402Z'
+updated: '2026-02-13T18:17:34.725833Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.264243Z'
+created: '2026-02-13T18:17:33.029481Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Aa Epa Ratio
 type: biomarker
-updated: '2026-02-13T17:51:31.264243Z'
+updated: '2026-02-13T18:17:33.029481Z'
 ---
 
 {% raw %}

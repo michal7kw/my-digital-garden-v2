@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.979190Z'
+created: '2026-02-13T18:17:34.332969Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Pain
 type: condition
-updated: '2026-02-13T17:51:31.979190Z'
+updated: '2026-02-13T18:17:34.332969Z'
 ---
 
 {% raw %}

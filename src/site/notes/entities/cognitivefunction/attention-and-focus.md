@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.626252Z'
+created: '2026-02-13T18:17:33.708985Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Attention and Focus
 type: cognitivefunction
-updated: '2026-02-13T17:51:31.626252Z'
+updated: '2026-02-13T18:17:33.708985Z'
 ---
 
 {% raw %}

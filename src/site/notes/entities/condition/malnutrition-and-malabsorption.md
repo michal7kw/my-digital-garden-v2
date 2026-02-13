@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.913327Z'
+created: '2026-02-13T18:17:34.225274Z'
 description: Conditions characterized by the body's inability to obtain or utilize
   necessary nutrients, either due to poor intake or impaired intestinal absorption.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Malnutrition and Malabsorption
 type: condition
-updated: '2026-02-13T17:51:31.913327Z'
+updated: '2026-02-13T18:17:34.225274Z'
 ---
 
 {% raw %}

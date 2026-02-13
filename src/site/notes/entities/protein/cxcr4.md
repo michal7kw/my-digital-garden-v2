@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.599747Z'
+created: '2026-02-13T18:17:37.073752Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: CXCR4
 type: protein
-updated: '2026-02-13T17:51:33.599747Z'
+updated: '2026-02-13T18:17:37.073752Z'
 ---
 
 {% raw %}

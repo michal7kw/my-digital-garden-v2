@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.136721Z'
+created: '2026-02-13T18:17:34.614529Z'
 description: A sodium salt form of ibuprofen designed for faster absorption and more
   rapid onset of pain relief.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen Sodium
 type: drug
-updated: '2026-02-13T17:51:32.136721Z'
+updated: '2026-02-13T18:17:34.614529Z'
 ---
 
 {% raw %}

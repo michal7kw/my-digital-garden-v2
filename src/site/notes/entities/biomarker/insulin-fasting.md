@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.400175Z'
+created: '2026-02-13T18:17:33.248659Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Fasting
 type: biomarker
-updated: '2026-02-13T17:51:31.400175Z'
+updated: '2026-02-13T18:17:33.248659Z'
 ---
 
 {% raw %}

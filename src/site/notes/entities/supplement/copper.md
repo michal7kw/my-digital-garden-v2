@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.768704Z'
+created: '2026-02-13T18:17:37.370662Z'
 description: Essential trace mineral crucial for iron metabolism, connective tissue
   formation, and antioxidant defense (SOD). Balance with zinc is critical for optimal
   function.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Copper
 type: supplement
-updated: '2026-02-13T17:51:33.768704Z'
+updated: '2026-02-13T18:17:37.370662Z'
 ---
 
 {% raw %}

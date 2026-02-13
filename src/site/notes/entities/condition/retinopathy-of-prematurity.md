@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.026024Z'
+created: '2026-02-13T18:17:34.417384Z'
 description: An eye disease affecting premature babies where abnormal blood vessels
   grow in the retina, potentially leading to blindness.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Retinopathy of Prematurity
 type: condition
-updated: '2026-02-13T17:51:32.026024Z'
+updated: '2026-02-13T18:17:34.417384Z'
 ---
 
 {% raw %}

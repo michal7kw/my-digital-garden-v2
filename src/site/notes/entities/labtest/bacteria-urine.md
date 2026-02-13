@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.347153Z'
+created: '2026-02-13T18:17:34.982256Z'
 description: Tested twice a year Testing for bacteria in urine can help identify urinary
   tract infections (UTIs), by detecting microbes that should not normally be present
   in urine. Finding bacteria in urine can also uncover contamination from improper
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: bacteria_urine
 type: labtest
-updated: '2026-02-13T17:51:32.347153Z'
+updated: '2026-02-13T18:17:34.982256Z'
 ---
 
 {% raw %}

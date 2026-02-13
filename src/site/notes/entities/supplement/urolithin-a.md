@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.856035Z'
+created: '2026-02-13T18:17:37.528301Z'
 description: A microbial metabolite of ellagitannins that improves mitochondrial health
   by stimulating mitophagy.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Urolithin A
 type: supplement
-updated: '2026-02-13T17:51:33.856035Z'
+updated: '2026-02-13T18:17:37.528301Z'
 ---
 
 {% raw %}

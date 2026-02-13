@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.942910Z'
+created: '2026-02-13T18:17:35.931769Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Substantia Nigra
 type: organ
-updated: '2026-02-13T17:51:32.942910Z'
+updated: '2026-02-13T18:17:35.931769Z'
 ---
 
 {% raw %}

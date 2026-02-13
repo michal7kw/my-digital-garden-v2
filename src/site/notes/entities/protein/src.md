@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.709432Z'
+created: '2026-02-13T18:17:37.256326Z'
 description: Non-receptor tyrosine kinase that integrates signals from cell surface
   receptors to the cytoskeleton and nucleus.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SRC
 type: protein
-updated: '2026-02-13T17:51:33.709432Z'
+updated: '2026-02-13T18:17:37.256326Z'
 ---
 
 {% raw %}

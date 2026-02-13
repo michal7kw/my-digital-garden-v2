@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.854991Z'
+created: '2026-02-13T18:17:37.526571Z'
 description: Conditionally essential sulfur-containing amino acid abundant in heart,
   brain, and retina. Key roles in bile acid conjugation, osmoregulation, calcium signaling,
   and mitochondrial function.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Taurine
 type: supplement
-updated: '2026-02-13T17:51:33.854991Z'
+updated: '2026-02-13T18:17:37.526571Z'
 ---
 
 {% raw %}

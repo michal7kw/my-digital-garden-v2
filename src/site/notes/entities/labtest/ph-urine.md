@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.585303Z'
+created: '2026-02-13T18:17:35.391204Z'
 description: Tested twice a year Urine pH reflects how acidic or alkaline the urine
   is, and it plays a key role in helping the body maintain overall acid–base balance.
   Abnormal urine pH can increase the risk of kidney stones, or indicate metabolic
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ph_urine
 type: labtest
-updated: '2026-02-13T17:51:32.585303Z'
+updated: '2026-02-13T18:17:35.391204Z'
 ---
 
 {% raw %}

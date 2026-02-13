@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:32.147907Z'
+created: '2026-02-13T18:17:34.626868Z'
 description: Angiotensin II receptor blocker (ARB) for hypertension and diabetic nephropathy.
   Blocks AT1 receptors, providing similar benefits to ACE inhibitors without the cough.
   First ARB developed.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Losartan
 type: drug
-updated: '2026-02-13T17:51:32.147907Z'
+updated: '2026-02-13T18:17:34.626868Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.869703Z'
+created: '2026-02-13T18:17:34.147044Z'
 description: Persistently elevated blood pressure (≥130/80 mmHg) that increases risk
   of heart disease, stroke, kidney disease, and premature death. Often called the
   'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hypertension
 type: condition
-updated: '2026-02-13T17:51:31.869703Z'
+updated: '2026-02-13T18:17:34.147044Z'
 ---
 
 {% raw %}

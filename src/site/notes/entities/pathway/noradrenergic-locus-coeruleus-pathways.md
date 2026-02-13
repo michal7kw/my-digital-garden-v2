@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.189118Z'
+created: '2026-02-13T18:17:36.203535Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Noradrenergic Locus Coeruleus Pathways
 type: pathway
-updated: '2026-02-13T17:51:33.189118Z'
+updated: '2026-02-13T18:17:36.203535Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.104983Z'
+created: '2026-02-13T18:17:36.062337Z'
 description: The circadian rhythm pathway is the molecular clock system that generates
   ~24-hour oscillations in gene expression, metabolism, and physiology, synchronizing
   internal processes with the external light-dark cycle.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Circadian Rhythm Pathway
 type: pathway
-updated: '2026-02-13T17:51:33.104983Z'
+updated: '2026-02-13T18:17:36.062337Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:31.511049Z'
+created: '2026-02-13T18:17:33.415547Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Tg Antibodies
 type: biomarker
-updated: '2026-02-13T17:51:31.511049Z'
+updated: '2026-02-13T18:17:33.415547Z'
 ---
 
 {% raw %}

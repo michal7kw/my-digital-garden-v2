@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.766046Z'
+created: '2026-02-13T18:17:37.364898Z'
 description: A vitamin-like substance found in every cell of the body, essential for
   mitochondrial ATP production and acting as a powerful lipid-soluble antioxidant.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Coenzyme Q10
 type: supplement
-updated: '2026-02-13T17:51:33.766046Z'
+updated: '2026-02-13T18:17:37.364898Z'
 ---
 
 {% raw %}

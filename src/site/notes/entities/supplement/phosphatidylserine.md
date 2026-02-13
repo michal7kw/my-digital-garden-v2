@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:51:33.835556Z'
+created: '2026-02-13T18:17:37.492672Z'
 description: Essential phospholipid concentrated in brain cell membranes. Supports
   cognitive function, memory, and stress response. One of few supplements with FDA-qualified
   health claim for cognitive function.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphatidylserine
 type: supplement
-updated: '2026-02-13T17:51:33.835556Z'
+updated: '2026-02-13T18:17:37.492672Z'
 ---
 
 {% raw %}
