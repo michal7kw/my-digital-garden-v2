@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.123014Z'
+created: '2026-02-13T14:57:56.730523Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: METFORMIN
 type: drug
-updated: '2026-02-13T14:55:29.123014Z'
+updated: '2026-02-13T14:57:56.730523Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.679504Z'
+created: '2026-02-13T14:57:56.186548Z'
 description: Alcohol Use Disorder (AUD) is a chronic relapsing brain disorder characterized
   by compulsive alcohol use, loss of control over intake, and negative emotional state
   when not using. Also known as alcoholism, it involves both physical and psychological
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alcoholism
 type: condition
-updated: '2026-02-13T14:55:28.679504Z'
+updated: '2026-02-13T14:57:56.186548Z'
 ---
 
 {% raw %}

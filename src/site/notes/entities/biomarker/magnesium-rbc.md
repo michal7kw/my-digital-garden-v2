@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.333950Z'
+created: '2026-02-13T14:57:55.941019Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-02-13T14:55:28.333950Z'
+updated: '2026-02-13T14:57:55.941019Z'
 ---
 
 {% raw %}

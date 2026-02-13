@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.291123Z'
+created: '2026-02-13T14:57:55.889574Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose
 type: biomarker
-updated: '2026-02-13T14:55:28.291123Z'
+updated: '2026-02-13T14:57:55.889574Z'
 ---
 
 {% raw %}

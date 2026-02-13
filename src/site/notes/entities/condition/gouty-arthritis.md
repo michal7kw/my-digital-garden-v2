@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.823405Z'
+created: '2026-02-13T14:57:56.337176Z'
 description: A painful form of inflammatory arthritis caused by the accumulation of
   urate crystals in joints, leading to sudden, severe attacks of pain, swelling, and
   redness.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gouty Arthritis
 type: condition
-updated: '2026-02-13T14:55:28.823405Z'
+updated: '2026-02-13T14:57:56.337176Z'
 ---
 
 {% raw %}

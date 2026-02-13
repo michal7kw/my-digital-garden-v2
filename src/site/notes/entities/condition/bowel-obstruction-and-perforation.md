@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.720295Z'
+created: '2026-02-13T14:57:56.226804Z'
 description: Serious gastrointestinal emergencies involving either a blockage of the
   intestines (obstruction) or a tear in the intestinal wall (perforation).
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Bowel Obstruction and Perforation
 type: condition
-updated: '2026-02-13T14:55:28.720295Z'
+updated: '2026-02-13T14:57:56.226804Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:30.606472Z'
+created: '2026-02-13T14:57:58.113167Z'
 description: Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,
   the master regulator of mitochondrial biogenesis. A transcriptional coactivator
   that coordinates the expression of genes involved in energy metabolism, oxidative
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: PGC-1alpha
 type: protein
-updated: '2026-02-13T14:55:30.606472Z'
+updated: '2026-02-13T14:57:58.113167Z'
 ---
 
 {% raw %}

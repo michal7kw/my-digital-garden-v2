@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.084911Z'
+created: '2026-02-13T14:57:56.692325Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-02-13T14:55:29.084911Z'
+updated: '2026-02-13T14:57:56.692325Z'
 ---
 
 {% raw %}

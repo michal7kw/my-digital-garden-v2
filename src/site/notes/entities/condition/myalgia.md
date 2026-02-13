@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.926055Z'
+created: '2026-02-13T14:57:56.438559Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Myalgia
 type: condition
-updated: '2026-02-13T14:55:28.926055Z'
+updated: '2026-02-13T14:57:56.438559Z'
 ---
 
 {% raw %}

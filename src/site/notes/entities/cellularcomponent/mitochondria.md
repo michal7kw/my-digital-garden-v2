@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.573466Z'
+created: '2026-02-13T14:57:56.083521Z'
 description: Mitochondria are double-membrane-bound organelles found in most eukaryotic
   organisms. They generate most of the cell's supply of adenosine triphosphate (ATP),
   used as a source of chemical energy, through cellular respiration.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondria
 type: cellularcomponent
-updated: '2026-02-13T14:55:28.573466Z'
+updated: '2026-02-13T14:57:56.083521Z'
 ---
 
 {% raw %}

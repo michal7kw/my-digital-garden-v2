@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.523205Z'
+created: '2026-02-13T14:57:57.134065Z'
 description: Methylmalonic acid (MMA) is a substance involved in metabolism and energy
   production. MMA levels rise when vitamin B12 is low, making this one of the most
   sensitive tests for early or mild B12 deficiency—even before symptoms appear. While
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: methylmalonic_acid
 type: labtest
-updated: '2026-02-13T14:55:29.523205Z'
+updated: '2026-02-13T14:57:57.134065Z'
 ---
 
 {% raw %}

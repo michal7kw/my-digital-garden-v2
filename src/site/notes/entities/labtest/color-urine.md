@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.357286Z'
+created: '2026-02-13T14:57:56.968442Z'
 description: Tested twice a year Evaluates the pigmentation of urine, which can range
   from pale yellow to dark amber. Variations in color may be influenced by hydration
   status, dietary intake, medication use, or various underlying medical conditions.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: color_urine
 type: labtest
-updated: '2026-02-13T14:55:29.357286Z'
+updated: '2026-02-13T14:57:56.968442Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:30.393647Z'
+created: '2026-02-13T14:57:57.904229Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Micrognathia
 type: phenotype
-updated: '2026-02-13T14:55:30.393647Z'
+updated: '2026-02-13T14:57:57.904229Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.762212Z'
+created: '2026-02-13T14:57:57.354221Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Entorhinal Cortex
 type: organ
-updated: '2026-02-13T14:55:29.762212Z'
+updated: '2026-02-13T14:57:57.354221Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.180086Z'
+created: '2026-02-13T14:57:56.787112Z'
 description: Positron emission tomography using fluorodeoxyglucose to measure cerebral
   glucose metabolism. Reveals patterns of hypometabolism characteristic of different
   neurodegenerative diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: FDG-PET
 type: examination
-updated: '2026-02-13T14:55:29.180086Z'
+updated: '2026-02-13T14:57:56.787112Z'
 ---
 
 {% raw %}

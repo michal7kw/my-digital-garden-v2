@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.296266Z'
+created: '2026-02-13T14:57:55.899904Z'
 description: Hemoglobin A1c (HbA1c) reflects average blood glucose over 2-3 months.
   Used to diagnose and monitor diabetes control.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Hba1C
 type: biomarker
-updated: '2026-02-13T14:55:28.296266Z'
+updated: '2026-02-13T14:57:55.899904Z'
 ---
 
 {% raw %}

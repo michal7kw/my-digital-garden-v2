@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.962852Z'
+created: '2026-02-13T14:57:56.476866Z'
 description: A congenital heart defect where the ductus arteriosus, a blood vessel
   connecting the pulmonary artery to the aorta, fails to close after birth.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Patent Ductus Arteriosus
 type: condition
-updated: '2026-02-13T14:55:28.962852Z'
+updated: '2026-02-13T14:57:56.476866Z'
 ---
 
 {% raw %}

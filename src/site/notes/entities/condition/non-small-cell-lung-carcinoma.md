@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.936512Z'
+created: '2026-02-13T14:57:56.449611Z'
 description: The most common type of lung cancer, accounting for about 85% of cases,
   characterized by slower growth and spread compared to small cell lung cancer.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Non-Small Cell Lung Carcinoma
 type: condition
-updated: '2026-02-13T14:55:28.936512Z'
+updated: '2026-02-13T14:57:56.449611Z'
 ---
 
 {% raw %}

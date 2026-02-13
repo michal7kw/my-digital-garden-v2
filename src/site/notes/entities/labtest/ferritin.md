@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.397936Z'
+created: '2026-02-13T14:57:57.006497Z'
 description: Measures iron stores. Key marker for iron deficiency and overload, also
   an acute phase reactant.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ferritin
 type: labtest
-updated: '2026-02-13T14:55:29.397936Z'
+updated: '2026-02-13T14:57:57.006497Z'
 ---
 
 {% raw %}

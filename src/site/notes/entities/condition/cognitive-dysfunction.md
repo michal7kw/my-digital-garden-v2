@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.771654Z'
+created: '2026-02-13T14:57:56.281642Z'
 description: A deficit in intellectual functioning, including problems with memory,
   attention, language, thinking, and judgment.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Dysfunction
 type: condition
-updated: '2026-02-13T14:55:28.771654Z'
+updated: '2026-02-13T14:57:56.281642Z'
 ---
 
 {% raw %}

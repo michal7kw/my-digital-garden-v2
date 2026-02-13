@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.289055Z'
+created: '2026-02-13T14:57:55.885930Z'
 description: Blood glucose level after 8+ hours of fasting. Used to diagnose diabetes
   and assess metabolic health.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose Fasting
 type: biomarker
-updated: '2026-02-13T14:55:28.289055Z'
+updated: '2026-02-13T14:57:55.885930Z'
 ---
 
 {% raw %}

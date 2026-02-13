@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.582810Z'
+created: '2026-02-13T14:57:57.187492Z'
 description: Prolactin is a hormone made by the pituitary gland in the brain. In females,
   it supports breast development, plays a central role in milk production after childbirth,
   and also influences the menstrual cycle. Measuring prolactin can help explain irregular
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: prolactin
 type: labtest
-updated: '2026-02-13T14:55:29.582810Z'
+updated: '2026-02-13T14:57:57.187492Z'
 ---
 
 {% raw %}

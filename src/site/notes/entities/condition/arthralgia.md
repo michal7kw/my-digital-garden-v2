@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:28.697893Z'
+created: '2026-02-13T14:57:56.204092Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Arthralgia
 type: condition
-updated: '2026-02-13T14:55:28.697893Z'
+updated: '2026-02-13T14:57:56.204092Z'
 ---
 
 {% raw %}

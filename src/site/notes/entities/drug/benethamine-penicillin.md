@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:55:29.067935Z'
+created: '2026-02-13T14:57:56.674845Z'
 description: A very long-acting salt form of Penicillin G used for the treatment and
   prophylaxis of streptococcal infections.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Benethamine Penicillin
 type: drug
-updated: '2026-02-13T14:55:29.067935Z'
+updated: '2026-02-13T14:57:56.674845Z'
 ---
 
 {% raw %}
