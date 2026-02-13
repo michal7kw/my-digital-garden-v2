@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.402155Z'
+created: '2026-02-13T17:49:24.727716Z'
 description: Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures
   the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and
   is elevated in infections, autoimmune conditions, cardiovascular disease, and various
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: interleukin_6
 type: labtest
-updated: '2026-02-13T14:58:20.402155Z'
+updated: '2026-02-13T17:49:24.727716Z'
 ---
 
 {% raw %}

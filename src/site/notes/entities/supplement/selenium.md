@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.743192Z'
+created: '2026-02-13T17:49:26.149462Z'
 description: Essential trace mineral critical for thyroid function, antioxidant defense
   (glutathione peroxidase), and immune function. Required for T4 to T3 conversion.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Selenium
 type: supplement
-updated: '2026-02-13T14:58:21.743192Z'
+updated: '2026-02-13T17:49:26.149462Z'
 ---
 
 {% raw %}

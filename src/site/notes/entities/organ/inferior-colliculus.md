@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.736933Z'
+created: '2026-02-13T17:49:25.188577Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Inferior Colliculus
 type: organ
-updated: '2026-02-13T14:58:20.736933Z'
+updated: '2026-02-13T17:49:25.188577Z'
 ---
 
 {% raw %}

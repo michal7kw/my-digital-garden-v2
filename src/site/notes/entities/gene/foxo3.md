@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.180505Z'
+created: '2026-02-13T17:49:24.505369Z'
 description: Encodes the transcription factor FOXO3, a key "longevity gene" regulating
   stress resistance, autophagy, and apoptosis. Strongly associated with human centenarians.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: FOXO3
 type: gene
-updated: '2026-02-13T14:58:20.180505Z'
+updated: '2026-02-13T17:49:24.505369Z'
 ---
 
 {% raw %}

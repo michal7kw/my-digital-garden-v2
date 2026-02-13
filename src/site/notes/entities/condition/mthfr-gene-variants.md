@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.885921Z'
+created: '2026-02-13T17:49:24.218277Z'
 description: Genetic polymorphisms in the MTHFR gene (most commonly C677T and A1298C)
   that can lead to reduced enzyme activity and impaired folate metabolism.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: MTHFR Gene Variants
 type: condition
-updated: '2026-02-13T14:58:19.885921Z'
+updated: '2026-02-13T17:49:24.218277Z'
 ---
 
 {% raw %}

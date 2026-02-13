@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.257083Z'
+created: '2026-02-13T17:49:23.582569Z'
 description: Alpha-fetoprotein is a major fetal plasma protein that serves as a tumor
   marker for hepatocellular carcinoma and certain germ cell tumors. Elevated levels
   in non-pregnant adults suggest hepatic malignancy, testicular cancer, or liver disease.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: AFP
 type: biomarker
-updated: '2026-02-13T14:58:19.257083Z'
+updated: '2026-02-13T17:49:23.582569Z'
 ---
 
 {% raw %}

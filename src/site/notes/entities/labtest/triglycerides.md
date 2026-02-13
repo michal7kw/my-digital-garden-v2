@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.596566Z'
+created: '2026-02-13T17:49:25.014104Z'
 description: Tested twice a year When we eat, the body converts any extra calories,
   particularly from carbohydrates and sugar, into triglycerides and stores them in
   the liver and fat cells for energy. High triglycerides often show up with diets
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: triglycerides
 type: labtest
-updated: '2026-02-13T14:58:20.596566Z'
+updated: '2026-02-13T17:49:25.014104Z'
 ---
 
 {% raw %}

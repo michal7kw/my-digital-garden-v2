@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.429491Z'
+created: '2026-02-13T17:49:25.836676Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Visual impairment
 type: phenotype
-updated: '2026-02-13T14:58:21.429491Z'
+updated: '2026-02-13T17:49:25.836676Z'
 ---
 
 {% raw %}

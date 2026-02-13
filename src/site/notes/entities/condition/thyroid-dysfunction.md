@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.990960Z'
+created: '2026-02-13T17:49:24.320088Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: condition
-updated: '2026-02-13T14:58:19.990960Z'
+updated: '2026-02-13T17:49:24.320088Z'
 ---
 
 {% raw %}

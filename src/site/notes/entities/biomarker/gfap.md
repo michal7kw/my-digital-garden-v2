@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.352439Z'
+created: '2026-02-13T17:49:23.671926Z'
 description: Glial Fibrillary Acidic Protein, an astrocyte-specific marker released
   during brain injury and neuroinflammation. FDA-cleared for TBI and emerging as important
   marker in neurodegeneration.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: GFAP
 type: biomarker
-updated: '2026-02-13T14:58:19.352439Z'
+updated: '2026-02-13T17:49:23.671926Z'
 ---
 
 {% raw %}

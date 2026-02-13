@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.651997Z'
+created: '2026-02-13T17:49:23.990539Z'
 description: A group of disorders resulting from the use of amphetamine-type stimulants,
   including intoxication, withdrawal, and use disorder.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Amphetamine-Related Disorders
 type: condition
-updated: '2026-02-13T14:58:19.651997Z'
+updated: '2026-02-13T17:49:23.990539Z'
 ---
 
 {% raw %}

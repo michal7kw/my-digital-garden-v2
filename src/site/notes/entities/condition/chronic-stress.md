@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.731726Z'
+created: '2026-02-13T17:49:24.070078Z'
 description: A prolonged state of emotional or physical tension resulting from internal
   or external stressors, characterized by sustained activation of the HPA axis and
   elevated cortisol.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Stress
 type: condition
-updated: '2026-02-13T14:58:19.731726Z'
+updated: '2026-02-13T17:49:24.070078Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.008875Z'
+created: '2026-02-13T17:49:24.336812Z'
 description: A group of rare disorders characterized by inflammation of the blood
   vessels, which can restrict blood flow and lead to organ and tissue damage.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vasculitis
 type: condition
-updated: '2026-02-13T14:58:20.008875Z'
+updated: '2026-02-13T17:49:24.336812Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.710695Z'
+created: '2026-02-13T17:49:25.160761Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Globus Pallidus
 type: organ
-updated: '2026-02-13T14:58:20.710695Z'
+updated: '2026-02-13T17:49:25.160761Z'
 ---
 
 {% raw %}

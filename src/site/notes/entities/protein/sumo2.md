@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.599397Z'
+created: '2026-02-13T17:49:25.995960Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: SUMO2
 type: protein
-updated: '2026-02-13T14:58:21.599397Z'
+updated: '2026-02-13T17:49:25.995960Z'
 ---
 
 {% raw %}

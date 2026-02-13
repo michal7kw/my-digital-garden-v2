@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.458391Z'
+created: '2026-02-13T17:49:23.776894Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Potassium
 type: biomarker
-updated: '2026-02-13T14:58:19.458391Z'
+updated: '2026-02-13T17:49:23.776894Z'
 ---
 
 {% raw %}

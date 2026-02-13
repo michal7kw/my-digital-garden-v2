@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.450921Z'
+created: '2026-02-13T17:49:23.769387Z'
 description: The most accurate blood-based biomarker for Alzheimer's disease, showing
   >95% accuracy in detecting AD pathology. Represents a paradigm shift enabling accessible,
   non-invasive AD diagnosis.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Plasma p-tau217
 type: biomarker
-updated: '2026-02-13T14:58:19.450921Z'
+updated: '2026-02-13T17:49:23.769387Z'
 ---
 
 {% raw %}

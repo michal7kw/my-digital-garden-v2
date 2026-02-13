@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.304341Z'
+created: '2026-02-13T17:49:24.631650Z'
 description: Tested twice a year Calcium levels help understand symptoms related to
   the kidneys, bones, thyroid, parathyroid, or nerves. Calcium is a mineral the body
   uses to build and maintain strong bones, teeth, muscle control, and blood circulation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: calcium
 type: labtest
-updated: '2026-02-13T14:58:20.304341Z'
+updated: '2026-02-13T17:49:24.631650Z'
 ---
 
 {% raw %}

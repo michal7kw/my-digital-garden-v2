@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.462055Z'
+created: '2026-02-13T17:49:25.868457Z'
 description: Nuclear steroid hormone receptor that binds testosterone and DHT. Acts
   as a ligand-activated transcription factor regulating male sexual development and
   prostate cell proliferation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AR
 type: protein
-updated: '2026-02-13T14:58:21.462055Z'
+updated: '2026-02-13T17:49:25.868457Z'
 ---
 
 {% raw %}

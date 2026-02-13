@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.849959Z'
+created: '2026-02-13T17:49:24.185160Z'
 description: A condition where the body does not have enough magnesium, an essential
   mineral involved in over 300 biochemical reactions.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Deficiency
 type: condition
-updated: '2026-02-13T14:58:19.849959Z'
+updated: '2026-02-13T17:49:24.185160Z'
 ---
 
 {% raw %}

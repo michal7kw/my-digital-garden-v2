@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.292053Z'
+created: '2026-02-13T17:49:24.619643Z'
 description: Tested twice a year Biological age reflects how one's body is aging at
   the cellular and molecular levels, which can determine the risk of age-related conditions
   like cardiovascular diseases and cognitive decline. Unlike calendar age (number
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: biological_age
 type: labtest
-updated: '2026-02-13T14:58:20.292053Z'
+updated: '2026-02-13T17:49:24.619643Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.373505Z'
+created: '2026-02-13T17:49:24.699193Z'
 description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
   monitoring.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: hba1c
 type: labtest
-updated: '2026-02-13T14:58:20.373505Z'
+updated: '2026-02-13T17:49:24.699193Z'
 ---
 
 {% raw %}

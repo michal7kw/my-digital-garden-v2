@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.337397Z'
+created: '2026-02-13T17:49:23.659447Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Estradiol
 type: biomarker
-updated: '2026-02-13T14:58:19.337397Z'
+updated: '2026-02-13T17:49:23.659447Z'
 ---
 
 {% raw %}

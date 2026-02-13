@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.621790Z'
+created: '2026-02-13T17:49:26.017480Z'
 description: In a randomized, placebo-controlled, double-blind trial, NMN supplementation
   (250 mg/day for 10 weeks) increased skeletal muscle insulin sensitivity, insulin
   signaling, and muscle remodeling in postmenopausal prediabetic women. This represents
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: NMN improves muscle insulin sensitivity in prediabetic women
 type: research
-updated: '2026-02-13T14:58:21.621790Z'
+updated: '2026-02-13T17:49:26.017480Z'
 ---
 
 {% raw %}

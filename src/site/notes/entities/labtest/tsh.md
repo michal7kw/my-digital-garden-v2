@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.607255Z'
+created: '2026-02-13T17:49:25.025402Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-02-13T14:58:20.607255Z'
+updated: '2026-02-13T17:49:25.025402Z'
 ---
 
 {% raw %}

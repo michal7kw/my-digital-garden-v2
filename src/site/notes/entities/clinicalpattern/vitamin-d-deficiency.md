@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.558855Z'
+created: '2026-02-13T17:49:23.887009Z'
 description: Insufficient vitamin D levels associated with bone health, immune function,
   cardiovascular health, and chronic disease risk.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D Deficiency
 type: clinicalpattern
-updated: '2026-02-13T14:58:19.558855Z'
+updated: '2026-02-13T17:49:23.887009Z'
 ---
 
 {% raw %}

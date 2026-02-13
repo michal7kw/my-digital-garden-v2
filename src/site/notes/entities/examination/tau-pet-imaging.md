@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:20.161034Z'
+created: '2026-02-13T17:49:24.486633Z'
 description: Positron emission tomography using radiotracers that bind to tau neurofibrillary
   tangles. Correlates strongly with cognitive symptoms and disease progression in
   Alzheimer's disease and other tauopathies.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tau PET Imaging
 type: examination
-updated: '2026-02-13T14:58:20.161034Z'
+updated: '2026-02-13T17:49:24.486633Z'
 ---
 
 {% raw %}

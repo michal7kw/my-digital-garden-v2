@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.932432Z'
+created: '2026-02-13T17:49:24.263127Z'
 description: A common circulatory problem in which narrowed arteries reduce blood
   flow to the limbs, usually the legs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Peripheral Arterial Disease
 type: condition
-updated: '2026-02-13T14:58:19.932432Z'
+updated: '2026-02-13T17:49:24.263127Z'
 ---
 
 {% raw %}

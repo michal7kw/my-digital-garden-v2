@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.897456Z'
+created: '2026-02-13T17:49:24.229866Z'
 description: A broad term for diseases that affect the nerves that control voluntary
   muscles and the communication between nerves and muscles.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Neuromuscular Disorder
 type: condition
-updated: '2026-02-13T14:58:19.897456Z'
+updated: '2026-02-13T17:49:24.229866Z'
 ---
 
 {% raw %}

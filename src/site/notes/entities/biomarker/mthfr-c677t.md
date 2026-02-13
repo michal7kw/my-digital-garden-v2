@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.414645Z'
+created: '2026-02-13T17:49:23.730933Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr C677T
 type: biomarker
-updated: '2026-02-13T14:58:19.414645Z'
+updated: '2026-02-13T17:49:23.730933Z'
 ---
 
 {% raw %}

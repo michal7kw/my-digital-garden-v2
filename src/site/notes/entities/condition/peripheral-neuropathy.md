@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.932432Z'
+created: '2026-02-13T17:49:24.264666Z'
 description: A condition caused by damage to the nerves outside the brain and spinal
   cord (peripheral nerves), often resulting in numbness, tingling, and pain.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Peripheral Neuropathy
 type: condition
-updated: '2026-02-13T14:58:19.932432Z'
+updated: '2026-02-13T17:49:24.264666Z'
 ---
 
 {% raw %}

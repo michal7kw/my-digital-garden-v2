@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.748569Z'
+created: '2026-02-13T17:49:26.158420Z'
 description: Potent Nrf2 activator derived from cruciferous vegetables, especially
   broccoli sprouts. Powerful inducer of phase II detoxification enzymes and antioxidant
   defenses.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Sulforaphane
 type: supplement
-updated: '2026-02-13T14:58:21.748569Z'
+updated: '2026-02-13T17:49:26.158420Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:19.917903Z'
+created: '2026-02-13T17:49:24.248284Z'
 description: A condition where the pancreas does not produce enough enzymes to properly
   digest food, leading to malabsorption and nutritional deficiencies.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreatic Insufficiency
 type: condition
-updated: '2026-02-13T14:58:19.917903Z'
+updated: '2026-02-13T17:49:24.248284Z'
 ---
 
 {% raw %}

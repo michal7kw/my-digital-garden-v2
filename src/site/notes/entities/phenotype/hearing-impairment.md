@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T14:58:21.285077Z'
+created: '2026-02-13T17:49:25.681997Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing impairment
 type: phenotype
-updated: '2026-02-13T14:58:21.285077Z'
+updated: '2026-02-13T17:49:25.681997Z'
 ---
 
 {% raw %}
