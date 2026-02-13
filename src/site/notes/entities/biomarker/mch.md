@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.335297Z'
+created: '2026-02-13T19:04:37.854357Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Mch
 type: biomarker
-updated: '2026-02-13T19:00:14.335297Z'
+updated: '2026-02-13T19:04:37.854357Z'
 ---
 
 {% raw %}

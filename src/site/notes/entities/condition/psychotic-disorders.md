@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.179952Z'
+created: '2026-02-13T19:04:38.729874Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Psychotic Disorders
 type: condition
-updated: '2026-02-13T19:00:15.179952Z'
+updated: '2026-02-13T19:04:38.729874Z'
 ---
 
 {% raw %}

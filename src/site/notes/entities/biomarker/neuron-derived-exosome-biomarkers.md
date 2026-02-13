@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.369228Z'
+created: '2026-02-13T19:04:37.879714Z'
 description: Blood-based biomarkers isolated from brain-derived extracellular vesicles
   (exosomes) that cross the blood-brain barrier. Provide a non-invasive window into
   CNS pathology including Aβ, tau, and α-synuclein.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Neuron-Derived Exosome Biomarkers
 type: biomarker
-updated: '2026-02-13T19:00:14.369228Z'
+updated: '2026-02-13T19:04:37.879714Z'
 ---
 
 {% raw %}

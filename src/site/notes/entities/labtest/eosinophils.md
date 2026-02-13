@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.789644Z'
+created: '2026-02-13T19:04:39.337135Z'
 description: Tested twice a year Eosinophils are a type of white blood cell that defend
   against parasitic worms or helminths, regulate immune responses, and contribute
   to allergic and inflammatory conditions. They release enzymes and inflammatory molecules
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: eosinophils
 type: labtest
-updated: '2026-02-13T19:00:15.789644Z'
+updated: '2026-02-13T19:04:39.337135Z'
 ---
 
 {% raw %}

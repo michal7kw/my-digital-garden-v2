@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.697470Z'
+created: '2026-02-13T19:04:41.189841Z'
 description: Conditionally essential amino acid with inhibitory neurotransmitter function.
   Key component of collagen, glutathione precursor, and important for sleep quality
   through body temperature regulation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Glycine
 type: supplement
-updated: '2026-02-13T19:00:17.697470Z'
+updated: '2026-02-13T19:04:41.189841Z'
 ---
 
 {% raw %}

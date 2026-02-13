@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.821401Z'
+created: '2026-02-13T19:04:39.364238Z'
 description: Tested twice a year Glucose is normally reabsorbed by the kidneys, so
   urine is typically free of it under healthy conditions. When glucose spills into
   the urine (glucosuria), it usually means blood sugar levels are higher than the
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: glucose_urine
 type: labtest
-updated: '2026-02-13T19:00:15.821401Z'
+updated: '2026-02-13T19:04:39.364238Z'
 ---
 
 {% raw %}

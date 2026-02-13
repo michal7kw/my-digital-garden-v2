@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:16.081757Z'
+created: '2026-02-13T19:04:39.598796Z'
 description: Inactive thyroid hormone metabolite. Elevated in chronic illness, stress,
   and low-calorie diets.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: reverse_t3
 type: labtest
-updated: '2026-02-13T19:00:16.081757Z'
+updated: '2026-02-13T19:04:39.598796Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:16.916678Z'
+created: '2026-02-13T19:04:40.328969Z'
 description: A feeling of apprehension, fear, nervousness, or dread often accompanied
   by physical symptoms.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Anxiety
 type: phenotype
-updated: '2026-02-13T19:00:16.916678Z'
+updated: '2026-02-13T19:04:40.328969Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.798493Z'
+created: '2026-02-13T19:04:41.279572Z'
 description: Adaptogenic herb that enhances stress resilience, mental performance,
   and physical endurance. Modulates stress hormones and supports dopamine levels.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rhodiola Rosea
 type: supplement
-updated: '2026-02-13T19:00:17.798493Z'
+updated: '2026-02-13T19:04:41.279572Z'
 ---
 
 {% raw %}

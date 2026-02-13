@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.750644Z'
+created: '2026-02-13T19:04:39.308725Z'
 description: Cellular antioxidant important for energy production. Often depleted
   by statins.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: coq10_blood
 type: labtest
-updated: '2026-02-13T19:00:15.750644Z'
+updated: '2026-02-13T19:04:39.308725Z'
 ---
 
 {% raw %}

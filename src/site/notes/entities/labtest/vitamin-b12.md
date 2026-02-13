@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:16.187466Z'
+created: '2026-02-13T19:04:39.669710Z'
 description: Essential for nerve function and red blood cell production. Deficiency
   common in vegans and elderly.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_b12
 type: labtest
-updated: '2026-02-13T19:00:16.187466Z'
+updated: '2026-02-13T19:04:39.669710Z'
 ---
 
 {% raw %}

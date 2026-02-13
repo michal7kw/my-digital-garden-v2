@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.285592Z'
+created: '2026-02-13T19:04:38.845628Z'
 description: Natural alkaloid compound found in several plants including goldenseal
   and barberry. Demonstrates significant blood glucose-lowering effects comparable
   to metformin through AMPK activation. Used traditionally in Chinese and Ayurvedic
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Berberine
 type: drug
-updated: '2026-02-13T19:00:15.285592Z'
+updated: '2026-02-13T19:04:38.845628Z'
 ---
 
 {% raw %}

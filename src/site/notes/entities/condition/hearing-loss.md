@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.935286Z'
+created: '2026-02-13T19:04:38.469523Z'
 description: A partial or total inability to hear sound in one or both ears, ranging
   from mild to profound.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing Loss
 type: condition
-updated: '2026-02-13T19:00:14.935286Z'
+updated: '2026-02-13T19:04:38.469523Z'
 ---
 
 {% raw %}

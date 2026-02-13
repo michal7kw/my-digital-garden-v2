@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.697681Z'
+created: '2026-02-13T19:04:38.271653Z'
 description: A group of disorders occurring when the adrenal glands produce too much
   or too little of essential hormones, such as cortisol and aldosterone.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Adrenal Disease
 type: condition
-updated: '2026-02-13T19:00:14.697681Z'
+updated: '2026-02-13T19:04:38.271653Z'
 ---
 
 {% raw %}

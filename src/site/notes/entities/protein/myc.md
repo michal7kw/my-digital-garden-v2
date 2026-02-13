@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.466819Z'
+created: '2026-02-13T19:04:40.980758Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: protein
-updated: '2026-02-13T19:00:17.466819Z'
+updated: '2026-02-13T19:04:40.980758Z'
 ---
 
 {% raw %}

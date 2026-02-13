@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.869636Z'
+created: '2026-02-13T19:04:38.402578Z'
 description: A group of metabolic disorders characterized by high blood sugar levels
   over a prolonged period, resulting from defects in insulin secretion, insulin action,
   or both.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetes Mellitus
 type: condition
-updated: '2026-02-13T19:00:14.869636Z'
+updated: '2026-02-13T19:04:38.402578Z'
 ---
 
 {% raw %}

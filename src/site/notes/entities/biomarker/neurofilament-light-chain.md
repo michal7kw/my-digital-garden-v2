@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.360658Z'
+created: '2026-02-13T19:04:37.871843Z'
 description: A neuronal cytoskeletal protein released into CSF and blood upon axonal
   damage. Emerging as a universal biomarker for neurodegeneration across multiple
   diseases including ALS, MS, AD, and Huntington's disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neurofilament Light Chain
 type: biomarker
-updated: '2026-02-13T19:00:14.360658Z'
+updated: '2026-02-13T19:04:37.871843Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.340611Z'
+created: '2026-02-13T19:04:40.881814Z'
 description: Serine/threonine-protein kinase involved in cell survival, metabolism,
   and growth. Key node in the PI3K-AKT-mTOR signaling pathway.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: AKT1
 type: protein
-updated: '2026-02-13T19:00:17.340611Z'
+updated: '2026-02-13T19:04:40.881814Z'
 ---
 
 {% raw %}

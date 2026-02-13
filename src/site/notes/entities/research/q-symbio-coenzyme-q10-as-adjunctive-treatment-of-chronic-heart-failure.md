@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.636613Z'
+created: '2026-02-13T19:04:41.116852Z'
 description: The Q-SYMBIO trial was a landmark multicenter, randomized, double-blind,
   placebo-controlled study demonstrating that CoQ10 supplementation (300 mg/day for
   2 years) significantly reduced cardiovascular mortality and hospitalizations in
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: 'Q-SYMBIO: Coenzyme Q10 as adjunctive treatment of chronic heart failure'
 type: research
-updated: '2026-02-13T19:00:17.636613Z'
+updated: '2026-02-13T19:04:41.116852Z'
 ---
 
 {% raw %}

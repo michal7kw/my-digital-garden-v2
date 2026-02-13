@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.428521Z'
+created: '2026-02-13T19:04:40.957661Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-02-13T19:00:17.428521Z'
+updated: '2026-02-13T19:04:40.957661Z'
 ---
 
 {% raw %}

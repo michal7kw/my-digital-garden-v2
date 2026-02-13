@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:17.677833Z'
+created: '2026-02-13T19:04:41.165413Z'
 description: Most researched sports supplement. Enhances ATP regeneration for high-intensity
   exercise and supports brain energy. Proven safe and effective.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine
 type: supplement
-updated: '2026-02-13T19:00:17.677833Z'
+updated: '2026-02-13T19:04:41.165413Z'
 ---
 
 {% raw %}

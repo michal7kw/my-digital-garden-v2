@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:16.042941Z'
+created: '2026-02-13T19:04:39.559930Z'
 description: Tests drug-metabolizing genes (CYP450, etc.) to guide medication selection
   and dosing.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: pharmacogenomics_panel
 type: labtest
-updated: '2026-02-13T19:00:16.042941Z'
+updated: '2026-02-13T19:04:39.559930Z'
 ---
 
 {% raw %}

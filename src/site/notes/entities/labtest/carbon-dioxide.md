@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.731289Z'
+created: '2026-02-13T19:04:39.283661Z'
 description: Tested twice a year Carbon dioxide levels monitor pH and are an indirect
   measure of bicarbonate, a key buffer involved in maintaining the body’s acid-base
   balance. When the body’s acid–base balance is thrown off—called acidosis or alkalosis—carbon
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: carbon_dioxide
 type: labtest
-updated: '2026-02-13T19:00:15.731289Z'
+updated: '2026-02-13T19:04:39.283661Z'
 ---
 
 {% raw %}

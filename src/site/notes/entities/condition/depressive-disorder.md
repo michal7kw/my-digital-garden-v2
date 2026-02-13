@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:14.867016Z'
+created: '2026-02-13T19:04:38.400993Z'
 description: A common and serious medical illness that negatively affects how you
   feel, the way you think, and how you act.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Depressive Disorder
 type: condition
-updated: '2026-02-13T19:00:14.867016Z'
+updated: '2026-02-13T19:04:38.400993Z'
 ---
 
 {% raw %}

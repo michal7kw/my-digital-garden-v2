@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.916764Z'
+created: '2026-02-13T19:04:39.442312Z'
 description: LDL peak size shows the most common size of LDL particles in the blood.
   Standard cholesterol tests measure LDL by weight, but particle size matters too
   — smaller, denser LDL particles are more likely to enter artery walls and contribute
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_peak_size
 type: labtest
-updated: '2026-02-13T19:00:15.916764Z'
+updated: '2026-02-13T19:04:39.442312Z'
 ---
 
 {% raw %}

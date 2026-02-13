@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:16.355928Z'
+created: '2026-02-13T19:04:39.828472Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Hippocampus
 type: organ
-updated: '2026-02-13T19:00:16.355928Z'
+updated: '2026-02-13T19:04:39.828472Z'
 ---
 
 {% raw %}

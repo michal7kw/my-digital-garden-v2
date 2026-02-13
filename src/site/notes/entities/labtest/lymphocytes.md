@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:00:15.950660Z'
+created: '2026-02-13T19:04:39.472342Z'
 description: Tested twice a year Lymphocytes are specialized white blood cells (WBCs)
   consisting of T cells, B cells, and natural killer (NK) cells, each orchestrating
   a different arm of immune defense. Their counts can rise or fall with various conditions,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: lymphocytes
 type: labtest
-updated: '2026-02-13T19:00:15.950660Z'
+updated: '2026-02-13T19:04:39.472342Z'
 ---
 
 {% raw %}
