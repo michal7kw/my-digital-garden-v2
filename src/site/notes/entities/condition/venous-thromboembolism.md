@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.338350Z'
+created: '2026-02-13T17:51:32.073931Z'
 description: A condition where a blood clot forms in a vein, encompassing Deep Vein
   Thrombosis (DVT) and Pulmonary Embolism (PE).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Venous Thromboembolism
 type: condition
-updated: '2026-02-13T17:49:24.338350Z'
+updated: '2026-02-13T17:51:32.073931Z'
 ---
 
 {% raw %}

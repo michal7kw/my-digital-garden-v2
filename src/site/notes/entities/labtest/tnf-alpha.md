@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.002373Z'
+created: '2026-02-13T17:51:32.649689Z'
 description: Tumor Necrosis Factor Alpha (TNF-alpha) test measures this key pro-inflammatory
   cytokine in blood. TNF-alpha is produced primarily by activated macrophages and
   plays a central role in systemic inflammation. It is a therapeutic target in rheumatoid
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: tnf_alpha
 type: labtest
-updated: '2026-02-13T17:49:25.002373Z'
+updated: '2026-02-13T17:51:32.649689Z'
 ---
 
 {% raw %}

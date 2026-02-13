@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.359450Z'
+created: '2026-02-13T17:51:32.095558Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet
   effects. Used for pain, fever, inflammation, and cardiovascular protection. One
   of the most widely used medications worldwide.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Aspirin
 type: drug
-updated: '2026-02-13T17:49:24.359450Z'
+updated: '2026-02-13T17:51:32.095558Z'
 ---
 
 {% raw %}

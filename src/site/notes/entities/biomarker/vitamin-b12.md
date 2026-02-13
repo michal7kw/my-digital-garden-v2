@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:23.829212Z'
+created: '2026-02-13T17:51:31.562366Z'
 description: Essential water-soluble vitamin critical for nerve function, DNA synthesis,
   red blood cell formation, and methylation. Deficiency is common, especially in vegetarians/vegans
   and older adults.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: biomarker
-updated: '2026-02-13T17:49:23.829212Z'
+updated: '2026-02-13T17:51:31.562366Z'
 ---
 
 {% raw %}

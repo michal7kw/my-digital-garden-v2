@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.876949Z'
+created: '2026-02-13T17:51:33.584928Z'
 description: Beta-secretase 1. The rate-limiting enzyme in the production of Amyloid
   Beta (Aβ).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: BACE1
 type: protein
-updated: '2026-02-13T17:49:25.876949Z'
+updated: '2026-02-13T17:51:33.584928Z'
 ---
 
 {% raw %}

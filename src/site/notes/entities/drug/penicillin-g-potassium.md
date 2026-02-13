@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.422166Z'
+created: '2026-02-13T17:51:32.165755Z'
 description: A potassium salt form of Penicillin G, used for rapid treatment of severe
   bacterial infections through intravenous or intramuscular routes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G Potassium
 type: drug
-updated: '2026-02-13T17:49:24.422166Z'
+updated: '2026-02-13T17:51:32.165755Z'
 ---
 
 {% raw %}

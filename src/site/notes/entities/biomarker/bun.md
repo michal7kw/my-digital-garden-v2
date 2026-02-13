@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:23.613927Z'
+created: '2026-02-13T17:51:31.305285Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Bun
 type: biomarker
-updated: '2026-02-13T17:49:23.613927Z'
+updated: '2026-02-13T17:51:31.305285Z'
 ---
 
 {% raw %}

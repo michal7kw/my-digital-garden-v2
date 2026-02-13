@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.091692Z'
+created: '2026-02-13T17:51:32.744093Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Norepinephrine
 type: neurotransmitter
-updated: '2026-02-13T17:49:25.091692Z'
+updated: '2026-02-13T17:51:32.744093Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.322630Z'
+created: '2026-02-13T17:51:33.059237Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Ventral Tegmental Area
 type: organ
-updated: '2026-02-13T17:49:25.322630Z'
+updated: '2026-02-13T17:51:33.059237Z'
 ---
 
 {% raw %}

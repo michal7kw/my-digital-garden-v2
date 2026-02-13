@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.046363Z'
+created: '2026-02-13T17:51:32.713251Z'
 description: Essential mineral for immune function, wound healing, and enzyme activity.
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: zinc_serum
 type: labtest
-updated: '2026-02-13T17:49:25.046363Z'
+updated: '2026-02-13T17:51:32.713251Z'
 ---
 
 {% raw %}

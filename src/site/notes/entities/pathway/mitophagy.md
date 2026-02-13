@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.420035Z'
+created: '2026-02-13T17:51:33.165064Z'
 description: Mitophagy is the selective degradation of damaged or dysfunctional mitochondria
   by autophagy. It is a critical quality control mechanism that maintains cellular
   health by removing mitochondria that could otherwise produce excessive reactive
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Mitophagy
 type: pathway
-updated: '2026-02-13T17:49:25.420035Z'
+updated: '2026-02-13T17:51:33.165064Z'
 ---
 
 {% raw %}

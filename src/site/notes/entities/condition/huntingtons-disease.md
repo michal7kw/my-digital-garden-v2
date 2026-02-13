@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.141529Z'
+created: '2026-02-13T17:51:31.863857Z'
 description: An autosomal dominant neurodegenerative disorder caused by CAG trinucleotide
   repeat expansion in the huntingtin gene. Characterized by chorea, cognitive decline,
   and psychiatric symptoms.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Huntington's Disease
 type: condition
-updated: '2026-02-13T17:49:24.141529Z'
+updated: '2026-02-13T17:51:31.863857Z'
 ---
 
 {% raw %}

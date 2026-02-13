@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.069059Z'
+created: '2026-02-13T17:51:31.793220Z'
 description: A chronic inflammatory lung disease that causes obstructed airflow from
   the lungs, including emphysema and chronic bronchitis.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Obstructive Pulmonary Disease
 type: condition
-updated: '2026-02-13T17:49:24.069059Z'
+updated: '2026-02-13T17:51:31.793220Z'
 ---
 
 {% raw %}

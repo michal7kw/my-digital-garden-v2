@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.912101Z'
+created: '2026-02-13T17:51:33.620598Z'
 description: Transcriptional regulator involved in differentiation, mitogenesis, and
   synaptic plasticity.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EGR1
 type: protein
-updated: '2026-02-13T17:49:25.912101Z'
+updated: '2026-02-13T17:51:33.620598Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.000551Z'
+created: '2026-02-13T17:51:31.724775Z'
 description: A neurodevelopmental disorder characterized by persistent patterns of
   inattention, hyperactivity, and impulsivity that interfere with functioning or development.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Attention Deficit Hyperactivity Disorder
 type: condition
-updated: '2026-02-13T17:49:24.000551Z'
+updated: '2026-02-13T17:51:31.724775Z'
 ---
 
 {% raw %}

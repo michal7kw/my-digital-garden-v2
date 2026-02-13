@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:25.070771Z'
+created: '2026-02-13T17:51:32.730953Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-02-13T17:49:25.070771Z'
+updated: '2026-02-13T17:51:32.730953Z'
 ---
 
 {% raw %}

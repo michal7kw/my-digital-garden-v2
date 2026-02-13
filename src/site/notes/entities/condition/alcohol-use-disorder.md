@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:23.977520Z'
+created: '2026-02-13T17:51:31.700546Z'
 description: A chronic relapsing brain disease characterized by an impaired ability
   to stop or control alcohol use despite adverse social, occupational, or health consequences.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alcohol Use Disorder
 type: condition
-updated: '2026-02-13T17:49:23.977520Z'
+updated: '2026-02-13T17:51:31.700546Z'
 ---
 
 {% raw %}

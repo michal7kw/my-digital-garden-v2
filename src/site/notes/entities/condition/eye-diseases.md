@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.102665Z'
+created: '2026-02-13T17:51:31.827921Z'
 description: A broad category of disorders affecting the eye and its adnexa, ranging
   from acute infections to chronic degenerative conditions.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Eye Diseases
 type: condition
-updated: '2026-02-13T17:49:24.102665Z'
+updated: '2026-02-13T17:51:31.827921Z'
 ---
 
 {% raw %}

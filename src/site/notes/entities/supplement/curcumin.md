@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:26.061855Z'
+created: '2026-02-13T17:51:33.771841Z'
 description: Active compound in turmeric with powerful anti-inflammatory and antioxidant
   properties. Supports joint health, brain function, and metabolic health. Requires
   enhanced absorption formulations.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Curcumin
 type: supplement
-updated: '2026-02-13T17:49:26.061855Z'
+updated: '2026-02-13T17:51:33.771841Z'
 ---
 
 {% raw %}

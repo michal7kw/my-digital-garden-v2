@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.220325Z'
+created: '2026-02-13T17:51:31.947960Z'
 description: A type of blood cancer that develops in the plasma cells of the bone
   marrow, leading to bone damage, kidney failure, and immune suppression.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Multiple Myeloma
 type: condition
-updated: '2026-02-13T17:49:24.220325Z'
+updated: '2026-02-13T17:51:31.947960Z'
 ---
 
 {% raw %}

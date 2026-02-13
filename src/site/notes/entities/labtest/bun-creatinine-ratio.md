@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.624836Z'
+created: '2026-02-13T17:51:32.359406Z'
 description: Tested twice a year The BUN/creatinine ratio compares two waste products
   in the blood—urea and creatinine—to provide a view of kidney health. An abnormal
   ratio can help distinguish between kidney problems and other conditions affecting
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: bun_creatinine_ratio
 type: labtest
-updated: '2026-02-13T17:49:24.624836Z'
+updated: '2026-02-13T17:51:32.359406Z'
 ---
 
 {% raw %}

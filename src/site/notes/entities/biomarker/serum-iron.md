@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:23.789734Z'
+created: '2026-02-13T17:51:31.501706Z'
 description: A measure of the amount of circulating iron that is bound to transferrin
   in the blood.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Serum Iron
 type: biomarker
-updated: '2026-02-13T17:49:23.789734Z'
+updated: '2026-02-13T17:51:31.501706Z'
 ---
 
 {% raw %}

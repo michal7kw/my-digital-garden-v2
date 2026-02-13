@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T17:49:24.245133Z'
+created: '2026-02-13T17:51:31.977097Z'
 description: Oxidative stress is an imbalance between the production of reactive oxygen
   species (ROS) and the biological system's ability to detoxify or repair the resulting
   damage. It is implicated in many pathological conditions including neurodegeneration,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Stress
 type: condition
-updated: '2026-02-13T17:49:24.245133Z'
+updated: '2026-02-13T17:51:31.977097Z'
 ---
 
 {% raw %}
