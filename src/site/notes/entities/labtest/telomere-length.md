@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.644242Z'
+created: '2026-02-13T19:38:07.026469Z'
 description: Measures average telomere length. Shorter telomeres associated with cellular
   aging.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: telomere_length
 type: labtest
-updated: '2026-02-13T19:27:05.644242Z'
+updated: '2026-02-13T19:38:07.026469Z'
 ---
 
 {% raw %}

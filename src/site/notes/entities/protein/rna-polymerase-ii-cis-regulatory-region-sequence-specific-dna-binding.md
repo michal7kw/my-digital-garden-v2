@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.457581Z'
+created: '2026-02-13T19:38:08.894790Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
 type: protein
-updated: '2026-02-13T19:27:07.457581Z'
+updated: '2026-02-13T19:38:08.894790Z'
 ---
 
 {% raw %}

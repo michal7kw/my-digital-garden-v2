@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:03.731421Z'
+created: '2026-02-13T19:38:05.090948Z'
 description: Ubiquitin C-terminal Hydrolase L1, a neuron-specific enzyme released
   upon neuronal injury. FDA-cleared for traumatic brain injury assessment in combination
   with GFAP.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: UCH-L1
 type: biomarker
-updated: '2026-02-13T19:27:03.731421Z'
+updated: '2026-02-13T19:38:05.090948Z'
 ---
 
 {% raw %}

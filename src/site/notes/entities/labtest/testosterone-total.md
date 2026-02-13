@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.648407Z'
+created: '2026-02-13T19:38:07.029600Z'
 description: Measures total testosterone levels. Important for assessing hypogonadism,
   PCOS, and hormonal balance.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: testosterone_total
 type: labtest
-updated: '2026-02-13T19:27:05.648407Z'
+updated: '2026-02-13T19:38:07.029600Z'
 ---
 
 {% raw %}

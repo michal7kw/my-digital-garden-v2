@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.278686Z'
+created: '2026-02-13T19:38:08.715131Z'
 description: E3 ubiquitin-protein ligase that plays a central role in DNA repair (Homologous
   Recombination). Maintains genomic stability.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BRCA1
 type: protein
-updated: '2026-02-13T19:27:07.278686Z'
+updated: '2026-02-13T19:38:08.715131Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:03.502946Z'
+created: '2026-02-13T19:38:04.853981Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Homocysteine
 type: biomarker
-updated: '2026-02-13T19:27:03.502946Z'
+updated: '2026-02-13T19:38:04.853981Z'
 ---
 
 {% raw %}

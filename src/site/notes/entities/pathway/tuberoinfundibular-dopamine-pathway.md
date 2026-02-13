@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:06.624061Z'
+created: '2026-02-13T19:38:08.035946Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-02-13T19:27:06.624061Z'
+updated: '2026-02-13T19:38:08.035946Z'
 ---
 
 {% raw %}

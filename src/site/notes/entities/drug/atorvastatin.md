@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.677991Z'
+created: '2026-02-13T19:38:06.056284Z'
 description: High-intensity HMG-CoA reductase inhibitor (statin) for cholesterol management.
   The most prescribed statin worldwide, effective for LDL reduction and cardiovascular
   risk reduction.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Atorvastatin
 type: drug
-updated: '2026-02-13T19:27:04.677991Z'
+updated: '2026-02-13T19:38:06.056284Z'
 ---
 
 {% raw %}

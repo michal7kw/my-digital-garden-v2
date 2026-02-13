@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.209173Z'
+created: '2026-02-13T19:38:05.554742Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Fever
 type: condition
-updated: '2026-02-13T19:27:04.209173Z'
+updated: '2026-02-13T19:38:05.554742Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:06.978336Z'
+created: '2026-02-13T19:38:08.405891Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Intellectual disability
 type: phenotype
-updated: '2026-02-13T19:27:06.978336Z'
+updated: '2026-02-13T19:38:08.405891Z'
 ---
 
 {% raw %}

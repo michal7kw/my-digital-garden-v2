@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.253723Z'
+created: '2026-02-13T19:38:05.604075Z'
 description: An inherited blood disorder characterized by spherical red blood cells
   that are fragile and prone to premature destruction in the spleen.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hereditary Spherocytosis
 type: condition
-updated: '2026-02-13T19:27:04.253723Z'
+updated: '2026-02-13T19:38:05.604075Z'
 ---
 
 {% raw %}

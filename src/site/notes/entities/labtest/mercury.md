@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.478716Z'
+created: '2026-02-13T19:38:06.859562Z'
 description: Mercury is a heavy metal that can be toxic in high amounts. Exposure
   most often happens from eating seafood high in methylmercury (tuna, swordfish, and
   shark), from breathing in mercury vapor from broken thermometers or fluorescent
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: mercury
 type: labtest
-updated: '2026-02-13T19:27:05.478716Z'
+updated: '2026-02-13T19:38:06.859562Z'
 ---
 
 {% raw %}

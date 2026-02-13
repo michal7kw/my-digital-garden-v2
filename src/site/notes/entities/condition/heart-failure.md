@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.247978Z'
+created: '2026-02-13T19:38:05.598292Z'
 description: A chronic, progressive syndrome in which the heart muscle is unable to
   pump enough blood to meet the body's needs for blood and oxygen.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Heart Failure
 type: condition
-updated: '2026-02-13T19:27:04.247978Z'
+updated: '2026-02-13T19:38:05.598292Z'
 ---
 
 {% raw %}

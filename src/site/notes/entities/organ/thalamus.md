@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:06.162637Z'
+created: '2026-02-13T19:38:07.723991Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Thalamus
 type: organ
-updated: '2026-02-13T19:27:06.162637Z'
+updated: '2026-02-13T19:38:07.723991Z'
 ---
 
 {% raw %}

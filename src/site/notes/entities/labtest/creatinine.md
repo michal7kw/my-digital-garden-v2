@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.215347Z'
+created: '2026-02-13T19:38:06.602826Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-02-13T19:27:05.215347Z'
+updated: '2026-02-13T19:38:06.602826Z'
 ---
 
 {% raw %}

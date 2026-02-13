@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.684703Z'
+created: '2026-02-13T19:38:09.128230Z'
 description: Medium-chain triglycerides - rapidly absorbed fats that bypass normal
   digestion and go directly to the liver for ketone production. Supports cognitive
   function, energy, and ketogenic diets.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: MCT Oil
 type: supplement
-updated: '2026-02-13T19:27:07.684703Z'
+updated: '2026-02-13T19:38:09.128230Z'
 ---
 
 {% raw %}

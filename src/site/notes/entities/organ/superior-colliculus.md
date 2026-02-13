@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:06.147356Z'
+created: '2026-02-13T19:38:07.707580Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Superior Colliculus
 type: organ
-updated: '2026-02-13T19:27:06.147356Z'
+updated: '2026-02-13T19:38:07.707580Z'
 ---
 
 {% raw %}

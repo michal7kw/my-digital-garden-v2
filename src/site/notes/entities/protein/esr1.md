@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.347774Z'
+created: '2026-02-13T19:38:08.786185Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: protein
-updated: '2026-02-13T19:27:07.347774Z'
+updated: '2026-02-13T19:38:08.786185Z'
 ---
 
 {% raw %}

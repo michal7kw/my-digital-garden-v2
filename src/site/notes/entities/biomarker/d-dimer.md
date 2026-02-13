@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:03.403283Z'
+created: '2026-02-13T19:38:04.754458Z'
 description: D-Dimer is a fibrin degradation product released when cross-linked fibrin
   is broken down by plasmin, serving as a sensitive marker for the presence of intravascular
   clot formation and fibrinolysis.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: D-Dimer
 type: biomarker
-updated: '2026-02-13T19:27:03.403283Z'
+updated: '2026-02-13T19:38:04.754458Z'
 ---
 
 {% raw %}

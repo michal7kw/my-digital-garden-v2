@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.642142Z'
+created: '2026-02-13T19:38:07.024373Z'
 description: Tested twice a year Squamous epithelial cells in urine usually come from
   the lower urinary tract or genital area and are often a sign of sample contamination
   rather than disease. However, when present in higher numbers alongside other abnormalities,
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: squamous_epithelial_cells
 type: labtest
-updated: '2026-02-13T19:27:05.642142Z'
+updated: '2026-02-13T19:38:07.024373Z'
 ---
 
 {% raw %}

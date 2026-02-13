@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:03.321420Z'
+created: '2026-02-13T19:38:04.667220Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Apoe Genotype
 type: biomarker
-updated: '2026-02-13T19:27:03.321420Z'
+updated: '2026-02-13T19:38:04.667220Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.337422Z'
+created: '2026-02-13T19:38:05.692276Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-02-13T19:27:04.337422Z'
+updated: '2026-02-13T19:38:05.692276Z'
 ---
 
 {% raw %}

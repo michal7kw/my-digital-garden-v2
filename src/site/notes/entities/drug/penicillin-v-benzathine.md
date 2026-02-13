@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.801476Z'
+created: '2026-02-13T19:38:06.185130Z'
 description: A long-acting oral salt form of Penicillin V used for the treatment and
   prophylaxis of bacterial infections.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Benzathine
 type: drug
-updated: '2026-02-13T19:27:04.801476Z'
+updated: '2026-02-13T19:38:06.185130Z'
 ---
 
 {% raw %}

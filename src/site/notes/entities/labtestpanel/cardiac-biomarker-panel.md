@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.777589Z'
+created: '2026-02-13T19:38:07.159687Z'
 description: Evaluates cardiac injury and heart failure through key biomarkers including
   troponins for myocardial damage and natriuretic peptides for ventricular stress.
   Essential for emergency chest pain evaluation and heart failure monitoring.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: cardiac_biomarker_panel
 type: labtestpanel
-updated: '2026-02-13T19:27:05.777589Z'
+updated: '2026-02-13T19:38:07.159687Z'
 ---
 
 {% raw %}

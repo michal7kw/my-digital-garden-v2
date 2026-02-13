@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.084574Z'
+created: '2026-02-13T19:38:05.439796Z'
 description: A condition where the flow of bile from the liver stops or slows, leading
   to a buildup of bilirubin and bile salts in the blood.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cholestasis
 type: condition
-updated: '2026-02-13T19:27:04.084574Z'
+updated: '2026-02-13T19:38:05.439796Z'
 ---
 
 {% raw %}

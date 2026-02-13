@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.789879Z'
+created: '2026-02-13T19:38:06.173192Z'
 description: A calcium salt form of Penicillin G, historically used as an antibiotic.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin Calcium
 type: drug
-updated: '2026-02-13T19:27:04.789879Z'
+updated: '2026-02-13T19:38:06.173192Z'
 ---
 
 {% raw %}

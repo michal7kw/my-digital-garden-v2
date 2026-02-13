@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.085200Z'
+created: '2026-02-13T19:38:06.468172Z'
 description: Measures 20+ amino acids. Useful for protein metabolism, neurotransmitter
   synthesis, and metabolic disorders.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: amino_acids_plasma
 type: labtest
-updated: '2026-02-13T19:27:05.085200Z'
+updated: '2026-02-13T19:38:06.468172Z'
 ---
 
 {% raw %}

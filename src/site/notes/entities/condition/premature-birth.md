@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.526183Z'
+created: '2026-02-13T19:38:05.901838Z'
 description: Birth that occurs before the 37th week of pregnancy.
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Premature Birth
 type: condition
-updated: '2026-02-13T19:27:04.526183Z'
+updated: '2026-02-13T19:38:05.901838Z'
 ---
 
 {% raw %}

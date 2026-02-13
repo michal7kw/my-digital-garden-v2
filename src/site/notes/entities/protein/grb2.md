@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.356757Z'
+created: '2026-02-13T19:38:08.795152Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: GRB2
 type: protein
-updated: '2026-02-13T19:27:07.356757Z'
+updated: '2026-02-13T19:38:08.795152Z'
 ---
 
 {% raw %}

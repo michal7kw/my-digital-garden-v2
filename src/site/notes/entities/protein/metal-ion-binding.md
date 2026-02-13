@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.362516Z'
+created: '2026-02-13T19:38:08.801092Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: metal ion binding
 type: protein
-updated: '2026-02-13T19:27:07.362516Z'
+updated: '2026-02-13T19:38:08.801092Z'
 ---
 
 {% raw %}

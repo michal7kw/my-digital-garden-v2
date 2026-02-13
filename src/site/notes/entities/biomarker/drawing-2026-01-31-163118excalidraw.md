@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:03.420994Z'
+created: '2026-02-13T19:38:04.772656Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Drawing 2026-01-31 16.31.18.excalidraw
 type: biomarker
-updated: '2026-02-13T19:27:03.420994Z'
+updated: '2026-02-13T19:38:04.772656Z'
 ---
 
 {% raw %}

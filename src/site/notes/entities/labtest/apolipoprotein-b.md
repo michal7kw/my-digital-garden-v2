@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:05.114692Z'
+created: '2026-02-13T19:38:06.500312Z'
 description: Measures ApoB protein, present in all atherogenic lipoprotein particles.
   Considered superior to LDL-C for CVD risk.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: apolipoprotein_b
 type: labtest
-updated: '2026-02-13T19:27:05.114692Z'
+updated: '2026-02-13T19:38:06.500312Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:07.794746Z'
+created: '2026-02-13T19:38:09.236829Z'
 description: Fat-soluble vitamin essential for calcium metabolism, directing calcium
   to bones and away from arteries. Critical for cardiovascular and bone health, often
   paired with vitamin D.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin K2
 type: supplement
-updated: '2026-02-13T19:27:07.794746Z'
+updated: '2026-02-13T19:38:09.236829Z'
 ---
 
 {% raw %}

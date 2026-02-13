@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.360194Z'
+created: '2026-02-13T19:38:05.715475Z'
 description: A group of conditions that impair the ability to store, retain, and recall
   information, often resulting from neurological damage or degeneration.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Memory Disorders
 type: condition
-updated: '2026-02-13T19:27:04.360194Z'
+updated: '2026-02-13T19:38:05.715475Z'
 ---
 
 {% raw %}

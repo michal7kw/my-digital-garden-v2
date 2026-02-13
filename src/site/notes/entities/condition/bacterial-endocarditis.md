@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:27:04.029345Z'
+created: '2026-02-13T19:38:05.395036Z'
 description: A life-threatening inflammation of the inner lining of the heart's chambers
   and valves (endocardium), caused by a bacterial infection.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Endocarditis
 type: condition
-updated: '2026-02-13T19:27:04.029345Z'
+updated: '2026-02-13T19:38:05.395036Z'
 ---
 
 {% raw %}
