@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:36.479754Z'
+created: '2026-02-13T18:51:27.006286Z'
 description: Joint pain without signs of inflammation.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Arthralgia
 type: phenotype
-updated: '2026-02-13T18:17:36.479754Z'
+updated: '2026-02-13T18:51:27.006286Z'
 ---
 
 {% raw %}

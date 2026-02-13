@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.848521Z'
+created: '2026-02-13T18:51:25.709107Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise
 type: intervention
-updated: '2026-02-13T18:17:34.848521Z'
+updated: '2026-02-13T18:51:25.709107Z'
 ---
 
 {% raw %}

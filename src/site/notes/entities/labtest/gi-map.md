@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.119037Z'
+created: '2026-02-13T18:51:26.045091Z'
 description: Comprehensive stool DNA test for gut microbiome, pathogens, parasites,
   and digestive markers.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: gi_map
 type: labtest
-updated: '2026-02-13T18:17:35.119037Z'
+updated: '2026-02-13T18:51:26.045091Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.084956Z'
+created: '2026-02-13T18:51:24.516865Z'
 description: Serum or plasma neurofilament light chain measurement using ultrasensitive
   immunoassays. A universal blood biomarker for neurodegeneration with applications
   across multiple neurological diseases.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Blood NfL
 type: biomarker
-updated: '2026-02-13T18:17:33.084956Z'
+updated: '2026-02-13T18:51:24.516865Z'
 ---
 
 {% raw %}

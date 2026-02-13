@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.528956Z'
+created: '2026-02-13T18:51:26.400800Z'
 description: High-sensitivity cardiac troponin I (hs-cTnI) test. Detects myocardial
   injury by measuring cardiac-specific troponin I protein released from damaged cardiomyocytes.
   Essential for acute coronary syndrome diagnosis and risk stratification.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: troponin_i
 type: labtest
-updated: '2026-02-13T18:17:35.528956Z'
+updated: '2026-02-13T18:51:26.400800Z'
 ---
 
 {% raw %}

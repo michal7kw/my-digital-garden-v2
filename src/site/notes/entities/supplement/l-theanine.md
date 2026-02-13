@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:37.410571Z'
+created: '2026-02-13T18:51:27.632735Z'
 description: Amino acid found in tea that promotes relaxation without sedation. Increases
   alpha brain waves, enhances GABA, and pairs synergistically with caffeine for calm
   focus.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: L-Theanine
 type: supplement
-updated: '2026-02-13T18:17:37.410571Z'
+updated: '2026-02-13T18:51:27.632735Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.310933Z'
+created: '2026-02-13T18:51:25.270154Z'
 description: A dietary imbalance characterized by a deficiency of Omega-3 fatty acids
   and/or an excess of Omega-6 fatty acids, often promoting systemic inflammation.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Omega Fatty Acid Imbalance
 type: condition
-updated: '2026-02-13T18:17:34.310933Z'
+updated: '2026-02-13T18:51:25.270154Z'
 ---
 
 {% raw %}

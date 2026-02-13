@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:36.820255Z'
+created: '2026-02-13T18:51:27.238838Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Nausea
 type: phenotype
-updated: '2026-02-13T18:17:36.820255Z'
+updated: '2026-02-13T18:51:27.238838Z'
 ---
 
 {% raw %}

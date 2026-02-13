@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.841032Z'
+created: '2026-02-13T18:51:24.918035Z'
 description: A sudden, sharp, or intense pain that serves as a warning sign of disease,
   injury, or threat to the body, typically lasting less than six months.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Pain
 type: condition
-updated: '2026-02-13T18:17:33.841032Z'
+updated: '2026-02-13T18:51:24.918035Z'
 ---
 
 {% raw %}

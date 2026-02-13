@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.594506Z'
+created: '2026-02-13T18:51:25.497294Z'
 description: Tricyclic antidepressant (TCA) with very potent antihistamine properties.
   Used for depression, anxiety, and at low doses for insomnia.
 dg-home: false
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Doxepin
 type: drug
-updated: '2026-02-13T18:17:34.594506Z'
+updated: '2026-02-13T18:51:25.497294Z'
 ---
 
 {% raw %}

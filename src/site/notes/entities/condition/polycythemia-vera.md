@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.381431Z'
+created: '2026-02-13T18:51:25.321054Z'
 description: A slow-growing blood cancer in which the bone marrow makes too many red
   blood cells, causing the blood to thicken and increasing the risk of clots.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Polycythemia Vera
 type: condition
-updated: '2026-02-13T18:17:34.381431Z'
+updated: '2026-02-13T18:51:25.321054Z'
 ---
 
 {% raw %}

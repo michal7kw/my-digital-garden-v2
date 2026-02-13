@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.419439Z'
+created: '2026-02-13T18:51:25.349489Z'
 description: A serious medical condition involving the rapid breakdown of damaged
   skeletal muscle, releasing toxic cell contents into the bloodstream.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rhabdomyolysis
 type: condition
-updated: '2026-02-13T18:17:34.419439Z'
+updated: '2026-02-13T18:51:25.349489Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.077189Z'
+created: '2026-02-13T18:51:25.091802Z'
 description: Infections of the eye or its surrounding structures caused by bacteria,
   viruses, fungi, or parasites.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Eye Infections
 type: condition
-updated: '2026-02-13T18:17:34.077189Z'
+updated: '2026-02-13T18:51:25.091802Z'
 ---
 
 {% raw %}

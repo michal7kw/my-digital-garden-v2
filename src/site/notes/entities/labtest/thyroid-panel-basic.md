@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.477771Z'
+created: '2026-02-13T18:51:26.351679Z'
 description: TSH and Free T4. Standard initial thyroid assessment.
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_panel_basic
 type: labtest
-updated: '2026-02-13T18:17:35.477771Z'
+updated: '2026-02-13T18:51:26.351679Z'
 ---
 
 {% raw %}

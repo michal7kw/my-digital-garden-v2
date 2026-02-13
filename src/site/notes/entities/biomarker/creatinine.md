@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.133535Z'
+created: '2026-02-13T18:51:24.545184Z'
 description: Creatinine is a waste product from muscle metabolism filtered by the
   kidneys. Elevated levels indicate reduced kidney function.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Creatinine
 type: biomarker
-updated: '2026-02-13T18:17:33.133535Z'
+updated: '2026-02-13T18:51:24.545184Z'
 ---
 
 {% raw %}

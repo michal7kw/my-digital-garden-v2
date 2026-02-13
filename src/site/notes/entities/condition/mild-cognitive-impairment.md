@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.264277Z'
+created: '2026-02-13T18:51:25.242022Z'
 description: An intermediate stage between normal age-related cognitive decline and
   dementia. Represents increased risk for progression to Alzheimer's disease or other
   dementias, but may remain stable or improve.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mild Cognitive Impairment
 type: condition
-updated: '2026-02-13T18:17:34.264277Z'
+updated: '2026-02-13T18:51:25.242022Z'
 ---
 
 {% raw %}

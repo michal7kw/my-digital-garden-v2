@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:37.548080Z'
+created: '2026-02-13T18:51:27.847182Z'
 description: Fat-soluble secosteroid hormone critical for calcium absorption, bone
   health, immune function, and numerous other physiological processes. Synthesized
   in skin upon sun exposure or obtained through supplementation.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D
 type: supplement
-updated: '2026-02-13T18:17:37.548080Z'
+updated: '2026-02-13T18:51:27.847182Z'
 ---
 
 {% raw %}

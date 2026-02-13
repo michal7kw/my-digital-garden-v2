@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.900842Z'
+created: '2026-02-13T18:51:26.675095Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Red Nucleus
 type: organ
-updated: '2026-02-13T18:17:35.900842Z'
+updated: '2026-02-13T18:51:26.675095Z'
 ---
 
 {% raw %}

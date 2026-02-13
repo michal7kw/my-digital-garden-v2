@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.116637Z'
+created: '2026-02-13T18:51:24.534668Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Chloride
 type: biomarker
-updated: '2026-02-13T18:17:33.116637Z'
+updated: '2026-02-13T18:51:24.534668Z'
 ---
 
 {% raw %}

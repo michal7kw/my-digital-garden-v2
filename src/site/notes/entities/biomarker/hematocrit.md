@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.232426Z'
+created: '2026-02-13T18:51:24.619774Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Hematocrit
 type: biomarker
-updated: '2026-02-13T18:17:33.232426Z'
+updated: '2026-02-13T18:51:24.619774Z'
 ---
 
 {% raw %}

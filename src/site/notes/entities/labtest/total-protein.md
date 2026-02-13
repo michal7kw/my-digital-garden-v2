@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.513823Z'
+created: '2026-02-13T18:51:26.385523Z'
 description: Tested twice a year Total protein measures the combined levels of albumin
   and globulin in the blood. Maintaining adequate protein levels is important for
   overall health, as proteins support tissue repair, immune function, and general
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: total_protein
 type: labtest
-updated: '2026-02-13T18:17:35.513823Z'
+updated: '2026-02-13T18:51:26.385523Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.031968Z'
+created: '2026-02-13T18:51:24.476280Z'
 description: A group of protein biomarkers used for the early detection and monitoring
   of acute kidney injury (AKI), reflecting tubular damage or functional decline.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Kidney Injury Markers
 type: biomarker
-updated: '2026-02-13T18:17:33.031968Z'
+updated: '2026-02-13T18:51:24.476280Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.450832Z'
+created: '2026-02-13T18:51:25.377967Z'
 description: An uncontrolled growth of abnormal cells arising from the squamous cells
   in the epidermis (skin) or linings of digestive/respiratory tracts.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Squamous Cell Carcinoma
 type: condition
-updated: '2026-02-13T18:17:34.450832Z'
+updated: '2026-02-13T18:51:25.377967Z'
 ---
 
 {% raw %}

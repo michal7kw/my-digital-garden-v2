@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.184993Z'
+created: '2026-02-13T18:51:25.182623Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency
 type: condition
-updated: '2026-02-13T18:17:34.184993Z'
+updated: '2026-02-13T18:51:25.182623Z'
 ---
 
 {% raw %}

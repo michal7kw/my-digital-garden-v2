@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.446101Z'
+created: '2026-02-13T18:51:25.373644Z'
 description: The process of discontinuing tobacco smoking, a critical intervention
   for reducing the risk of smoking-related diseases.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Smoking Cessation
 type: condition
-updated: '2026-02-13T18:17:34.446101Z'
+updated: '2026-02-13T18:51:25.373644Z'
 ---
 
 {% raw %}

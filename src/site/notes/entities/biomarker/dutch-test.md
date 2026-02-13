@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.163165Z'
+created: '2026-02-13T18:51:24.563167Z'
 description: Dried Urine Test for Comprehensive Hormones, providing a detailed look
   at sex hormones, adrenal function (cortisol), and their metabolites.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: DUTCH Test
 type: biomarker
-updated: '2026-02-13T18:17:33.163165Z'
+updated: '2026-02-13T18:51:24.563167Z'
 ---
 
 {% raw %}

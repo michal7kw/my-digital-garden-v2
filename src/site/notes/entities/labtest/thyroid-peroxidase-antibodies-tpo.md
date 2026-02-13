@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.484267Z'
+created: '2026-02-13T18:51:26.357482Z'
 description: TPO antibodies are proteins made by the immune system that target an
   enzyme needed for thyroid hormone production. Detecting TPO antibodies can reveal
   autoimmune activity that may impair thyroid function. Possible symptoms UNEXPLAINED
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_peroxidase_antibodies_tpo
 type: labtest
-updated: '2026-02-13T18:17:35.484267Z'
+updated: '2026-02-13T18:51:26.357482Z'
 ---
 
 {% raw %}

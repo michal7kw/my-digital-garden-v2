@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.409166Z'
+created: '2026-02-13T18:51:24.746728Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium
 type: biomarker
-updated: '2026-02-13T18:17:33.409166Z'
+updated: '2026-02-13T18:51:24.746728Z'
 ---
 
 {% raw %}

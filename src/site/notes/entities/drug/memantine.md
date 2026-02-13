@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.630114Z'
+created: '2026-02-13T18:51:25.526473Z'
 description: Uncompetitive NMDA receptor antagonist. Protects neurons from excitotoxicity.
   Used for moderate to severe Alzheimer's disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Memantine
 type: drug
-updated: '2026-02-13T18:17:34.630114Z'
+updated: '2026-02-13T18:51:25.526473Z'
 ---
 
 {% raw %}

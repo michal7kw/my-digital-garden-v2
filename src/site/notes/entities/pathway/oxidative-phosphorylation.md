@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:36.223076Z'
+created: '2026-02-13T18:51:26.908079Z'
 description: The mitochondrial process that couples electron transport from NADH and
   FADH2 to oxygen with ATP synthesis. Produces the vast majority (~90%) of cellular
   ATP through chemiosmotic coupling across the inner mitochondrial membrane.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Phosphorylation
 type: pathway
-updated: '2026-02-13T18:17:36.223076Z'
+updated: '2026-02-13T18:51:26.908079Z'
 ---
 
 {% raw %}

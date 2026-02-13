@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:33.187377Z'
+created: '2026-02-13T18:51:24.577065Z'
 dg-home: false
 dg-publish: true
 gardenUsername: dev_admin
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Fibrinogen
 type: biomarker
-updated: '2026-02-13T18:17:33.187377Z'
+updated: '2026-02-13T18:51:24.577065Z'
 ---
 
 {% raw %}

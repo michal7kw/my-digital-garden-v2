@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:37.383538Z'
+created: '2026-02-13T18:51:27.617285Z'
 description: A plant polyphenol and potent senolytic that selectively clears senescent
   cells and supports cognitive health.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Fisetin
 type: supplement
-updated: '2026-02-13T18:17:37.383538Z'
+updated: '2026-02-13T18:51:27.617285Z'
 ---
 
 {% raw %}

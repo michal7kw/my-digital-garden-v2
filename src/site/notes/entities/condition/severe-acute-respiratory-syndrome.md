@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.435586Z'
+created: '2026-02-13T18:51:25.365588Z'
 description: A viral respiratory illness caused by a coronavirus (SARS-CoV), first
   identified in 2003.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Severe Acute Respiratory Syndrome
 type: condition
-updated: '2026-02-13T18:17:34.435586Z'
+updated: '2026-02-13T18:51:25.365588Z'
 ---
 
 {% raw %}

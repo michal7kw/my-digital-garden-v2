@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:34.712087Z'
+created: '2026-02-13T18:51:25.587588Z'
 description: Single-photon emission computed tomography imaging of dopamine transporter
   density. Used to confirm dopaminergic deficit in Parkinson's disease and differentiate
   from essential tremor or drug-induced parkinsonism.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: DAT-SPECT
 type: examination
-updated: '2026-02-13T18:17:34.712087Z'
+updated: '2026-02-13T18:51:25.587588Z'
 ---
 
 {% raw %}

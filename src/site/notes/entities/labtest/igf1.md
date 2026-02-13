@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T18:17:35.175734Z'
+created: '2026-02-13T18:51:26.089530Z'
 description: Growth hormone mediator. Marker for GH deficiency/excess and biological
   aging research.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: igf1
 type: labtest
-updated: '2026-02-13T18:17:35.175734Z'
+updated: '2026-02-13T18:51:26.089530Z'
 ---
 
 {% raw %}
