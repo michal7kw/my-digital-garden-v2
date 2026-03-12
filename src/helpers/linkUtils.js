@@ -65,6 +65,7 @@ function getGraph(data) {
       title: v.data.title || v.fileSlug,
       url: v.url,
       group,
+      entityType: v.data['dg-entity-type'] || v.data.type || group || 'default',
       home: v.data['dg-home'] || (v.data.tags && v.data.tags.indexOf('gardenEntry') > -1) || false,
       outBound: extractLinks(v.template.frontMatter.content),
       neighbors: new Set(),
