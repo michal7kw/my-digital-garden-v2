@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.827525Z'
+created: '2026-03-27T09:46:14.274702Z'
 description: Encodes the Androgen Receptor, a DNA-binding transcription factor that
   regulates gene expression in response to androgens.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/ar/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/ar/
 slug: ar
 tags:
 - gene
@@ -16,19 +16,15 @@ tags:
 templateEngineOverride: njk
 title: AR
 type: gene
-updated: '2026-03-12T06:00:32.827525Z'
+updated: '2026-03-27T09:46:14.274702Z'
 ---
 
 {% raw %}
 <h1>AR</h1>
 <h2>Overview</h2>
-<p>The <strong>AR</strong> gene encodes the <strong>Androgen Receptor</strong>, a nuclear receptor superfamily member. Upon binding androgenic hormones (testosterone, dihydrotestosterone), it translocates to the nucleus and regulates the expression of genes involved in male sexual development and maintenance.</p>
-<p>Mutations in this gene are associated with Androgen Insensitivity Syndrome (AIS) and Spinal Bulbar Muscular Atrophy (Kennedy's disease). It is a key driver and therapeutic target in <strong>Prostate Cancer</strong>.</p>
+<p>Encodes the Androgen Receptor, a DNA-binding transcription factor that regulates gene expression in response to androgens.</p>
 <h2>Relationships</h2>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prostate Cancer</a></p>
-<h2>References</h2>
-<ol>
-<li><strong>Genetics</strong>: Quigley, C. A., et al. (1995). &quot;Androgen receptor defects: historical, clinical, and molecular perspectives.&quot; <em>Endocrine Reviews</em>.</li>
-</ol>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prostate_Cancer</a></p>
 
 {% endraw %}

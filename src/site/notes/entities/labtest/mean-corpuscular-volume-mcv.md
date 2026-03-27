@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.283648Z'
+created: '2026-03-27T09:46:13.901552Z'
 description: Tested twice a year Mean corpuscular volume (MCV) looks at the average
   size of red blood cells, the cells that carry oxygen throughout the body. Smaller-than-normal
   cells (low MCV) are often linked to iron deficiency anemia or thalassemia, while
@@ -9,15 +9,15 @@ description: Tested twice a year Mean corpuscular volume (MCV) looks at the aver
   or weakness.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mean-corpuscular-volume-mcv/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/mean-corpuscular-volume-mcv/
 slug: mean-corpuscular-volume-mcv
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_corpuscular_volume_mcv
 type: labtest
-updated: '2026-03-12T06:00:33.283648Z'
+updated: '2026-03-27T09:46:13.901552Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-03-12T06:00:33.283648Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Cbc</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -52,7 +52,7 @@ updated: '2026-03-12T06:00:33.283648Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -60,25 +60,18 @@ updated: '2026-03-12T06:00:33.283648Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Thalassemia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Folate Deficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Folate_Deficiency</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Folate_Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a></p>
+RELATED::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -86,6 +79,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficien
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:33.656439</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:53.904672+00:00</em></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.307364Z'
+created: '2026-03-27T09:46:13.915624Z'
 description: Tested twice a year Nitrites in urine can form when bacteria in the urinary
   tract convert naturally occurring nitrates into nitrites. Because nitrites in urine
   are not normally present in healthy individuals, their presence can serve as a marker
@@ -7,15 +7,15 @@ description: Tested twice a year Nitrites in urine can form when bacteria in the
   marker for urinary tract infections.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/nitrite-urine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/nitrite-urine/
 slug: nitrite-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: nitrite_urine
 type: labtest
-updated: '2026-03-12T06:00:33.307364Z'
+updated: '2026-03-27T09:46:13.915624Z'
 ---
 
 {% raw %}
@@ -38,19 +38,19 @@ updated: '2026-03-12T06:00:33.307364Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -70,6 +70,6 @@ updated: '2026-03-12T06:00:33.307364Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:35.439045</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:03.564066+00:00</em></p>
 
 {% endraw %}

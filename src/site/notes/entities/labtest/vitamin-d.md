@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.632503Z'
+created: '2026-03-27T09:46:14.016968Z'
 description: Vitamin D is an essential nutrient for immune health, strong bones and
   muscles, and optimal brain performance. Unlike most vitamins, it isn't widely available
   in food and is mainly made in the body through sun exposure. Because of this, low
@@ -7,8 +7,8 @@ description: Vitamin D is an essential nutrient for immune health, strong bones 
   mood, and long-term immune, bone, and cardiovascular health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/vitamin-d/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/vitamin-d/
 slug: vitamin-d
 tags:
 - labtest
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d
 type: labtest
-updated: '2026-03-12T06:00:33.632503Z'
+updated: '2026-03-27T09:46:14.016968Z'
 ---
 
 {% raw %}
@@ -42,11 +42,7 @@ updated: '2026-03-12T06:00:33.632503Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Nutrient Panel</td>
-</tr>
-<tr>
-<td><strong>Test Type</strong></td>
-<td>Standard</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -58,25 +54,13 @@ updated: '2026-03-12T06:00:33.632503Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
-</tr>
-<tr>
-<td><strong>Price Range</strong></td>
-<td>$49-$99</td>
-</tr>
-<tr>
-<td><strong>HSA Eligible</strong></td>
-<td>✅ Yes</td>
-</tr>
-<tr>
-<td><strong>FSA Eligible</strong></td>
-<td>✅ Yes</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
 <h2>🧬 Biomarkers Measured</h2>
 <p>This test measures the following biomarkers with detailed measurement context:</p>
-<h3><a href="/garden/michal.k7w@gmail.com/primary/vitamin-d-25-hydroxy/" class="internal-link">Vitamin D, 25-Hydroxy</a> (Primary)</h3>
+<h3><a href="/garden/dev_admin/primary/vitamin-d-25-hydroxy/" class="internal-link">Vitamin D, 25-Hydroxy</a> (Primary)</h3>
 <table>
 <thead>
 <tr>
@@ -94,29 +78,34 @@ updated: '2026-03-12T06:00:33.632503Z'
 <td>Immunoassay / LC-MS</td>
 </tr>
 <tr>
-<td><strong>Conventional Range</strong></td>
-<td>30 - 100 ng/mL</td>
+<td><strong>Interpretation Guide:</strong></td>
+<td></td>
 </tr>
 <tr>
-<td><strong>Optimal Range</strong></td>
-<td>40 - 70 ng/mL</td>
+<td><strong>Deficiency:</strong> &lt; 20 ng/mL</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Insufficiency:</strong> 20 - 29 ng/mL</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Optimal:</strong> 40 - 70 ng/mL</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Toxicity:</strong> &gt; 100 ng/mL</td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Interpretation Guide:</strong><br />
-<strong>Deficiency:</strong> &lt; 20 ng/mL<br />
-<strong>Insufficiency:</strong> 20 - 29 ng/mL<br />
-<strong>Optimal:</strong> 40 - 70 ng/mL<br />
-<strong>Toxicity:</strong> &gt; 100 ng/mL</p>
 <p>Functional medicine practitioners often recommend maintaining levels between 40-70 ng/mL for optimal immune and bone health.</p>
 <h2>🏥 Where to Order</h2>
 <p>Compare providers for this test:</p>
 <h3>1. Walk-In Lab</h3>
 <ul>
 <li><strong>Price:</strong> $59.00</li>
-<li><strong>Turnaround:</strong> 2 days</li>
-<li><strong>Quality Rating:</strong> ⭐⭐⭐⭐</li>
-<li><strong><a href="https://www.walkinlab.com/products/view/vitamin-d-25-hydroxy-blood-test">🔗 Order Test</a></strong></li>
+<li><strong>Turnaround:</strong> 2 days- <strong>Quality Rating:</strong> ⭐⭐⭐⭐- <strong><a href="https://www.walkinlab.com/products/view/vitamin-d-25-hydroxy-blood-test">🔗 Order Test</a></strong></li>
 </ul>
 <h3>2. Quest Diagnostics</h3>
 <ul>
@@ -134,7 +123,7 @@ updated: '2026-03-12T06:00:33.632503Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
+<li><a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Bone Loss (Osteopenia Or Osteoporosis)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Low Mood/Cognitive Effects</a></li>
@@ -163,21 +152,21 @@ updated: '2026-03-12T06:00:33.632503Z'
 <p>For functional medicine interpretation, optimal ranges may be narrower than conventional lab ranges.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Osteopenia_Or_Osteoporosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Osteopenia_Or_Osteoporosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Low_MoodCognitive_Effects</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a><br />
+RELATED::<a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a></p>
+RELATED::<a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
 <h3>Measures</h3>
 <p>MEASURES::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a></p>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -185,6 +174,6 @@ INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamin
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:05:39.783464+00:00</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:12.234573+00:00</em></p>
 
 {% endraw %}

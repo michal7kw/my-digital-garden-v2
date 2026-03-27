@@ -1,6 +1,6 @@
 ---
 created: 2025-11-01
-updated: 2026-03-05
+updated: 2026-03-12
 ---
 # CLAUDE.md - curated_garden
 
@@ -48,47 +48,14 @@ cd curated_garden
 # Install dependencies (first-time setup)
 bun install
 
-# Start development server (default: http://localhost:8080)
-bun run dev
+# Start development server with hot reload (http://localhost:8080)
+bun run start
 
-# Build for production (output: _site/ directory)
+# Build for production (output: dist/ directory)
 bun run build
 
-# Preview production build locally
-bun run serve
-
-# Deploy to Vercel (requires Vercel CLI)
-bun run deploy
-```
-
-### Content Management
-```bash
-# Process new notes from Obsidian vault
-bun run process-notes
-
-# Update full-text search index
-bun run update-search
-
-# Clean and rebuild entire site
-bun run clean && bun run build
-
-# Validate links and cross-references
-bun run validate-links
-```
-
-### Development Workflow
-```bash
-# Watch for changes during development
-bun run dev
-
-# Build with specific environment
-NODE_ENV=production bun run build
-
-# Run linting
-bun run lint
-
-# Check for broken links
-bun run check-links
+# Clean and rebuild
+bun run prebuild && bun run build
 ```
 
 ## Template Features

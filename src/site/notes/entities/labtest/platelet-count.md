@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.373922Z'
+created: '2026-03-27T09:46:13.947799Z'
 description: Tested twice a year Platelet count measures the number of platelets—tiny
   blood cells that help blood clot and support healing. Low counts (thrombocytopenia)
   can make bruising or bleeding more noticeable, while high counts (thrombocytosis)
@@ -8,15 +8,15 @@ description: Tested twice a year Platelet count measures the number of platelets
   infections, or the effects of certain medicines.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/platelet-count/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/platelet-count/
 slug: platelet-count
 tags:
 - labtest
 templateEngineOverride: njk
 title: platelet_count
 type: labtest
-updated: '2026-03-12T06:00:33.373922Z'
+updated: '2026-03-27T09:46:13.947799Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ updated: '2026-03-12T06:00:33.373922Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Cbc</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -51,7 +51,7 @@ updated: '2026-03-12T06:00:33.373922Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -59,30 +59,23 @@ updated: '2026-03-12T06:00:33.373922Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Thrombocytopenia (Low Platelets)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thrombocytopenia_Low_Platelets</a></p>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -90,6 +83,6 @@ ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bone-
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:38.668733</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:03.639510+00:00</em></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.435325Z'
+created: '2026-03-27T09:46:13.976331Z'
 description: Tested twice a year Squamous epithelial cells in urine usually come from
   the lower urinary tract or genital area and are often a sign of sample contamination
   rather than disease. However, when present in higher numbers alongside other abnormalities,
@@ -7,15 +7,15 @@ description: Tested twice a year Squamous epithelial cells in urine usually come
   tract.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/squamous-epithelial-cells/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/squamous-epithelial-cells/
 slug: squamous-epithelial-cells
 tags:
 - labtest
 templateEngineOverride: njk
 title: squamous_epithelial_cells
 type: labtest
-updated: '2026-03-12T06:00:33.435325Z'
+updated: '2026-03-27T09:46:13.976331Z'
 ---
 
 {% raw %}
@@ -38,19 +38,19 @@ updated: '2026-03-12T06:00:33.435325Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -70,6 +70,6 @@ updated: '2026-03-12T06:00:33.435325Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:41.219511</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:16.496570+00:00</em></p>
 
 {% endraw %}

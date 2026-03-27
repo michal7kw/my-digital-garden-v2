@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.459174Z'
+created: '2026-03-27T09:46:13.988140Z'
 description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland and
   signals the thyroid to produce T4 and T3. Because TSH rises when thyroid hormone
   levels are low and falls when they are high, measuring TSH is one of the most useful
   ways to assess whether the thyroid is underactive, overactive, or functioning normally.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-stimulating-hormone-tsh/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/
 slug: thyroid-stimulating-hormone-tsh
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_stimulating_hormone_tsh
 type: labtest
-updated: '2026-03-12T06:00:33.459174Z'
+updated: '2026-03-27T09:46:13.988140Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ updated: '2026-03-12T06:00:33.459174Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Thyroid</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -49,7 +49,7 @@ updated: '2026-03-12T06:00:33.459174Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -57,30 +57,23 @@ updated: '2026-03-12T06:00:33.459174Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Hypothyroidism (E.G. Hashimoto’S Disease)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Hyperthyroidism (E.G. Graves’ Disease, Toxic Nodular Goiter)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dyslipidemia Or High Cholesterol</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Bone Loss Or Osteoporosis</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a><br />
+RELATED::<a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +81,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_Ha
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:42.686311</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:10.981313+00:00</em></p>
 
 {% endraw %}

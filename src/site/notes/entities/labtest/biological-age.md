@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.007285Z'
+created: '2026-03-27T09:46:13.753230Z'
 description: Tested twice a year Biological age reflects how one's body is aging at
   the cellular and molecular levels, which can determine the risk of age-related conditions
   like cardiovascular diseases and cognitive decline. Unlike calendar age (number
@@ -10,15 +10,15 @@ description: Tested twice a year Biological age reflects how one's body is aging
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/biological-age/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/biological-age/
 slug: biological-age
 tags:
 - labtest
 templateEngineOverride: njk
 title: biological_age
 type: labtest
-updated: '2026-03-12T06:00:33.007285Z'
+updated: '2026-03-27T09:46:13.753230Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ updated: '2026-03-12T06:00:33.007285Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Biological Age</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -53,7 +53,7 @@ updated: '2026-03-12T06:00:33.007285Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -73,6 +73,6 @@ updated: '2026-03-12T06:00:33.007285Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:17.241610</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:09.338429+00:00</em></p>
 
 {% endraw %}

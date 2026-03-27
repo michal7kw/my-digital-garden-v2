@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:32.729378Z'
+created: '2026-03-27T09:46:13.640968Z'
 description: Synthetic corticosteroid with potent anti-inflammatory and immunosuppressive
   effects. Used for a wide range of inflammatory and autoimmune conditions. Converted
   to active prednisolone in the liver.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/prednisone/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/drug/prednisone/
 slug: prednisone
 tags:
 - drug
@@ -17,21 +17,17 @@ tags:
 templateEngineOverride: njk
 title: Prednisone
 type: drug
-updated: '2026-03-12T06:00:32.729378Z'
+updated: '2026-03-27T09:46:13.640968Z'
 ---
 
 {% raw %}
 <h1>Prednisone</h1>
 <h2>Overview</h2>
 <p>Synthetic corticosteroid with potent anti-inflammatory and immunosuppressive effects. Used for a wide range of inflammatory and autoimmune conditions. Converted to active prednisolone in the liver.</p>
-<h2>Pharmacological Information</h2>
-<h2>Clinical Features</h2>
-<h2>Classification</h2>
-<h2>Chemical Properties</h2>
 <h2>Relationships</h2>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a></p>
+<p>RELATED::<a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a></p>
 
 {% endraw %}

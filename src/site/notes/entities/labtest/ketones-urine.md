@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.201626Z'
+created: '2026-03-27T09:46:13.863413Z'
 description: Tested twice a year Ketones are energy molecules the body makes when
   it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged
   exercise. This can be a normal response, but high levels of ketones in urine (ketonuria)
   may also be linked to conditions such as diabetes or kidney disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/ketones-urine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/ketones-urine/
 slug: ketones-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: ketones_urine
 type: labtest
-updated: '2026-03-12T06:00:33.201626Z'
+updated: '2026-03-27T09:46:13.863413Z'
 ---
 
 {% raw %}
@@ -37,19 +37,19 @@ updated: '2026-03-12T06:00:33.201626Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -57,23 +57,16 @@ updated: '2026-03-12T06:00:33.201626Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Type 1 Or Type 2 Diabetes</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Prediabetes</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Low-Carbohydrate Diet State (Ketosis)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Prolonged Fasting</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prolonged_Fasting</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type_1_Or_Type_2_Diabetes</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Low-Carbohydrate_Diet_State_Ketosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Low-Carbohydrate_Diet_State_Ketosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Type_1_Or_Type_2_Diabetes</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prolonged_Fasting</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -81,6 +74,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a></p>
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:27.691370</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:54.197012+00:00</em></p>
 
 {% endraw %}

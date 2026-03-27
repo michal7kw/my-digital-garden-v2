@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:32.993655Z'
+created: '2026-03-27T09:46:13.745740Z'
 description: Tested twice a year Testing for bacteria in urine can help identify urinary
   tract infections (UTIs), by detecting microbes that should not normally be present
   in urine. Finding bacteria in urine can also uncover contamination from improper
   sample collection, making it an useful tool for diagnosis and guiding treatment.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/bacteria-urine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/bacteria-urine/
 slug: bacteria-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: bacteria_urine
 type: labtest
-updated: '2026-03-12T06:00:32.993655Z'
+updated: '2026-03-27T09:46:13.745740Z'
 ---
 
 {% raw %}
@@ -37,19 +37,19 @@ updated: '2026-03-12T06:00:32.993655Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -69,6 +69,6 @@ updated: '2026-03-12T06:00:32.993655Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:16.653675</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:57.742062+00:00</em></p>
 
 {% endraw %}

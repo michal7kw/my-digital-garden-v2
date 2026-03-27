@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:32.927655Z'
+created: '2026-03-27T09:46:13.711101Z'
 description: ABO group and Rh factor are the two main systems used to determine blood
   type, which is essential for safe blood transfusions, organ transplants, and pregnancy
   care. The ABO system includes four main types—A, B, AB, and O—based on which antigens
@@ -9,15 +9,15 @@ description: ABO group and Rh factor are the two main systems used to determine 
   you want to donate blood to help others.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/abo-group-and-rhesus-rh-factor/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/abo-group-and-rhesus-rh-factor/
 slug: abo-group-and-rhesus-rh-factor
 tags:
 - labtest
 templateEngineOverride: njk
 title: abo_group_and_rhesus_rh_factor
 type: labtest
-updated: '2026-03-12T06:00:32.927655Z'
+updated: '2026-03-27T09:46:13.711101Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-03-12T06:00:32.927655Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Cbc</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -52,7 +52,7 @@ updated: '2026-03-12T06:00:32.927655Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -72,6 +72,6 @@ updated: '2026-03-12T06:00:32.927655Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:12.657936</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:59.354094+00:00</em></p>
 
 {% endraw %}

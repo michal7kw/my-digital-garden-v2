@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.199057Z'
+created: '2026-03-27T09:46:13.257535Z'
 description: Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling
   center and a central hub for nutrient sensing via mTOR/AMPK.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cellularcomponent/lysosome/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/cellularcomponent/lysosome/
 slug: lysosome
 tags:
 - cellularcomponent
@@ -17,53 +17,29 @@ tags:
 templateEngineOverride: njk
 title: Lysosome
 type: cellularcomponent
-updated: '2026-03-12T06:00:32.199057Z'
+updated: '2026-03-27T09:46:13.257535Z'
 ---
 
 {% raw %}
 <h1>Lysosome</h1>
-<h2>Overview</h2>
-<p>The <strong>Lysosome</strong> is an acidic (pH ~4.5-5.0), membrane-bound organelle filled with over 50 different hydrolytic enzymes. It serves as the terminal degradation station for the autophagy pathway, breaking down cellular waste, damaged organelles, and pathogens into basic building blocks (amino acids, fatty acids, sugars) that are recycled back into the cytoplasm.</p>
-<p>Far from being a simple garbage bin, the lysosome is now recognized as a sophisticated signaling hub that integrates nutrient sensing.</p>
-<h2>Mechanism and Function</h2>
-<h3>1. Degradation (Autophagy Endpoint)</h3>
-<p>Autophagosomes carrying cargo fuse with lysosomes to form <strong>autolysosomes</strong>. The acidic environment activates hydrolases (proteases, lipases, nucleases) to digest the cargo.</p>
-<ul>
-<li><strong>TFEB Regulation:</strong> The Transcription Factor EB (TFEB) is the master regulator of lysosomal biogenesis. During starvation, TFEB enters the nucleus to produce more lysosomes and autophagy proteins.</li>
-</ul>
-<h3>2. Nutrient Sensing (mTORC1)</h3>
-<p>The lysosomal surface is the &quot;headquarters&quot; for <strong>mTORC1</strong>.</p>
-<ul>
-<li><strong>High Nutrients:</strong> mTORC1 docks to the lysosome surface (via Rag GTPases), becomes active, and inhibits TFEB (keeping it in the cytoplasm). This promotes growth.</li>
-<li><strong>Starvation:</strong> mTORC1 falls off the lysosome and becomes inactive. TFEB is released to trigger autophagy.</li>
-</ul>
-<h2>Clinical Significance</h2>
-<ul>
-<li><strong>Lysosomal Storage Diseases:</strong> Genetic defects in specific hydrolases lead to the accumulation of undigested toxic waste (e.g., Tay-Sachs, Gaucher's).</li>
-<li><strong>Neurodegeneration:</strong> In Alzheimer's and Parkinson's, lysosomal acidification often fails, preventing the clearance of toxic protein aggregates (Amyloid/Tau).</li>
-<li><strong>Longevity:</strong> Lysosomal function declines with age. Enhancing lysosomal activity extends lifespan in model organisms.</li>
-</ul>
+<h2>Description</h2>
+<p>Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling center and a central hub for nutrient sensing via mTOR/AMPK.</p>
 <h2>Relationships</h2>
 <h3>Degrades</h3>
 <p>DEGRADES::<a class="internal-link is-unresolved" href="/404">Amyloid_Beta</a><br />
 DEGRADES::<a class="internal-link is-unresolved" href="/404">Damaged_Mitochondria</a></p>
-<h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy/" class="internal-link">Autophagy</a></p>
-<h3>Contains</h3>
-<p>CONTAINS::<a class="internal-link is-unresolved" href="/404">Hydrolytic_Enzymes</a></p>
+<h3>Regulates</h3>
+<p>REGULATES::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR_Pathway</a></p>
 <h3>Requires</h3>
 <p>REQUIRES::<a class="internal-link is-unresolved" href="/404">Acidic_pH</a></p>
-<h3>Regulated By</h3>
-<p>REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lysosomal_Storage_Diseases</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a></p>
-<h3>Regulates</h3>
-<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/pathway/mtor-pathway/" class="internal-link">mTOR_Pathway</a></p>
-<h2>References</h2>
-<ul>
-<li>Settembre C, et al. TFEB links autophagy to lysosomal biogenesis. Science. 2011;332(6036):1429-33.</li>
-<li>Zoncu R, et al. mTORC1 sensing of lysosomal amino acids. Science. 2011;334(6056):678-83.</li>
-</ul>
+<h3>Contains</h3>
+<p>CONTAINS::<a class="internal-link is-unresolved" href="/404">Hydrolytic_Enzymes</a></p>
+<h3>Regulated By</h3>
+<p>REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a></p>
+<h3>Participates In Pathway</h3>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a></p>
 
 {% endraw %}

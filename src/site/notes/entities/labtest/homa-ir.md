@@ -1,17 +1,17 @@
 ---
-created: '2026-03-12T06:00:33.159206Z'
+created: '2026-03-27T09:46:13.845489Z'
 description: Calculated from fasting glucose and insulin. Quantifies insulin resistance.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/homa-ir/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/homa-ir/
 slug: homa-ir
 tags:
 - labtest
 templateEngineOverride: njk
 title: homa_ir
 type: labtest
-updated: '2026-03-12T06:00:33.159206Z'
+updated: '2026-03-27T09:46:13.845489Z'
 ---
 
 {% raw %}
@@ -60,9 +60,9 @@ updated: '2026-03-12T06:00:33.159206Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa_ir</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
+<li><a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a></li>
+<li><a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a></li>
+<li><a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -73,9 +73,9 @@ updated: '2026-03-12T06:00:33.159206Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></p>
+<p>RELATED::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -83,6 +83,6 @@ RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:48.482976+00:00</em></p>
 
 {% endraw %}

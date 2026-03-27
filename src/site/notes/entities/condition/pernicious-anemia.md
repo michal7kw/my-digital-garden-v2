@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:32.538813Z'
+created: '2026-03-27T09:46:13.516879Z'
 description: An autoimmune condition characterized by the body's inability to absorb
   Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and
   neurological issues.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/pernicious-anemia/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/pernicious-anemia/
 slug: pernicious-anemia
 tags:
 - condition
@@ -17,46 +17,26 @@ tags:
 templateEngineOverride: njk
 title: Pernicious Anemia
 type: condition
-updated: '2026-03-12T06:00:32.538813Z'
+updated: '2026-03-27T09:46:13.516879Z'
 ---
 
 {% raw %}
 <h1>Pernicious Anemia</h1>
 <h2>Overview</h2>
 <p>An autoimmune condition characterized by the body's inability to absorb Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and neurological issues.</p>
-<h2>Clinical Presentation</h2>
-<h3>Symptoms</h3>
-<p>Not specified.</p>
-<h2>Diagnostic Information</h2>
-<h2>Risk Factors</h2>
-<h2>Management</h2>
-<h3>Interventions</h3>
-<pre><code class="language-dataview">TABLE 
-    effectiveness AS &quot;Effectiveness&quot;,
-    confidence_score AS &quot;Confidence&quot;
-FROM [[Pernicious Anemia]] AND #intervention
-SORT confidence_score DESC
-</code></pre>
-<h2>Other Relationships</h2>
-<h3>May Detect</h3>
-<h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a></p>
-<h2>Research</h2>
-<h3>Recent Studies</h3>
-<pre><code class="language-dataview">LIST
-FROM [[Pernicious Anemia]] AND #research
-WHERE date &gt;= date(today) - dur(1 year)
-SORT date DESC
-</code></pre>
-<h3>Clinical Trials</h3>
-<pre><code class="language-dataview">LIST status
-FROM [[Pernicious Anemia]] AND #clinical-trial
-SORT date DESC
-</code></pre>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<h2>References</h2>
-<p>No references available.</p>
+<p>RELATED::<a href="/garden/dev_admin/labtest/methylmalonic-acid/" class="internal-link">methylmalonic_acid</a></p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/rbc/" class="internal-link">Rbc</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
 
 {% endraw %}

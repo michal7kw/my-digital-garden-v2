@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.541827Z'
+created: '2026-03-27T09:46:13.519515Z'
 description: A group of conditions resulting from the dysfunction of the pituitary
   gland, the body's "master gland," typically caused by tumors or inflammation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/pituitary-disorder/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/pituitary-disorder/
 slug: pituitary-disorder
 tags:
 - condition
@@ -15,28 +15,24 @@ tags:
 templateEngineOverride: njk
 title: Pituitary Disorder
 type: condition
-updated: '2026-03-12T06:00:32.541827Z'
+updated: '2026-03-27T09:46:13.519515Z'
 ---
 
 {% raw %}
 <h1>Pituitary Disorder</h1>
 <h2>Overview</h2>
-<p>The pituitary gland regulates most other endocrine glands. Dysfunction can involve overproduction (<strong>Hyperpituitarism</strong>) or underproduction (<strong>Hypopituitarism</strong>) of hormones. Most pituitary disorders are caused by a benign tumor called a <strong>Pituitary Adenoma</strong>.</p>
-<h2>Key Conditions</h2>
-<ul>
-<li><strong>Prolactinoma:</strong> Excess prolactin causing reproductive issues.</li>
-<li><strong>Acromegaly:</strong> Excess growth hormone in adults.</li>
-<li><strong>Cushing's Disease:</strong> Excess ACTH leading to high cortisol.</li>
-<li><strong>Diabetes Insipidus:</strong> ADH deficiency leading to excessive thirst/urination.</li>
-<li><strong>Central Hypothyroidism:</strong> TSH deficiency.</li>
-</ul>
+<p>A group of conditions resulting from the dysfunction of the pituitary gland, the body's &quot;master gland,&quot; typically caused by tumors or inflammation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Melmed, S. (2011). The Pituitary. Academic Press.</li>
-<li>Mayo Clinic. Pituitary tumors.</li>
-<li>Hormone Health Network. Pituitary Disorders.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/hormone/igf-1/" class="internal-link">IGF-1</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free T4</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a></p>
 
 {% endraw %}

@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.370949Z'
+created: '2026-03-27T09:46:13.403298Z'
 description: A broad category of disorders affecting the eye and its adnexa, ranging
   from acute infections to chronic degenerative conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/eye-diseases/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/eye-diseases/
 slug: eye-diseases
 tags:
 - condition
@@ -15,28 +15,24 @@ tags:
 templateEngineOverride: njk
 title: Eye Diseases
 type: condition
-updated: '2026-03-12T06:00:32.370949Z'
+updated: '2026-03-27T09:46:13.403298Z'
 ---
 
 {% raw %}
 <h1>Eye Diseases</h1>
 <h2>Overview</h2>
-<p>Eye Diseases encompass a wide range of conditions that impair vision or affect the structures of the eye. Major global causes of vision impairment include refractive errors, cataracts, age-related macular degeneration, glaucoma, and diabetic retinopathy. Early detection through regular eye exams is often critical for preserving sight.</p>
-<h2>Common Types</h2>
-<ul>
-<li><strong>Refractive Errors:</strong> Myopia (nearsightedness), Hyperopia (farsightedness), Astigmatism, Presbyopia.</li>
-<li><strong>Cataracts:</strong> Clouding of the lens.</li>
-<li><strong>Glaucoma:</strong> Damage to the optic nerve, often from high pressure.</li>
-<li><strong>Retinal Disorders:</strong> Macular degeneration, diabetic retinopathy, retinal detachment.</li>
-<li><strong>Infections/Inflammation:</strong> Conjunctivitis, Uveitis, Keratitis.</li>
-</ul>
+<p>A broad category of disorders affecting the eye and its adnexa, ranging from acute infections to chronic degenerative conditions.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>World Health Organization (WHO). Blindness and vision impairment.</li>
-<li>American Academy of Ophthalmology. Eye Health A-Z.</li>
-<li>National Eye Institute. Eye Conditions and Diseases.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lutein</a></p>
 
 {% endraw %}

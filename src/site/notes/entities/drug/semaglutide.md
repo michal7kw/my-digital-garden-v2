@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:32.738432Z'
+created: '2026-03-27T09:46:13.645751Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Revolutionary
   drug providing significant weight loss and cardiovascular benefits. Available as
   injectable (Ozempic, Wegovy) and oral (Rybelsus).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/semaglutide/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/drug/semaglutide/
 slug: semaglutide
 tags:
 - drug
@@ -19,17 +19,13 @@ tags:
 templateEngineOverride: njk
 title: Semaglutide
 type: drug
-updated: '2026-03-12T06:00:32.738432Z'
+updated: '2026-03-27T09:46:13.645751Z'
 ---
 
 {% raw %}
 <h1>Semaglutide</h1>
 <h2>Overview</h2>
 <p>GLP-1 receptor agonist for type 2 diabetes and obesity. Revolutionary drug providing significant weight loss and cardiovascular benefits. Available as injectable (Ozempic, Wegovy) and oral (Rybelsus).</p>
-<h2>Pharmacological Information</h2>
-<h2>Clinical Features</h2>
-<h2>Classification</h2>
-<h2>Chemical Properties</h2>
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 

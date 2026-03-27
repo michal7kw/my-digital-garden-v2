@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.291593Z'
+created: '2026-03-27T09:46:13.323273Z'
 description: Cancer that forms in the cells of the breasts, most commonly in the ducts
   or lobules.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/breast-neoplasms/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/breast-neoplasms/
 slug: breast-neoplasms
 tags:
 - condition
@@ -15,27 +15,25 @@ tags:
 templateEngineOverride: njk
 title: Breast Neoplasms
 type: condition
-updated: '2026-03-12T06:00:32.291593Z'
+updated: '2026-03-27T09:46:13.323273Z'
 ---
 
 {% raw %}
 <h1>Breast Neoplasms</h1>
 <h2>Overview</h2>
-<p>Breast Neoplasms (Breast Cancer) is the most common cancer in women worldwide. It occurs when cells in the breast divide and grow without control.</p>
-<h2>Types</h2>
-<ul>
-<li><strong>Ductal Carcinoma In Situ (DCIS):</strong> Non-invasive, stays in ducts.</li>
-<li><strong>Invasive Ductal Carcinoma (IDC):</strong> Most common (80%). Starts in ducts and invades fatty tissue.</li>
-<li><strong>Invasive Lobular Carcinoma (ILC):</strong> Starts in lobules (milk glands).</li>
-<li><strong>Triple-Negative Breast Cancer:</strong> Aggressive, lacks estrogen/progesterone receptors and HER2.</li>
-</ul>
+<p>Cancer that forms in the cells of the breasts, most commonly in the ducts or lobules.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Harbeck, N., &amp; Gnant, M. (2017). Breast cancer. The Lancet.</li>
-<li>American Cancer Society. Breast Cancer.</li>
-<li>NCI. Breast Cancer Treatment.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/ca-125/" class="internal-link">CA 125</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/cea/" class="internal-link">CEA</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/estradiol/" class="internal-link">Estradiol</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></p>
 
 {% endraw %}

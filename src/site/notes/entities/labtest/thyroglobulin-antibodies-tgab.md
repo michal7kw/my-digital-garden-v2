@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.446917Z'
+created: '2026-03-27T09:46:13.982054Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
   with hormone production and metabolism.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thyroglobulin-antibodies-tgab/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/
 slug: thyroglobulin-antibodies-tgab
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroglobulin_antibodies_tgab
 type: labtest
-updated: '2026-03-12T06:00:33.446917Z'
+updated: '2026-03-27T09:46:13.982054Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ updated: '2026-03-12T06:00:33.446917Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Thyroid</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -49,7 +49,7 @@ updated: '2026-03-12T06:00:33.446917Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -57,30 +57,23 @@ updated: '2026-03-12T06:00:33.446917Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Hashimoto’S Thyroiditis</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Autoimmune Hypothyroidism</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases (E.G., Type 1 Diabetes, Rheumatoid Arthritis)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Papillary Thyroid Cancer</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Papillary_Thyroid_Cancer</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+RELATED::<a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
+RELATED::<a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a></p>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +81,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyro
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:41.828604</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:08.327905+00:00</em></p>
 
 {% endraw %}

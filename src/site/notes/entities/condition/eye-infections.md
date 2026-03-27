@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.372488Z'
+created: '2026-03-27T09:46:13.404870Z'
 description: Infections of the eye or its surrounding structures caused by bacteria,
   viruses, fungi, or parasites.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/eye-infections/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/eye-infections/
 slug: eye-infections
 tags:
 - condition
@@ -15,28 +15,21 @@ tags:
 templateEngineOverride: njk
 title: Eye Infections
 type: condition
-updated: '2026-03-12T06:00:32.372488Z'
+updated: '2026-03-27T09:46:13.404870Z'
 ---
 
 {% raw %}
 <h1>Eye Infections</h1>
 <h2>Overview</h2>
-<p>Eye infections occur when harmful microorganisms—bacteria, fungi, or viruses—invade any part of the eyeball or surrounding area. Common types include <strong>Conjunctivitis</strong> (pink eye) and <strong>Keratitis</strong> (corneal infection). While many are minor and self-limiting, some (like endophthalmitis) are medical emergencies that can lead to permanent vision loss.</p>
-<h2>Common Types</h2>
-<ul>
-<li><strong>Conjunctivitis:</strong> Inflammation of the conjunctiva (viral, bacterial, allergic).</li>
-<li><strong>Keratitis:</strong> Infection of the cornea.</li>
-<li><strong>Blepharitis:</strong> Inflammation of the eyelid margins.</li>
-<li><strong>Stye (Hordeolum):</strong> Infection of an eyelash follicle or oil gland.</li>
-<li><strong>Endophthalmitis:</strong> Severe infection inside the eye.</li>
-</ul>
+<p>Infections of the eye or its surrounding structures caused by bacteria, viruses, fungi, or parasites.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Centers for Disease Control and Prevention (CDC). Eye Infections.</li>
-<li>American Academy of Ophthalmology. Eye Infections.</li>
-<li>Watson, S., et al. (2018). Interventions for bacterial conjunctivitis. Cochrane Database of Systematic Reviews.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/esr/" class="internal-link">Esr</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 
 {% endraw %}

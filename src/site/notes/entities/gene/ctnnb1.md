@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.835871Z'
+created: '2026-03-27T09:46:14.286862Z'
 description: Encodes Beta-Catenin, a dual-function protein involved in cell adhesion
   and Wnt signaling.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/ctnnb1/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/ctnnb1/
 slug: ctnnb1
 tags:
 - gene
@@ -17,23 +17,15 @@ tags:
 templateEngineOverride: njk
 title: CTNNB1
 type: gene
-updated: '2026-03-12T06:00:32.835871Z'
+updated: '2026-03-27T09:46:14.286862Z'
 ---
 
 {% raw %}
 <h1>CTNNB1</h1>
 <h2>Overview</h2>
-<p>The <strong>CTNNB1</strong> gene encodes <strong>Beta-Catenin</strong>, a protein with two distinct roles:</p>
-<ol>
-<li><strong>Adhesion</strong>: Links Cadherins to the actin cytoskeleton.</li>
-<li><strong>Signaling</strong>: The key downstream effector of the <strong>Wnt signaling pathway</strong>.</li>
-</ol>
-<p>Mutations in CTNNB1 that prevent its degradation lead to its accumulation and constitutive activation of Wnt target genes, a driver in colorectal cancer, hepatocellular carcinoma, and others.</p>
+<p>Encodes Beta-Catenin, a dual-function protein involved in cell adhesion and Wnt signaling.</p>
 <h2>Relationships</h2>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Colorectal Cancer</a></p>
-<h2>References</h2>
-<ol>
-<li><strong>Function</strong>: MacDonald, B. T., et al. (2009). &quot;Wnt/beta-catenin signaling: components, mechanisms, and diseases.&quot; <em>Developmental Cell</em>.</li>
-</ol>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a></p>
 
 {% endraw %}

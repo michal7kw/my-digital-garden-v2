@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.354821Z'
+created: '2026-03-27T09:46:13.389325Z'
 description: A chronic kidney disease resulting from diabetes mellitus, characterized
   by glomerular damage and progressing from microalbuminuria to end-stage renal disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/diabetic-kidney-disease/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/diabetic-kidney-disease/
 slug: diabetic-kidney-disease
 tags:
 - condition
@@ -16,22 +16,25 @@ tags:
 templateEngineOverride: njk
 title: Diabetic Kidney Disease
 type: condition
-updated: '2026-03-12T06:00:32.354821Z'
+updated: '2026-03-27T09:46:13.389325Z'
 ---
 
 {% raw %}
 <h1>Diabetic Kidney Disease</h1>
 <h2>Overview</h2>
-<p>Diabetic Kidney Disease (DKD), also known as <strong>Diabetic Nephropathy</strong>, is a serious complication of both Type 1 and Type 2 Diabetes. It is the leading cause of chronic kidney disease and kidney failure worldwide. The earliest clinical sign is often <strong>Microalbuminuria</strong> (small amounts of protein in the urine).</p>
-<h2>Pathophysiology</h2>
-<p>Chronic hyperglycemia leads to structural changes in the kidney, including basement membrane thickening and mesangial expansion, eventually causing the filtration barrier to leak protein and the GFR to decline.</p>
+<p>A chronic kidney disease resulting from diabetes mellitus, characterized by glomerular damage and progressing from microalbuminuria to end-stage renal disease.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Tuttle, K. R., et al. (2014). Diabetic kidney disease: a report from an ADA Consensus Conference. Diabetes Care.</li>
-<li>Mayo Clinic. Diabetic nephropathy.</li>
-<li>NIDDK. Diabetic Kidney Disease.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/egfr/" class="internal-link">EGFR</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/cystatin-c/" class="internal-link">Cystatin C</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></p>
 
 {% endraw %}

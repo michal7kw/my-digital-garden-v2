@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:34.350772Z'
+created: '2026-03-27T09:46:14.438464Z'
 description: Potent Nrf2 activator derived from cruciferous vegetables, especially
   broccoli sprouts. Powerful inducer of phase II detoxification enzymes and antioxidant
   defenses.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/sulforaphane/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/supplement/sulforaphane/
 slug: sulforaphane
 tags:
 - supplement
@@ -18,15 +18,26 @@ tags:
 templateEngineOverride: njk
 title: Sulforaphane
 type: supplement
-updated: '2026-03-12T06:00:34.350772Z'
+updated: '2026-03-27T09:46:14.438464Z'
 ---
 
 {% raw %}
 <h1>Sulforaphane</h1>
 <h2>Overview</h2>
 <p>Potent Nrf2 activator derived from cruciferous vegetables, especially broccoli sprouts. Powerful inducer of phase II detoxification enzymes and antioxidant defenses.</p>
+<p><strong>Research Summary:</strong> Extensive research on Nrf2 activation, detoxification enhancement, and cancer chemoprevention. Clinical trials show benefits for autism, diabetes, and environmental toxin clearance. Broccoli sprouts contain 10-100x more glucoraphanin than mature broccoli.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a></p>
+<p>RELATED::<a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a></p>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a></p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a></p>
 
 {% endraw %}

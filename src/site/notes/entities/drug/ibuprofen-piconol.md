@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.677769Z'
+created: '2026-03-27T09:46:13.614646Z'
 description: A topical derivative of ibuprofen used primarily for the treatment of
   acne vulgaris and skin inflammation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/ibuprofen-piconol/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/drug/ibuprofen-piconol/
 slug: ibuprofen-piconol
 tags:
 - drug
@@ -15,24 +15,14 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen Piconol
 type: drug
-updated: '2026-03-12T06:00:32.677769Z'
+updated: '2026-03-27T09:46:13.614646Z'
 ---
 
 {% raw %}
 <h1>Ibuprofen Piconol</h1>
 <h2>Overview</h2>
-<p>Ibuprofen Piconol is a topical nonsteroidal anti-inflammatory drug (NSAID). Unlike oral ibuprofen, it is specifically formulated for application to the skin to treat inflammatory conditions like <strong>Acne Vulgaris</strong>.</p>
-<h2>Indications</h2>
-<ul>
-<li><strong>Acne Vulgaris.</strong></li>
-<li><strong>Skin Inflammation.</strong></li>
-</ul>
+<p>A topical derivative of ibuprofen used primarily for the treatment of acne vulgaris and skin inflammation.</p>
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Ito, M., et al. (1991). Clinical evaluation of 3% ibuprofen piconol (BE-100) lotion in the treatment of acne vulgaris.</li>
-<li>Wikipedia. Ibuprofen piconol.</li>
-</ul>
 
 {% endraw %}

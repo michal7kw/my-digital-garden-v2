@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:33.832406Z'
+created: '2026-03-27T09:46:14.174919Z'
 description: The nuclear factor kappa B (NF-κB) pathway is a central regulator of
   inflammation, immunity, and cell survival, controlling the expression of pro-inflammatory
   cytokines, chemokines, and anti-apoptotic genes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/nf-kb-pathway/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/pathway/nf-kb-pathway/
 slug: nf-kb-pathway
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NF-kB Pathway
 type: pathway
-updated: '2026-03-12T06:00:33.832406Z'
+updated: '2026-03-27T09:46:14.174919Z'
 ---
 
 {% raw %}
@@ -26,6 +26,21 @@ updated: '2026-03-12T06:00:33.832406Z'
 <p>The nuclear factor kappa B (NF-κB) pathway is a central regulator of inflammation, immunity, and cell survival, controlling the expression of pro-inflammatory cytokines, chemokines, and anti-apoptotic genes.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a></p>
+<h3>Associated Biomarker</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 
 {% endraw %}

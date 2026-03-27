@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.372203Z'
+created: '2026-03-27T09:46:13.947256Z'
 description: Tests drug-metabolizing genes (CYP450, etc.) to guide medication selection
   and dosing.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/pharmacogenomics-panel/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/pharmacogenomics-panel/
 slug: pharmacogenomics-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: pharmacogenomics_panel
 type: labtest
-updated: '2026-03-12T06:00:33.372203Z'
+updated: '2026-03-27T09:46:13.947256Z'
 ---
 
 {% raw %}
@@ -67,6 +67,6 @@ updated: '2026-03-12T06:00:33.372203Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:08.483945+00:00</em></p>
 
 {% endraw %}

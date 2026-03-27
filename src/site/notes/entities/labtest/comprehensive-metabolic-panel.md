@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.056657Z'
+created: '2026-03-27T09:46:13.781687Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/comprehensive-metabolic-panel/
 slug: comprehensive-metabolic-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-03-12T06:00:33.056657Z'
+updated: '2026-03-27T09:46:13.781687Z'
 ---
 
 {% raw %}
@@ -67,17 +67,17 @@ updated: '2026-03-12T06:00:33.056657Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">glucose</a></li>
+<li><a href="/garden/dev_admin/metabolite/glucose/" class="internal-link">glucose</a></li>
 <li><a class="internal-link is-unresolved" href="/404">bun</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">potassium</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/chloride/" class="internal-link">chloride</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/co2/" class="internal-link">co2</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total_protein</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
+<li><a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/garden/dev_admin/labtest/sodium/" class="internal-link">sodium</a></li>
+<li><a href="/garden/dev_admin/labtest/potassium/" class="internal-link">potassium</a></li>
+<li><a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a></li>
+<li><a href="/garden/dev_admin/biomarker/co2/" class="internal-link">co2</a></li>
+<li><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a></li>
+<li><a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a></li>
+<li><a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a></li>
+<li><a href="/garden/dev_admin/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
@@ -91,23 +91,23 @@ updated: '2026-03-12T06:00:33.056657Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/co2/" class="internal-link">co2</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">glucose</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total_protein</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/chloride/" class="internal-link">chloride</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">potassium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a><br />
+<p>RELATED::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">alt</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
+RELATED::<a href="/garden/dev_admin/metabolite/glucose/" class="internal-link">glucose</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/potassium/" class="internal-link">potassium</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/bilirubin/" class="internal-link">bilirubin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/sodium/" class="internal-link">sodium</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/co2/" class="internal-link">co2</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -115,6 +115,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">alt</a></p>
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:53.036703+00:00</em></p>
 
 {% endraw %}

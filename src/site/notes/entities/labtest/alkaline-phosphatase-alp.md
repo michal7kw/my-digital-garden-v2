@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:32.953226Z'
+created: '2026-03-27T09:46:13.723860Z'
 description: Tested twice a year Alkaline phosphatase (ALP) is an enzyme found in
   the liver, bones, and other tissues that helps break down proteins and support growth.
   Abnormal ALP levels can point to conditions affecting the liver, bones, or nutrition
@@ -7,15 +7,15 @@ description: Tested twice a year Alkaline phosphatase (ALP) is an enzyme found i
   and bilirubin) to give a clearer picture of liver and bone health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/alkaline-phosphatase-alp/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/alkaline-phosphatase-alp/
 slug: alkaline-phosphatase-alp
 tags:
 - labtest
 templateEngineOverride: njk
 title: alkaline_phosphatase_alp
 type: labtest
-updated: '2026-03-12T06:00:32.953226Z'
+updated: '2026-03-27T09:46:13.723860Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:32.953226Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Liver Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:32.953226Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -58,30 +58,23 @@ updated: '2026-03-12T06:00:32.953226Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/primary-biliary-cholangitis/" class="internal-link">Primary Biliary Cholangitis</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Bone Disease</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary Sclerosing Cholangitis</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Biliary Obstruction (Gallstones, Tumors)</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Biliary_Obstruction_Gallstones_Tumors</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Disease</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Biliary_Obstruction_Gallstones_Tumors</a><br />
+RELATED::<a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a><br />
+RELATED::<a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Disease</a><br />
+RELATED::<a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -89,6 +82,6 @@ ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/prima
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:14.055728</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:54.938884+00:00</em></p>
 
 {% endraw %}

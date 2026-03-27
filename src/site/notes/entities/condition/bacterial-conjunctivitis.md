@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.272065Z'
+created: '2026-03-27T09:46:13.312519Z'
 description: A highly contagious infection of the conjunctiva caused by bacteria,
   characterized by purulent discharge and redness.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/bacterial-conjunctivitis/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/bacterial-conjunctivitis/
 slug: bacterial-conjunctivitis
 tags:
 - condition
@@ -15,29 +15,22 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Conjunctivitis
 type: condition
-updated: '2026-03-12T06:00:32.272065Z'
+updated: '2026-03-27T09:46:13.312519Z'
 ---
 
 {% raw %}
 <h1>Bacterial Conjunctivitis</h1>
 <h2>Overview</h2>
-<p>Bacterial Conjunctivitis, a common form of &quot;pink eye,&quot; involves bacterial infection of the conjunctiva. It is distinguished from viral conjunctivitis by the presence of mucopurulent (pus-like) discharge. While often self-limiting, topical antibiotics can shorten the course and reduce contagion.</p>
-<h2>Etiology</h2>
-<ul>
-<li><strong>Staphylococcus aureus:</strong> Common in adults.</li>
-<li><strong>Streptococcus pneumoniae:</strong> Common in children.</li>
-<li><strong>Haemophilus influenzae:</strong> Common in children.</li>
-<li><strong>Pseudomonas aeruginosa:</strong> Associated with contact lenses.</li>
-<li><strong>Neisseria gonorrhoeae / Chlamydia trachomatis:</strong> Severe, hyperacute forms.</li>
-</ul>
+<p>A highly contagious infection of the conjunctiva caused by bacteria, characterized by purulent discharge and redness.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a></p>
-<h2>References</h2>
-<ul>
-<li>Azari, A. A., &amp; Barney, N. P. (2013). Conjunctivitis: a systematic review of diagnosis and treatment. JAMA.</li>
-<li>American Academy of Ophthalmology. Conjunctivitis (Pink Eye).</li>
-<li>CDC. Conjunctivitis (Pink Eye).</li>
-</ul>
+<p>RELATED::<a href="/garden/dev_admin/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a></p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 
 {% endraw %}

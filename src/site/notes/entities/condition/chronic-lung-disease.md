@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.320680Z'
+created: '2026-03-27T09:46:13.342507Z'
 description: A broad term for long-term respiratory conditions that impair breathing
   and lung function, including obstructive and restrictive diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/chronic-lung-disease/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/chronic-lung-disease/
 slug: chronic-lung-disease
 tags:
 - condition
@@ -15,28 +15,26 @@ tags:
 templateEngineOverride: njk
 title: Chronic Lung Disease
 type: condition
-updated: '2026-03-12T06:00:32.320680Z'
+updated: '2026-03-27T09:46:13.342507Z'
 ---
 
 {% raw %}
 <h1>Chronic Lung Disease</h1>
 <h2>Overview</h2>
-<p>Chronic Lung Disease (CLD) encompasses disorders such as <strong>COPD</strong>, <strong>Asthma</strong>, <strong>Pulmonary Fibrosis</strong>, and <strong>Bronchiectasis</strong>. These conditions lead to persistent respiratory symptoms and airflow limitation or impaired gas exchange.</p>
-<h2>Categories</h2>
-<ul>
-<li><strong>Obstructive:</strong> Difficulty exhaling (COPD, Asthma).</li>
-<li><strong>Restrictive:</strong> Difficulty expanding lungs (Pulmonary Fibrosis, Sarcoidosis).</li>
-<li><strong>Vascular:</strong> Affecting blood vessels (Pulmonary Hypertension).</li>
-</ul>
+<p>A broad term for long-term respiratory conditions that impair breathing and lung function, including obstructive and restrictive diseases.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hematocrit/" class="internal-link">hematocrit</a></p>
-<h2>References</h2>
-<ul>
-<li>WHO. Chronic respiratory diseases.</li>
-<li>American Lung Association. Lung Disease Lookup.</li>
-<li>Global Strategy for the Diagnosis, Management, and Prevention of COPD (GOLD).</li>
-</ul>
+<p>RELATED::<a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a></p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 
 {% endraw %}

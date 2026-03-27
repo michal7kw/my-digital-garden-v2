@@ -1,27 +1,26 @@
 ---
-created: '2026-03-12T06:00:33.060463Z'
+created: '2026-03-27T09:46:13.784747Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
   Should be interpreted alongside ceruloplasmin and zinc levels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/copper-serum/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/copper-serum/
 slug: copper-serum
 tags:
 - labtest
 templateEngineOverride: njk
 title: copper_serum
 type: labtest
-updated: '2026-03-12T06:00:33.060463Z'
+updated: '2026-03-27T09:46:13.784747Z'
 ---
 
 {% raw %}
 <h1>Copper (Serum)</h1>
 <h2>Overview</h2>
-<p>The serum copper test measures total copper in blood, approximately 95% of which is bound to the transport protein ceruloplasmin. The remaining 5% is &quot;free copper&quot; (non-ceruloplasmin-bound), which is the biologically active and potentially toxic fraction.</p>
-<p>This test is essential for diagnosing copper metabolism disorders. In Wilson's disease, total serum copper is typically low (due to reduced ceruloplasmin), but free copper is elevated, causing toxic copper accumulation in the liver, brain, and other organs. Copper deficiency, which can occur from zinc over-supplementation, malabsorption, or gastric bypass surgery, causes a triad of anemia, neutropenia, and myelopathy.</p>
+<p>Serum copper test measures the total copper concentration in blood. Copper is an essential trace mineral required as a cofactor for over 30 enzymes. The test helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation. Should be interpreted alongside ceruloplasmin and zinc levels.</p>
 <p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 <h2>Test Information</h2>
 <table>
@@ -34,86 +33,52 @@ updated: '2026-03-12T06:00:33.060463Z'
 <tbody>
 <tr>
 <td><strong>Category</strong></td>
-<td>Minerals/Trace Elements</td>
+<td>Minerals</td>
 </tr>
 <tr>
-<td><strong>Test Type</strong></td>
-<td>Standard</td>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Blood (serum)</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
 <td>Venipuncture</td>
 </tr>
 <tr>
-<td><strong>Fasting Required</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>HSA Eligible</strong></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td><strong>FSA Eligible</strong></td>
-<td>Yes</td>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
-<h2>Reference Ranges</h2>
-<table>
-<thead>
-<tr>
-<th>Range</th>
-<th>Value</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Low</strong></td>
-<td>&lt;70 mcg/dL (M), &lt;80 mcg/dL (F)</td>
-<td>Copper deficiency</td>
-</tr>
-<tr>
-<td><strong>Normal</strong></td>
-<td>70-140 mcg/dL (M), 80-155 mcg/dL (F)</td>
-<td>Adequate copper</td>
-</tr>
-<tr>
-<td><strong>High</strong></td>
-<td>&gt;155 mcg/dL</td>
-<td>Possible excess, inflammation, or Wilson's</td>
-</tr>
-</tbody>
-</table>
-<h2>Recommended For</h2>
-<h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">Wilson's Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Copper Deficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Menkes Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Anemia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Neutropenia</a></li>
+<li><a href="/garden/dev_admin/biomarker/copper/" class="internal-link">copper</a></li>
 </ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">iron</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc_serum</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a></p>
+<p>RELATED_TESTS::<a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a><br />
+RELATED_TESTS::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a><br />
+RELATED_TESTS::<a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/supplement/copper/" class="internal-link">Copper</a></p>
+<p>MEASURES::<a href="/garden/dev_admin/biomarker/copper/" class="internal-link">Copper</a></p>
 <h2>Notes</h2>
 <ul>
-<li>Always interpret alongside ceruloplasmin and zinc levels</li>
-<li>Copper is an acute-phase reactant; levels rise with inflammation, infection, pregnancy</li>
-<li>Oral contraceptives and estrogen therapy increase serum copper</li>
-<li>Calculate copper:zinc ratio for comprehensive assessment</li>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-02-07</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:54.476968+00:00</em></p>
 
 {% endraw %}

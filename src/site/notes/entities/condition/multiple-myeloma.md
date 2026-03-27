@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.483962Z'
+created: '2026-03-27T09:46:13.480501Z'
 description: A type of blood cancer that develops in the plasma cells of the bone
   marrow, leading to bone damage, kidney failure, and immune suppression.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/multiple-myeloma/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/multiple-myeloma/
 slug: multiple-myeloma
 tags:
 - condition
@@ -16,26 +16,23 @@ tags:
 templateEngineOverride: njk
 title: Multiple Myeloma
 type: condition
-updated: '2026-03-12T06:00:32.483962Z'
+updated: '2026-03-27T09:46:13.480501Z'
 ---
 
 {% raw %}
 <h1>Multiple Myeloma</h1>
 <h2>Overview</h2>
-<p>Multiple Myeloma is a cancer of <strong>Plasma Cells</strong> (a type of white blood cell). Cancerous plasma cells produce an abnormal protein called <strong>M protein</strong> (monoclonal protein) which can damage organs. It is characterized by the &quot;CRAB&quot; criteria: Calcium elevation, Renal insufficiency, Anemia, and Bone lesions.</p>
-<h2>Diagnostic Markers</h2>
-<ul>
-<li><strong>M-protein Spike:</strong> Found in serum or urine electrophoresis.</li>
-<li><strong>Bence-Jones Protein:</strong> Light chains in the urine.</li>
-<li><strong>Lytic Bone Lesions:</strong> &quot;Punched out&quot; holes on X-rays.</li>
-</ul>
+<p>A type of blood cancer that develops in the plasma cells of the bone marrow, leading to bone damage, kidney failure, and immune suppression.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Rajkumar, S. V. (2016). Multiple myeloma: 2016 update on diagnosis, risk-stratification, and management. American Journal of Hematology.</li>
-<li>American Cancer Society. Multiple Myeloma.</li>
-<li>MMRF. About Multiple Myeloma.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
 
 {% endraw %}

@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.630076Z'
+created: '2026-03-27T09:46:13.582649Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/weight-gain/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/weight-gain/
 slug: weight-gain
 tags:
 - condition
@@ -15,28 +15,25 @@ tags:
 templateEngineOverride: njk
 title: Weight Gain
 type: condition
-updated: '2026-03-12T06:00:32.630076Z'
+updated: '2026-03-27T09:46:13.582649Z'
 ---
 
 {% raw %}
 <h1>Weight Gain</h1>
 <h2>Overview</h2>
-<p>Weight gain occurs when you take in more calories than your body uses. While often related to diet and exercise, unexplained or rapid weight gain can be a symptom of an underlying medical condition, such as hormonal imbalances or fluid retention (<strong>Edema</strong>).</p>
-<h2>Potential Medical Causes</h2>
-<ul>
-<li><strong>Hypothyroidism:</strong> Underactive thyroid slows metabolism.</li>
-<li><strong>Cushing's Syndrome:</strong> Excess cortisol.</li>
-<li><strong>PCOS:</strong> Hormonal imbalance in women.</li>
-<li><strong>Heart/Kidney/Liver Failure:</strong> Causes fluid buildup.</li>
-<li><strong>Depression:</strong> Changes in eating/activity levels.</li>
-</ul>
+<p>An increase in body weight, which can be caused by increased body fat, muscle mass, or fluid retention.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>WHO. Obesity and overweight.</li>
-<li>Mayo Clinic. Unexplained weight gain.</li>
-<li>NIH. Weight Management.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/adiponectin/" class="internal-link">Adiponectin</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/mct-oil/" class="internal-link">MCT Oil</a></p>
 
 {% endraw %}

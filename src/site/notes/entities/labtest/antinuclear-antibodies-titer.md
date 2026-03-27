@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:32.974140Z'
+created: '2026-03-27T09:46:13.734457Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies (ANA)
   titer measures the concentration of autoantibodies present linked to an autoimmune
   condition. Higher titers can signal more autoimmune activity, but does not confirm
@@ -7,15 +7,15 @@ description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies
   positive.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-titer/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/antinuclear-antibodies-titer/
 slug: antinuclear-antibodies-titer
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_titer
 type: labtest
-updated: '2026-03-12T06:00:32.974140Z'
+updated: '2026-03-27T09:46:13.734457Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:32.974140Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Other</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:32.974140Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -62,12 +62,12 @@ updated: '2026-03-12T06:00:32.974140Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_autoimmunity</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">celiac_gluten_intolerance</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">celiac_gluten_intolerance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_autoimmunity</a></p>
+<p>RELATED::<a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -75,6 +75,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">extended_autoimmunit
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:14.976018</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:57.560710+00:00</em></p>
 
 {% endraw %}

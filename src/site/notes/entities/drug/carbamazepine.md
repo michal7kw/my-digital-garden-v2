@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.651185Z'
+created: '2026-03-27T09:46:13.599137Z'
 description: Anticonvulsant and mood stabilizer used primarily for epilepsy, trigeminal
   neuralgia, and bipolar disorder. Acts by blocking voltage-gated sodium channels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/carbamazepine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/drug/carbamazepine/
 slug: carbamazepine
 tags:
 - drug
@@ -18,53 +18,40 @@ tags:
 templateEngineOverride: njk
 title: Carbamazepine
 type: drug
-updated: '2026-03-12T06:00:32.651185Z'
+updated: '2026-03-27T09:46:13.599137Z'
 ---
 
 {% raw %}
 <h1>Carbamazepine</h1>
 <h2>Overview</h2>
-<p>Carbamazepine is a first-generation anticonvulsant and mood stabilizer. It is considered the gold standard for <strong>trigeminal neuralgia</strong> and is a first-line treatment for <strong>partial seizures</strong> and <strong>bipolar disorder</strong> (acute manic/mixed episodes).</p>
-<p>It is a potent <strong>inducer of CYP3A4</strong> and other hepatic enzymes (including its own metabolism - auto-induction), making drug-drug interactions a major clinical consideration.</p>
-<h2>Indications</h2>
-<ul>
-<li><strong>Epilepsy</strong>: Partial seizures, generalized tonic-clonic seizures.</li>
-<li><strong>Trigeminal Neuralgia</strong>: First-line therapy for pain relief.</li>
-<li><strong>Bipolar Disorder</strong>: Acute manic or mixed episodes.</li>
-<li><strong>Neuropathic Pain</strong>: Diabetic neuropathy (off-label).</li>
-</ul>
+<p>Anticonvulsant and mood stabilizer used primarily for epilepsy, trigeminal neuralgia, and bipolar disorder. Acts by blocking voltage-gated sodium channels.</p>
 <h2>Relationships</h2>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Epilepsy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chromic_chloride</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bipolar_Disorder</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Neuropathic_Pain</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ebola_Zaire_vaccine_live_attenuated</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">SRP_299</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Tiludronic_acid</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Trastuzumab_emtansine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/uric-acid/" class="internal-link">Uric_acid</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Oral_Contraceptives</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Zinc_Substituted_Heme_C</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Rotavirus_vaccine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ceftaroline_fosamil</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Grapefruit_Juice</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_Channel</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Influenza_A_virus_AVictoria2102009_X-187_H3N2_hemagglutinin_antigen_formaldehyde_inactivated</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Adenovirus_type_7_vaccine_live</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Trigeminal_Neuralgia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Acetylsalicylic_acid</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dichlorobenzyl_alcohol</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Warfarin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Emetonium_iodide</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/clomipramine/" class="internal-link">Clomipramine</a></p>
-<h2>References</h2>
-<ol>
-<li><strong>Mechanism</strong>: Ambrósio, A. F., et al. (2002). &quot;Mechanisms of action of carbamazepine...&quot; <em>Neurochemical Research</em>.</li>
-<li><strong>Trigeminal Neuralgia</strong>: Wiffen, P. J., et al. (2014). &quot;Carbamazepine for acute and chronic pain in adults.&quot; <em>Cochrane Database</em>.</li>
-</ol>
+<p>INTERACTS_WITH::<a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Ebola_Zaire_vaccine_live_attenuated</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Warfarin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Epilepsy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Zinc_Substituted_Heme_C</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dichlorobenzyl_alcohol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Trastuzumab_emtansine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Acetylsalicylic_acid</a><br />
+RELATED::<a href="/garden/dev_admin/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Trigeminal_Neuralgia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Influenza_A_virus_AVictoria2102009_X-187_H3N2_hemagglutinin_antigen_formaldehyde_inactivated</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">SRP_299</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chromic_chloride</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Emetonium_iodide</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Neuropathic_Pain</a><br />
+RELATED::<a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Tiludronic_acid</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Oral_Contraceptives</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bipolar_Disorder</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_Channel</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Grapefruit_Juice</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ceftaroline_fosamil</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Rotavirus_vaccine</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">Uric_acid</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adenovirus_type_7_vaccine_live</a></p>
 
 {% endraw %}

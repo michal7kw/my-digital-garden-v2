@@ -1,13 +1,13 @@
 ---
-created: '2026-03-12T06:00:32.962487Z'
+created: '2026-03-27T09:46:13.728395Z'
 description: Amylase is a digestive enzyme made by the salivary glands and pancreas
   that helps break down complex carbohydrates from food into usable energy. Abnormal
   levels can be an early sign of problems in the salivary glands, strain on the digestive
   system due to celiac disease or IBD, and pancreatic stress.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/amylase/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/amylase/
 slug: amylase
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: amylase
 type: labtest
-updated: '2026-03-12T06:00:32.962487Z'
+updated: '2026-03-27T09:46:13.728395Z'
 ---
 
 {% raw %}
@@ -59,27 +59,20 @@ updated: '2026-03-12T06:00:32.962487Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Pancreatitis (Acute Or Chronic)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Stomach Flu (Gastroenteritis)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Salivary Gland Inflammation (Like In Mumps)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Salivary_Gland_Inflammation_Like_In_Mumps</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Salivary_Gland_Inflammation_Like_In_Mumps</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a><br />
+RELATED::<a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -87,6 +80,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_O
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:14.395747</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:03.806043+00:00</em></p>
 
 {% endraw %}

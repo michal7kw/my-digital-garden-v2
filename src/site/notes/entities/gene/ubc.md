@@ -1,10 +1,10 @@
 ---
-created: '2026-03-12T06:00:32.862823Z'
+created: '2026-03-27T09:46:14.340189Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/ubc/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/ubc/
 slug: ubc
 tags:
 - gene
@@ -13,18 +13,14 @@ tags:
 templateEngineOverride: njk
 title: UBC
 type: gene
-updated: '2026-03-12T06:00:32.862823Z'
+updated: '2026-03-27T09:46:14.340189Z'
 ---
 
 {% raw %}
-<h1>&quot;UBC&quot;</h1>
+<h1>UBC</h1>
 <h2>Overview</h2>
-<p>Gene imported from PrimeKG. No detailed description available.</p>
+<p>...</p>
 <h2>Relationships</h2>
-<p>No relationships documented.</p>
-<h2>References</h2>
-<ul>
-<li>Imported from PrimeKG knowledge graph</li>
-</ul>
+<p>No relationships found.</p>
 
 {% endraw %}

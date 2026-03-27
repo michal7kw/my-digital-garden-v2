@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.615832Z'
+created: '2026-03-27T09:46:13.574520Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/urinary-tract-infection/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/urinary-tract-infection/
 slug: urinary-tract-infection
 tags:
 - condition
@@ -15,20 +15,22 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Infection
 type: condition
-updated: '2026-03-12T06:00:32.615832Z'
+updated: '2026-03-27T09:46:13.574520Z'
 ---
 
 {% raw %}
 <h1>Urinary Tract Infection</h1>
 <h2>Overview</h2>
-<p>Urinary Tract Infection (UTI) is most commonly caused by bacteria (<em>Escherichia coli</em>) entering the urinary tract through the urethra. Most infections involve the lower urinary tract — the bladder (<strong>Cystitis</strong>) and the urethra (<strong>Urethritis</strong>). However, serious complications can occur if the infection spreads to the kidneys (<strong>Pyelonephritis</strong>).</p>
+<p>An infection in any part of the urinary system, including the kidneys, bladder, or urethra.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Gupta, K., et al. (2011). International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women.</li>
-<li>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). Urinary Tract Infection.</li>
-<li>Flores-Mireles, A. L., et al. (2015). Urinary tract infections: epidemiology, mechanisms of infection and treatment options. Nature Reviews Microbiology.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">Procalcitonin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
 
 {% endraw %}

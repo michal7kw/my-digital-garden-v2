@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:33.886704Z'
+created: '2026-03-27T09:46:14.180743Z'
 description: A metabolic pathway parallel to glycolysis that generates NADPH for biosynthesis
   and antioxidant defense, and ribose-5-phosphate for nucleotide synthesis. Essential
   for rapidly dividing cells and cells requiring high antioxidant capacity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/pentose-phosphate-pathway/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/pathway/pentose-phosphate-pathway/
 slug: pentose-phosphate-pathway
 tags:
 - pathway
@@ -18,177 +18,30 @@ tags:
 templateEngineOverride: njk
 title: Pentose Phosphate Pathway
 type: pathway
-updated: '2026-03-12T06:00:33.886704Z'
+updated: '2026-03-27T09:46:14.180743Z'
 ---
 
 {% raw %}
 <h1>Pentose Phosphate Pathway</h1>
-<h2>Overview</h2>
-<p>The pentose phosphate pathway (PPP) is a cytoplasmic metabolic pathway that runs parallel to glycolysis, branching off from glucose-6-phosphate. It serves two essential functions:</p>
-<ol>
-<li><strong>NADPH production</strong>: Reducing equivalents for biosynthesis and antioxidant defense</li>
-<li><strong>Ribose-5-phosphate synthesis</strong>: Sugar backbone for nucleotides (DNA/RNA)</li>
-</ol>
-<p>The pathway consists of two phases:</p>
-<ul>
-<li><strong>Oxidative phase</strong>: Irreversible, generates NADPH</li>
-<li><strong>Non-oxidative phase</strong>: Reversible, interconverts sugars</li>
-</ul>
-<h2>Oxidative Phase</h2>
-<h3>Reaction 1: Glucose-6-phosphate Dehydrogenase (G6PD)</h3>
-<p><strong>Glucose-6-phosphate + NADP⁺ → 6-Phosphoglucono-δ-lactone + NADPH</strong></p>
-<ul>
-<li>Rate-limiting, committed step</li>
-<li>First NADPH produced</li>
-<li>Inhibited by NADPH (product)</li>
-<li>Deficiency causes hemolytic anemia</li>
-</ul>
-<h3>Reaction 2: Lactonase</h3>
-<p><strong>6-Phosphoglucono-δ-lactone + H₂O → 6-Phosphogluconate</strong></p>
-<ul>
-<li>Spontaneous or enzyme-catalyzed</li>
-<li>Prepares for next oxidation</li>
-</ul>
-<h3>Reaction 3: 6-Phosphogluconate Dehydrogenase</h3>
-<p><strong>6-Phosphogluconate + NADP⁺ → Ribulose-5-phosphate + CO₂ + NADPH</strong></p>
-<ul>
-<li>Second NADPH produced</li>
-<li>Oxidative decarboxylation</li>
-<li>CO₂ released (one carbon lost)</li>
-</ul>
-<p><strong>Net oxidative phase (per glucose-6-P):</strong></p>
-<ul>
-<li>2 NADPH</li>
-<li>1 CO₂</li>
-<li>1 Ribulose-5-phosphate</li>
-</ul>
-<h2>Non-Oxidative Phase</h2>
-<p>This phase interconverts sugars based on cellular needs:</p>
-<h3>Key Enzymes</h3>
-<ul>
-<li><strong>Ribose-5-phosphate isomerase</strong>: Ribulose-5-P ⇌ Ribose-5-P</li>
-<li><strong>Ribulose-5-phosphate epimerase</strong>: Ribulose-5-P ⇌ Xylulose-5-P</li>
-<li><strong>Transketolase</strong>: Transfers 2-carbon units (requires TPP)</li>
-<li><strong>Transaldolase</strong>: Transfers 3-carbon units</li>
-</ul>
-<h3>Products</h3>
-<ul>
-<li><strong>Ribose-5-phosphate</strong>: For nucleotide synthesis</li>
-<li><strong>Fructose-6-phosphate</strong>: Returns to glycolysis</li>
-<li><strong>Glyceraldehyde-3-phosphate</strong>: Returns to glycolysis</li>
-<li><strong>Erythrose-4-phosphate</strong>: For aromatic amino acid synthesis</li>
-</ul>
-<h2>Pathway Modes</h2>
-<p>The PPP can operate in different modes based on cellular needs:</p>
-<h3>Mode 1: NADPH and Ribose-5-P needed equally</h3>
-<ul>
-<li>Oxidative phase runs once</li>
-<li>Products used directly</li>
-</ul>
-<h3>Mode 2: More Ribose-5-P than NADPH needed</h3>
-<ul>
-<li>Non-oxidative phase runs in reverse</li>
-<li>F-6-P + G-3-P → Ribose-5-P</li>
-<li>Bypasses oxidative phase</li>
-</ul>
-<h3>Mode 3: More NADPH than Ribose-5-P needed</h3>
-<ul>
-<li>Oxidative phase runs repeatedly</li>
-<li>Ribose-5-P converted back to F-6-P</li>
-<li>Complete oxidation of glucose-6-P to CO₂</li>
-</ul>
-<h3>Mode 4: Both NADPH and ATP needed</h3>
-<ul>
-<li>Oxidative phase → NADPH</li>
-<li>Non-oxidative phase → glycolysis → ATP</li>
-</ul>
-<h2>NADPH Functions</h2>
-<h3>Biosynthesis</h3>
-<ul>
-<li>Fatty acid synthesis (8 NADPH per palmitate)</li>
-<li>Cholesterol synthesis</li>
-<li>Steroid hormone synthesis</li>
-<li>Neurotransmitter synthesis</li>
-</ul>
-<h3>Antioxidant Defense</h3>
-<ul>
-<li>Glutathione reductase: GSSG + NADPH → 2 GSH</li>
-<li>Thioredoxin reductase: Maintains protein thiols</li>
-<li>Catalase: H₂O₂ detoxification (indirectly)</li>
-</ul>
-<h3>Other Functions</h3>
-<ul>
-<li>Cytochrome P450 reactions (drug metabolism)</li>
-<li>Nitric oxide synthesis</li>
-<li>Respiratory burst in immune cells</li>
-</ul>
-<h2>Clinical Significance</h2>
-<h3>G6PD Deficiency</h3>
-<ul>
-<li>Most common enzyme deficiency (~400 million affected)</li>
-<li>X-linked recessive</li>
-<li>Red blood cells cannot maintain glutathione</li>
-<li>Hemolytic anemia triggered by:
-<ul>
-<li>Fava beans (favism)</li>
-<li>Antimalarial drugs</li>
-<li>Sulfonamides</li>
-<li>Oxidant stress</li>
-</ul>
-</li>
-<li>Provides malaria resistance (heterozygote advantage)</li>
-</ul>
-<h3>Cancer Metabolism</h3>
-<ul>
-<li>Upregulated PPP supports proliferation</li>
-<li>NADPH for lipid synthesis</li>
-<li>Ribose-5-P for DNA replication</li>
-<li>Therapeutic target research</li>
-</ul>
-<h3>Diabetes</h3>
-<ul>
-<li>Altered flux through PPP</li>
-<li>May contribute to complications</li>
-<li>Aldose reductase pathway competes for glucose</li>
-</ul>
-<h2>Supplement Connections</h2>
-<table>
-<thead>
-<tr>
-<th>Supplement</th>
-<th>Connection</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a class="internal-link is-unresolved" href="/404">Thiamine</a></strong></td>
-<td>Cofactor for transketolase</td>
-</tr>
-<tr>
-<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a></strong></td>
-<td>Requires NADPH for glutathione synthesis</td>
-</tr>
-<tr>
-<td><strong><a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></strong></td>
-<td>Requires NADPH for regeneration</td>
-</tr>
-<tr>
-<td><strong><a class="internal-link is-unresolved" href="/404">Riboflavin</a></strong></td>
-<td>Component of FAD for glutathione reductase</td>
-</tr>
-</tbody>
-</table>
+<h2>Description</h2>
+<p>A metabolic pathway parallel to glycolysis that generates NADPH for biosynthesis and antioxidant defense, and ribose-5-phosphate for nucleotide synthesis. Essential for rapidly dividing cells and cells requiring high antioxidant capacity.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Thiamine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Riboflavin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></p>
-<h2>References</h2>
-<ul>
-<li>Stanton RC. Glucose-6-phosphate dehydrogenase, NADPH, and cell survival. IUBMB Life. 2012;64(5):362-9. PMID: 22431005</li>
-<li>Cappellini MD, Fiorelli G. Glucose-6-phosphate dehydrogenase deficiency. Lancet. 2008;371(9606):64-74. PMID: 18177777</li>
-<li>Berg JM, et al. Biochemistry (8th ed). W.H. Freeman; 2015. Chapter 20.</li>
-</ul>
+<p>RELATED::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/thiamine/" class="internal-link">Thiamine</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/niacin/" class="internal-link">Niacin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
+<h3>Associated Biomarker</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
 
 {% endraw %}

@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.269455Z'
+created: '2026-03-27T09:46:13.896881Z'
 description: Intracellular magnesium. More accurate than serum for assessing true
   magnesium status.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/magnesium-rbc/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/magnesium-rbc/
 slug: magnesium-rbc
 tags:
 - labtest
 templateEngineOverride: njk
 title: magnesium_rbc
 type: labtest
-updated: '2026-03-12T06:00:33.269455Z'
+updated: '2026-03-27T09:46:13.896881Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-03-12T06:00:33.269455Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a></li>
+<li><a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,6 +72,6 @@ updated: '2026-03-12T06:00:33.269455Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:08.518126+00:00</em></p>
 
 {% endraw %}

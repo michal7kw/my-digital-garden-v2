@@ -1,10 +1,10 @@
 ---
-created: '2026-03-12T06:00:33.966679Z'
+created: '2026-03-27T09:46:14.208848Z'
 description: Abnormal accumulation of fluid in tissues causing swelling.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/edema/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/phenotype/edema/
 slug: edema
 tags:
 - phenotype
@@ -13,69 +13,63 @@ tags:
 templateEngineOverride: njk
 title: Edema
 type: phenotype
-updated: '2026-03-12T06:00:33.966679Z'
+updated: '2026-03-27T09:46:14.208848Z'
 ---
 
 {% raw %}
 <h1>Edema</h1>
 <h2>Description</h2>
 <p>Abnormal accumulation of fluid in tissues causing swelling.</p>
-<h2>🧪 Associated Biomarkers</h2>
-<p>The following biomarkers should be evaluated when investigating edema:</p>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a> - Low albumin causes fluid to leak from blood vessels into tissues</li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a> - Elevated creatinine indicates kidney dysfunction which can cause edema</li>
-</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Macular_edema</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Corneal_stromal_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Edema_of_the_upper_limbs</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Peripheral_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hypoproteinemic_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hyperkeratosis_over_edematous_areas</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Intestinal_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality_of_fluid_regulation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Joint_swelling</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pulmonary_edema</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Muscular_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Genital_edema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pleural_effusion</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pedal_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Laryngeal_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Facial_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Generalized_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Genital_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Muscular_edema</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Peau_dorange</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Increased_nuchal_translucency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Tongue_edema</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Intestinal_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Joint_swelling</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pharyngeal_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hyperkeratosis_over_edematous_areas</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality_of_fluid_regulation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Edema_of_the_dorsum_of_hands</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pharyngeal_edema</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Laryngeal_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Corneal_stromal_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Edema_of_the_upper_limbs</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Tongue_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Generalized_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Peau_dorange</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypoproteinemic_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Peripheral_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pulmonary_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Increased_nuchal_translucency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Macular_edema</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Facial_edema</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pleural_effusion</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Tongue_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cerebral_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Laryngeal_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Peau_dorange</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Genital_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Edema_of_the_dorsum_of_hands</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Macular_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pulmonary_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pharyngeal_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hyperkeratosis_over_edematous_areas</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Intestinal_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Joint_swelling</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormality_of_fluid_regulation</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Facial_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hypoproteinemic_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Generalized_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Increased_nuchal_translucency</a><br />
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pharyngeal_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pleural_effusion</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Muscular_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hyperkeratosis_over_edematous_areas</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Genital_edema</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Peripheral_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Corneal_stromal_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Macular_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Peau_dorange</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Edema_of_the_upper_limbs</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pedal_edema</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Edema_of_the_upper_limbs</a></p>
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pulmonary_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Laryngeal_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Increased_nuchal_translucency</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Intestinal_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Generalized_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormality_of_fluid_regulation</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Joint_swelling</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hypoproteinemic_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Corneal_stromal_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cerebral_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Facial_edema</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Edema_of_the_dorsum_of_hands</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Tongue_edema</a></p>
 
 {% endraw %}

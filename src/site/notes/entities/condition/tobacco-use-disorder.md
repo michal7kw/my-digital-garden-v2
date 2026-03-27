@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.612234Z'
+created: '2026-03-27T09:46:13.573988Z'
 description: A problematic pattern of tobacco use leading to clinically significant
   impairment or distress, characterized by nicotine dependence.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/tobacco-use-disorder/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/tobacco-use-disorder/
 slug: tobacco-use-disorder
 tags:
 - condition
@@ -16,26 +16,25 @@ tags:
 templateEngineOverride: njk
 title: Tobacco Use Disorder
 type: condition
-updated: '2026-03-12T06:00:32.612234Z'
+updated: '2026-03-27T09:46:13.573988Z'
 ---
 
 {% raw %}
 <h1>Tobacco Use Disorder</h1>
 <h2>Overview</h2>
-<p>Tobacco Use Disorder involves the addiction to nicotine found in tobacco products. Nicotine is highly addictive, increasing <strong>dopamine</strong> in the brain's reward circuits. It is a chronic, relapsing condition and is the leading cause of preventable death worldwide.</p>
-<h2>Complications</h2>
-<ul>
-<li><strong>Cancer:</strong> Lung, mouth, throat, bladder.</li>
-<li><strong>Respiratory:</strong> COPD, Emphysema, Chronic Bronchitis.</li>
-<li><strong>Cardiovascular:</strong> Heart attack, Stroke, PAD.</li>
-</ul>
+<p>A problematic pattern of tobacco use leading to clinically significant impairment or distress, characterized by nicotine dependence.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>American Psychiatric Association. DSM-5.</li>
-<li>CDC. Tobacco Use and Dependence.</li>
-<li>Prochaska, J. J., &amp; Benowitz, N. L. (2016). The past, present, and future of nicotine addiction therapy. Annual Review of Medicine.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:32.943283Z'
+created: '2026-03-27T09:46:13.720208Z'
 description: 'Tested twice a year The albumin-to-globulin ratio compares two major
   proteins in the blood: albumin, produced by the liver to maintain fluid balance,
   and globulins, which support immune function and blood clotting. Changes in this
@@ -7,15 +7,15 @@ description: 'Tested twice a year The albumin-to-globulin ratio compares two maj
   into how the body is producing and using proteins.'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/albumin-globulin-ratio/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/albumin-globulin-ratio/
 slug: albumin-globulin-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: albumin_globulin_ratio
 type: labtest
-updated: '2026-03-12T06:00:32.943283Z'
+updated: '2026-03-27T09:46:13.720208Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:32.943283Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Liver Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:32.943283Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -70,6 +70,6 @@ updated: '2026-03-12T06:00:32.943283Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:13.794087</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:54.889479+00:00</em></p>
 
 {% endraw %}

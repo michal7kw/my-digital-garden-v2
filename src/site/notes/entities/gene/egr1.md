@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.839604Z'
+created: '2026-03-27T09:46:14.300369Z'
 description: Encodes Early Growth Response 1, a zinc finger transcription factor activated
   by growth factors, stress, and neuronal activity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/egr1/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/egr1/
 slug: egr1
 tags:
 - gene
@@ -17,22 +17,14 @@ tags:
 templateEngineOverride: njk
 title: EGR1
 type: gene
-updated: '2026-03-12T06:00:32.839604Z'
+updated: '2026-03-27T09:46:14.300369Z'
 ---
 
 {% raw %}
 <h1>EGR1</h1>
 <h2>Overview</h2>
-<p>The <strong>EGR1</strong> gene (also known as Zif268 or NGFI-A) is an <strong>Immediate Early Gene (IEG)</strong>. This means its transcription is rapidly and transiently activated in response to a wide range of stimuli (growth factors, stress, neurotransmitters) without the need for new protein synthesis.</p>
-<p>It is critical for:</p>
-<ol>
-<li><strong>Neuronal Plasticity</strong>: Essential for Long-Term Potentiation (LTP) and memory consolidation.</li>
-<li><strong>Cell Growth</strong>: Regulates proliferation and differentiation.</li>
-</ol>
+<p>Encodes Early Growth Response 1, a zinc finger transcription factor activated by growth factors, stress, and neuronal activity.</p>
 <h2>Relationships</h2>
-<h2>References</h2>
-<ol>
-<li><strong>Neuroscience</strong>: Knapska, E., &amp; Kaczmarek, L. (2004). &quot;A marker for neuronal activation.&quot; <em>Behavioural Brain Research</em>.</li>
-</ol>
+<p>No relationships found.</p>
 
 {% endraw %}

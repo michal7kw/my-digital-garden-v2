@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.009458Z'
+created: '2026-03-27T09:46:13.754769Z'
 description: Tested twice a year Blood urea nitrogen (BUN) measures the amount of
   nitrogen in the blood that comes from urea, a waste product made when the body breaks
   down protein. BUN is commonly used to check kidney function, since healthy kidneys
@@ -7,15 +7,15 @@ description: Tested twice a year Blood urea nitrogen (BUN) measures the amount o
   high protein intake, or certain metabolic or kidney conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/blood-urea-nitrogen/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/blood-urea-nitrogen/
 slug: blood-urea-nitrogen
 tags:
 - labtest
 templateEngineOverride: njk
 title: blood_urea_nitrogen
 type: labtest
-updated: '2026-03-12T06:00:33.009458Z'
+updated: '2026-03-27T09:46:13.754769Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:33.009458Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:33.009458Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -58,27 +58,20 @@ updated: '2026-03-12T06:00:33.009458Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
+RELATED::<a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -86,6 +79,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:17.313368</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:57.420879+00:00</em></p>
 
 {% endraw %}

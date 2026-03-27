@@ -1,27 +1,26 @@
 ---
-created: '2026-03-12T06:00:33.177196Z'
+created: '2026-03-27T09:46:13.853614Z'
 description: Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures
   the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and
   is elevated in infections, autoimmune conditions, cardiovascular disease, and various
   cancers. It stimulates hepatic production of CRP and other acute-phase proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/interleukin-6/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/interleukin-6/
 slug: interleukin-6
 tags:
 - labtest
 templateEngineOverride: njk
 title: interleukin_6
 type: labtest
-updated: '2026-03-12T06:00:33.177196Z'
+updated: '2026-03-27T09:46:13.853614Z'
 ---
 
 {% raw %}
 <h1>Interleukin-6 (IL-6)</h1>
 <h2>Overview</h2>
-<p>Interleukin-6 (IL-6) is a pleiotropic cytokine produced by T cells, B cells, monocytes, fibroblasts, and endothelial cells. It plays a central role in the transition from innate to adaptive immunity and is the primary driver of hepatic acute-phase protein production, including CRP, fibrinogen, and hepcidin.</p>
-<p>This test measures circulating IL-6 levels in blood and is valuable for assessing the intensity of systemic inflammatory responses. Unlike CRP which is a downstream marker, IL-6 provides a more proximal measure of inflammatory signaling. IL-6 levels can rise within hours of an inflammatory stimulus and correlate with disease severity in sepsis, COVID-19, rheumatoid arthritis, and cardiovascular events.</p>
+<p>Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and is elevated in infections, autoimmune conditions, cardiovascular disease, and various cancers. It stimulates hepatic production of CRP and other acute-phase proteins.</p>
 <p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 <h2>Test Information</h2>
 <table>
@@ -37,89 +36,50 @@ updated: '2026-03-12T06:00:33.177196Z'
 <td>Immunology</td>
 </tr>
 <tr>
-<td><strong>Test Type</strong></td>
-<td>Specialized</td>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Blood (serum/plasma)</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
 <td>Venipuncture</td>
 </tr>
 <tr>
-<td><strong>Fasting Required</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>HSA Eligible</strong></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td><strong>FSA Eligible</strong></td>
-<td>No</td>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
-<h2>Reference Ranges</h2>
-<table>
-<thead>
-<tr>
-<th>Range</th>
-<th>Value</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Normal</strong></td>
-<td>&lt;7 pg/mL</td>
-<td>No significant inflammation</td>
-</tr>
-<tr>
-<td><strong>Mild Elevation</strong></td>
-<td>7-15 pg/mL</td>
-<td>Low-grade inflammation</td>
-</tr>
-<tr>
-<td><strong>Moderate</strong></td>
-<td>15-100 pg/mL</td>
-<td>Active inflammatory process</td>
-</tr>
-<tr>
-<td><strong>Severe</strong></td>
-<td>&gt;100 pg/mL</td>
-<td>Severe inflammation/sepsis</td>
-</tr>
-</tbody>
-</table>
-<h2>Recommended For</h2>
-<h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Sepsis</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Castleman Disease</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic Lupus Erythematosus</a></li>
+<li><a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">interleukin_6</a></li>
 </ul>
-<h2>Relationships</h2>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">advanced_inflammation_panel</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/cytokine-panel/" class="internal-link">cytokine_panel</a></p>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a></p>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
+<h2>Relationships</h2>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
+<p>MEASURES::<a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtest/cytokine-panel/" class="internal-link">cytokine_panel</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced_inflammation_panel</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
-<li>IL-6 has significant diurnal variation (higher in evening)</li>
-<li>Exercise transiently increases IL-6 (anti-inflammatory myokine effect)</li>
-<li>Reference ranges may vary by laboratory and assay method</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-02-07</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:16.406694+00:00</em></p>
 
 {% endraw %}

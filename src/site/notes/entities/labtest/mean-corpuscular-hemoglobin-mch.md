@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.280775Z'
+created: '2026-03-27T09:46:13.899540Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin (m-c-h) Tested twice a year Mean
   corpuscular hemoglobin (MCH) measures the average amount of hemoglobin, the oxygen-carrying
   protein, in each red blood cell. Low MCH often points to iron deficiency anemia,
   while high MCH can signal a vitamin B12 or folate deficiency.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mean-corpuscular-hemoglobin-mch/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/mean-corpuscular-hemoglobin-mch/
 slug: mean-corpuscular-hemoglobin-mch
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_corpuscular_hemoglobin_mch
 type: labtest
-updated: '2026-03-12T06:00:33.280775Z'
+updated: '2026-03-27T09:46:13.899540Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ updated: '2026-03-12T06:00:33.280775Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Cbc</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -49,7 +49,7 @@ updated: '2026-03-12T06:00:33.280775Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -57,25 +57,18 @@ updated: '2026-03-12T06:00:33.280775Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Thalassemia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Vitamin B12 Or Folate Deficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
+<p>RELATED::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Or_Folate_Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Or_Folate_Deficiency</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -83,6 +76,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Or_Folat
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:33.516057</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:50.081978+00:00</em></p>
 
 {% endraw %}

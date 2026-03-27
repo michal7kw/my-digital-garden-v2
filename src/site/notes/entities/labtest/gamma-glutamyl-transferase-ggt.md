@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.120350Z'
+created: '2026-03-27T09:46:13.820696Z'
 description: Gamma-glutamyl transferase (GGT) is an enzyme found in the liver and
   bile ducts that plays a role in processing toxins and medications. Elevated GGT
   levels in the blood can signal stress or damage to the liver or bile ducts, so this
@@ -7,15 +7,15 @@ description: Gamma-glutamyl transferase (GGT) is an enzyme found in the liver an
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/gamma-glutamyl-transferase-ggt/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/gamma-glutamyl-transferase-ggt/
 slug: gamma-glutamyl-transferase-ggt
 tags:
 - labtest
 templateEngineOverride: njk
 title: gamma_glutamyl_transferase_ggt
 type: labtest
-updated: '2026-03-12T06:00:33.120350Z'
+updated: '2026-03-27T09:46:13.820696Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:33.120350Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Liver Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:33.120350Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -58,29 +58,22 @@ updated: '2026-03-12T06:00:33.120350Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Cholestatic Liver Disease (Primary Biliary Cholangitis, Primary Sclerosing Cholangitis)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Bile Duct Obstruction (Gallstones, Tumors)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Cholestatic_Liver_Disease_Primary_Biliary_Cholangitis_Primary_Sclerosing_Cholangitis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
+<p>RELATED::<a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
+RELATED::<a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cholestatic_Liver_Disease_Primary_Biliary_Cholangitis_Primary_Sclerosing_Cholangitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bile_Duct_Obstruction_Gallstones_Tumors</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +81,6 @@ ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alcoh
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:22.421206</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:15.732702+00:00</em></p>
 
 {% endraw %}

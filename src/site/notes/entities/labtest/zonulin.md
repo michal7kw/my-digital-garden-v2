@@ -1,27 +1,26 @@
 ---
-created: '2026-03-12T06:00:33.661348Z'
+created: '2026-03-27T09:46:14.035393Z'
 description: Zonulin test measures the serum or stool level of this protein that regulates
   intestinal permeability by modulating tight junctions between enterocytes. Elevated
   zonulin indicates increased intestinal permeability (leaky gut) and is associated
   with autoimmune conditions, celiac disease, and type 1 diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/zonulin/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/zonulin/
 slug: zonulin
 tags:
 - labtest
 templateEngineOverride: njk
 title: zonulin
 type: labtest
-updated: '2026-03-12T06:00:33.661348Z'
+updated: '2026-03-27T09:46:14.035393Z'
 ---
 
 {% raw %}
 <h1>Zonulin</h1>
 <h2>Overview</h2>
-<p>Zonulin is a protein that reversibly modulates intestinal permeability by disassembling the tight junctions between enterocytes. It was identified as the human analog of the Vibrio cholerae-derived zonula occludens toxin (Zot). When zonulin is released in excess, it opens tight junctions, increasing paracellular permeability and allowing luminal antigens, bacteria, and toxins to cross the intestinal barrier.</p>
-<p>Elevated zonulin serves as a biomarker for increased intestinal permeability (&quot;leaky gut&quot;). This increased permeability can trigger immune activation and systemic inflammation, and has been implicated in the pathogenesis of several autoimmune diseases. Zonulin is particularly relevant in celiac disease (where gliadin triggers zonulin release) and type 1 diabetes.</p>
+<p>Zonulin test measures the serum or stool level of this protein that regulates intestinal permeability by modulating tight junctions between enterocytes. Elevated zonulin indicates increased intestinal permeability (leaky gut) and is associated with autoimmune conditions, celiac disease, and type 1 diabetes.</p>
 <p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 <h2>Test Information</h2>
 <table>
@@ -37,84 +36,49 @@ updated: '2026-03-12T06:00:33.661348Z'
 <td>Gastrointestinal</td>
 </tr>
 <tr>
-<td><strong>Test Type</strong></td>
-<td>Specialized</td>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Blood (serum) or Stool</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Venipuncture or stool sample</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
-<td><strong>Fasting Required</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>HSA Eligible</strong></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td><strong>FSA Eligible</strong></td>
-<td>No</td>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
-<h2>Reference Ranges</h2>
-<table>
-<thead>
-<tr>
-<th>Range</th>
-<th>Value</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Normal</strong></td>
-<td>&lt;30 ng/mL (serum)</td>
-<td>Normal intestinal permeability</td>
-</tr>
-<tr>
-<td><strong>Borderline</strong></td>
-<td>30-50 ng/mL</td>
-<td>Mildly increased permeability</td>
-</tr>
-<tr>
-<td><strong>Elevated</strong></td>
-<td>&gt;50 ng/mL</td>
-<td>Significant intestinal permeability</td>
-</tr>
-</tbody>
-</table>
-<h2>Recommended For</h2>
-<h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">Celiac Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Type 1 Diabetes</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Food Sensitivities</a></li>
+<li><a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">zonulin</a></li>
 </ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/" class="internal-link">fecal_calprotectin</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/food-sensitivity-igg/" class="internal-link">food_sensitivity_igg</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/gi-map/" class="internal-link">gi_map</a></p>
-<h3>Measures</h3>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
+<p>RELATED_TESTS::<a href="/garden/dev_admin/labtest/gi-map/" class="internal-link">gi_map</a><br />
+RELATED_TESTS::<a href="/garden/dev_admin/labtest/food-sensitivity-igg/" class="internal-link">food_sensitivity_igg</a><br />
+RELATED_TESTS::<a href="/garden/dev_admin/labtest/fecal-calprotectin/" class="internal-link">fecal_calprotectin</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
-<li>Serum and stool zonulin may provide different clinical information</li>
-<li>Gluten exposure in celiac patients rapidly increases zonulin</li>
-<li>Some controversy exists about assay specificity for zonulin vs related proteins</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-02-07</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:55.571500+00:00</em></p>
 
 {% endraw %}

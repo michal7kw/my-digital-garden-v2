@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.286558Z'
+created: '2026-03-27T09:46:13.903172Z'
 description: Tested twice a year Mean platelet volume (MPV) measures the average size
   of platelets, the cells that help blood clot and stop bleeding. High MPV means the
   body is making larger, younger platelets, often in response to blood loss, inflammation,
@@ -9,15 +9,15 @@ description: Tested twice a year Mean platelet volume (MPV) measures the average
   like easy bruising or unusual bleeding..
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mean-platelet-volume-mpv/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/mean-platelet-volume-mpv/
 slug: mean-platelet-volume-mpv
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_platelet_volume_mpv
 type: labtest
-updated: '2026-03-12T06:00:33.286558Z'
+updated: '2026-03-27T09:46:13.903172Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-03-12T06:00:33.286558Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Cbc</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -52,7 +52,7 @@ updated: '2026-03-12T06:00:33.286558Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -60,28 +60,21 @@ updated: '2026-03-12T06:00:33.286558Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Immune Thrombocytopenia (Low Platelets)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Inflammatory Disorder</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Recent Blood Loss</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a><br />
+RELATED::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a></p>
+RELATED::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -89,6 +82,6 @@ MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:33.747511</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:09.039157+00:00</em></p>
 
 {% endraw %}

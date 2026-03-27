@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.601843Z'
+created: '2026-03-27T09:46:13.569725Z'
 description: A chronic autoimmune disease where the immune system attacks various
   tissues, causing widespread inflammation and tissue damage in multiple organs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/systemic-lupus-erythematosus/
 slug: systemic-lupus-erythematosus
 tags:
 - condition
@@ -16,27 +16,25 @@ tags:
 templateEngineOverride: njk
 title: Systemic Lupus Erythematosus
 type: condition
-updated: '2026-03-12T06:00:32.601843Z'
+updated: '2026-03-27T09:46:13.569725Z'
 ---
 
 {% raw %}
 <h1>Systemic Lupus Erythematosus</h1>
 <h2>Overview</h2>
-<p>Systemic Lupus Erythematosus (SLE), or simply <strong>Lupus</strong>, is a complex autoimmune disorder. It can affect any part of the body, including the skin, joints, kidneys (<strong>Lupus Nephritis</strong>), heart, and lungs. It is characterized by the production of <strong>Antinuclear Antibodies (ANA)</strong> and periods of flares and remission.</p>
-<h2>Complications</h2>
-<ul>
-<li><strong>Lupus Nephritis:</strong> Kidney inflammation that can lead to failure.</li>
-<li><strong>Cardiovascular Disease:</strong> Accelerated atherosclerosis.</li>
-<li><strong>Neuropsychiatric Lupus:</strong> Cognitive dysfunction, seizures, or psychosis.</li>
-<li><strong>Antiphospholipid Syndrome:</strong> Increased risk of blood clots.</li>
-</ul>
+<p>A chronic autoimmune disease where the immune system attacks various tissues, causing widespread inflammation and tissue damage in multiple organs.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Lisnevskaia, L., et al. (2014). Systemic lupus erythematosus. The Lancet.</li>
-<li>Mayo Clinic. Lupus.</li>
-<li>Lupus Foundation of America. What is Lupus?</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/esr/" class="internal-link">Esr</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a></p>
 
 {% endraw %}

@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:32.891222Z'
+created: '2026-03-27T09:46:13.696331Z'
 description: The ketogenic diet is a very low-carb, high-fat diet that involves drastically
   reducing carbohydrate intake and replacing it with fat. This reduction in carbs
   puts your body into a metabolic state called ketosis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/keto-diet/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/intervention/keto-diet/
 slug: keto-diet
 tags:
 - diet
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Keto Diet
 type: intervention
-updated: '2026-03-12T06:00:32.891222Z'
+updated: '2026-03-27T09:46:13.696331Z'
 ---
 
 {% raw %}
@@ -23,22 +23,35 @@ updated: '2026-03-12T06:00:32.891222Z'
 <h2>Overview</h2>
 <p>The ketogenic diet is a very low-carb, high-fat diet that involves drastically reducing carbohydrate intake and replacing it with fat. This reduction in carbs puts your body into a metabolic state called ketosis.</p>
 <h2>Mechanism of Action</h2>
-<p>Not specified.</p>
+<p>Induces ketosis, shifting the body's primary fuel source from carbohydrates to fats.</p>
 <h2>Protocol</h2>
 <h2>Safety Information</h2>
+<h3>Contraindications</h3>
+<ul>
+<li>Type 1 diabetes</li>
+<li>Pancreatic disease</li>
+<li>Liver conditions</li>
+<li>Fat-malabsorption disorders</li>
+</ul>
+<h3>Side Effects</h3>
+<ul>
+<li>Keto flu (fatigue, headache, nausea)</li>
+<li>Constipation</li>
+<li>Nutrient deficiencies</li>
+</ul>
 <h2>Relationships</h2>
+<h3>Affects</h3>
+<p>AFFECTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/mct8-oil/" class="internal-link">MCT8_Oil</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+<p>RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+RELATED::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">health_goals</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Requires Supplement</h3>
-<p>REQUIRES_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/drug/mct8-oil/" class="internal-link">MCT8_Oil</a></p>
-<h3>Affects Cellular Component</h3>
-<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>REQUIRES_SUPPLEMENT::<a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

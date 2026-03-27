@@ -1,98 +1,47 @@
 ---
-created: '2026-03-12T06:00:32.054786Z'
+created: '2026-03-27T09:46:13.209948Z'
 description: Oxidized LDL is low-density lipoprotein cholesterol that has undergone
   oxidative modification, serving as a key driver of atherosclerotic plaque formation
   and a more specific marker of cardiovascular risk than standard LDL cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/oxidized-ldl/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/biomarker/oxidized-ldl/
 slug: oxidized-ldl
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Oxidized LDL
 type: biomarker
-updated: '2026-03-12T06:00:32.054786Z'
+updated: '2026-03-27T09:46:13.209948Z'
 ---
 
 {% raw %}
 <h1>Oxidized LDL</h1>
 <h2>Overview</h2>
-<p>Oxidized LDL (oxLDL) refers to low-density lipoprotein particles that have undergone oxidative modification of their lipid and protein components, primarily the polyunsaturated fatty acids in phospholipids and the apolipoprotein B-100 protein. This oxidation occurs predominantly within the arterial intima and is a pivotal event in the initiation and progression of atherosclerosis.</p>
-<p>When LDL particles become trapped in the subendothelial space, they are exposed to reactive oxygen species produced by endothelial cells, smooth muscle cells, and macrophages. The resulting oxLDL is recognized by scavenger receptors (CD36, LOX-1, SR-A) on macrophages, leading to unregulated uptake and the formation of lipid-laden foam cells, which are the hallmark of early atherosclerotic lesions. OxLDL also promotes endothelial dysfunction, platelet aggregation, smooth muscle cell proliferation, and a pro-inflammatory milieu within the vessel wall.</p>
-<p>Measuring oxLDL provides a more direct assessment of atherogenic risk than standard LDL cholesterol, as it reflects the biologically active, pathogenic form of LDL. Studies have shown that oxLDL is an independent predictor of coronary artery disease, acute coronary syndromes, and carotid atherosclerosis, even after adjusting for traditional lipid parameters.</p>
-<h2>Reference Ranges</h2>
-<table>
-<thead>
-<tr>
-<th>Range</th>
-<th>Value</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Low</strong></td>
-<td>&lt;40 U/L</td>
-<td>Low oxidative modification of LDL</td>
-</tr>
-<tr>
-<td><strong>Normal</strong></td>
-<td>&lt;60 U/L</td>
-<td>Acceptable level of LDL oxidation</td>
-</tr>
-<tr>
-<td><strong>High</strong></td>
-<td>&gt;60 U/L</td>
-<td>Increased atherogenic risk from oxidized LDL</td>
-</tr>
-<tr>
-<td><strong>Optimal</strong></td>
-<td>&lt;45 U/L</td>
-<td>Minimal oxidative LDL burden</td>
-</tr>
-</tbody>
-</table>
-<h2>Testing Information</h2>
-<ul>
-<li><strong>Measurement Unit</strong>: U/L</li>
-<li><strong>Sample Type</strong>: Plasma (EDTA; samples must be processed promptly to prevent ex vivo oxidation)</li>
-<li><strong>Fasting Required</strong>: True (12-hour fasting recommended)</li>
-<li><strong>Recommended Test Frequency</strong>: Annually; more frequent if elevated or in patients with high cardiovascular risk</li>
-</ul>
-<h2>💊 Supplements That Affect This Biomarker</h2>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a> - Decreases oxLDL as the primary lipid-soluble antioxidant protecting LDL from oxidation (moderate, evidence level 3)</li>
-<li><a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Decreases oxLDL through direct antioxidant protection of LDL particles (mild, evidence level 3)</li>
-<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases oxLDL by regenerating vitamin E and providing aqueous-phase antioxidant protection (mild, evidence level 3)</li>
-</ul>
-<h2>🧪 Lab Tests That Measure This Biomarker</h2>
-<h3>Direct Tests</h3>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a> - OxLDL ELISA (Mercodia oxLDL assay; measures malondialdehyde-modified LDL)</li>
-</ul>
+<p>Oxidized LDL is low-density lipoprotein cholesterol that has undergone oxidative modification, serving as a key driver of atherosclerotic plaque formation and a more specific marker of cardiovascular risk than standard LDL cholesterol.</p>
 <h2>Relationships</h2>
+<h3>Correlated With</h3>
+<p>CORRELATED_WITH::<a href="/garden/dev_admin/biomarker/ldl-p/" class="internal-link">Ldl_P</a><br />
+CORRELATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a><br />
+CORRELATED_WITH::<a href="/garden/dev_admin/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein_B</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
-ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
-<h3>Correlations</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl-p/" class="internal-link">Ldl_P</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein_B</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a></p>
-<h2>References</h2>
+<p>ACTIVATES::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+ACTIVATES::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a></p>
+<h3>Affected By Supplement</h3>
 <ul>
-<li>PMID:10871587 - Devaraj S et al. Alpha-tocopherol supplementation decreases serum C-reactive protein and monocyte interleukin-6 levels. Free Radic Biol Med. 2000.</li>
-<li>PMID:11368702 - Upston JM et al. Tocopherol-mediated peroxidation of lipoproteins. Free Radic Biol Med. 2001.</li>
-<li>PMID:29631560 - Jorat MV et al. The effects of coenzyme Q10 supplementation on lipid profiles: a systematic review and meta-analysis. Lipids Health Dis. 2018.</li>
-<li>PMID:10799367 - Carr AC et al. Does vitamin C act as a pro-oxidant under physiological conditions? FASEB J. 2000.</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
-<h2>Dataview Queries</h2>
-<pre><code class="language-dataview">LIST
-FROM [[Oxidized LDL]]
-WHERE contains(type, &quot;Intervention&quot;)
-SORT confidence_score DESC
-</code></pre>
+<h3>Measured By Test</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">oxidized_ldl</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (labtest)</li>
+</ul>
 
 {% endraw %}

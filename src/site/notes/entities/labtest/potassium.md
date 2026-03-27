@@ -1,13 +1,13 @@
 ---
-created: '2026-03-12T06:00:33.378368Z'
+created: '2026-03-27T09:46:13.948801Z'
 description: Tested twice a year Potassium is an essential electrolyte that helps
   regulate muscle contractions, nerve signals, and fluid balance. Balanced potassium
   levels are especially important for heart function, kidney health, and overall metabolic
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/potassium/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/potassium/
 slug: potassium
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: potassium
 type: labtest
-updated: '2026-03-12T06:00:33.378368Z'
+updated: '2026-03-27T09:46:13.948801Z'
 ---
 
 {% raw %}
@@ -59,24 +59,17 @@ updated: '2026-03-12T06:00:33.378368Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Hormonal Imbalance (E.G., Adrenal Or Thyroid)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Medication Effect</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a><br />
+<p>RELATED::<a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_EG_Adrenal_Or_Thyroid</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication_Effect</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_EG_Adrenal_Or_Thyroid</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -84,6 +77,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:38.867537</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:51.072689+00:00</em></p>
 
 {% endraw %}

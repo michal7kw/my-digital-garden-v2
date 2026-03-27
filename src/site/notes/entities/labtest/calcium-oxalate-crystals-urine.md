@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.031784Z'
+created: '2026-03-27T09:46:13.767476Z'
 description: Tested twice a year Calcium oxalate crystals can occasionally appear
   in urine without causing harm, often reflecting diet or hydration status. However,
   persistent crystal formation can be associated with kidney stones, chronic kidney
   problems, and underlying metabolic imbalances.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/calcium-oxalate-crystals-urine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/calcium-oxalate-crystals-urine/
 slug: calcium-oxalate-crystals-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: calcium_oxalate_crystals_urine
 type: labtest
-updated: '2026-03-12T06:00:33.031784Z'
+updated: '2026-03-27T09:46:13.767476Z'
 ---
 
 {% raw %}
@@ -37,19 +37,19 @@ updated: '2026-03-12T06:00:33.031784Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -69,6 +69,6 @@ updated: '2026-03-12T06:00:33.031784Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:17.890917</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:57.789722+00:00</em></p>
 
 {% endraw %}

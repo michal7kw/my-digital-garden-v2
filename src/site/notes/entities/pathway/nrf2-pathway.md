@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:33.876649Z'
+created: '2026-03-27T09:46:14.177961Z'
 description: The nuclear factor erythroid 2-related factor 2 (Nrf2) pathway is the
   master regulator of cellular antioxidant defenses, controlling the expression of
   cytoprotective genes in response to oxidative stress.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/nrf2-pathway/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/pathway/nrf2-pathway/
 slug: nrf2-pathway
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Nrf2 Pathway
 type: pathway
-updated: '2026-03-12T06:00:33.876649Z'
+updated: '2026-03-27T09:46:14.177961Z'
 ---
 
 {% raw %}
@@ -25,6 +25,20 @@ updated: '2026-03-12T06:00:33.876649Z'
 <h2>Description</h2>
 <p>The nuclear factor erythroid 2-related factor 2 (Nrf2) pathway is the master regulator of cellular antioxidant defenses, controlling the expression of cytoprotective genes in response to oxidative stress.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></p>
+<h3>Associated Biomarker</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/8-ohdg/" class="internal-link">8-OHdG</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/f2-isoprostanes/" class="internal-link">F2 Isoprostanes</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
 
 {% endraw %}

@@ -1,13 +1,13 @@
 ---
-created: '2026-03-12T06:00:33.066917Z'
+created: '2026-03-27T09:46:13.787331Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
   adrenal glands.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/cortisol/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/cortisol/
 slug: cortisol
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-03-12T06:00:33.066917Z'
+updated: '2026-03-27T09:46:13.787331Z'
 ---
 
 {% raw %}
@@ -55,28 +55,26 @@ updated: '2026-03-12T06:00:33.066917Z'
 </tr>
 </tbody>
 </table>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li><a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">cortisol</a></li>
+</ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Adrenal Insufficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Cushing’S Syndrome</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Chronic Stress (Elevated Cortisol)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Adrenal Hyperplasia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Pituitary Disorders</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/cortisol-am/" class="internal-link">cortisol_am</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">cortisol_am</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a></p>
+RELATED::<a href="/garden/dev_admin/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -84,6 +82,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders<
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:19.640599</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:09.210753+00:00</em></p>
 
 {% endraw %}

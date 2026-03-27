@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.339047Z'
+created: '2026-03-27T09:46:13.930672Z'
 description: Omega-3 Total reflects major omega-3 fatty acids (including EPA, DHA,
   ALA) that support anti-inflammatory and resolving pathways. Adequate omega-3s help
   modulate immune responses, support cell membrane fluidity, and counterbalance excessive
@@ -7,15 +7,15 @@ description: Omega-3 Total reflects major omega-3 fatty acids (including EPA, DH
   resolve inflammation and maintain a balanced fatty acid profile.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/omega-3-total/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/omega-3-total/
 slug: omega-3-total
 tags:
 - labtest
 templateEngineOverride: njk
 title: omega_3_total
 type: labtest
-updated: '2026-03-12T06:00:33.339047Z'
+updated: '2026-03-27T09:46:13.930672Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:33.339047Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Nutrient Panel</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:33.339047Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -58,30 +58,24 @@ updated: '2026-03-12T06:00:33.339047Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Omega-3 Deficiency</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Cardiovascular Disease Risk</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Cognitive Or Mood Imbalance</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular_Disease_Risk</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Or_Mood_Imbalance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3_Deficiency</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular_Disease_Risk</a><br />
+RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3_Deficiency</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Or_Mood_Imbalance</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a></p>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -89,6 +83,6 @@ INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamin
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:37.362338</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:07.162171+00:00</em></p>
 
 {% endraw %}

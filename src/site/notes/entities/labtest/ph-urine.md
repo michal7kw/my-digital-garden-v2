@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.369515Z'
+created: '2026-03-27T09:46:13.945729Z'
 description: Tested twice a year Urine pH reflects how acidic or alkaline the urine
   is, and it plays a key role in helping the body maintain overall acid–base balance.
   Abnormal urine pH can increase the risk of kidney stones, or indicate metabolic
   or dietary imbalances that may warrant medical attention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/ph-urine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/ph-urine/
 slug: ph-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: ph_urine
 type: labtest
-updated: '2026-03-12T06:00:33.369515Z'
+updated: '2026-03-27T09:46:13.945729Z'
 ---
 
 {% raw %}
@@ -37,19 +37,19 @@ updated: '2026-03-12T06:00:33.369515Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -57,27 +57,20 @@ updated: '2026-03-12T06:00:33.369515Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dietary Or Medication Effect</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dietary_Or_Medication_Effect</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -85,6 +78,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunctio
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:38.535961</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:56.306588+00:00</em></p>
 
 {% endraw %}

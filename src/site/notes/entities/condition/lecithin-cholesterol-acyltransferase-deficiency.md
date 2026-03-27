@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.443557Z'
+created: '2026-03-27T09:46:13.454200Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/lecithin-cholesterol-acyltransferase-deficiency/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/lecithin-cholesterol-acyltransferase-deficiency/
 slug: lecithin-cholesterol-acyltransferase-deficiency
 tags:
 - condition
@@ -15,25 +15,19 @@ tags:
 templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-03-12T06:00:32.443557Z'
+updated: '2026-03-27T09:46:13.454200Z'
 ---
 
 {% raw %}
 <h1>Lecithin Cholesterol Acyltransferase Deficiency</h1>
 <h2>Overview</h2>
-<p>Lecithin-Cholesterol Acyltransferase (LCAT) Deficiency is a rare autosomal recessive disorder. The LCAT enzyme is responsible for the formation of cholesteryl esters, a crucial step in the transport of cholesterol from tissues to the liver (reverse cholesterol transport). Deficiency leads to very low HDL levels and the accumulation of free cholesterol in tissues like the cornea and kidneys.</p>
-<h2>Variants</h2>
-<ol>
-<li><strong>Familial LCAT Deficiency (FLD):</strong> Complete enzyme deficiency. Severe symptoms including kidney failure and anemia.</li>
-<li><strong>Fish-Eye Disease (FED):</strong> Partial enzyme deficiency. Primary symptom is corneal opacity; kidney function is usually preserved.</li>
-</ol>
+<p>A rare genetic disorder of lipid metabolism that leads to corneal opacities, anemia, and renal failure due to the accumulation of unesterified cholesterol.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Kuivenhoven, J. A., et al. (1997). The role of LCAT in HDL metabolism.</li>
-<li>Norum, K. R., et al. (1989). Familial lecithin:cholesterol acyltransferase deficiency.</li>
-<li>Orphanet. LCAT Deficiency.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
 
 {% endraw %}

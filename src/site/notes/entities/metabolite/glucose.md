@@ -1,98 +1,102 @@
 ---
-created: '2026-03-12T06:00:33.664184Z'
-description: Primary fuel for glycolysis and the most important energy substrate for
-  most cells. Enters cells via GLUT transporters and is phosphorylated by hexokinase
-  to glucose-6-phosphate as the first committed step of metabolism.
+created: '2026-03-27T09:46:14.080369Z'
+description: The primary six-carbon monosaccharide fuel for cellular energy production
+  and the entry point for glycolysis, the most fundamental molecule in human energy
+  metabolism.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/glucose/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/metabolite/glucose/
 slug: glucose
 tags:
 - metabolite
+- energy_metabolism
 - glycolysis
-- energy
+- carbohydrate
 templateEngineOverride: njk
 title: Glucose
 type: metabolite
-updated: '2026-03-12T06:00:33.664184Z'
+updated: '2026-03-27T09:46:14.080369Z'
 ---
 
 {% raw %}
 <h1>Glucose</h1>
 <h2>Overview</h2>
-<p>Glucose (C6H12O6) is a six-carbon monosaccharide and the primary fuel for cellular energy production. It is the most abundant sugar in nature and serves as the principal energy substrate for the brain, red blood cells, and exercising muscle.</p>
-<p>Glucose enters cells through a family of glucose transporters (GLUT1-14), with tissue-specific expression determining uptake kinetics. Once inside the cell, glucose is immediately phosphorylated by <a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a> to <a class="internal-link is-unresolved" href="/404">Glucose-6-Phosphate</a>, trapping it within the cell and committing it to metabolism.</p>
-<h2>Metabolic Fates</h2>
+<p>Glucose is the most fundamental energy substrate in human metabolism. This six-carbon monosaccharide serves as the primary fuel for virtually all human cells and is the obligate fuel source for the brain under normal physiological conditions (consuming ~120 g/day, approximately 60% of total glucose utilization at rest).</p>
+<p>Glucose enters cells through a family of GLUT transporters (GLUT1-4), each with tissue-specific expression patterns. GLUT4, present in muscle and adipose tissue, is insulin-regulated, forming the basis of insulin-mediated glucose uptake. Once inside the cell, glucose is immediately phosphorylated by hexokinase to glucose-6-phosphate, trapping it within the cell and committing it to one of several metabolic fates.</p>
+<p><strong>Evidence Level:</strong> 5/5</p>
+<h2>Mechanism of Action</h2>
+<h3>Glycolysis (Primary Pathway)</h3>
+<ul>
+<li>Glucose → Glucose-6-Phosphate (Hexokinase, ATP cost)</li>
+<li>Glucose-6-P → Fructose-6-P → Fructose-1,6-BP (PFK-1, rate-limiting, ATP cost)</li>
+<li>Fructose-1,6-BP → 2x Glyceraldehyde-3-P → 2x Pyruvate</li>
+<li><strong>Net yield per glucose</strong>: 2 ATP + 2 NADH</li>
+<li>Pyruvate then enters the TCA cycle (via pyruvate dehydrogenase) or is converted to lactate under anaerobic conditions</li>
+</ul>
+<h3>Pentose Phosphate Pathway</h3>
+<ul>
+<li>Glucose-6-P can be diverted to produce NADPH (for biosynthesis and antioxidant defense) and ribose-5-phosphate (for nucleotide synthesis)</li>
+</ul>
+<h3>Glycogen Storage</h3>
+<ul>
+<li>Excess glucose is polymerized to glycogen in liver (~100 g capacity) and muscle (~400 g capacity) for rapid mobilization during fasting or exercise</li>
+</ul>
+<h3>Complete Oxidation</h3>
+<ul>
+<li>Full aerobic oxidation of one glucose molecule through glycolysis, TCA cycle, and oxidative phosphorylation yields approximately 30-32 ATP molecules</li>
+</ul>
+<h2>Metabolic Significance</h2>
 <table>
 <thead>
 <tr>
 <th>Pathway</th>
-<th>Product</th>
-<th>Condition</th>
+<th>Products per Glucose</th>
+<th>Location</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a></td>
-<td><a class="internal-link is-unresolved" href="/404">Pyruvate</a> + 2 ATP</td>
-<td>All cells</td>
+<td>Glycolysis</td>
+<td>2 ATP, 2 NADH, 2 Pyruvate</td>
+<td>Cytoplasm</td>
 </tr>
 <tr>
-<td>Pentose Phosphate Pathway</td>
-<td>NADPH + Ribose-5-P</td>
-<td>Biosynthesis</td>
+<td>TCA Cycle (x2 turns)</td>
+<td>6 NADH, 2 FADH2, 2 GTP</td>
+<td>Mitochondrial Matrix</td>
 </tr>
 <tr>
-<td>Glycogen Synthesis</td>
-<td>Glycogen</td>
-<td>Fed state (liver, muscle)</td>
+<td>Oxidative Phosphorylation</td>
+<td>~26 ATP (from NADH/FADH2)</td>
+<td>Inner Mitochondrial Membrane</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a> (via pyruvate)</td>
-<td>CO2 + NADH + FADH2</td>
-<td>Aerobic</td>
-</tr>
-<tr>
-<td>Lactate Fermentation</td>
-<td><a class="internal-link is-unresolved" href="/404">Lactate</a></td>
-<td>Anaerobic / high flux</td>
+<td><strong>Total</strong></td>
+<td><strong>~30-32 ATP</strong></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<h2>Regulation of Glucose Metabolism</h2>
-<ul>
-<li><strong>Insulin</strong>: Stimulates GLUT4 translocation, activates glycolysis and glycogen synthesis</li>
-<li><strong>Glucagon</strong>: Promotes glycogenolysis and gluconeogenesis in liver</li>
-<li><strong><a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></strong>: Activated during energy stress, increases glucose uptake</li>
-<li><strong><a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></strong>: Product-inhibited by <a class="internal-link is-unresolved" href="/404">Glucose-6-Phosphate</a></li>
-<li><strong><a href="/garden/michal.k7w@gmail.com/protein/phosphofructokinase/" class="internal-link">Phosphofructokinase</a></strong>: Rate-limiting step of <a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a>, allosterically regulated</li>
-</ul>
-<h2>Clinical Significance</h2>
-<ul>
-<li><strong>Diabetes mellitus</strong>: Impaired glucose uptake and metabolism</li>
-<li><strong>Warburg effect</strong>: Cancer cells prefer glycolysis even with O2 available</li>
-<li><strong>Hypoglycemia</strong>: Brain dysfunction due to glucose deprivation</li>
-<li><strong>Glycogen storage diseases</strong>: Impaired glucose mobilization</li>
-</ul>
-<h2>Key Connections</h2>
-<h3>Metabolized By</h3>
-<ul>
-<li><strong><a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></strong>: Phosphorylates glucose to <a class="internal-link is-unresolved" href="/404">Glucose-6-Phosphate</a></li>
-<li><strong><a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a></strong>: 10-step pathway to pyruvate</li>
-<li><strong><a href="/garden/michal.k7w@gmail.com/protein/phosphofructokinase/" class="internal-link">Phosphofructokinase</a></strong>: Commits G6P to glycolysis</li>
-</ul>
-<h3>Produces</h3>
-<ul>
-<li><strong><a class="internal-link is-unresolved" href="/404">Pyruvate</a></strong>: End product of glycolysis</li>
-<li><strong><a class="internal-link is-unresolved" href="/404">Glucose-6-Phosphate</a></strong>: First metabolic intermediate</li>
-<li><strong><a class="internal-link is-unresolved" href="/404">ATP</a></strong>: Net 2 ATP from glycolysis, ~30-32 from complete oxidation</li>
-</ul>
-<h3>Regulation</h3>
-<ul>
-<li><strong><a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></strong>: Energy sensor that increases glucose uptake</li>
-<li><strong>Insulin/Glucagon axis</strong>: Primary hormonal regulation</li>
-</ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+RELATED::<a href="/garden/dev_admin/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
+RELATED::<a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a><br />
+RELATED::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a><br />
+RELATED::<a href="/garden/dev_admin/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<h3>Converted To</h3>
+<p>CONVERTED_TO::<a href="/garden/dev_admin/metabolite/glucose-6-phosphate/" class="internal-link">Glucose-6-Phosphate</a><br />
+CONVERTED_TO::<a href="/garden/dev_admin/metabolite/pyruvate/" class="internal-link">Pyruvate</a></p>
+<h3>Participates In</h3>
+<p>PARTICIPATES_IN::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+PARTICIPATES_IN::<a href="/garden/dev_admin/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a></p>
+<h3>Modulated By</h3>
+<p>MODULATED_BY::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a></p>
+<h2>References</h2>
+<ul>
+<li>Berg JM, Tymoczko JL, Stryer L. Biochemistry. 8th edition. Chapter 16: Glycolysis and Gluconeogenesis.</li>
+<li>Mergenthaler P et al. Sugar for the brain: the role of glucose in physiological and pathological brain function. Trends Neurosci. 2013;36(10):587-597. PMID:23968694</li>
+</ul>
 
 {% endraw %}

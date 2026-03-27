@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:34.286892Z'
+created: '2026-03-27T09:46:14.388920Z'
 description: A carbocyclic sugar alcohol that mediates cell signal transduction in
   response to a variety of hormones, neurotransmitters, and growth factors. Particularly
   effective for PCOS and insulin sensitivity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/inositol/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/supplement/inositol/
 slug: inositol
 tags:
 - supplement
@@ -17,43 +17,28 @@ tags:
 templateEngineOverride: njk
 title: Inositol
 type: supplement
-updated: '2026-03-12T06:00:34.286892Z'
+updated: '2026-03-27T09:46:14.388920Z'
 ---
 
 {% raw %}
 <h1>Inositol</h1>
 <h2>Overview</h2>
-<p><strong>Inositol</strong> is a sugar alcohol that plays a structural role in cell membranes and acts as a crucial second messenger in intracellular signaling. While the body can synthesize it from glucose, supplementation is often necessary to correct deficits associated with insulin resistance and mood disorders.</p>
-<p>There are nine stereoisomers, but two are clinically significant:</p>
-<ol>
-<li><strong>Myo-Inositol (MI):</strong> The most abundant form, involved in cellular glucose uptake and FSH signaling.</li>
-<li><strong>D-Chiro-Inositol (DCI):</strong> Involved in glycogen synthesis and insulin mediated androgen reduction.</li>
-</ol>
+<p>A carbocyclic sugar alcohol that mediates cell signal transduction in response to a variety of hormones, neurotransmitters, and growth factors. Particularly effective for PCOS and insulin sensitivity.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
 <h2>Mechanism of Action</h2>
-<h3>Insulin Signaling</h3>
-<p>Inositol phosphoglycans (IPGs) are second messengers released after insulin binds to its receptor.</p>
-<ul>
-<li><strong>Myo-Inositol:</strong> Promotes translocation of <strong>GLUT4</strong> transporters to the cell membrane, facilitating glucose uptake.</li>
-<li><strong>D-Chiro-Inositol:</strong> Stimulates <strong>Glycogen Synthase</strong>, promoting glucose storage.</li>
-</ul>
-<h3>PCOS Pathophysiology</h3>
-<p>In <strong>Polycystic Ovary Syndrome (PCOS)</strong>, ovaries often exhibit a paradox: systemic insulin resistance leads to a deficiency of Myo-Inositol but an excess of D-Chiro-Inositol (due to heightened epimerase activity). Supplementing with a physiological <strong>40:1 ratio</strong> of MI to DCI restores hormonal balance and ovulation.</p>
-<h3>Neurotransmitter Signaling</h3>
-<p>Inositol is a precursor for the phosphatidylinositol (PI) cycle, the second messenger system for <strong>Serotonin</strong>, <strong>Dopamine</strong>, and <strong>Norepinephrine</strong> receptors. High doses can modulate these pathways to reduce anxiety and OCD symptoms.</p>
-<h2>Clinical Indications</h2>
-<ul>
-<li><strong>PCOS:</strong> Restores ovulation, improves egg quality, reduces testosterone, and improves insulin sensitivity.</li>
-<li><strong>Metabolic Syndrome:</strong> Lowers triglycerides, blood pressure, and blood sugar.</li>
-<li><strong>Mental Health:</strong> High-dose (12-18g) Myo-Inositol is effective for Panic Disorder and OCD (though less evidence for general depression).</li>
-<li><strong>Gestational Diabetes:</strong> Reduces risk in at-risk pregnant women.</li>
-</ul>
+<p>Functions as a second messenger (IP3) for insulin receptors and neurotransmitters; Myo-inositol improves glucose uptake; D-chiro-inositol improves glycogen synthesis.</p>
+<h2>Dosage</h2>
+<p>2-4g daily for PCOS (typically 40:1 ratio of Myo:D-Chiro); up to 12-18g for mental health conditions.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Unfer V, et al. Myo-inositol effects in women with PCOS: a meta-analysis of randomized controlled trials. Endocr Connect. 2017;6(8):647-658.</li>
-<li>Palatnik A, et al. Double-blind, controlled, crossover trial of inositol versus fluvoxamine for the treatment of panic disorder. J Clin Psychopharmacol. 2001;21(3):335-9.</li>
-<li>Larner J. D-chiro-inositol--its functional role in insulin action and its deficit in insulin resistance. Int J Exp Diabetes Res. 2002;3(1):47-60.</li>
-</ul>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">Testosterone Total</a></p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/blood-glucose-imbalance/" class="internal-link">Blood Glucose Imbalance</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/gestational-diabetes/" class="internal-link">Gestational Diabetes</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></p>
 
 {% endraw %}

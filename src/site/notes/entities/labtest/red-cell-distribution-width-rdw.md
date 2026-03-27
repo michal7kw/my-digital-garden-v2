@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.405627Z'
+created: '2026-03-27T09:46:13.962534Z'
 description: red sell dis-trib-yoo-shun width (r-d-w) Tested twice a year Red cell
   distribution width (RDW) measures how much red blood cell sizes vary in the blood.
   A higher RDW means the cells differ more in size than usual, which can be linked
@@ -9,15 +9,15 @@ description: red sell dis-trib-yoo-shun width (r-d-w) Tested twice a year Red ce
   like fatigue or weakness.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/red-cell-distribution-width-rdw/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/red-cell-distribution-width-rdw/
 slug: red-cell-distribution-width-rdw
 tags:
 - labtest
 templateEngineOverride: njk
 title: red_cell_distribution_width_rdw
 type: labtest
-updated: '2026-03-12T06:00:33.405627Z'
+updated: '2026-03-27T09:46:13.962534Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-03-12T06:00:33.405627Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Cbc</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -52,7 +52,7 @@ updated: '2026-03-12T06:00:33.405627Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -60,28 +60,21 @@ updated: '2026-03-12T06:00:33.405627Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Folate Deficiency</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Thalassemia</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Folate_Deficiency</a><br />
+RELATED::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Folate_Deficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -89,6 +82,6 @@ MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:39.902044</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:01.894837+00:00</em></p>
 
 {% endraw %}

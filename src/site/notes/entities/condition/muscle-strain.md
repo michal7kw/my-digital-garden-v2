@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.485546Z'
+created: '2026-03-27T09:46:13.481504Z'
 description: An injury to a muscle or its attaching tendons, often caused by overstretching
   or overexertion during physical activity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/muscle-strain/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/muscle-strain/
 slug: muscle-strain
 tags:
 - condition
@@ -15,26 +15,23 @@ tags:
 templateEngineOverride: njk
 title: Muscle Strain
 type: condition
-updated: '2026-03-12T06:00:32.485546Z'
+updated: '2026-03-27T09:46:13.481504Z'
 ---
 
 {% raw %}
 <h1>Muscle Strain</h1>
 <h2>Overview</h2>
-<p>Muscle Strain (pulled muscle) occurs when muscle fibers are torn. It is common in athletes and during heavy lifting. Severity is graded from 1 (mild stretch) to 3 (complete rupture). Proper recovery is essential to prevent permanent scarring and recurring injury.</p>
-<h2>Severity Grades</h2>
-<ul>
-<li><strong>Grade 1:</strong> Mild damage; minimal loss of strength.</li>
-<li><strong>Grade 2:</strong> More extensive fiber damage; significant pain and swelling.</li>
-<li><strong>Grade 3:</strong> Complete tear; loss of muscle function.</li>
-</ul>
+<p>An injury to a muscle or its attaching tendons, often caused by overstretching or overexertion during physical activity.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Järvinen, T. A., et al. (2005). Muscle injuries: biology and treatment. American Journal of Sports Medicine.</li>
-<li>Mayo Clinic. Muscle strain.</li>
-<li>MedlinePlus. Muscle Strains.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">Magnesium Rbc</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/taurine/" class="internal-link">Taurine</a></p>
 
 {% endraw %}

@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.118311Z'
+created: '2026-03-27T09:46:13.819688Z'
 description: 'Tests IgG antibodies to 100+ foods. Note: IgG food sensitivity testing
   has limited clinical evidence.'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/food-sensitivity-igg/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/food-sensitivity-igg/
 slug: food-sensitivity-igg
 tags:
 - labtest
 templateEngineOverride: njk
 title: food_sensitivity_igg
 type: labtest
-updated: '2026-03-12T06:00:33.118311Z'
+updated: '2026-03-27T09:46:13.819688Z'
 ---
 
 {% raw %}
@@ -67,6 +67,6 @@ updated: '2026-03-12T06:00:33.118311Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:04.145110+00:00</em></p>
 
 {% endraw %}

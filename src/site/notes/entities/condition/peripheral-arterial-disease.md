@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.536057Z'
+created: '2026-03-27T09:46:13.514794Z'
 description: A common circulatory problem in which narrowed arteries reduce blood
   flow to the limbs, usually the legs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/peripheral-arterial-disease/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/peripheral-arterial-disease/
 slug: peripheral-arterial-disease
 tags:
 - condition
@@ -15,20 +15,25 @@ tags:
 templateEngineOverride: njk
 title: Peripheral Arterial Disease
 type: condition
-updated: '2026-03-12T06:00:32.536057Z'
+updated: '2026-03-27T09:46:13.514794Z'
 ---
 
 {% raw %}
 <h1>Peripheral Arterial Disease</h1>
 <h2>Overview</h2>
-<p>Peripheral Arterial Disease (PAD) is caused by <strong>atherosclerosis</strong> (hardening of the arteries). Plaque builds up in the arteries that carry blood to the head, organs, and limbs. When plaque hardens, it narrows the arteries and limits the flow of oxygen-rich blood to the body. It most commonly affects the legs, causing pain during walking (claudication) that resolves with rest.</p>
+<p>A common circulatory problem in which narrowed arteries reduce blood flow to the limbs, usually the legs.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Gerhard-Herman, M. D., et al. (2017). 2016 AHA/ACC Guideline on the Management of Patients With Lower Extremity Peripheral Artery Disease. Circulation.</li>
-<li>CDC. Peripheral Arterial Disease (PAD).</li>
-<li>Fowkes, F. G., et al. (2013). Comparison of global estimates of prevalence and risk factors for peripheral artery disease in 2000 and 2010. The Lancet.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a><br />
+IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a></p>
 
 {% endraw %}

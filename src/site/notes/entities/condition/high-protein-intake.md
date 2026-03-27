@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.407940Z'
+created: '2026-03-27T09:46:13.434716Z'
 description: A dietary state characterized by a high proportion of protein consumption,
   which can impact metabolic markers and kidney function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/high-protein-intake/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/high-protein-intake/
 slug: high-protein-intake
 tags:
 - condition
@@ -15,46 +15,21 @@ tags:
 templateEngineOverride: njk
 title: High Protein Intake
 type: condition
-updated: '2026-03-12T06:00:32.407940Z'
+updated: '2026-03-27T09:46:13.434716Z'
 ---
 
 {% raw %}
 <h1>High Protein Intake</h1>
 <h2>Overview</h2>
 <p>A dietary state characterized by a high proportion of protein consumption, which can impact metabolic markers and kidney function.</p>
-<h2>Clinical Presentation</h2>
-<h3>Symptoms</h3>
-<p>Not specified.</p>
-<h2>Diagnostic Information</h2>
-<h2>Risk Factors</h2>
-<h2>Management</h2>
-<h3>Interventions</h3>
-<pre><code class="language-dataview">TABLE 
-    effectiveness AS &quot;Effectiveness&quot;,
-    confidence_score AS &quot;Confidence&quot;
-FROM [[High Protein Intake]] AND #intervention
-SORT confidence_score DESC
-</code></pre>
-<h2>Other Relationships</h2>
-<h3>May Detect</h3>
-<h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a></p>
-<h2>Research</h2>
-<h3>Recent Studies</h3>
-<pre><code class="language-dataview">LIST
-FROM [[High Protein Intake]] AND #research
-WHERE date &gt;= date(today) - dur(1 year)
-SORT date DESC
-</code></pre>
-<h3>Clinical Trials</h3>
-<pre><code class="language-dataview">LIST status
-FROM [[High Protein Intake]] AND #clinical-trial
-SORT date DESC
-</code></pre>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<h2>References</h2>
-<p>No references available.</p>
+<p>RELATED::<a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a></p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/egfr/" class="internal-link">EGFR</a></p>
 
 {% endraw %}

@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.019401Z'
+created: '2026-03-27T09:46:13.757319Z'
 description: Tested twice a year The BUN/creatinine ratio compares two waste products
   in the blood—urea and creatinine—to provide a view of kidney health. An abnormal
   ratio can help distinguish between kidney problems and other conditions affecting
   metabolism or hydration.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/bun-creatinine-ratio/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/bun-creatinine-ratio/
 slug: bun-creatinine-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: bun_creatinine_ratio
 type: labtest
-updated: '2026-03-12T06:00:33.019401Z'
+updated: '2026-03-27T09:46:13.757319Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ updated: '2026-03-12T06:00:33.019401Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -49,7 +49,7 @@ updated: '2026-03-12T06:00:33.019401Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -57,29 +57,22 @@ updated: '2026-03-12T06:00:33.019401Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
+RELATED::<a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
+RELATED::<a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -87,6 +80,6 @@ MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:17.455566</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:16.031791+00:00</em></p>
 
 {% endraw %}

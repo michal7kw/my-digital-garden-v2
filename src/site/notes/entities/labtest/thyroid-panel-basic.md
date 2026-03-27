@@ -1,17 +1,17 @@
 ---
-created: '2026-03-12T06:00:33.450957Z'
+created: '2026-03-27T09:46:13.984094Z'
 description: TSH and Free T4. Standard initial thyroid assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-panel-basic/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/thyroid-panel-basic/
 slug: thyroid-panel-basic
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_panel_basic
 type: labtest
-updated: '2026-03-12T06:00:33.450957Z'
+updated: '2026-03-27T09:46:13.984094Z'
 ---
 
 {% raw %}
@@ -53,8 +53,8 @@ updated: '2026-03-12T06:00:33.450957Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">tsh</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/free-t4/" class="internal-link">free_t4</a></li>
+<li><a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a></li>
+<li><a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,8 +65,8 @@ updated: '2026-03-12T06:00:33.450957Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/free-t4/" class="internal-link">free_t4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">tsh</a></p>
+<p>RELATED::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -74,6 +74,6 @@ RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-lin
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:00.987740+00:00</em></p>
 
 {% endraw %}

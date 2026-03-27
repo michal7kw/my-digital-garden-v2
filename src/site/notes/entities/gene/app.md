@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.825587Z'
+created: '2026-03-27T09:46:14.273699Z'
 description: Encodes the Amyloid-Beta Precursor Protein. Mutations in this gene are
   associated with early-onset Alzheimer's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/app/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/app/
 slug: app
 tags:
 - gene
@@ -16,18 +16,15 @@ tags:
 templateEngineOverride: njk
 title: APP
 type: gene
-updated: '2026-03-12T06:00:32.825587Z'
+updated: '2026-03-27T09:46:14.273699Z'
 ---
 
 {% raw %}
 <h1>APP</h1>
 <h2>Overview</h2>
-<p>The <strong>APP</strong> gene encodes a cell surface receptor and transmembrane precursor protein that is cleaved by secretases to form a number of peptides. Some of these peptides are secreted and can bind to the acetyltransferase complex APBB1/TIP60 to promote transcriptional activation, while others form the protein basis of the <strong>amyloid plaques</strong> found in the brains of patients with Alzheimer disease.</p>
+<p>Encodes the Amyloid-Beta Precursor Protein. Mutations in this gene are associated with early-onset Alzheimer's disease.</p>
 <h2>Relationships</h2>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></p>
-<h2>References</h2>
-<ol>
-<li><strong>Genetics</strong>: Goate, A., et al. (1991). &quot;Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease.&quot; <em>Nature</em>.</li>
-</ol>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a></p>
 
 {% endraw %}

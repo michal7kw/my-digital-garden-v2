@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:34.209229Z'
+created: '2026-03-27T09:46:14.343205Z'
 description: First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown
   mitochondria to reverse age-related bioenergetic decline.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/research/2025-mitrix-bio-mitochondrial-transplantation-trial/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/research/2025-mitrix-bio-mitochondrial-transplantation-trial/
 slug: 2025-mitrix-bio-mitochondrial-transplantation-trial
 tags:
 - research
@@ -16,26 +16,18 @@ tags:
 templateEngineOverride: njk
 title: 2025 Mitrix Bio Mitochondrial Transplantation Trial
 type: research
-updated: '2026-03-12T06:00:34.209229Z'
+updated: '2026-03-27T09:46:14.343205Z'
 ---
 
 {% raw %}
 <h1>2025 Mitrix Bio Mitochondrial Transplantation Trial</h1>
 <h2>Overview</h2>
-<p>In late 2025, Mitrix Bio initiated informal human trials for <strong>Mitochondrial Transplantation</strong> (Mitotherapy). The concept involves growing young, healthy mitochondria in bioreactors and infusing them into older adults to replenish their bioenergetic capacity.</p>
-<h2>Study Design</h2>
-<ul>
-<li><strong>Participant:</strong> Initial subject was a 90-year-old physicist (John G. Cramer).</li>
-<li><strong>Method:</strong> &quot;Mitlets&quot; (mitochondria encapsulated in protective coating) or direct mitochondrial infusion.</li>
-<li><strong>Goal:</strong> To treat &quot;Mitochondrial Exhaustion,&quot; a proposed root cause of frailty, cognitive decline, and immune senescence.</li>
-</ul>
-<h2>Scientific Context</h2>
-<p>Previous animal studies showed that transferring mitochondria from young to old mice could improve energy levels, cognitive function, and muscle endurance. This trial represents the translation of that concept (&quot;Bench to Bedside&quot;).</p>
+<p>First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown mitochondria to reverse age-related bioenergetic decline.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/dev_admin/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial_Transplantation</a></p>
 <h3>Studied Topic</h3>
-<p>STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Longevity</a><br />
-STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
-<h3>Investigated Intervention</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial_Transplantation</a></p>
+<p>STUDIED_TOPIC::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+STUDIED_TOPIC::<a href="/garden/dev_admin/healthstack/longevity/" class="internal-link">Longevity</a></p>
 
 {% endraw %}

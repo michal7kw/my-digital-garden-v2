@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:34.291130Z'
+created: '2026-03-27T09:46:14.390948Z'
 description: Essential trace mineral critical for oxygen transport, energy production,
   and neurotransmitter synthesis. Required cofactor for numerous enzymes including
   those in dopamine and serotonin pathways.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/iron/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/supplement/iron/
 slug: iron
 tags:
 - supplement
@@ -17,20 +17,29 @@ tags:
 templateEngineOverride: njk
 title: Iron
 type: supplement
-updated: '2026-03-12T06:00:34.291130Z'
+updated: '2026-03-27T09:46:14.390948Z'
 ---
 
 {% raw %}
 <h1>Iron</h1>
 <h2>Overview</h2>
 <p>Essential trace mineral critical for oxygen transport, energy production, and neurotransmitter synthesis. Required cofactor for numerous enzymes including those in dopamine and serotonin pathways.</p>
+<p><strong>Research Summary:</strong> Iron deficiency is the most common nutritional deficiency worldwide. Low iron impairs neurotransmitter synthesis, causing fatigue, cognitive issues, and mood disturbances even before anemia develops.</p>
 <h2>Relationships</h2>
-<h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a></p>
+<p>RELATED::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">Tibc</a></p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:34.253145Z'
+created: '2026-03-27T09:46:14.369884Z'
 description: Cold-pressed oil from Nigella sativa seeds, used in traditional medicine
   for over 2,000 years. Primary bioactive compound thymoquinone (TQ) has demonstrated
   anti-inflammatory, antioxidant, immunomodulatory, and hepatoprotective properties.
@@ -7,8 +7,8 @@ description: Cold-pressed oil from Nigella sativa seeds, used in traditional med
   and blood glucose regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/black-seed-oil/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/supplement/black-seed-oil/
 slug: black-seed-oil
 tags:
 - supplement
@@ -19,33 +19,31 @@ tags:
 templateEngineOverride: njk
 title: Black Seed Oil
 type: supplement
-updated: '2026-03-12T06:00:34.253145Z'
+updated: '2026-03-27T09:46:14.369884Z'
 ---
 
 {% raw %}
 <h1>Black Seed Oil</h1>
 <h2>Overview</h2>
 <p>Cold-pressed oil from Nigella sativa seeds, used in traditional medicine for over 2,000 years. Primary bioactive compound thymoquinone (TQ) has demonstrated anti-inflammatory, antioxidant, immunomodulatory, and hepatoprotective properties. Clinical evidence supports benefits for metabolic syndrome markers, lipid profiles, and blood glucose regulation.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<p><strong>Research Summary:</strong> Extensive research with 1,000+ publications. Meta-analyses support modest improvements in fasting blood glucose, HbA1c, total cholesterol, LDL, and triglycerides. Anti-inflammatory effects well-documented through NF-kB suppression. Hepatoprotective effects demonstrated in animal and human studies. Evidence level moderate — many studies small-scale but consistent direction of effect.</p>
 <h2>Mechanism of Action</h2>
-<ul>
-<li><strong>NF-kB suppression</strong>: Thymoquinone inhibits NF-kB → reduces TNF-alpha, IL-6, IL-1beta</li>
-<li><strong>AMPK activation</strong>: Improves glucose uptake and insulin sensitivity</li>
-<li><strong>Antioxidant</strong>: Enhances SOD activity and glutathione levels</li>
-<li><strong>Hepatoprotective</strong>: Reduces hepatic lipid accumulation and oxidative stress</li>
-<li><strong>Mast cell stabilization</strong>: Inhibits histamine release</li>
-</ul>
+<p>Thymoquinone suppresses NF-kB signaling, reducing pro-inflammatory cytokine production (TNF-alpha, IL-6, IL-1beta). Activates AMPK pathway improving glucose metabolism. Potent free radical scavenger via superoxide dismutase (SOD) and glutathione enhancement. Modulates hepatic lipid metabolism. Inhibits histamine release from mast cells.</p>
 <h2>Dosage</h2>
-<ul>
-<li><strong>Oil</strong>: 1-3g daily (1-2 teaspoons)</li>
-<li><strong>Standardized extract</strong>: 200-600mg thymoquinone equivalent daily</li>
-<li><strong>Timing</strong>: With food for better absorption</li>
-</ul>
+<p>1-3g oil daily or 200-600mg thymoquinone-standardized extract</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/histamine/" class="internal-link">Histamine</a></p>
+<p>RELATED::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+RELATED::<a href="/garden/dev_admin/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a><br />
+RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a><br />
+RELATED::<a href="/garden/dev_admin/neurotransmitter/histamine/" class="internal-link">Histamine</a></p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/allergy/" class="internal-link">Allergy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a></p>
 
 {% endraw %}

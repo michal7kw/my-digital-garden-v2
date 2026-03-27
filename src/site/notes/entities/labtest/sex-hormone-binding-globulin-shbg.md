@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.417742Z'
+created: '2026-03-27T09:46:13.968085Z'
 description: Sex hormone binding globulin (SHBG) is a protein made by the liver that
   regulates how much estrogen and testosterone are available for the body to use.
   In females, SHBG helps maintain hormone balance and can influence fertility, menstrual
@@ -8,15 +8,15 @@ description: Sex hormone binding globulin (SHBG) is a protein made by the liver 
   are signs of excess androgens, irregular cycles, or unexplained symptoms.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/sex-hormone-binding-globulin-shbg/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/sex-hormone-binding-globulin-shbg/
 slug: sex-hormone-binding-globulin-shbg
 tags:
 - labtest
 templateEngineOverride: njk
 title: sex_hormone_binding_globulin_shbg
 type: labtest
-updated: '2026-03-12T06:00:33.417742Z'
+updated: '2026-03-27T09:46:13.968085Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ updated: '2026-03-12T06:00:33.417742Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Sex Hormones</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -51,7 +51,7 @@ updated: '2026-03-12T06:00:33.417742Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -59,35 +59,28 @@ updated: '2026-03-12T06:00:33.417742Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome (Pcos)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a></p>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a><br />
+<p>RELATED::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+RELATED::<a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a><br />
+RELATED::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -95,6 +88,6 @@ ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormo
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:40.518120</em></p>
+<p><em>Last Updated: 2026-03-11T13:46:55.361610+00:00</em></p>
 
 {% endraw %}

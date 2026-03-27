@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:32.368101Z'
+created: '2026-03-27T09:46:13.399225Z'
 description: A state of adaptation or dysregulation of the thyroid axis during severe
   non-thyroidal illness, characterized by abnormal thyroid tests in the absence of
   primary thyroid disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/euthyroid-sick-syndrome/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/euthyroid-sick-syndrome/
 slug: euthyroid-sick-syndrome
 tags:
 - condition
@@ -17,22 +17,24 @@ tags:
 templateEngineOverride: njk
 title: Euthyroid Sick Syndrome
 type: condition
-updated: '2026-03-12T06:00:32.368101Z'
+updated: '2026-03-27T09:46:13.399225Z'
 ---
 
 {% raw %}
 <h1>Euthyroid Sick Syndrome</h1>
 <h2>Overview</h2>
-<p>Euthyroid Sick Syndrome (ESS), also known as <strong>Non-thyroidal Illness Syndrome (NTIS)</strong>, involves changes in thyroid hormone metabolism during acute or chronic illness. It is considered a protective adaptation to conserve energy. The most common pattern is a low <strong>Free T3</strong> with a high <strong>Reverse T3</strong>, while TSH remains normal or slightly low.</p>
-<h2>Pathophysiology</h2>
-<p>Cytokines and inflammatory mediators inhibit the 5'-deiodinase enzyme, which normally converts T4 to T3. This results in decreased active T3 and increased accumulation of the inactive reverse T3.</p>
+<p>A state of adaptation or dysregulation of the thyroid axis during severe non-thyroidal illness, characterized by abnormal thyroid tests in the absence of primary thyroid disease.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Fliers, E., et al. (2015). White Paper: Thyroid Function in Critically Ill Patients.</li>
-<li>Mayo Clinic. Euthyroid sick syndrome.</li>
-<li>Medscape. Euthyroid Sick Syndrome.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free T3</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free T4</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 
 {% endraw %}

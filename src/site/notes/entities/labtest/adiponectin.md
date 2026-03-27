@@ -1,26 +1,25 @@
 ---
-created: '2026-03-12T06:00:32.929608Z'
+created: '2026-03-27T09:46:13.711101Z'
 description: Adiponectin test measures this anti-inflammatory adipokine hormone produced
   by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular
   risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/adiponectin/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/adiponectin/
 slug: adiponectin
 tags:
 - labtest
 templateEngineOverride: njk
 title: adiponectin
 type: labtest
-updated: '2026-03-12T06:00:32.929608Z'
+updated: '2026-03-27T09:46:13.711101Z'
 ---
 
 {% raw %}
 <h1>Adiponectin</h1>
 <h2>Overview</h2>
-<p>Adiponectin is an adipokine (fat tissue-derived hormone) that plays a key role in insulin sensitization, anti-inflammatory signaling, and fatty acid oxidation. Unlike most adipokines which increase with obesity, adiponectin levels are paradoxically lower in obese individuals and higher in lean individuals, making it an inverse marker of metabolic health.</p>
-<p>Adiponectin exerts its effects by binding to AdipoR1 and AdipoR2 receptors in muscle, liver, and other tissues, activating AMPK (the cell's energy sensor) and PPARα pathways. This results in enhanced glucose uptake, increased fatty acid oxidation, reduced hepatic glucose output, and anti-inflammatory effects on vascular endothelium.</p>
+<p>Adiponectin test measures this anti-inflammatory adipokine hormone produced by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.</p>
 <p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 <h2>Test Information</h2>
 <table>
@@ -36,82 +35,58 @@ updated: '2026-03-12T06:00:32.929608Z'
 <td>Metabolic</td>
 </tr>
 <tr>
-<td><strong>Test Type</strong></td>
-<td>Specialized</td>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Blood (serum)</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
 <td>Venipuncture</td>
 </tr>
 <tr>
-<td><strong>Fasting Required</strong></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td><strong>HSA Eligible</strong></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td><strong>FSA Eligible</strong></td>
-<td>No</td>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
-<h2>Reference Ranges</h2>
-<table>
-<thead>
-<tr>
-<th>Range</th>
-<th>Value</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Low</strong></td>
-<td>&lt;4 mcg/mL (M), &lt;7 mcg/mL (F)</td>
-<td>Metabolic syndrome risk</td>
-</tr>
-<tr>
-<td><strong>Normal</strong></td>
-<td>4-30 mcg/mL (M), 7-30 mcg/mL (F)</td>
-<td>Adequate metabolic health</td>
-</tr>
-<tr>
-<td><strong>Optimal</strong></td>
-<td>&gt;10 mcg/mL (M), &gt;12 mcg/mL (F)</td>
-<td>Good insulin sensitivity</td>
-</tr>
-</tbody>
-</table>
-<h2>Recommended For</h2>
-<h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
+<h2>Fasting Requirements</h2>
+<p>⚠️ <strong>Fasting Required</strong></p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Obesity</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-Alcoholic Fatty Liver Disease</a></li>
+<li>Fast for <strong>null hours</strong> before the test</li>
+<li>Water is generally permitted during fasting</li>
+<li>Take medications as usual unless advised otherwise by your provider</li>
 </ul>
+<h2>Preparation Instructions</h2>
+<ol>
+<li>Fasting recommended</li>
+</ol>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li><a href="/garden/dev_admin/labtest/adiponectin/" class="internal-link">adiponectin</a></li>
+</ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa_ir</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a></p>
-<h3>Measures</h3>
+<p>RELATED_TESTS::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED_TESTS::<a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a><br />
+RELATED_TESTS::<a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a></p>
 <h2>Notes</h2>
 <ul>
-<li>Results inversely correlated with visceral adiposity</li>
-<li>Women typically have higher levels than men</li>
-<li>Exercise and weight loss increase adiponectin levels</li>
-<li>High-molecular-weight (HMW) adiponectin is the most metabolically active form</li>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-02-07</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:03.352763+00:00</em></p>
 
 {% endraw %}

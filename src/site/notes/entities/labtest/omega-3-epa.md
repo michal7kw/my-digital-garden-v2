@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.336894Z'
+created: '2026-03-27T09:46:13.928599Z'
 description: 'oh-MAY-guh three: E-P-A Eicosapentaenoic acid (EPA) is an omega-3 fatty
   acid that helps regulate inflammation and supports cardiovascular, brain, and joint
   health. It also plays a role in maintaining healthy blood vessel function and overall
@@ -7,15 +7,15 @@ description: 'oh-MAY-guh three: E-P-A Eicosapentaenoic acid (EPA) is an omega-3 
   balance.'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/omega-3-epa/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/omega-3-epa/
 slug: omega-3-epa
 tags:
 - labtest
 templateEngineOverride: njk
 title: omega_3_epa
 type: labtest
-updated: '2026-03-12T06:00:33.336894Z'
+updated: '2026-03-27T09:46:13.928599Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-03-12T06:00:33.336894Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Nutrient Panel</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -50,7 +50,7 @@ updated: '2026-03-12T06:00:33.336894Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -62,12 +62,12 @@ updated: '2026-03-12T06:00:33.336894Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a></p>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -75,6 +75,6 @@ INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamin
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:37.180195</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:02.765195+00:00</em></p>
 
 {% endraw %}

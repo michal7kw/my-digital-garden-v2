@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.303906Z'
+created: '2026-03-27T09:46:13.914621Z'
 description: Tested twice a year Neutrophils are the most abundant type of white blood
   cell (WBC) and act as frontline defenders against infection by engulfing and digesting
   pathogens. They are produced in the bone marrow and rapidly mobilize to sites of
@@ -9,8 +9,8 @@ description: Tested twice a year Neutrophils are the most abundant type of white
   levels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/neutrophils/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/neutrophils/
 slug: neutrophils
 tags:
 - labtest
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: neutrophils
 type: labtest
-updated: '2026-03-12T06:00:33.303906Z'
+updated: '2026-03-27T09:46:13.914621Z'
 ---
 
 {% raw %}
@@ -62,28 +62,23 @@ updated: '2026-03-12T06:00:33.303906Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Bacterial Infection</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Immune Deficiency</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">chronic_inflammatory_response_mold_response</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_immune_regulation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bacterial_Infection</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
+RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bacterial_Infection</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_immune_regulation</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">chronic_inflammatory_response_mold_response</a></p>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -91,6 +86,6 @@ INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">chronic_inflamma
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:35.191599</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:11.487446+00:00</em></p>
 
 {% endraw %}

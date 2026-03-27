@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.286560Z'
+created: '2026-03-27T09:46:13.318744Z'
 description: A complete or partial break in the continuity of bone tissue, usually
   caused by trauma or underlying disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/bone-fractures/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/bone-fractures/
 slug: bone-fractures
 tags:
 - condition
@@ -15,29 +15,28 @@ tags:
 templateEngineOverride: njk
 title: Bone Fractures
 type: condition
-updated: '2026-03-12T06:00:32.286560Z'
+updated: '2026-03-27T09:46:13.318744Z'
 ---
 
 {% raw %}
 <h1>Bone Fractures</h1>
 <h2>Overview</h2>
-<p>A bone fracture is a medical condition where the continuity of the bone is broken. Fractures fall into two main categories: <strong>Traumatic fractures</strong> caused by direct force (falls, car accidents) and <strong>Pathologic fractures</strong> caused by disease weakening the bone (osteoporosis, cancer).</p>
-<h2>Classification</h2>
-<ul>
-<li><strong>Closed (Simple):</strong> Skin is intact.</li>
-<li><strong>Open (Compound):</strong> Bone breaks through the skin (high infection risk).</li>
-<li><strong>Comminuted:</strong> Bone shatters into 3+ pieces.</li>
-<li><strong>Greenstick:</strong> Incomplete break (common in children).</li>
-<li><strong>Stress:</strong> Hairline crack from overuse.</li>
-</ul>
+<p>A complete or partial break in the continuity of bone tissue, usually caused by trauma or underlying disease.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bone-fractures/" class="internal-link">Bone_Fractures</a></p>
-<h2>References</h2>
-<ul>
-<li>American Academy of Orthopaedic Surgeons (AAOS). Fractures (Broken Bones).</li>
-<li>Marsh, J. L., et al. (2007). Fracture and dislocation classification compendium - 2007. Journal of Orthopaedic Trauma.</li>
-<li>Court-Brown, C. M., &amp; Caesar, B. (2006). Epidemiology of adult fractures: A review. Injury.</li>
-</ul>
+<p>RELATED::<a href="/garden/dev_admin/condition/bone-fractures/" class="internal-link">Bone_Fractures</a></p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/ctx/" class="internal-link">CTX</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/p1np/" class="internal-link">P1NP</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/boron/" class="internal-link">Boron</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 
 {% endraw %}

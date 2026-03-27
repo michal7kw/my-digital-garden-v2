@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.247382Z'
+created: '2026-03-27T09:46:13.882943Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -7,8 +7,8 @@ description: Lipase is a digestive enzyme made by the pancreas that helps break 
   picture of pancreatic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/lipase/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/lipase/
 slug: lipase
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: lipase
 type: labtest
-updated: '2026-03-12T06:00:33.247382Z'
+updated: '2026-03-27T09:46:13.882943Z'
 ---
 
 {% raw %}
@@ -60,27 +60,20 @@ updated: '2026-03-12T06:00:33.247382Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Pancreatitis (Acute Or Chronic)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Stomach Flu (Gastroenteritis)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a><br />
+RELATED::<a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +81,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroen
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:30.953391</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:06.069978+00:00</em></p>
 
 {% endraw %}

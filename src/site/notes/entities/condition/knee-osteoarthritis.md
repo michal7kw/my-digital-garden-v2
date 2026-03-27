@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.438953Z'
+created: '2026-03-27T09:46:13.450582Z'
 description: A degenerative joint disease affecting the knee, characterized by the
   breakdown of cartilage and underlying bone, leading to pain and stiffness.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/knee-osteoarthritis/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/knee-osteoarthritis/
 slug: knee-osteoarthritis
 tags:
 - condition
@@ -16,22 +16,24 @@ tags:
 templateEngineOverride: njk
 title: Knee Osteoarthritis
 type: condition
-updated: '2026-03-12T06:00:32.438953Z'
+updated: '2026-03-27T09:46:13.450582Z'
 ---
 
 {% raw %}
 <h1>Knee Osteoarthritis</h1>
 <h2>Overview</h2>
-<p>Knee Osteoarthritis (OA) is the most common form of arthritis in the knee. It is a &quot;wear and tear&quot; condition where the protective cartilage cushions between the bones (femur, tibia, and patella) wear away. As the disease progresses, bone rubs on bone, producing painful bone spurs.</p>
-<h2>Pathophysiology</h2>
-<p>It involves the degradation of articular cartilage, subchondral bone remodeling, osteophyte formation, and inflammation of the synovium.</p>
+<p>A degenerative joint disease affecting the knee, characterized by the breakdown of cartilage and underlying bone, leading to pain and stiffness.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>American Academy of Orthopaedic Surgeons (AAOS). Osteoarthritis of the Knee.</li>
-<li>Zhang, W., et al. (2010). OARSI recommendations for the management of hip and knee osteoarthritis. Osteoarthritis and Cartilage.</li>
-<li>Arthritis Foundation. Osteoarthritis of the Knee.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/esr/" class="internal-link">Esr</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a></p>
 
 {% endraw %}

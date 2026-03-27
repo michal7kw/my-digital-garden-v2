@@ -1,19 +1,19 @@
 ---
-created: '2026-03-12T06:00:33.051894Z'
+created: '2026-03-27T09:46:13.778192Z'
 description: Tested twice a year Evaluates the pigmentation of urine, which can range
   from pale yellow to dark amber. Variations in color may be influenced by hydration
   status, dietary intake, medication use, or various underlying medical conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/color-urine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/color-urine/
 slug: color-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: color_urine
 type: labtest
-updated: '2026-03-12T06:00:33.051894Z'
+updated: '2026-03-27T09:46:13.778192Z'
 ---
 
 {% raw %}
@@ -36,19 +36,19 @@ updated: '2026-03-12T06:00:33.051894Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Kidney Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
-<td>Urine</td>
+<td>Blood</td>
 </tr>
 <tr>
 <td><strong>Collection Method</strong></td>
-<td>Spot Urine</td>
+<td>Venipuncture</td>
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -56,23 +56,16 @@ updated: '2026-03-12T06:00:33.051894Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Hematuria (Blood In Urine)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hematuria_Blood_In_Urine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hematuria_Blood_In_Urine</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -80,6 +73,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Hematuria_Blood_In_U
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:18.375919</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:51.411616+00:00</em></p>
 
 {% endraw %}

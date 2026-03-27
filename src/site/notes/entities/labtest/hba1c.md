@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.136385Z'
+created: '2026-03-27T09:46:13.832174Z'
 description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
   monitoring.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hba1c/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/hba1c/
 slug: hba1c
 tags:
 - labtest
 templateEngineOverride: njk
 title: hba1c
 type: labtest
-updated: '2026-03-12T06:00:33.136385Z'
+updated: '2026-03-27T09:46:13.832174Z'
 ---
 
 {% raw %}
@@ -50,6 +50,11 @@ updated: '2026-03-12T06:00:33.136385Z'
 </tr>
 </tbody>
 </table>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li><a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">hba1c</a></li>
+</ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
@@ -58,7 +63,7 @@ updated: '2026-03-12T06:00:33.136385Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Related</h3>
+<p>No relationships found.</p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -66,6 +71,6 @@ updated: '2026-03-12T06:00:33.136385Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:22.972414</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:14.705591+00:00</em></p>
 
 {% endraw %}

@@ -1,44 +1,31 @@
 ---
-created: '2026-03-12T06:00:32.149475Z'
+created: '2026-03-27T09:46:13.235027Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/tg-antibodies/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/biomarker/tg-antibodies/
 slug: tg-antibodies
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tg Antibodies
 type: biomarker
-updated: '2026-03-12T06:00:32.149475Z'
+updated: '2026-03-27T09:46:13.235027Z'
 ---
 
 {% raw %}
 <h1>Tg Antibodies</h1>
 <h2>Overview</h2>
-<p>No description available.</p>
-<h2>Reference Ranges</h2>
-<p>Reference ranges not available.</p>
-<h2>Testing Information</h2>
-<ul>
-<li><strong>Measurement Unit</strong>: Not specified</li>
-<li><strong>Sample Type</strong>: Not specified</li>
-<li><strong>Fasting Required</strong>: False</li>
-<li><strong>Recommended Test Frequency</strong>: Not specified</li>
-</ul>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>💊 Supplements That Affect This Biomarker</h2>
-<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
-<h2>🧪 Lab Tests That Measure This Biomarker</h2>
-<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
-<h2>References</h2>
-<p>No references available.</p>
-<h2>Dataview Queries</h2>
-<pre><code class="language-dataview">LIST
-FROM [[Tg Antibodies]]
-WHERE contains(type, &quot;Intervention&quot;)
-SORT confidence_score DESC
-</code></pre>
+<h3>Affected By Supplement</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+</ul>
+<h3>Measured By Test</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
+</ul>
 
 {% endraw %}

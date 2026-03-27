@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:31.964019Z'
+created: '2026-03-27T09:46:13.184495Z'
 description: An oral glucose tolerance test with serial insulin measurements (GTIR),
   used to detect early-stage insulin resistance and occult diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/kraft-test/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/biomarker/kraft-test/
 slug: kraft-test
 tags:
 - biomarker
@@ -15,43 +15,25 @@ tags:
 templateEngineOverride: njk
 title: Kraft Test
 type: biomarker
-updated: '2026-03-12T06:00:31.964019Z'
+updated: '2026-03-27T09:46:13.184495Z'
 ---
 
 {% raw %}
 <h1>Kraft Test</h1>
 <h2>Overview</h2>
 <p>An oral glucose tolerance test with serial insulin measurements (GTIR), used to detect early-stage insulin resistance and occult diabetes.</p>
-<h2>Reference Ranges</h2>
-<p>Reference ranges not available.</p>
-<h2>Testing Information</h2>
-<ul>
-<li><strong>Measurement Unit</strong>: Not specified</li>
-<li><strong>Sample Type</strong>: Blood</li>
-<li><strong>Fasting Required</strong>: True</li>
-<li><strong>Recommended Test Frequency</strong>: Once to establish baseline or monitor IR reversal</li>
-</ul>
-<h2>Interpretation Guidelines</h2>
-<ul>
-<li>Pattern I: Normal (Low fasting, peak at 30-60 min, return to baseline by 3h).</li>
-<li>Pattern II: IGT (Delayed or elevated peak, slow return).</li>
-<li>Pattern III: Occult Diabetes (High insulin peak extending to 2-3h).</li>
-<li>Pattern IV: Hyperinsulinemic Fasting (Elevated fasting insulin).</li>
-<li>Pattern V: Insulinopenia (Low insulin production).</li>
-</ul>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>💊 Supplements That Affect This Biomarker</h2>
-<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
-<h2>🧪 Lab Tests That Measure This Biomarker</h2>
-<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
-<h2>References</h2>
-<p>No references available.</p>
-<h2>Dataview Queries</h2>
-<pre><code class="language-dataview">LIST
-FROM [[Kraft Test]]
-WHERE contains(type, &quot;Intervention&quot;)
-SORT confidence_score DESC
-</code></pre>
+<h3>Affected By Supplement</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
+</ul>
+<h3>Measured By Test</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">fasting_glucose</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a> (labtest)</li>
+</ul>
 
 {% endraw %}

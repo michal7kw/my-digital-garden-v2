@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:32.989998Z'
+created: '2026-03-27T09:46:13.743723Z'
 description: Tested twice a year Aspartate aminotransferase (AST) is an enzyme found
   throughout the body, especially in the liver, heart, and muscles. When these tissues
   are stressed or damaged, AST can be released into the bloodstream, so higher levels
@@ -8,15 +8,15 @@ description: Tested twice a year Aspartate aminotransferase (AST) is an enzyme f
   a clearer picture of liver health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/aspartate-aminotransferase-ast/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/aspartate-aminotransferase-ast/
 slug: aspartate-aminotransferase-ast
 tags:
 - labtest
 templateEngineOverride: njk
 title: aspartate_aminotransferase_ast
 type: labtest
-updated: '2026-03-12T06:00:32.989998Z'
+updated: '2026-03-27T09:46:13.743723Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ updated: '2026-03-12T06:00:32.989998Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Liver Function</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -51,7 +51,7 @@ updated: '2026-03-12T06:00:32.989998Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -59,27 +59,20 @@ updated: '2026-03-12T06:00:32.989998Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Liver Inflammation (Hepatitis, Cirrhosis)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Muscle Injury (Rhabdomyolysis, Strenuous Exercise, Trauma)</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Heart Attack</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Heart_Attack</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscle_Injury_Rhabdomyolysis_Strenuous_Exercise_Trauma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a></p>
-<h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Heart_Attack</a><br />
+RELATED::<a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -87,6 +80,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_H
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:16.527266</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:01.061781+00:00</em></p>
 
 {% endraw %}

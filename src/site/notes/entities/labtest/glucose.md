@@ -1,5 +1,5 @@
 ---
-created: '2026-03-12T06:00:33.130666Z'
+created: '2026-03-27T09:46:13.826331Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -8,8 +8,8 @@ description: Tested twice a year Glucose is the body’s main source of energy, 
   an important marker for overall metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/glucose/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/glucose/
 slug: glucose
 tags:
 - labtest
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: glucose
 type: labtest
-updated: '2026-03-12T06:00:33.130666Z'
+updated: '2026-03-27T09:46:13.826331Z'
 ---
 
 {% raw %}
@@ -61,26 +61,19 @@ updated: '2026-03-12T06:00:33.130666Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a class="internal-link is-unresolved" href="/404">Type 1 / Type 2 Diabetes</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Prediabetes</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Hyperglycemia / Hypoglycemia</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Pancreatic Dysfunction</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia__Hypoglycemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatic_Dysfunction</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
+RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia__Hypoglycemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatic_Dysfunction</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +81,6 @@ RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-p
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:22.709225</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:50.922250+00:00</em></p>
 
 {% endraw %}

@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.451625Z'
+created: '2026-03-27T09:46:13.460587Z'
 description: A condition where a woman has a lower number of eggs remaining in her
   ovaries than expected for her age, which can impact fertility.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/low-ovarian-reserve/
 slug: low-ovarian-reserve
 tags:
 - condition
@@ -15,46 +15,24 @@ tags:
 templateEngineOverride: njk
 title: Low Ovarian Reserve
 type: condition
-updated: '2026-03-12T06:00:32.451625Z'
+updated: '2026-03-27T09:46:13.460587Z'
 ---
 
 {% raw %}
 <h1>Low Ovarian Reserve</h1>
 <h2>Overview</h2>
 <p>A condition where a woman has a lower number of eggs remaining in her ovaries than expected for her age, which can impact fertility.</p>
-<h2>Clinical Presentation</h2>
-<h3>Symptoms</h3>
-<p>Not specified.</p>
-<h2>Diagnostic Information</h2>
-<h2>Risk Factors</h2>
-<h2>Management</h2>
-<h3>Interventions</h3>
-<pre><code class="language-dataview">TABLE 
-    effectiveness AS &quot;Effectiveness&quot;,
-    confidence_score AS &quot;Confidence&quot;
-FROM [[Low Ovarian Reserve]] AND #intervention
-SORT confidence_score DESC
-</code></pre>
-<h2>Other Relationships</h2>
-<h3>May Detect</h3>
-<h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a></p>
-<h2>Research</h2>
-<h3>Recent Studies</h3>
-<pre><code class="language-dataview">LIST
-FROM [[Low Ovarian Reserve]] AND #research
-WHERE date &gt;= date(today) - dur(1 year)
-SORT date DESC
-</code></pre>
-<h3>Clinical Trials</h3>
-<pre><code class="language-dataview">LIST status
-FROM [[Low Ovarian Reserve]] AND #clinical-trial
-SORT date DESC
-</code></pre>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<h2>References</h2>
-<p>No references available.</p>
+<p>RELATED::<a href="/garden/dev_admin/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a></p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/estradiol/" class="internal-link">Estradiol</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a></p>
 
 {% endraw %}

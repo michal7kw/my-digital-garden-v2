@@ -1,27 +1,25 @@
 ---
-created: '2026-03-12T06:00:33.606756Z'
+created: '2026-03-27T09:46:14.004216Z'
 description: High-sensitivity cardiac troponin I (hs-cTnI) test. Detects myocardial
   injury by measuring cardiac-specific troponin I protein released from damaged cardiomyocytes.
   Essential for acute coronary syndrome diagnosis and risk stratification.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/troponin-i/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/troponin-i/
 slug: troponin-i
 tags:
 - labtest
 templateEngineOverride: njk
 title: troponin_i
 type: labtest
-updated: '2026-03-12T06:00:33.606756Z'
+updated: '2026-03-27T09:46:14.004216Z'
 ---
 
 {% raw %}
 <h1>Troponin I</h1>
 <h2>Overview</h2>
-<p>High-sensitivity cardiac troponin I (hs-cTnI) is a cardiac-specific biomarker released into the bloodstream when cardiomyocytes are damaged. It is one of the primary tools used in emergency departments worldwide for the diagnosis or exclusion of acute myocardial infarction (AMI). The high-sensitivity assay can detect very low concentrations of troponin I, enabling earlier diagnosis of cardiac injury compared to conventional assays.</p>
-<p>Troponin I is part of the troponin complex that regulates calcium-mediated contraction of cardiac muscle. Unlike troponin T, troponin I is exclusively expressed in cardiac tissue, making it highly specific for myocardial injury. Serial measurements taken at presentation and 3-6 hours later are used to detect rising or falling patterns that help differentiate acute MI from chronic elevations seen in conditions such as heart failure or chronic kidney disease.</p>
-<p>Clinical guidelines from the American College of Cardiology and European Society of Cardiology recommend high-sensitivity troponin assays as the preferred biomarker for evaluating patients with suspected acute coronary syndrome. The test has transformed chest pain evaluation by enabling rapid rule-out protocols (0/1-hour or 0/3-hour algorithms).</p>
+<p>High-sensitivity cardiac troponin I (hs-cTnI) test. Detects myocardial injury by measuring cardiac-specific troponin I protein released from damaged cardiomyocytes. Essential for acute coronary syndrome diagnosis and risk stratification.</p>
 <p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 <h2>Test Information</h2>
 <table>
@@ -37,8 +35,8 @@ updated: '2026-03-12T06:00:33.606756Z'
 <td>Cardiac Panel</td>
 </tr>
 <tr>
-<td><strong>Test Type</strong></td>
-<td>Specialized</td>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -49,78 +47,38 @@ updated: '2026-03-12T06:00:33.606756Z'
 <td>Venipuncture</td>
 </tr>
 <tr>
-<td><strong>Fasting Required</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>HSA Eligible</strong></td>
-<td>Yes</td>
-</tr>
-<tr>
-<td><strong>FSA Eligible</strong></td>
-<td>Yes</td>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
-<h2>Reference Ranges</h2>
-<table>
-<thead>
-<tr>
-<th>Range</th>
-<th>Value</th>
-<th>Interpretation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Normal</strong></td>
-<td>&lt;14-26 ng/L (assay-dependent)</td>
-<td>No significant myocardial injury detected</td>
-</tr>
-<tr>
-<td><strong>Borderline</strong></td>
-<td>14-52 ng/L</td>
-<td>Possible myocardial injury; serial testing recommended</td>
-</tr>
-<tr>
-<td><strong>Elevated</strong></td>
-<td>&gt;52 ng/L</td>
-<td>Significant myocardial injury; evaluate for MI</td>
-</tr>
-<tr>
-<td><strong>Critical</strong></td>
-<td>&gt;10x URL</td>
-<td>High probability of acute MI or major cardiac event</td>
-</tr>
-</tbody>
-</table>
-<h2>Recommended For</h2>
-<h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Myocarditis</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Pulmonary Embolism</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Cardiac Contusion</a></li>
+<li><a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">troponin</a></li>
 </ul>
-<h2>Relationships</h2>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a></p>
-<h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">Troponin</a></p>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
+<h2>Relationships</h2>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">cardiac_biomarker_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac_biomarker_panel</a></p>
+<h3>Measures</h3>
+<p>MEASURES::<a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
-<li>Reference ranges may vary by laboratory and assay manufacturer</li>
-<li>Serial measurements (0h, 3h, 6h) are essential for ruling in or out acute MI</li>
-<li>Chronic elevations may be seen in renal failure, heart failure, and other conditions</li>
-<li>Sex-specific cutoffs are recommended (females generally have lower 99th percentile values)</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-02-07</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:06.545657+00:00</em></p>
 
 {% endraw %}

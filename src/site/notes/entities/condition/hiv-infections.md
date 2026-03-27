@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.397324Z'
+created: '2026-03-27T09:46:13.436226Z'
 description: A chronic viral infection that attacks the body's immune system, specifically
   CD4 T cells, potentially leading to AIDS if untreated.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/hiv-infections/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/hiv-infections/
 slug: hiv-infections
 tags:
 - condition
@@ -15,22 +15,25 @@ tags:
 templateEngineOverride: njk
 title: HIV Infections
 type: condition
-updated: '2026-03-12T06:00:32.397324Z'
+updated: '2026-03-27T09:46:13.436226Z'
 ---
 
 {% raw %}
 <h1>HIV Infections</h1>
 <h2>Overview</h2>
-<p>Human Immunodeficiency Virus (HIV) targets the immune system by destroying CD4 T cells (helper T cells), which help the body fight infection. Without treatment (Antiretroviral Therapy or ART), HIV can gradually destroy the immune system and advance to <strong>Acquired Immunodeficiency Syndrome (AIDS)</strong>.</p>
-<h2>Pathogenesis</h2>
-<p>HIV is a retrovirus that integrates its genetic material into the DNA of the host cell. It replicates primarily in CD4+ T cells, leading to their depletion and severe immunodeficiency.</p>
+<p>A chronic viral infection that attacks the body's immune system, specifically CD4 T cells, potentially leading to AIDS if untreated.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>CDC. HIV Basics.</li>
-<li>World Health Organization. HIV/AIDS.</li>
-<li>EACS. Guidelines.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a></p>
 
 {% endraw %}

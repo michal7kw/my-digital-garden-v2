@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.587624Z'
+created: '2026-03-27T09:46:13.556702Z'
 description: A viral respiratory illness caused by a coronavirus (SARS-CoV), first
   identified in 2003.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/severe-acute-respiratory-syndrome/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/severe-acute-respiratory-syndrome/
 slug: severe-acute-respiratory-syndrome
 tags:
 - condition
@@ -16,44 +16,25 @@ tags:
 templateEngineOverride: njk
 title: Severe Acute Respiratory Syndrome
 type: condition
-updated: '2026-03-12T06:00:32.587624Z'
+updated: '2026-03-27T09:46:13.556702Z'
 ---
 
 {% raw %}
 <h1>Severe Acute Respiratory Syndrome</h1>
 <h2>Overview</h2>
 <p>A viral respiratory illness caused by a coronavirus (SARS-CoV), first identified in 2003.</p>
-<h2>Clinical Presentation</h2>
-<h3>Symptoms</h3>
-<p>Not specified.</p>
-<h2>Diagnostic Information</h2>
-<h2>Risk Factors</h2>
-<h2>Management</h2>
-<h3>Interventions</h3>
-<pre><code class="language-dataview">TABLE 
-    effectiveness AS &quot;Effectiveness&quot;,
-    confidence_score AS &quot;Confidence&quot;
-FROM [[Severe Acute Respiratory Syndrome]] AND #intervention
-SORT confidence_score DESC
-</code></pre>
-<h2>Other Relationships</h2>
-<h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/severe-acute-respiratory-syndrome/" class="internal-link">Severe_Acute_Respiratory_Syndrome</a></p>
-<h2>Research</h2>
-<h3>Recent Studies</h3>
-<pre><code class="language-dataview">LIST
-FROM [[Severe Acute Respiratory Syndrome]] AND #research
-WHERE date &gt;= date(today) - dur(1 year)
-SORT date DESC
-</code></pre>
-<h3>Clinical Trials</h3>
-<pre><code class="language-dataview">LIST status
-FROM [[Severe Acute Respiratory Syndrome]] AND #clinical-trial
-SORT date DESC
-</code></pre>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<p>No references available.</p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">D-Dimer</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/quercetin/" class="internal-link">Quercetin</a></p>
 
 {% endraw %}

@@ -1,19 +1,19 @@
 ---
-created: '2026-03-12T06:00:32.979171Z'
+created: '2026-03-27T09:46:13.739137Z'
 description: Measuring ApoB levels is important because it provides a direct count
   of plaque-forming cholesterol particles in the blood. It is powerful indicator of
   harmful particles that drive cardiovascular risk and contribute to metabolic dysfunction.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/apolipoprotein-b-apob/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/apolipoprotein-b-apob/
 slug: apolipoprotein-b-apob
 tags:
 - labtest
 templateEngineOverride: njk
 title: apolipoprotein_b_apob
 type: labtest
-updated: '2026-03-12T06:00:32.979171Z'
+updated: '2026-03-27T09:46:13.739137Z'
 ---
 
 {% raw %}
@@ -36,7 +36,7 @@ updated: '2026-03-12T06:00:32.979171Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Lipid Panel</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -48,7 +48,7 @@ updated: '2026-03-12T06:00:32.979171Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -56,31 +56,24 @@ updated: '2026-03-12T06:00:32.979171Z'
 <h3>Supplement Monitoring</h3>
 <p>No specific supplement monitoring recommendations.</p>
 <h3>Conditions</h3>
-<p>Useful for monitoring or diagnosing:</p>
-<ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Dyslipidemia</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
-<li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes Or Insulin Resistance</a></li>
-</ul>
+<p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">extended_heart_metabolic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes_Or_Insulin_Resistance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">genetic_heart_risks</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+<p>RELATED::<a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+RELATED::<a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes_Or_Insulin_Resistance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia</a><br />
+RELATED::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+MAY_DETECT::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">genetic_heart_risks</a><br />
-INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_heart_metabolic</a></p>
+<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +81,6 @@ INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_heart_m
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:15.764128</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:48.873542+00:00</em></p>
 
 {% endraw %}

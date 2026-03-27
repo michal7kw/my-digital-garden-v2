@@ -1,45 +1,37 @@
 ---
-created: '2026-03-12T06:00:32.106930Z'
+created: '2026-03-27T09:46:13.218063Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/platelets/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/biomarker/platelets/
 slug: platelets
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Platelets
 type: biomarker
-updated: '2026-03-12T06:00:32.106930Z'
+updated: '2026-03-27T09:46:13.218063Z'
 ---
 
 {% raw %}
 <h1>Platelets</h1>
 <h2>Overview</h2>
-<p>No description available.</p>
-<h2>Reference Ranges</h2>
-<p>Reference ranges not available.</p>
-<h2>Testing Information</h2>
-<ul>
-<li><strong>Measurement Unit</strong>: Not specified</li>
-<li><strong>Sample Type</strong>: Not specified</li>
-<li><strong>Fasting Required</strong>: False</li>
-<li><strong>Recommended Test Frequency</strong>: Not specified</li>
-</ul>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Bones</a></p>
-<h2>💊 Supplements That Affect This Biomarker</h2>
-<p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
-<h2>🧪 Lab Tests That Measure This Biomarker</h2>
-<p>No lab tests linked yet. Add biomarker measurements in the respective lab test notes.</p>
-<h2>References</h2>
-<p>No references available.</p>
-<h2>Dataview Queries</h2>
-<pre><code class="language-dataview">LIST
-FROM [[Platelets]]
-WHERE contains(type, &quot;Intervention&quot;)
-SORT confidence_score DESC
-</code></pre>
+<p>INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a></p>
+<h3>Affected By Supplement</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
+<li>-&gt; <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
+</ul>
+<h3>Measured By Test</h3>
+<ul>
+<li>-&gt; <a href="/garden/dev_admin/labtest/platelet-count/" class="internal-link">platelet_count</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/cbc-with-differential/" class="internal-link">cbc_with_differential</a> (labtest)</li>
+<li>-&gt; <a href="/garden/dev_admin/labtest/mean-platelet-volume-mpv/" class="internal-link">mean_platelet_volume_mpv</a> (labtest)</li>
+</ul>
 
 {% endraw %}

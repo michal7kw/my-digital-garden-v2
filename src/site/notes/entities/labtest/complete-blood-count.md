@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.054204Z'
+created: '2026-03-27T09:46:13.778192Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/complete-blood-count/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/complete-blood-count/
 slug: complete-blood-count
 tags:
 - labtest
 templateEngineOverride: njk
 title: complete_blood_count
 type: labtest
-updated: '2026-03-12T06:00:33.054204Z'
+updated: '2026-03-27T09:46:13.778192Z'
 ---
 
 {% raw %}
@@ -54,14 +54,14 @@ updated: '2026-03-12T06:00:33.054204Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">wbc</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/rbc/" class="internal-link">rbc</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/hematocrit/" class="internal-link">hematocrit</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">platelets</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mcv/" class="internal-link">mcv</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mch/" class="internal-link">mch</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mchc/" class="internal-link">mchc</a></li>
+<li><a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">wbc</a></li>
+<li><a href="/garden/dev_admin/biomarker/rbc/" class="internal-link">rbc</a></li>
+<li><a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
+<li><a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a></li>
+<li><a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">platelets</a></li>
+<li><a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">mcv</a></li>
+<li><a href="/garden/dev_admin/biomarker/mch/" class="internal-link">mch</a></li>
+<li><a href="/garden/dev_admin/biomarker/mchc/" class="internal-link">mchc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,15 +72,15 @@ updated: '2026-03-12T06:00:33.054204Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mcv/" class="internal-link">mcv</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/rbc/" class="internal-link">rbc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">wbc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">platelets</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mchc/" class="internal-link">mchc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mch/" class="internal-link">mch</a></p>
+<p>RELATED::<a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">platelets</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/mch/" class="internal-link">mch</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/mchc/" class="internal-link">mchc</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/rbc/" class="internal-link">rbc</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">wbc</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">mcv</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
@@ -88,6 +88,6 @@ RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mch/" class="internal-l
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T14:28:49.707977+00:00</em></p>
 
 {% endraw %}

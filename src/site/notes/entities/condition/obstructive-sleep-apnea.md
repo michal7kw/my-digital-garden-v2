@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.504128Z'
+created: '2026-03-27T09:46:13.491850Z'
 description: A sleep disorder where throat muscles intermittently relax and block
   the airway during sleep, causing breathing to stop and start.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/obstructive-sleep-apnea/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/obstructive-sleep-apnea/
 slug: obstructive-sleep-apnea
 tags:
 - condition
@@ -15,26 +15,24 @@ tags:
 templateEngineOverride: njk
 title: Obstructive Sleep Apnea
 type: condition
-updated: '2026-03-12T06:00:32.504128Z'
+updated: '2026-03-27T09:46:13.491850Z'
 ---
 
 {% raw %}
 <h1>Obstructive Sleep Apnea</h1>
 <h2>Overview</h2>
-<p>Obstructive Sleep Apnea (OSA) is the most common sleep-related breathing disorder. It causes oxygen levels in the blood to drop, triggering the brain to wake you up briefly to reopen the airway. This cycle prevents deep, restorative sleep.</p>
-<h2>Complications</h2>
-<ul>
-<li><strong>Cardiovascular:</strong> Hypertension, Heart Attack, Stroke, Arrhythmias (Atrial Fibrillation).</li>
-<li><strong>Metabolic:</strong> Type 2 Diabetes, Metabolic Syndrome.</li>
-<li><strong>Daytime Fatigue:</strong> Increased risk of accidents.</li>
-</ul>
+<p>A sleep disorder where throat muscles intermittently relax and block the airway during sleep, causing breathing to stop and start.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>American Academy of Sleep Medicine. Obstructive Sleep Apnea.</li>
-<li>Peppard, P. E., et al. (2013). Increased prevalence of sleep-disordered breathing in adults. American Journal of Epidemiology.</li>
-<li>Mayo Clinic. Obstructive sleep apnea.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

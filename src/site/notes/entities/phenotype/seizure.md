@@ -1,10 +1,10 @@
 ---
-created: '2026-03-12T06:00:34.037416Z'
+created: '2026-03-27T09:46:14.255247Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/seizure/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/phenotype/seizure/
 slug: seizure
 tags:
 - phenotype
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Seizure
 type: phenotype
-updated: '2026-03-12T06:00:34.037416Z'
+updated: '2026-03-27T09:46:14.255247Z'
 ---
 
 {% raw %}
@@ -22,34 +22,34 @@ updated: '2026-03-12T06:00:34.037416Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Neonatal_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Non-motor_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Status_epilepticus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Generalized-onset_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Infection-related_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Maternal_seizure</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Generalized-onset_seizure</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Reflex_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dialeptic_seizure</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bilateral_tonic-clonic_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Nocturnal_seizures</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Symptomatic_seizures</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Focal-onset_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Motor_seizure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal_nervous_system_physiology</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Status_epilepticus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Symptomatic_seizures</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Nocturnal_seizures</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dialeptic_seizure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Maternal_seizure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal_nervous_system_physiology</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Neonatal_seizure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Non-motor_seizure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Infection-related_seizure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Motor_seizure</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Reflex_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Status_epilepticus</a><br />
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Nocturnal_seizures</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Non-motor_seizure</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Infection-related_seizure</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Generalized-onset_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Non-motor_seizure</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Bilateral_tonic-clonic_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Symptomatic_seizures</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Focal-onset_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal_nervous_system_physiology</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Motor_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Dialeptic_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Maternal_seizure</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neonatal_seizure</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Nocturnal_seizures</a></p>
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Reflex_seizure</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Dialeptic_seizure</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Status_epilepticus</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Motor_seizure</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Focal-onset_seizure</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Maternal_seizure</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Symptomatic_seizures</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal_nervous_system_physiology</a></p>
 
 {% endraw %}

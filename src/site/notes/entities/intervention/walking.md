@@ -1,13 +1,13 @@
 ---
-created: '2026-03-12T06:00:32.923233Z'
+created: '2026-03-27T09:46:13.707972Z'
 description: Low-intensity aerobic exercise accessible to nearly all populations.
   Consistent evidence for reducing all-cause mortality, cardiovascular disease, type
   2 diabetes, depression, and cognitive decline. 7,000-10,000 steps/day associated
   with significant mortality reduction. The most underappreciated exercise intervention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/walking/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/intervention/walking/
 slug: walking
 tags:
 - intervention
@@ -19,27 +19,34 @@ tags:
 templateEngineOverride: njk
 title: Walking
 type: intervention
-updated: '2026-03-12T06:00:32.923233Z'
+updated: '2026-03-27T09:46:13.707972Z'
 ---
 
 {% raw %}
 <h1>Walking</h1>
 <h2>Overview</h2>
 <p>Low-intensity aerobic exercise accessible to nearly all populations. Consistent evidence for reducing all-cause mortality, cardiovascular disease, type 2 diabetes, depression, and cognitive decline. 7,000-10,000 steps/day associated with significant mortality reduction. The most underappreciated exercise intervention.</p>
+<p><strong>Type</strong>: exercise</p>
 <h2>Mechanism of Action</h2>
 <p>Low-intensity aerobic activity that primarily utilizes fat oxidation for energy. Improves endothelial function, reduces systemic inflammation, enhances insulin sensitivity, and promotes BDNF-mediated neuroplasticity. Post-meal walking blunts postprandial glucose spikes by increasing skeletal muscle glucose uptake.</p>
 <h2>Protocol</h2>
+<h3>Dosing Information</h3>
+<p>7,000-10,000+ steps per day or 150+ minutes per week of brisk walking. Post-meal walks (10-15 min) particularly effective for glucose regulation.</p>
+<h2>Safety Information</h2>
+<h3>Contraindications</h3>
 <ul>
-<li><strong>Steps</strong>: 7,000-10,000+ steps per day</li>
-<li><strong>Duration</strong>: 150+ minutes per week of brisk walking</li>
-<li><strong>Post-meal walks</strong>: 10-15 minutes after meals for glucose regulation</li>
-<li><strong>Intensity</strong>: Conversational pace (zone 1-2)</li>
+<li>Severe musculoskeletal injury preventing ambulation</li>
+<li>Acute cardiovascular event (rest required)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<p>RELATED::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a></p>
+<h2>Research Support</h2>
+<p>No research studies documented yet.</p>
+<h2>References</h2>
+<p>No references available.</p>
 
 {% endraw %}

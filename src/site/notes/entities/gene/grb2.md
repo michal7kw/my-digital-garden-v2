@@ -1,10 +1,10 @@
 ---
-created: '2026-03-12T06:00:32.851564Z'
+created: '2026-03-27T09:46:14.304865Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/grb2/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/grb2/
 slug: grb2
 tags:
 - gene
@@ -13,18 +13,14 @@ tags:
 templateEngineOverride: njk
 title: GRB2
 type: gene
-updated: '2026-03-12T06:00:32.851564Z'
+updated: '2026-03-27T09:46:14.304865Z'
 ---
 
 {% raw %}
-<h1>&quot;GRB2&quot;</h1>
+<h1>GRB2</h1>
 <h2>Overview</h2>
-<p>Gene imported from PrimeKG. No detailed description available.</p>
+<p>...</p>
 <h2>Relationships</h2>
-<p>No relationships documented.</p>
-<h2>References</h2>
-<ul>
-<li>Imported from PrimeKG knowledge graph</li>
-</ul>
+<p>No relationships found.</p>
 
 {% endraw %}

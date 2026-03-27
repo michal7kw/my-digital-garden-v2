@@ -1,18 +1,18 @@
 ---
-created: '2026-03-12T06:00:33.123435Z'
+created: '2026-03-27T09:46:13.823247Z'
 description: Comprehensive stool DNA test for gut microbiome, pathogens, parasites,
   and digestive markers.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/gi-map/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/gi-map/
 slug: gi-map
 tags:
 - labtest
 templateEngineOverride: njk
 title: gi_map
 type: labtest
-updated: '2026-03-12T06:00:33.123435Z'
+updated: '2026-03-27T09:46:13.823247Z'
 ---
 
 {% raw %}
@@ -73,6 +73,6 @@ updated: '2026-03-12T06:00:33.123435Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2025-12-28T17:32:26+0000</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:12.000818+00:00</em></p>
 
 {% endraw %}

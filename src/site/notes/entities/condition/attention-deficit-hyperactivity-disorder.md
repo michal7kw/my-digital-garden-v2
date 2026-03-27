@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.257777Z'
+created: '2026-03-27T09:46:13.307411Z'
 description: A neurodevelopmental disorder characterized by persistent patterns of
   inattention, hyperactivity, and impulsivity that interfere with functioning or development.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/attention-deficit-hyperactivity-disorder/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/
 slug: attention-deficit-hyperactivity-disorder
 tags:
 - condition
@@ -16,26 +16,25 @@ tags:
 templateEngineOverride: njk
 title: Attention Deficit Hyperactivity Disorder
 type: condition
-updated: '2026-03-12T06:00:32.257777Z'
+updated: '2026-03-27T09:46:13.307411Z'
 ---
 
 {% raw %}
 <h1>Attention Deficit Hyperactivity Disorder</h1>
 <h2>Overview</h2>
-<p>Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common neurodevelopmental disorders of childhood, often lasting into adulthood. It affects executive function, including the ability to plan, focus, remember instructions, and multitask.</p>
-<h2>Types</h2>
-<ol>
-<li><strong>Predoministently Inattentive:</strong> Difficulty organizing or finishing a task, paying attention to details, or following instructions.</li>
-<li><strong>Predominantly Hyperactive-Impulsive:</strong> Fidgets, talks a lot, has difficulty sitting still, interrupts others.</li>
-<li><strong>Combined Presentation:</strong> Symptoms of both.</li>
-</ol>
+<p>A neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that interfere with functioning or development.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>American Psychiatric Association. DSM-5.</li>
-<li>CDC. ADHD.</li>
-<li>Faraone, S. V., et al. (2015). Attention-deficit/hyperactivity disorder. Nature Reviews Disease Primers.</li>
-</ul>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/magnesium-rbc/" class="internal-link">Magnesium Rbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/omega3-index/" class="internal-link">Omega3 Index</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
 
 {% endraw %}

@@ -1,13 +1,13 @@
 ---
-created: '2026-03-12T06:00:32.649194Z'
+created: '2026-03-27T09:46:13.593584Z'
 description: Natural alkaloid compound found in several plants including goldenseal
   and barberry. Demonstrates significant blood glucose-lowering effects comparable
   to metformin through AMPK activation. Used traditionally in Chinese and Ayurvedic
   medicine.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/berberine/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/drug/berberine/
 slug: berberine
 tags:
 - drug
@@ -20,37 +20,33 @@ tags:
 templateEngineOverride: njk
 title: Berberine
 type: drug
-updated: '2026-03-12T06:00:32.649194Z'
+updated: '2026-03-27T09:46:13.593584Z'
 ---
 
 {% raw %}
 <h1>Berberine</h1>
 <h2>Overview</h2>
 <p>Natural alkaloid compound found in several plants including goldenseal and barberry. Demonstrates significant blood glucose-lowering effects comparable to metformin through AMPK activation. Used traditionally in Chinese and Ayurvedic medicine.</p>
-<h2>Pharmacological Information</h2>
-<h2>Clinical Features</h2>
-<h2>Classification</h2>
-<h2>Chemical Properties</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/chromium/" class="internal-link">Chromium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Gut</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/pcos/" class="internal-link">PCOS</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tfam/" class="internal-link">TFAM</a></p>
+<p>RELATED::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a><br />
+RELATED::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+RELATED::<a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+RELATED::<a href="/garden/dev_admin/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a><br />
+RELATED::<a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
+RELATED::<a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a><br />
+RELATED::<a href="/garden/dev_admin/organ/gut/" class="internal-link">Gut</a><br />
+RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a><br />
+RELATED::<a href="/garden/dev_admin/organ/pancreas/" class="internal-link">Pancreas</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+RELATED::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
+RELATED::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a><br />
+RELATED::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+RELATED::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a></p>
 
 {% endraw %}

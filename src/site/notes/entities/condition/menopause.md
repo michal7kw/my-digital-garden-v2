@@ -1,11 +1,11 @@
 ---
-created: '2026-03-12T06:00:32.467072Z'
+created: '2026-03-27T09:46:13.471890Z'
 description: A natural biological process marking the end of a woman's reproductive
   years, defined as 12 consecutive months without a menstrual period.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/menopause/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/condition/menopause/
 slug: menopause
 tags:
 - condition
@@ -16,43 +16,25 @@ tags:
 templateEngineOverride: njk
 title: Menopause
 type: condition
-updated: '2026-03-12T06:00:32.467072Z'
+updated: '2026-03-27T09:46:13.471890Z'
 ---
 
 {% raw %}
 <h1>Menopause</h1>
 <h2>Overview</h2>
 <p>A natural biological process marking the end of a woman's reproductive years, defined as 12 consecutive months without a menstrual period.</p>
-<h2>Clinical Presentation</h2>
-<h3>Symptoms</h3>
-<p>Not specified.</p>
-<h2>Diagnostic Information</h2>
-<h2>Risk Factors</h2>
-<h2>Management</h2>
-<h3>Interventions</h3>
-<pre><code class="language-dataview">TABLE 
-    effectiveness AS &quot;Effectiveness&quot;,
-    confidence_score AS &quot;Confidence&quot;
-FROM [[Menopause]] AND #intervention
-SORT confidence_score DESC
-</code></pre>
-<h2>Other Relationships</h2>
-<h3>Related</h3>
-<h2>Research</h2>
-<h3>Recent Studies</h3>
-<pre><code class="language-dataview">LIST
-FROM [[Menopause]] AND #research
-WHERE date &gt;= date(today) - dur(1 year)
-SORT date DESC
-</code></pre>
-<h3>Clinical Trials</h3>
-<pre><code class="language-dataview">LIST status
-FROM [[Menopause]] AND #clinical-trial
-SORT date DESC
-</code></pre>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<p>No references available.</p>
+<h3>Risk Biomarkers</h3>
+<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/estradiol/" class="internal-link">Estradiol</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/shbg/" class="internal-link">Shbg</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/black-seed-oil/" class="internal-link">Black Seed Oil</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a></p>
 
 {% endraw %}

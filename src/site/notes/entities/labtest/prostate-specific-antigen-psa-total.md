@@ -1,20 +1,20 @@
 ---
-created: '2026-03-12T06:00:33.390110Z'
+created: '2026-03-27T09:46:13.955786Z'
 description: pros-tate speh-sif-ik an-tih-jen (p-s-a) toh-tul Total prostate-specific
   antigen (PSA) measures the overall amount of PSA in the blood, including both PSA
   that is attached to proteins and PSA that is free. This test is considered alongside
   free PSA and used to calculate percent-free PSA.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/prostate-specific-antigen-psa-total/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/labtest/prostate-specific-antigen-psa-total/
 slug: prostate-specific-antigen-psa-total
 tags:
 - labtest
 templateEngineOverride: njk
 title: prostate_specific_antigen_psa_total
 type: labtest
-updated: '2026-03-12T06:00:33.390110Z'
+updated: '2026-03-27T09:46:13.955786Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ updated: '2026-03-12T06:00:33.390110Z'
 </tr>
 <tr>
 <td><strong>Subcategory</strong></td>
-<td>Sex Hormones</td>
+<td>Null</td>
 </tr>
 <tr>
 <td><strong>Sample Type</strong></td>
@@ -49,7 +49,7 @@ updated: '2026-03-12T06:00:33.390110Z'
 </tr>
 <tr>
 <td><strong>Turnaround Time</strong></td>
-<td>3-7 days</td>
+<td>null-null days</td>
 </tr>
 </tbody>
 </table>
@@ -69,6 +69,6 @@ updated: '2026-03-12T06:00:33.390110Z'
 <li>Individual factors (age, sex, health status) affect interpretation</li>
 </ul>
 <hr />
-<p><em>Last Updated: 2026-01-19T09:32:39.243659</em></p>
+<p><em>Last Updated: 2026-03-11T13:47:13.557207+00:00</em></p>
 
 {% endraw %}

@@ -1,35 +1,41 @@
 ---
-created: '2026-03-12T06:00:32.837260Z'
-description: Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme
-  in the body.
+created: '2026-03-27T09:46:13.652830Z'
+description: Cytochrome P450 3A4, the most abundant hepatic CYP enzyme, responsible
+  for metabolizing approximately 50% of all prescription drugs. Key target for drug-drug
+  and drug-supplement interactions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/cyp3a4/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/cyp3a4/
 slug: cyp3a4
 tags:
 - gene
+- pharmacogenomics
 - drug_metabolism
-- liver
-- imported
-- primekg
+- cyp450
 templateEngineOverride: njk
 title: CYP3A4
 type: gene
-updated: '2026-03-12T06:00:32.837260Z'
+updated: '2026-03-27T09:46:13.652830Z'
 ---
 
 {% raw %}
 <h1>CYP3A4</h1>
 <h2>Overview</h2>
-<p>The <strong>CYP3A4</strong> gene encodes the cytochrome P450 3A4 enzyme, which is localized primarily in the liver and small intestine. It is responsible for the metabolism of approximately <strong>50-60% of all prescribed medications</strong>, as well as endogenous substrates like steroids and bile acids.</p>
-<p>Genetic polymorphisms in this gene can influence drug efficacy and toxicity, although they are less common/impactful than those of CYP2D6 or CYP2C19.</p>
+<p>CYP3A4 is the most abundant cytochrome P450 enzyme in the liver and intestine, responsible for the oxidative metabolism of approximately 50% of marketed drugs. Substrates include statins, calcium channel blockers, immunosuppressants, HIV protease inhibitors, and many supplements. CYP3A4 activity varies 10-40 fold between individuals due to genetic polymorphisms, epigenetic regulation, and environmental inducers/inhibitors. Key supplement interactions: St. John's Wort (potent inducer), grapefruit (inhibitor), curcumin (inhibitor).</p>
 <h2>Relationships</h2>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Intestine</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></p>
 <h2>References</h2>
-<ol>
-<li><strong>Pharmacogenomics</strong>: Zanger, U. M., &amp; Schwab, M. (2013). &quot;Cytochrome P450 enzymes in drug metabolism...&quot; <em>Pharmacology &amp; Therapeutics</em>.</li>
-</ol>
+<ul>
+<li>PMID:15100179 — CYP3A4 genetic polymorphisms and drug interactions</li>
+<li>PMID:27356439 — Dietary supplement-CYP3A4 interactions</li>
+</ul>
 
 {% endraw %}

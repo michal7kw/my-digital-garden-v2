@@ -1,12 +1,12 @@
 ---
-created: '2026-03-12T06:00:34.237361Z'
+created: '2026-03-27T09:46:14.353261Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/alpha-gpc/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/supplement/alpha-gpc/
 slug: alpha-gpc
 tags:
 - supplement
@@ -18,105 +18,25 @@ tags:
 templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-03-12T06:00:34.237361Z'
+updated: '2026-03-27T09:46:14.353261Z'
 ---
 
 {% raw %}
 <h1>Alpha-GPC</h1>
 <h2>Overview</h2>
-<p>Alpha-GPC (L-Alpha glycerylphosphorylcholine) is the most bioavailable choline supplement, providing 40% choline by weight. It efficiently crosses the blood-brain barrier and is used clinically in Europe for cognitive disorders.</p>
-<p><strong>Evidence Level: 4/5</strong> - Strong clinical evidence; pharmaceutical use in Europe.</p>
+<p>Highly bioavailable choline compound that readily crosses the blood-brain barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth hormone release during exercise.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
+<p><strong>Research Summary:</strong> Strong evidence for cognitive enhancement in aging. Used clinically in Europe for dementia. Athletic performance benefits include power output and growth hormone release. Higher choline content than citicoline but less membrane support.</p>
 <h2>Mechanism of Action</h2>
-<h3>Cholinergic Support</h3>
-<pre><code>Alpha-GPC
-    ↓ (absorbed intact or hydrolyzed)
-Choline + Glycerophosphate
-    ↓
-Choline → Acetylcholine (ACh)
-       → Phosphatidylcholine (PC)
-</code></pre>
-<h3>Growth Hormone Effects</h3>
-<ul>
-<li>Activates cholinergic neurons in hypothalamus</li>
-<li>Stimulates GHRH release</li>
-<li>600mg pre-exercise increased GH 44-fold (vs placebo)</li>
-</ul>
-<h2>Comparison with Citicoline</h2>
-<table>
-<thead>
-<tr>
-<th>Aspect</th>
-<th>Alpha-GPC</th>
-<th>Citicoline</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Choline content</td>
-<td>40%</td>
-<td>18%</td>
-</tr>
-<tr>
-<td>Additional compounds</td>
-<td>Glycerophosphate</td>
-<td>Cytidine (→ uridine)</td>
-</tr>
-<tr>
-<td>GH effects</td>
-<td>Stronger</td>
-<td>Minimal</td>
-</tr>
-<tr>
-<td>Membrane support</td>
-<td>Via PC</td>
-<td>Stronger</td>
-</tr>
-<tr>
-<td>Cost</td>
-<td>Higher</td>
-<td>Moderate</td>
-</tr>
-</tbody>
-</table>
-<h2>Clinical Evidence</h2>
-<table>
-<thead>
-<tr>
-<th>Application</th>
-<th>Dose</th>
-<th>Finding</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Cognitive decline</td>
-<td>1200mg/day</td>
-<td>Improved cognitive scores</td>
-</tr>
-<tr>
-<td>Athletic performance</td>
-<td>600mg</td>
-<td>Increased power output, GH</td>
-</tr>
-<tr>
-<td>Stroke recovery</td>
-<td>1000mg/day</td>
-<td>Enhanced recovery</td>
-</tr>
-<tr>
-<td>Healthy adults</td>
-<td>400mg</td>
-<td>Improved memory</td>
-</tr>
-</tbody>
-</table>
+<p>Highest bioavailable choline source (40% choline by weight). Readily crosses BBB to provide acetylcholine substrate. May increase growth hormone secretion through cholinergic pathways. Supports phosphatidylcholine synthesis for neuronal membranes.</p>
+<h2>Dosage</h2>
+<p>300-600mg daily for cognitive; 600-1200mg for athletic</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
-<h2>References</h2>
-<ul>
-<li>Parnetti L, et al. Multicentre study of l-alpha-glyceryl-phosphorylcholine vs ST200 among patients with probable senile dementia of Alzheimer's type. Drugs Aging. 1993;3(2):159-164.</li>
-<li>Ziegenfuss T, et al. Acute supplementation with alpha-glycerylphosphorylcholine augments growth hormone response to, and peak force production during, resistance exercise. J Int Soc Sports Nutr. 2008;5(Suppl 1):P15.</li>
-<li>Kawamura T, et al. Glycerophosphocholine enhances growth hormone secretion and fat oxidation in young adults. Nutrition. 2012;28(11-12):1122-1126.</li>
-</ul>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a></p>
 
 {% endraw %}

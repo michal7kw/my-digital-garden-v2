@@ -1,10 +1,10 @@
 ---
-created: '2026-03-12T06:00:32.848689Z'
+created: '2026-03-27T09:46:14.303838Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/ets1/
+gardenUsername: dev_admin
+permalink: /garden/dev_admin/gene/ets1/
 slug: ets1
 tags:
 - gene
@@ -13,18 +13,14 @@ tags:
 templateEngineOverride: njk
 title: ETS1
 type: gene
-updated: '2026-03-12T06:00:32.848689Z'
+updated: '2026-03-27T09:46:14.303838Z'
 ---
 
 {% raw %}
-<h1>&quot;ETS1&quot;</h1>
+<h1>ETS1</h1>
 <h2>Overview</h2>
-<p>Gene imported from PrimeKG. No detailed description available.</p>
+<p>...</p>
 <h2>Relationships</h2>
-<p>No relationships documented.</p>
-<h2>References</h2>
-<ul>
-<li>Imported from PrimeKG knowledge graph</li>
-</ul>
+<p>No relationships found.</p>
 
 {% endraw %}
