@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.194435Z'
+created: '2026-03-28T19:47:17.966971Z'
 description: C-Terminal Telopeptide (CTX or beta-CrossLaps) measures a collagen degradation
   fragment released during bone resorption. It is the most widely used marker of bone
   resorption and is recommended by the IOF/IFCC as the reference resorption marker.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ctx
 type: labtest
-updated: '2026-03-28T08:31:46.194435Z'
+updated: '2026-03-28T19:47:17.966971Z'
 ---
 
 {% raw %}
@@ -67,7 +67,7 @@ updated: '2026-03-28T08:31:46.194435Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/ctx/" class="internal-link">ctx</a></li>
+<li><a href="/entities/labtest/ctx/" class="internal-link">ctx</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -78,11 +78,11 @@ updated: '2026-03-28T08:31:46.194435Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
+RELATED_TESTS::<a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
+RELATED_TESTS::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bone-health-panel/" class="internal-link">bone_health_panel</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/bone-health-panel/" class="internal-link">bone_health_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

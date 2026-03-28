@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.951193Z'
+created: '2026-03-28T19:47:18.580272Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Norepinephrine
 type: neurotransmitter
-updated: '2026-03-28T08:31:46.951193Z'
+updated: '2026-03-28T19:47:18.580272Z'
 ---
 
 {% raw %}
@@ -51,13 +51,13 @@ updated: '2026-03-28T08:31:46.951193Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/amitriptyline/" class="internal-link">Amitriptyline</a></p>
+<p>RELATED::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
+RELATED::<a href="/entities/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
+RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
+RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a href="/entities/drug/amitriptyline/" class="internal-link">Amitriptyline</a></p>
 
 {% endraw %}

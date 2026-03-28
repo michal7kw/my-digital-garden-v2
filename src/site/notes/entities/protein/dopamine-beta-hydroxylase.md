@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.479273Z'
+created: '2026-03-28T19:47:18.920526Z'
 description: Copper-dependent monooxygenase that converts dopamine to norepinephrine
   in noradrenergic neurons and adrenal medulla chromaffin cells. Requires ascorbic
   acid (Vitamin C) and copper as essential cofactors. Uniquely localized within synaptic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine Beta-Hydroxylase
 type: protein
-updated: '2026-03-28T08:31:47.479273Z'
+updated: '2026-03-28T19:47:18.920526Z'
 ---
 
 {% raw %}
@@ -70,22 +70,22 @@ updated: '2026-03-28T08:31:47.479273Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Converts</h3>
-<p>CONVERTS::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>CONVERTS::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Produces</h3>
-<p>PRODUCES::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<p>PRODUCES::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">Copper</a></p>
+<p>REQUIRES_COFACTOR::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+REQUIRES_COFACTOR::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/epinephrine/" class="internal-link">Epinephrine</a></p>
+<p>RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/entities/hormone/epinephrine/" class="internal-link">Epinephrine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:11171002 - Catecholamine biosynthetic enzymes review</li>

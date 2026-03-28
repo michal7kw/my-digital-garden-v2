@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.415790Z'
+created: '2026-03-28T19:47:18.877366Z'
 description: Encodes the Androgen Receptor, a DNA-binding transcription factor that
   regulates gene expression in response to androgens.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: AR
 type: gene
-updated: '2026-03-28T08:31:47.415790Z'
+updated: '2026-03-28T19:47:18.877366Z'
 ---
 
 {% raw %}

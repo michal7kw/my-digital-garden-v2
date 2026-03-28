@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.928534Z'
+created: '2026-03-28T19:47:16.896943Z'
 description: Central relay station of the brain, processing and routing nearly all
   sensory information (except olfaction) to the cerebral cortex. Also involved in
   consciousness, alertness, and pain perception.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Thalamus
 type: Anatomy
-updated: '2026-03-28T08:31:44.928534Z'
+updated: '2026-03-28T19:47:16.896943Z'
 ---
 
 {% raw %}
@@ -32,7 +32,7 @@ updated: '2026-03-28T08:31:44.928534Z'
 <li><strong>Reticular nucleus</strong> — Gating/filtering (GABAergic)</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
 
 {% endraw %}

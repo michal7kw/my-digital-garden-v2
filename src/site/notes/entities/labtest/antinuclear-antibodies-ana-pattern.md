@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.089205Z'
+created: '2026-03-28T19:47:17.871365Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodies
   (ANA) pattern analyzes the specific patterns of antibody staining on cells, providing
   detailed information that can help differentiate between various autoimmune diseases.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_pattern
 type: labtest
-updated: '2026-03-28T08:31:46.089205Z'
+updated: '2026-03-28T19:47:17.871365Z'
 ---
 
 {% raw %}
@@ -64,11 +64,11 @@ updated: '2026-03-28T08:31:46.089205Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a></p>
+<p>RELATED::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
+RELATED::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

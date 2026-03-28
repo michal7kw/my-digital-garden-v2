@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.987408Z'
+created: '2026-03-28T19:47:18.610831Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/hypothalamus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Hypothalamus
 type: organ
-updated: '2026-03-28T08:31:46.987408Z'
+updated: '2026-03-28T19:47:18.610831Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.161784Z'
+created: '2026-03-28T19:47:17.941769Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: complete_blood_count
 type: labtest
-updated: '2026-03-28T08:31:46.161784Z'
+updated: '2026-03-28T19:47:17.941769Z'
 ---
 
 {% raw %}
@@ -53,14 +53,14 @@ updated: '2026-03-28T08:31:46.161784Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">wbc</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/rbc/" class="internal-link">rbc</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/hematocrit/" class="internal-link">hematocrit</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">platelets</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mcv/" class="internal-link">mcv</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mch/" class="internal-link">mch</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mchc/" class="internal-link">mchc</a></li>
+<li><a href="/entities/biomarker/wbc/" class="internal-link">wbc</a></li>
+<li><a href="/entities/biomarker/rbc/" class="internal-link">rbc</a></li>
+<li><a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
+<li><a href="/entities/labtest/hematocrit/" class="internal-link">hematocrit</a></li>
+<li><a href="/entities/biomarker/platelets/" class="internal-link">platelets</a></li>
+<li><a href="/entities/biomarker/mcv/" class="internal-link">mcv</a></li>
+<li><a href="/entities/biomarker/mch/" class="internal-link">mch</a></li>
+<li><a href="/entities/biomarker/mchc/" class="internal-link">mchc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -71,15 +71,15 @@ updated: '2026-03-28T08:31:46.161784Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">platelets</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mch/" class="internal-link">mch</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mchc/" class="internal-link">mchc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/rbc/" class="internal-link">rbc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">wbc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mcv/" class="internal-link">mcv</a></p>
+<p>RELATED::<a href="/entities/biomarker/platelets/" class="internal-link">platelets</a><br />
+RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+RELATED::<a href="/entities/biomarker/mch/" class="internal-link">mch</a><br />
+RELATED::<a href="/entities/biomarker/mchc/" class="internal-link">mchc</a><br />
+RELATED::<a href="/entities/biomarker/rbc/" class="internal-link">rbc</a><br />
+RELATED::<a href="/entities/biomarker/wbc/" class="internal-link">wbc</a><br />
+RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+RELATED::<a href="/entities/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
+RELATED::<a href="/entities/biomarker/mcv/" class="internal-link">mcv</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

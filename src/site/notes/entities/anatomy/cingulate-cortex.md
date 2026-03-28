@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.912328Z'
+created: '2026-03-28T19:47:16.879631Z'
 description: Medial cortical structure forming a collar around the corpus callosum.
   The anterior cingulate (ACC) is critical for error detection and conflict monitoring;
   posterior cingulate for self-referential processing.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cingulate Cortex
 type: Anatomy
-updated: '2026-03-28T08:31:44.912328Z'
+updated: '2026-03-28T19:47:16.879631Z'
 ---
 
 {% raw %}
@@ -30,8 +30,8 @@ updated: '2026-03-28T08:31:44.912328Z'
 <li><strong>Midcingulate</strong> — Motor planning, pain processing</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.101916Z'
+created: '2026-03-28T19:47:17.883947Z'
 description: Measuring ApoB levels is important because it provides a direct count
   of plaque-forming cholesterol particles in the blood. It is powerful indicator of
   harmful particles that drive cardiovascular risk and contribute to metabolic dysfunction.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: apolipoprotein_b_apob
 type: labtest
-updated: '2026-03-28T08:31:46.101916Z'
+updated: '2026-03-28T19:47:17.883947Z'
 ---
 
 {% raw %}
@@ -60,19 +60,19 @@ updated: '2026-03-28T08:31:46.101916Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+<p>RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes_Or_Insulin_Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

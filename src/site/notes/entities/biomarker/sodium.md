@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.245790Z'
+created: '2026-03-28T19:47:17.096486Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/sodium/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium
 type: biomarker
-updated: '2026-03-28T08:31:45.245790Z'
+updated: '2026-03-28T19:47:17.096486Z'
 ---
 
 {% raw %}
@@ -18,9 +18,9 @@ updated: '2026-03-28T08:31:45.245790Z'
 <h2>Relationships</h2>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/basic-metabolic-panel/" class="internal-link">basic_metabolic_panel</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/basic-metabolic-panel/" class="internal-link">basic_metabolic_panel</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/sodium/" class="internal-link">sodium</a> (labtest)</li>
 </ul>
 
 {% endraw %}

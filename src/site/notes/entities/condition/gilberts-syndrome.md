@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.496745Z'
+created: '2026-03-28T19:47:17.351491Z'
 description: A common, harmless genetic liver disorder in which the liver doesn't
   properly process bilirubin, leading to mild, intermittent jaundice.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Gilberts Syndrome
 type: condition
-updated: '2026-03-28T08:31:45.496745Z'
+updated: '2026-03-28T19:47:17.351491Z'
 ---
 
 {% raw %}
@@ -23,14 +23,14 @@ updated: '2026-03-28T08:31:45.496745Z'
 <p>A common, harmless genetic liver disorder in which the liver doesn't properly process bilirubin, leading to mild, intermittent jaundice.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
 
 {% endraw %}

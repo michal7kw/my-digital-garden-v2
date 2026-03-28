@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.485457Z'
+created: '2026-03-28T19:47:18.256409Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-03-28T08:31:46.485457Z'
+updated: '2026-03-28T19:47:18.256409Z'
 ---
 
 {% raw %}
@@ -53,9 +53,9 @@ updated: '2026-03-28T08:31:46.485457Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/omega3-index/" class="internal-link">omega3_index</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/epa/" class="internal-link">epa</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/dha/" class="internal-link">dha</a></li>
+<li><a href="/entities/labtest/omega3-index/" class="internal-link">omega3_index</a></li>
+<li><a href="/entities/biomarker/epa/" class="internal-link">epa</a></li>
+<li><a href="/entities/biomarker/dha/" class="internal-link">dha</a></li>
 <li><a class="internal-link is-unresolved" href="/404">aa_epa_ratio</a></li>
 </ul>
 <h2>Recommended For</h2>
@@ -67,9 +67,9 @@ updated: '2026-03-28T08:31:46.485457Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/dha/" class="internal-link">dha</a><br />
+<p>RELATED::<a href="/entities/biomarker/dha/" class="internal-link">dha</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">aa_epa_ratio</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/epa/" class="internal-link">epa</a></p>
+RELATED::<a href="/entities/biomarker/epa/" class="internal-link">epa</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

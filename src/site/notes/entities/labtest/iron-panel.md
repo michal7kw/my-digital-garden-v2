@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.331814Z'
+created: '2026-03-28T19:47:18.125028Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: iron_panel
 type: labtest
-updated: '2026-03-28T08:31:46.331814Z'
+updated: '2026-03-28T19:47:18.125028Z'
 ---
 
 {% raw %}
@@ -66,10 +66,10 @@ updated: '2026-03-28T08:31:46.331814Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/serum-iron/" class="internal-link">serum_iron</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/tibc/" class="internal-link">tibc</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></li>
+<li><a href="/entities/biomarker/serum-iron/" class="internal-link">serum_iron</a></li>
+<li><a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></li>
+<li><a href="/entities/biomarker/tibc/" class="internal-link">tibc</a></li>
+<li><a href="/entities/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -80,11 +80,11 @@ updated: '2026-03-28T08:31:46.331814Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/tibc/" class="internal-link">tibc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/serum-iron/" class="internal-link">serum_iron</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></p>
+<p>RELATED::<a href="/entities/biomarker/tibc/" class="internal-link">tibc</a><br />
+RELATED::<a href="/entities/biomarker/serum-iron/" class="internal-link">serum_iron</a><br />
+RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+RELATED::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.533190Z'
+created: '2026-03-28T19:47:17.393297Z'
 description: Persistently elevated blood pressure (≥130/80 mmHg) that increases risk
   of heart disease, stroke, kidney disease, and premature death. Often called the
   'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hypertension
 type: condition
-updated: '2026-03-28T08:31:45.533190Z'
+updated: '2026-03-28T19:47:17.393297Z'
 ---
 
 {% raw %}
@@ -25,22 +25,22 @@ updated: '2026-03-28T08:31:45.533190Z'
 <p>Persistently elevated blood pressure (≥130/80 mmHg) that increases risk of heart disease, stroke, kidney disease, and premature death. Often called the 'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/prazosin/" class="internal-link">PRAZOSIN</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lead/" class="internal-link">lead</a></p>
+<p>RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/drug/prazosin/" class="internal-link">PRAZOSIN</a><br />
+RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a><br />
+RELATED::<a href="/entities/labtest/lead/" class="internal-link">lead</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">Sodium</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">Potassium</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">Potassium</a></p>
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a></p>
 
 {% endraw %}

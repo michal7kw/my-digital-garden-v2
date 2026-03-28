@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.846360Z'
+created: '2026-03-28T19:47:19.182081Z'
 description: Concentrated extract from Prunus cerasus (Montmorency tart cherry) rich
   in anthocyanins and polyphenols that reduce exercise-induced oxidative stress, inflammation,
   and muscle soreness, accelerating recovery from intense exercise.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tart Cherry Extract
 type: supplement
-updated: '2026-03-28T08:31:47.846360Z'
+updated: '2026-03-28T19:47:19.182081Z'
 ---
 
 {% raw %}
@@ -62,13 +62,13 @@ updated: '2026-03-28T08:31:47.846360Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
+<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 <h2>References</h2>
 <ul>
 <li>Howatson G et al. Influence of tart cherry juice on indices of recovery following marathon running. Scand J Med Sci Sports. 2010;20(6):843-852. PMID:19883392</li>

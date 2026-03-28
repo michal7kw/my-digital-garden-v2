@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.865992Z'
+created: '2026-03-28T19:47:17.662348Z'
 description: Synthetic phenothiazine dye and the oldest synthetic drug in medicine
   (1876). FDA-approved for methemoglobinemia, methylene blue functions as an alternative
   electron carrier in the mitochondrial electron transport chain. At low doses it
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Methylene Blue
 type: drug
-updated: '2026-03-28T08:31:45.865992Z'
+updated: '2026-03-28T19:47:17.662348Z'
 ---
 
 {% raw %}
@@ -89,45 +89,45 @@ updated: '2026-03-28T08:31:45.865992Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/hormesis/" class="internal-link">Hormesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/hormesis/" class="internal-link">Hormesis</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Affects</h3>
-<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-AFFECTS::<a href="/garden/michal.k7w@gmail.com/protein/complex-i/" class="internal-link">Complex I</a><br />
-AFFECTS::<a href="/garden/michal.k7w@gmail.com/protein/complex-iv/" class="internal-link">Complex IV</a><br />
-AFFECTS::<a href="/garden/michal.k7w@gmail.com/protein/cytochrome-c/" class="internal-link">Cytochrome C</a></p>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+AFFECTS::<a href="/entities/protein/complex-i/" class="internal-link">Complex I</a><br />
+AFFECTS::<a href="/entities/protein/complex-iv/" class="internal-link">Complex IV</a><br />
+AFFECTS::<a href="/entities/protein/cytochrome-c/" class="internal-link">Cytochrome C</a></p>
 <h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
-MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
-MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
+<p>MODULATES_PATHWAY::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
+MODULATES_PATHWAY::<a href="/entities/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
+MODULATES_PATHWAY::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/pqq/" class="internal-link">PQQ</a><br />
 SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a></p>
 <h3>Increases Metabolite</h3>
-<p>INCREASES_METABOLITE::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a></p>
+<p>INCREASES_METABOLITE::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nadh/" class="internal-link">NADH</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a></p>
+<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
+RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a><br />
+RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:22040698 - Methylene blue enhances memory consolidation in humans</li>

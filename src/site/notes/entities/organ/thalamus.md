@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.047848Z'
+created: '2026-03-28T19:47:18.641637Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/thalamus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Thalamus
 type: organ
-updated: '2026-03-28T08:31:47.047848Z'
+updated: '2026-03-28T19:47:18.641637Z'
 ---
 
 {% raw %}

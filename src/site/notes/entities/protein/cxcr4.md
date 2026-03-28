@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.441949Z'
+created: '2026-03-28T19:47:18.894768Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/protein/cxcr4/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: CXCR4
 type: protein
-updated: '2026-03-28T08:31:47.441949Z'
+updated: '2026-03-28T19:47:18.894768Z'
 ---
 
 {% raw %}
@@ -17,8 +17,8 @@ updated: '2026-03-28T08:31:47.441949Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/myc/" class="internal-link">MYC</a><br />
+<p>RELATED::<a href="/entities/gene/myc/" class="internal-link">MYC</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">unnamed</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ctnnb1/" class="internal-link">CTNNB1</a></p>
+RELATED::<a href="/entities/gene/ctnnb1/" class="internal-link">CTNNB1</a></p>
 
 {% endraw %}

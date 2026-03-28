@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.809867Z'
+created: '2026-03-28T19:47:17.614584Z'
 description: World's most widely consumed psychoactive substance. Methylxanthine alkaloid
   that acts primarily as a nonselective adenosine A1 and A2A receptor antagonist,
   blocking adenosine's sleep-promoting and vasodilatory effects. Enhances alertness,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Caffeine
 type: drug
-updated: '2026-03-28T08:31:45.809867Z'
+updated: '2026-03-28T19:47:17.614584Z'
 ---
 
 {% raw %}
@@ -98,33 +98,33 @@ updated: '2026-03-28T08:31:45.809867Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Antagonizes</h3>
-<p>ANTAGONIZES::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/adenosine/" class="internal-link">Adenosine</a></p>
+<p>ANTAGONIZES::<a href="/entities/neurotransmitter/adenosine/" class="internal-link">Adenosine</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+SYNERGISTIC_WITH::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a></p>
+<p>INTERACTS_WITH::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/epinephrine/" class="internal-link">Epinephrine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/mao-a/" class="internal-link">MAO-A</a></p>
+<p>RELATED::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a><br />
+RELATED::<a href="/entities/hormone/epinephrine/" class="internal-link">Epinephrine</a><br />
+RELATED::<a href="/entities/protein/mao-a/" class="internal-link">MAO-A</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20164566 - Caffeine mechanisms of action in the brain</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.073979Z'
+created: '2026-03-28T19:47:17.851483Z'
 description: Albumin in the urine, even in small amounts—a condition called microalbuminuria—is
   one of the earliest warning signs that the kidneys’ filters are under stress and
   may be starting to leak protein they normally keep in the blood.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: albumin_microalbumin_urine
 type: labtest
-updated: '2026-03-28T08:31:46.073979Z'
+updated: '2026-03-28T19:47:17.851483Z'
 ---
 
 {% raw %}
@@ -60,16 +60,16 @@ updated: '2026-03-28T08:31:46.073979Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+<p>RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hypertension-Related_Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Early_Diabetic_Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular_Disease_Risk</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

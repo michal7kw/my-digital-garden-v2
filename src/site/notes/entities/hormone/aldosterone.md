@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.972738Z'
+created: '2026-03-28T19:47:17.749342Z'
 description: Primary mineralocorticoid hormone produced by the zona glomerulosa of
   the adrenal cortex. Central regulator of the renin-angiotensin-aldosterone system
   (RAAS). Controls sodium/potassium balance, blood volume, and blood pressure through
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Aldosterone
 type: hormone
-updated: '2026-03-28T08:31:45.972738Z'
+updated: '2026-03-28T19:47:17.749342Z'
 ---
 
 {% raw %}
@@ -29,9 +29,9 @@ updated: '2026-03-28T08:31:45.972738Z'
 <p>Primary mineralocorticoid hormone produced by the zona glomerulosa of the adrenal cortex. Central regulator of the renin-angiotensin-aldosterone system (RAAS). Controls sodium/potassium balance, blood volume, and blood pressure through renal tubular action. Dysregulation causes primary aldosteronism (Conn's syndrome) or contributes to essential hypertension.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>RELATED::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
+RELATED::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+RELATED::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 
 {% endraw %}

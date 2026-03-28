@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.005393Z'
+created: '2026-03-28T19:47:18.624364Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/mammillary-bodies/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mammillary Bodies
 type: organ
-updated: '2026-03-28T08:31:47.005393Z'
+updated: '2026-03-28T19:47:18.624364Z'
 ---
 
 {% raw %}

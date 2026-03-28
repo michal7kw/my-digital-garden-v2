@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.944414Z'
+created: '2026-03-28T19:47:18.575086Z'
 description: The brain's primary excitatory neurotransmitter, essential for learning,
   memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate
   can cause excitotoxicity and neuronal damage.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamate
 type: neurotransmitter
-updated: '2026-03-28T08:31:46.944414Z'
+updated: '2026-03-28T19:47:18.575086Z'
 ---
 
 {% raw %}
@@ -50,8 +50,8 @@ updated: '2026-03-28T08:31:46.944414Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/memantine/" class="internal-link">Memantine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
+<p>RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+RELATED::<a href="/entities/drug/memantine/" class="internal-link">Memantine</a><br />
+RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
 
 {% endraw %}

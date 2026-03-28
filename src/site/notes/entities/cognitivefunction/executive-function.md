@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.338762Z'
+created: '2026-03-28T19:47:17.199181Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/cognitivefunction/executive-function/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Executive Function
 type: cognitivefunction
-updated: '2026-03-28T08:31:45.338762Z'
+updated: '2026-03-28T19:47:17.199181Z'
 ---
 
 {% raw %}

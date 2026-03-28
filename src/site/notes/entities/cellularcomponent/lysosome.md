@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.299244Z'
+created: '2026-03-28T19:47:17.141736Z'
 description: Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling
   center and a central hub for nutrient sensing via mTOR/AMPK.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Lysosome
 type: cellularcomponent
-updated: '2026-03-28T08:31:45.299244Z'
+updated: '2026-03-28T19:47:17.141736Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-03-28T08:31:45.299244Z'
 <p>DEGRADES::<a class="internal-link is-unresolved" href="/404">Amyloid_Beta</a><br />
 DEGRADES::<a class="internal-link is-unresolved" href="/404">Damaged_Mitochondria</a></p>
 <h3>Regulates</h3>
-<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/pathway/mtor-pathway/" class="internal-link">mTOR_Pathway</a></p>
+<p>REGULATES::<a href="/entities/pathway/mtor-pathway/" class="internal-link">mTOR_Pathway</a></p>
 <h3>Requires</h3>
 <p>REQUIRES::<a class="internal-link is-unresolved" href="/404">Acidic_pH</a></p>
 <h3>Associated With Condition</h3>
@@ -39,6 +39,6 @@ ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Al
 <h3>Regulated By</h3>
 <p>REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy/" class="internal-link">Autophagy</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a></p>
 
 {% endraw %}

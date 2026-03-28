@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.057366Z'
+created: '2026-03-28T19:47:17.838351Z'
 description: NMR spectroscopy-based panel providing LDL particle number, size, HDL
   particles, and lipoprotein(a). Superior cardiovascular risk stratification.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: advanced_lipid_panel
 type: labtest
-updated: '2026-03-28T08:31:46.057366Z'
+updated: '2026-03-28T19:47:17.838351Z'
 ---
 
 {% raw %}
@@ -60,9 +60,9 @@ updated: '2026-03-28T08:31:46.057366Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/ldl-p/" class="internal-link">ldl_p</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/ldl-size/" class="internal-link">ldl_size</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/hdl-p/" class="internal-link">hdl_p</a></li>
+<li><a href="/entities/biomarker/ldl-p/" class="internal-link">ldl_p</a></li>
+<li><a href="/entities/biomarker/ldl-size/" class="internal-link">ldl_size</a></li>
+<li><a href="/entities/biomarker/hdl-p/" class="internal-link">hdl_p</a></li>
 <li><a class="internal-link is-unresolved" href="/404">lp_a</a></li>
 <li><a class="internal-link is-unresolved" href="/404">apoB</a></li>
 </ul>
@@ -75,14 +75,14 @@ updated: '2026-03-28T08:31:46.057366Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl-p/" class="internal-link">hdl_p</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+<p>RELATED::<a href="/entities/biomarker/hdl-p/" class="internal-link">hdl_p</a><br />
+RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">apoB</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl-size/" class="internal-link">ldl_size</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl-p/" class="internal-link">ldl_p</a><br />
+RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a><br />
+RELATED::<a href="/entities/biomarker/ldl-size/" class="internal-link">ldl_size</a><br />
+RELATED::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
+RELATED::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
+RELATED::<a href="/entities/biomarker/ldl-p/" class="internal-link">ldl_p</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">lp_a</a></p>
 <h2>Notes</h2>
 <ul>

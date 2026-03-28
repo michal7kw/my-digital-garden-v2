@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.798644Z'
+created: '2026-03-28T19:47:17.604119Z'
 description: Long-acting dihydropyridine calcium channel blocker for hypertension
   and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the
   most prescribed antihypertensives.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amlodipine
 type: drug
-updated: '2026-03-28T08:31:45.798644Z'
+updated: '2026-03-28T19:47:17.604119Z'
 ---
 
 {% raw %}
@@ -25,8 +25,8 @@ updated: '2026-03-28T08:31:45.798644Z'
 <p>Long-acting dihydropyridine calcium channel blocker for hypertension and angina. Relaxes vascular smooth muscle, reducing blood pressure. One of the most prescribed antihypertensives.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a></p>
+<p>RELATED::<a href="/entities/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a></p>
+<p>INTERACTS_WITH::<a href="/entities/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a></p>
 
 {% endraw %}

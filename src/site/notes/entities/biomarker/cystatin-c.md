@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.019009Z'
+created: '2026-03-28T19:47:16.959060Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/cystatin-c/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Cystatin C
 type: biomarker
-updated: '2026-03-28T08:31:45.019009Z'
+updated: '2026-03-28T19:47:16.959060Z'
 ---
 
 {% raw %}
@@ -17,6 +17,6 @@ updated: '2026-03-28T08:31:45.019009Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a></p>
 
 {% endraw %}

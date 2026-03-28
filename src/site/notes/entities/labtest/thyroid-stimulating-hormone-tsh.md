@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.656987Z'
+created: '2026-03-28T19:47:18.366798Z'
 description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland and
   signals the thyroid to produce T4 and T3. Because TSH rises when thyroid hormone
   levels are low and falls when they are high, measuring TSH is one of the most useful
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_stimulating_hormone_tsh
 type: labtest
-updated: '2026-03-28T08:31:46.656987Z'
+updated: '2026-03-28T19:47:18.366798Z'
 ---
 
 {% raw %}
@@ -62,17 +62,17 @@ updated: '2026-03-28T08:31:46.656987Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
+RELATED::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

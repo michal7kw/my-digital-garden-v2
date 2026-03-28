@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.923300Z'
+created: '2026-03-28T19:47:16.890000Z'
 description: Anterior portion of the frontal lobe, the most evolved region of the
   human brain. Mediates executive function, decision-making, personality expression,
   and social behavior.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Prefrontal Cortex
 type: Anatomy
-updated: '2026-03-28T08:31:44.923300Z'
+updated: '2026-03-28T19:47:16.890000Z'
 ---
 
 {% raw %}
@@ -32,10 +32,10 @@ updated: '2026-03-28T08:31:44.923300Z'
 <li><strong>Frontopolar cortex</strong> — Multitasking, future planning</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Reward and Motivation</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a></p>
 

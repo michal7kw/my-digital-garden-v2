@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.995671Z'
+created: '2026-03-28T19:47:17.775943Z'
 description: A dietary intervention involving sustained reduction of caloric intake
   (typically 20-40% below ad libitum) without malnutrition. The most robust and reproducible
   intervention for extending lifespan and healthspan across multiple species, from
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Caloric Restriction
 type: intervention
-updated: '2026-03-28T08:31:45.995671Z'
+updated: '2026-03-28T19:47:17.775943Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-03-28T08:31:45.995671Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a></p>
+<p>RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.478593Z'
+created: '2026-03-28T19:47:17.335364Z'
 description: A transient and generally benign increase in the excretion of protein
   in the urine following strenuous physical activity.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise-Induced Proteinuria
 type: condition
-updated: '2026-03-28T08:31:45.478593Z'
+updated: '2026-03-28T19:47:17.335364Z'
 ---
 
 {% raw %}
@@ -23,16 +23,16 @@ updated: '2026-03-28T08:31:45.478593Z'
 <p>A transient and generally benign increase in the excretion of protein in the urine following strenuous physical activity.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a></p>
+<p>RELATED::<a href="/entities/labtest/hyaline-casts-urine/" class="internal-link">hyaline_casts_urine</a><br />
+RELATED::<a href="/entities/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced_Proteinuria</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/cystatin-c/" class="internal-link">Cystatin C</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/egfr/" class="internal-link">EGFR</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/cystatin-c/" class="internal-link">Cystatin C</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.960245Z'
+created: '2026-03-28T19:47:17.734349Z'
 description: Target the hallmarks of aging with cutting-edge and foundational supplements.
   Omega-3 and vitamin D form the anti-inflammatory base, CoQ10 supports mitochondrial
   function, curcumin inhibits chronic inflammation, NMN boosts NAD+ for cellular repair,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Longevity
 type: healthstack
-updated: '2026-03-28T08:31:45.960245Z'
+updated: '2026-03-28T19:47:17.734349Z'
 ---
 
 {% raw %}
@@ -72,7 +72,7 @@ updated: '2026-03-28T08:31:45.960245Z'
 <td>NAD+ precursor — supports DNA repair and cellular energy</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a></td>
+<td><a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></td>
 <td>500mg</td>
 <td>once daily</td>
 <td>morning</td>
@@ -100,21 +100,21 @@ updated: '2026-03-28T08:31:45.960245Z'
 <td>Inflammaging is the primary driver of age-related disease</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a></td>
+<td><a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></td>
 <td>4.0-5.7</td>
 <td>4.5-5.2</td>
 <td>%</td>
 <td>Glycation accelerates biological aging</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
 <td>Optimal levels associated with reduced all-cause mortality</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
+<td><a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
 <td>0-15</td>
 <td>0-8</td>
 <td>umol/L</td>

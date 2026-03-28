@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.035934Z'
+created: '2026-03-28T19:47:18.636874Z'
 description: Large lymphoid organ responsible for filtering blood, recycling erythrocytes,
   and facilitating immune responses.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Spleen
 type: organ
-updated: '2026-03-28T08:31:47.035934Z'
+updated: '2026-03-28T19:47:18.636874Z'
 ---
 
 {% raw %}

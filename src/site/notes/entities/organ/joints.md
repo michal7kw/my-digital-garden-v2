@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.994995Z'
+created: '2026-03-28T19:47:18.617660Z'
 description: Articulations between bones enabling movement. Include synovial joints
   with cartilage, synovial fluid, and ligaments.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Joints
 type: organ
-updated: '2026-03-28T08:31:46.994995Z'
+updated: '2026-03-28T19:47:18.617660Z'
 ---
 
 {% raw %}
@@ -20,7 +20,7 @@ updated: '2026-03-28T08:31:46.994995Z'
 <p>Articulations between bones enabling movement. Include synovial joints with cartilage, synovial fluid, and ligaments.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></p>
+<p>RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 
 {% endraw %}

@@ -1,7 +1,7 @@
 ---
 aliases:
 - CS
-created: '2026-03-28T08:31:47.459522Z'
+created: '2026-03-28T19:47:18.905141Z'
 description: First enzyme of the TCA cycle, catalyzing the condensation of acetyl-CoA
   with oxaloacetate to form citrate and free CoA. A key marker of mitochondrial content
   and aerobic capacity, widely used in research to assess mitochondrial density.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Citrate Synthase
 type: protein
-updated: '2026-03-28T08:31:47.459522Z'
+updated: '2026-03-28T19:47:18.905141Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-03-28T08:31:47.459522Z'
 <p>First enzyme of the TCA cycle, catalyzing the condensation of acetyl-CoA with oxaloacetate to form citrate and free CoA. A key marker of mitochondrial content and aerobic capacity, widely used in research to assess mitochondrial density.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate_Dehydrogenase</a></p>
+<p>RELATED::<a href="/entities/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate_Dehydrogenase</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate_Dehydrogenase</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate_Dehydrogenase</a></p>
 
 {% endraw %}

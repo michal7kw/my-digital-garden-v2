@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.824424Z'
+created: '2026-03-28T19:47:18.488080Z'
 description: Evaluates intestinal inflammation, permeability, and microbiome health.
   Fecal calprotectin distinguishes IBD from IBS, while GI-MAP provides comprehensive
   stool analysis including pathogen detection and microbiome composition. Recommended
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: gut_health_comprehensive_panel
 type: labtestpanel
-updated: '2026-03-28T08:31:46.824424Z'
+updated: '2026-03-28T19:47:18.488080Z'
 ---
 
 {% raw %}
@@ -22,9 +22,9 @@ updated: '2026-03-28T08:31:46.824424Z'
 <p>Evaluates intestinal inflammation, permeability, and microbiome health. Fecal calprotectin distinguishes IBD from IBS, while GI-MAP provides comprehensive stool analysis including pathogen detection and microbiome composition. Recommended as a starting point for unexplained GI symptoms.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/gi-map/" class="internal-link">gi_map</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/zonulin/" class="internal-link">Zonulin</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/" class="internal-link">fecal_calprotectin</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtest/gi-map/" class="internal-link">gi_map</a><br />
+INCLUDED_IN::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
+INCLUDED_IN::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+INCLUDED_IN::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal_calprotectin</a></p>
 
 {% endraw %}

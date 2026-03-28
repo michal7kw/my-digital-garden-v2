@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.942814Z'
+created: '2026-03-28T19:47:17.720014Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: YBX1
 type: gene
-updated: '2026-03-28T08:31:45.942814Z'
+updated: '2026-03-28T19:47:17.720014Z'
 ---
 
 {% raw %}

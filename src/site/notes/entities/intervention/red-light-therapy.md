@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.025123Z'
+created: '2026-03-28T19:47:17.806291Z'
 description: Red light therapy (RLT) is a therapeutic technique that uses red low-level
   wavelengths of light to treat skin issues, sleep problems, and chronic pain, among
   other things.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Red Light Therapy
 type: intervention
-updated: '2026-03-28T08:31:46.025123Z'
+updated: '2026-03-28T19:47:17.806291Z'
 ---
 
 {% raw %}
@@ -39,17 +39,17 @@ updated: '2026-03-28T08:31:46.025123Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a><br />
+<p>RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">lab_results_2025_05_01</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">health_goals</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Reduces Condition</h3>
-<p>REDUCES_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>REDUCES_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Affects</h3>
-<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

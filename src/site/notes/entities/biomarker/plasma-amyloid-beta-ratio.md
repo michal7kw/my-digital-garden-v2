@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.212657Z'
+created: '2026-03-28T19:47:17.072439Z'
 description: Blood-based measurement of amyloid-beta 42/40 ratio using mass spectrometry
   or immunoassay. Enables non-invasive screening for brain amyloid pathology with
   moderate accuracy.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Plasma Amyloid-Beta Ratio
 type: biomarker
-updated: '2026-03-28T08:31:45.212657Z'
+updated: '2026-03-28T19:47:17.072439Z'
 ---
 
 {% raw %}
@@ -25,17 +25,17 @@ updated: '2026-03-28T08:31:45.212657Z'
 <p>Blood-based measurement of amyloid-beta 42/40 ratio using mass spectrometry or immunoassay. Enables non-invasive screening for brain amyloid pathology with moderate accuracy.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+<p>RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lumbar_Puncture</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid_PET_Imaging</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
+RELATED::<a href="/entities/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a><br />
+RELATED::<a href="/entities/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a><br />
+RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a></p>
+RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
+RELATED::<a href="/entities/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a></p>
 
 {% endraw %}

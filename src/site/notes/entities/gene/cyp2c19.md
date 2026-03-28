@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.923169Z'
+created: '2026-03-28T19:47:17.704759Z'
 description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critical
   for clopidogrel activation, PPI metabolism, and certain antidepressant clearance.
   Loss-of-function variants common in East Asian populations.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C19
 type: gene
-updated: '2026-03-28T08:31:45.923169Z'
+updated: '2026-03-28T19:47:17.704759Z'
 ---
 
 {% raw %}
@@ -24,12 +24,12 @@ updated: '2026-03-28T08:31:45.923169Z'
 <p>CYP2C19 is a polymorphic CYP450 enzyme with major clinical significance for clopidogrel (antiplatelet), PPIs (omeprazole, lansoprazole), SSRIs (citalopram, escitalopram), and antifungals (voriconazole). The *2 and *3 loss-of-function alleles are common (2-15% Caucasian, 15-25% East Asian), producing poor metabolizers who cannot adequately activate clopidogrel (increased thrombotic risk) and have prolonged PPI activity. The *17 gain-of-function allele creates ultra-rapid metabolizers.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20978260 — CYP2C19 genotype-guided antiplatelet therapy</li>

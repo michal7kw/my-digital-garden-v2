@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.814822Z'
+created: '2026-03-28T19:47:19.149504Z'
 description: Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic
   properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast
   cell degranulation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Quercetin
 type: supplement
-updated: '2026-03-28T08:31:47.814822Z'
+updated: '2026-03-28T19:47:19.149504Z'
 ---
 
 {% raw %}
@@ -27,19 +27,19 @@ updated: '2026-03-28T08:31:47.814822Z'
 <p><strong>Research Summary:</strong> Extensive research supports anti-inflammatory, antioxidant, and anti-allergic effects. Emerging evidence for senolytic (killing senescent cells) and antiviral properties. Poor bioavailability improved by phytosome formulations.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a></p>
+<p>RELATED::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a><br />
+RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gouty-arthritis/" class="internal-link">Gouty Arthritis</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/long-covid/" class="internal-link">Long COVID</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/gouty-arthritis/" class="internal-link">Gouty Arthritis</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/long-covid/" class="internal-link">Long COVID</a></p>
 
 {% endraw %}

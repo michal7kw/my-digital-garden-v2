@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.522713Z'
+created: '2026-03-28T19:47:18.951836Z'
 description: Catalytic core of the Gamma-Secretase complex. Cleaves APP to release
   Amyloid Beta.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Presenilin-1
 type: protein
-updated: '2026-03-28T08:31:47.522713Z'
+updated: '2026-03-28T19:47:18.951836Z'
 ---
 
 {% raw %}
@@ -23,11 +23,11 @@ updated: '2026-03-28T08:31:47.522713Z'
 <p>Catalytic core of the Gamma-Secretase complex. Cleaves APP to release Amyloid Beta.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/app/" class="internal-link">APP</a><br />
+<p>RELATED::<a href="/entities/gene/app/" class="internal-link">APP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloidogenic_Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Notch_Signaling</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/psen1/" class="internal-link">PSEN1</a><br />
+RELATED::<a href="/entities/gene/psen1/" class="internal-link">PSEN1</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Notch</a></p>
 
 {% endraw %}

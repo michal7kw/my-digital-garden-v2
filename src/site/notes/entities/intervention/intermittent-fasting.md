@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.009208Z'
+created: '2026-03-28T19:47:17.793465Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-03-28T08:31:46.009208Z'
+updated: '2026-03-28T19:47:17.793465Z'
 ---
 
 {% raw %}
@@ -52,8 +52,8 @@ updated: '2026-03-28T08:31:46.009208Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<p>RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
+RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.274111Z'
+created: '2026-03-28T19:47:17.114915Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/transferrin-saturation/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Transferrin Saturation
 type: biomarker
-updated: '2026-03-28T08:31:45.274111Z'
+updated: '2026-03-28T19:47:17.114915Z'
 ---
 
 {% raw %}
@@ -18,6 +18,6 @@ updated: '2026-03-28T08:31:45.274111Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Deficiency_Pattern</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a></p>
+RELATED::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a></p>
 
 {% endraw %}

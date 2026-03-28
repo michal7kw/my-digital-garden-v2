@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.584854Z'
+created: '2026-03-28T19:47:18.327575Z'
 description: Inactive thyroid hormone metabolite. Elevated in chronic illness, stress,
   and low-calorie diets.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: reverse_t3
 type: labtest
-updated: '2026-03-28T08:31:46.584854Z'
+updated: '2026-03-28T19:47:18.327575Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-03-28T08:31:46.584854Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
+<li><a href="/entities/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +64,7 @@ updated: '2026-03-28T08:31:46.584854Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a></p>
+<p>RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

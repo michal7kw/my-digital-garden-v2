@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.328425Z'
+created: '2026-03-28T19:47:18.120153Z'
 description: Iron binding capacity shows how well the blood can carry iron by measuring
   the maximum amount of iron that can attach to transferrin, the main iron-transport
   protein. High levels can mean the body needs more iron (like in iron deficiency
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: iron_binding_capacity
 type: labtest
-updated: '2026-03-28T08:31:46.328425Z'
+updated: '2026-03-28T19:47:18.120153Z'
 ---
 
 {% raw %}
@@ -62,23 +62,23 @@ updated: '2026-03-28T08:31:46.328425Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+<p>RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Overload_Hemochromatosis_Or_Excess_Supplementation</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a><br />
+RELATED::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

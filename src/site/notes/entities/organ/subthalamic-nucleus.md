@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.044756Z'
+created: '2026-03-28T19:47:18.640190Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/subthalamic-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Subthalamic Nucleus
 type: organ
-updated: '2026-03-28T08:31:47.044756Z'
+updated: '2026-03-28T19:47:18.640190Z'
 ---
 
 {% raw %}

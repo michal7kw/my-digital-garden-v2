@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.359351Z'
+created: '2026-03-28T19:47:18.827706Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Pruritus
 type: phenotype
-updated: '2026-03-28T08:31:47.359351Z'
+updated: '2026-03-28T19:47:18.827706Z'
 ---
 
 {% raw %}
@@ -42,7 +42,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis_on_breast</
 RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis_on_hand</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">peeling_skin_syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pruritus_on_foot</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vaginal_pruritus</a></p>
 <h3>Related To Phenotype</h3>
 <p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis_on_abdomen</a><br />

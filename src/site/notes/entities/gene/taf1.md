@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.940082Z'
+created: '2026-03-28T19:47:17.717449Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: TAF1
 type: gene
-updated: '2026-03-28T08:31:45.940082Z'
+updated: '2026-03-28T19:47:17.717449Z'
 ---
 
 {% raw %}

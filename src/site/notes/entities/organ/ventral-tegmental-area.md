@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.051663Z'
+created: '2026-03-28T19:47:18.643427Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/ventral-tegmental-area/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Ventral Tegmental Area
 type: organ
-updated: '2026-03-28T08:31:47.051663Z'
+updated: '2026-03-28T19:47:18.643427Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.037643Z'
+created: '2026-03-28T19:47:16.968422Z'
 description: Predictive biomarker for lung and colorectal cancer. Measures EGFR protein
   expression (IHC) or gene mutations (PCR/NGS).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR Status
 type: biomarker
-updated: '2026-03-28T08:31:45.037643Z'
+updated: '2026-03-28T19:47:16.968422Z'
 ---
 
 {% raw %}
@@ -26,7 +26,7 @@ updated: '2026-03-28T08:31:45.037643Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Gefitinib</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/egfr/" class="internal-link">EGFR</a><br />
+RELATED::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Osimertinib</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Erlotinib</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cetuximab</a><br />

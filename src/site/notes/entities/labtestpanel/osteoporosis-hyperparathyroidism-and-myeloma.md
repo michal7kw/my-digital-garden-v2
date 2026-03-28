@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.845494Z'
+created: '2026-03-28T19:47:18.502384Z'
 description: Assess bone health and screen for conditions like osteoporosis, hyperparathyroidism,
   and multiple myeloma. These advanced markers measure ionized calcium levels, proteins
   involved in bone turnover, and signs of abnormal immune activity, which may indicate
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: osteoporosis_hyperparathyroidism_and_myeloma
 type: labtestpanel
-updated: '2026-03-28T08:31:46.845494Z'
+updated: '2026-03-28T19:47:18.502384Z'
 ---
 
 {% raw %}

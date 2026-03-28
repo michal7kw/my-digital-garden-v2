@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.262546Z'
+created: '2026-03-28T19:47:17.108080Z'
 description: A measurement of the total amount of albumin and globulin in the serum,
   reflecting nutritional status and organ function.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Total Protein
 type: biomarker
-updated: '2026-03-28T08:31:45.262546Z'
+updated: '2026-03-28T19:47:17.108080Z'
 ---
 
 {% raw %}
@@ -25,8 +25,8 @@ updated: '2026-03-28T08:31:45.262546Z'
 <h2>Relationships</h2>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
 </ul>
 
 {% endraw %}

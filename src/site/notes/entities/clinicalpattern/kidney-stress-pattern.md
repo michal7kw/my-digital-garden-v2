@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.322353Z'
+created: '2026-03-28T19:47:17.177305Z'
 description: Impaired kidney function indicated by elevated creatinine, BUN, and reduced
   eGFR. Early detection enables intervention to slow progression.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stress Pattern
 type: clinicalpattern
-updated: '2026-03-28T08:31:45.322353Z'
+updated: '2026-03-28T19:47:17.177305Z'
 ---
 
 {% raw %}
@@ -25,20 +25,20 @@ updated: '2026-03-28T08:31:45.322353Z'
 <p>Impaired kidney function indicated by elevated creatinine, BUN, and reduced eGFR. Early detection enables intervention to slow progression.</p>
 <h2>Relationships</h2>
 <h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/egfr/" class="internal-link">eGFR</a><br />
+<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/biomarker/egfr/" class="internal-link">eGFR</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">BUN</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic_Acid</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a></p>
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
 INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
-INCREASES_RISK_FOR::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+INCREASES_RISK_FOR::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 
 {% endraw %}

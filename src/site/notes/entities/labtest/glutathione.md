@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.276884Z'
+created: '2026-03-28T19:47:18.044240Z'
 description: Glutathione test measures the body's master antioxidant in blood. Glutathione
   (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification,
   immune function, and protection against oxidative damage. Both total glutathione
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: glutathione
 type: labtest
-updated: '2026-03-28T08:31:46.276884Z'
+updated: '2026-03-28T19:47:18.044240Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-03-28T08:31:46.276884Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">glutathione</a></li>
+<li><a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -77,11 +77,11 @@ updated: '2026-03-28T08:31:46.276884Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/nutreval-fmv/" class="internal-link">nutreval_fmv</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/organic-acids-test/" class="internal-link">organic_acids_test</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/nutreval-fmv/" class="internal-link">nutreval_fmv</a><br />
+RELATED_TESTS::<a href="/entities/labtest/organic-acids-test/" class="internal-link">organic_acids_test</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

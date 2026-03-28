@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.509781Z'
+created: '2026-03-28T19:47:18.943727Z'
 description: Nuclear factor erythroid 2-related factor 2, the master regulator of
   antioxidant and cytoprotective gene expression. Normally sequestered in cytoplasm
   by Keap1, oxidative stress or electrophiles release NRF2 to activate the ARE (antioxidant
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: NRF2
 type: protein
-updated: '2026-03-28T08:31:47.509781Z'
+updated: '2026-03-28T19:47:18.943727Z'
 ---
 
 {% raw %}
@@ -27,13 +27,13 @@ updated: '2026-03-28T08:31:47.509781Z'
 <p>Nuclear factor erythroid 2-related factor 2, the master regulator of antioxidant and cytoprotective gene expression. Normally sequestered in cytoplasm by Keap1, oxidative stress or electrophiles release NRF2 to activate the ARE (antioxidant response element) pathway.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+<p>RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+RELATED::<a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">EGCG</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a></p>
+RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 
 {% endraw %}

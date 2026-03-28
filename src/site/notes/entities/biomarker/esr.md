@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.049091Z'
+created: '2026-03-28T19:47:16.973200Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/esr/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Esr
 type: biomarker
-updated: '2026-03-28T08:31:45.049091Z'
+updated: '2026-03-28T19:47:16.973200Z'
 ---
 
 {% raw %}
@@ -17,6 +17,6 @@ updated: '2026-03-28T08:31:45.049091Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/immune-system/" class="internal-link">Immune_System</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune_System</a></p>
 
 {% endraw %}

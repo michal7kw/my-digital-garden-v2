@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.638640Z'
+created: '2026-03-28T19:47:19.009916Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-03-28T08:31:47.638640Z'
+updated: '2026-03-28T19:47:19.009916Z'
 ---
 
 {% raw %}
@@ -32,10 +32,10 @@ updated: '2026-03-28T08:31:47.638640Z'
 <p>300-600mg daily for cognitive; 600-1200mg for athletic</p>
 <h2>Relationships</h2>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a></p>
 
 {% endraw %}

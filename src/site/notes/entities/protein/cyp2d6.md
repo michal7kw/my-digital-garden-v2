@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.456309Z'
+created: '2026-03-28T19:47:18.902157Z'
 description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme responsible
   for the metabolism of approximately 25% of clinically used drugs including SSRIs,
   beta-blockers, opioids, and antipsychotics. Genetic polymorphisms create poor, intermediate,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: protein
-updated: '2026-03-28T08:31:47.456309Z'
+updated: '2026-03-28T19:47:18.902157Z'
 ---
 
 {% raw %}
@@ -74,13 +74,13 @@ updated: '2026-03-28T08:31:47.456309Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
+<p>RELATED::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Metabolizes</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/sertraline/" class="internal-link">Sertraline</a></p>
+<p>RELATED::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
+RELATED::<a href="/entities/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
+RELATED::<a href="/entities/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
+RELATED::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a></p>
 <h2>References</h2>
 <ul>
 <li>Gaedigk A et al. The Pharmacogene Variation Consortium: CYP2D6. Clin Pharmacol Ther. 2018;103(3):399-401. PMID:29134625</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.746711Z'
+created: '2026-03-28T19:47:18.431742Z'
 description: Complete DNA sequencing at 30x coverage. Most comprehensive genetic test
   available.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: whole_genome_sequencing
 type: labtest
-updated: '2026-03-28T08:31:46.746711Z'
+updated: '2026-03-28T19:47:18.431742Z'
 ---
 
 {% raw %}

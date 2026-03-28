@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.424735Z'
+created: '2026-03-28T19:47:18.206494Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin (m-c-h) Tested twice a year Mean
   corpuscular hemoglobin (MCH) measures the average amount of hemoglobin, the oxygen-carrying
   protein, in each red blood cell. Low MCH often points to iron deficiency anemia,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: mean_corpuscular_hemoglobin_mch
 type: labtest
-updated: '2026-03-28T08:31:46.424735Z'
+updated: '2026-03-28T19:47:18.206494Z'
 ---
 
 {% raw %}
@@ -61,13 +61,13 @@ updated: '2026-03-28T08:31:46.424735Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+<p>RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Or_Folate_Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

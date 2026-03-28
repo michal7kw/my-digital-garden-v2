@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.731784Z'
+created: '2026-03-28T19:47:18.419458Z'
 description: Primary vitamin D status marker. Important for bone health, immune function,
   and overall wellness.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d_25oh
 type: labtest
-updated: '2026-03-28T08:31:46.731784Z'
+updated: '2026-03-28T19:47:18.419458Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-03-28T08:31:46.731784Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">vitamin_d</a></li>
+<li><a href="/entities/labtest/vitamin-d/" class="internal-link">vitamin_d</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +64,7 @@ updated: '2026-03-28T08:31:46.731784Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">vitamin_d</a></p>
+<p>RELATED::<a href="/entities/labtest/vitamin-d/" class="internal-link">vitamin_d</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

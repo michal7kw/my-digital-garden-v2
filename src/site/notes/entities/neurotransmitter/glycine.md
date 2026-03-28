@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.946369Z'
+created: '2026-03-28T19:47:18.577209Z'
 description: Simplest amino acid that serves as a major inhibitory neurotransmitter
   in the brainstem and spinal cord. Also acts as a co-agonist at NMDA glutamate receptors
   (excitatory role). Dual inhibitory/excitatory function depending on receptor type.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Glycine
 type: neurotransmitter
-updated: '2026-03-28T08:31:46.946369Z'
+updated: '2026-03-28T19:47:18.577209Z'
 ---
 
 {% raw %}
@@ -38,9 +38,9 @@ updated: '2026-03-28T08:31:46.946369Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
+RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 
 {% endraw %}

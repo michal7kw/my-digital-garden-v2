@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.562672Z'
+created: '2026-03-28T19:47:18.315379Z'
 description: Prothrombin Time (PT) with International Normalized Ratio (INR) test.
   Evaluates the extrinsic and common coagulation pathways (Factors I, II, V, VII,
   X). Essential for monitoring warfarin therapy and assessing liver synthetic function.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: prothrombin_time_pt_inr
 type: labtest
-updated: '2026-03-28T08:31:46.562672Z'
+updated: '2026-03-28T19:47:18.315379Z'
 ---
 
 {% raw %}
@@ -66,9 +66,9 @@ updated: '2026-03-28T08:31:46.562672Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/coagulation-panel/" class="internal-link">coagulation_panel</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/coagulation-panel/" class="internal-link">coagulation_panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h3>Measures</h3>
 <p>MEASURES::<a class="internal-link is-unresolved" href="/404">Prothrombin_Time</a></p>
 <h2>Notes</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.428436Z'
+created: '2026-03-28T19:47:18.210077Z'
 description: Tested twice a year Mean corpuscular volume (MCV) looks at the average
   size of red blood cells, the cells that carry oxygen throughout the body. Smaller-than-normal
   cells (low MCV) are often linked to iron deficiency anemia or thalassemia, while
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: mean_corpuscular_volume_mcv
 type: labtest
-updated: '2026-03-28T08:31:46.428436Z'
+updated: '2026-03-28T19:47:18.210077Z'
 ---
 
 {% raw %}
@@ -68,9 +68,9 @@ updated: '2026-03-28T08:31:46.428436Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

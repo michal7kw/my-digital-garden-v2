@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.974405Z'
+created: '2026-03-28T19:47:16.931299Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/bilirubin-total/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Total
 type: biomarker
-updated: '2026-03-28T08:31:44.974405Z'
+updated: '2026-03-28T19:47:16.931299Z'
 ---
 
 {% raw %}
@@ -17,6 +17,6 @@ updated: '2026-03-28T08:31:44.974405Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 
 {% endraw %}

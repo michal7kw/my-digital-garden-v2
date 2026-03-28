@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.965651Z'
+created: '2026-03-28T19:47:17.741859Z'
 description: Improve sleep onset, duration, and quality. Magnesium glycinate promotes
   relaxation through GABA enhancement, L-theanine induces alpha brain waves, glycine
   lowers core body temperature to facilitate sleep, and vitamin D deficiency is associated
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Quality
 type: healthstack
-updated: '2026-03-28T08:31:45.965651Z'
+updated: '2026-03-28T19:47:17.741859Z'
 ---
 
 {% raw %}
@@ -43,14 +43,14 @@ updated: '2026-03-28T08:31:45.965651Z'
 <td>Enhances GABA activity for relaxation and sleep onset</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a></td>
+<td><a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a></td>
 <td>200mg</td>
 <td>once daily</td>
 <td>before bed</td>
 <td>Promotes alpha brain waves associated with calm wakefulness</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/glycine/" class="internal-link">Glycine</a></td>
+<td><a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></td>
 <td>3000mg</td>
 <td>once daily</td>
 <td>before bed</td>
@@ -78,14 +78,14 @@ updated: '2026-03-28T08:31:45.965651Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/magnesium-rbc/" class="internal-link">Magnesium RBC</a></td>
+<td><a href="/entities/labtest/magnesium-rbc/" class="internal-link">Magnesium RBC</a></td>
 <td>4.2-6.8</td>
 <td>5.0-6.5</td>
 <td>mg/dL</td>
 <td>Red blood cell magnesium reflects tissue stores better than serum</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>

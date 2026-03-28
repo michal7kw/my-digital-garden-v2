@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.890715Z'
+created: '2026-03-28T19:47:17.680182Z'
 description: A long-acting, repository form of Penicillin G administered by deep intramuscular
   injection, providing therapeutic levels for weeks.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G Benzathine
 type: drug
-updated: '2026-03-28T08:31:45.890715Z'
+updated: '2026-03-28T19:47:17.680182Z'
 ---
 
 {% raw %}

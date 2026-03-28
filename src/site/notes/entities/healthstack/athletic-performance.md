@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.945986Z'
+created: '2026-03-28T19:47:17.723002Z'
 description: Optimize exercise performance, recovery, and adaptation. Creatine is
   the most studied ergogenic supplement, beta-alanine buffers muscle acidosis, citrulline
   enhances blood flow, electrolytes prevent exercise-induced depletion, and magnesium
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Athletic Performance
 type: healthstack
-updated: '2026-03-28T08:31:45.945986Z'
+updated: '2026-03-28T19:47:17.723002Z'
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ updated: '2026-03-28T08:31:45.945986Z'
 <td>Increases phosphocreatine stores for high-intensity efforts</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></td>
+<td><a href="/entities/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></td>
 <td>3.2g</td>
 <td>once daily</td>
 <td>morning</td>
@@ -85,7 +85,7 @@ updated: '2026-03-28T08:31:45.945986Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>30-300</td>
 <td>50-150</td>
 <td>ng/mL</td>
@@ -106,7 +106,7 @@ updated: '2026-03-28T08:31:45.945986Z'
 <td>Anabolic hormone — low levels impair recovery and adaptation</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>

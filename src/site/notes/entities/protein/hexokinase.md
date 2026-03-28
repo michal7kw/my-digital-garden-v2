@@ -2,7 +2,7 @@
 aliases:
 - HK
 - Hexokinase I-IV
-created: '2026-03-28T08:31:47.495216Z'
+created: '2026-03-28T19:47:18.933595Z'
 description: First enzyme of glycolysis, phosphorylates glucose to glucose-6-phosphate
   using ATP. Four isoforms (I-IV) with tissue-specific expression. Hexokinase I and
   II associate with the outer mitochondrial membrane via VDAC, coupling glycolysis
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Hexokinase
 type: protein
-updated: '2026-03-28T08:31:47.495216Z'
+updated: '2026-03-28T19:47:18.933595Z'
 ---
 
 {% raw %}
@@ -27,6 +27,6 @@ updated: '2026-03-28T08:31:47.495216Z'
 <p>First enzyme of glycolysis, phosphorylates glucose to glucose-6-phosphate using ATP. Four isoforms (I-IV) with tissue-specific expression. Hexokinase I and II associate with the outer mitochondrial membrane via VDAC, coupling glycolysis to mitochondrial ATP production.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></p>
+<p>RELATED::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a></p>
 
 {% endraw %}

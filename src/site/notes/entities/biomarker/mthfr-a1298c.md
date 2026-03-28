@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.185342Z'
+created: '2026-03-28T19:47:17.045716Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mthfr-a1298c/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-03-28T08:31:45.185342Z'
+updated: '2026-03-28T19:47:17.045716Z'
 ---
 
 {% raw %}
@@ -18,7 +18,7 @@ updated: '2026-03-28T08:31:45.185342Z'
 <h2>Relationships</h2>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/mthfr-genotype/" class="internal-link">mthfr_genotype</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr_genotype</a> (labtest)</li>
 </ul>
 
 {% endraw %}

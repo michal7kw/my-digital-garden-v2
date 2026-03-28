@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.559706Z'
+created: '2026-03-28T19:47:18.312026Z'
 description: Tested twice a year Protein is normally filtered and reabsorbed by the
   kidneys, so healthy urine contains little to no detectable protein. When protein
   appears in higher amounts, a condition known as proteinuria, it can be a sign of
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: protein_urine
 type: labtest
-updated: '2026-03-28T08:31:46.559706Z'
+updated: '2026-03-28T19:47:18.312026Z'
 ---
 
 {% raw %}
@@ -65,11 +65,11 @@ updated: '2026-03-28T08:31:46.559706Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">High_Blood_Pressure_Hypertension</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

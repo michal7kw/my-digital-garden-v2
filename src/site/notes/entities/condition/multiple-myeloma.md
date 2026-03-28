@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.602299Z'
+created: '2026-03-28T19:47:17.449511Z'
 description: A type of blood cancer that develops in the plasma cells of the bone
   marrow, leading to bone damage, kidney failure, and immune suppression.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Multiple Myeloma
 type: condition
-updated: '2026-03-28T08:31:45.602299Z'
+updated: '2026-03-28T19:47:17.449511Z'
 ---
 
 {% raw %}
@@ -24,14 +24,14 @@ updated: '2026-03-28T08:31:45.602299Z'
 <p>A type of blood cancer that develops in the plasma cells of the bone marrow, leading to bone damage, kidney failure, and immune suppression.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
 
 {% endraw %}

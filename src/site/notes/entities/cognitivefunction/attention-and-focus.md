@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.336949Z'
+created: '2026-03-28T19:47:17.197738Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/cognitivefunction/attention-and-focus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Attention and Focus
 type: cognitivefunction
-updated: '2026-03-28T08:31:45.336949Z'
+updated: '2026-03-28T19:47:17.197738Z'
 ---
 
 {% raw %}

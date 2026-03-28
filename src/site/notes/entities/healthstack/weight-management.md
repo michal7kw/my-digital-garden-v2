@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.967990Z'
+created: '2026-03-28T19:47:17.745662Z'
 description: Support healthy metabolism and weight management. Green tea EGCG enhances
   thermogenesis and fat oxidation, chromium improves insulin sensitivity, omega-3
   reduces metabolic inflammation, and psyllium fiber promotes satiety and healthy
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Management
 type: healthstack
-updated: '2026-03-28T08:31:45.967990Z'
+updated: '2026-03-28T19:47:17.745662Z'
 ---
 
 {% raw %}
@@ -78,28 +78,28 @@ updated: '2026-03-28T08:31:45.967990Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></td>
+<td><a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></td>
 <td>70-100</td>
 <td>75-90</td>
 <td>mg/dL</td>
 <td>Primary marker of glucose regulation</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a></td>
+<td><a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></td>
 <td>4.0-5.7</td>
 <td>4.5-5.2</td>
 <td>%</td>
 <td>3-month average blood sugar — gold standard metabolic marker</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a></td>
+<td><a href="/entities/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a></td>
 <td>2-25</td>
 <td>3-8</td>
 <td>uIU/mL</td>
 <td>Early insulin resistance indicator</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
+<td><a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
 <td>0-150</td>
 <td>0-100</td>
 <td>mg/dL</td>

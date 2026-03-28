@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.256428Z'
+created: '2026-03-28T19:47:17.103593Z'
 description: Primary male sex hormone and anabolic steroid essential for development
   of male reproductive tissues, muscle mass, bone density, body hair, and overall
   vitality. Also important in females at lower levels.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone
 type: biomarker
-updated: '2026-03-28T08:31:45.256428Z'
+updated: '2026-03-28T19:47:17.103593Z'
 ---
 
 {% raw %}
@@ -22,13 +22,13 @@ updated: '2026-03-28T08:31:45.256428Z'
 <p>Primary male sex hormone and anabolic steroid essential for development of male reproductive tissues, muscle mass, bone density, body hair, and overall vitality. Also important in females at lower levels.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ar/" class="internal-link">AR</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ar/" class="internal-link">AR</a></p>
+<p>RELATED::<a href="/entities/gene/ar/" class="internal-link">AR</a><br />
+RELATED::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/entities/gene/ar/" class="internal-link">AR</a></p>
 
 {% endraw %}

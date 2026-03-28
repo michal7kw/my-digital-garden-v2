@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.004820Z'
+created: '2026-03-28T19:47:17.786345Z'
 description: Practice of direct physical contact with the Earth's surface (barefoot
   walking, lying on ground) or using conductive systems connected to ground. Proposed
   mechanism involves transfer of free electrons from Earth's surface, reducing inflammation
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Grounding
 type: intervention
-updated: '2026-03-28T08:31:46.004820Z'
+updated: '2026-03-28T19:47:17.786345Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-03-28T08:31:46.004820Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

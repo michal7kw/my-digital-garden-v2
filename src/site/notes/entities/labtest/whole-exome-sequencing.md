@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.744748Z'
+created: '2026-03-28T19:47:18.429740Z'
 description: Sequences protein-coding regions of DNA. Cost-effective alternative to
   WGS for medical variants.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: whole_exome_sequencing
 type: labtest
-updated: '2026-03-28T08:31:46.744748Z'
+updated: '2026-03-28T19:47:18.429740Z'
 ---
 
 {% raw %}

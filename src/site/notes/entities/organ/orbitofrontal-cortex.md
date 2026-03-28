@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.016195Z'
+created: '2026-03-28T19:47:18.629247Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/orbitofrontal-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Orbitofrontal Cortex
 type: organ
-updated: '2026-03-28T08:31:47.016195Z'
+updated: '2026-03-28T19:47:18.629247Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.691189Z'
+created: '2026-03-28T19:47:19.043337Z'
 description: Cold-pressed oil from Nigella sativa seeds, used in traditional medicine
   for over 2,000 years. Primary bioactive compound thymoquinone (TQ) has demonstrated
   anti-inflammatory, antioxidant, immunomodulatory, and hepatoprotective properties.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Black Seed Oil
 type: supplement
-updated: '2026-03-28T08:31:47.691189Z'
+updated: '2026-03-28T19:47:19.043337Z'
 ---
 
 {% raw %}
@@ -33,16 +33,16 @@ updated: '2026-03-28T08:31:47.691189Z'
 <p>1-3g oil daily or 200-600mg thymoquinone-standardized extract</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/histamine/" class="internal-link">Histamine</a></p>
+<p>RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+RELATED::<a href="/entities/neurotransmitter/histamine/" class="internal-link">Histamine</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nafld/" class="internal-link">NAFLD</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/allergy/" class="internal-link">Allergy</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a></p>
 
 {% endraw %}

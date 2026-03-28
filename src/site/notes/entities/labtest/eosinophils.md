@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.218256Z'
+created: '2026-03-28T19:47:17.984178Z'
 description: Tested twice a year Eosinophils are a type of white blood cell that defend
   against parasitic worms or helminths, regulate immune responses, and contribute
   to allergic and inflammatory conditions. They release enzymes and inflammatory molecules
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: eosinophils
 type: labtest
-updated: '2026-03-28T08:31:46.218256Z'
+updated: '2026-03-28T19:47:17.984178Z'
 ---
 
 {% raw %}
@@ -65,20 +65,20 @@ updated: '2026-03-28T08:31:46.218256Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Parasitic_Infection</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Allergic_Reactions_EG_Asthma_Eczema_Hay_Fever</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
+RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

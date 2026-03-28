@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.632413Z'
+created: '2026-03-28T19:47:18.355035Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroglobulin_antibodies_tgab
 type: labtest
-updated: '2026-03-28T08:31:46.632413Z'
+updated: '2026-03-28T19:47:18.355035Z'
 ---
 
 {% raw %}
@@ -63,16 +63,16 @@ updated: '2026-03-28T08:31:46.632413Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Papillary_Thyroid_Cancer</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
+RELATED::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.525313Z'
+created: '2026-03-28T19:47:18.288416Z'
 description: Oxidized LDL (ox-LDL) test measures LDL cholesterol particles that have
   been modified by oxidation. Oxidized LDL is a key driver of atherosclerosis, promoting
   foam cell formation, endothelial dysfunction, and plaque instability. More specific
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: oxidized_ldl
 type: labtest
-updated: '2026-03-28T08:31:46.525313Z'
+updated: '2026-03-28T19:47:18.288416Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-03-28T08:31:46.525313Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">oxidized_ldl</a></li>
+<li><a href="/entities/labtest/oxidized-ldl/" class="internal-link">oxidized_ldl</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -77,11 +77,11 @@ updated: '2026-03-28T08:31:46.525313Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-small/" class="internal-link">ldl_small</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a><br />
+RELATED_TESTS::<a href="/entities/labtest/ldl-small/" class="internal-link">ldl_small</a><br />
+RELATED_TESTS::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a></p>
+<p>MEASURES::<a href="/entities/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

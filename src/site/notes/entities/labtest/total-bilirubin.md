@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.670098Z'
+created: '2026-03-28T19:47:18.377353Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-03-28T08:31:46.670098Z'
+updated: '2026-03-28T19:47:18.377353Z'
 ---
 
 {% raw %}
@@ -62,7 +62,7 @@ updated: '2026-03-28T08:31:46.670098Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a><br />
+<p>RELATED::<a href="/entities/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a><br />

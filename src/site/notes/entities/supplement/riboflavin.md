@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.825038Z'
+created: '2026-03-28T19:47:19.161330Z'
 description: Essential B-vitamin (B2) that serves as a precursor to FAD and FMN, critical
   cofactors for Complex I and Complex II of the mitochondrial electron transport chain
   and numerous oxidoreductase enzymes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Riboflavin
 type: supplement
-updated: '2026-03-28T08:31:47.825038Z'
+updated: '2026-03-28T19:47:19.161330Z'
 ---
 
 {% raw %}
@@ -57,27 +57,27 @@ updated: '2026-03-28T08:31:47.825038Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/fadh2/" class="internal-link">FADH2</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/complex-i/" class="internal-link">Complex I</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/complex-ii/" class="internal-link">Complex II</a><br />
+<p>RELATED::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
+RELATED::<a href="/entities/metabolite/fadh2/" class="internal-link">FADH2</a><br />
+RELATED::<a href="/entities/protein/complex-i/" class="internal-link">Complex I</a><br />
+RELATED::<a href="/entities/protein/complex-ii/" class="internal-link">Complex II</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+SYNERGISTIC_WITH::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/thiamine/" class="internal-link">Thiamine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
+<p>RELATED::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+RELATED::<a href="/entities/supplement/thiamine/" class="internal-link">Thiamine</a><br />
+RELATED::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>Powers HJ. Riboflavin (vitamin B-2) and health. Am J Clin Nutr. 2003;77(6):1352-1360. PMID:12791609</li>

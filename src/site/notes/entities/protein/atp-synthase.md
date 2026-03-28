@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.417064Z'
+created: '2026-03-28T19:47:18.878307Z'
 description: The molecular turbine that synthesizes ATP from ADP and phosphate using
   the proton gradient across the inner mitochondrial membrane. Also known as Complex
   V of the electron transport chain, it is one of nature's most remarkable molecular
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: ATP Synthase
 type: protein
-updated: '2026-03-28T08:31:47.417064Z'
+updated: '2026-03-28T19:47:18.878307Z'
 ---
 
 {% raw %}
@@ -27,11 +27,11 @@ updated: '2026-03-28T08:31:47.417064Z'
 <p>The molecular turbine that synthesizes ATP from ADP and phosphate using the proton gradient across the inner mitochondrial membrane. Also known as Complex V of the electron transport chain, it is one of nature's most remarkable molecular machines.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a><br />
+<p>RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a></p>
+RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a></p>
 
 {% endraw %}

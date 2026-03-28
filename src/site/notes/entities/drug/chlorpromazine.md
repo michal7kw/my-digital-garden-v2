@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.823321Z'
+created: '2026-03-28T19:47:17.628216Z'
 description: First-generation typical antipsychotic used for schizophrenia, manic
   episodes, and nausea. Acts primarily as a dopamine D2 receptor antagonist.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chlorpromazine
 type: drug
-updated: '2026-03-28T08:31:45.823321Z'
+updated: '2026-03-28T19:47:17.628216Z'
 ---
 
 {% raw %}
@@ -36,9 +36,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Peginterferon_beta-1
 RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine_D2_Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Salmon_calcitonin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bipolar_Disorder</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/amlodipine/" class="internal-link">Amlodipine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/nausea/" class="internal-link">Nausea</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/entities/drug/amlodipine/" class="internal-link">Amlodipine</a><br />
+RELATED::<a href="/entities/phenotype/nausea/" class="internal-link">Nausea</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hiccups</a></p>
 
 {% endraw %}

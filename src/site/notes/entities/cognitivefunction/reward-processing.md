@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.340567Z'
+created: '2026-03-28T19:47:17.200624Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/cognitivefunction/reward-processing/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Reward Processing
 type: cognitivefunction
-updated: '2026-03-28T08:31:45.340567Z'
+updated: '2026-03-28T19:47:17.200624Z'
 ---
 
 {% raw %}

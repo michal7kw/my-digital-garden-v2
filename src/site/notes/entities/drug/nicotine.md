@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.877341Z'
+created: '2026-03-28T19:47:17.670325Z'
 description: Naturally occurring alkaloid and potent nicotinic acetylcholine receptor
   (nAChR) agonist. Beyond its well-known role in tobacco, pure nicotine at low doses
   (1-2 mg) is studied for cognitive enhancement, neuroprotection, and attentional
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotine
 type: drug
-updated: '2026-03-28T08:31:45.877341Z'
+updated: '2026-03-28T19:47:17.670325Z'
 ---
 
 {% raw %}
@@ -100,47 +100,47 @@ updated: '2026-03-28T08:31:45.877341Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/organ/nucleus-accumbens/" class="internal-link">Nucleus Accumbens</a><br />
-AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
-AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/organ/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a><br />
-AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a></p>
+<p>AFFECTS_BRAIN_REGION::<a href="/entities/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a href="/entities/organ/nucleus-accumbens/" class="internal-link">Nucleus Accumbens</a><br />
+AFFECTS_BRAIN_REGION::<a href="/entities/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a href="/entities/organ/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a><br />
+AFFECTS_BRAIN_REGION::<a href="/entities/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/mesolimbic-dopamine-pathway/" class="internal-link">Mesolimbic Dopamine Pathway</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/mesocortical-dopamine-pathway/" class="internal-link">Mesocortical Dopamine Pathway</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/mesolimbic-dopamine-pathway/" class="internal-link">Mesolimbic Dopamine Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/mesocortical-dopamine-pathway/" class="internal-link">Mesocortical Dopamine Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Affects</h3>
-<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-AFFECTS::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+AFFECTS::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
 <h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/mitophagy/" class="internal-link">Mitophagy</a><br />
-MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
+<p>MODULATES_PATHWAY::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a><br />
+MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Modulates</h3>
-<p>MODULATES::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a></p>
+<p>MODULATES::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
+<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20414766 - Nicotine cognitive enhancement meta-analysis (41 studies)</li>

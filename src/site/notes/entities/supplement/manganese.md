@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.762518Z'
+created: '2026-03-28T19:47:19.102855Z'
 description: Essential trace mineral that serves as a cofactor for manganese superoxide
   dismutase (MnSOD), the primary antioxidant enzyme within the mitochondrial matrix,
   and several TCA cycle-related enzymes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Manganese
 type: supplement
-updated: '2026-03-28T08:31:47.762518Z'
+updated: '2026-03-28T19:47:19.102855Z'
 ---
 
 {% raw %}
@@ -55,17 +55,17 @@ updated: '2026-03-28T08:31:47.762518Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
+RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a></p>
 <h2>References</h2>
 <ul>
 <li>Aschner JL, Aschner M. Nutritional aspects of manganese homeostasis. Mol Aspects Med. 2005;26(4-5):353-362. PMID:16099026</li>

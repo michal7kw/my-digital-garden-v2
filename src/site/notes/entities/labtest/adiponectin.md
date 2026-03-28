@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.052671Z'
+created: '2026-03-28T19:47:17.835561Z'
 description: Adiponectin test measures this anti-inflammatory adipokine hormone produced
   by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular
   risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: adiponectin
 type: labtest
-updated: '2026-03-28T08:31:46.052671Z'
+updated: '2026-03-28T19:47:17.835561Z'
 ---
 
 {% raw %}
@@ -65,7 +65,7 @@ updated: '2026-03-28T08:31:46.052671Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/adiponectin/" class="internal-link">adiponectin</a></li>
+<li><a href="/entities/labtest/adiponectin/" class="internal-link">adiponectin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -76,9 +76,9 @@ updated: '2026-03-28T08:31:46.052671Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa_ir</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED_TESTS::<a href="/entities/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a><br />
+RELATED_TESTS::<a href="/entities/labtest/homa-ir/" class="internal-link">homa_ir</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

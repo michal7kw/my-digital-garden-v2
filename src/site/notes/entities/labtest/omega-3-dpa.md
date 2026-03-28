@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.492462Z'
+created: '2026-03-28T19:47:18.264113Z'
 description: 'oh-MAY-guh three: D-P-A Docosapentaenoic acid (DPA) is an omega-3 fatty
   acid that the body produces as it converts EPA into DHA—two other important omega-3s
   that support heart, brain, and immune health. Because DPA can shift between these
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: omega_3_dpa
 type: labtest
-updated: '2026-03-28T08:31:46.492462Z'
+updated: '2026-03-28T19:47:18.264113Z'
 ---
 
 {% raw %}
@@ -63,11 +63,11 @@ updated: '2026-03-28T08:31:46.492462Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+<p>RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

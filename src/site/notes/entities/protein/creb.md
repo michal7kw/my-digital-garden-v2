@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.429400Z'
+created: '2026-03-28T19:47:18.885679Z'
 description: cAMP response element-binding protein, a master transcription factor
   for long-term memory formation and neuronal survival. Activated by phosphorylation
   at Ser133 via PKA, CaMKIV, and MAPK/RSK cascades in response to synaptic activity,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: CREB
 type: protein
-updated: '2026-03-28T08:31:47.429400Z'
+updated: '2026-03-28T19:47:18.885679Z'
 ---
 
 {% raw %}
@@ -82,23 +82,23 @@ updated: '2026-03-28T08:31:47.429400Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Activated By</h3>
-<p>ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
-ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
+<p>ACTIVATED_BY::<a href="/entities/supplement/pqq/" class="internal-link">PQQ</a><br />
+ACTIVATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Regulates</h3>
-<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<p>REGULATES::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/crebbp/" class="internal-link">CREBBP</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nerve-growth-factor/" class="internal-link">Nerve Growth Factor</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
+<p>RELATED::<a href="/entities/gene/crebbp/" class="internal-link">CREBBP</a><br />
+RELATED::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+RELATED::<a href="/entities/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
+RELATED::<a href="/entities/protein/nerve-growth-factor/" class="internal-link">Nerve Growth Factor</a><br />
+RELATED::<a href="/entities/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:16093365 - CREB and memory formation (molecular switch)</li>

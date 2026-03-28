@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.232811Z'
+created: '2026-03-28T19:47:17.998486Z'
 description: Measures insulin levels after fasting. Key marker for insulin resistance
   and metabolic health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: fasting_insulin
 type: labtest
-updated: '2026-03-28T08:31:46.232811Z'
+updated: '2026-03-28T19:47:17.998486Z'
 ---
 
 {% raw %}
@@ -60,7 +60,7 @@ updated: '2026-03-28T08:31:46.232811Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
+<li><a href="/entities/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -71,8 +71,8 @@ updated: '2026-03-28T08:31:46.232811Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a></p>
+<p>RELATED::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a><br />
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

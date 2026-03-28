@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.263231Z'
+created: '2026-03-28T19:47:18.750812Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Dyspnea
 type: phenotype
-updated: '2026-03-28T08:31:47.263231Z'
+updated: '2026-03-28T19:47:18.750812Z'
 ---
 
 {% raw %}
@@ -35,7 +35,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">thrombocytopenic_pur
 RELATED::<a class="internal-link is-unresolved" href="/404">myelomonocytic_leukemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">multiple_pterygium-malignant_hyperthermia_syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Erdheim-Chester_disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/respiratory-distress/" class="internal-link">Respiratory_distress</a><br />
+RELATED::<a href="/entities/phenotype/respiratory-distress/" class="internal-link">Respiratory_distress</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">liver_neuroendocrine_carcinoma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alpha-thalassemia-myelodysplastic_syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">homozygous_familial_hypercholesterolemia</a><br />
@@ -43,12 +43,12 @@ RELATED::<a class="internal-link is-unresolved" href="/404">relapsing_polychondr
 RELATED::<a class="internal-link is-unresolved" href="/404">Exertional_dyspnea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">scrub_typhus</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">pediatric_systemic_lupus_erythematosus</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/severe-acute-respiratory-syndrome/" class="internal-link">severe_acute_respiratory_syndrome</a><br />
+RELATED::<a href="/entities/condition/severe-acute-respiratory-syndrome/" class="internal-link">severe_acute_respiratory_syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Paroxysmal_dyspnea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">acute_interstitial_pneumonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">chromosome_17q231-q232_deletion_syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">yellow_nail_syndrome</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">myasthenia_gravis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">pulmonary_non-tuberculous_mycobacterial_infection</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">peripartum_cardiomyopathy</a><br />
@@ -60,7 +60,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">kaposiform_lymphangi
 RELATED::<a class="internal-link is-unresolved" href="/404">malignant_mesothelioma_disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">maternally-inherited_Leigh_syndrome</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/phenotype/respiratory-distress/" class="internal-link">Respiratory_distress</a><br />
+<p>RELATED_TO_PHENOTYPE::<a href="/entities/phenotype/respiratory-distress/" class="internal-link">Respiratory_distress</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Rest_dyspnea</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Paroxysmal_dyspnea</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Exertional_dyspnea</a><br />

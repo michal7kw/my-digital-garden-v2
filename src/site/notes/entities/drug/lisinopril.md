@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.854840Z'
+created: '2026-03-28T19:47:17.653749Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lisinopril
 type: drug
-updated: '2026-03-28T08:31:45.854840Z'
+updated: '2026-03-28T19:47:17.653749Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-03-28T08:31:45.854840Z'
 <p>ACE inhibitor for hypertension, heart failure, and diabetic nephropathy. Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal protection.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
+<p>RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
+<p>INTERACTS_WITH::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 
 {% endraw %}

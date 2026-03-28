@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.173878Z'
+created: '2026-03-28T19:47:18.703809Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/nigrostriatal-dopamine-pathway/
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-03-28T08:31:47.173878Z'
+updated: '2026-03-28T19:47:18.703809Z'
 ---
 
 {% raw %}
@@ -28,13 +28,13 @@ updated: '2026-03-28T08:31:47.173878Z'
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></p>
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 
 {% endraw %}

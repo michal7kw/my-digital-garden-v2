@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.306591Z'
+created: '2026-03-28T19:47:17.148874Z'
 description: Single-membrane organelle containing oxidative enzymes, primarily catalase
   and various oxidases. Specializes in very-long-chain fatty acid beta-oxidation,
   plasmalogen synthesis, and reactive oxygen species (ROS) detoxification. Plays a
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Peroxisome
 type: cellularcomponent
-updated: '2026-03-28T08:31:45.306591Z'
+updated: '2026-03-28T19:47:17.148874Z'
 ---
 
 {% raw %}
@@ -26,7 +26,7 @@ updated: '2026-03-28T08:31:45.306591Z'
 <p>Single-membrane organelle containing oxidative enzymes, primarily catalase and various oxidases. Specializes in very-long-chain fatty acid beta-oxidation, plasmalogen synthesis, and reactive oxygen species (ROS) detoxification. Plays a key role in lipid metabolism and cellular redox homeostasis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic_Reticulum</a></p>
+<p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/entities/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic_Reticulum</a></p>
 
 {% endraw %}

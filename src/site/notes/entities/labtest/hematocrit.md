@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.290601Z'
+created: '2026-03-28T19:47:18.067423Z'
 description: Tested twice a year Hematocrit measures the percentage of red blood cells
   in the blood—the cells responsible for carrying oxygen throughout the body. Low
   levels are most often linked to anemia or blood loss, while high levels may reflect
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: hematocrit
 type: labtest
-updated: '2026-03-28T08:31:46.290601Z'
+updated: '2026-03-28T19:47:18.067423Z'
 ---
 
 {% raw %}
@@ -65,19 +65,19 @@ updated: '2026-03-28T08:31:46.290601Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+<p>RELATED::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
+RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a><br />
+RELATED::<a href="/entities/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a></p>
+RELATED::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.452971Z'
+created: '2026-03-28T19:47:18.226690Z'
 description: Comprehensive panel measuring key biomarkers of mitochondrial energy
   production capacity, including CoQ10, carnitine profile, lactate/pyruvate ratio,
   and organic acid intermediates from the TCA cycle and fatty acid oxidation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Function Panel
 type: labtest
-updated: '2026-03-28T08:31:46.452971Z'
+updated: '2026-03-28T19:47:18.226690Z'
 ---
 
 {% raw %}
@@ -82,10 +82,10 @@ updated: '2026-03-28T08:31:46.452971Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/organic-acids-test/" class="internal-link">Organic Acids Test</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
+RELATED::<a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
+RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a><br />
+RELATED::<a href="/entities/labtest/organic-acids-test/" class="internal-link">Organic Acids Test</a><br />
+RELATED::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
 <h2>References</h2>
 <ul>
 <li>Parikh S et al. Diagnosis and management of mitochondrial disease: a consensus statement. Genet Med. 2015;17(9):689-701. PMID:25503498</li>

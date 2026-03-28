@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.096595Z'
+created: '2026-03-28T19:47:18.666620Z'
 description: The biosynthetic pathway that converts dietary tryptophan to NAD+ through
   a series of enzymatic reactions. Also known as the kynurenine pathway, this route
   provides a mechanism for producing NAD+ from an essential amino acid.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: De Novo NAD+ Synthesis Pathway
 type: pathway
-updated: '2026-03-28T08:31:47.096595Z'
+updated: '2026-03-28T19:47:18.666620Z'
 ---
 
 {% raw %}
@@ -26,17 +26,17 @@ updated: '2026-03-28T08:31:47.096595Z'
 <p>The biosynthetic pathway that converts dietary tryptophan to NAD+ through a series of enzymatic reactions. Also known as the kynurenine pathway, this route provides a mechanism for producing NAD+ from an essential amino acid.</p>
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/nad/" class="internal-link">NAD+</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/nad/" class="internal-link">NAD+</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 
 {% endraw %}

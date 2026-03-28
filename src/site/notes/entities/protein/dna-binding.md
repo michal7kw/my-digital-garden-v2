@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.468892Z'
+created: '2026-03-28T19:47:18.914290Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: DNA binding
 type: protein
-updated: '2026-03-28T08:31:47.468892Z'
+updated: '2026-03-28T19:47:18.914290Z'
 ---
 
 {% raw %}
@@ -22,12 +22,12 @@ updated: '2026-03-28T08:31:47.468892Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">bent_DNA_binding</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ets1/" class="internal-link">ETS1</a><br />
+RELATED::<a href="/entities/gene/ets1/" class="internal-link">ETS1</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">G-quadruplex_DNA_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">damaged_DNA_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">DNA_binding_bending</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">recombination_hotspot_binding</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/myc/" class="internal-link">MYC</a><br />
+RELATED::<a href="/entities/gene/myc/" class="internal-link">MYC</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">DNA_end_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">flap-structured_DNA_binding</a><br />

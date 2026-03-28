@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.345837Z'
+created: '2026-03-28T19:47:18.146949Z'
 description: Lactate Dehydrogenase (LDH) test. Non-specific tissue damage marker present
   in nearly all body tissues. Elevated in hemolytic anemia, liver disease, lymphoma,
   and myocardial infarction. Also a prognostic marker in oncology.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ldh
 type: labtest
-updated: '2026-03-28T08:31:46.345837Z'
+updated: '2026-03-28T19:47:18.146949Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-03-28T08:31:46.345837Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">lactate_dehydrogenase</a></li>
+<li><a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">lactate_dehydrogenase</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,10 +65,10 @@ updated: '2026-03-28T08:31:46.345837Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate_Dehydrogenase</a></p>
+<p>MEASURES::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate_Dehydrogenase</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

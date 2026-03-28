@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.013056Z'
+created: '2026-03-28T19:47:17.797208Z'
 description: Mindfulness and meditation practices that reduce cortisol, lower sympathetic
   nervous system activation, and improve stress resilience through regular practice.
   Studied for effects on inflammation, telomere length, and neuroendocrine balance.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Meditation
 type: intervention
-updated: '2026-03-28T08:31:46.013056Z'
+updated: '2026-03-28T19:47:17.797208Z'
 ---
 
 {% raw %}
@@ -55,17 +55,17 @@ updated: '2026-03-28T08:31:46.013056Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/breathwork/" class="internal-link">Breathwork</a></p>
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
+RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">DHEA-S</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 <h2>References</h2>
 <ul>
 <li>Creswell JD et al. Alterations in resting-state functional connectivity link mindfulness meditation with reduced interleukin-6. Biol Psychiatry. 2016;80(1):53-61. PMID:27021514</li>

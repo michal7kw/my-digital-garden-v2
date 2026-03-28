@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.267809Z'
+created: '2026-03-28T19:47:18.032417Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: glucose
 type: labtest
-updated: '2026-03-28T08:31:46.267809Z'
+updated: '2026-03-28T19:47:18.032417Z'
 ---
 
 {% raw %}
@@ -67,12 +67,12 @@ updated: '2026-03-28T08:31:46.267809Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia__Hypoglycemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatic_Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

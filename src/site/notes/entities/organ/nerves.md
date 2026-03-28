@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.012221Z'
+created: '2026-03-28T19:47:18.627579Z'
 description: Peripheral nervous system including sensory and motor neurons. Transmit
   signals between the central nervous system and the rest of the body.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Nerves
 type: organ
-updated: '2026-03-28T08:31:47.012221Z'
+updated: '2026-03-28T19:47:18.627579Z'
 ---
 
 {% raw %}
@@ -20,7 +20,7 @@ updated: '2026-03-28T08:31:47.012221Z'
 <p>Peripheral nervous system including sensory and motor neurons. Transmit signals between the central nervous system and the rest of the body.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a></p>
+<p>RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
+RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a></p>
 
 {% endraw %}

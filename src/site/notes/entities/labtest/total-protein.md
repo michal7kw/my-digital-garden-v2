@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.683319Z'
+created: '2026-03-28T19:47:18.385114Z'
 description: Tested twice a year Total protein measures the combined levels of albumin
   and globulin in the blood. Maintaining adequate protein levels is important for
   overall health, as proteins support tissue repair, immune function, and general
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: total_protein
 type: labtest
-updated: '2026-03-28T08:31:46.683319Z'
+updated: '2026-03-28T19:47:18.385114Z'
 ---
 
 {% raw %}
@@ -62,17 +62,17 @@ updated: '2026-03-28T08:31:46.683319Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
+<p>RELATED::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Blood_Cancers_EG_Multiple_Myeloma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
+RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a><br />
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

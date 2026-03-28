@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.764975Z'
+created: '2026-03-28T19:47:19.106179Z'
 description: Supplemental form of the sleep hormone melatonin. Supports sleep onset,
   jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Melatonin Supplement
 type: supplement
-updated: '2026-03-28T08:31:47.764975Z'
+updated: '2026-03-28T19:47:19.106179Z'
 ---
 
 {% raw %}
@@ -30,27 +30,27 @@ updated: '2026-03-28T08:31:47.764975Z'
 <p>0.3-5 mg for sleep; higher for other purposes</p>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/pineal-gland/" class="internal-link">Pineal_Gland</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/pineal-gland/" class="internal-link">Pineal_Gland</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/pineal-gland/" class="internal-link">Pineal_Gland</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glycine/" class="internal-link">Glycine</a></p>
+<p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+RELATED::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
+RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/organ/pineal-gland/" class="internal-link">Pineal_Gland</a><br />
+RELATED::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/glycine/" class="internal-link">Glycine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
+SYNERGISTIC_WITH::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Mimics</h3>
-<p>MIMICS::<a href="/garden/michal.k7w@gmail.com/hormone/melatonin/" class="internal-link">Melatonin</a></p>
+<p>MIMICS::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/obstructive-sleep-apnea/" class="internal-link">Obstructive Sleep Apnea</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/obstructive-sleep-apnea/" class="internal-link">Obstructive Sleep Apnea</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a></p>
 
 {% endraw %}

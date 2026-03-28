@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.561635Z'
+created: '2026-03-28T19:47:17.415188Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-03-28T08:31:45.561635Z'
+updated: '2026-03-28T19:47:17.415188Z'
 ---
 
 {% raw %}
@@ -23,10 +23,10 @@ updated: '2026-03-28T08:31:45.561635Z'
 <p>A rare genetic disorder of lipid metabolism that leads to corneal opacities, anemia, and renal failure due to the accumulation of unesterified cholesterol.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a></p>
 
 {% endraw %}

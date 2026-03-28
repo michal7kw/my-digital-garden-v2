@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.291620Z'
+created: '2026-03-28T19:47:17.132669Z'
 description: Zonulin is a protein that reversibly modulates intestinal tight junction
   permeability. Elevated serum zonulin indicates increased intestinal permeability
   and is associated with autoimmune and inflammatory conditions.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Zonulin
 type: biomarker
-updated: '2026-03-28T08:31:45.291620Z'
+updated: '2026-03-28T19:47:17.132669Z'
 ---
 
 {% raw %}
@@ -21,7 +21,7 @@ updated: '2026-03-28T08:31:45.291620Z'
 <p>Zonulin is a protein that reversibly modulates intestinal tight junction permeability. Elevated serum zonulin indicates increased intestinal permeability and is associated with autoimmune and inflammatory conditions.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
+<p>CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
 
 {% endraw %}

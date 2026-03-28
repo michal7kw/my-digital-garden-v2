@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.165967Z'
+created: '2026-03-28T19:47:17.027094Z'
 description: Lactate Dehydrogenase is an intracellular enzyme found in virtually all
   body tissues that catalyzes the interconversion of lactate and pyruvate, serving
   as a nonspecific marker of tissue damage and cellular turnover.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Lactate Dehydrogenase
 type: biomarker
-updated: '2026-03-28T08:31:45.165967Z'
+updated: '2026-03-28T19:47:17.027094Z'
 ---
 
 {% raw %}
@@ -21,20 +21,20 @@ updated: '2026-03-28T08:31:45.165967Z'
 <p>Lactate Dehydrogenase is an intracellular enzyme found in virtually all body tissues that catalyzes the interconversion of lactate and pyruvate, serving as a nonspecific marker of tissue damage and cellular turnover.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate_Aminotransferase</a></p>
+<p>CORRELATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
+CORRELATED_WITH::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a><br />
+CORRELATED_WITH::<a href="/entities/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate_Aminotransferase</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a></p>
+<p>ACTIVATES::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/ldh/" class="internal-link">ldh</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/ldh/" class="internal-link">ldh</a> (labtest)</li>
 </ul>
 
 {% endraw %}

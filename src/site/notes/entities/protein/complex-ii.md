@@ -2,7 +2,7 @@
 aliases:
 - Succinate Dehydrogenase
 - SDH
-created: '2026-03-28T08:31:47.462413Z'
+created: '2026-03-28T19:47:18.908784Z'
 description: Succinate dehydrogenase, the only enzyme that participates in both the
   TCA cycle and the electron transport chain. Oxidizes succinate to fumarate while
   reducing FAD to FADH2, transferring electrons to ubiquinone. Notably, it does not
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Complex II
 type: protein
-updated: '2026-03-28T08:31:47.462413Z'
+updated: '2026-03-28T19:47:18.908784Z'
 ---
 
 {% raw %}

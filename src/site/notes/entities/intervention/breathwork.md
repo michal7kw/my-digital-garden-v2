@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.993905Z'
+created: '2026-03-28T19:47:17.773219Z'
 description: Deliberate control of breathing patterns to influence autonomic nervous
   system function, stress response, and cognitive state. Encompasses slow breathing
   (4-6 breaths/min for parasympathetic activation), cyclic hyperventilation (Wim Hof,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Breathwork
 type: intervention
-updated: '2026-03-28T08:31:45.993905Z'
+updated: '2026-03-28T19:47:17.773219Z'
 ---
 
 {% raw %}
@@ -43,8 +43,8 @@ updated: '2026-03-28T08:31:45.993905Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

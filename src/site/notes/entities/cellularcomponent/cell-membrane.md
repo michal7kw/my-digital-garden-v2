@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.293258Z'
+created: '2026-03-28T19:47:17.133685Z'
 description: Phospholipid bilayer forming the outer boundary of all cells. Selectively
   permeable barrier that regulates transport of ions, nutrients, and signaling molecules.
   Contains embedded proteins for signal transduction, cell adhesion, and molecular
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cell Membrane
 type: cellularcomponent
-updated: '2026-03-28T08:31:45.293258Z'
+updated: '2026-03-28T19:47:17.133685Z'
 ---
 
 {% raw %}
@@ -25,6 +25,6 @@ updated: '2026-03-28T08:31:45.293258Z'
 <p>Phospholipid bilayer forming the outer boundary of all cells. Selectively permeable barrier that regulates transport of ions, nutrients, and signaling molecules. Contains embedded proteins for signal transduction, cell adhesion, and molecular transport. Rich in cholesterol for fluidity regulation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

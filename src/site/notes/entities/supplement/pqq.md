@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.797486Z'
+created: '2026-03-28T19:47:19.136511Z'
 description: Pyrroloquinoline quinone — a novel redox cofactor discovered in bacteria
   that supports mitochondrial biogenesis in mammals. PQQ activates PGC-1alpha, the
   master regulator of mitochondrial biogenesis, and is one of very few compounds proven
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: PQQ
 type: supplement
-updated: '2026-03-28T08:31:47.797486Z'
+updated: '2026-03-28T19:47:19.136511Z'
 ---
 
 {% raw %}
@@ -88,29 +88,29 @@ updated: '2026-03-28T08:31:47.797486Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a></p>
+<p>ACTIVATES::<a href="/entities/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a></p>
+SYNERGISTIC_WITH::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></p>
 <h3>Increases Metabolite</h3>
-<p>INCREASES_METABOLITE::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a></p>
+<p>INCREASES_METABOLITE::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tfam/" class="internal-link">TFAM</a></p>
+<p>RELATED::<a href="/entities/protein/tfam/" class="internal-link">TFAM</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:23370669 - PQQ improves cognitive function in elderly subjects</li>

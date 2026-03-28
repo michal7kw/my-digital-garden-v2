@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.734163Z'
+created: '2026-03-28T19:47:18.422580Z'
 description: white blud sell kownt Tested twice a year White blood cells are immune
   cells that help defend the body against infections, inflammation, and other stressors.
   Maintaining a healthy white blood cell count is essential for immune resilience,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: white_blood_cell_count
 type: labtest
-updated: '2026-03-28T08:31:46.734163Z'
+updated: '2026-03-28T19:47:18.422580Z'
 ---
 
 {% raw %}
@@ -61,22 +61,22 @@ updated: '2026-03-28T08:31:46.734163Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Related_Immune_Suppression</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Infection_Bacterial_Or_Viral</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

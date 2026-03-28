@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.977580Z'
+created: '2026-03-28T19:47:18.602767Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/entorhinal-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Entorhinal Cortex
 type: organ
-updated: '2026-03-28T08:31:46.977580Z'
+updated: '2026-03-28T19:47:18.602767Z'
 ---
 
 {% raw %}

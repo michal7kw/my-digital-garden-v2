@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.078949Z'
+created: '2026-03-28T19:47:18.657651Z'
 description: Cholinergic projections from the basal forebrain (nucleus basalis of
   Meynert, medial septum) to the hippocampus and neocortex. Essential for memory encoding
   and attention. Severely affected in Alzheimer's disease.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Forebrain Cholinergic Pathway
 type: pathway
-updated: '2026-03-28T08:31:47.078949Z'
+updated: '2026-03-28T19:47:18.657651Z'
 ---
 
 {% raw %}
@@ -29,21 +29,21 @@ updated: '2026-03-28T08:31:47.078949Z'
 <li><strong>Age-related decline</strong> — Gradual cholinergic tone reduction contributes to memory changes</li>
 </ul>
 <h2>Relationships</h2>
-<p>RELATED_TO::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/anatomy/temporal-lobe/" class="internal-link">Temporal Lobe</a></p>
+<p>RELATED_TO::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+RELATED_TO::<a href="/entities/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED_TO::<a href="/entities/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+RELATED_TO::<a href="/entities/anatomy/temporal-lobe/" class="internal-link">Temporal Lobe</a></p>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/memory-disorders/" class="internal-link">Memory Disorders</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a></p>
 
 {% endraw %}

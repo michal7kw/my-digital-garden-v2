@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.152765Z'
+created: '2026-03-28T19:47:17.937212Z'
 description: Tested twice a year Chloride is an electrolyte that partners with sodium
   to maintain fluid balance, blood pressure, and pH stability in the body. It plays
   a role in digestion by forming hydrochloric acid in the stomach and helps nerves
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: chloride
 type: labtest
-updated: '2026-03-28T08:31:46.152765Z'
+updated: '2026-03-28T19:47:17.937212Z'
 ---
 
 {% raw %}
@@ -63,18 +63,18 @@ updated: '2026-03-28T08:31:46.152765Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+<p>RELATED::<a href="/entities/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis_Or_Alkalosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Gastroenteritis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

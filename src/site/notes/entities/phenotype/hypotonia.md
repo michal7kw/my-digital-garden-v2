@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.328257Z'
+created: '2026-03-28T19:47:18.797142Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Hypotonia
 type: phenotype
-updated: '2026-03-28T08:31:47.328257Z'
+updated: '2026-03-28T19:47:18.797142Z'
 ---
 
 {% raw %}
@@ -28,13 +28,13 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Muscular_hypotonia_o
 RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal_muscle_tone</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Infantile_muscular_hypotonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Appendicular_hypotonia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/generalized-hypotonia/" class="internal-link">Generalized_hypotonia</a><br />
+RELATED::<a href="/entities/phenotype/generalized-hypotonia/" class="internal-link">Generalized_hypotonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Severe_muscular_hypotonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neonatal_hypotonia</a></p>
 <h3>Related To Phenotype</h3>
 <p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe_muscular_hypotonia</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Frog-leg_posture</a><br />
-RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/phenotype/generalized-hypotonia/" class="internal-link">Generalized_hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a href="/entities/phenotype/generalized-hypotonia/" class="internal-link">Generalized_hypotonia</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Muscular_hypotonia_of_the_trunk</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neonatal_hypotonia</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Infantile_muscular_hypotonia</a><br />

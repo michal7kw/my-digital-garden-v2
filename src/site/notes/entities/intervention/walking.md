@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.038648Z'
+created: '2026-03-28T19:47:17.824453Z'
 description: Low-intensity aerobic exercise accessible to nearly all populations.
   Consistent evidence for reducing all-cause mortality, cardiovascular disease, type
   2 diabetes, depression, and cognitive decline. 7,000-10,000 steps/day associated
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Walking
 type: intervention
-updated: '2026-03-28T08:31:46.038648Z'
+updated: '2026-03-28T19:47:17.824453Z'
 ---
 
 {% raw %}
@@ -39,10 +39,10 @@ updated: '2026-03-28T08:31:46.038648Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
+<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

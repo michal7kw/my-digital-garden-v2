@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.775784Z'
+created: '2026-03-28T19:47:18.448378Z'
 description: Evaluates bone formation and resorption markers alongside calcium-vitamin
   D metabolism. Essential for osteoporosis risk assessment, monitoring treatment efficacy,
   and evaluating metabolic bone diseases.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: bone_health_panel
 type: labtestpanel
-updated: '2026-03-28T08:31:46.775784Z'
+updated: '2026-03-28T19:47:18.448378Z'
 ---
 
 {% raw %}
@@ -21,10 +21,10 @@ updated: '2026-03-28T08:31:46.775784Z'
 <p>Evaluates bone formation and resorption markers alongside calcium-vitamin D metabolism. Essential for osteoporosis risk assessment, monitoring treatment efficacy, and evaluating metabolic bone diseases.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
+<p>INCLUDED_IN::<a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
 INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">phosphorus</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a></p>
+INCLUDED_IN::<a href="/entities/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
+INCLUDED_IN::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a><br />
+INCLUDED_IN::<a href="/entities/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a></p>
 
 {% endraw %}

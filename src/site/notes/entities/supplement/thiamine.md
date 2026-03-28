@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.854019Z'
+created: '2026-03-28T19:47:19.188722Z'
 description: Essential B-vitamin (B1) that serves as a cofactor for pyruvate dehydrogenase
   and alpha-ketoglutarate dehydrogenase, two critical enzymes linking glycolysis to
   the TCA cycle and maintaining TCA cycle flux.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Thiamine
 type: supplement
-updated: '2026-03-28T08:31:47.854019Z'
+updated: '2026-03-28T19:47:19.188722Z'
 ---
 
 {% raw %}
@@ -55,27 +55,27 @@ updated: '2026-03-28T08:31:47.854019Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate Dehydrogenase</a></p>
+<p>RELATED::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+RELATED::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
+RELATED::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
+RELATED::<a href="/entities/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate Dehydrogenase</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></p>
+<p>RELATED::<a href="/entities/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
+RELATED::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+RELATED::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
+RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h2>References</h2>
 <ul>
 <li>Lonsdale D. A review of the biochemistry, metabolism and clinical benefits of thiamin(e). Evid Based Complement Alternat Med. 2006;3(1):49-59. PMID:16550223</li>

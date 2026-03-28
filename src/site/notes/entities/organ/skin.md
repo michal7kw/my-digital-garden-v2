@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.033678Z'
+created: '2026-03-28T19:47:18.635917Z'
 description: Largest organ of the body providing barrier protection, temperature regulation,
   sensation, and vitamin D synthesis. Reflects internal health status.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Skin
 type: organ
-updated: '2026-03-28T08:31:47.033678Z'
+updated: '2026-03-28T19:47:18.635917Z'
 ---
 
 {% raw %}
@@ -20,8 +20,8 @@ updated: '2026-03-28T08:31:47.033678Z'
 <p>Largest organ of the body providing barrier protection, temperature regulation, sensation, and vitamin D synthesis. Reflects internal health status.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/zinc/" class="internal-link">Zinc</a></p>
+<p>RELATED::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
+RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+RELATED::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a></p>
 
 {% endraw %}

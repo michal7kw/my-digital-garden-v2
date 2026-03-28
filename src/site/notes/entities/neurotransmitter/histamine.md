@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.948109Z'
+created: '2026-03-28T19:47:18.578790Z'
 description: Biogenic amine neurotransmitter and immune mediator synthesized from
   histidine by histidine decarboxylase. Functions as neurotransmitter (wakefulness,
   cognition), immune modulator (allergic response, inflammation), and gastric acid
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Histamine
 type: neurotransmitter
-updated: '2026-03-28T08:31:46.948109Z'
+updated: '2026-03-28T19:47:18.578790Z'
 ---
 
 {% raw %}
@@ -38,8 +38,8 @@ updated: '2026-03-28T08:31:46.948109Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
+<p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 
 {% endraw %}

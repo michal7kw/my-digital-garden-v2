@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.953372Z'
+created: '2026-03-28T19:47:17.729865Z'
 description: A foundational cardiovascular stack targeting key lipid markers and inflammation.
   Omega-3 fatty acids reduce triglycerides and inflammation, CoQ10 supports mitochondrial
   energy in cardiac cells, magnesium helps regulate heart rhythm, and garlic extract
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Heart Health
 type: healthstack
-updated: '2026-03-28T08:31:45.953372Z'
+updated: '2026-03-28T19:47:17.729865Z'
 ---
 
 {% raw %}
@@ -78,21 +78,21 @@ updated: '2026-03-28T08:31:45.953372Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a></td>
+<td><a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a></td>
 <td>0-100</td>
 <td>0-70</td>
 <td>mg/dL</td>
 <td>Primary atherogenic lipoprotein</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a></td>
+<td><a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a></td>
 <td>40-100</td>
 <td>60-100</td>
 <td>mg/dL</td>
 <td>Reverse cholesterol transport</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
+<td><a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
 <td>0-150</td>
 <td>0-100</td>
 <td>mg/dL</td>

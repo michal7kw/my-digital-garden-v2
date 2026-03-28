@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.871977Z'
+created: '2026-03-28T19:47:18.520790Z'
 description: First committed step of glycolysis, formed by hexokinase phosphorylation
   of glucose. Key branch point metabolite directing carbon flux toward glycolysis,
   pentose phosphate pathway, or glycogen synthesis.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose-6-Phosphate
 type: metabolite
-updated: '2026-03-28T08:31:46.871977Z'
+updated: '2026-03-28T19:47:18.520790Z'
 ---
 
 {% raw %}
@@ -22,13 +22,13 @@ updated: '2026-03-28T08:31:46.871977Z'
 <p>First committed step of glycolysis, formed by hexokinase phosphorylation of glucose. Key branch point metabolite directing carbon flux toward glycolysis, pentose phosphate pathway, or glycogen synthesis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>RELATED::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 <h3>Regulates</h3>
-<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a><br />
-REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></p>
+<p>REGULATES::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a><br />
+REGULATES::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a></p>
 <h3>Produced By</h3>
-<p>PRODUCED_BY::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>PRODUCED_BY::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 <h3>Produced From</h3>
-<p>PRODUCED_FROM::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>PRODUCED_FROM::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 
 {% endraw %}

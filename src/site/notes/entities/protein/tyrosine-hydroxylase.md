@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.568591Z'
+created: '2026-03-28T19:47:18.976351Z'
 description: Rate-limiting enzyme in catecholamine biosynthesis, catalyzing the hydroxylation
   of L-Tyrosine to L-DOPA. Requires iron (Fe2+) and tetrahydrobiopterin (BH4) as essential
   cofactors. Regulated by phosphorylation-dependent activation and end-product feedback
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Tyrosine Hydroxylase
 type: protein
-updated: '2026-03-28T08:31:47.568591Z'
+updated: '2026-03-28T19:47:18.976351Z'
 ---
 
 {% raw %}
@@ -68,23 +68,23 @@ updated: '2026-03-28T08:31:47.568591Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Catalyzes</h3>
-<p>CATALYZES::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<p>CATALYZES::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 <h3>Produces</h3>
-<p>PRODUCES::<a href="/garden/michal.k7w@gmail.com/metabolite/l-dopa/" class="internal-link">L-DOPA</a></p>
+<p>PRODUCES::<a href="/entities/metabolite/l-dopa/" class="internal-link">L-DOPA</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
-REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/metabolite/tetrahydrobiopterin/" class="internal-link">Tetrahydrobiopterin</a></p>
+<p>REQUIRES_COFACTOR::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+REQUIRES_COFACTOR::<a href="/entities/metabolite/tetrahydrobiopterin/" class="internal-link">Tetrahydrobiopterin</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/creb/" class="internal-link">CREB</a></p>
+<p>RELATED::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/entities/protein/creb/" class="internal-link">CREB</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:21473867 - Tyrosine hydroxylase structure and regulation</li>

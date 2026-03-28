@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.932624Z'
+created: '2026-03-28T19:47:17.711909Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: NR3C1
 type: gene
-updated: '2026-03-28T08:31:45.932624Z'
+updated: '2026-03-28T19:47:17.711909Z'
 ---
 
 {% raw %}

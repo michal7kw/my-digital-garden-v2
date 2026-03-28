@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.402627Z'
+created: '2026-03-28T19:47:18.193303Z'
 description: Luteinizing hormone (LH) is produced by the pituitary gland in the brain.
   In females, it helps regulate the menstrual cycle, triggers ovulation (the release
   of a mature egg), and supports early pregnancy by stimulating the ovaries to produce
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: luteinizing_hormone
 type: labtest
-updated: '2026-03-28T08:31:46.402627Z'
+updated: '2026-03-28T19:47:18.193303Z'
 ---
 
 {% raw %}
@@ -64,22 +64,22 @@ updated: '2026-03-28T08:31:46.402627Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+<p>RELATED::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause_Or_Menopause</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
+RELATED::<a href="/entities/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
+RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+MAY_DETECT::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

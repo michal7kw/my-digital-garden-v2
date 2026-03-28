@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.655878Z'
+created: '2026-03-28T19:47:19.019877Z'
 description: Comprehensive formula containing all eight B vitamins, which serve as
   essential cofactors across glycolysis, TCA cycle, electron transport chain, and
   numerous other metabolic pathways critical for cellular energy production.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: B-Complex Vitamins
 type: supplement
-updated: '2026-03-28T08:31:47.655878Z'
+updated: '2026-03-28T19:47:19.019877Z'
 ---
 
 {% raw %}
@@ -85,24 +85,24 @@ updated: '2026-03-28T08:31:47.655878Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/thiamine/" class="internal-link">Thiamine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
+<p>RELATED::<a href="/entities/supplement/thiamine/" class="internal-link">Thiamine</a><br />
+RELATED::<a href="/entities/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
+RELATED::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+RELATED::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+RELATED::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mthfr-gene-variants/" class="internal-link">MTHFR Gene Variants</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mthfr-gene-variants/" class="internal-link">MTHFR Gene Variants</a></p>
 <h2>References</h2>
 <ul>
 <li>Kennedy DO. B Vitamins and the Brain: Mechanisms, Dose and Efficacy — A Review. Nutrients. 2016;8(2):68. PMID:26828517</li>

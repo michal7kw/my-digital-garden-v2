@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.598433Z'
+created: '2026-03-28T19:47:18.991303Z'
 description: Research highlighting the longevity and metabolic benefits of BAM15,
   a selective mitochondrial uncoupler that mimics the effects of exercise.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: 2025 BAM15 Mitochondrial Uncoupling Review
 type: research
-updated: '2026-03-28T08:31:47.598433Z'
+updated: '2026-03-28T19:47:18.991303Z'
 ---
 
 {% raw %}
@@ -24,10 +24,10 @@ updated: '2026-03-28T08:31:47.598433Z'
 <p>Research highlighting the longevity and metabolic benefits of BAM15, a selective mitochondrial uncoupler that mimics the effects of exercise.</p>
 <h2>Relationships</h2>
 <h3>Studied Topic</h3>
-<p>STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
+<p>STUDIED_TOPIC::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
 STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial_Uncoupling</a><br />
-STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/condition/sarcopenia/" class="internal-link">Sarcopenia</a></p>
+STUDIED_TOPIC::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial_Uncoupling</a><br />
+STUDIED_TOPIC::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">BAM15</a></p>
 

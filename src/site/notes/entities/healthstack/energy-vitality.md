@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.950448Z'
+created: '2026-03-28T19:47:17.727664Z'
 description: Combat fatigue and support sustained energy levels. B-complex vitamins
   are essential cofactors in energy metabolism, CoQ10 powers mitochondrial ATP production,
   iron supports oxygen transport, and vitamin D3 regulates hundreds of metabolic processes.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Energy & Vitality
 type: healthstack
-updated: '2026-03-28T08:31:45.950448Z'
+updated: '2026-03-28T19:47:17.727664Z'
 ---
 
 {% raw %}
@@ -77,21 +77,21 @@ updated: '2026-03-28T08:31:45.950448Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>30-300</td>
 <td>50-150</td>
 <td>ng/mL</td>
 <td>Iron stores — low levels cause fatigue before anemia develops</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
+<td><a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
 <td>200-900</td>
 <td>500-900</td>
 <td>pg/mL</td>
 <td>Essential for red blood cell formation and neurological function</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.831841Z'
+created: '2026-03-28T19:47:18.495209Z'
 description: These tests identify antibodies associated with tick-borne infections
   like Lyme disease, babesiosis (caused by Babesia), ehrlichiosis (caused by Ehrlichia),
   anaplasmosis (caused by Anaplasma), and Bartonella-related diseases, detecting both
@@ -28,7 +28,7 @@ tags:
 templateEngineOverride: njk
 title: lyme_antibodies
 type: labtestpanel
-updated: '2026-03-28T08:31:46.831841Z'
+updated: '2026-03-28T19:47:18.495209Z'
 ---
 
 {% raw %}

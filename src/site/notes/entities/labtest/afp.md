@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.060751Z'
+created: '2026-03-28T19:47:17.841396Z'
 description: Alpha-Fetoprotein (AFP) test. Tumor marker used for hepatocellular carcinoma
   surveillance in high-risk patients and monitoring of testicular germ cell tumors.
   Also used in prenatal screening for neural tube defects.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: afp
 type: labtest
-updated: '2026-03-28T08:31:46.060751Z'
+updated: '2026-03-28T19:47:17.841396Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-03-28T08:31:46.060751Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/afp/" class="internal-link">afp</a></li>
+<li><a href="/entities/labtest/afp/" class="internal-link">afp</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,7 +65,7 @@ updated: '2026-03-28T08:31:46.060751Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/cancer-screening-panel/" class="internal-link">cancer_screening_panel</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/cancer-screening-panel/" class="internal-link">cancer_screening_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

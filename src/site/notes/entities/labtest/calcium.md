@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.140562Z'
+created: '2026-03-28T19:47:17.926703Z'
 description: Tested twice a year Calcium levels help understand symptoms related to
   the kidneys, bones, thyroid, parathyroid, or nerves. Calcium is a mineral the body
   uses to build and maintain strong bones, teeth, muscle control, and blood circulation.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: calcium
 type: labtest
-updated: '2026-03-28T08:31:46.140562Z'
+updated: '2026-03-28T19:47:17.926703Z'
 ---
 
 {% raw %}
@@ -64,22 +64,22 @@ updated: '2026-03-28T08:31:46.140562Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+<p>RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malignancy</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hypoparathyroidism</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

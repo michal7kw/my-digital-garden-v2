@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.713826Z'
+created: '2026-03-28T19:47:18.402291Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-03-28T08:31:46.713826Z'
+updated: '2026-03-28T19:47:18.402291Z'
 ---
 
 {% raw %}
@@ -58,8 +58,8 @@ updated: '2026-03-28T08:31:46.713826Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a></p>
+<p>RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a><br />
+RELATED::<a href="/entities/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

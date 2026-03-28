@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.020690Z'
+created: '2026-03-28T19:47:18.630956Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/pedunculopontine-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Pedunculopontine Nucleus
 type: organ
-updated: '2026-03-28T08:31:47.020690Z'
+updated: '2026-03-28T19:47:18.630956Z'
 ---
 
 {% raw %}

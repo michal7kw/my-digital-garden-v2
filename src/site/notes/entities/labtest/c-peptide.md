@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.134801Z'
+created: '2026-03-28T19:47:17.920053Z'
 description: C-Peptide test. Measures endogenous insulin production by quantifying
   the connecting peptide released during proinsulin cleavage. Used to differentiate
   Type 1 from Type 2 diabetes and evaluate beta-cell function.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: c_peptide
 type: labtest
-updated: '2026-03-28T08:31:46.134801Z'
+updated: '2026-03-28T19:47:17.920053Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-03-28T08:31:46.134801Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/c-peptide/" class="internal-link">c_peptide</a></li>
+<li><a href="/entities/labtest/c-peptide/" class="internal-link">c_peptide</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

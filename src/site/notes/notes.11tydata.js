@@ -113,6 +113,12 @@ module.exports = {
       // Extract garden info from file path
       const { gardenUsername, entityType } = extractGardenInfo(data.page?.inputPath);
 
+      // Admin garden entities (path: notes/entities/{type}/{slug}.md)
+      if (gardenUsername === 'entities') {
+        const slug = data.slug || slugify(data.title) || data.page?.fileSlug || 'untitled';
+        return `/entities/${entityType}/${slug}/`;
+      }
+
       // Multi-user garden: /garden/{username}/{entityType}/{slug}/
       if (gardenUsername) {
         const slug = data.slug || slugify(data.title) || data.page?.fileSlug || 'untitled';

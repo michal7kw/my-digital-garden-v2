@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.350512Z'
+created: '2026-03-28T19:47:18.819530Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nausea
 type: phenotype
-updated: '2026-03-28T08:31:47.350512Z'
+updated: '2026-03-28T19:47:18.819530Z'
 ---
 
 {% raw %}
@@ -42,7 +42,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">serotonin_syndrome</
 RELATED::<a class="internal-link is-unresolved" href="/404">gastric_mucosal_hypertrophy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">jejunal_neuroendocrine_tumor_well_differentiated_low_or_intermediate_grade</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ethylene_glycol_poisoning</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a><br />
+RELATED::<a href="/entities/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_angioedema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_pheochromocytoma-paraganglioma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">duodenal_neuroendocrine_tumor_well_differentiated_low_or_intermediate_grade</a><br />

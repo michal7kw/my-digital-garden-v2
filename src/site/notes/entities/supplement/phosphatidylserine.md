@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.807681Z'
+created: '2026-03-28T19:47:19.145424Z'
 description: Essential phospholipid concentrated in brain cell membranes. Supports
   cognitive function, memory, and stress response. One of few supplements with FDA-qualified
   health claim for cognitive function.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphatidylserine
 type: supplement
-updated: '2026-03-28T08:31:47.807681Z'
+updated: '2026-03-28T19:47:19.145424Z'
 ---
 
 {% raw %}
@@ -29,17 +29,17 @@ updated: '2026-03-28T08:31:47.807681Z'
 <p>100-300mg daily</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a></p>
+<p>RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a><br />
+RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a><br />
+RELATED::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a></p>
 
 {% endraw %}

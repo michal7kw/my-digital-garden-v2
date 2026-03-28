@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.434969Z'
+created: '2026-03-28T19:47:18.215609Z'
 description: Mercury is a heavy metal that can be toxic in high amounts. Exposure
   most often happens from eating seafood high in methylmercury (tuna, swordfish, and
   shark), from breathing in mercury vapor from broken thermometers or fluorescent
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: mercury
 type: labtest
-updated: '2026-03-28T08:31:46.434969Z'
+updated: '2026-03-28T19:47:18.215609Z'
 ---
 
 {% raw %}
@@ -67,21 +67,21 @@ updated: '2026-03-28T08:31:46.434969Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a></p>
+RELATED::<a href="/entities/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a><br />
+RELATED::<a href="/entities/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

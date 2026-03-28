@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.160748Z'
+created: '2026-03-28T19:47:18.697482Z'
 description: The primary route for NAD+ biosynthesis in mammals, recycling nicotinamide
   released by NAD+-consuming enzymes back into NAD+. Accounts for approximately 85%
   of NAD+ production and is essential for maintaining cellular NAD+ homeostasis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NAD+ Salvage Pathway
 type: pathway
-updated: '2026-03-28T08:31:47.160748Z'
+updated: '2026-03-28T19:47:18.697482Z'
 ---
 
 {% raw %}
@@ -26,15 +26,15 @@ updated: '2026-03-28T08:31:47.160748Z'
 <p>The primary route for NAD+ biosynthesis in mammals, recycling nicotinamide released by NAD+-consuming enzymes back into NAD+. Accounts for approximately 85% of NAD+ production and is essential for maintaining cellular NAD+ homeostasis.</p>
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/quercetin/" class="internal-link">Quercetin</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/nad/" class="internal-link">NAD+</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/nad/" class="internal-link">NAD+</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.378869Z'
+created: '2026-03-28T19:47:18.174173Z'
 description: Leptin is called the satiety hormone, and tells the brain when you are
   full and when to stop eating. It is an important hormone produced by fat cells to
   regulate metabolism and body weight. High levels often points to leptin resistance,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: leptin
 type: labtest
-updated: '2026-03-28T08:31:46.378869Z'
+updated: '2026-03-28T19:47:18.174173Z'
 ---
 
 {% raw %}
@@ -64,20 +64,20 @@ updated: '2026-03-28T08:31:46.378869Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/leptin-resistance/" class="internal-link">Leptin_Resistance</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+MAY_DETECT::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+MAY_DETECT::<a href="/entities/condition/leptin-resistance/" class="internal-link">Leptin_Resistance</a><br />
+MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+<p>RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/leptin-resistance/" class="internal-link">Leptin_Resistance</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+RELATED::<a href="/entities/condition/leptin-resistance/" class="internal-link">Leptin_Resistance</a><br />
+RELATED::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/leptin-resistance/" class="internal-link">Leptin_Resistance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/leptin-resistance/" class="internal-link">Leptin_Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

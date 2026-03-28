@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.498336Z'
+created: '2026-03-28T19:47:18.935849Z'
 description: Monoamine oxidase A, a mitochondrial outer membrane-bound flavoenzyme
   that catalyzes the oxidative deamination of monoamine neurotransmitters including
   serotonin, norepinephrine, and dopamine. Key pharmacological target for antidepressant
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: MAO-A
 type: protein
-updated: '2026-03-28T08:31:47.498336Z'
+updated: '2026-03-28T19:47:18.935849Z'
 ---
 
 {% raw %}
@@ -78,20 +78,20 @@ updated: '2026-03-28T08:31:47.498336Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Metabolizes</h3>
-<p>METABOLIZES::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-METABOLIZES::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-METABOLIZES::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>METABOLIZES::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+METABOLIZES::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+METABOLIZES::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Inhibited By</h3>
-<p>INHIBITED_BY::<a href="/garden/michal.k7w@gmail.com/drug/methylene-blue/" class="internal-link">Methylene Blue</a></p>
+<p>INHIBITED_BY::<a href="/entities/drug/methylene-blue/" class="internal-link">Methylene Blue</a></p>
 <h3>Affects</h3>
-<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/serotonin-synthesis/" class="internal-link">Serotonin Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/serotonin-synthesis/" class="internal-link">Serotonin Synthesis</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/epinephrine/" class="internal-link">Epinephrine</a></p>
+<p>RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
+RELATED::<a href="/entities/hormone/epinephrine/" class="internal-link">Epinephrine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:16389188 - MAO-A and MAO-B structure and function</li>

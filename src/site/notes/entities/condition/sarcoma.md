@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.739195Z'
+created: '2026-03-28T19:47:17.547254Z'
 description: A broad group of cancers that begin in the bones and soft tissues (muscle,
   fat, blood vessels, nerves, tendons, and lining of joints).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcoma
 type: condition
-updated: '2026-03-28T08:31:45.739195Z'
+updated: '2026-03-28T19:47:17.547254Z'
 ---
 
 {% raw %}
@@ -24,10 +24,10 @@ updated: '2026-03-28T08:31:45.739195Z'
 <p>A broad group of cancers that begin in the bones and soft tissues (muscle, fat, blood vessels, nerves, tendons, and lining of joints).</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a></p>
 
 {% endraw %}

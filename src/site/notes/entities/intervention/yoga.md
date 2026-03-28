@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.042458Z'
+created: '2026-03-28T19:47:17.828549Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-03-28T08:31:46.042458Z'
+updated: '2026-03-28T19:47:17.828549Z'
 ---
 
 {% raw %}
@@ -41,10 +41,10 @@ updated: '2026-03-28T08:31:46.042458Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/breathwork/" class="internal-link">Breathwork</a></p>
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

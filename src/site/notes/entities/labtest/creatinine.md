@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.185445Z'
+created: '2026-03-28T19:47:17.961675Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-03-28T08:31:46.185445Z'
+updated: '2026-03-28T19:47:17.961675Z'
 ---
 
 {% raw %}
@@ -60,7 +60,7 @@ updated: '2026-03-28T08:31:46.185445Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -71,16 +71,16 @@ updated: '2026-03-28T08:31:46.185445Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+<p>RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscle_Loss</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a></p>
+RELATED::<a href="/entities/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a><br />
+RELATED::<a href="/entities/labtest/kidney-function-panel/" class="internal-link">kidney_function_panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

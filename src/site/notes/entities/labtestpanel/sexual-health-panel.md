@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.848459Z'
+created: '2026-03-28T19:47:18.505030Z'
 description: These tests screen for the most common sexually transmitted infections
   (STIs) in the United States. STIs often go undiagnosed and untreated, potentially
   leading to serious complications such as pelvic inflammatory disease, genital tract
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: sexual_health_panel
 type: labtestpanel
-updated: '2026-03-28T08:31:46.848459Z'
+updated: '2026-03-28T19:47:18.505030Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.913728Z'
+created: '2026-03-28T19:47:16.881013Z'
 description: Seahorse-shaped structure in the medial temporal lobe, essential for
   episodic memory formation, spatial navigation, and one of the few brain regions
   where adult neurogenesis occurs.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hippocampus
 type: Anatomy
-updated: '2026-03-28T08:31:44.913728Z'
+updated: '2026-03-28T19:47:16.881013Z'
 ---
 
 {% raw %}
@@ -31,7 +31,7 @@ updated: '2026-03-28T08:31:44.913728Z'
 <li><strong>Subiculum</strong> — Output relay to hypothalamus and cortex</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a></p>
 
 {% endraw %}

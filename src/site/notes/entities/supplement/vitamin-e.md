@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.870588Z'
+created: '2026-03-28T19:47:19.204224Z'
 description: Fat-soluble antioxidant family consisting of tocopherols and tocotrienols.
   Protects cell membranes from oxidative damage. Full-spectrum forms preferred over
   synthetic alpha-tocopherol.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin E
 type: supplement
-updated: '2026-03-28T08:31:47.870588Z'
+updated: '2026-03-28T19:47:19.204224Z'
 ---
 
 {% raw %}
@@ -32,16 +32,16 @@ updated: '2026-03-28T08:31:47.870588Z'
 <p>100-400 IU daily of mixed tocopherols</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver_Stress_Pattern</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a></p>
+<p>RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a><br />
+RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
+RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+RELATED::<a href="/entities/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver_Stress_Pattern</a><br />
+RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin_C</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nafld/" class="internal-link">NAFLD</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 
 {% endraw %}

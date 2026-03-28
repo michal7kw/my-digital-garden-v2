@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.034285Z'
+created: '2026-03-28T19:47:17.819955Z'
 description: Form of intermittent fasting that restricts daily food intake to a consistent
   window (typically 8-12 hours), aligning eating with circadian rhythms. Distinguished
   from general intermittent fasting by emphasis on meal timing rather than caloric
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Time-Restricted Eating
 type: intervention
-updated: '2026-03-28T08:31:46.034285Z'
+updated: '2026-03-28T19:47:17.819955Z'
 ---
 
 {% raw %}
@@ -43,9 +43,9 @@ updated: '2026-03-28T08:31:46.034285Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/melatonin/" class="internal-link">Melatonin</a></p>
+<p>RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a><br />
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.415967Z'
+created: '2026-03-28T19:47:18.202009Z'
 description: Intracellular magnesium. More accurate than serum for assessing true
   magnesium status.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: magnesium_rbc
 type: labtest
-updated: '2026-03-28T08:31:46.415967Z'
+updated: '2026-03-28T19:47:18.202009Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-03-28T08:31:46.415967Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a></li>
+<li><a href="/entities/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

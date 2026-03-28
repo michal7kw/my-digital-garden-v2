@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.337855Z'
+created: '2026-03-28T19:47:17.198450Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/cognitivefunction/emotional-regulation/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Emotional Regulation
 type: cognitivefunction
-updated: '2026-03-28T08:31:45.337855Z'
+updated: '2026-03-28T19:47:17.198450Z'
 ---
 
 {% raw %}

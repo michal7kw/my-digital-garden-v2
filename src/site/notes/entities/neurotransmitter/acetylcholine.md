@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.930054Z'
+created: '2026-03-28T19:47:18.565051Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-03-28T08:31:46.930054Z'
+updated: '2026-03-28T19:47:18.565051Z'
 ---
 
 {% raw %}
@@ -51,8 +51,8 @@ updated: '2026-03-28T08:31:46.930054Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clozapine/" class="internal-link">Clozapine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/donepezil/" class="internal-link">Donepezil</a></p>
+<p>RELATED::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/entities/drug/donepezil/" class="internal-link">Donepezil</a></p>
 
 {% endraw %}

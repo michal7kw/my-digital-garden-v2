@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.833516Z'
+created: '2026-03-28T19:47:19.169123Z'
 description: Mineral-rich exudate found in high-altitude rock formations (Himalayas,
   Altai, Caucasus), formed over centuries from decomposed plant matter. Contains fulvic
   acid, dibenzo-alpha-pyrones (DBPs), and 80+ trace minerals. Traditional Ayurvedic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Shilajit
 type: supplement
-updated: '2026-03-28T08:31:47.833516Z'
+updated: '2026-03-28T19:47:19.169123Z'
 ---
 
 {% raw %}
@@ -34,15 +34,15 @@ updated: '2026-03-28T08:31:47.833516Z'
 <p>250-500mg purified extract daily</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/tongkat-ali/" class="internal-link">Tongkat_Ali</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/cistanche/" class="internal-link">Cistanche</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/coenzyme-a/" class="internal-link">Coenzyme_A</a></p>
+<p>RELATED::<a href="/entities/supplement/tongkat-ali/" class="internal-link">Tongkat_Ali</a><br />
+RELATED::<a href="/entities/supplement/cistanche/" class="internal-link">Cistanche</a><br />
+RELATED::<a href="/entities/metabolite/coenzyme-a/" class="internal-link">Coenzyme_A</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/hormone/testosterone/" class="internal-link">Testosterone</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sarcopenia/" class="internal-link">Sarcopenia</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a></p>
 
 {% endraw %}

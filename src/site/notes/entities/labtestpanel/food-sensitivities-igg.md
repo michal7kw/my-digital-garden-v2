@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.812775Z'
+created: '2026-03-28T19:47:18.479052Z'
 description: Food-specific IgG testing identifies immunoglobulin G (IgG) responses
   associated with potential food sensitivities or intolerances. Unlike IgE-mediated
   allergies, which cause immediate reactions, IgG responses are linked to delayed
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: food_sensitivities_igg
 type: labtestpanel
-updated: '2026-03-28T08:31:46.812775Z'
+updated: '2026-03-28T19:47:18.479052Z'
 ---
 
 {% raw %}

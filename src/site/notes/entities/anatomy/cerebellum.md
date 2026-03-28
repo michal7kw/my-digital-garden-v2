@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.910875Z'
+created: '2026-03-28T19:47:16.878239Z'
 description: Contains over half the brain's neurons despite being 10% of brain volume.
   Essential for motor coordination, balance, timing, and increasingly recognized for
   cognitive and emotional processing.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cerebellum
 type: Anatomy
-updated: '2026-03-28T08:31:44.910875Z'
+updated: '2026-03-28T19:47:16.878239Z'
 ---
 
 {% raw %}
@@ -32,6 +32,6 @@ updated: '2026-03-28T08:31:44.910875Z'
 </ul>
 <h2>Relationships</h2>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 
 {% endraw %}

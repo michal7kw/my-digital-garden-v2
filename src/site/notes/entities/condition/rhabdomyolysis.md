@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.728811Z'
+created: '2026-03-28T19:47:17.540251Z'
 description: A serious medical condition involving the rapid breakdown of damaged
   skeletal muscle, releasing toxic cell contents into the bloodstream.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rhabdomyolysis
 type: condition
-updated: '2026-03-28T08:31:45.728811Z'
+updated: '2026-03-28T19:47:17.540251Z'
 ---
 
 {% raw %}
@@ -24,10 +24,10 @@ updated: '2026-03-28T08:31:45.728811Z'
 <p>A serious medical condition involving the rapid breakdown of damaged skeletal muscle, releasing toxic cell contents into the bloodstream.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">Potassium</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a></p>
 
 {% endraw %}

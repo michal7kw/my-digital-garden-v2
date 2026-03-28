@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.174118Z'
+created: '2026-03-28T19:47:17.948445Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: copper_serum
 type: labtest
-updated: '2026-03-28T08:31:46.174118Z'
+updated: '2026-03-28T19:47:17.948445Z'
 ---
 
 {% raw %}
@@ -55,7 +55,7 @@ updated: '2026-03-28T08:31:46.174118Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">copper</a></li>
+<li><a href="/entities/biomarker/copper/" class="internal-link">copper</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -66,11 +66,11 @@ updated: '2026-03-28T08:31:46.174118Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">iron</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+RELATED_TESTS::<a href="/entities/supplement/iron/" class="internal-link">iron</a><br />
+RELATED_TESTS::<a href="/entities/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">Copper</a></p>
+<p>MEASURES::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

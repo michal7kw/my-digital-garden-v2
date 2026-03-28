@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.935984Z'
+created: '2026-03-28T19:47:17.714682Z'
 description: Solute carrier family 6 member 4, encoding the serotonin transporter
   (SERT/5-HTT). The 5-HTTLPR polymorphism in the promoter region modulates serotonin
   reuptake efficiency and is associated with differential stress sensitivity, depression
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SLC6A4
 type: gene
-updated: '2026-03-28T08:31:45.935984Z'
+updated: '2026-03-28T19:47:17.714682Z'
 ---
 
 {% raw %}
@@ -26,20 +26,20 @@ updated: '2026-03-28T08:31:45.935984Z'
 <p>SLC6A4 encodes the serotonin transporter (SERT), which clears serotonin from the synaptic cleft — the direct target of SSRIs. The 5-HTTLPR promoter polymorphism has short (S) and long (L) alleles: S/S carriers have reduced SERT expression with higher synaptic serotonin at baseline but increased vulnerability to stress-related depression (gene × environment interaction). L/L carriers have more efficient serotonin clearance and may respond better to SSRIs. The rs25531 A&gt;G variant further modifies L allele function (L_G behaves like S).</p>
 <h2>Relationships</h2>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/post-traumatic-stress-disorder/" class="internal-link">Post-Traumatic Stress Disorder</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/post-traumatic-stress-disorder/" class="internal-link">Post-Traumatic Stress Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/5-htp/" class="internal-link">5-HTP</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:12869766 — 5-HTTLPR and stress-depression interaction</li>

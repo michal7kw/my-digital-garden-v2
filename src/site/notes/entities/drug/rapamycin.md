@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.911178Z'
+created: '2026-03-28T19:47:17.694673Z'
 description: mTOR inhibitor originally developed as immunosuppressant, now studied
   for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One
   of the most promising longevity interventions.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Rapamycin
 type: drug
-updated: '2026-03-28T08:31:45.911178Z'
+updated: '2026-03-28T19:47:17.694673Z'
 ---
 
 {% raw %}
@@ -26,6 +26,6 @@ updated: '2026-03-28T08:31:45.911178Z'
 <p>mTOR inhibitor originally developed as immunosuppressant, now studied for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One of the most promising longevity interventions.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a></p>
+<p>RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.943609Z'
+created: '2026-03-28T19:47:17.720764Z'
 description: Target chronic low-grade inflammation, a root driver of cardiovascular
   disease, neurodegeneration, and accelerated aging. This stack combines omega-3 for
   resolvin production, curcumin for NF-kB inhibition, vitamin D for immune regulation,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-Inflammation
 type: healthstack
-updated: '2026-03-28T08:31:45.943609Z'
+updated: '2026-03-28T19:47:17.720764Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-03-28T08:31:45.943609Z'
 <td>Immune modulator — regulates both innate and adaptive immunity</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/quercetin/" class="internal-link">Quercetin</a></td>
+<td><a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a></td>
 <td>500mg</td>
 <td>twice daily</td>
 <td>empty stomach</td>
@@ -86,14 +86,14 @@ updated: '2026-03-28T08:31:45.943609Z'
 <td>Gold standard inflammatory biomarker</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/esr/" class="internal-link">ESR</a></td>
+<td><a href="/entities/labtest/esr/" class="internal-link">ESR</a></td>
 <td>0-20</td>
 <td>0-10</td>
 <td>mm/hr</td>
 <td>Non-specific inflammation marker, complements CRP</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>20-200</td>
 <td>40-100</td>
 <td>ng/mL</td>

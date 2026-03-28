@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.725760Z'
+created: '2026-03-28T19:47:18.413375Z'
 description: Vitamin D is an essential nutrient for immune health, strong bones and
   muscles, and optimal brain performance. Unlike most vitamins, it isn't widely available
   in food and is mainly made in the body through sun exposure. Because of this, low
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d
 type: labtest
-updated: '2026-03-28T08:31:46.725760Z'
+updated: '2026-03-28T19:47:18.413375Z'
 ---
 
 {% raw %}
@@ -59,7 +59,7 @@ updated: '2026-03-28T08:31:46.725760Z'
 </table>
 <h2>🧬 Biomarkers Measured</h2>
 <p>This test measures the following biomarkers with detailed measurement context:</p>
-<h3><a href="/garden/michal.k7w@gmail.com/primary/vitamin-d-25-hydroxy/" class="internal-link">Vitamin D, 25-Hydroxy</a> (Primary)</h3>
+<h3><a href="/entities/primary/vitamin-d-25-hydroxy/" class="internal-link">Vitamin D, 25-Hydroxy</a> (Primary)</h3>
 <table>
 <thead>
 <tr>
@@ -122,7 +122,7 @@ updated: '2026-03-28T08:31:46.725760Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
+<li><a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Bone Loss (Osteopenia Or Osteoporosis)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Low Mood/Cognitive Effects</a></li>
@@ -152,20 +152,20 @@ updated: '2026-03-28T08:31:46.725760Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Osteopenia_Or_Osteoporosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Low_MoodCognitive_Effects</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a></p>
+RELATED::<a href="/entities/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
 <h3>Measures</h3>
 <p>MEASURES::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-Hydroxy</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

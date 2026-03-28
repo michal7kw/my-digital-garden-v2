@@ -82,7 +82,13 @@ function getGraph(data) {
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
-      let link = (stemURLs[olink] || olink).split('#')[0];
+      // Normalize: strip trailing slash for stemURLs lookup
+      let normalized = olink.replace(/\/+$/, '');
+      let link = (stemURLs[normalized] || stemURLs[olink] || olink).split('#')[0];
+      // Ensure leading slash for nodes lookup
+      if (link && !link.startsWith('/')) link = '/' + link;
+      // Ensure trailing slash for URL matching
+      if (link && !link.endsWith('/')) link = link + '/';
       outBound.add(link);
     });
     node.outBound = Array.from(outBound);

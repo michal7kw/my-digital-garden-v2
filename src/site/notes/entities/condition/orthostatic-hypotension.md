@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.644349Z'
+created: '2026-03-28T19:47:17.469054Z'
 description: A form of low blood pressure that happens when standing up from sitting
   or lying down, causing dizziness or fainting.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Orthostatic Hypotension
 type: condition
-updated: '2026-03-28T08:31:45.644349Z'
+updated: '2026-03-28T19:47:17.469054Z'
 ---
 
 {% raw %}
@@ -23,13 +23,13 @@ updated: '2026-03-28T08:31:45.644349Z'
 <p>A form of low blood pressure that happens when standing up from sitting or lying down, causing dizziness or fainting.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">Sodium</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

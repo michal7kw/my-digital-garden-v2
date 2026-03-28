@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.511570Z'
+created: '2026-03-28T19:47:18.945038Z'
 description: Neurotrophin essential for the survival, growth, and maintenance of sympathetic,
   sensory, and basal forebrain cholinergic neurons. First neurotrophin discovered
   (Rita Levi-Montalcini, 1986 Nobel Prize). Stimulated by PQQ in astrocytes, modulated
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Nerve Growth Factor
 type: protein
-updated: '2026-03-28T08:31:47.511570Z'
+updated: '2026-03-28T19:47:18.945038Z'
 ---
 
 {% raw %}
@@ -84,23 +84,23 @@ updated: '2026-03-28T08:31:47.511570Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Stimulated By</h3>
-<p>STIMULATED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+<p>STIMULATED_BY::<a href="/entities/supplement/pqq/" class="internal-link">PQQ</a><br />
 STIMULATED_BY::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a></p>
 <h3>Modulated By</h3>
-<p>MODULATED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
+<p>MODULATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/creb/" class="internal-link">CREB</a></p>
+<p>RELATED::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+RELATED::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+RELATED::<a href="/entities/protein/creb/" class="internal-link">CREB</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:8518462 - PQQ stimulates NGF synthesis in astrocytes</li>

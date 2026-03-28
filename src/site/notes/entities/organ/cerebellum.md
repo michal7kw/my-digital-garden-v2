@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.974624Z'
+created: '2026-03-28T19:47:18.601360Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/cerebellum/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Cerebellum
 type: organ
-updated: '2026-03-28T08:31:46.974624Z'
+updated: '2026-03-28T19:47:18.601360Z'
 ---
 
 {% raw %}

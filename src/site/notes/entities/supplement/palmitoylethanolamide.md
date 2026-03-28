@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.803236Z'
+created: '2026-03-28T19:47:19.142839Z'
 description: Endogenous fatty acid amide produced naturally in the body as part of
   the endocannabinoid system. Acts primarily through PPAR-alpha activation and indirect
   cannabinoid receptor modulation. Clinically studied for chronic pain, neuroinflammation,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Palmitoylethanolamide
 type: supplement
-updated: '2026-03-28T08:31:47.803236Z'
+updated: '2026-03-28T19:47:19.142839Z'
 ---
 
 {% raw %}
@@ -33,18 +33,18 @@ updated: '2026-03-28T08:31:47.803236Z'
 <p>300-1200mg daily, typically 600mg twice daily. Ultra-micronized form preferred for bioavailability.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/endorphins/" class="internal-link">Endorphins</a></p>
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/entities/neurotransmitter/endorphins/" class="internal-link">Endorphins</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 
 {% endraw %}

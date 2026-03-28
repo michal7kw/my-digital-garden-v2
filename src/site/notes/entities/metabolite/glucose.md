@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.875422Z'
+created: '2026-03-28T19:47:18.522599Z'
 description: The primary six-carbon monosaccharide fuel for cellular energy production
   and the entry point for glycolysis, the most fundamental molecule in human energy
   metabolism.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose
 type: metabolite
-updated: '2026-03-28T08:31:46.875422Z'
+updated: '2026-03-28T19:47:18.522599Z'
 ---
 
 {% raw %}
@@ -79,19 +79,19 @@ updated: '2026-03-28T08:31:46.875422Z'
 </table>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>RELATED::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+RELATED::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
+RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
+RELATED::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a><br />
+RELATED::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 <h3>Converted To</h3>
-<p>CONVERTED_TO::<a href="/garden/michal.k7w@gmail.com/metabolite/glucose-6-phosphate/" class="internal-link">Glucose-6-Phosphate</a><br />
-CONVERTED_TO::<a href="/garden/michal.k7w@gmail.com/metabolite/pyruvate/" class="internal-link">Pyruvate</a></p>
+<p>CONVERTED_TO::<a href="/entities/metabolite/glucose-6-phosphate/" class="internal-link">Glucose-6-Phosphate</a><br />
+CONVERTED_TO::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate</a></p>
 <h3>Participates In</h3>
-<p>PARTICIPATES_IN::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
-PARTICIPATES_IN::<a href="/garden/michal.k7w@gmail.com/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a></p>
+<p>PARTICIPATES_IN::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+PARTICIPATES_IN::<a href="/entities/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a></p>
 <h3>Modulated By</h3>
-<p>MODULATED_BY::<a href="/garden/michal.k7w@gmail.com/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a></p>
+<p>MODULATED_BY::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a></p>
 <h2>References</h2>
 <ul>
 <li>Berg JM, Tymoczko JL, Stryer L. Biochemistry. 8th edition. Chapter 16: Glycolysis and Gluconeogenesis.</li>

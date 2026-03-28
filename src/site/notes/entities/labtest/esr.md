@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.224093Z'
+created: '2026-03-28T19:47:17.990115Z'
 description: Non-specific marker of inflammation. Used in monitoring inflammatory
   conditions.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: esr
 type: labtest
-updated: '2026-03-28T08:31:46.224093Z'
+updated: '2026-03-28T19:47:17.990115Z'
 ---
 
 {% raw %}

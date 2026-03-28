@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.446924Z'
+created: '2026-03-28T19:47:18.897503Z'
 description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critical
   for the metabolism of proton pump inhibitors (omeprazole, pantoprazole) and the
   bioactivation of clopidogrel. Poor metabolizers have increased PPI exposure and
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C19
 type: protein
-updated: '2026-03-28T08:31:47.446924Z'
+updated: '2026-03-28T19:47:18.897503Z'
 ---
 
 {% raw %}
@@ -79,9 +79,9 @@ updated: '2026-03-28T08:31:47.446924Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
+<p>RELATED::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/entities/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
+RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h2>References</h2>
 <ul>
 <li>Scott SA et al. Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy. Clin Pharmacol Ther. 2013;94(3):317-323. PMID:23698643</li>

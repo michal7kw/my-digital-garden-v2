@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.936740Z'
+created: '2026-03-28T19:47:16.902244Z'
 description: Alpha-fetoprotein is a major fetal plasma protein that serves as a tumor
   marker for hepatocellular carcinoma and certain germ cell tumors. Elevated levels
   in non-pregnant adults suggest hepatic malignancy, testicular cancer, or liver disease.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: AFP
 type: biomarker
-updated: '2026-03-28T08:31:44.936740Z'
+updated: '2026-03-28T19:47:16.902244Z'
 ---
 
 {% raw %}
@@ -21,8 +21,8 @@ updated: '2026-03-28T08:31:44.936740Z'
 <p>Alpha-fetoprotein is a major fetal plasma protein that serves as a tumor marker for hepatocellular carcinoma and certain germ cell tumors. Elevated levels in non-pregnant adults suggest hepatic malignancy, testicular cancer, or liver disease.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cea/" class="internal-link">CEA</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
+<p>CORRELATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">CEA</a><br />
+CORRELATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
 CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Gamma-Glutamyl_Transferase</a></p>
 
 {% endraw %}

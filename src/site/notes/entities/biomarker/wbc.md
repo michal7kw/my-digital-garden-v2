@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.288092Z'
+created: '2026-03-28T19:47:17.129958Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/wbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Wbc
 type: biomarker
-updated: '2026-03-28T08:31:45.288092Z'
+updated: '2026-03-28T19:47:17.129958Z'
 ---
 
 {% raw %}
@@ -17,6 +17,6 @@ updated: '2026-03-28T08:31:45.288092Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/bones/" class="internal-link">Bones</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>
 
 {% endraw %}

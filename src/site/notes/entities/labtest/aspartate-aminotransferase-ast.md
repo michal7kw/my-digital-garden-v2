@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.111457Z'
+created: '2026-03-28T19:47:17.895131Z'
 description: Tested twice a year Aspartate aminotransferase (AST) is an enzyme found
   throughout the body, especially in the liver, heart, and muscles. When these tissues
   are stressed or damaged, AST can be released into the bloodstream, so higher levels
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: aspartate_aminotransferase_ast
 type: labtest
-updated: '2026-03-28T08:31:46.111457Z'
+updated: '2026-03-28T19:47:17.895131Z'
 ---
 
 {% raw %}
@@ -66,12 +66,12 @@ updated: '2026-03-28T08:31:46.111457Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscle_Injury_Rhabdomyolysis_Strenuous_Exercise_Trauma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Heart_Attack</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
+RELATED::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

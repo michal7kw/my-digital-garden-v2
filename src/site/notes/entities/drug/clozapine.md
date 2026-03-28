@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.827579Z'
+created: '2026-03-28T19:47:17.631846Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-03-28T08:31:45.827579Z'
+updated: '2026-03-28T19:47:17.631846Z'
 ---
 
 {% raw %}
@@ -25,13 +25,13 @@ updated: '2026-03-28T08:31:45.827579Z'
 <p>Atypical antipsychotic known for its superior efficacy in treatment-resistant schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Choline_salicylate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Myocarditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Agranulocytosis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_sulfate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine_D4_Receptor</a><br />
@@ -41,11 +41,11 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Suicidal_Ideation</a
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease_Psychosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Black_cohosh</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">5-HT2A_Receptor</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Farnesyl_thiopyrophosphate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Octylphenoxy_polyethoxyethanol</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">25-Dimethoxy-4-ethylthioamphetamine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vinyl_ether</a></p>
 
 {% endraw %}

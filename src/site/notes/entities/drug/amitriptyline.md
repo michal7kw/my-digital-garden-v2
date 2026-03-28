@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.796206Z'
+created: '2026-03-28T19:47:17.601715Z'
 description: Tricyclic antidepressant (TCA) that inhibits the reuptake of serotonin
   and norepinephrine. Widely used for depression, neuropathic pain, and migraine prophylaxis.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Amitriptyline
 type: drug
-updated: '2026-03-28T08:31:45.796206Z'
+updated: '2026-03-28T19:47:17.601715Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-03-28T08:31:45.796206Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Lithium_hydroxide</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">SSRI</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Migraine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metocurine_iodide</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bismuth_subgallate</a><br />
@@ -35,12 +35,12 @@ RELATED::<a class="internal-link is-unresolved" href="/404">1-2-Phenylethyl-4-ph
 RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_ascorbate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuropathic_Pain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Fibromyalgia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Insomnia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Botulinum_Toxin_Type_B</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">MAOI</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Nitrous_oxide</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alcohol</a><br />

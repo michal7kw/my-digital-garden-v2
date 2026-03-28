@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.105994Z'
+created: '2026-03-28T19:47:17.886604Z'
 description: Tested twice a year The appearance of urine—its color, clarity, and presence
   of foam—can provide simple but valuable clues about hydration, diet, and overall
   metabolic balance. Possible symptoms CLOUDY URINE FOAMY URINE DARK URINE PINK OR
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: appearance_urine
 type: labtest
-updated: '2026-03-28T08:31:46.105994Z'
+updated: '2026-03-28T19:47:17.886604Z'
 ---
 
 {% raw %}
@@ -64,12 +64,12 @@ updated: '2026-03-28T08:31:46.105994Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Stone_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder_Disease</a><br />
+RELATED::<a href="/entities/condition/bladder-disease/" class="internal-link">Bladder_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

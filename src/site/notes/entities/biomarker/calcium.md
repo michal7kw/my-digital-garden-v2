@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:44.995197Z'
+created: '2026-03-28T19:47:16.944156Z'
 description: Calcium is the most abundant mineral in the human body, essential for
   bone structure, muscle contraction, nerve transmission, and blood coagulation. Serum
   calcium levels are tightly regulated by parathyroid hormone (PTH) and Vitamin D.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Calcium
 type: biomarker
-updated: '2026-03-28T08:31:44.995197Z'
+updated: '2026-03-28T19:47:16.944156Z'
 ---
 
 {% raw %}
@@ -25,19 +25,19 @@ updated: '2026-03-28T08:31:44.995197Z'
 <p>Calcium is the most abundant mineral in the human body, essential for bone structure, muscle contraction, nerve transmission, and blood coagulation. Serum calcium levels are tightly regulated by parathyroid hormone (PTH) and Vitamin D.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
+<p>CORRELATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
 CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Phosphorus</a></p>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/bones/" class="internal-link">Bones</a><br />
-INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a><br />
-INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/thyroid/" class="internal-link">Thyroid</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+<p>REQUIRES_COFACTOR::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.485654Z'
+created: '2026-03-28T19:47:18.929013Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: gene
-updated: '2026-03-28T08:31:47.485654Z'
+updated: '2026-03-28T19:47:18.929013Z'
 ---
 
 {% raw %}
@@ -24,14 +24,14 @@ updated: '2026-03-28T08:31:47.485654Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Breast_Cancer</a></p>
 <h3>Activated By</h3>
-<p>ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/labtest/estradiol/" class="internal-link">Estradiol</a></p>
+<p>ACTIVATED_BY::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a><br />
+ACTIVATED_BY::<a href="/entities/labtest/estradiol/" class="internal-link">Estradiol</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/gene/src/" class="internal-link">SRC</a><br />
-INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/gene/ep300/" class="internal-link">EP300</a><br />
+<p>INTERACTS_WITH::<a href="/entities/gene/src/" class="internal-link">SRC</a><br />
+INTERACTS_WITH::<a href="/entities/gene/ep300/" class="internal-link">EP300</a><br />
 INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">ESR2</a></p>
 <h3>Encodes</h3>
 <p>ENCODES::<a class="internal-link is-unresolved" href="/404">Estrogen_Receptor_Alpha</a></p>

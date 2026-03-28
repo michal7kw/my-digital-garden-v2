@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.186116Z'
+created: '2026-03-28T19:47:17.046706Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mthfr-c677t/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr C677T
 type: biomarker
-updated: '2026-03-28T08:31:45.186116Z'
+updated: '2026-03-28T19:47:17.046706Z'
 ---
 
 {% raw %}
@@ -18,7 +18,7 @@ updated: '2026-03-28T08:31:45.186116Z'
 <h2>Relationships</h2>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/mthfr-genotype/" class="internal-link">mthfr_genotype</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr_genotype</a> (labtest)</li>
 </ul>
 
 {% endraw %}

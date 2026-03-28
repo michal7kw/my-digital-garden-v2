@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.919365Z'
+created: '2026-03-28T19:47:18.556134Z'
 description: Four-carbon dicarboxylic acid intermediate of the citric acid cycle.
   Uniquely connects the TCA cycle to the electron transport chain through succinate
   dehydrogenase (Complex II), and serves as an important signaling molecule in inflammation
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Succinate
 type: metabolite
-updated: '2026-03-28T08:31:46.919365Z'
+updated: '2026-03-28T19:47:18.556134Z'
 ---
 
 {% raw %}

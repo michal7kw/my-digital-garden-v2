@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:45.398342Z'
+created: '2026-03-28T19:47:17.260864Z'
 description: Serious gastrointestinal emergencies involving either a blockage of the
   intestines (obstruction) or a tear in the intestinal wall (perforation).
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Bowel Obstruction and Perforation
 type: condition
-updated: '2026-03-28T08:31:45.398342Z'
+updated: '2026-03-28T19:47:17.260864Z'
 ---
 
 {% raw %}
@@ -25,10 +25,10 @@ updated: '2026-03-28T08:31:45.398342Z'
 <p>Serious gastrointestinal emergencies involving either a blockage of the intestines (obstruction) or a tear in the intestinal wall (perforation).</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">Wbc</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/procalcitonin/" class="internal-link">Procalcitonin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/procalcitonin/" class="internal-link">Procalcitonin</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a></p>
 
 {% endraw %}

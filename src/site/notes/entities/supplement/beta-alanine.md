@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.676912Z'
+created: '2026-03-28T19:47:19.031913Z'
 description: Non-essential amino acid that increases intramuscular carnosine concentrations,
   buffering hydrogen ions during high-intensity exercise to delay the onset of acidosis
   and extend time to fatigue.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Alanine
 type: supplement
-updated: '2026-03-28T08:31:47.676912Z'
+updated: '2026-03-28T19:47:19.031913Z'
 ---
 
 {% raw %}
@@ -51,17 +51,17 @@ updated: '2026-03-28T08:31:47.676912Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/hiit-training/" class="internal-link">HIIT Training</a></p>
+<p>RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a><br />
+RELATED::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT Training</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/sodium-bicarbonate/" class="internal-link">Sodium Bicarbonate</a></p>
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/sodium-bicarbonate/" class="internal-link">Sodium Bicarbonate</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/acid-base-imbalance/" class="internal-link">Acid-Base Imbalance</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/acid-base-imbalance/" class="internal-link">Acid-Base Imbalance</a></p>
 <h2>References</h2>
 <ul>
 <li>Trexler ET et al. International society of sports nutrition position stand: Beta-Alanine. J Int Soc Sports Nutr. 2015;12:30. PMID:26175657</li>

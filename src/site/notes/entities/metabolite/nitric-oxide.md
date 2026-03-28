@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:46.900033Z'
+created: '2026-03-28T19:47:18.543519Z'
 description: Gaseous signaling molecule with vasodilatory, neurotransmitter, and immune
   defense functions. Produced enzymatically by three NOS isoforms (eNOS, nNOS, iNOS)
   requiring tetrahydrobiopterin (BH4) as cofactor, or non-enzymatically via the dietary
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Nitric Oxide
 type: metabolite
-updated: '2026-03-28T08:31:46.900033Z'
+updated: '2026-03-28T19:47:18.543519Z'
 ---
 
 {% raw %}
@@ -86,23 +86,23 @@ updated: '2026-03-28T08:31:46.900033Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Supported By</h3>
-<p>SUPPORTED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/betanin/" class="internal-link">Betanin</a></p>
+<p>SUPPORTED_BY::<a href="/entities/supplement/betanin/" class="internal-link">Betanin</a></p>
 <h3>Modulated By</h3>
-<p>MODULATED_BY::<a href="/garden/michal.k7w@gmail.com/drug/methylene-blue/" class="internal-link">Methylene Blue</a></p>
+<p>MODULATED_BY::<a href="/entities/drug/methylene-blue/" class="internal-link">Methylene Blue</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/metabolite/tetrahydrobiopterin/" class="internal-link">Tetrahydrobiopterin</a></p>
+<p>REQUIRES_COFACTOR::<a href="/entities/metabolite/tetrahydrobiopterin/" class="internal-link">Tetrahydrobiopterin</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ginkgo-biloba/" class="internal-link">Ginkgo Biloba</a></p>
+<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
+RELATED::<a href="/entities/supplement/ginkgo-biloba/" class="internal-link">Ginkgo Biloba</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:10764858 - Nitric oxide signaling in the cardiovascular system</li>

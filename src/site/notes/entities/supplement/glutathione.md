@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.731054Z'
+created: '2026-03-28T19:47:19.073289Z'
 description: The body's master antioxidant, available as a supplement in liposomal
   form for enhanced bioavailability. Protects mitochondrial membranes and DNA from
   oxidative damage caused by reactive oxygen species generated during oxidative phosphorylation.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Glutathione
 type: supplement
-updated: '2026-03-28T08:31:47.731054Z'
+updated: '2026-03-28T19:47:19.073289Z'
 ---
 
 {% raw %}
@@ -62,24 +62,24 @@ updated: '2026-03-28T08:31:47.731054Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
+<p>RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+RELATED::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a></p>
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
 <h2>References</h2>
 <ul>
 <li>Forman HJ et al. Glutathione: overview of its protective roles, measurement, and biosynthesis. Mol Aspects Med. 2009;30(1-2):1-12. PMID:18796312</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T08:31:47.842285Z'
+created: '2026-03-28T19:47:19.178282Z'
 description: Nutrient-dense blue-green algae (cyanobacteria) with high protein content
   and powerful antioxidant properties. Contains phycocyanin, the unique blue pigment
   with potent anti-inflammatory effects.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Spirulina
 type: supplement
-updated: '2026-03-28T08:31:47.842285Z'
+updated: '2026-03-28T19:47:19.178282Z'
 ---
 
 {% raw %}
@@ -28,14 +28,14 @@ updated: '2026-03-28T08:31:47.842285Z'
 <p><strong>Research Summary:</strong> Strong evidence for lipid improvement, blood pressure reduction, and antioxidant effects. NASA studied it as a complete food for space travel. Heavy metal contamination is a concern - source quality matters.</p>
 <h2>Relationships</h2>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></p>
 
 {% endraw %}
