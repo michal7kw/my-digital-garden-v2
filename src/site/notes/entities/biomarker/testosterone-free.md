@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.054590Z'
+created: '2026-03-28T08:31:45.250740Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/testosterone-free/
+permalink: /entities/biomarker/testosterone-free/
 slug: testosterone-free
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Testosterone Free
 type: biomarker
-updated: '2026-03-28T07:29:06.054590Z'
+updated: '2026-03-28T08:31:45.250740Z'
 ---
 
 {% raw %}

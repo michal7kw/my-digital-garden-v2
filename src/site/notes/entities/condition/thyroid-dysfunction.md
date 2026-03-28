@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.132179Z'
+created: '2026-03-28T08:31:45.331923Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/
+permalink: /entities/condition/thyroid-dysfunction/
 slug: thyroid-dysfunction
 tags:
 - condition
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: condition
-updated: '2026-03-28T07:29:06.132179Z'
+updated: '2026-03-28T08:31:45.331923Z'
 ---
 
 {% raw %}

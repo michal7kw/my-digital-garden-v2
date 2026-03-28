@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.995665Z'
+created: '2026-03-28T08:31:45.184180Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/mcv/
+permalink: /entities/biomarker/mcv/
 slug: mcv
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Mcv
 type: biomarker
-updated: '2026-03-28T07:29:05.995665Z'
+updated: '2026-03-28T08:31:45.184180Z'
 ---
 
 {% raw %}

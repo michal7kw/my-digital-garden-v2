@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.304365Z'
+created: '2026-03-28T08:31:45.492904Z'
 description: A type of diabetes that develops during pregnancy in women who did not
   already have diabetes, caused by placental hormones blocking insulin action.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/gestational-diabetes/
+permalink: /entities/condition/gestational-diabetes/
 slug: gestational-diabetes
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Gestational Diabetes
 type: condition
-updated: '2026-03-28T07:29:06.304365Z'
+updated: '2026-03-28T08:31:45.492904Z'
 ---
 
 {% raw %}

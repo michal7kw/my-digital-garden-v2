@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.268378Z'
+created: '2026-03-28T08:31:45.461180Z'
 description: A common and serious medical illness that negatively affects how you
   feel, the way you think, and how you act.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/depressive-disorder/
+permalink: /entities/condition/depressive-disorder/
 slug: depressive-disorder
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Depressive Disorder
 type: condition
-updated: '2026-03-28T07:29:06.268378Z'
+updated: '2026-03-28T08:31:45.461180Z'
 ---
 
 {% raw %}

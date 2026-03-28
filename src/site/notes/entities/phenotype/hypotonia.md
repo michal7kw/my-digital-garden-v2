@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.896582Z'
+created: '2026-03-28T08:31:47.328257Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/hypotonia/
+permalink: /entities/phenotype/hypotonia/
 slug: hypotonia
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Hypotonia
 type: phenotype
-updated: '2026-03-28T07:29:07.896582Z'
+updated: '2026-03-28T08:31:47.328257Z'
 ---
 
 {% raw %}

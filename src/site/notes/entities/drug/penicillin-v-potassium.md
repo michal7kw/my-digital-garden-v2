@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.650938Z'
+created: '2026-03-28T08:31:45.898946Z'
 description: The potassium salt form of Penicillin V, designed for oral administration
   to treat mild to moderate bacterial infections.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/penicillin-v-potassium/
+permalink: /entities/drug/penicillin-v-potassium/
 slug: penicillin-v-potassium
 tags:
 - drug
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Potassium
 type: drug
-updated: '2026-03-28T07:29:06.650938Z'
+updated: '2026-03-28T08:31:45.898946Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.367836Z'
+created: '2026-03-28T08:31:45.569839Z'
 description: Multi-system condition occurring after SARS-CoV-2 infection, defined
   by WHO as symptoms persisting or developing 3+ months after initial infection, lasting
   at least 2 months, and not explained by alternative diagnoses. Affects an estimated
@@ -8,8 +8,7 @@ description: Multi-system condition occurring after SARS-CoV-2 infection, define
   and autonomic dysfunction.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/long-covid/
+permalink: /entities/condition/long-covid/
 slug: long-covid
 tags:
 - condition
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Long COVID
 type: condition
-updated: '2026-03-28T07:29:06.367836Z'
+updated: '2026-03-28T08:31:45.569839Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.086337Z'
+created: '2026-03-28T08:31:46.294379Z'
 description: Tested twice a year Hemoglobin is the protein in red blood cells that
   carries oxygen from the lungs to the rest of the body, supporting energy and healthy
   organ function. Low hemoglobin may indicate anemia due to vitamin deficiencies,
@@ -7,8 +7,7 @@ description: Tested twice a year Hemoglobin is the protein in red blood cells th
   Higher hemoglobin levels can be seen with dehydration or certain blood disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hemoglobin/
+permalink: /entities/labtest/hemoglobin/
 slug: hemoglobin
 tags:
 - labtest
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: hemoglobin
 type: labtest
-updated: '2026-03-28T07:29:07.086337Z'
+updated: '2026-03-28T08:31:46.294379Z'
 ---
 
 {% raw %}

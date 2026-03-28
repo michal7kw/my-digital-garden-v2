@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.189670Z'
+created: '2026-03-28T08:31:45.380455Z'
 description: A condition in which the immune system mistakenly attacks and damages
   the body's own healthy cells, tissues, and organs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/autoimmune-disease/
+permalink: /entities/condition/autoimmune-disease/
 slug: autoimmune-disease
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Disease
 type: condition
-updated: '2026-03-28T07:29:06.189670Z'
+updated: '2026-03-28T08:31:45.380455Z'
 ---
 
 {% raw %}

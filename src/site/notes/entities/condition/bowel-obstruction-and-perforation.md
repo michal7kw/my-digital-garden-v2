@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.214705Z'
+created: '2026-03-28T08:31:45.398342Z'
 description: Serious gastrointestinal emergencies involving either a blockage of the
   intestines (obstruction) or a tear in the intestinal wall (perforation).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/bowel-obstruction-and-perforation/
+permalink: /entities/condition/bowel-obstruction-and-perforation/
 slug: bowel-obstruction-and-perforation
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Bowel Obstruction and Perforation
 type: condition
-updated: '2026-03-28T07:29:06.214705Z'
+updated: '2026-03-28T08:31:45.398342Z'
 ---
 
 {% raw %}

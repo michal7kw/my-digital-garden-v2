@@ -1,14 +1,13 @@
 ---
 aliases:
 - CS
-created: '2026-03-28T07:29:08.011539Z'
+created: '2026-03-28T08:31:47.459522Z'
 description: First enzyme of the TCA cycle, catalyzing the condensation of acetyl-CoA
   with oxaloacetate to form citrate and free CoA. A key marker of mitochondrial content
   and aerobic capacity, widely used in research to assess mitochondrial density.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/citrate-synthase/
+permalink: /entities/protein/citrate-synthase/
 slug: citrate-synthase
 tags:
 - protein
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Citrate Synthase
 type: protein
-updated: '2026-03-28T07:29:08.011539Z'
+updated: '2026-03-28T08:31:47.459522Z'
 ---
 
 {% raw %}

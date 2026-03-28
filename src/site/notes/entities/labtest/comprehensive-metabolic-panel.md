@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:06.987584Z'
+created: '2026-03-28T08:31:46.166999Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/
+permalink: /entities/labtest/comprehensive-metabolic-panel/
 slug: comprehensive-metabolic-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-03-28T07:29:06.987584Z'
+updated: '2026-03-28T08:31:46.166999Z'
 ---
 
 {% raw %}

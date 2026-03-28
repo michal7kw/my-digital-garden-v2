@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.628515Z'
+created: '2026-03-28T08:31:46.961661Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/anterior-cingulate-cortex/
+permalink: /entities/organ/anterior-cingulate-cortex/
 slug: anterior-cingulate-cortex
 tags:
 - organ
 templateEngineOverride: njk
 title: Anterior Cingulate Cortex
 type: organ
-updated: '2026-03-28T07:29:07.628515Z'
+updated: '2026-03-28T08:31:46.961661Z'
 ---
 
 {% raw %}

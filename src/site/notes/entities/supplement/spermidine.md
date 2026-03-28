@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.378376Z'
+created: '2026-03-28T08:31:47.838729Z'
 description: Natural polyamine that induces autophagy via inhibition of acetyltransferase
   EP300 (p300). Found in wheat germ, soybeans, aged cheese, natto, and mushrooms.
   Associated with increased lifespan in yeast, flies, worms, and mice. Human epidemiological
@@ -7,8 +7,7 @@ description: Natural polyamine that induces autophagy via inhibition of acetyltr
   cognitive decline.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/spermidine/
+permalink: /entities/supplement/spermidine/
 slug: spermidine
 tags:
 - supplement
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Spermidine
 type: supplement
-updated: '2026-03-28T07:29:08.378376Z'
+updated: '2026-03-28T08:31:47.838729Z'
 ---
 
 {% raw %}

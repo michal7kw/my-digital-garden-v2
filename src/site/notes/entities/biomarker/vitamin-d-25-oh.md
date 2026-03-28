@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.079392Z'
+created: '2026-03-28T08:31:45.282602Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/
+permalink: /entities/biomarker/vitamin-d-25-oh/
 slug: vitamin-d-25-oh
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Vitamin D (25-OH)
 type: biomarker
-updated: '2026-03-28T07:29:06.079392Z'
+updated: '2026-03-28T08:31:45.282602Z'
 ---
 
 {% raw %}

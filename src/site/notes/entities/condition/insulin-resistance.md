@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.111444Z'
+created: '2026-03-28T08:31:45.316751Z'
 description: A physiological condition where cells fail to respond normally to the
   hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/insulin-resistance/
+permalink: /entities/condition/insulin-resistance/
 slug: insulin-resistance
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Resistance
 type: condition
-updated: '2026-03-28T07:29:06.111444Z'
+updated: '2026-03-28T08:31:45.316751Z'
 ---
 
 {% raw %}

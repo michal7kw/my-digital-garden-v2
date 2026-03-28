@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.467821Z'
+created: '2026-03-28T08:31:46.740314Z'
 description: Tested twice a year White blood cells (WBCs) in urine, known as leukocyturia,
   indicate the immune system is active in the urinary tract, often helping the body
   respond to infection or inflammation. When present in significant amounts, urinary
@@ -7,15 +7,14 @@ description: Tested twice a year White blood cells (WBCs) in urine, known as leu
   conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/white-blood-cell-urine/
+permalink: /entities/labtest/white-blood-cell-urine/
 slug: white-blood-cell-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: white_blood_cell_urine
 type: labtest
-updated: '2026-03-28T07:29:07.467821Z'
+updated: '2026-03-28T08:31:46.740314Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.859038Z'
+created: '2026-03-28T08:31:46.034285Z'
 description: Form of intermittent fasting that restricts daily food intake to a consistent
   window (typically 8-12 hours), aligning eating with circadian rhythms. Distinguished
   from general intermittent fasting by emphasis on meal timing rather than caloric
@@ -7,8 +7,7 @@ description: Form of intermittent fasting that restricts daily food intake to a 
   of caloric intake.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/time-restricted-eating/
+permalink: /entities/intervention/time-restricted-eating/
 slug: time-restricted-eating
 tags:
 - intervention
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Time-Restricted Eating
 type: intervention
-updated: '2026-03-28T07:29:06.859038Z'
+updated: '2026-03-28T08:31:46.034285Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.707462Z'
+created: '2026-03-28T08:31:47.086665Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/cholinergic-basal-forebrain-pathways/
+permalink: /entities/pathway/cholinergic-basal-forebrain-pathways/
 slug: cholinergic-basal-forebrain-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Cholinergic Basal Forebrain Pathways
 type: pathway
-updated: '2026-03-28T07:29:07.707462Z'
+updated: '2026-03-28T08:31:47.086665Z'
 ---
 
 {% raw %}

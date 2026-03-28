@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:06.705133Z'
+created: '2026-03-28T08:31:45.942814Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/ybx1/
+permalink: /entities/gene/ybx1/
 slug: ybx1
 tags:
 - gene
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: YBX1
 type: gene
-updated: '2026-03-28T07:29:06.705133Z'
+updated: '2026-03-28T08:31:45.942814Z'
 ---
 
 {% raw %}

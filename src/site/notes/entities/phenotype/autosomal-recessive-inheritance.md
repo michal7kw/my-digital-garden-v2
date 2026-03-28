@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.830532Z'
+created: '2026-03-28T08:31:47.250791Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/autosomal-recessive-inheritance/
+permalink: /entities/phenotype/autosomal-recessive-inheritance/
 slug: autosomal-recessive-inheritance
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal recessive inheritance
 type: phenotype
-updated: '2026-03-28T07:29:07.830532Z'
+updated: '2026-03-28T08:31:47.250791Z'
 ---
 
 {% raw %}

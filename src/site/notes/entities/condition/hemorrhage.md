@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.332226Z'
+created: '2026-03-28T08:31:45.519114Z'
 description: The release of blood from a broken blood vessel, either inside or outside
   the body.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/hemorrhage/
+permalink: /entities/condition/hemorrhage/
 slug: hemorrhage
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hemorrhage
 type: condition
-updated: '2026-03-28T07:29:06.332226Z'
+updated: '2026-03-28T08:31:45.519114Z'
 ---
 
 {% raw %}

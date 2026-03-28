@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.598915Z'
+created: '2026-03-28T08:31:46.916857Z'
 description: Universal methyl donor involved in over 200 methylation reactions including
   DNA methylation, neurotransmitter synthesis, phospholipid metabolism, and detoxification.
   Synthesized from methionine and ATP by methionine adenosyltransferase. After donating
@@ -7,8 +7,7 @@ description: Universal methyl donor involved in over 200 methylation reactions i
   cycle.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/s-adenosylmethionine/
+permalink: /entities/metabolite/s-adenosylmethionine/
 slug: s-adenosylmethionine
 tags:
 - metabolite
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: S-Adenosylmethionine
 type: metabolite
-updated: '2026-03-28T07:29:07.598915Z'
+updated: '2026-03-28T08:31:46.916857Z'
 ---
 
 {% raw %}

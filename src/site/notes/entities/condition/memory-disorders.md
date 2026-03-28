@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.384775Z'
+created: '2026-03-28T08:31:45.587900Z'
 description: A group of conditions that impair the ability to store, retain, and recall
   information, often resulting from neurological damage or degeneration.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/memory-disorders/
+permalink: /entities/condition/memory-disorders/
 slug: memory-disorders
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Memory Disorders
 type: condition
-updated: '2026-03-28T07:29:06.384775Z'
+updated: '2026-03-28T08:31:45.587900Z'
 ---
 
 {% raw %}

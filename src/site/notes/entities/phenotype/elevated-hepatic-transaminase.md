@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.858045Z'
+created: '2026-03-28T08:31:47.281564Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/elevated-hepatic-transaminase/
+permalink: /entities/phenotype/elevated-hepatic-transaminase/
 slug: elevated-hepatic-transaminase
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Elevated hepatic transaminase
 type: phenotype
-updated: '2026-03-28T07:29:07.858045Z'
+updated: '2026-03-28T08:31:47.281564Z'
 ---
 
 {% raw %}

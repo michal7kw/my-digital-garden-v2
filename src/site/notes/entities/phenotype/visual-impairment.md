@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.958014Z'
+created: '2026-03-28T08:31:47.396191Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/visual-impairment/
+permalink: /entities/phenotype/visual-impairment/
 slug: visual-impairment
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Visual impairment
 type: phenotype
-updated: '2026-03-28T07:29:07.958014Z'
+updated: '2026-03-28T08:31:47.396191Z'
 ---
 
 {% raw %}

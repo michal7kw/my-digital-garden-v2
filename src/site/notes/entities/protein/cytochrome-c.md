@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.019335Z'
+created: '2026-03-28T08:31:47.466477Z'
 description: A small heme protein that serves as an essential electron carrier in
   the mitochondrial electron transport chain, shuttling electrons from Complex III
   to Complex IV. Also plays a crucial role in apoptosis when released into the cytoplasm.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/cytochrome-c/
+permalink: /entities/protein/cytochrome-c/
 slug: cytochrome-c
 tags:
 - protein
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cytochrome C
 type: protein
-updated: '2026-03-28T07:29:08.019335Z'
+updated: '2026-03-28T08:31:47.466477Z'
 ---
 
 {% raw %}

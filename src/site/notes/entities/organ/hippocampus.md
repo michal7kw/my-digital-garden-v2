@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.644808Z'
+created: '2026-03-28T08:31:46.985561Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/hippocampus/
+permalink: /entities/organ/hippocampus/
 slug: hippocampus
 tags:
 - organ
 templateEngineOverride: njk
 title: Hippocampus
 type: organ
-updated: '2026-03-28T07:29:07.644808Z'
+updated: '2026-03-28T08:31:46.985561Z'
 ---
 
 {% raw %}

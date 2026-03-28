@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.911878Z'
+created: '2026-03-28T08:31:45.024398Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/dha/
+permalink: /entities/biomarker/dha/
 slug: dha
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Dha
 type: biomarker
-updated: '2026-03-28T07:29:05.911878Z'
+updated: '2026-03-28T08:31:45.024398Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.499311Z'
+created: '2026-03-28T08:31:46.782134Z'
 description: Celiac disease is an autoimmune disorder in which the immune system attacks
   the intestinal lining in response to gluten, a protein found in wheat, barley, and
   rye, affecting an estimated 1 in 141 Americans, though most cases go undiagnosed.
@@ -13,15 +13,14 @@ description: Celiac disease is an autoimmune disorder in which the immune system
   (IgG) Tissue Transglutaminase (IgA) Deamidated Gliadin (IgA) Immunoglobulin A (IgA)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/
+permalink: /entities/labtestpanel/celiac-gluten-intolerance/
 slug: celiac-gluten-intolerance
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: celiac_gluten_intolerance
 type: labtestpanel
-updated: '2026-03-28T07:29:07.499311Z'
+updated: '2026-03-28T08:31:46.782134Z'
 ---
 
 {% raw %}

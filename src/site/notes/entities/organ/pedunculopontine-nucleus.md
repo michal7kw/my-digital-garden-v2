@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.664832Z'
+created: '2026-03-28T08:31:47.020690Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/pedunculopontine-nucleus/
+permalink: /entities/organ/pedunculopontine-nucleus/
 slug: pedunculopontine-nucleus
 tags:
 - organ
 templateEngineOverride: njk
 title: Pedunculopontine Nucleus
 type: organ
-updated: '2026-03-28T07:29:07.664832Z'
+updated: '2026-03-28T08:31:47.020690Z'
 ---
 
 {% raw %}

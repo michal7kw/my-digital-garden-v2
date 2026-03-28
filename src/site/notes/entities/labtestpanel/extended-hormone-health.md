@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.514373Z'
+created: '2026-03-28T08:31:46.797459Z'
 description: 'Beyond standard hormone tests, these offer deeper insights into metabolic
   health, growth factors, and the hormones that influence physical performance and
   recovery. These hormones influence reproductive health, aging, and metabolism, regulating
@@ -9,15 +9,14 @@ description: 'Beyond standard hormone tests, these offer deeper insights into me
   Androstenedione'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/
+permalink: /entities/labtestpanel/extended-hormone-health/
 slug: extended-hormone-health
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_hormone_health
 type: labtestpanel
-updated: '2026-03-28T07:29:07.514373Z'
+updated: '2026-03-28T08:31:46.797459Z'
 ---
 
 {% raw %}

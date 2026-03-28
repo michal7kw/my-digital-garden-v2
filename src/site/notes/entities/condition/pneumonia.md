@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.464910Z'
+created: '2026-03-28T08:31:45.696792Z'
 description: An infection that inflames the air sacs (alveoli) in one or both lungs,
   which may fill with fluid or pus.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/pneumonia/
+permalink: /entities/condition/pneumonia/
 slug: pneumonia
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Pneumonia
 type: condition
-updated: '2026-03-28T07:29:06.464910Z'
+updated: '2026-03-28T08:31:45.696792Z'
 ---
 
 {% raw %}

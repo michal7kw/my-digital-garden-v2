@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.035690Z'
+created: '2026-03-28T08:31:47.485654Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/esr1/
+permalink: /entities/gene/esr1/
 slug: esr1
 tags:
 - gene
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: gene
-updated: '2026-03-28T07:29:08.035690Z'
+updated: '2026-03-28T08:31:47.485654Z'
 ---
 
 {% raw %}

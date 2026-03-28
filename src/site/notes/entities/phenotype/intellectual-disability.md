@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.904110Z'
+created: '2026-03-28T08:31:47.337493Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/intellectual-disability/
+permalink: /entities/phenotype/intellectual-disability/
 slug: intellectual-disability
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Intellectual disability
 type: phenotype
-updated: '2026-03-28T07:29:07.904110Z'
+updated: '2026-03-28T08:31:47.337493Z'
 ---
 
 {% raw %}

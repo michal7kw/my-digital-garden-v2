@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.886430Z'
+created: '2026-03-28T08:31:47.317759Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/headache/
+permalink: /entities/phenotype/headache/
 slug: headache
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Headache
 type: phenotype
-updated: '2026-03-28T07:29:07.886430Z'
+updated: '2026-03-28T08:31:47.317759Z'
 ---
 
 {% raw %}

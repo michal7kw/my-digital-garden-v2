@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.631022Z'
+created: '2026-03-28T08:31:46.966017Z'
 description: Fluid connective tissue transporting oxygen, nutrients, hormones, and
   waste products throughout the body. Contains red cells, white cells, platelets,
   and plasma.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/blood/
+permalink: /entities/organ/blood/
 slug: blood
 tags:
 - organ
 templateEngineOverride: njk
 title: Blood
 type: organ
-updated: '2026-03-28T07:29:07.631022Z'
+updated: '2026-03-28T08:31:46.966017Z'
 ---
 
 {% raw %}

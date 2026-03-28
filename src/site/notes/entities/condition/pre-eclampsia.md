@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.474124Z'
+created: '2026-03-28T08:31:45.706716Z'
 description: A pregnancy complication characterized by high blood pressure and signs
   of damage to another organ system, most often the liver and kidneys.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/pre-eclampsia/
+permalink: /entities/condition/pre-eclampsia/
 slug: pre-eclampsia
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pre-Eclampsia
 type: condition
-updated: '2026-03-28T07:29:06.474124Z'
+updated: '2026-03-28T08:31:45.706716Z'
 ---
 
 {% raw %}

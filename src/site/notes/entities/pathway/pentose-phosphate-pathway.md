@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.782159Z'
+created: '2026-03-28T08:31:47.187643Z'
 description: A metabolic pathway parallel to glycolysis that generates NADPH for biosynthesis
   and antioxidant defense, and ribose-5-phosphate for nucleotide synthesis. Essential
   for rapidly dividing cells and cells requiring high antioxidant capacity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/pentose-phosphate-pathway/
+permalink: /entities/pathway/pentose-phosphate-pathway/
 slug: pentose-phosphate-pathway
 tags:
 - pathway
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Pentose Phosphate Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.782159Z'
+updated: '2026-03-28T08:31:47.187643Z'
 ---
 
 {% raw %}

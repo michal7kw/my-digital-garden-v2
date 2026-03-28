@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.845131Z'
+created: '2026-03-28T08:31:44.945604Z'
 description: Alanine Transaminase (ALT) is an enzyme primarily found in liver cells.
   It is released into the bloodstream when liver cells are damaged, making it a sensitive
   indicator of hepatocyte injury.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/
+permalink: /entities/biomarker/alanine-transaminase/
 slug: alanine-transaminase
 tags:
 - biomarker
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alanine Transaminase
 type: biomarker
-updated: '2026-03-28T07:29:05.845131Z'
+updated: '2026-03-28T08:31:44.945604Z'
 ---
 
 {% raw %}

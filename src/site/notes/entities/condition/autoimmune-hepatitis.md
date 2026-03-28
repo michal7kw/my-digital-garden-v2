@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.192515Z'
+created: '2026-03-28T08:31:45.382254Z'
 description: A chronic liver disease in which the body's immune system mistakenly
   attacks liver cells, causing inflammation and liver damage.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/
+permalink: /entities/condition/autoimmune-hepatitis/
 slug: autoimmune-hepatitis
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Hepatitis
 type: condition
-updated: '2026-03-28T07:29:06.192515Z'
+updated: '2026-03-28T08:31:45.382254Z'
 ---
 
 {% raw %}

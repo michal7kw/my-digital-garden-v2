@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:07.595357Z'
+created: '2026-03-28T08:31:46.910708Z'
 description: High-energy phosphate compound that serves as a rapid ATP buffer in tissues
   with high and fluctuating energy demands, particularly skeletal muscle, heart, and
   brain. The phosphocreatine-creatine kinase system provides immediate ATP regeneration
   during intense activity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/phosphocreatine/
+permalink: /entities/metabolite/phosphocreatine/
 slug: phosphocreatine
 tags:
 - metabolite
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphocreatine
 type: metabolite
-updated: '2026-03-28T07:29:07.595357Z'
+updated: '2026-03-28T08:31:46.910708Z'
 ---
 
 {% raw %}

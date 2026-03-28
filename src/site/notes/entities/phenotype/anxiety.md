@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:07.808178Z'
+created: '2026-03-28T08:31:47.223409Z'
 description: A feeling of apprehension, fear, nervousness, or dread often accompanied
   by physical symptoms.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/anxiety/
+permalink: /entities/phenotype/anxiety/
 slug: anxiety
 tags:
 - phenotype
@@ -14,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Anxiety
 type: phenotype
-updated: '2026-03-28T07:29:07.808178Z'
+updated: '2026-03-28T08:31:47.223409Z'
 ---
 
 {% raw %}

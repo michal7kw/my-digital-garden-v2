@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.240112Z'
+created: '2026-03-28T08:31:46.443428Z'
 description: Research-grade global metabolomics profiling measuring 1000+ metabolites.
   Provides comprehensive metabolic fingerprint.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/metabolon-global/
+permalink: /entities/labtest/metabolon-global/
 slug: metabolon-global
 tags:
 - labtest
 templateEngineOverride: njk
 title: metabolon_global
 type: labtest
-updated: '2026-03-28T07:29:07.240112Z'
+updated: '2026-03-28T08:31:46.443428Z'
 ---
 
 {% raw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.658688Z'
+created: '2026-03-28T08:31:47.007322Z'
 description: Contractile tissue enabling movement, posture, and heat production. Singular
   reference for skeletal muscle tissue.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/muscle/
+permalink: /entities/organ/muscle/
 slug: muscle
 tags:
 - organ
 templateEngineOverride: njk
 title: Muscle
 type: organ
-updated: '2026-03-28T07:29:07.658688Z'
+updated: '2026-03-28T08:31:47.007322Z'
 ---
 
 {% raw %}

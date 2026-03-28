@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.936756Z'
+created: '2026-03-28T08:31:47.376156Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/short-stature/
+permalink: /entities/phenotype/short-stature/
 slug: short-stature
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Short stature
 type: phenotype
-updated: '2026-03-28T07:29:07.936756Z'
+updated: '2026-03-28T08:31:47.376156Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.033830Z'
+created: '2026-03-28T08:31:45.220849Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/potassium/
+permalink: /entities/biomarker/potassium/
 slug: potassium
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Potassium
 type: biomarker
-updated: '2026-03-28T07:29:06.033830Z'
+updated: '2026-03-28T08:31:45.220849Z'
 ---
 
 {% raw %}

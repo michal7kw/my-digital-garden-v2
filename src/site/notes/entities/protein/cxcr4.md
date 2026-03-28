@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.998251Z'
+created: '2026-03-28T08:31:47.441949Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/cxcr4/
+permalink: /entities/protein/cxcr4/
 slug: cxcr4
 tags:
 - protein
 templateEngineOverride: njk
 title: CXCR4
 type: protein
-updated: '2026-03-28T07:29:07.998251Z'
+updated: '2026-03-28T08:31:47.441949Z'
 ---
 
 {% raw %}

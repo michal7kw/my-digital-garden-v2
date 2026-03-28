@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.200245Z'
+created: '2026-03-28T08:31:47.662686Z'
 description: An Ayurvedic herb (Brahmi) traditionally used for cognitive enhancement.
   Contains bacosides that support memory consolidation, reduce anxiety, and provide
   neuroprotection through antioxidant mechanisms.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/bacopa-monnieri/
+permalink: /entities/supplement/bacopa-monnieri/
 slug: bacopa-monnieri
 tags:
 - supplement
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacopa Monnieri
 type: supplement
-updated: '2026-03-28T07:29:08.200245Z'
+updated: '2026-03-28T08:31:47.662686Z'
 ---
 
 {% raw %}

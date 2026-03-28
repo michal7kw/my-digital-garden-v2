@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.109436Z'
+created: '2026-03-28T08:31:47.553384Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/stat3/
+permalink: /entities/gene/stat3/
 slug: stat3
 tags:
 - gene
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: STAT3
 type: gene
-updated: '2026-03-28T07:29:08.109436Z'
+updated: '2026-03-28T08:31:47.553384Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.964842Z'
+created: '2026-03-28T08:31:46.140562Z'
 description: Tested twice a year Calcium levels help understand symptoms related to
   the kidneys, bones, thyroid, parathyroid, or nerves. Calcium is a mineral the body
   uses to build and maintain strong bones, teeth, muscle control, and blood circulation.
@@ -7,8 +7,7 @@ description: Tested twice a year Calcium levels help understand symptoms related
   PAIN, NAUSEA, OR CONSTIPATION BONE OR JOINT PAIN CONFUSION OR BRAIN FOG
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/calcium/
+permalink: /entities/labtest/calcium/
 slug: calcium
 tags:
 - labtest
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: calcium
 type: labtest
-updated: '2026-03-28T07:29:06.964842Z'
+updated: '2026-03-28T08:31:46.140562Z'
 ---
 
 {% raw %}

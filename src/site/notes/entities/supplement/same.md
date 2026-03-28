@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.363635Z'
+created: '2026-03-28T08:31:47.829662Z'
 description: S-Adenosyl-L-methionine - the body's universal methyl donor. Essential
   for neurotransmitter synthesis, DNA methylation, and cartilage formation. FDA-approved
   for osteoarthritis; used for depression in Europe.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/same/
+permalink: /entities/supplement/same/
 slug: same
 tags:
 - supplement
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SAMe
 type: supplement
-updated: '2026-03-28T07:29:08.363635Z'
+updated: '2026-03-28T08:31:47.829662Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.348174Z'
+created: '2026-03-28T08:31:45.540135Z'
 description: A broad category of diseases caused by the invasion and multiplication
   of pathogenic microorganisms (bacteria, viruses, fungi, parasites) in the body.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/infections/
+permalink: /entities/condition/infections/
 slug: infections
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Infections
 type: condition
-updated: '2026-03-28T07:29:06.348174Z'
+updated: '2026-03-28T08:31:45.540135Z'
 ---
 
 {% raw %}

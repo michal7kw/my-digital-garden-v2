@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.261987Z'
+created: '2026-03-28T08:31:47.731054Z'
 description: The body's master antioxidant, available as a supplement in liposomal
   form for enhanced bioavailability. Protects mitochondrial membranes and DNA from
   oxidative damage caused by reactive oxygen species generated during oxidative phosphorylation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/glutathione/
+permalink: /entities/supplement/glutathione/
 slug: glutathione
 tags:
 - supplement
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Glutathione
 type: supplement
-updated: '2026-03-28T07:29:08.261987Z'
+updated: '2026-03-28T08:31:47.731054Z'
 ---
 
 {% raw %}

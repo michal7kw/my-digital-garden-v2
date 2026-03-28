@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.092244Z'
+created: '2026-03-28T08:31:45.297960Z'
 description: Membrane-bound organelle responsible for modifying, sorting, and packaging
   proteins and lipids for secretion or delivery to other organelles. Consists of stacked
   cisternae (cis, medial, trans) with distinct enzymatic activities. Central hub of
   the endomembrane secretory pathway.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cellularcomponent/golgi-apparatus/
+permalink: /entities/cellularcomponent/golgi-apparatus/
 slug: golgi-apparatus
 tags:
 - cellularcomponent
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Golgi Apparatus
 type: cellularcomponent
-updated: '2026-03-28T07:29:06.092244Z'
+updated: '2026-03-28T08:31:45.297960Z'
 ---
 
 {% raw %}

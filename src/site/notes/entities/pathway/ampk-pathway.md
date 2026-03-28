@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.683020Z'
+created: '2026-03-28T08:31:47.053393Z'
 description: AMP-activated protein kinase (AMPK) pathway is a master regulator of
   cellular energy homeostasis, activated during metabolic stress to restore energy
   balance by stimulating catabolic pathways and inhibiting anabolic processes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/ampk-pathway/
+permalink: /entities/pathway/ampk-pathway/
 slug: ampk-pathway
 tags:
 - pathway
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: AMPK Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.683020Z'
+updated: '2026-03-28T08:31:47.053393Z'
 ---
 
 {% raw %}

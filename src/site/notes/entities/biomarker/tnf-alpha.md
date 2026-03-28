@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:06.053445Z'
+created: '2026-03-28T08:31:45.248125Z'
 description: Tumor Necrosis Factor Alpha is a pro-inflammatory cytokine produced primarily
   by activated macrophages, playing a central role in systemic inflammation and immune
   cell regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/tnf-alpha/
+permalink: /entities/biomarker/tnf-alpha/
 slug: tnf-alpha
 tags:
 - biomarker
 templateEngineOverride: njk
 title: TNF Alpha
 type: biomarker
-updated: '2026-03-28T07:29:06.053445Z'
+updated: '2026-03-28T08:31:45.248125Z'
 ---
 
 {% raw %}

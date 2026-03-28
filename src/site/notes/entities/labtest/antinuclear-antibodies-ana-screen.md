@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.908399Z'
+created: '2026-03-28T08:31:46.091859Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (ANA)
   screen looks for antibodies that sometimes target the body’s own cells. A positive
   result may suggest autoimmune activity, but it is also found in many healthy people.
@@ -9,15 +9,14 @@ description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (AN
   IN FINGERS OR TOES WITH COLD OR STRESS) HAIR LOSS (ALOPECIA)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-ana-screen/
+permalink: /entities/labtest/antinuclear-antibodies-ana-screen/
 slug: antinuclear-antibodies-ana-screen
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_screen
 type: labtest
-updated: '2026-03-28T07:29:06.908399Z'
+updated: '2026-03-28T08:31:46.091859Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.337978Z'
+created: '2026-03-28T08:31:45.528701Z'
 description: A condition where there is too much or too little of one or more hormones
   in the body, which can disrupt many essential processes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/hormonal-imbalance/
+permalink: /entities/condition/hormonal-imbalance/
 slug: hormonal-imbalance
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hormonal Imbalance
 type: condition
-updated: '2026-03-28T07:29:06.337978Z'
+updated: '2026-03-28T08:31:45.528701Z'
 ---
 
 {% raw %}

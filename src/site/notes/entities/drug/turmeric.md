@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.663229Z'
+created: '2026-03-28T08:31:45.913909Z'
 description: Turmeric is a spice derived from the root of the Curcuma longa plant,
   known for its active compound curcumin, which possesses potent anti-inflammatory
   and antioxidant properties.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/turmeric/
+permalink: /entities/drug/turmeric/
 slug: turmeric
 tags:
 - drug
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Turmeric
 type: drug
-updated: '2026-03-28T07:29:06.663229Z'
+updated: '2026-03-28T08:31:45.913909Z'
 ---
 
 {% raw %}

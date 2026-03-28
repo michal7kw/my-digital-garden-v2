@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.552628Z'
+created: '2026-03-28T08:31:45.784561Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/weight-gain/
+permalink: /entities/condition/weight-gain/
 slug: weight-gain
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Gain
 type: condition
-updated: '2026-03-28T07:29:06.552628Z'
+updated: '2026-03-28T08:31:45.784561Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.798956Z'
+created: '2026-03-28T08:31:44.912328Z'
 description: Medial cortical structure forming a collar around the corpus callosum.
   The anterior cingulate (ACC) is critical for error detection and conflict monitoring;
   posterior cingulate for self-referential processing.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/Anatomy/cingulate-cortex/
+permalink: /entities/Anatomy/cingulate-cortex/
 slug: cingulate-cortex
 tags:
 - Anatomy
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cingulate Cortex
 type: Anatomy
-updated: '2026-03-28T07:29:05.798956Z'
+updated: '2026-03-28T08:31:44.912328Z'
 ---
 
 {% raw %}

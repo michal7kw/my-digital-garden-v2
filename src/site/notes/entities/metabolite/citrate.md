@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.567585Z'
+created: '2026-03-28T08:31:46.863495Z'
 description: Six-carbon tricarboxylic acid that is the first intermediate of the citric
   acid cycle. Formed by condensation of acetyl-CoA with oxaloacetate, citrate also
   serves as a key regulator of glycolysis and fatty acid synthesis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/citrate/
+permalink: /entities/metabolite/citrate/
 slug: citrate
 tags:
 - metabolite
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Citrate
 type: metabolite
-updated: '2026-03-28T07:29:07.567585Z'
+updated: '2026-03-28T08:31:46.863495Z'
 ---
 
 {% raw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.217734Z'
+created: '2026-03-28T08:31:46.415967Z'
 description: Intracellular magnesium. More accurate than serum for assessing true
   magnesium status.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/magnesium-rbc/
+permalink: /entities/labtest/magnesium-rbc/
 slug: magnesium-rbc
 tags:
 - labtest
 templateEngineOverride: njk
 title: magnesium_rbc
 type: labtest
-updated: '2026-03-28T07:29:07.217734Z'
+updated: '2026-03-28T08:31:46.415967Z'
 ---
 
 {% raw %}

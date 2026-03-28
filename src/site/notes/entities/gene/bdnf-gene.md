@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.664513Z'
+created: '2026-03-28T08:31:45.915142Z'
 description: Brain-Derived Neurotrophic Factor gene encoding the BDNF protein, critical
   for neuronal survival, synaptic plasticity, and memory formation. The Val66Met (rs6265)
   polymorphism impairs activity-dependent BDNF secretion and is associated with reduced
   hippocampal volume and altered stress response.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/bdnf-gene/
+permalink: /entities/gene/bdnf-gene/
 slug: bdnf-gene
 tags:
 - gene
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BDNF Gene
 type: gene
-updated: '2026-03-28T07:29:06.664513Z'
+updated: '2026-03-28T08:31:45.915142Z'
 ---
 
 {% raw %}

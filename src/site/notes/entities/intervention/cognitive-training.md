@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.820420Z'
+created: '2026-03-28T08:31:45.998028Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/cognitive-training/
+permalink: /entities/intervention/cognitive-training/
 slug: cognitive-training
 tags:
 - intervention
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-03-28T07:29:06.820420Z'
+updated: '2026-03-28T08:31:45.998028Z'
 ---
 
 {% raw %}

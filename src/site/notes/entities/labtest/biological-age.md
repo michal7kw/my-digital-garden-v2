@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.947670Z'
+created: '2026-03-28T08:31:46.124079Z'
 description: Tested twice a year Biological age reflects how one's body is aging at
   the cellular and molecular levels, which can determine the risk of age-related conditions
   like cardiovascular diseases and cognitive decline. Unlike calendar age (number
@@ -10,15 +10,14 @@ description: Tested twice a year Biological age reflects how one's body is aging
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/biological-age/
+permalink: /entities/labtest/biological-age/
 slug: biological-age
 tags:
 - labtest
 templateEngineOverride: njk
 title: biological_age
 type: labtest
-updated: '2026-03-28T07:29:06.947670Z'
+updated: '2026-03-28T08:31:46.124079Z'
 ---
 
 {% raw %}

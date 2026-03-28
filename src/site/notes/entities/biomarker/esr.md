@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.925167Z'
+created: '2026-03-28T08:31:45.049091Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/esr/
+permalink: /entities/biomarker/esr/
 slug: esr
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Esr
 type: biomarker
-updated: '2026-03-28T07:29:05.925167Z'
+updated: '2026-03-28T08:31:45.049091Z'
 ---
 
 {% raw %}

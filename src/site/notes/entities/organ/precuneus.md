@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.668777Z'
+created: '2026-03-28T08:31:47.028506Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/precuneus/
+permalink: /entities/organ/precuneus/
 slug: precuneus
 tags:
 - organ
 templateEngineOverride: njk
 title: Precuneus
 type: organ
-updated: '2026-03-28T07:29:07.668777Z'
+updated: '2026-03-28T08:31:47.028506Z'
 ---
 
 {% raw %}

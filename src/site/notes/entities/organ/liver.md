@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.652974Z'
+created: '2026-03-28T08:31:46.998198Z'
 description: Largest internal organ responsible for detoxification, metabolism, bile
   production, and over 500 vital functions. Key target for supplements supporting
   phase I and II detoxification.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/liver/
+permalink: /entities/organ/liver/
 slug: liver
 tags:
 - organ
 templateEngineOverride: njk
 title: Liver
 type: organ
-updated: '2026-03-28T07:29:07.652974Z'
+updated: '2026-03-28T08:31:46.998198Z'
 ---
 
 {% raw %}

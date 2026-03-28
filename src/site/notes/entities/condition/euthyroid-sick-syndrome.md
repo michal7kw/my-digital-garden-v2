@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.288902Z'
+created: '2026-03-28T08:31:45.476998Z'
 description: A state of adaptation or dysregulation of the thyroid axis during severe
   non-thyroidal illness, characterized by abnormal thyroid tests in the absence of
   primary thyroid disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/euthyroid-sick-syndrome/
+permalink: /entities/condition/euthyroid-sick-syndrome/
 slug: euthyroid-sick-syndrome
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Euthyroid Sick Syndrome
 type: condition
-updated: '2026-03-28T07:29:06.288902Z'
+updated: '2026-03-28T08:31:45.476998Z'
 ---
 
 {% raw %}

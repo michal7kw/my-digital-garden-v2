@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.388056Z'
+created: '2026-03-28T08:31:45.591578Z'
 description: A natural biological process marking the end of a woman's reproductive
   years, defined as 12 consecutive months without a menstrual period.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/menopause/
+permalink: /entities/condition/menopause/
 slug: menopause
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Menopause
 type: condition
-updated: '2026-03-28T07:29:06.388056Z'
+updated: '2026-03-28T08:31:45.591578Z'
 ---
 
 {% raw %}

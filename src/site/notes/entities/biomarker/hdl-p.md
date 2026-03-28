@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.953474Z'
+created: '2026-03-28T08:31:45.124320Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/hdl-p/
+permalink: /entities/biomarker/hdl-p/
 slug: hdl-p
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Hdl P
 type: biomarker
-updated: '2026-03-28T07:29:05.953474Z'
+updated: '2026-03-28T08:31:45.124320Z'
 ---
 
 {% raw %}

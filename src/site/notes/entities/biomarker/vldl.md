@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.082433Z'
+created: '2026-03-28T08:31:45.286404Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/vldl/
+permalink: /entities/biomarker/vldl/
 slug: vldl
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Vldl
 type: biomarker
-updated: '2026-03-28T07:29:06.082433Z'
+updated: '2026-03-28T08:31:45.286404Z'
 ---
 
 {% raw %}

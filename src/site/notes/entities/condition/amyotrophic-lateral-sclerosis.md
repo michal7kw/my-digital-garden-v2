@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.179787Z'
+created: '2026-03-28T08:31:45.373308Z'
 description: A fatal neurodegenerative disease characterized by progressive loss of
   upper and lower motor neurons, leading to muscle weakness, paralysis, and death
   typically within 2-5 years of symptom onset.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/amyotrophic-lateral-sclerosis/
+permalink: /entities/condition/amyotrophic-lateral-sclerosis/
 slug: amyotrophic-lateral-sclerosis
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Amyotrophic Lateral Sclerosis
 type: condition
-updated: '2026-03-28T07:29:06.179787Z'
+updated: '2026-03-28T08:31:45.373308Z'
 ---
 
 {% raw %}

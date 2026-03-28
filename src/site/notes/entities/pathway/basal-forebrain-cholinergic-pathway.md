@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.699283Z'
+created: '2026-03-28T08:31:47.078949Z'
 description: Cholinergic projections from the basal forebrain (nucleus basalis of
   Meynert, medial septum) to the hippocampus and neocortex. Essential for memory encoding
   and attention. Severely affected in Alzheimer's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/basal-forebrain-cholinergic-pathway/
+permalink: /entities/pathway/basal-forebrain-cholinergic-pathway/
 slug: basal-forebrain-cholinergic-pathway
 tags:
 - pathway
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Forebrain Cholinergic Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.699283Z'
+updated: '2026-03-28T08:31:47.078949Z'
 ---
 
 {% raw %}

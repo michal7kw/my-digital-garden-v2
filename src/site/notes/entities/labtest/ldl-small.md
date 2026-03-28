@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:07.175398Z'
+created: '2026-03-28T08:31:46.370949Z'
 description: LDL particles can be small, medium, or large. Smaller, denser particles
   are considered more harmful because they more easily enter artery walls, promote
   inflammation, and raise the risk of plaque buildup and cardiovascular disease. Larger
   particles are less likely to do this and are generally considered less harmful.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/ldl-small/
+permalink: /entities/labtest/ldl-small/
 slug: ldl-small
 tags:
 - labtest
 templateEngineOverride: njk
 title: ldl_small
 type: labtest
-updated: '2026-03-28T07:29:07.175398Z'
+updated: '2026-03-28T08:31:46.370949Z'
 ---
 
 {% raw %}

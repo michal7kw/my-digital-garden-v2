@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:05.974808Z'
+created: '2026-03-28T08:31:45.161522Z'
 description: Interleukin-6 is a pleiotropic pro-inflammatory cytokine and key mediator
   of the acute-phase inflammatory response, produced by T cells, macrophages, and
   endothelial cells.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/interleukin-6/
+permalink: /entities/biomarker/interleukin-6/
 slug: interleukin-6
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Interleukin 6
 type: biomarker
-updated: '2026-03-28T07:29:05.974808Z'
+updated: '2026-03-28T08:31:45.161522Z'
 ---
 
 {% raw %}

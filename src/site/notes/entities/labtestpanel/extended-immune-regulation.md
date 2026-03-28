@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.516110Z'
+created: '2026-03-28T08:31:46.799301Z'
 description: These tests help evaluate susceptibility to infections, detect potential
   immunodeficiency disorders, and identify autoimmune conditions, providing essential
   insights for maintaining immune system balance and overall health. Immunoglobulins
@@ -8,15 +8,14 @@ description: These tests help evaluate susceptibility to infections, detect pote
   A (IgA) Immunoglobulin M (IgM)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/
+permalink: /entities/labtestpanel/extended-immune-regulation/
 slug: extended-immune-regulation
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_immune_regulation
 type: labtestpanel
-updated: '2026-03-28T07:29:07.516110Z'
+updated: '2026-03-28T08:31:46.799301Z'
 ---
 
 {% raw %}

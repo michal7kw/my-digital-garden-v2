@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:05.842215Z'
+created: '2026-03-28T08:31:44.942778Z'
 description: A group of specialized protein biomarkers (NGAL, KIM-1, Cystatin C, TIMP-2,
   IGFBP7) used for the early detection, risk stratification, and monitoring of acute
   kidney injury (AKI), often detecting damage 24-48 hours before serum creatinine
   rises.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/acute-kidney-injury-markers/
+permalink: /entities/biomarker/acute-kidney-injury-markers/
 slug: acute-kidney-injury-markers
 tags:
 - biomarker
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Kidney Injury Markers
 type: biomarker
-updated: '2026-03-28T07:29:05.842215Z'
+updated: '2026-03-28T08:31:44.942778Z'
 ---
 
 {% raw %}

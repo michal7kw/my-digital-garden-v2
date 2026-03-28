@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.274420Z'
+created: '2026-03-28T08:31:47.746512Z'
 description: Amino acid derivative essential for fatty acid transport into mitochondria
   for energy production. Supports heart health, exercise performance, and cognitive
   function. Multiple forms for different applications.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/l-carnitine/
+permalink: /entities/supplement/l-carnitine/
 slug: l-carnitine
 tags:
 - supplement
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: L-Carnitine
 type: supplement
-updated: '2026-03-28T07:29:08.274420Z'
+updated: '2026-03-28T08:31:47.746512Z'
 ---
 
 {% raw %}

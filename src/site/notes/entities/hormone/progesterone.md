@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.799318Z'
+created: '2026-03-28T08:31:45.988581Z'
 description: Steroid hormone primarily produced by the corpus luteum and placenta,
   essential for menstrual cycle regulation, pregnancy maintenance, and neuroprotection.
   Also synthesized in the brain as a neurosteroid with anxiolytic and neuroprotective
   properties.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/hormone/progesterone/
+permalink: /entities/hormone/progesterone/
 slug: progesterone
 tags:
 - hormone
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Progesterone
 type: hormone
-updated: '2026-03-28T07:29:06.799318Z'
+updated: '2026-03-28T08:31:45.988581Z'
 ---
 
 {% raw %}

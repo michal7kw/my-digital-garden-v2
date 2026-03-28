@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.512346Z'
+created: '2026-03-28T08:31:45.747745Z'
 description: A viral respiratory illness caused by a coronavirus (SARS-CoV), first
   identified in 2003.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/severe-acute-respiratory-syndrome/
+permalink: /entities/condition/severe-acute-respiratory-syndrome/
 slug: severe-acute-respiratory-syndrome
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Severe Acute Respiratory Syndrome
 type: condition
-updated: '2026-03-28T07:29:06.512346Z'
+updated: '2026-03-28T08:31:45.747745Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.679519Z'
+created: '2026-03-28T08:31:47.046399Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/superior-colliculus/
+permalink: /entities/organ/superior-colliculus/
 slug: superior-colliculus
 tags:
 - organ
 templateEngineOverride: njk
 title: Superior Colliculus
 type: organ
-updated: '2026-03-28T07:29:07.679519Z'
+updated: '2026-03-28T08:31:47.046399Z'
 ---
 
 {% raw %}

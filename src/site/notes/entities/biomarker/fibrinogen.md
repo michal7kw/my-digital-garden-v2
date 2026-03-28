@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.929568Z'
+created: '2026-03-28T08:31:45.063594Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/fibrinogen/
+permalink: /entities/biomarker/fibrinogen/
 slug: fibrinogen
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Fibrinogen
 type: biomarker
-updated: '2026-03-28T07:29:05.929568Z'
+updated: '2026-03-28T08:31:45.063594Z'
 ---
 
 {% raw %}

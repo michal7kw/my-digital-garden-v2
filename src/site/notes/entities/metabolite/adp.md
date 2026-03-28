@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.559838Z'
+created: '2026-03-28T08:31:46.851929Z'
 description: Adenosine diphosphate, the immediate precursor and product of ATP in
   cellular energy metabolism. ADP levels signal energy demand to mitochondria and
   regulate the rate of oxidative phosphorylation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/adp/
+permalink: /entities/metabolite/adp/
 slug: adp
 tags:
 - metabolite
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: ADP
 type: metabolite
-updated: '2026-03-28T07:29:07.559838Z'
+updated: '2026-03-28T08:31:46.851929Z'
 ---
 
 {% raw %}

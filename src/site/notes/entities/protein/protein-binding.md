@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.143309Z'
+created: '2026-03-28T08:31:47.588790Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/protein-binding/
+permalink: /entities/protein/protein-binding/
 slug: protein-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: protein binding
 type: protein
-updated: '2026-03-28T07:29:08.143309Z'
+updated: '2026-03-28T08:31:47.588790Z'
 ---
 
 {% raw %}

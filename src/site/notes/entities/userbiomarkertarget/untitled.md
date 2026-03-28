@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:08.420782Z'
+created: '2026-03-28T08:31:47.878723Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/UserBiomarkerTarget/untitled/
+permalink: /entities/UserBiomarkerTarget/untitled/
 slug: untitled
 tags:
 - UserBiomarkerTarget
 templateEngineOverride: njk
 title: Untitled
 type: UserBiomarkerTarget
-updated: '2026-03-28T07:29:08.420782Z'
+updated: '2026-03-28T08:31:47.878723Z'
 ---
 
 {% raw %}

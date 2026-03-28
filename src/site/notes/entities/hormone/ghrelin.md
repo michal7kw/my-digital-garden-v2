@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.786123Z'
+created: '2026-03-28T08:31:45.981417Z'
 description: 28-amino acid peptide hormone primarily produced by X/A-like cells in
   the gastric fundus. Known as the "hunger hormone" — stimulates appetite, growth
   hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl
@@ -7,8 +7,7 @@ description: 28-amino acid peptide hormone primarily produced by X/A-like cells 
   regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/hormone/ghrelin/
+permalink: /entities/hormone/ghrelin/
 slug: ghrelin
 tags:
 - hormone
@@ -21,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Ghrelin
 type: hormone
-updated: '2026-03-28T07:29:06.786123Z'
+updated: '2026-03-28T08:31:45.981417Z'
 ---
 
 {% raw %}

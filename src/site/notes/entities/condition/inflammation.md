@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.349632Z'
+created: '2026-03-28T08:31:45.542724Z'
 description: The immune system's response to injury or infection, characterized by
   redness, heat, swelling, and pain. Can be acute (healing) or chronic (damaging).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/inflammation/
+permalink: /entities/condition/inflammation/
 slug: inflammation
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammation
 type: condition
-updated: '2026-03-28T07:29:06.349632Z'
+updated: '2026-03-28T08:31:45.542724Z'
 ---
 
 {% raw %}

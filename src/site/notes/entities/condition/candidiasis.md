@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.221479Z'
+created: '2026-03-28T08:31:45.407964Z'
 description: A fungal infection caused by an overgrowth of Candida species, primarily
   Candida albicans, affecting the skin, mucous membranes, or internal organs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/candidiasis/
+permalink: /entities/condition/candidiasis/
 slug: candidiasis
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Candidiasis
 type: condition
-updated: '2026-03-28T07:29:06.221479Z'
+updated: '2026-03-28T08:31:45.407964Z'
 ---
 
 {% raw %}

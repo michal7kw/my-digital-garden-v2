@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.137034Z'
+created: '2026-03-28T08:31:45.336949Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/
+permalink: /entities/cognitivefunction/attention-and-focus/
 slug: attention-and-focus
 tags:
 - cognitivefunction
 templateEngineOverride: njk
 title: Attention and Focus
 type: cognitivefunction
-updated: '2026-03-28T07:29:06.137034Z'
+updated: '2026-03-28T08:31:45.336949Z'
 ---
 
 {% raw %}

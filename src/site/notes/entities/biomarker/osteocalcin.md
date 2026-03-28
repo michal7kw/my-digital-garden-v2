@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:06.017138Z'
+created: '2026-03-28T08:31:45.201045Z'
 description: Osteocalcin is a non-collagenous protein produced by osteoblasts that
   serves as a marker of bone formation. It also functions as a hormone affecting glucose
   metabolism and energy expenditure.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/osteocalcin/
+permalink: /entities/biomarker/osteocalcin/
 slug: osteocalcin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Osteocalcin
 type: biomarker
-updated: '2026-03-28T07:29:06.017138Z'
+updated: '2026-03-28T08:31:45.201045Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.501145Z'
+created: '2026-03-28T08:31:46.784057Z'
 description: Testing for Chronic Inflammatory Response Syndrome (CIRS), often associated
   with mold illness, offers insights into the body’s inflammatory response to mold
   and other environmental toxins. However, it does not directly detect mold exposure
@@ -9,15 +9,14 @@ description: Testing for Chronic Inflammatory Response Syndrome (CIRS), often as
   Ag Matrix Metalloproteinase-9 (MMP-9) Complement Component C4a
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/
+permalink: /entities/labtestpanel/chronic-inflammatory-response-mold-response/
 slug: chronic-inflammatory-response-mold-response
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: chronic_inflammatory_response_mold_response
 type: labtestpanel
-updated: '2026-03-28T07:29:07.501145Z'
+updated: '2026-03-28T08:31:46.784057Z'
 ---
 
 {% raw %}

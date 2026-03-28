@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.570086Z'
+created: '2026-03-28T08:31:46.866788Z'
 description: Reduced flavin adenine dinucleotide, an electron carrier that delivers
   electrons to Complex II of the electron transport chain. Produced primarily by succinate
   dehydrogenase in the citric acid cycle and by acyl-CoA dehydrogenase in beta-oxidation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/fadh2/
+permalink: /entities/metabolite/fadh2/
 slug: fadh2
 tags:
 - metabolite
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: FADH2
 type: metabolite
-updated: '2026-03-28T07:29:07.570086Z'
+updated: '2026-03-28T08:31:46.866788Z'
 ---
 
 {% raw %}

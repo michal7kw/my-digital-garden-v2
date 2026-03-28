@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.926019Z'
+created: '2026-03-28T08:31:45.051000Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/estradiol/
+permalink: /entities/biomarker/estradiol/
 slug: estradiol
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Estradiol
 type: biomarker
-updated: '2026-03-28T07:29:05.926019Z'
+updated: '2026-03-28T08:31:45.051000Z'
 ---
 
 {% raw %}

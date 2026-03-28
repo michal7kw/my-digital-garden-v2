@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.261426Z'
+created: '2026-03-28T08:31:45.451049Z'
 description: A type of heart disease characterized by the narrowing or blockage of
   the coronary arteries, usually caused by atherosclerosis, which reduces blood flow
   to the heart muscle.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/coronary-artery-disease/
+permalink: /entities/condition/coronary-artery-disease/
 slug: coronary-artery-disease
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Coronary Artery Disease
 type: condition
-updated: '2026-03-28T07:29:06.261426Z'
+updated: '2026-03-28T08:31:45.451049Z'
 ---
 
 {% raw %}

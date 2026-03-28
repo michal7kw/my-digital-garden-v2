@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.413899Z'
+created: '2026-03-28T08:31:45.624353Z'
 description: A broad term for diseases that affect the nerves that control voluntary
   muscles and the communication between nerves and muscles.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/neuromuscular-disorder/
+permalink: /entities/condition/neuromuscular-disorder/
 slug: neuromuscular-disorder
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Neuromuscular Disorder
 type: condition
-updated: '2026-03-28T07:29:06.413899Z'
+updated: '2026-03-28T08:31:45.624353Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.694928Z'
+created: '2026-03-28T08:31:47.070156Z'
 description: The cellular degradation and recycling system that removes damaged organelles
   and protein aggregates. Dysfunction contributes to accumulation of toxic proteins
   in neurodegenerative diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/
+permalink: /entities/pathway/autophagy-lysosomal-pathway/
 slug: autophagy-lysosomal-pathway
 tags:
 - pathway
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy-Lysosomal Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.694928Z'
+updated: '2026-03-28T08:31:47.070156Z'
 ---
 
 {% raw %}

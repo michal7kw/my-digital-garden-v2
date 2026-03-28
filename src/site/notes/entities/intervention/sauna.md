@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.850575Z'
+created: '2026-03-28T08:31:46.027163Z'
 description: Heat therapy using dry heat (Finnish sauna, 80-100C) or infrared radiation
   (infrared sauna, 40-60C). Regular use associated with reduced cardiovascular mortality,
   improved endothelial function, and enhanced heat shock protein expression. Triggers
   hormetic stress response with adaptations similar to moderate exercise.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/sauna/
+permalink: /entities/intervention/sauna/
 slug: sauna
 tags:
 - intervention
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sauna
 type: intervention
-updated: '2026-03-28T07:29:06.850575Z'
+updated: '2026-03-28T08:31:46.027163Z'
 ---
 
 {% raw %}

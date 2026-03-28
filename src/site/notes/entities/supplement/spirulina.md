@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.381224Z'
+created: '2026-03-28T08:31:47.842285Z'
 description: Nutrient-dense blue-green algae (cyanobacteria) with high protein content
   and powerful antioxidant properties. Contains phycocyanin, the unique blue pigment
   with potent anti-inflammatory effects.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/spirulina/
+permalink: /entities/supplement/spirulina/
 slug: spirulina
 tags:
 - supplement
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Spirulina
 type: supplement
-updated: '2026-03-28T07:29:08.381224Z'
+updated: '2026-03-28T08:31:47.842285Z'
 ---
 
 {% raw %}

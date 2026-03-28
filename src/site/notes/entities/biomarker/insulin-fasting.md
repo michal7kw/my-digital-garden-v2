@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.969071Z'
+created: '2026-03-28T08:31:45.157716Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/insulin-fasting/
+permalink: /entities/biomarker/insulin-fasting/
 slug: insulin-fasting
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Insulin Fasting
 type: biomarker
-updated: '2026-03-28T07:29:05.969071Z'
+updated: '2026-03-28T08:31:45.157716Z'
 ---
 
 {% raw %}

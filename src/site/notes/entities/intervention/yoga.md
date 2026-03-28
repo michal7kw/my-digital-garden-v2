@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.863181Z'
+created: '2026-03-28T08:31:46.042458Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
   gentle (Yin, Restorative) to vigorous (Ashtanga, Power Yoga).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/yoga/
+permalink: /entities/intervention/yoga/
 slug: yoga
 tags:
 - intervention
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-03-28T07:29:06.863181Z'
+updated: '2026-03-28T08:31:46.042458Z'
 ---
 
 {% raw %}

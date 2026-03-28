@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:05.978151Z'
+created: '2026-03-28T08:31:45.165967Z'
 description: Lactate Dehydrogenase is an intracellular enzyme found in virtually all
   body tissues that catalyzes the interconversion of lactate and pyruvate, serving
   as a nonspecific marker of tissue damage and cellular turnover.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/
+permalink: /entities/biomarker/lactate-dehydrogenase/
 slug: lactate-dehydrogenase
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lactate Dehydrogenase
 type: biomarker
-updated: '2026-03-28T07:29:05.978151Z'
+updated: '2026-03-28T08:31:45.165967Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.242377Z'
+created: '2026-03-28T08:31:47.710176Z'
 description: Active compound in turmeric with powerful anti-inflammatory and antioxidant
   properties. Supports joint health, brain function, and metabolic health. Requires
   enhanced absorption formulations.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/curcumin/
+permalink: /entities/supplement/curcumin/
 slug: curcumin
 tags:
 - supplement
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Curcumin
 type: supplement
-updated: '2026-03-28T07:29:08.242377Z'
+updated: '2026-03-28T08:31:47.710176Z'
 ---
 
 {% raw %}

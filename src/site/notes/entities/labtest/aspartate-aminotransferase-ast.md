@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.933147Z'
+created: '2026-03-28T08:31:46.111457Z'
 description: Tested twice a year Aspartate aminotransferase (AST) is an enzyme found
   throughout the body, especially in the liver, heart, and muscles. When these tissues
   are stressed or damaged, AST can be released into the bloodstream, so higher levels
@@ -8,15 +8,14 @@ description: Tested twice a year Aspartate aminotransferase (AST) is an enzyme f
   a clearer picture of liver health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/aspartate-aminotransferase-ast/
+permalink: /entities/labtest/aspartate-aminotransferase-ast/
 slug: aspartate-aminotransferase-ast
 tags:
 - labtest
 templateEngineOverride: njk
 title: aspartate_aminotransferase_ast
 type: labtest
-updated: '2026-03-28T07:29:06.933147Z'
+updated: '2026-03-28T08:31:46.111457Z'
 ---
 
 {% raw %}

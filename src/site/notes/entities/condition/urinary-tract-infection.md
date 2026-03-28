@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.542497Z'
+created: '2026-03-28T08:31:45.776046Z'
 description: An infection in any part of the urinary system, including the kidneys,
   bladder, or urethra.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/urinary-tract-infection/
+permalink: /entities/condition/urinary-tract-infection/
 slug: urinary-tract-infection
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Infection
 type: condition
-updated: '2026-03-28T07:29:06.542497Z'
+updated: '2026-03-28T08:31:45.776046Z'
 ---
 
 {% raw %}

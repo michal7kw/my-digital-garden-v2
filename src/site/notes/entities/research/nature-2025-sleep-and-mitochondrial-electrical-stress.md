@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:08.166645Z'
+created: '2026-03-28T08:31:47.618085Z'
 description: A breakthrough study identifying mitochondrial electrical stress as a
   direct trigger for sleep pressure in fruit flies.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/research/nature-2025-sleep-and-mitochondrial-electrical-stress/
+permalink: /entities/research/nature-2025-sleep-and-mitochondrial-electrical-stress/
 slug: nature-2025-sleep-and-mitochondrial-electrical-stress
 tags:
 - research
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nature 2025: Sleep and Mitochondrial Electrical Stress'
 type: research
-updated: '2026-03-28T07:29:08.166645Z'
+updated: '2026-03-28T08:31:47.618085Z'
 ---
 
 {% raw %}

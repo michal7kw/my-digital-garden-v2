@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.509016Z'
+created: '2026-03-28T08:31:45.744843Z'
 description: A group of rare autoimmune diseases characterized by the hardening and
   tightening of the skin and connective tissues, often affecting internal organs and
   blood vessels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/scleroderma/
+permalink: /entities/condition/scleroderma/
 slug: scleroderma
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Scleroderma
 type: condition
-updated: '2026-03-28T07:29:06.509016Z'
+updated: '2026-03-28T08:31:45.744843Z'
 ---
 
 {% raw %}

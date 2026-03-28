@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.484271Z'
+created: '2026-03-28T08:31:45.717059Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/psychotic-disorders/
+permalink: /entities/condition/psychotic-disorders/
 slug: psychotic-disorders
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Psychotic Disorders
 type: condition
-updated: '2026-03-28T07:29:06.484271Z'
+updated: '2026-03-28T08:31:45.717059Z'
 ---
 
 {% raw %}

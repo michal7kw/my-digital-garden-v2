@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.807435Z'
+created: '2026-03-28T08:31:44.916501Z'
 description: Small brainstem nucleus that is the primary source of norepinephrine
   in the brain. Projects to virtually all cortical and subcortical regions, regulating
   arousal, attention, and stress response.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/Anatomy/locus-coeruleus/
+permalink: /entities/Anatomy/locus-coeruleus/
 slug: locus-coeruleus
 tags:
 - Anatomy
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus
 type: Anatomy
-updated: '2026-03-28T07:29:05.807435Z'
+updated: '2026-03-28T08:31:44.916501Z'
 ---
 
 {% raw %}

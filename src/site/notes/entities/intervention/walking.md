@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.861498Z'
+created: '2026-03-28T08:31:46.038648Z'
 description: Low-intensity aerobic exercise accessible to nearly all populations.
   Consistent evidence for reducing all-cause mortality, cardiovascular disease, type
   2 diabetes, depression, and cognitive decline. 7,000-10,000 steps/day associated
   with significant mortality reduction. The most underappreciated exercise intervention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/walking/
+permalink: /entities/intervention/walking/
 slug: walking
 tags:
 - intervention
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Walking
 type: intervention
-updated: '2026-03-28T07:29:06.861498Z'
+updated: '2026-03-28T08:31:46.038648Z'
 ---
 
 {% raw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.277781Z'
+created: '2026-03-28T08:31:46.483476Z'
 description: Olink's high-throughput proteomics panel measuring 3000+ proteins with
   high specificity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/olink-explore-3072/
+permalink: /entities/labtest/olink-explore-3072/
 slug: olink-explore-3072
 tags:
 - labtest
 templateEngineOverride: njk
 title: olink_explore_3072
 type: labtest
-updated: '2026-03-28T07:29:07.277781Z'
+updated: '2026-03-28T08:31:46.483476Z'
 ---
 
 {% raw %}

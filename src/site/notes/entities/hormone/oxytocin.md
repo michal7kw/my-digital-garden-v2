@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.795929Z'
+created: '2026-03-28T08:31:45.986990Z'
 description: Nonapeptide hormone synthesized in the hypothalamus (paraventricular
   and supraoptic nuclei) and released from the posterior pituitary. Beyond its classical
   roles in labor and lactation, oxytocin is a key mediator of social bonding, trust,
   anxiety reduction, and anti-inflammatory effects. Acts as both a hormone and neurotransmitter.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/hormone/oxytocin/
+permalink: /entities/hormone/oxytocin/
 slug: oxytocin
 tags:
 - hormone
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Oxytocin
 type: hormone
-updated: '2026-03-28T07:29:06.795929Z'
+updated: '2026-03-28T08:31:45.986990Z'
 ---
 
 {% raw %}

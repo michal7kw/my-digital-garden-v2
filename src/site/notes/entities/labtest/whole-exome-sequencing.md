@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.470366Z'
+created: '2026-03-28T08:31:46.744748Z'
 description: Sequences protein-coding regions of DNA. Cost-effective alternative to
   WGS for medical variants.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/whole-exome-sequencing/
+permalink: /entities/labtest/whole-exome-sequencing/
 slug: whole-exome-sequencing
 tags:
 - labtest
 templateEngineOverride: njk
 title: whole_exome_sequencing
 type: labtest
-updated: '2026-03-28T07:29:07.470366Z'
+updated: '2026-03-28T08:31:46.744748Z'
 ---
 
 {% raw %}

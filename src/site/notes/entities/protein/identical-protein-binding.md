@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.136285Z'
+created: '2026-03-28T08:31:47.581985Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/identical-protein-binding/
+permalink: /entities/protein/identical-protein-binding/
 slug: identical-protein-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: identical protein binding
 type: protein
-updated: '2026-03-28T07:29:08.136285Z'
+updated: '2026-03-28T08:31:47.581985Z'
 ---
 
 {% raw %}

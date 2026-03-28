@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:06.805763Z'
+created: '2026-03-28T08:31:45.991470Z'
 description: Primary male sex hormone and anabolic steroid essential for development
   of male reproductive tissues, muscle mass, bone density, body hair, and overall
   vitality. Also important in females at lower levels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/hormone/testosterone/
+permalink: /entities/hormone/testosterone/
 slug: testosterone
 tags:
 - hormone
 templateEngineOverride: njk
 title: Testosterone
 type: hormone
-updated: '2026-03-28T07:29:06.805763Z'
+updated: '2026-03-28T08:31:45.991470Z'
 ---
 
 {% raw %}

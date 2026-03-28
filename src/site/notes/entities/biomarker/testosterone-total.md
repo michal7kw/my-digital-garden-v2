@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.056985Z'
+created: '2026-03-28T08:31:45.253405Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/testosterone-total/
+permalink: /entities/biomarker/testosterone-total/
 slug: testosterone-total
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Testosterone Total
 type: biomarker
-updated: '2026-03-28T07:29:06.056985Z'
+updated: '2026-03-28T08:31:45.253405Z'
 ---
 
 {% raw %}

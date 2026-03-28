@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.633127Z'
+created: '2026-03-28T08:31:46.970167Z'
 description: Central organ of the nervous system responsible for cognition, emotion,
   motor control, and regulating bodily functions. Highly metabolically active and
   responsive to numerous supplements.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/brain/
+permalink: /entities/organ/brain/
 slug: brain
 tags:
 - organ
 templateEngineOverride: njk
 title: Brain
 type: organ
-updated: '2026-03-28T07:29:07.633127Z'
+updated: '2026-03-28T08:31:46.970167Z'
 ---
 
 {% raw %}

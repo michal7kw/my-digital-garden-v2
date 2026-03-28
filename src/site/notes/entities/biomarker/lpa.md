@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:05.983633Z'
+created: '2026-03-28T08:31:45.174402Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/lpa/
+permalink: /entities/biomarker/lpa/
 slug: lpa
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-03-28T07:29:05.983633Z'
+updated: '2026-03-28T08:31:45.174402Z'
 ---
 
 {% raw %}

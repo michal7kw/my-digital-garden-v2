@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.341995Z'
+created: '2026-03-28T08:31:47.814822Z'
 description: Powerful plant flavonoid with antioxidant, anti-inflammatory, and senolytic
   properties. Found in onions, apples, and berries. Activates Nrf2 and inhibits mast
   cell degranulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/quercetin/
+permalink: /entities/supplement/quercetin/
 slug: quercetin
 tags:
 - supplement
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Quercetin
 type: supplement
-updated: '2026-03-28T07:29:08.341995Z'
+updated: '2026-03-28T08:31:47.814822Z'
 ---
 
 {% raw %}

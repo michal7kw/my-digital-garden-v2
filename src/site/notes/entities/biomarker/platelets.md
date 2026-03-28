@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.032318Z'
+created: '2026-03-28T08:31:45.217105Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/platelets/
+permalink: /entities/biomarker/platelets/
 slug: platelets
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Platelets
 type: biomarker
-updated: '2026-03-28T07:29:06.032318Z'
+updated: '2026-03-28T08:31:45.217105Z'
 ---
 
 {% raw %}

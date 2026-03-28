@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:06.938748Z'
+created: '2026-03-28T08:31:46.115874Z'
 description: 8-test panel measuring glucose, calcium, electrolytes, and kidney function
   markers.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/basic-metabolic-panel/
+permalink: /entities/labtest/basic-metabolic-panel/
 slug: basic-metabolic-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: basic_metabolic_panel
 type: labtest
-updated: '2026-03-28T07:29:06.938748Z'
+updated: '2026-03-28T08:31:46.115874Z'
 ---
 
 {% raw %}

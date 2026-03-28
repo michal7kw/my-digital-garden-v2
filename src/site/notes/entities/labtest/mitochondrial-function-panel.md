@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.249242Z'
+created: '2026-03-28T08:31:46.452971Z'
 description: Comprehensive panel measuring key biomarkers of mitochondrial energy
   production capacity, including CoQ10, carnitine profile, lactate/pyruvate ratio,
   and organic acid intermediates from the TCA cycle and fatty acid oxidation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mitochondrial-function-panel/
+permalink: /entities/labtest/mitochondrial-function-panel/
 slug: mitochondrial-function-panel
 tags:
 - labtest
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Function Panel
 type: labtest
-updated: '2026-03-28T07:29:07.249242Z'
+updated: '2026-03-28T08:31:46.452971Z'
 ---
 
 {% raw %}

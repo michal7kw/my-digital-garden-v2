@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.656166Z'
+created: '2026-03-28T08:31:45.906411Z'
 description: Atypical antipsychotic used for schizophrenia, bipolar disorder, and
   adjunctive treatment of depression. Has sedative properties often used off-label
   for insomnia.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/quetiapine/
+permalink: /entities/drug/quetiapine/
 slug: quetiapine
 tags:
 - drug
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Quetiapine
 type: drug
-updated: '2026-03-28T07:29:06.656166Z'
+updated: '2026-03-28T08:31:45.906411Z'
 ---
 
 {% raw %}

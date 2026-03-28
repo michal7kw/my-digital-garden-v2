@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.226410Z'
+created: '2026-03-28T08:31:45.413349Z'
 description: A broad group of disorders of the heart and blood vessels, often caused
   by atherosclerosis and leading to events such as heart attacks and strokes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/cardiovascular-disease/
+permalink: /entities/condition/cardiovascular-disease/
 slug: cardiovascular-disease
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Disease
 type: condition
-updated: '2026-03-28T07:29:06.226410Z'
+updated: '2026-03-28T08:31:45.413349Z'
 ---
 
 {% raw %}

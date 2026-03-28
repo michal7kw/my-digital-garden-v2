@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.033146Z'
+created: '2026-03-28T08:31:46.229999Z'
 description: Blood sugar after fasting. Used for diabetes screening and metabolic
   health assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/fasting-glucose/
+permalink: /entities/labtest/fasting-glucose/
 slug: fasting-glucose
 tags:
 - labtest
 templateEngineOverride: njk
 title: fasting_glucose
 type: labtest
-updated: '2026-03-28T07:29:07.033146Z'
+updated: '2026-03-28T08:31:46.229999Z'
 ---
 
 {% raw %}

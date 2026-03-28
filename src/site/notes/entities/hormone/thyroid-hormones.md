@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:06.809188Z'
+created: '2026-03-28T08:31:45.992754Z'
 description: Thyroid hormones (T4/thyroxine and T3/triiodothyronine) regulate metabolism,
   energy production, growth, and development in virtually every tissue. Essential
   for normal brain development, body temperature regulation, and metabolic rate.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/hormone/thyroid-hormones/
+permalink: /entities/hormone/thyroid-hormones/
 slug: thyroid-hormones
 tags:
 - hormone
 templateEngineOverride: njk
 title: Thyroid Hormones
 type: hormone
-updated: '2026-03-28T07:29:06.809188Z'
+updated: '2026-03-28T08:31:45.992754Z'
 ---
 
 {% raw %}

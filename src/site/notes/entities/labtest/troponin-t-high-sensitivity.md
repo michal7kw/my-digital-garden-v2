@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.430484Z'
+created: '2026-03-28T08:31:46.704522Z'
 description: High-sensitivity cardiac troponin T (hs-cTnT) test. Gold standard cardiac
   biomarker for detecting myocardial injury. Used in the diagnosis of acute myocardial
   infarction and prognostication in heart failure.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/troponin-t-high-sensitivity/
+permalink: /entities/labtest/troponin-t-high-sensitivity/
 slug: troponin-t-high-sensitivity
 tags:
 - labtest
 templateEngineOverride: njk
 title: troponin_t_high_sensitivity
 type: labtest
-updated: '2026-03-28T07:29:07.430484Z'
+updated: '2026-03-28T08:31:46.704522Z'
 ---
 
 {% raw %}

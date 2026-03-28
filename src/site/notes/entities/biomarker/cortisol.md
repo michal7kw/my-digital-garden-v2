@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:05.898723Z'
+created: '2026-03-28T08:31:45.012798Z'
 description: Primary glucocorticoid hormone produced by the adrenal cortex that regulates
   stress response, metabolism, immune function, and circadian rhythm. Essential for
   life but chronically elevated levels contribute to numerous health problems.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/cortisol/
+permalink: /entities/biomarker/cortisol/
 slug: cortisol
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Cortisol
 type: biomarker
-updated: '2026-03-28T07:29:05.898723Z'
+updated: '2026-03-28T08:31:45.012798Z'
 ---
 
 {% raw %}

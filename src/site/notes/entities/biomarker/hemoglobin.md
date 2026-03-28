@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.959396Z'
+created: '2026-03-28T08:31:45.135731Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/hemoglobin/
+permalink: /entities/biomarker/hemoglobin/
 slug: hemoglobin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Hemoglobin
 type: biomarker
-updated: '2026-03-28T07:29:05.959396Z'
+updated: '2026-03-28T08:31:45.135731Z'
 ---
 
 {% raw %}

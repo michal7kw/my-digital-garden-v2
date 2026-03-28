@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.894927Z'
+created: '2026-03-28T08:31:45.006320Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/co2/
+permalink: /entities/biomarker/co2/
 slug: co2
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Co2
 type: biomarker
-updated: '2026-03-28T07:29:05.894927Z'
+updated: '2026-03-28T08:31:45.006320Z'
 ---
 
 {% raw %}

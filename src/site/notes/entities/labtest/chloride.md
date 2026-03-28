@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.979301Z'
+created: '2026-03-28T08:31:46.152765Z'
 description: Tested twice a year Chloride is an electrolyte that partners with sodium
   to maintain fluid balance, blood pressure, and pH stability in the body. It plays
   a role in digestion by forming hydrochloric acid in the stomach and helps nerves
   and muscles function smoothly.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/chloride/
+permalink: /entities/labtest/chloride/
 slug: chloride
 tags:
 - labtest
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: chloride
 type: labtest
-updated: '2026-03-28T07:29:06.979301Z'
+updated: '2026-03-28T08:31:46.152765Z'
 ---
 
 {% raw %}

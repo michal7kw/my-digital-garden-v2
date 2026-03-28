@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.943742Z'
+created: '2026-03-28T08:31:45.097997Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/glucose/
+permalink: /entities/biomarker/glucose/
 slug: glucose
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Glucose
 type: biomarker
-updated: '2026-03-28T07:29:05.943742Z'
+updated: '2026-03-28T08:31:45.097997Z'
 ---
 
 {% raw %}

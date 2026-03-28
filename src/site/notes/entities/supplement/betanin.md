@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.217586Z'
+created: '2026-03-28T08:31:47.682113Z'
 description: Primary betalain pigment in beetroot (Beta vulgaris), a potent natural
   antioxidant and anti-inflammatory compound. Activates the Nrf2/ARE pathway for endogenous
   antioxidant defense, inhibits NF-kB-mediated inflammation, supports nitric oxide
@@ -7,8 +7,7 @@ description: Primary betalain pigment in beetroot (Beta vulgaris), a potent natu
   and mechanism.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/betanin/
+permalink: /entities/supplement/betanin/
 slug: betanin
 tags:
 - supplement
@@ -22,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Betanin
 type: supplement
-updated: '2026-03-28T07:29:08.217586Z'
+updated: '2026-03-28T08:31:47.682113Z'
 ---
 
 {% raw %}

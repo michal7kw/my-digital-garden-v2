@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.979618Z'
+created: '2026-03-28T08:31:45.167665Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/ldl-p/
+permalink: /entities/biomarker/ldl-p/
 slug: ldl-p
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Ldl P
 type: biomarker
-updated: '2026-03-28T07:29:05.979618Z'
+updated: '2026-03-28T08:31:45.167665Z'
 ---
 
 {% raw %}

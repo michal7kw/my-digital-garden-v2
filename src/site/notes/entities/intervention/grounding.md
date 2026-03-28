@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.829164Z'
+created: '2026-03-28T08:31:46.004820Z'
 description: Practice of direct physical contact with the Earth's surface (barefoot
   walking, lying on ground) or using conductive systems connected to ground. Proposed
   mechanism involves transfer of free electrons from Earth's surface, reducing inflammation
@@ -7,8 +7,7 @@ description: Practice of direct physical contact with the Earth's surface (baref
   studies showing improved sleep, pain, and inflammatory markers.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/grounding/
+permalink: /entities/intervention/grounding/
 slug: grounding
 tags:
 - intervention
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Grounding
 type: intervention
-updated: '2026-03-28T07:29:06.829164Z'
+updated: '2026-03-28T08:31:46.004820Z'
 ---
 
 {% raw %}

@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:07.617697Z'
+created: '2026-03-28T08:31:46.946369Z'
 description: Simplest amino acid that serves as a major inhibitory neurotransmitter
   in the brainstem and spinal cord. Also acts as a co-agonist at NMDA glutamate receptors
   (excitatory role). Dual inhibitory/excitatory function depending on receptor type.
   Important for collagen synthesis, glutathione production, and sleep quality.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/neurotransmitter/glycine/
+permalink: /entities/neurotransmitter/glycine/
 slug: glycine
 tags:
 - neurotransmitter
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Glycine
 type: neurotransmitter
-updated: '2026-03-28T07:29:07.617697Z'
+updated: '2026-03-28T08:31:46.946369Z'
 ---
 
 {% raw %}

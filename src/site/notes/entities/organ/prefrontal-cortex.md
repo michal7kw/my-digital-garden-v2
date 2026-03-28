@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.670304Z'
+created: '2026-03-28T08:31:47.030136Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/prefrontal-cortex/
+permalink: /entities/organ/prefrontal-cortex/
 slug: prefrontal-cortex
 tags:
 - organ
 templateEngineOverride: njk
 title: Prefrontal Cortex
 type: organ
-updated: '2026-03-28T07:29:07.670304Z'
+updated: '2026-03-28T08:31:47.030136Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.606691Z'
+created: '2026-03-28T08:31:46.930054Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/
+permalink: /entities/neurotransmitter/acetylcholine/
 slug: acetylcholine
 tags:
 - neurotransmitter
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-03-28T07:29:07.606691Z'
+updated: '2026-03-28T08:31:46.930054Z'
 ---
 
 {% raw %}

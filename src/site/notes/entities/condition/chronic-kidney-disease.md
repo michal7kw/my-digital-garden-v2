@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.239791Z'
+created: '2026-03-28T08:31:45.430656Z'
 description: A long-term condition where the kidneys are damaged and gradually lose
   their ability to filter waste and excess fluid from the blood.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/
+permalink: /entities/condition/chronic-kidney-disease/
 slug: chronic-kidney-disease
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Kidney Disease
 type: condition
-updated: '2026-03-28T07:29:06.239791Z'
+updated: '2026-03-28T08:31:45.430656Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.554145Z'
+created: '2026-03-28T08:31:45.786482Z'
 description: Damage to any part of the body caused by external force, ranging from
   minor skin breaks to life-threatening internal trauma.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/wounds-and-injuries/
+permalink: /entities/condition/wounds-and-injuries/
 slug: wounds-and-injuries
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Wounds and Injuries
 type: condition
-updated: '2026-03-28T07:29:06.554145Z'
+updated: '2026-03-28T08:31:45.786482Z'
 ---
 
 {% raw %}

@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.614615Z'
+created: '2026-03-28T08:31:45.861463Z'
 description: First-line biguanide antidiabetic drug that activates AMPK, inhibits
   mitochondrial complex I, and reduces hepatic glucose production. Under investigation
   as a longevity agent in the landmark TAME trial. Not metabolized by CYP enzymes;
   eliminated renally via OCT2/MATE transporters.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/metformin/
+permalink: /entities/drug/metformin/
 slug: metformin
 tags:
 - drug
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: METFORMIN
 type: drug
-updated: '2026-03-28T07:29:06.614615Z'
+updated: '2026-03-28T08:31:45.861463Z'
 ---
 
 {% raw %}

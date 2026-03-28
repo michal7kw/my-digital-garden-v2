@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.053994Z'
+created: '2026-03-28T08:31:46.258144Z'
 description: Gamma-glutamyl transferase (GGT) is an enzyme found in the liver and
   bile ducts that plays a role in processing toxins and medications. Elevated GGT
   levels in the blood can signal stress or damage to the liver or bile ducts, so this
@@ -7,15 +7,14 @@ description: Gamma-glutamyl transferase (GGT) is an enzyme found in the liver an
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/gamma-glutamyl-transferase-ggt/
+permalink: /entities/labtest/gamma-glutamyl-transferase-ggt/
 slug: gamma-glutamyl-transferase-ggt
 tags:
 - labtest
 templateEngineOverride: njk
 title: gamma_glutamyl_transferase_ggt
 type: labtest
-updated: '2026-03-28T07:29:07.053994Z'
+updated: '2026-03-28T08:31:46.258144Z'
 ---
 
 {% raw %}

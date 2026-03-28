@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.728604Z'
+created: '2026-03-28T08:31:47.113544Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/gabaergic-pathways/
+permalink: /entities/pathway/gabaergic-pathways/
 slug: gabaergic-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: GABAergic Pathways
 type: pathway
-updated: '2026-03-28T07:29:07.728604Z'
+updated: '2026-03-28T08:31:47.113544Z'
 ---
 
 {% raw %}

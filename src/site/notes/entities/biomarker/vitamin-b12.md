@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.078352Z'
+created: '2026-03-28T08:31:45.281744Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/vitamin-b12/
+permalink: /entities/biomarker/vitamin-b12/
 slug: vitamin-b12
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Vitamin B12
 type: biomarker
-updated: '2026-03-28T07:29:06.078352Z'
+updated: '2026-03-28T08:31:45.281744Z'
 ---
 
 {% raw %}

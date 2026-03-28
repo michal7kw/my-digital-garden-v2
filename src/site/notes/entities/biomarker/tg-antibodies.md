@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.059911Z'
+created: '2026-03-28T08:31:45.258811Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/tg-antibodies/
+permalink: /entities/biomarker/tg-antibodies/
 slug: tg-antibodies
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tg Antibodies
 type: biomarker
-updated: '2026-03-28T07:29:06.059911Z'
+updated: '2026-03-28T08:31:45.258811Z'
 ---
 
 {% raw %}

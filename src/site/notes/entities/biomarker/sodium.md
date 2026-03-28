@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.050181Z'
+created: '2026-03-28T08:31:45.245790Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/sodium/
+permalink: /entities/biomarker/sodium/
 slug: sodium
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Sodium
 type: biomarker
-updated: '2026-03-28T07:29:06.050181Z'
+updated: '2026-03-28T08:31:45.245790Z'
 ---
 
 {% raw %}

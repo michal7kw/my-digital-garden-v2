@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:07.293599Z'
+created: '2026-03-28T08:31:46.507378Z'
 description: Linoleic acid (LA) is an essential omega-6 fatty acid and the primary
   dietary precursor to arachidonic acid (AA). While necessary for cell structure and
   energy, excessive levels of LA can increase AA production and promote inflammation,
   making this valuable for understanding fatty acid balance and long-term health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/omega-6-linoleic-acid/
+permalink: /entities/labtest/omega-6-linoleic-acid/
 slug: omega-6-linoleic-acid
 tags:
 - labtest
 templateEngineOverride: njk
 title: omega_6_linoleic_acid
 type: labtest
-updated: '2026-03-28T07:29:07.293599Z'
+updated: '2026-03-28T08:31:46.507378Z'
 ---
 
 {% raw %}

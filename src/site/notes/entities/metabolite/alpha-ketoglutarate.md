@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.564939Z'
+created: '2026-03-28T08:31:46.859366Z'
 description: Key TCA cycle intermediate that serves as a metabolic hub connecting
   carbon and nitrogen metabolism. Substrate for alpha-ketoglutarate dehydrogenase
   (energy production), glutamate dehydrogenase (amino acid metabolism), and prolyl/lysyl
@@ -7,8 +7,7 @@ description: Key TCA cycle intermediate that serves as a metabolic hub connectin
   with evidence for lifespan extension in animal models.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/alpha-ketoglutarate/
+permalink: /entities/metabolite/alpha-ketoglutarate/
 slug: alpha-ketoglutarate
 tags:
 - metabolite
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Ketoglutarate
 type: metabolite
-updated: '2026-03-28T07:29:07.564939Z'
+updated: '2026-03-28T08:31:46.859366Z'
 ---
 
 {% raw %}

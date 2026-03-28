@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.927758Z'
+created: '2026-03-28T08:31:47.363861Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/respiratory-distress/
+permalink: /entities/phenotype/respiratory-distress/
 slug: respiratory-distress
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Respiratory distress
 type: phenotype
-updated: '2026-03-28T07:29:07.927758Z'
+updated: '2026-03-28T08:31:47.363861Z'
 ---
 
 {% raw %}

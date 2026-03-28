@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.074466Z'
+created: '2026-03-28T08:31:45.277806Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/tsh/
+permalink: /entities/biomarker/tsh/
 slug: tsh
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tsh
 type: biomarker
-updated: '2026-03-28T07:29:06.074466Z'
+updated: '2026-03-28T08:31:45.277806Z'
 ---
 
 {% raw %}

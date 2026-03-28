@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.826501Z'
+created: '2026-03-28T08:31:46.001375Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
   chronic disease and extending healthspan.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/exercise/
+permalink: /entities/intervention/exercise/
 slug: exercise
 tags:
 - intervention
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise
 type: intervention
-updated: '2026-03-28T07:29:06.826501Z'
+updated: '2026-03-28T08:31:46.001375Z'
 ---
 
 {% raw %}

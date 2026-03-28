@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.383259Z'
+created: '2026-03-28T08:31:45.585484Z'
 description: A serious type of skin cancer that develops from the pigment-producing
   cells known as melanocytes. It is less common than other skin cancers but much more
   dangerous if it spreads.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/melanoma/
+permalink: /entities/condition/melanoma/
 slug: melanoma
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Melanoma
 type: condition
-updated: '2026-03-28T07:29:06.383259Z'
+updated: '2026-03-28T08:31:45.585484Z'
 ---
 
 {% raw %}

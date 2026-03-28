@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.388995Z'
+created: '2026-03-28T08:31:46.644197Z'
 description: 'Comprehensive thyroid assessment: TSH, Free T4, Free T3, Total T4, Total
   T3, Reverse T3, TPO antibodies, thyroglobulin antibodies.'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/
+permalink: /entities/labtest/thyroid-panel-complete/
 slug: thyroid-panel-complete
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_panel_complete
 type: labtest
-updated: '2026-03-28T07:29:07.388995Z'
+updated: '2026-03-28T08:31:46.644197Z'
 ---
 
 {% raw %}

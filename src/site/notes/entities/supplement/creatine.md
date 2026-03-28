@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.586073Z'
+created: '2026-03-28T08:31:45.830395Z'
 description: The most researched sports supplement in history with extensive safety
   data. Creatine enhances ATP regeneration via the phosphocreatine system, supporting
   both high-intensity physical performance and brain energy metabolism. Emerging evidence
@@ -8,8 +8,7 @@ description: The most researched sports supplement in history with extensive saf
   and neurodegenerative conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/creatine/
+permalink: /entities/supplement/creatine/
 slug: creatine
 tags:
 - supplement
@@ -23,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine
 type: supplement
-updated: '2026-03-28T07:29:06.586073Z'
+updated: '2026-03-28T08:31:45.830395Z'
 ---
 
 {% raw %}

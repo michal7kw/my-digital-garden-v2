@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.204895Z'
+created: '2026-03-28T08:31:45.393300Z'
 description: A state where blood sugar levels are either too high (hyperglycemia)
   or too low (hypoglycemia), often due to impaired insulin regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/blood-glucose-imbalance/
+permalink: /entities/condition/blood-glucose-imbalance/
 slug: blood-glucose-imbalance
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Blood Glucose Imbalance
 type: condition
-updated: '2026-03-28T07:29:06.204895Z'
+updated: '2026-03-28T08:31:45.393300Z'
 ---
 
 {% raw %}

@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.101819Z'
+created: '2026-03-28T08:31:45.309056Z'
 description: Macromolecular machine composed of ribosomal RNA and proteins that catalyzes
   protein synthesis (translation). Eukaryotic ribosomes (80S) consist of a large 60S
   and small 40S subunit. Found free in the cytoplasm or bound to the endoplasmic reticulum.
   One of the most abundant cellular structures.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cellularcomponent/ribosome/
+permalink: /entities/cellularcomponent/ribosome/
 slug: ribosome
 tags:
 - cellularcomponent
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Ribosome
 type: cellularcomponent
-updated: '2026-03-28T07:29:06.101819Z'
+updated: '2026-03-28T08:31:45.309056Z'
 ---
 
 {% raw %}

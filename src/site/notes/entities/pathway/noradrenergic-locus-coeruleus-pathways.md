@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.776607Z'
+created: '2026-03-28T08:31:47.177056Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/noradrenergic-locus-coeruleus-pathways/
+permalink: /entities/pathway/noradrenergic-locus-coeruleus-pathways/
 slug: noradrenergic-locus-coeruleus-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Noradrenergic Locus Coeruleus Pathways
 type: pathway
-updated: '2026-03-28T07:29:07.776607Z'
+updated: '2026-03-28T08:31:47.177056Z'
 ---
 
 {% raw %}

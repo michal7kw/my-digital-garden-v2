@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.473186Z'
+created: '2026-03-28T08:31:46.746711Z'
 description: Complete DNA sequencing at 30x coverage. Most comprehensive genetic test
   available.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/whole-genome-sequencing/
+permalink: /entities/labtest/whole-genome-sequencing/
 slug: whole-genome-sequencing
 tags:
 - labtest
 templateEngineOverride: njk
 title: whole_genome_sequencing
 type: labtest
-updated: '2026-03-28T07:29:07.473186Z'
+updated: '2026-03-28T08:31:46.746711Z'
 ---
 
 {% raw %}

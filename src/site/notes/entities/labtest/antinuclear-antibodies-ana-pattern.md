@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.903831Z'
+created: '2026-03-28T08:31:46.089205Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodies
   (ANA) pattern analyzes the specific patterns of antibody staining on cells, providing
   detailed information that can help differentiate between various autoimmune diseases.
@@ -9,15 +9,14 @@ description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodie
   is positive.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-ana-pattern/
+permalink: /entities/labtest/antinuclear-antibodies-ana-pattern/
 slug: antinuclear-antibodies-ana-pattern
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_pattern
 type: labtest
-updated: '2026-03-28T07:29:06.903831Z'
+updated: '2026-03-28T08:31:46.089205Z'
 ---
 
 {% raw %}

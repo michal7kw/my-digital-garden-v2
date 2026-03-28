@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.039024Z'
+created: '2026-03-28T08:31:46.238161Z'
 description: Fecal Calprotectin test. Non-invasive stool biomarker for intestinal
   inflammation. Differentiates inflammatory bowel disease from irritable bowel syndrome.
   Used for monitoring IBD disease activity and predicting relapse.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/
+permalink: /entities/labtest/fecal-calprotectin/
 slug: fecal-calprotectin
 tags:
 - labtest
 templateEngineOverride: njk
 title: fecal_calprotectin
 type: labtest
-updated: '2026-03-28T07:29:07.039024Z'
+updated: '2026-03-28T08:31:46.238161Z'
 ---
 
 {% raw %}

@@ -1,17 +1,16 @@
 ---
-created: '2026-03-28T07:29:07.386043Z'
+created: '2026-03-28T08:31:46.638792Z'
 description: TSH and Free T4. Standard initial thyroid assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-panel-basic/
+permalink: /entities/labtest/thyroid-panel-basic/
 slug: thyroid-panel-basic
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_panel_basic
 type: labtest
-updated: '2026-03-28T07:29:07.386043Z'
+updated: '2026-03-28T08:31:46.638792Z'
 ---
 
 {% raw %}

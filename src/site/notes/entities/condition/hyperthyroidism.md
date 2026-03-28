@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.345143Z'
+created: '2026-03-28T08:31:45.535060Z'
 description: A condition where the thyroid gland produces and releases excessive amounts
   of thyroid hormones (T3 and T4), accelerating the body's metabolism.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/hyperthyroidism/
+permalink: /entities/condition/hyperthyroidism/
 slug: hyperthyroidism
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hyperthyroidism
 type: condition
-updated: '2026-03-28T07:29:06.345143Z'
+updated: '2026-03-28T08:31:45.535060Z'
 ---
 
 {% raw %}

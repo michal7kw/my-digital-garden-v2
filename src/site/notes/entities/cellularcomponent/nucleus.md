@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.098165Z'
+created: '2026-03-28T08:31:45.305254Z'
 description: Membrane-bound organelle containing the cell's genetic material (DNA).
   Controls gene expression, DNA replication, and RNA processing. Enclosed by a double
   nuclear envelope with nuclear pores for selective transport. Contains the nucleolus
   for ribosomal RNA synthesis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cellularcomponent/nucleus/
+permalink: /entities/cellularcomponent/nucleus/
 slug: nucleus
 tags:
 - cellularcomponent
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Nucleus
 type: cellularcomponent
-updated: '2026-03-28T07:29:06.098165Z'
+updated: '2026-03-28T08:31:45.305254Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.275131Z'
+created: '2026-03-28T08:31:46.481056Z'
 description: Tested twice a year Occult blood in urine, means there are traces of
   blood not visible to the naked eye and may sometimes occur after exercise or minor
   irritation without indicating disease. Persistent or unexplained occult blood in
@@ -7,15 +7,14 @@ description: Tested twice a year Occult blood in urine, means there are traces o
   of the urinary system.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/occult-blood-urine/
+permalink: /entities/labtest/occult-blood-urine/
 slug: occult-blood-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: occult_blood_urine
 type: labtest
-updated: '2026-03-28T07:29:07.275131Z'
+updated: '2026-03-28T08:31:46.481056Z'
 ---
 
 {% raw %}

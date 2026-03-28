@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.064387Z'
+created: '2026-03-28T08:31:45.264597Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/total-t3/
+permalink: /entities/biomarker/total-t3/
 slug: total-t3
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Total T3
 type: biomarker
-updated: '2026-03-28T07:29:06.064387Z'
+updated: '2026-03-28T08:31:45.264597Z'
 ---
 
 {% raw %}

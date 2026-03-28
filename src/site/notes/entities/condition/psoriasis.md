@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.482808Z'
+created: '2026-03-28T08:31:45.715511Z'
 description: A chronic autoimmune disease that speeds up the growth cycle of skin
   cells, causing patches of thick, red skin and silvery scales.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/psoriasis/
+permalink: /entities/condition/psoriasis/
 slug: psoriasis
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Psoriasis
 type: condition
-updated: '2026-03-28T07:29:06.482808Z'
+updated: '2026-03-28T08:31:45.715511Z'
 ---
 
 {% raw %}

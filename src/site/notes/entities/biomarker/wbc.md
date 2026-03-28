@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.083541Z'
+created: '2026-03-28T08:31:45.288092Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/wbc/
+permalink: /entities/biomarker/wbc/
 slug: wbc
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Wbc
 type: biomarker
-updated: '2026-03-28T07:29:06.083541Z'
+updated: '2026-03-28T08:31:45.288092Z'
 ---
 
 {% raw %}

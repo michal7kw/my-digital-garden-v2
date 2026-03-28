@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.930411Z'
+created: '2026-03-28T08:31:45.065862Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/folate/
+permalink: /entities/biomarker/folate/
 slug: folate
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Folate
 type: biomarker
-updated: '2026-03-28T07:29:05.930411Z'
+updated: '2026-03-28T08:31:45.065862Z'
 ---
 
 {% raw %}

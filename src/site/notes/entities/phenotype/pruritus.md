@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.923255Z'
+created: '2026-03-28T08:31:47.359351Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/pruritus/
+permalink: /entities/phenotype/pruritus/
 slug: pruritus
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Pruritus
 type: phenotype
-updated: '2026-03-28T07:29:07.923255Z'
+updated: '2026-03-28T08:31:47.359351Z'
 ---
 
 {% raw %}

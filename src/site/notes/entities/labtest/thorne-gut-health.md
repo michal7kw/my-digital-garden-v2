@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.377579Z'
+created: '2026-03-28T08:31:46.630301Z'
 description: At-home gut microbiome test analyzing bacterial diversity and digestive
   function markers.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thorne-gut-health/
+permalink: /entities/labtest/thorne-gut-health/
 slug: thorne-gut-health
 tags:
 - labtest
 templateEngineOverride: njk
 title: thorne_gut_health
 type: labtest
-updated: '2026-03-28T07:29:07.377579Z'
+updated: '2026-03-28T08:31:46.630301Z'
 ---
 
 {% raw %}

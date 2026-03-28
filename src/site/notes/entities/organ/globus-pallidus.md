@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.640215Z'
+created: '2026-03-28T08:31:46.980734Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/globus-pallidus/
+permalink: /entities/organ/globus-pallidus/
 slug: globus-pallidus
 tags:
 - organ
 templateEngineOverride: njk
 title: Globus Pallidus
 type: organ
-updated: '2026-03-28T07:29:07.640215Z'
+updated: '2026-03-28T08:31:46.980734Z'
 ---
 
 {% raw %}

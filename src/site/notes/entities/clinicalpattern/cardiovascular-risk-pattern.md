@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.103264Z'
+created: '2026-03-28T08:31:45.310176Z'
 description: Elevated cardiovascular disease risk based on lipid abnormalities, inflammation,
   and other markers.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/clinicalpattern/cardiovascular-risk-pattern/
+permalink: /entities/clinicalpattern/cardiovascular-risk-pattern/
 slug: cardiovascular-risk-pattern
 tags:
 - clinicalpattern
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Risk Pattern
 type: clinicalpattern
-updated: '2026-03-28T07:29:06.103264Z'
+updated: '2026-03-28T08:31:45.310176Z'
 ---
 
 {% raw %}

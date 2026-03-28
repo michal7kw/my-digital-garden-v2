@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.691971Z'
+created: '2026-03-28T08:31:45.935984Z'
 description: Solute carrier family 6 member 4, encoding the serotonin transporter
   (SERT/5-HTT). The 5-HTTLPR polymorphism in the promoter region modulates serotonin
   reuptake efficiency and is associated with differential stress sensitivity, depression
   risk, and SSRI response.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/slc6a4/
+permalink: /entities/gene/slc6a4/
 slug: slc6a4
 tags:
 - gene
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SLC6A4
 type: gene
-updated: '2026-03-28T07:29:06.691971Z'
+updated: '2026-03-28T08:31:45.935984Z'
 ---
 
 {% raw %}

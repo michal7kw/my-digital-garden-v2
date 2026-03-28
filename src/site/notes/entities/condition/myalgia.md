@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.402228Z'
+created: '2026-03-28T08:31:45.608627Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/myalgia/
+permalink: /entities/condition/myalgia/
 slug: myalgia
 tags:
 - condition
 templateEngineOverride: njk
 title: Myalgia
 type: condition
-updated: '2026-03-28T07:29:06.402228Z'
+updated: '2026-03-28T08:31:45.608627Z'
 ---
 
 {% raw %}

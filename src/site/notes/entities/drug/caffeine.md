@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.570131Z'
+created: '2026-03-28T08:31:45.809867Z'
 description: World's most widely consumed psychoactive substance. Methylxanthine alkaloid
   that acts primarily as a nonselective adenosine A1 and A2A receptor antagonist,
   blocking adenosine's sleep-promoting and vasodilatory effects. Enhances alertness,
@@ -9,8 +9,7 @@ description: World's most widely consumed psychoactive substance. Methylxanthine
   with Creatine's ergogenic but not neuroprotective effects.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/caffeine/
+permalink: /entities/drug/caffeine/
 slug: caffeine
 tags:
 - drug
@@ -22,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Caffeine
 type: drug
-updated: '2026-03-28T07:29:06.570131Z'
+updated: '2026-03-28T08:31:45.809867Z'
 ---
 
 {% raw %}

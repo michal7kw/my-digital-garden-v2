@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.187038Z'
+created: '2026-03-28T08:31:45.378977Z'
 description: A neurodevelopmental disorder characterized by persistent patterns of
   inattention, hyperactivity, and impulsivity that interfere with functioning or development.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/attention-deficit-hyperactivity-disorder/
+permalink: /entities/condition/attention-deficit-hyperactivity-disorder/
 slug: attention-deficit-hyperactivity-disorder
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Attention Deficit Hyperactivity Disorder
 type: condition
-updated: '2026-03-28T07:29:06.187038Z'
+updated: '2026-03-28T08:31:45.378977Z'
 ---
 
 {% raw %}

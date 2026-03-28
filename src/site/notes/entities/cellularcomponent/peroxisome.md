@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.099397Z'
+created: '2026-03-28T08:31:45.306591Z'
 description: Single-membrane organelle containing oxidative enzymes, primarily catalase
   and various oxidases. Specializes in very-long-chain fatty acid beta-oxidation,
   plasmalogen synthesis, and reactive oxygen species (ROS) detoxification. Plays a
   key role in lipid metabolism and cellular redox homeostasis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cellularcomponent/peroxisome/
+permalink: /entities/cellularcomponent/peroxisome/
 slug: peroxisome
 tags:
 - cellularcomponent
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Peroxisome
 type: cellularcomponent
-updated: '2026-03-28T07:29:06.099397Z'
+updated: '2026-03-28T08:31:45.306591Z'
 ---
 
 {% raw %}

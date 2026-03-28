@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.544757Z'
+created: '2026-03-28T08:31:45.777406Z'
 description: A blockage that inhibits the normal flow of urine through the urinary
   tract, potentially leading to kidney damage and infection.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/
+permalink: /entities/condition/urinary-tract-obstruction/
 slug: urinary-tract-obstruction
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Obstruction
 type: condition
-updated: '2026-03-28T07:29:06.544757Z'
+updated: '2026-03-28T08:31:45.777406Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.866341Z'
+created: '2026-03-28T08:31:46.047516Z'
 description: ABO group and Rh factor are the two main systems used to determine blood
   type, which is essential for safe blood transfusions, organ transplants, and pregnancy
   care. The ABO system includes four main types—A, B, AB, and O—based on which antigens
@@ -9,15 +9,14 @@ description: ABO group and Rh factor are the two main systems used to determine 
   you want to donate blood to help others.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/abo-group-and-rhesus-rh-factor/
+permalink: /entities/labtest/abo-group-and-rhesus-rh-factor/
 slug: abo-group-and-rhesus-rh-factor
 tags:
 - labtest
 templateEngineOverride: njk
 title: abo_group_and_rhesus_rh_factor
 type: labtest
-updated: '2026-03-28T07:29:06.866341Z'
+updated: '2026-03-28T08:31:46.047516Z'
 ---
 
 {% raw %}

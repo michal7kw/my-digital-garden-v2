@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.112707Z'
+created: '2026-03-28T08:31:47.557469Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/sumo2/
+permalink: /entities/gene/sumo2/
 slug: sumo2
 tags:
 - gene
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: SUMO2
 type: gene
-updated: '2026-03-28T07:29:08.112707Z'
+updated: '2026-03-28T08:31:47.557469Z'
 ---
 
 {% raw %}

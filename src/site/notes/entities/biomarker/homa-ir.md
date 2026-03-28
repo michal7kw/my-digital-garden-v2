@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.961617Z'
+created: '2026-03-28T08:31:45.140657Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/homa-ir/
+permalink: /entities/biomarker/homa-ir/
 slug: homa-ir
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Homa Ir
 type: biomarker
-updated: '2026-03-28T07:29:05.961617Z'
+updated: '2026-03-28T08:31:45.140657Z'
 ---
 
 {% raw %}

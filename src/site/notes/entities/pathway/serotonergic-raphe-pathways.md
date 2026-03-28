@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.786818Z'
+created: '2026-03-28T08:31:47.195776Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/serotonergic-raphe-pathways/
+permalink: /entities/pathway/serotonergic-raphe-pathways/
 slug: serotonergic-raphe-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Serotonergic Raphe Pathways
 type: pathway
-updated: '2026-03-28T07:29:07.786818Z'
+updated: '2026-03-28T08:31:47.195776Z'
 ---
 
 {% raw %}

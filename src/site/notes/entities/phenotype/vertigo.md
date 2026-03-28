@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.950582Z'
+created: '2026-03-28T08:31:47.390928Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/vertigo/
+permalink: /entities/phenotype/vertigo/
 slug: vertigo
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Vertigo
 type: phenotype
-updated: '2026-03-28T07:29:07.950582Z'
+updated: '2026-03-28T08:31:47.390928Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.931502Z'
+created: '2026-03-28T08:31:45.068866Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/free-t3/
+permalink: /entities/biomarker/free-t3/
 slug: free-t3
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Free T3
 type: biomarker
-updated: '2026-03-28T07:29:05.931502Z'
+updated: '2026-03-28T08:31:45.068866Z'
 ---
 
 {% raw %}

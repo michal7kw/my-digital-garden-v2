@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.496594Z'
+created: '2026-03-28T08:31:45.729969Z'
 description: A broad group of conditions characterized by inflammation and pain in
   the joints, muscles, and connective tissues.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/rheumatic-diseases/
+permalink: /entities/condition/rheumatic-diseases/
 slug: rheumatic-diseases
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Diseases
 type: condition
-updated: '2026-03-28T07:29:06.496594Z'
+updated: '2026-03-28T08:31:45.729969Z'
 ---
 
 {% raw %}

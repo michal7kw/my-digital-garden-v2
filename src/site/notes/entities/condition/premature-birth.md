@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:06.475834Z'
+created: '2026-03-28T08:31:45.709029Z'
 description: Birth that occurs before the 37th week of pregnancy.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/premature-birth/
+permalink: /entities/condition/premature-birth/
 slug: premature-birth
 tags:
 - condition
@@ -14,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Premature Birth
 type: condition
-updated: '2026-03-28T07:29:06.475834Z'
+updated: '2026-03-28T08:31:45.709029Z'
 ---
 
 {% raw %}

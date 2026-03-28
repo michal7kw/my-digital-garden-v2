@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.064658Z'
+created: '2026-03-28T08:31:47.511570Z'
 description: Neurotrophin essential for the survival, growth, and maintenance of sympathetic,
   sensory, and basal forebrain cholinergic neurons. First neurotrophin discovered
   (Rita Levi-Montalcini, 1986 Nobel Prize). Stimulated by PQQ in astrocytes, modulated
@@ -7,8 +7,7 @@ description: Neurotrophin essential for the survival, growth, and maintenance of
   Decline in NGF signaling is implicated in Alzheimer's disease cholinergic degeneration.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/nerve-growth-factor/
+permalink: /entities/protein/nerve-growth-factor/
 slug: nerve-growth-factor
 tags:
 - protein
@@ -21,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Nerve Growth Factor
 type: protein
-updated: '2026-03-28T07:29:08.064658Z'
+updated: '2026-03-28T08:31:47.511570Z'
 ---
 
 {% raw %}

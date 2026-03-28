@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:06.680212Z'
+created: '2026-03-28T08:31:45.930551Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/hsp90ab1/
+permalink: /entities/gene/hsp90ab1/
 slug: hsp90ab1
 tags:
 - gene
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: HSP90AB1
 type: gene
-updated: '2026-03-28T07:29:06.680212Z'
+updated: '2026-03-28T08:31:45.930551Z'
 ---
 
 {% raw %}

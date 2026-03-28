@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.038106Z'
+created: '2026-03-28T08:31:45.228529Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/reverse-t3/
+permalink: /entities/biomarker/reverse-t3/
 slug: reverse-t3
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Reverse T3
 type: biomarker
-updated: '2026-03-28T07:29:06.038106Z'
+updated: '2026-03-28T08:31:45.228529Z'
 ---
 
 {% raw %}

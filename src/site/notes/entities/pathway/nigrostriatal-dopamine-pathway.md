@@ -1,9 +1,8 @@
 ---
-created: '2026-03-28T07:29:07.773809Z'
+created: '2026-03-28T08:31:47.173878Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/nigrostriatal-dopamine-pathway/
+permalink: /entities/pathway/nigrostriatal-dopamine-pathway/
 slug: nigrostriatal-dopamine-pathway
 tags:
 - pathway
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.773809Z'
+updated: '2026-03-28T08:31:47.173878Z'
 ---
 
 {% raw %}

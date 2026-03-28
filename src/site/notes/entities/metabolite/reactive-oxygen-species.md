@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:07.597532Z'
+created: '2026-03-28T08:31:46.914145Z'
 description: Byproducts of electron transport chain electron leak (~1-2% of total
   electron flow). Includes superoxide (O2.-), hydrogen peroxide (H2O2), and hydroxyl
   radical (OH.). Both signaling molecules at low levels and damaging oxidants at high
   levels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/
+permalink: /entities/metabolite/reactive-oxygen-species/
 slug: reactive-oxygen-species
 tags:
 - metabolite
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Reactive Oxygen Species
 type: metabolite
-updated: '2026-03-28T07:29:07.597532Z'
+updated: '2026-03-28T08:31:46.914145Z'
 ---
 
 {% raw %}

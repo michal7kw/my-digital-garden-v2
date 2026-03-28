@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.002039Z'
+created: '2026-03-28T08:31:45.189143Z'
 description: Neuron-Specific Enolase, a glycolytic enzyme found in neurons and neuroendocrine
   cells. Used as a biomarker for neuronal injury and as a tumor marker for small cell
   lung cancer and neuroblastoma.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/nse/
+permalink: /entities/biomarker/nse/
 slug: nse
 tags:
 - biomarker
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: NSE
 type: biomarker
-updated: '2026-03-28T07:29:06.002039Z'
+updated: '2026-03-28T08:31:45.189143Z'
 ---
 
 {% raw %}

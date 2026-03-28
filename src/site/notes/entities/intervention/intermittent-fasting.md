@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.832655Z'
+created: '2026-03-28T08:31:46.009208Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
   to multi-day fasts.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/intermittent-fasting/
+permalink: /entities/intervention/intermittent-fasting/
 slug: intermittent-fasting
 tags:
 - intervention
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-03-28T07:29:06.832655Z'
+updated: '2026-03-28T08:31:46.009208Z'
 ---
 
 {% raw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.646454Z'
+created: '2026-03-28T08:31:46.989682Z'
 description: Complex network of cells, tissues, and organs defending the body against
   pathogens. Includes lymph nodes, spleen, thymus, bone marrow, and white blood cells.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/immune-system/
+permalink: /entities/organ/immune-system/
 slug: immune-system
 tags:
 - organ
 templateEngineOverride: njk
 title: Immune System
 type: organ
-updated: '2026-03-28T07:29:07.646454Z'
+updated: '2026-03-28T08:31:46.989682Z'
 ---
 
 {% raw %}

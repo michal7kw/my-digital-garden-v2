@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.992095Z'
+created: '2026-03-28T08:31:45.180861Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/magnesium-rbc/
+permalink: /entities/biomarker/magnesium-rbc/
 slug: magnesium-rbc
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-03-28T07:29:05.992095Z'
+updated: '2026-03-28T08:31:45.180861Z'
 ---
 
 {% raw %}

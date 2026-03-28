@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.223980Z'
+created: '2026-03-28T08:31:45.411212Z'
 description: A type of cancer that starts in cells that make up the skin or the tissue
   lining organs, such as the liver or kidneys.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/carcinoma/
+permalink: /entities/condition/carcinoma/
 slug: carcinoma
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Carcinoma
 type: condition
-updated: '2026-03-28T07:29:06.223980Z'
+updated: '2026-03-28T08:31:45.411212Z'
 ---
 
 {% raw %}

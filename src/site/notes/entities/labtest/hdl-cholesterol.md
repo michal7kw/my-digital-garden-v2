@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:07.075903Z'
+created: '2026-03-28T08:31:46.282388Z'
 description: Tested twice a year Think of the H in HDL as healthy, helpful, heart-supporting
   cholesterol. HDL's primary job is to remove excess cholesterol from the blood and
   transport it to the liver to be eliminated, reducing the risk of cardiovascular
   disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hdl-cholesterol/
+permalink: /entities/labtest/hdl-cholesterol/
 slug: hdl-cholesterol
 tags:
 - labtest
 templateEngineOverride: njk
 title: hdl_cholesterol
 type: labtest
-updated: '2026-03-28T07:29:07.075903Z'
+updated: '2026-03-28T08:31:46.282388Z'
 ---
 
 {% raw %}

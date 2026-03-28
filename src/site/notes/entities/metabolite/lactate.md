@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.584625Z'
+created: '2026-03-28T08:31:46.888332Z'
 description: End product of anaerobic glycolysis, now recognized as a key metabolic
   signaling molecule rather than simply a waste product. Serves as fuel for heart,
   brain, and oxidative muscle fibers via the lactate shuttle. Important signaling
@@ -7,8 +7,7 @@ description: End product of anaerobic glycolysis, now recognized as a key metabo
   and immune modulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/lactate/
+permalink: /entities/metabolite/lactate/
 slug: lactate
 tags:
 - metabolite
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lactate
 type: metabolite
-updated: '2026-03-28T07:29:07.584625Z'
+updated: '2026-03-28T08:31:46.888332Z'
 ---
 
 {% raw %}

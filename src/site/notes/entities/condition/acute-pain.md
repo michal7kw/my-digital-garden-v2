@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.150091Z'
+created: '2026-03-28T08:31:45.347488Z'
 description: A sudden, sharp, or intense pain that serves as a warning sign of disease,
   injury, or threat to the body, typically lasting less than six months.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/acute-pain/
+permalink: /entities/condition/acute-pain/
 slug: acute-pain
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Pain
 type: condition
-updated: '2026-03-28T07:29:06.150091Z'
+updated: '2026-03-28T08:31:45.347488Z'
 ---
 
 {% raw %}

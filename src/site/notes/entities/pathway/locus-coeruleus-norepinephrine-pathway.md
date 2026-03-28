@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.746784Z'
+created: '2026-03-28T08:31:47.141498Z'
 description: Noradrenergic projections from the locus coeruleus to virtually all brain
   regions. Controls arousal, attention, and the stress response. Tonic firing maintains
   wakefulness; phasic firing enhances signal-to-noise for attention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/locus-coeruleus-norepinephrine-pathway/
+permalink: /entities/pathway/locus-coeruleus-norepinephrine-pathway/
 slug: locus-coeruleus-norepinephrine-pathway
 tags:
 - pathway
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus Norepinephrine Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.746784Z'
+updated: '2026-03-28T08:31:47.141498Z'
 ---
 
 {% raw %}

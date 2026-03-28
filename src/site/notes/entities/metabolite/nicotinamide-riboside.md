@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:07.589169Z'
+created: '2026-03-28T08:31:46.898393Z'
 description: An NAD+ precursor that efficiently raises cellular NAD+ levels via the
   NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors
   and has demonstrated safety and efficacy in human clinical trials for boosting NAD+
   metabolism.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/
+permalink: /entities/metabolite/nicotinamide-riboside/
 slug: nicotinamide-riboside
 tags:
 - metabolite
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotinamide Riboside
 type: metabolite
-updated: '2026-03-28T07:29:07.589169Z'
+updated: '2026-03-28T08:31:46.898393Z'
 ---
 
 {% raw %}

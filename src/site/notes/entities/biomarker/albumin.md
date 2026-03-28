@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.847103Z'
+created: '2026-03-28T08:31:44.947344Z'
 description: Albumin is the most abundant circulating protein in the blood, synthesized
   exclusively by the liver. It maintains oncotic pressure, transports various substances,
   and serves as a marker of nutritional status and chronic disease severity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/albumin/
+permalink: /entities/biomarker/albumin/
 slug: albumin
 tags:
 - biomarker
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Albumin
 type: biomarker
-updated: '2026-03-28T07:29:05.847103Z'
+updated: '2026-03-28T08:31:44.947344Z'
 ---
 
 {% raw %}

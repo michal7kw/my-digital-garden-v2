@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.817221Z'
+created: '2026-03-28T08:31:45.995671Z'
 description: A dietary intervention involving sustained reduction of caloric intake
   (typically 20-40% below ad libitum) without malnutrition. The most robust and reproducible
   intervention for extending lifespan and healthspan across multiple species, from
   yeast to primates.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/caloric-restriction/
+permalink: /entities/intervention/caloric-restriction/
 slug: caloric-restriction
 tags:
 - intervention
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Caloric Restriction
 type: intervention
-updated: '2026-03-28T07:29:06.817221Z'
+updated: '2026-03-28T08:31:45.995671Z'
 ---
 
 {% raw %}

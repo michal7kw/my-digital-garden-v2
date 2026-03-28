@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:06.984795Z'
+created: '2026-03-28T08:31:46.161784Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/complete-blood-count/
+permalink: /entities/labtest/complete-blood-count/
 slug: complete-blood-count
 tags:
 - labtest
 templateEngineOverride: njk
 title: complete_blood_count
 type: labtest
-updated: '2026-03-28T07:29:06.984795Z'
+updated: '2026-03-28T08:31:46.161784Z'
 ---
 
 {% raw %}

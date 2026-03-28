@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.336645Z'
+created: '2026-03-28T08:31:45.525757Z'
 description: A dietary state characterized by a high proportion of protein consumption,
   which can impact metabolic markers and kidney function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/high-protein-intake/
+permalink: /entities/condition/high-protein-intake/
 slug: high-protein-intake
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: High Protein Intake
 type: condition
-updated: '2026-03-28T07:29:06.336645Z'
+updated: '2026-03-28T08:31:45.525757Z'
 ---
 
 {% raw %}

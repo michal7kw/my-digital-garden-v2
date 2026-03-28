@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.673071Z'
+created: '2026-03-28T08:31:47.033678Z'
 description: Largest organ of the body providing barrier protection, temperature regulation,
   sensation, and vitamin D synthesis. Reflects internal health status.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/skin/
+permalink: /entities/organ/skin/
 slug: skin
 tags:
 - organ
 templateEngineOverride: njk
 title: Skin
 type: organ
-updated: '2026-03-28T07:29:07.673071Z'
+updated: '2026-03-28T08:31:47.033678Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.915856Z'
+created: '2026-03-28T08:31:45.031952Z'
 description: Urinary or plasma dopamine level, measured as part of catecholamine panels.
   Used to evaluate pheochromocytoma, neuroblastoma, and dopaminergic function. Research
   biomarker for Parkinson's disease and reward system dysfunction.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/dopamine/
+permalink: /entities/biomarker/dopamine/
 slug: dopamine
 tags:
 - biomarker
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine
 type: biomarker
-updated: '2026-03-28T07:29:05.915856Z'
+updated: '2026-03-28T08:31:45.031952Z'
 ---
 
 {% raw %}

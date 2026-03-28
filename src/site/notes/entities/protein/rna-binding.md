@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.086121Z'
+created: '2026-03-28T08:31:47.529005Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/rna-binding/
+permalink: /entities/protein/rna-binding/
 slug: rna-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: RNA binding
 type: protein
-updated: '2026-03-28T07:29:08.086121Z'
+updated: '2026-03-28T08:31:47.529005Z'
 ---
 
 {% raw %}

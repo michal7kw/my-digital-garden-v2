@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.536735Z'
+created: '2026-03-28T08:31:46.828460Z'
 description: These tests help identify specific indoor and outdoor allergens that
   trigger allergic reactions or exacerbate underlying respiratory conditions like
   asthma. Identifying environmental allergens can help guide interventions to minimize
@@ -27,15 +27,14 @@ description: These tests help identify specific indoor and outdoor allergens tha
   (M3) IgE
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/indoor-and-outdoor-allergies-ige/
+permalink: /entities/labtestpanel/indoor-and-outdoor-allergies-ige/
 slug: indoor-and-outdoor-allergies-ige
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: indoor_and_outdoor_allergies_ige
 type: labtestpanel
-updated: '2026-03-28T07:29:07.536735Z'
+updated: '2026-03-28T08:31:46.828460Z'
 ---
 
 {% raw %}

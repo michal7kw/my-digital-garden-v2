@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.795475Z'
+created: '2026-03-28T08:31:47.208597Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/tuberoinfundibular-dopamine-pathway/
+permalink: /entities/pathway/tuberoinfundibular-dopamine-pathway/
 slug: tuberoinfundibular-dopamine-pathway
 tags:
 - pathway
 templateEngineOverride: njk
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.795475Z'
+updated: '2026-03-28T08:31:47.208597Z'
 ---
 
 {% raw %}

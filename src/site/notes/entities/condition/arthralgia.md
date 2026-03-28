@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.816774Z'
+created: '2026-03-28T08:31:47.236300Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/arthralgia/
+permalink: /entities/condition/arthralgia/
 slug: arthralgia
 tags:
 - condition
 templateEngineOverride: njk
 title: Arthralgia
 type: condition
-updated: '2026-03-28T07:29:07.816774Z'
+updated: '2026-03-28T08:31:47.236300Z'
 ---
 
 {% raw %}

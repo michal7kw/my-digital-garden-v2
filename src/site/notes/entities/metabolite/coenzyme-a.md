@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.568544Z'
+created: '2026-03-28T08:31:46.864737Z'
 description: Essential cofactor derived from pantothenic acid (vitamin B5) and cysteine.
   Carries acyl groups via its terminal thiol, enabling fatty acid oxidation, TCA cycle
   function, and numerous biosynthetic reactions. Acetyl-CoA (its acetylated form)
@@ -7,8 +7,7 @@ description: Essential cofactor derived from pantothenic acid (vitamin B5) and c
   and the TCA cycle.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/coenzyme-a/
+permalink: /entities/metabolite/coenzyme-a/
 slug: coenzyme-a
 tags:
 - metabolite
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Coenzyme A
 type: metabolite
-updated: '2026-03-28T07:29:07.568544Z'
+updated: '2026-03-28T08:31:46.864737Z'
 ---
 
 {% raw %}

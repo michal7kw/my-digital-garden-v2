@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.517732Z'
+created: '2026-03-28T08:31:46.802668Z'
 description: Comprehensive thyroid testing that goes beyond standard panels to detect
   subtle abnormalities or early signs of dysfunction, even when routine tests appear
   normal. The thyroid gland plays a central role in regulating metabolism, energy
@@ -13,15 +13,14 @@ description: Comprehensive thyroid testing that goes beyond standard panels to d
   Immunoglobulin (TSI) Thyroid-Stimulating Hormone Receptor Binding Antibody (TRAb)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/
+permalink: /entities/labtestpanel/extended-thyroid-health/
 slug: extended-thyroid-health
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_thyroid_health
 type: labtestpanel
-updated: '2026-03-28T07:29:07.517732Z'
+updated: '2026-03-28T08:31:46.802668Z'
 ---
 
 {% raw %}

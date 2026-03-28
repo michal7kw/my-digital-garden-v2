@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.000439Z'
+created: '2026-03-28T08:31:46.185445Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -9,8 +9,7 @@ description: Tested twice a year Creatinine is a waste product made as muscles u
   symptoms CHANGES IN URINATION SWELLING IN LEGS OR ANKLES
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/creatinine/
+permalink: /entities/labtest/creatinine/
 slug: creatinine
 tags:
 - labtest
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-03-28T07:29:07.000439Z'
+updated: '2026-03-28T08:31:46.185445Z'
 ---
 
 {% raw %}

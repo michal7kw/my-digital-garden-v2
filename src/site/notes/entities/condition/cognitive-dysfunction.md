@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.250816Z'
+created: '2026-03-28T08:31:45.444493Z'
 description: A deficit in intellectual functioning, including problems with memory,
   attention, language, thinking, and judgment.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/
+permalink: /entities/condition/cognitive-dysfunction/
 slug: cognitive-dysfunction
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Dysfunction
 type: condition
-updated: '2026-03-28T07:29:06.250816Z'
+updated: '2026-03-28T08:31:45.444493Z'
 ---
 
 {% raw %}

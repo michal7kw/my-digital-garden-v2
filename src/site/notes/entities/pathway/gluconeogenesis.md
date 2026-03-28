@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.730410Z'
+created: '2026-03-28T08:31:47.116385Z'
 description: Gluconeogenesis is the metabolic pathway that synthesizes glucose from
   non-carbohydrate precursors, essential for maintaining blood glucose during fasting
   and providing glucose to glucose-dependent tissues.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/gluconeogenesis/
+permalink: /entities/pathway/gluconeogenesis/
 slug: gluconeogenesis
 tags:
 - pathway
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gluconeogenesis
 type: pathway
-updated: '2026-03-28T07:29:07.730410Z'
+updated: '2026-03-28T08:31:47.116385Z'
 ---
 
 {% raw %}

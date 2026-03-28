@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.232207Z'
+created: '2026-03-28T08:31:46.431897Z'
 description: Tested twice a year Mean platelet volume (MPV) measures the average size
   of platelets, the cells that help blood clot and stop bleeding. High MPV means the
   body is making larger, younger platelets, often in response to blood loss, inflammation,
@@ -9,15 +9,14 @@ description: Tested twice a year Mean platelet volume (MPV) measures the average
   like easy bruising or unusual bleeding..
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mean-platelet-volume-mpv/
+permalink: /entities/labtest/mean-platelet-volume-mpv/
 slug: mean-platelet-volume-mpv
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_platelet_volume_mpv
 type: labtest
-updated: '2026-03-28T07:29:07.232207Z'
+updated: '2026-03-28T08:31:46.431897Z'
 ---
 
 {% raw %}

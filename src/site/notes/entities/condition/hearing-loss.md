@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.327940Z'
+created: '2026-03-28T08:31:45.514393Z'
 description: A partial or total inability to hear sound in one or both ears, ranging
   from mild to profound.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/hearing-loss/
+permalink: /entities/condition/hearing-loss/
 slug: hearing-loss
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing Loss
 type: condition
-updated: '2026-03-28T07:29:06.327940Z'
+updated: '2026-03-28T08:31:45.514393Z'
 ---
 
 {% raw %}

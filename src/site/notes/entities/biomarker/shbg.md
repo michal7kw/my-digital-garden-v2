@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.047669Z'
+created: '2026-03-28T08:31:45.244234Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/shbg/
+permalink: /entities/biomarker/shbg/
 slug: shbg
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Shbg
 type: biomarker
-updated: '2026-03-28T07:29:06.047669Z'
+updated: '2026-03-28T08:31:45.244234Z'
 ---
 
 {% raw %}

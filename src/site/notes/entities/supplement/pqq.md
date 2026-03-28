@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.324893Z'
+created: '2026-03-28T08:31:47.797486Z'
 description: Pyrroloquinoline quinone — a novel redox cofactor discovered in bacteria
   that supports mitochondrial biogenesis in mammals. PQQ activates PGC-1alpha, the
   master regulator of mitochondrial biogenesis, and is one of very few compounds proven
@@ -8,8 +8,7 @@ description: Pyrroloquinoline quinone — a novel redox cofactor discovered in b
   factor (NGF) synthesis for neuroprotection.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/pqq/
+permalink: /entities/supplement/pqq/
 slug: pqq
 tags:
 - supplement
@@ -22,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: PQQ
 type: supplement
-updated: '2026-03-28T07:29:08.324893Z'
+updated: '2026-03-28T08:31:47.797486Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.647915Z'
+created: '2026-03-28T08:31:46.992065Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/inferior-colliculus/
+permalink: /entities/organ/inferior-colliculus/
 slug: inferior-colliculus
 tags:
 - organ
 templateEngineOverride: njk
 title: Inferior Colliculus
 type: organ
-updated: '2026-03-28T07:29:07.647915Z'
+updated: '2026-03-28T08:31:46.992065Z'
 ---
 
 {% raw %}

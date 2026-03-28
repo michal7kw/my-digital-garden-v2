@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.089151Z'
+created: '2026-03-28T08:31:45.294515Z'
 description: Dynamic network of protein filaments providing structural support, cell
   shape, and intracellular transport. Composed of three main systems — microfilaments
   (actin), intermediate filaments, and microtubules (tubulin). Essential for cell
   division, motility, signaling, and organelle positioning.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cellularcomponent/cytoskeleton/
+permalink: /entities/cellularcomponent/cytoskeleton/
 slug: cytoskeleton
 tags:
 - cellularcomponent
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cytoskeleton
 type: cellularcomponent
-updated: '2026-03-28T07:29:06.089151Z'
+updated: '2026-03-28T08:31:45.294515Z'
 ---
 
 {% raw %}

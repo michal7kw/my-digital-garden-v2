@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.094435Z'
+created: '2026-03-28T08:31:47.539192Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding/
+permalink: /entities/protein/rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding/
 slug: rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
 type: protein
-updated: '2026-03-28T07:29:08.094435Z'
+updated: '2026-03-28T08:31:47.539192Z'
 ---
 
 {% raw %}

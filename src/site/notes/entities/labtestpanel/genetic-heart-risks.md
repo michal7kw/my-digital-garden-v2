@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.529540Z'
+created: '2026-03-28T08:31:46.816589Z'
 description: 'Identify genetic markers linked to atrial fibrillation, heart attacks,
   strokes, and coronary artery disease to inform personalized heart health strategies.
   These genetic tests help assess the risk of developing serious heart-related conditions,
@@ -13,15 +13,14 @@ description: 'Identify genetic markers linked to atrial fibrillation, heart atta
   Risk: rs10033464 LPA Aspirin Genotype'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/
+permalink: /entities/labtestpanel/genetic-heart-risks/
 slug: genetic-heart-risks
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: genetic_heart_risks
 type: labtestpanel
-updated: '2026-03-28T07:29:07.529540Z'
+updated: '2026-03-28T08:31:46.816589Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.424988Z'
+created: '2026-03-28T08:31:45.645757Z'
 description: Infection of the bone, typically caused by bacteria, which can be acute
   or chronic.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/osteomyelitis/
+permalink: /entities/condition/osteomyelitis/
 slug: osteomyelitis
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Osteomyelitis
 type: condition
-updated: '2026-03-28T07:29:06.424988Z'
+updated: '2026-03-28T08:31:45.645757Z'
 ---
 
 {% raw %}

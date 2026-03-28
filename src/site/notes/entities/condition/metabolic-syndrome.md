@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:06.123812Z'
+created: '2026-03-28T08:31:45.326533Z'
 description: Cluster of metabolic abnormalities including central obesity, insulin
   resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular
   disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of
   U.S. adults.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/metabolic-syndrome/
+permalink: /entities/condition/metabolic-syndrome/
 slug: metabolic-syndrome
 tags:
 - condition
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Metabolic Syndrome
 type: condition
-updated: '2026-03-28T07:29:06.123812Z'
+updated: '2026-03-28T08:31:45.326533Z'
 ---
 
 {% raw %}

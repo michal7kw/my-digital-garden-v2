@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:06.020417Z'
+created: '2026-03-28T08:31:45.206475Z'
 description: Procollagen type I N-terminal propeptide is the most sensitive marker
   of bone formation. It is cleaved from type I collagen during bone synthesis and
   reflects osteoblast activity. Used to monitor osteoporosis treatment response and
   assess bone turnover.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/p1np/
+permalink: /entities/biomarker/p1np/
 slug: p1np
 tags:
 - biomarker
 templateEngineOverride: njk
 title: P1NP
 type: biomarker
-updated: '2026-03-28T07:29:06.020417Z'
+updated: '2026-03-28T08:31:45.206475Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.506666Z'
+created: '2026-03-28T08:31:46.792594Z'
 description: This comprehensive set of tests provides a deeper understanding of cardiovascular
   and metabolic health by evaluating how effectively cholesterol is working, how the
   body manages blood sugar (including insulin resistance), levels of harmful oxidative
@@ -17,15 +17,14 @@ description: This comprehensive set of tests provides a deeper understanding of 
   Insulin, Intact
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/
+permalink: /entities/labtestpanel/extended-heart-metabolic/
 slug: extended-heart-metabolic
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_heart_metabolic
 type: labtestpanel
-updated: '2026-03-28T07:29:07.506666Z'
+updated: '2026-03-28T08:31:46.792594Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.646596Z'
+created: '2026-03-28T08:31:45.894852Z'
 description: A narrow-spectrum antibiotic used to treat serious bacterial infections
   caused by susceptible organisms, typically administered by injection.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/penicillin-g/
+permalink: /entities/drug/penicillin-g/
 slug: penicillin-g
 tags:
 - drug
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G
 type: drug
-updated: '2026-03-28T07:29:06.646596Z'
+updated: '2026-03-28T08:31:45.894852Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.635993Z'
+created: '2026-03-28T08:31:46.976152Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/dorsal-raphe-nucleus/
+permalink: /entities/organ/dorsal-raphe-nucleus/
 slug: dorsal-raphe-nucleus
 tags:
 - organ
 templateEngineOverride: njk
 title: Dorsal Raphe Nucleus
 type: organ
-updated: '2026-03-28T07:29:07.635993Z'
+updated: '2026-03-28T08:31:46.976152Z'
 ---
 
 {% raw %}

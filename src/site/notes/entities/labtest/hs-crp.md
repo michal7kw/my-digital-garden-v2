@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.107166Z'
+created: '2026-03-28T08:31:46.313022Z'
 description: Sensitive marker of systemic inflammation. Important for cardiovascular
   risk stratification.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hs-crp/
+permalink: /entities/labtest/hs-crp/
 slug: hs-crp
 tags:
 - labtest
 templateEngineOverride: njk
 title: hs_crp
 type: labtest
-updated: '2026-03-28T07:29:07.107166Z'
+updated: '2026-03-28T08:31:46.313022Z'
 ---
 
 {% raw %}

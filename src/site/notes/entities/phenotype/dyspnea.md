@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.840215Z'
+created: '2026-03-28T08:31:47.263231Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/dyspnea/
+permalink: /entities/phenotype/dyspnea/
 slug: dyspnea
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Dyspnea
 type: phenotype
-updated: '2026-03-28T07:29:07.840215Z'
+updated: '2026-03-28T08:31:47.263231Z'
 ---
 
 {% raw %}

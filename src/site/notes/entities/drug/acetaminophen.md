@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.560084Z'
+created: '2026-03-28T08:31:45.793769Z'
 description: Analgesic and antipyretic with minimal anti-inflammatory effect. First-line
   for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most
   common cause of acute liver failure.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/acetaminophen/
+permalink: /entities/drug/acetaminophen/
 slug: acetaminophen
 tags:
 - drug
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acetaminophen
 type: drug
-updated: '2026-03-28T07:29:06.560084Z'
+updated: '2026-03-28T08:31:45.793769Z'
 ---
 
 {% raw %}

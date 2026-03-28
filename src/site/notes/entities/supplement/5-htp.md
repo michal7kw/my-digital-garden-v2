@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.170786Z'
+created: '2026-03-28T08:31:47.627322Z'
 description: Direct precursor to serotonin that crosses the blood-brain barrier. Supports
   mood, sleep, and appetite regulation. Must be used carefully, especially with serotonergic
   medications.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/5-htp/
+permalink: /entities/supplement/5-htp/
 slug: 5-htp
 tags:
 - supplement
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: 5-HTP
 type: supplement
-updated: '2026-03-28T07:29:08.170786Z'
+updated: '2026-03-28T08:31:47.627322Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.938272Z'
+created: '2026-03-28T08:31:45.087018Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/ggt/
+permalink: /entities/biomarker/ggt/
 slug: ggt
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Ggt
 type: biomarker
-updated: '2026-03-28T07:29:05.938272Z'
+updated: '2026-03-28T08:31:45.087018Z'
 ---
 
 {% raw %}

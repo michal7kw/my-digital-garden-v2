@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.527026Z'
+created: '2026-03-28T08:31:46.814155Z'
 description: Tests blood for exposure to “forever chemicals” (PFAS), harmful substances
   linked to health risks like endocrine disruption, metabolic disorders, and cancer.
   Most people are unaware of their exposure to “forever chemicals,” or per- and polyfluoroalkyl
@@ -16,15 +16,14 @@ description: Tests blood for exposure to “forever chemicals” (PFAS), harmful
   Acid Isomers PFAS - NASEM Summation
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/forever-chemicals-pfas-exposure/
+permalink: /entities/labtestpanel/forever-chemicals-pfas-exposure/
 slug: forever-chemicals-pfas-exposure
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: forever_chemicals_pfas_exposure
 type: labtestpanel
-updated: '2026-03-28T07:29:07.527026Z'
+updated: '2026-03-28T08:31:46.814155Z'
 ---
 
 {% raw %}

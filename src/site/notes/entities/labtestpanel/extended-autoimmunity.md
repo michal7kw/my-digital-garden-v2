@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.504084Z'
+created: '2026-03-28T08:31:46.788438Z'
 description: Detects and monitors autoimmune conditions with comprehensive testing
   for better symptom management and prevention. These tests screen for a broad range
   of conditions like rheumatoid arthritis, systemic lupus erythematosus, mixed connective
@@ -20,15 +20,14 @@ description: Detects and monitors autoimmune conditions with comprehensive testi
   Factor (RF) Antinuclear Antibodies (ANA) Pattern
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/
+permalink: /entities/labtestpanel/extended-autoimmunity/
 slug: extended-autoimmunity
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_autoimmunity
 type: labtestpanel
-updated: '2026-03-28T07:29:07.504084Z'
+updated: '2026-03-28T08:31:46.788438Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.675006Z'
+created: '2026-03-28T08:31:45.927590Z'
 description: Cytochrome P450 3A4, the most abundant hepatic CYP enzyme, responsible
   for metabolizing approximately 50% of all prescription drugs. Key target for drug-drug
   and drug-supplement interactions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/cyp3a4/
+permalink: /entities/gene/cyp3a4/
 slug: cyp3a4
 tags:
 - gene
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CYP3A4
 type: gene
-updated: '2026-03-28T07:29:06.675006Z'
+updated: '2026-03-28T08:31:45.927590Z'
 ---
 
 {% raw %}

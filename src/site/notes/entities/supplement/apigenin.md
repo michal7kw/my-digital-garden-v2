@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.183185Z'
+created: '2026-03-28T08:31:47.642658Z'
 description: A natural flavonoid found in chamomile, parsley, and celery with antioxidant,
   anti-inflammatory, neuroprotective, and sedative properties. It is known to inhibit
   CD38 (boosting NAD+ levels) and modulate GABA receptors.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/apigenin/
+permalink: /entities/supplement/apigenin/
 slug: apigenin
 tags:
 - supplement
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Apigenin
 type: supplement
-updated: '2026-03-28T07:29:08.183185Z'
+updated: '2026-03-28T08:31:47.642658Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.272482Z'
+created: '2026-03-28T08:31:47.744574Z'
 description: Essential trace mineral critical for oxygen transport, energy production,
   and neurotransmitter synthesis. Required cofactor for numerous enzymes including
   those in dopamine and serotonin pathways.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/iron/
+permalink: /entities/supplement/iron/
 slug: iron
 tags:
 - supplement
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Iron
 type: supplement
-updated: '2026-03-28T07:29:08.272482Z'
+updated: '2026-03-28T08:31:47.744574Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.400883Z'
+created: '2026-03-28T08:31:45.605253Z'
 description: An injury to a muscle or its attaching tendons, often caused by overstretching
   or overexertion during physical activity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/muscle-strain/
+permalink: /entities/condition/muscle-strain/
 slug: muscle-strain
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Muscle Strain
 type: condition
-updated: '2026-03-28T07:29:06.400883Z'
+updated: '2026-03-28T08:31:45.605253Z'
 ---
 
 {% raw %}

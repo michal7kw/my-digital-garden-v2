@@ -1,17 +1,16 @@
 ---
-created: '2026-03-28T07:29:07.553339Z'
+created: '2026-03-28T08:31:46.847130Z'
 description: This test will help determine if you are pregnant.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/
+permalink: /entities/labtestpanel/pregnancy-hcg/
 slug: pregnancy-hcg
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: pregnancy_hcg
 type: labtestpanel
-updated: '2026-03-28T07:29:07.553339Z'
+updated: '2026-03-28T08:31:46.847130Z'
 ---
 
 {% raw %}

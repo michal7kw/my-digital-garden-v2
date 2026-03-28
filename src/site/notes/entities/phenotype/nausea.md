@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.916468Z'
+created: '2026-03-28T08:31:47.350512Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/nausea/
+permalink: /entities/phenotype/nausea/
 slug: nausea
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nausea
 type: phenotype
-updated: '2026-03-28T07:29:07.916468Z'
+updated: '2026-03-28T08:31:47.350512Z'
 ---
 
 {% raw %}

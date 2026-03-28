@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.996919Z'
+created: '2026-03-28T08:31:45.185342Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/mthfr-a1298c/
+permalink: /entities/biomarker/mthfr-a1298c/
 slug: mthfr-a1298c
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-03-28T07:29:05.996919Z'
+updated: '2026-03-28T08:31:45.185342Z'
 ---
 
 {% raw %}

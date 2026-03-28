@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.139117Z'
+created: '2026-03-28T08:31:45.337855Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/cognitivefunction/emotional-regulation/
+permalink: /entities/cognitivefunction/emotional-regulation/
 slug: emotional-regulation
 tags:
 - cognitivefunction
 templateEngineOverride: njk
 title: Emotional Regulation
 type: cognitivefunction
-updated: '2026-03-28T07:29:06.139117Z'
+updated: '2026-03-28T08:31:45.337855Z'
 ---
 
 {% raw %}

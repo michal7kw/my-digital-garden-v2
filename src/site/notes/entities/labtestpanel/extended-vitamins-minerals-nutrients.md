@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.519578Z'
+created: '2026-03-28T08:31:46.807678Z'
 description: Evaluates key nutrient levels to ensure your body has the resources to
   support vital functions like energy production, antioxidant defense, immune health,
   thyroid function, and DNA synthesis. With 90% of Americans experiencing one or more
@@ -9,15 +9,14 @@ description: Evaluates key nutrient levels to ensure your body has the resources
   Coenzyme Q10 (CoQ10)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/
+permalink: /entities/labtestpanel/extended-vitamins-minerals-nutrients/
 slug: extended-vitamins-minerals-nutrients
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_vitamins_minerals_nutrients
 type: labtestpanel
-updated: '2026-03-28T07:29:07.519578Z'
+updated: '2026-03-28T08:31:46.807678Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:07.674110Z'
+created: '2026-03-28T08:31:47.035934Z'
 description: Large lymphoid organ responsible for filtering blood, recycling erythrocytes,
   and facilitating immune responses.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/spleen/
+permalink: /entities/organ/spleen/
 slug: spleen
 tags:
 - organ
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Spleen
 type: organ
-updated: '2026-03-28T07:29:07.674110Z'
+updated: '2026-03-28T08:31:47.035934Z'
 ---
 
 {% raw %}

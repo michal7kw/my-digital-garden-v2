@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.408594Z'
+created: '2026-03-28T08:31:45.614873Z'
 description: Non-Alcoholic Fatty Liver Disease, characterized by excessive fat accumulation
   in the liver not caused by alcohol consumption.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/nafld/
+permalink: /entities/condition/nafld/
 slug: nafld
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: NAFLD
 type: condition
-updated: '2026-03-28T07:29:06.408594Z'
+updated: '2026-03-28T08:31:45.614873Z'
 ---
 
 {% raw %}

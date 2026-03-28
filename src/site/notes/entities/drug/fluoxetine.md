@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.594908Z'
+created: '2026-03-28T08:31:45.843097Z'
 description: First widely prescribed SSRI antidepressant (Prozac). Long half-life
   allows flexible dosing and easier discontinuation. FDA-approved for depression,
   OCD, panic disorder, bulimia, and PMDD.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/fluoxetine/
+permalink: /entities/drug/fluoxetine/
 slug: fluoxetine
 tags:
 - drug
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Fluoxetine
 type: drug
-updated: '2026-03-28T07:29:06.594908Z'
+updated: '2026-03-28T08:31:45.843097Z'
 ---
 
 {% raw %}

@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.587105Z'
+created: '2026-03-28T08:31:46.893291Z'
 description: The active, methylated form of folate (5-MTHF) essential for methylation
   reactions, DNA synthesis, neurotransmitter production, and homocysteine metabolism.
   Critical for those with MTHFR gene variants.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/methylfolate/
+permalink: /entities/metabolite/methylfolate/
 slug: methylfolate
 tags:
 - metabolite
 templateEngineOverride: njk
 title: Methylfolate
 type: metabolite
-updated: '2026-03-28T07:29:07.587105Z'
+updated: '2026-03-28T08:31:46.893291Z'
 ---
 
 {% raw %}

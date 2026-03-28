@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.378557Z'
+created: '2026-03-28T08:31:45.582495Z'
 description: Conditions characterized by the body's inability to obtain or utilize
   necessary nutrients, either due to poor intake or impaired intestinal absorption.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/malnutrition-and-malabsorption/
+permalink: /entities/condition/malnutrition-and-malabsorption/
 slug: malnutrition-and-malabsorption
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Malnutrition and Malabsorption
 type: condition
-updated: '2026-03-28T07:29:06.378557Z'
+updated: '2026-03-28T08:31:45.582495Z'
 ---
 
 {% raw %}

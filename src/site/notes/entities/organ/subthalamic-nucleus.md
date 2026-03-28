@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.677881Z'
+created: '2026-03-28T08:31:47.044756Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/subthalamic-nucleus/
+permalink: /entities/organ/subthalamic-nucleus/
 slug: subthalamic-nucleus
 tags:
 - organ
 templateEngineOverride: njk
 title: Subthalamic Nucleus
 type: organ
-updated: '2026-03-28T07:29:07.677881Z'
+updated: '2026-03-28T08:31:47.044756Z'
 ---
 
 {% raw %}

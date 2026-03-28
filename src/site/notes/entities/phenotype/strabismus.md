@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.942655Z'
+created: '2026-03-28T08:31:47.380001Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/strabismus/
+permalink: /entities/phenotype/strabismus/
 slug: strabismus
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Strabismus
 type: phenotype
-updated: '2026-03-28T07:29:07.942655Z'
+updated: '2026-03-28T08:31:47.380001Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.924052Z'
+created: '2026-03-28T08:31:45.046503Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/epa/
+permalink: /entities/biomarker/epa/
 slug: epa
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Epa
 type: biomarker
-updated: '2026-03-28T07:29:05.924052Z'
+updated: '2026-03-28T08:31:45.046503Z'
 ---
 
 {% raw %}

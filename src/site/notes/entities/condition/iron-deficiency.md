@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.114667Z'
+created: '2026-03-28T08:31:45.319946Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/iron-deficiency/
+permalink: /entities/condition/iron-deficiency/
 slug: iron-deficiency
 tags:
 - condition
 templateEngineOverride: njk
 title: Iron Deficiency
 type: condition
-updated: '2026-03-28T07:29:06.114667Z'
+updated: '2026-03-28T08:31:45.319946Z'
 ---
 
 {% raw %}

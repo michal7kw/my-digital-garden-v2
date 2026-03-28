@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.618675Z'
+created: '2026-03-28T08:31:45.865992Z'
 description: Synthetic phenothiazine dye and the oldest synthetic drug in medicine
   (1876). FDA-approved for methemoglobinemia, methylene blue functions as an alternative
   electron carrier in the mitochondrial electron transport chain. At low doses it
@@ -8,8 +8,7 @@ description: Synthetic phenothiazine dye and the oldest synthetic drug in medici
   via its hormetic dose-response curve.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/methylene-blue/
+permalink: /entities/drug/methylene-blue/
 slug: methylene-blue
 tags:
 - drug
@@ -22,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Methylene Blue
 type: drug
-updated: '2026-03-28T07:29:06.618675Z'
+updated: '2026-03-28T08:31:45.865992Z'
 ---
 
 {% raw %}

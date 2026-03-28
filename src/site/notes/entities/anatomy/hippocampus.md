@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.801819Z'
+created: '2026-03-28T08:31:44.913728Z'
 description: Seahorse-shaped structure in the medial temporal lobe, essential for
   episodic memory formation, spatial navigation, and one of the few brain regions
   where adult neurogenesis occurs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/Anatomy/hippocampus/
+permalink: /entities/Anatomy/hippocampus/
 slug: hippocampus
 tags:
 - Anatomy
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hippocampus
 type: Anatomy
-updated: '2026-03-28T07:29:05.801819Z'
+updated: '2026-03-28T08:31:44.913728Z'
 ---
 
 {% raw %}

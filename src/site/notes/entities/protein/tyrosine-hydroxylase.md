@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.124988Z'
+created: '2026-03-28T08:31:47.568591Z'
 description: Rate-limiting enzyme in catecholamine biosynthesis, catalyzing the hydroxylation
   of L-Tyrosine to L-DOPA. Requires iron (Fe2+) and tetrahydrobiopterin (BH4) as essential
   cofactors. Regulated by phosphorylation-dependent activation and end-product feedback
@@ -7,8 +7,7 @@ description: Rate-limiting enzyme in catecholamine biosynthesis, catalyzing the 
   the substantia nigra is the neuropathological hallmark of Parkinson's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/tyrosine-hydroxylase/
+permalink: /entities/protein/tyrosine-hydroxylase/
 slug: tyrosine-hydroxylase
 tags:
 - protein
@@ -21,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Tyrosine Hydroxylase
 type: protein
-updated: '2026-03-28T07:29:08.124988Z'
+updated: '2026-03-28T08:31:47.568591Z'
 ---
 
 {% raw %}

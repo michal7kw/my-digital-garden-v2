@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.854426Z'
+created: '2026-03-28T08:31:46.029380Z'
 description: Strategies to improve sleep quality, duration, and architecture for brain
   health. Adequate sleep supports glymphatic clearance of neurotoxins, memory consolidation,
   and cognitive function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/sleep-optimization/
+permalink: /entities/intervention/sleep-optimization/
 slug: sleep-optimization
 tags:
 - intervention
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Optimization
 type: intervention
-updated: '2026-03-28T07:29:06.854426Z'
+updated: '2026-03-28T08:31:46.029380Z'
 ---
 
 {% raw %}

@@ -1,13 +1,12 @@
 ---
-created: '2026-03-28T07:29:05.838914Z'
+created: '2026-03-28T08:31:44.939851Z'
 description: The APOE genotype refers to the specific combination of alleles (ε2,
   ε3, ε4) of the Apolipoprotein E gene, which determines the structure of the ApoE
   protein and significantly influences lipid metabolism, cardiovascular risk, and
   the risk of Alzheimer's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/apoe-genotype/
+permalink: /entities/biomarker/apoe-genotype/
 slug: apoe-genotype
 tags:
 - biomarker
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: APOE Genotype
 type: biomarker
-updated: '2026-03-28T07:29:05.838914Z'
+updated: '2026-03-28T08:31:44.939851Z'
 ---
 
 {% raw %}

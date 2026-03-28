@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.185080Z'
+created: '2026-03-28T08:31:45.377453Z'
 description: A common heart rhythm disorder (arrhythmia) characterized by rapid and
   irregular beating of the atrial chambers of the heart.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/atrial-fibrillation/
+permalink: /entities/condition/atrial-fibrillation/
 slug: atrial-fibrillation
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Atrial Fibrillation
 type: condition
-updated: '2026-03-28T07:29:06.185080Z'
+updated: '2026-03-28T08:31:45.377453Z'
 ---
 
 {% raw %}

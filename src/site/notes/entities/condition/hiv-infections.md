@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.324990Z'
+created: '2026-03-28T08:31:45.511491Z'
 description: A chronic viral infection that attacks the body's immune system, specifically
   CD4 T cells, potentially leading to AIDS if untreated.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/hiv-infections/
+permalink: /entities/condition/hiv-infections/
 slug: hiv-infections
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: HIV Infections
 type: condition
-updated: '2026-03-28T07:29:06.324990Z'
+updated: '2026-03-28T08:31:45.511491Z'
 ---
 
 {% raw %}

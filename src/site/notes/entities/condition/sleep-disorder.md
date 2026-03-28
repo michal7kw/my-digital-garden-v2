@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.517512Z'
+created: '2026-03-28T08:31:45.752843Z'
 description: A broad category of conditions that disrupt normal sleep patterns, affecting
   the quality, timing, and amount of sleep.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/sleep-disorder/
+permalink: /entities/condition/sleep-disorder/
 slug: sleep-disorder
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Disorder
 type: condition
-updated: '2026-03-28T07:29:06.517512Z'
+updated: '2026-03-28T08:31:45.752843Z'
 ---
 
 {% raw %}

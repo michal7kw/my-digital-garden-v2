@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.363227Z'
+created: '2026-03-28T08:31:45.561635Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/lecithin-cholesterol-acyltransferase-deficiency/
+permalink: /entities/condition/lecithin-cholesterol-acyltransferase-deficiency/
 slug: lecithin-cholesterol-acyltransferase-deficiency
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-03-28T07:29:06.363227Z'
+updated: '2026-03-28T08:31:45.561635Z'
 ---
 
 {% raw %}

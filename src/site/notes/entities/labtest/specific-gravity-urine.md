@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:07.364394Z'
+created: '2026-03-28T08:31:46.613213Z'
 description: Tested twice a year Urine specific gravity measures how concentrated
   or diluted urine is compared to water, providing insight into hydration status and
   kidney function. Abnormal readings—either too low or too high—can be associated
   with conditions such as dehydration, kidney stones, or impaired kidney function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/specific-gravity-urine/
+permalink: /entities/labtest/specific-gravity-urine/
 slug: specific-gravity-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: specific_gravity_urine
 type: labtest
-updated: '2026-03-28T07:29:07.364394Z'
+updated: '2026-03-28T08:31:46.613213Z'
 ---
 
 {% raw %}

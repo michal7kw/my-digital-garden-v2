@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.041492Z'
+created: '2026-03-28T08:31:47.491037Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/fos/
+permalink: /entities/gene/fos/
 slug: fos
 tags:
 - gene
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: FOS
 type: gene
-updated: '2026-03-28T07:29:08.041492Z'
+updated: '2026-03-28T08:31:47.491037Z'
 ---
 
 {% raw %}

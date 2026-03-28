@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.510971Z'
+created: '2026-03-28T08:31:46.795961Z'
 description: Heavy metals can accumulate in the body over time, often without causing
   noticeable symptoms. However, elevated levels of these metals can contribute to
   serious health problems, including brain, heart, and kidney issues. Testing for
@@ -10,15 +10,14 @@ description: Heavy metals can accumulate in the body over time, often without ca
   deodorants. Included biomarkers (2)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-heavy-metals/
+permalink: /entities/labtestpanel/extended-heavy-metals/
 slug: extended-heavy-metals
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_heavy_metals
 type: labtestpanel
-updated: '2026-03-28T07:29:07.510971Z'
+updated: '2026-03-28T08:31:46.795961Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.671460Z'
+created: '2026-03-28T08:31:45.923169Z'
 description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critical
   for clopidogrel activation, PPI metabolism, and certain antidepressant clearance.
   Loss-of-function variants common in East Asian populations.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/cyp2c19/
+permalink: /entities/gene/cyp2c19/
 slug: cyp2c19
 tags:
 - gene
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C19
 type: gene
-updated: '2026-03-28T07:29:06.671460Z'
+updated: '2026-03-28T08:31:45.923169Z'
 ---
 
 {% raw %}

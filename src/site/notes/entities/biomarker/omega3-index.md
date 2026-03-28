@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.016005Z'
+created: '2026-03-28T08:31:45.200003Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/omega3-index/
+permalink: /entities/biomarker/omega3-index/
 slug: omega3-index
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Omega3 Index
 type: biomarker
-updated: '2026-03-28T07:29:06.016005Z'
+updated: '2026-03-28T08:31:45.200003Z'
 ---
 
 {% raw %}

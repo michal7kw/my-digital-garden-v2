@@ -1,9 +1,8 @@
 ---
-created: '2026-03-28T07:29:07.755066Z'
+created: '2026-03-28T08:31:47.148740Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/mesolimbic-dopamine-pathway/
+permalink: /entities/pathway/mesolimbic-dopamine-pathway/
 slug: mesolimbic-dopamine-pathway
 tags:
 - pathway
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Mesolimbic Dopamine Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.755066Z'
+updated: '2026-03-28T08:31:47.148740Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.645687Z'
+created: '2026-03-28T08:31:46.987408Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/hypothalamus/
+permalink: /entities/organ/hypothalamus/
 slug: hypothalamus
 tags:
 - organ
 templateEngineOverride: njk
 title: Hypothalamus
 type: organ
-updated: '2026-03-28T07:29:07.645687Z'
+updated: '2026-03-28T08:31:46.987408Z'
 ---
 
 {% raw %}

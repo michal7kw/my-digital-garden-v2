@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.395630Z'
+created: '2026-03-28T08:31:45.600520Z'
 description: A rare autoimmune disorder characterized by overlapping features of at
   least two other systemic autoimmune diseases, such as lupus, scleroderma, and polymyositis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/mixed-connective-tissue-disease/
+permalink: /entities/condition/mixed-connective-tissue-disease/
 slug: mixed-connective-tissue-disease
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mixed Connective Tissue Disease
 type: condition
-updated: '2026-03-28T07:29:06.395630Z'
+updated: '2026-03-28T08:31:45.600520Z'
 ---
 
 {% raw %}

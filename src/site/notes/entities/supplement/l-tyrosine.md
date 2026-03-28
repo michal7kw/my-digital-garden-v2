@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.281118Z'
+created: '2026-03-28T08:31:47.751600Z'
 description: Conditionally essential amino acid and primary precursor to the catecholamine
   neurotransmitters (dopamine, norepinephrine, epinephrine) and thyroid hormones (T3,
   T4). Most effective for cognitive enhancement under conditions of stress, sleep
@@ -7,8 +7,7 @@ description: Conditionally essential amino acid and primary precursor to the cat
   significantly increase catecholamines above baseline at rest.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/l-tyrosine/
+permalink: /entities/supplement/l-tyrosine/
 slug: l-tyrosine
 tags:
 - supplement
@@ -22,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tyrosine
 type: supplement
-updated: '2026-03-28T07:29:08.281118Z'
+updated: '2026-03-28T08:31:47.751600Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.404815Z'
+created: '2026-03-28T08:31:47.861178Z'
 description: Root extract of Eurycoma longifolia, a Southeast Asian medicinal plant
   traditionally used as an aphrodisiac and energy tonic. Contains bioactive quassinoids
   (eurycomanone, eurycolactone) that modulate testosterone via HPA axis and SHBG mechanisms.
@@ -7,8 +7,7 @@ description: Root extract of Eurycoma longifolia, a Southeast Asian medicinal pl
   and ergogenic benefits. Also known as Malaysian Ginseng or Longjack.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/tongkat-ali/
+permalink: /entities/supplement/tongkat-ali/
 slug: tongkat-ali
 tags:
 - supplement
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tongkat Ali
 type: supplement
-updated: '2026-03-28T07:29:08.404815Z'
+updated: '2026-03-28T08:31:47.861178Z'
 ---
 
 {% raw %}

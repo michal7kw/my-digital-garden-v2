@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:06.684632Z'
+created: '2026-03-28T08:31:45.932624Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/nr3c1/
+permalink: /entities/gene/nr3c1/
 slug: nr3c1
 tags:
 - gene
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: NR3C1
 type: gene
-updated: '2026-03-28T07:29:06.684632Z'
+updated: '2026-03-28T08:31:45.932624Z'
 ---
 
 {% raw %}

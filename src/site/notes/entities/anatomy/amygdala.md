@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.745376Z'
+created: '2026-03-28T08:31:44.883703Z'
 description: Almond-shaped limbic structure critical for emotional processing, particularly
   fear conditioning and threat detection. Bidirectionally connected with prefrontal
   cortex for emotion regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/Anatomy/amygdala/
+permalink: /entities/Anatomy/amygdala/
 slug: amygdala
 tags:
 - Anatomy
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amygdala
 type: Anatomy
-updated: '2026-03-28T07:29:05.745376Z'
+updated: '2026-03-28T08:31:44.883703Z'
 ---
 
 {% raw %}

@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:05.851453Z'
+created: '2026-03-28T08:31:44.951229Z'
 description: The ratio of amyloid-beta 42 to amyloid-beta 40 peptides in CSF or plasma.
   A decreased ratio indicates amyloid pathology and is a core biomarker for Alzheimer's
   disease within the ATN framework.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/amyloid-beta-4240-ratio/
+permalink: /entities/biomarker/amyloid-beta-4240-ratio/
 slug: amyloid-beta-4240-ratio
 tags:
 - biomarker
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid-Beta 42/40 Ratio
 type: biomarker
-updated: '2026-03-28T07:29:05.851453Z'
+updated: '2026-03-28T08:31:44.951229Z'
 ---
 
 {% raw %}

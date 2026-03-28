@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.036560Z'
+created: '2026-03-28T08:31:45.225297Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/rbc/
+permalink: /entities/biomarker/rbc/
 slug: rbc
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Rbc
 type: biomarker
-updated: '2026-03-28T07:29:06.036560Z'
+updated: '2026-03-28T08:31:45.225297Z'
 ---
 
 {% raw %}

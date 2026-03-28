@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:07.725845Z'
+created: '2026-03-28T08:31:47.109013Z'
 description: Distributed network of GABAergic interneurons throughout the cortex and
   subcortical structures. Provides inhibitory balance to excitatory glutamate signaling,
   essential for neural oscillations, information filtering, and seizure prevention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/gabaergic-cortical-pathway/
+permalink: /entities/pathway/gabaergic-cortical-pathway/
 slug: gabaergic-cortical-pathway
 tags:
 - pathway
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Cortical Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.725845Z'
+updated: '2026-03-28T08:31:47.109013Z'
 ---
 
 {% raw %}

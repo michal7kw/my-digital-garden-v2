@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:05.976757Z'
+created: '2026-03-28T08:31:45.164162Z'
 description: An oral glucose tolerance test with serial insulin measurements (GTIR),
   used to detect early-stage insulin resistance and occult diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/kraft-test/
+permalink: /entities/biomarker/kraft-test/
 slug: kraft-test
 tags:
 - biomarker
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Kraft Test
 type: biomarker
-updated: '2026-03-28T07:29:05.976757Z'
+updated: '2026-03-28T08:31:45.164162Z'
 ---
 
 {% raw %}

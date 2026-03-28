@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:07.127092Z'
+created: '2026-03-28T08:31:46.322346Z'
 description: Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures
   the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and
   is elevated in infections, autoimmune conditions, cardiovascular disease, and various
   cancers. It stimulates hepatic production of CRP and other acute-phase proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/interleukin-6/
+permalink: /entities/labtest/interleukin-6/
 slug: interleukin-6
 tags:
 - labtest
 templateEngineOverride: njk
 title: interleukin_6
 type: labtest
-updated: '2026-03-28T07:29:07.127092Z'
+updated: '2026-03-28T08:31:46.322346Z'
 ---
 
 {% raw %}

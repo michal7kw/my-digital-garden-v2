@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:07.080953Z'
+created: '2026-03-28T08:31:46.285357Z'
 description: HDL particles can be small or large. Larger, “fluffier” HDL particles
   are more protective because they are better at removing excess cholesterol from
   the arteries, helping reduce the risk of atherosclerosis and heart disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hdl-large/
+permalink: /entities/labtest/hdl-large/
 slug: hdl-large
 tags:
 - labtest
 templateEngineOverride: njk
 title: hdl_large
 type: labtest
-updated: '2026-03-28T07:29:07.080953Z'
+updated: '2026-03-28T08:31:46.285357Z'
 ---
 
 {% raw %}

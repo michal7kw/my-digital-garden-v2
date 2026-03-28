@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.682116Z'
+created: '2026-03-28T08:31:45.931331Z'
 description: Encodes the Microtubule-Associated Protein Tau. Mutations are associated
   with frontotemporal dementia, but rarely with Alzheimer's directly (though Tau protein
   is central to AD pathology).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/mapt/
+permalink: /entities/gene/mapt/
 slug: mapt
 tags:
 - gene
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: MAPT
 type: gene
-updated: '2026-03-28T07:29:06.682116Z'
+updated: '2026-03-28T08:31:45.931331Z'
 ---
 
 {% raw %}

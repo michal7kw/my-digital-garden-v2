@@ -1,20 +1,19 @@
 ---
-created: '2026-03-28T07:29:07.392089Z'
+created: '2026-03-28T08:31:46.650509Z'
 description: TPO antibodies are proteins made by the immune system that target an
   enzyme needed for thyroid hormone production. Detecting TPO antibodies can reveal
   autoimmune activity that may impair thyroid function. Possible symptoms UNEXPLAINED
   WEIGHT GAIN OR WEIGHT LOSS COLD INTOLERANCE CONSTIPATION HAIR THINNING OR HAIR LOSS
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-peroxidase-antibodies-tpo/
+permalink: /entities/labtest/thyroid-peroxidase-antibodies-tpo/
 slug: thyroid-peroxidase-antibodies-tpo
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_peroxidase_antibodies_tpo
 type: labtest
-updated: '2026-03-28T07:29:07.392089Z'
+updated: '2026-03-28T08:31:46.650509Z'
 ---
 
 {% raw %}

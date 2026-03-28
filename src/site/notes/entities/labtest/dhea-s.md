@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.014979Z'
+created: '2026-03-28T08:31:46.208303Z'
 description: Adrenal androgen precursor. Marker for adrenal function and biological
   aging.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/dhea-s/
+permalink: /entities/labtest/dhea-s/
 slug: dhea-s
 tags:
 - labtest
 templateEngineOverride: njk
 title: dhea_s
 type: labtest
-updated: '2026-03-28T07:29:07.014979Z'
+updated: '2026-03-28T08:31:46.208303Z'
 ---
 
 {% raw %}

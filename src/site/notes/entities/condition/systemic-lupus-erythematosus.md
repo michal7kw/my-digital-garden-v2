@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.532144Z'
+created: '2026-03-28T08:31:45.765090Z'
 description: A chronic autoimmune disease where the immune system attacks various
   tissues, causing widespread inflammation and tissue damage in multiple organs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/
+permalink: /entities/condition/systemic-lupus-erythematosus/
 slug: systemic-lupus-erythematosus
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Systemic Lupus Erythematosus
 type: condition
-updated: '2026-03-28T07:29:06.532144Z'
+updated: '2026-03-28T08:31:45.765090Z'
 ---
 
 {% raw %}

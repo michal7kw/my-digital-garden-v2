@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.578524Z'
+created: '2026-03-28T08:31:46.879826Z'
 description: Group of three metabolites (beta-hydroxybutyrate, acetoacetate, acetone)
   produced from fatty acid oxidation in liver mitochondria during fasting, carbohydrate
   restriction, or prolonged exercise. Serve as alternative fuel for brain, heart,
@@ -7,8 +7,7 @@ description: Group of three metabolites (beta-hydroxybutyrate, acetoacetate, ace
   and bioactive ketone body.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/metabolite/ketone-bodies/
+permalink: /entities/metabolite/ketone-bodies/
 slug: ketone-bodies
 tags:
 - metabolite
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Ketone Bodies
 type: metabolite
-updated: '2026-03-28T07:29:07.578524Z'
+updated: '2026-03-28T08:31:46.879826Z'
 ---
 
 {% raw %}

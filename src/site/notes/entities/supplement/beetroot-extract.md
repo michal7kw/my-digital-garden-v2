@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:08.202789Z'
+created: '2026-03-28T08:31:47.667437Z'
 description: Rich source of dietary nitrate that converts to nitric oxide (NO) in
   the body, improving oxygen efficiency, reducing oxygen cost of exercise, enhancing
   blood flow, and improving endurance performance.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/beetroot-extract/
+permalink: /entities/supplement/beetroot-extract/
 slug: beetroot-extract
 tags:
 - supplement
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Beetroot Extract
 type: supplement
-updated: '2026-03-28T07:29:08.202789Z'
+updated: '2026-03-28T08:31:47.667437Z'
 ---
 
 {% raw %}

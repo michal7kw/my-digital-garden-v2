@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.219755Z'
+created: '2026-03-28T08:31:45.404693Z'
 description: A large group of diseases characterized by the uncontrolled growth and
   spread of abnormal cells, which can invade nearby tissues and metastasize to distant
   organs.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/cancer/
+permalink: /entities/condition/cancer/
 slug: cancer
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cancer
 type: condition
-updated: '2026-03-28T07:29:06.219755Z'
+updated: '2026-03-28T08:31:45.404693Z'
 ---
 
 {% raw %}

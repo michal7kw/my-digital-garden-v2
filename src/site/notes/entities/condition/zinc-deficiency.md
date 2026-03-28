@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.556593Z'
+created: '2026-03-28T08:31:45.789718Z'
 description: A nutritional deficiency state characterized by insufficient levels of
   zinc, an essential trace element involved in immune function, protein synthesis,
   and wound healing.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/zinc-deficiency/
+permalink: /entities/condition/zinc-deficiency/
 slug: zinc-deficiency
 tags:
 - condition
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc Deficiency
 type: condition
-updated: '2026-03-28T07:29:06.556593Z'
+updated: '2026-03-28T08:31:45.789718Z'
 ---
 
 {% raw %}

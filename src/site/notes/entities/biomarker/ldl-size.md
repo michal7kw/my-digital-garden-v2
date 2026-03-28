@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.980721Z'
+created: '2026-03-28T08:31:45.169095Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/ldl-size/
+permalink: /entities/biomarker/ldl-size/
 slug: ldl-size
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Ldl Size
 type: biomarker
-updated: '2026-03-28T07:29:05.980721Z'
+updated: '2026-03-28T08:31:45.169095Z'
 ---
 
 {% raw %}

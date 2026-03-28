@@ -1,12 +1,11 @@
 ---
-created: '2026-03-28T07:29:06.834736Z'
+created: '2026-03-28T08:31:46.011184Z'
 description: The ketogenic diet is a very low-carb, high-fat diet that involves drastically
   reducing carbohydrate intake and replacing it with fat. This reduction in carbs
   puts your body into a metabolic state called ketosis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/keto-diet/
+permalink: /entities/intervention/keto-diet/
 slug: keto-diet
 tags:
 - diet
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Keto Diet
 type: intervention
-updated: '2026-03-28T07:29:06.834736Z'
+updated: '2026-03-28T08:31:46.011184Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.361280Z'
+created: '2026-03-28T08:31:45.557765Z'
 description: Increased intestinal permeability allowing bacterial endotoxins (LPS),
   undigested food particles, and antigens to cross the gut barrier into systemic circulation.
   Triggers immune activation and chronic low-grade inflammation. Formally termed "increased
@@ -8,8 +8,7 @@ description: Increased intestinal permeability allowing bacterial endotoxins (LP
   entity remains debated.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/leaky-gut/
+permalink: /entities/condition/leaky-gut/
 slug: leaky-gut
 tags:
 - condition
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Leaky Gut
 type: condition
-updated: '2026-03-28T07:29:06.361280Z'
+updated: '2026-03-28T08:31:45.557765Z'
 ---
 
 {% raw %}

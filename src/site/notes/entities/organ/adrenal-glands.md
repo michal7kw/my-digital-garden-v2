@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.626514Z'
+created: '2026-03-28T08:31:46.958683Z'
 description: Endocrine glands producing stress hormones (cortisol, adrenaline), aldosterone,
   and small amounts of sex hormones. Critical for stress response and homeostasis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/adrenal-glands/
+permalink: /entities/organ/adrenal-glands/
 slug: adrenal-glands
 tags:
 - organ
 templateEngineOverride: njk
 title: Adrenal Glands
 type: organ
-updated: '2026-03-28T07:29:07.626514Z'
+updated: '2026-03-28T08:31:46.958683Z'
 ---
 
 {% raw %}

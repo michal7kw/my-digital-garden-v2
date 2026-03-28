@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.060965Z'
+created: '2026-03-28T08:31:45.259924Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/tibc/
+permalink: /entities/biomarker/tibc/
 slug: tibc
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tibc
 type: biomarker
-updated: '2026-03-28T07:29:06.060965Z'
+updated: '2026-03-28T08:31:45.259924Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.824713Z'
+created: '2026-03-28T08:31:45.999973Z'
 description: Deliberate exposure to cold temperatures (e.g., ice baths, cold showers)
   to trigger hormetic stress responses and metabolic benefits.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/cold-exposure/
+permalink: /entities/intervention/cold-exposure/
 slug: cold-exposure
 tags:
 - intervention
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Cold Exposure
 type: intervention
-updated: '2026-03-28T07:29:06.824713Z'
+updated: '2026-03-28T08:31:45.999973Z'
 ---
 
 {% raw %}

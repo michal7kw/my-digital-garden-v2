@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.050176Z'
+created: '2026-03-28T08:31:47.498336Z'
 description: Monoamine oxidase A, a mitochondrial outer membrane-bound flavoenzyme
   that catalyzes the oxidative deamination of monoamine neurotransmitters including
   serotonin, norepinephrine, and dopamine. Key pharmacological target for antidepressant
@@ -8,8 +8,7 @@ description: Monoamine oxidase A, a mitochondrial outer membrane-bound flavoenzy
   metabolism to oxidative stress.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/mao-a/
+permalink: /entities/protein/mao-a/
 slug: mao-a
 tags:
 - protein
@@ -22,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: MAO-A
 type: protein
-updated: '2026-03-28T07:29:08.050176Z'
+updated: '2026-03-28T08:31:47.498336Z'
 ---
 
 {% raw %}

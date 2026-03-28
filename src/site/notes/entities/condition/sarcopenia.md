@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.503265Z'
+created: '2026-03-28T08:31:45.740945Z'
 description: A progressive and generalized skeletal muscle disorder characterized
   by the age-related loss of muscle mass, strength, and function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/sarcopenia/
+permalink: /entities/condition/sarcopenia/
 slug: sarcopenia
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcopenia
 type: condition
-updated: '2026-03-28T07:29:06.503265Z'
+updated: '2026-03-28T08:31:45.740945Z'
 ---
 
 {% raw %}

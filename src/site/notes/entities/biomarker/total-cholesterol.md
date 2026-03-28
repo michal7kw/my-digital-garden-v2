@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:06.062261Z'
+created: '2026-03-28T08:31:45.261128Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/total-cholesterol/
+permalink: /entities/biomarker/total-cholesterol/
 slug: total-cholesterol
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Total Cholesterol
 type: biomarker
-updated: '2026-03-28T07:29:06.062261Z'
+updated: '2026-03-28T08:31:45.261128Z'
 ---
 
 {% raw %}

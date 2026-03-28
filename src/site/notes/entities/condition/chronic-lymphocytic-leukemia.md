@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.244945Z'
+created: '2026-03-28T08:31:45.436103Z'
 description: A type of cancer of the blood and bone marrow that affects B lymphocytes
   (a type of white blood cell), progressing slowly.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/chronic-lymphocytic-leukemia/
+permalink: /entities/condition/chronic-lymphocytic-leukemia/
 slug: chronic-lymphocytic-leukemia
 tags:
 - condition
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Lymphocytic Leukemia
 type: condition
-updated: '2026-03-28T07:29:06.244945Z'
+updated: '2026-03-28T08:31:45.436103Z'
 ---
 
 {% raw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.460270Z'
+created: '2026-03-28T08:31:46.731784Z'
 description: Primary vitamin D status marker. Important for bone health, immune function,
   and overall wellness.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/
+permalink: /entities/labtest/vitamin-d-25oh/
 slug: vitamin-d-25oh
 tags:
 - labtest
 templateEngineOverride: njk
 title: vitamin_d_25oh
 type: labtest
-updated: '2026-03-28T07:29:07.460270Z'
+updated: '2026-03-28T08:31:46.731784Z'
 ---
 
 {% raw %}

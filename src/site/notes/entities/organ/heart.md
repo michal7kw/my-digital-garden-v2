@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.643254Z'
+created: '2026-03-28T08:31:46.983911Z'
 description: Muscular organ that pumps blood throughout the body via the circulatory
   system. Central to cardiovascular health and affected by numerous supplements.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/heart/
+permalink: /entities/organ/heart/
 slug: heart
 tags:
 - organ
 templateEngineOverride: njk
 title: Heart
 type: organ
-updated: '2026-03-28T07:29:07.643254Z'
+updated: '2026-03-28T08:31:46.983911Z'
 ---
 
 {% raw %}

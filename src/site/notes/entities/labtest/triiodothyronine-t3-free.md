@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.422851Z'
+created: '2026-03-28T08:31:46.694358Z'
 description: try-eye-oh-doh-thigh-ruh-neen tee-three free Triiodothyronine (T3) Free
   is the active thyroid hormone that directly regulates metabolism, energy levels,
   and body temperature. Most T3 is made by converting T4 into this active form. Measuring
@@ -7,15 +7,14 @@ description: try-eye-oh-doh-thigh-ruh-neen tee-three free Triiodothyronine (T3) 
   hormone is available for the body to use.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/triiodothyronine-t3-free/
+permalink: /entities/labtest/triiodothyronine-t3-free/
 slug: triiodothyronine-t3-free
 tags:
 - labtest
 templateEngineOverride: njk
 title: triiodothyronine_t3_free
 type: labtest
-updated: '2026-03-28T07:29:07.422851Z'
+updated: '2026-03-28T08:31:46.694358Z'
 ---
 
 {% raw %}

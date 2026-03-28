@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:08.295625Z'
+created: '2026-03-28T08:31:47.767172Z'
 description: Tropical legume (velvet bean) and traditional Ayurvedic medicine containing
   the highest natural concentration of L-DOPA (3-6% in seeds), making it the richest
   known plant source of this dopamine precursor. Used for centuries in Ayurveda as
@@ -9,8 +9,7 @@ description: Tropical legume (velvet bean) and traditional Ayurvedic medicine co
   alkaloids that may contribute to its broad neurological profile.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/mucuna-pruriens/
+permalink: /entities/supplement/mucuna-pruriens/
 slug: mucuna-pruriens
 tags:
 - supplement
@@ -23,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Mucuna Pruriens
 type: supplement
-updated: '2026-03-28T07:29:08.295625Z'
+updated: '2026-03-28T08:31:47.767172Z'
 ---
 
 {% raw %}

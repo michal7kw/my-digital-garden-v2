@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:07.411731Z'
+created: '2026-03-28T08:31:46.680285Z'
 description: toh-tul koh-les-ter-ol / h-d-l ray-shee-oh Tested twice a year The ratio
   shows the balance between harmful cholesterol particles that cause plaque buildup
   in arteries, and protective cholesterol particles that help remove excess cholesterol
@@ -7,15 +7,14 @@ description: toh-tul koh-les-ter-ol / h-d-l ray-shee-oh Tested twice a year The 
   cardiovascular events like heart attack and stroke.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/total-cholesterol-hdl-ratio/
+permalink: /entities/labtest/total-cholesterol-hdl-ratio/
 slug: total-cholesterol-hdl-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_cholesterol_hdl_ratio
 type: labtest
-updated: '2026-03-28T07:29:07.411731Z'
+updated: '2026-03-28T08:31:46.680285Z'
 ---
 
 {% raw %}

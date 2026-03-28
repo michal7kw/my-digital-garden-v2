@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:08.058576Z'
+created: '2026-03-28T08:31:47.505460Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/myc/
+permalink: /entities/gene/myc/
 slug: myc
 tags:
 - gene
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: gene
-updated: '2026-03-28T07:29:08.058576Z'
+updated: '2026-03-28T08:31:47.505460Z'
 ---
 
 {% raw %}

@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:07.864463Z'
+created: '2026-03-28T08:31:47.292604Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/fatigue/
+permalink: /entities/phenotype/fatigue/
 slug: fatigue
 tags:
 - phenotype
@@ -14,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Fatigue
 type: phenotype
-updated: '2026-03-28T07:29:07.864463Z'
+updated: '2026-03-28T08:31:47.292604Z'
 ---
 
 {% raw %}

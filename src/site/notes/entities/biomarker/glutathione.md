@@ -1,19 +1,18 @@
 ---
-created: '2026-03-28T07:29:05.947436Z'
+created: '2026-03-28T08:31:45.108413Z'
 description: The body's master antioxidant and primary detoxification molecule. A
   tripeptide (glutamate-cysteine-glycine) present in every cell, essential for neutralizing
   free radicals, supporting immune function, and Phase II liver detoxification.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/glutathione/
+permalink: /entities/biomarker/glutathione/
 slug: glutathione
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Glutathione
 type: biomarker
-updated: '2026-03-28T07:29:05.947436Z'
+updated: '2026-03-28T08:31:45.108413Z'
 ---
 
 {% raw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-28T07:29:07.661016Z'
+created: '2026-03-28T08:31:47.012221Z'
 description: Peripheral nervous system including sensory and motor neurons. Transmit
   signals between the central nervous system and the rest of the body.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/nerves/
+permalink: /entities/organ/nerves/
 slug: nerves
 tags:
 - organ
 templateEngineOverride: njk
 title: Nerves
 type: organ
-updated: '2026-03-28T07:29:07.661016Z'
+updated: '2026-03-28T08:31:47.012221Z'
 ---
 
 {% raw %}

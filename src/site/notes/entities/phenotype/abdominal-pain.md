@@ -1,10 +1,9 @@
 ---
-created: '2026-03-28T07:29:07.799520Z'
+created: '2026-03-28T08:31:47.214991Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/abdominal-pain/
+permalink: /entities/phenotype/abdominal-pain/
 slug: abdominal-pain
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Abdominal pain
 type: phenotype
-updated: '2026-03-28T07:29:07.799520Z'
+updated: '2026-03-28T08:31:47.214991Z'
 ---
 
 {% raw %}

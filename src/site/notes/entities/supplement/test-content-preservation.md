@@ -1,17 +1,16 @@
 ---
-created: '2026-03-28T07:29:08.395880Z'
+created: '2026-03-28T08:31:47.852850Z'
 description: Test supplement for content preservation
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/test-content-preservation/
+permalink: /entities/supplement/test-content-preservation/
 slug: test-content-preservation
 tags:
 - supplement
 templateEngineOverride: njk
 title: Test Content Preservation
 type: supplement
-updated: '2026-03-28T07:29:08.395880Z'
+updated: '2026-03-28T08:31:47.852850Z'
 ---
 
 {% raw %}

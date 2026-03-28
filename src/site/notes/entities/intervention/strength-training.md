@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T07:29:06.857023Z'
+created: '2026-03-28T08:31:46.032131Z'
 description: Resistance exercise using progressive overload to increase muscular strength,
   mass, and endurance. Foundational for metabolic health, bone density, functional
   independence, and longevity. Stimulates muscle protein synthesis, growth hormone
@@ -7,8 +7,7 @@ description: Resistance exercise using progressive overload to increase muscular
   per week for all adults.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/intervention/strength-training/
+permalink: /entities/intervention/strength-training/
 slug: strength-training
 tags:
 - intervention
@@ -20,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Strength Training
 type: intervention
-updated: '2026-03-28T07:29:06.857023Z'
+updated: '2026-03-28T08:31:46.032131Z'
 ---
 
 {% raw %}

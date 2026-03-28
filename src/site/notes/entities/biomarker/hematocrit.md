@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:05.956679Z'
+created: '2026-03-28T08:31:45.132189Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/hematocrit/
+permalink: /entities/biomarker/hematocrit/
 slug: hematocrit
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Hematocrit
 type: biomarker
-updated: '2026-03-28T07:29:05.956679Z'
+updated: '2026-03-28T08:31:45.132189Z'
 ---
 
 {% raw %}

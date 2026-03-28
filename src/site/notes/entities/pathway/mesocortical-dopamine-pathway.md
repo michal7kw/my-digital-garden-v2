@@ -1,9 +1,8 @@
 ---
-created: '2026-03-28T07:29:07.750293Z'
+created: '2026-03-28T08:31:47.145617Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/mesocortical-dopamine-pathway/
+permalink: /entities/pathway/mesocortical-dopamine-pathway/
 slug: mesocortical-dopamine-pathway
 tags:
 - pathway
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Mesocortical Dopamine Pathway
 type: pathway
-updated: '2026-03-28T07:29:07.750293Z'
+updated: '2026-03-28T08:31:47.145617Z'
 ---
 
 {% raw %}

@@ -1,16 +1,15 @@
 ---
-created: '2026-03-28T07:29:07.636737Z'
+created: '2026-03-28T08:31:46.977580Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/organ/entorhinal-cortex/
+permalink: /entities/organ/entorhinal-cortex/
 slug: entorhinal-cortex
 tags:
 - organ
 templateEngineOverride: njk
 title: Entorhinal Cortex
 type: organ
-updated: '2026-03-28T07:29:07.636737Z'
+updated: '2026-03-28T08:31:46.977580Z'
 ---
 
 {% raw %}

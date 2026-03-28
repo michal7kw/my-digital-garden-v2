@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.490976Z'
+created: '2026-03-28T08:31:45.723276Z'
 description: A serious type of urinary tract infection (UTI) that affects one or both
   kidneys, often causing systemic symptoms like fever and flank pain.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/condition/pyelonephritis/
+permalink: /entities/condition/pyelonephritis/
 slug: pyelonephritis
 tags:
 - condition
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pyelonephritis
 type: condition
-updated: '2026-03-28T07:29:06.490976Z'
+updated: '2026-03-28T08:31:45.723276Z'
 ---
 
 {% raw %}

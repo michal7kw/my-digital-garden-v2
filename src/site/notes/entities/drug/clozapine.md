@@ -1,11 +1,10 @@
 ---
-created: '2026-03-28T07:29:06.583493Z'
+created: '2026-03-28T08:31:45.827579Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/drug/clozapine/
+permalink: /entities/drug/clozapine/
 slug: clozapine
 tags:
 - drug
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-03-28T07:29:06.583493Z'
+updated: '2026-03-28T08:31:45.827579Z'
 ---
 
 {% raw %}
