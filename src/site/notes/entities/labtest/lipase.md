@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.670187Z'
+created: '2026-04-17T18:59:20.063260Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: lipase
 type: labtest
-updated: '2026-04-14T12:36:39.670187Z'
+updated: '2026-04-17T18:59:20.063260Z'
 ---
 
 {% raw %}
@@ -65,14 +65,14 @@ updated: '2026-04-14T12:36:39.670187Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Stomach Flu Gastroenteritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a><br />
+RELATED::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis Acute Or Chronic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

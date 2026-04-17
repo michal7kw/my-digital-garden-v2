@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.063421Z'
+created: '2026-04-17T18:59:20.732714Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Global developmental delay
 type: phenotype
-updated: '2026-04-14T12:36:40.063421Z'
+updated: '2026-04-17T18:59:20.732714Z'
 ---
 
 {% raw %}
@@ -71,7 +71,7 @@ EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">benign familial neonatal-infantile seizures</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Heimler syndrome</a></p>
 <h3>Enriched</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 
 {% endraw %}

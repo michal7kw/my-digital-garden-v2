@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.331435Z'
+created: '2026-04-17T18:59:19.558239Z'
 description: Target chronic low-grade inflammation, a root driver of cardiovascular
   disease, neurodegeneration, and accelerated aging. This stack combines omega-3 for
   resolvin production, curcumin for NF-kB inhibition, vitamin D for immune regulation,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-Inflammation
 type: healthstack
-updated: '2026-04-14T12:36:39.331435Z'
+updated: '2026-04-17T18:59:19.558239Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-04-14T12:36:39.331435Z'
 <td>Immune modulator — regulates both innate and adaptive immunity</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Quercetin</a></td>
+<td><a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a></td>
 <td>500mg</td>
 <td>twice daily</td>
 <td>empty stomach</td>
@@ -111,13 +111,13 @@ updated: '2026-04-14T12:36:39.331435Z'
 <p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin (with Piperine)</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a></p>
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>

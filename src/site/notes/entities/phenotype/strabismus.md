@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.099085Z'
+created: '2026-04-17T18:59:20.785536Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Strabismus
 type: phenotype
-updated: '2026-04-14T12:36:40.099085Z'
+updated: '2026-04-17T18:59:20.785536Z'
 ---
 
 {% raw %}
@@ -59,7 +59,7 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Monocul
 <h3>Excludes Phenotype</h3>
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Brown syndrome</a></p>
 <h3>Enriched</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eyes</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/eyes/" class="internal-link">Eyes</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

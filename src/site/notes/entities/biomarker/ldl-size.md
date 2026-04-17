@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.207649Z'
+created: '2026-04-17T18:59:17.766621Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/ldl-size/
@@ -9,15 +9,17 @@ tags:
 templateEngineOverride: njk
 title: Ldl Size
 type: biomarker
-updated: '2026-04-14T12:36:39.207649Z'
+updated: '2026-04-17T18:59:17.766621Z'
 ---
 
 {% raw %}
 <h1>Ldl Size</h1>
 <h2>Overview</h2>
 <h2>Relationships</h2>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <p>RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
 <li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>

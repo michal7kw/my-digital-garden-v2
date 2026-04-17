@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.433100Z'
+created: '2026-04-17T18:59:19.804486Z'
 description: Albumin in the urine, even in small amounts—a condition called microalbuminuria—is
   one of the earliest warning signs that the kidneys’ filters are under stress and
   may be starting to leak protein they normally keep in the blood.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: albumin_microalbumin_urine
 type: labtest
-updated: '2026-04-14T12:36:39.433100Z'
+updated: '2026-04-17T18:59:19.804486Z'
 ---
 
 {% raw %}
@@ -60,16 +60,16 @@ updated: '2026-04-14T12:36:39.433100Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+<p>RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hypertension-Related Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Early Diabetic Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease Risk</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

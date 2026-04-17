@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.536147Z'
+created: '2026-04-17T18:59:19.913796Z'
 description: C-Terminal Telopeptide (CTX or beta-CrossLaps) measures a collagen degradation
   fragment released during bone resorption. It is the most widely used marker of bone
   resorption and is recommended by the IOF/IFCC as the reference resorption marker.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ctx
 type: labtest
-updated: '2026-04-14T12:36:39.536147Z'
+updated: '2026-04-17T18:59:19.913796Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.001703Z'
+created: '2026-04-17T18:59:20.435470Z'
 description: Naturally occurring polysaccharides found in the cell walls of mushrooms,
   yeast, oats, and barley. Beta-glucans from medicinal mushrooms activate innate immunity
   via Dectin-1 and complement receptor 3, enhancing macrophage, NK cell, and dendritic
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Glucans
 type: metabolite
-updated: '2026-04-14T12:36:40.001703Z'
+updated: '2026-04-17T18:59:20.435470Z'
 ---
 
 {% raw %}
@@ -57,17 +57,17 @@ updated: '2026-04-14T12:36:40.001703Z'
 <h3>Found In</h3>
 <p>FOUND_IN::<a href="/entities/supplement/reishi/" class="internal-link">Reishi</a><br />
 RELATED_TO::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a><br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">Cordyceps</a></p>
+RELATED_TO::<a href="/entities/supplement/cordyceps/" class="internal-link">Cordyceps</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gut</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Immune System Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Cancer</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Leaky Gut</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Allergy</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/leaky-gut/" class="internal-link">Leaky Gut</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a></p>
 
 {% endraw %}

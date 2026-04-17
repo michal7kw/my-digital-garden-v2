@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.609379Z'
+created: '2026-04-17T18:59:19.998841Z'
 description: Sensitive marker of systemic inflammation. Important for cardiovascular
   risk stratification.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: hs_crp
 type: labtest
-updated: '2026-04-14T12:36:39.609379Z'
+updated: '2026-04-17T18:59:19.998841Z'
 ---
 
 {% raw %}

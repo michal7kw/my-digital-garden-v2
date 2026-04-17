@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.241233Z'
+created: '2026-04-17T18:59:21.426603Z'
 description: Complete page-by-page walkthrough of all web dashboard features and pages
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Web Dashboard Tour
 type: users_guide
-updated: '2026-04-14T12:36:40.241233Z'
+updated: '2026-04-17T18:59:21.426603Z'
 ---
 
 {% raw %}

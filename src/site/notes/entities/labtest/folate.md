@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.566555Z'
+created: '2026-04-17T18:59:19.953857Z'
 description: B-vitamin essential for DNA synthesis. Important for pregnancy and cardiovascular
   health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: folate
 type: labtest
-updated: '2026-04-14T12:36:39.566555Z'
+updated: '2026-04-17T18:59:19.953857Z'
 ---
 
 {% raw %}
@@ -57,10 +57,10 @@ updated: '2026-04-14T12:36:39.566555Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>MEASURES::<a href="/entities/labtest/folate/" class="internal-link">Folate</a></p>
+<p>MEASURES::<a href="/entities/supplement/folate/" class="internal-link">Folate</a></p>
 <h3>Enriched</h3>
-<p>INDICATES::<a class="internal-link is-unresolved" href="/404">B Vitamin Deficiency</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a></p>
+<p>INDICATES::<a href="/entities/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
+INDICATES::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

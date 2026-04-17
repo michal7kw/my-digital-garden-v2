@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.405617Z'
+created: '2026-04-17T18:59:19.658416Z'
 description: Peptide hormone produced by pancreatic beta cells, essential for glucose
   uptake and metabolism. The master regulator of energy storage and anabolism. Insulin
   resistance is the central pathology of type 2 diabetes and metabolic syndrome, linking
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: hormone
-updated: '2026-04-14T12:36:39.405617Z'
+updated: '2026-04-17T18:59:19.658416Z'
 ---
 
 {% raw %}
@@ -50,21 +50,21 @@ updated: '2026-04-14T12:36:39.405617Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Growth Hormone</a><br />
+<p>RELATED::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
 RELATED::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ghrelin</a><br />
+RELATED::<a href="/entities/hormone/ghrelin/" class="internal-link">Ghrelin</a><br />
 RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">AMPK Pathway</a></p>
+RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a></p>
 <h3>Modulates Biomarker</h3>
 <p>MODULATES_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
 MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></p>
 <h3>Affected By Intervention</h3>
-<p>AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Intermittent Fasting</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Exercise</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Time-Restricted Eating</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Mediterranean Diet</a></p>
+<p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/time-restricted-eating/" class="internal-link">Time-Restricted Eating</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a></p>
 <h3>Produced By Organ</h3>
-<p>PRODUCED_BY_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a></p>
+<p>PRODUCED_BY_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:16497175</li>
@@ -72,14 +72,14 @@ AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Med
 <li>PMID:30181337</li>
 </ul>
 <h3>Merged From biomarker</h3>
-<p>INDICATES_FUNCTION_OF::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
-INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">AKT1</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alpha Lipoic Acid</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Berberine</a><br />
-RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
-RELATED::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+<p>INDICATES_FUNCTION_OF::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
+RELATED::<a href="/entities/gene/akt1/" class="internal-link">AKT1</a><br />
+RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
+RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 RELATED::<a href="/entities/labtest/fasting-insulin/" class="internal-link">fasting insulin</a><br />
 RELATED::<a href="/entities/labtest/homa-ir/" class="internal-link">homa ir</a></p>
 

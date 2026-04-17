@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.619341Z'
+created: '2026-04-17T18:59:20.013140Z'
 description: Iron is a mineral the body uses to make hemoglobin, which helps red blood
   cells carry oxygen in the blood to maintain energy and health. Testing iron can
   show if levels are too low (leading to anemia with tiredness and weakness) or too
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: iron
 type: labtest
-updated: '2026-04-14T12:36:39.619341Z'
+updated: '2026-04-17T18:59:20.013140Z'
 ---
 
 {% raw %}
@@ -63,20 +63,20 @@ updated: '2026-04-14T12:36:39.619341Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Iron Deficiency</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency</a><br />
+RELATED::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+RELATED::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron Overload Hemochromatosis Or Excess Supplementation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a></p>

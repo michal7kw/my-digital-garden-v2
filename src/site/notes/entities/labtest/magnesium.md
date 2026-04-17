@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.686913Z'
+created: '2026-04-17T18:59:20.081235Z'
 description: Magnesium is an essential mineral involved in hundreds of processes in
   the body, including building strong bones, maintaining a steady heart rhythm, supporting
   muscle function, and producing energy. Nearly half of U.S. adults don't get enough
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: magnesium
 type: labtest
-updated: '2026-04-14T12:36:39.686913Z'
+updated: '2026-04-17T18:59:20.081235Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-04-14T12:36:39.686913Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Poor Sleep Quality</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Magnesium Deficiency</a><br />
+RELATED::<a href="/entities/condition/magnesium-deficiency/" class="internal-link">Magnesium Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Poor Nutrient Absorption</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Increased Cardiovascular Risk</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuromuscular Dysfunction</a><br />
@@ -74,12 +74,12 @@ RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" 
 RELATED::<a class="internal-link is-unresolved" href="/404">Mood Or Congition Changes</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Magnesium Deficiency</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/magnesium-deficiency/" class="internal-link">Magnesium Deficiency</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Magnesium Deficiency</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/magnesium-deficiency/" class="internal-link">Magnesium Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

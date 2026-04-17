@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.301188Z'
+created: '2026-04-17T18:59:19.377743Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Once-daily injection
   providing glycemic control and weight loss. Available as Victoza (T2DM) and Saxenda
   (obesity). Pioneer GLP-1 agonist with extensive long-term safety data.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Liraglutide
 type: drug
-updated: '2026-04-14T12:36:39.301188Z'
+updated: '2026-04-17T18:59:19.377743Z'
 ---
 
 {% raw %}
@@ -81,27 +81,27 @@ updated: '2026-04-14T12:36:39.301188Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Treats</h3>
-<p>TREATS::<a class="internal-link is-unresolved" href="/404">Diabetes</a> (Evidence Level 1a - LEAD program, PMID: 19665278)<br />
-TREATS::<a class="internal-link is-unresolved" href="/404">Weight Gain</a> (Evidence Level 1a - SCALE program, PMID: 25715380)<br />
-TREATS::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a> (Evidence Level 1a - LEADER trial, PMID: 27295427)</p>
+<p>TREATS::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (Evidence Level 1a - LEAD program, PMID: 19665278)<br />
+TREATS::<a href="/entities/condition/weight-gain/" class="internal-link">Weight Gain</a> (Evidence Level 1a - SCALE program, PMID: 25715380)<br />
+TREATS::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (Evidence Level 1a - LEADER trial, PMID: 27295427)</p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (reduces by 1.0-1.5%, Evidence Level 1a)<br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/glucose/" class="internal-link">Glucose</a> (reduces fasting glucose, Evidence Level 1a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a> (reduces fasting glucose, Evidence Level 1a)<br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a> (reduces systolic BP by 2-3 mmHg, Evidence Level 2a)<br />
-AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">CRP (hs)</a> (reduces inflammation, Evidence Level 2a)</p>
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/crp-hs/" class="internal-link">CRP (hs)</a> (reduces inflammation, Evidence Level 2a)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (enhances glucose-dependent secretion, Evidence Level 1a)<br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</a> (suppresses postprandial, Evidence Level 1a)<br />
-MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Ghrelin</a> (suppresses hunger, Evidence Level 2b)</p>
+MODULATES_HORMONE::<a href="/entities/hormone/ghrelin/" class="internal-link">Ghrelin</a> (suppresses hunger, Evidence Level 2b)</p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a> (beta-cell stimulation, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite, Evidence Level 2b)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a> (modest hepatic benefit, Evidence Level 2b)</p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite, Evidence Level 2b)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a> (modest hepatic benefit, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />
-MODULATES::<a class="internal-link is-unresolved" href="/404">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)</p>
+MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)</p>
 <h3>Interacts With Drug</h3>
 <p>INTERACTS_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (increased hypoglycemia risk, Evidence Level 1b)<br />
 INTERACTS_WITH::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (same class, not combined, Evidence Level 2a)</p>
@@ -110,7 +110,7 @@ INTERACTS_WITH::<a href="/entities/drug/semaglutide/" class="internal-link">Sema
 RELATED::<a href="/entities/drug/tirzepatide/" class="internal-link">Tirzepatide</a> (dual GIP/GLP-1 agonist, Evidence Level 1b)<br />
 RELATED::<a href="/entities/drug/dulaglutide/" class="internal-link">Dulaglutide</a> (weekly GLP-1 agonist, Evidence Level 1b)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Exenatide</a> (GLP-1 agonist, Evidence Level 1b)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metformin</a> (first-line combination, Evidence Level 1a)</p>
+RELATED::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a> (first-line combination, Evidence Level 1a)</p>
 <h2>References</h2>
 <ul>
 <li>PMID: 19244089 (LEAD-1)</li>

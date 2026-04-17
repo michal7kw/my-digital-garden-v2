@@ -8,6 +8,9 @@
 // Import Excalidraw drawing styles
 @import 'excalidraw';
 
+// Import health dashboard + garden-index Health Summary panel styles
+@import 'dashboard';
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -194,9 +197,11 @@ main.content {
 // =============================================================================
 
 .home-dashboard {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1.5rem;
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 1.5rem clamp(1rem, 3vw, 2.5rem);
+    box-sizing: border-box;
 }
 
 // ── Compact Header ──
@@ -242,6 +247,19 @@ main.content {
     &:hover {
         background: var(--background-modifier-hover);
         border-color: var(--text-muted);
+    }
+
+    &--primary {
+        background: var(--interactive-accent, #2563eb);
+        color: #fff;
+        border-color: transparent;
+
+        &:hover {
+            background: var(--interactive-accent, #2563eb);
+            filter: brightness(1.1);
+            border-color: transparent;
+            color: #fff;
+        }
     }
 }
 

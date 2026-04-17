@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.389151Z'
+created: '2026-04-17T18:59:19.636081Z'
 description: Anti-inflammatory adipokine hormone secreted by adipose tissue. Uniquely,
   levels are inversely correlated with body fat — higher in lean individuals. Enhances
   insulin sensitivity, promotes fatty acid oxidation, and has potent anti-inflammatory
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Adiponectin
 type: hormone
-updated: '2026-04-14T12:36:39.389151Z'
+updated: '2026-04-17T18:59:19.636081Z'
 ---
 
 {% raw %}
@@ -44,17 +44,17 @@ updated: '2026-04-14T12:36:39.389151Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
 RELATED::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">AMPK Pathway</a></p>
+RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a></p>
 <h3>Antagonistic With</h3>
 <p>ANTAGONISTIC_WITH::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a></p>
 <h3>Modulated By Intervention</h3>
-<p>MODULATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Exercise</a><br />
-MODULATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Intermittent Fasting</a><br />
-MODULATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Mediterranean Diet</a><br />
-MODULATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cold Exposure</a></p>
+<p>MODULATED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+MODULATED_BY_INTERVENTION::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a><br />
+MODULATED_BY_INTERVENTION::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
+MODULATED_BY_INTERVENTION::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a></p>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Berberine</a></p>
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:17200721</li>
@@ -62,7 +62,7 @@ MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Berb
 <li>PMID:29474909</li>
 </ul>
 <h3>Merged From biomarker</h3>
-<p>CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Hdl</a><br />
+<p>CORRELATED_WITH::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>

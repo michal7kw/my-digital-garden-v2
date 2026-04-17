@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.861750Z'
+created: '2026-04-17T18:59:20.254967Z'
 description: 'Comprehensive thyroid assessment: TSH, Free T4, Free T3, Total T4, Total
   T3, Reverse T3, TPO antibodies, thyroglobulin antibodies.'
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_panel_complete
 type: labtest
-updated: '2026-04-14T12:36:39.861750Z'
+updated: '2026-04-17T18:59:20.254967Z'
 ---
 
 {% raw %}
@@ -54,8 +54,8 @@ updated: '2026-04-14T12:36:39.861750Z'
 <p>This test measures the following biomarkers:</p>
 <ul>
 <li><a href="/entities/labtest/tsh/" class="internal-link">tsh</a></li>
-<li><a class="internal-link is-unresolved" href="/404">free t4</a></li>
-<li><a class="internal-link is-unresolved" href="/404">free t3</a></li>
+<li><a href="/entities/biomarker/free-t4/" class="internal-link">free t4</a></li>
+<li><a href="/entities/biomarker/free-t3/" class="internal-link">free t3</a></li>
 <li><a href="/entities/biomarker/total-t4/" class="internal-link">total t4</a></li>
 <li><a href="/entities/biomarker/total-t3/" class="internal-link">total t3</a></li>
 <li><a href="/entities/labtest/reverse-t3/" class="internal-link">reverse t3</a></li>
@@ -71,12 +71,12 @@ updated: '2026-04-14T12:36:39.861750Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">free t3</a><br />
+<p>RELATED::<a href="/entities/biomarker/free-t3/" class="internal-link">free t3</a><br />
 RELATED::<a href="/entities/biomarker/total-t3/" class="internal-link">total t3</a><br />
 RELATED::<a href="/entities/biomarker/tpo-antibodies/" class="internal-link">tpo antibodies</a><br />
 RELATED::<a href="/entities/labtest/reverse-t3/" class="internal-link">reverse t3</a><br />
 RELATED::<a href="/entities/biomarker/total-t4/" class="internal-link">total t4</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">free t4</a><br />
+RELATED::<a href="/entities/biomarker/free-t4/" class="internal-link">free t4</a><br />
 RELATED::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 RELATED::<a href="/entities/biomarker/tg-antibodies/" class="internal-link">tg antibodies</a></p>
 <h2>Notes</h2>

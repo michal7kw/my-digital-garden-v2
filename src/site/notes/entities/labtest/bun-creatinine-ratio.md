@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.495367Z'
+created: '2026-04-17T18:59:19.864594Z'
 description: Tested twice a year The BUN/creatinine ratio compares two waste products
   in the blood—urea and creatinine—to provide a view of kidney health. An abnormal
   ratio can help distinguish between kidney problems and other conditions affecting
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: bun_creatinine_ratio
 type: labtest
-updated: '2026-04-14T12:36:39.495367Z'
+updated: '2026-04-17T18:59:19.864594Z'
 ---
 
 {% raw %}
@@ -63,15 +63,15 @@ updated: '2026-04-14T12:36:39.495367Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">High Protein Intake</a><br />
+RELATED::<a href="/entities/condition/high-protein-intake/" class="internal-link">High Protein Intake</a><br />
 RELATED::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">High Protein Intake</a></p>
+MAY_DETECT::<a href="/entities/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">High Protein Intake</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

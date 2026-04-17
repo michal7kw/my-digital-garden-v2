@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.512813Z'
+created: '2026-04-17T18:59:19.883002Z'
 description: Carcinoembryonic Antigen (CEA) test. Tumor marker primarily used for
   monitoring colorectal cancer treatment response and detecting recurrence. Also elevated
   in pancreatic, lung, breast, and other adenocarcinomas.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: cea
 type: labtest
-updated: '2026-04-14T12:36:39.512813Z'
+updated: '2026-04-17T18:59:19.883002Z'
 ---
 
 {% raw %}
@@ -68,7 +68,7 @@ updated: '2026-04-14T12:36:39.512813Z'
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/cancer-screening-panel/" class="internal-link">cancer screening panel</a></p>
 <h3>Enriched</h3>
 <p>MEASURES::<a href="/entities/labtest/cea/" class="internal-link">CEA</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Cancer</a></p>
+INDICATES::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

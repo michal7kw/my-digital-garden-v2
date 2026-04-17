@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.826190Z'
+created: '2026-04-17T18:59:20.212128Z'
 description: Inactive thyroid hormone metabolite. Elevated in chronic illness, stress,
   and low-calorie diets.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: reverse_t3
 type: labtest
-updated: '2026-04-14T12:36:39.826190Z'
+updated: '2026-04-17T18:59:20.212128Z'
 ---
 
 {% raw %}
@@ -66,8 +66,8 @@ updated: '2026-04-14T12:36:39.826190Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid panel complete</a></p>
 <h3>Enriched</h3>
-<p>INDICATES::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Thyroid</a></p>
+<p>INDICATES::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a><br />
+ASSOCIATED_WITH::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.149749Z'
+created: '2026-04-17T18:59:17.483088Z'
 description: Albumin is the most abundant circulating protein in the blood, synthesized
   exclusively by the liver. It maintains oncotic pressure, transports various substances,
   and serves as a marker of nutritional status and chronic disease severity.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Albumin
 type: biomarker
-updated: '2026-04-14T12:36:39.149749Z'
+updated: '2026-04-17T18:59:17.483088Z'
 ---
 
 {% raw %}
@@ -31,24 +31,24 @@ CORRELATED_WITH::<a href="/entities/labtest/total-protein/" class="internal-link
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammation</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Kidneys</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a></p>
 <h3>Indicates Phenotype</h3>
-<p>INDICATES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Edema</a></p>
+<p>INDICATES_PHENOTYPE::<a href="/entities/condition/edema/" class="internal-link">Edema</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart_Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Nephrotic_Syndrome</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Heart_Failure</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Nephrotic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+MAY_DETECT::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Heart_Failure</a><br />
+RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Nephrotic_Syndrome</a><br />
+RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a><br />
 RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
 RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a></p>
 

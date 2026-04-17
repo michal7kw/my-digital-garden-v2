@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.605064Z'
+created: '2026-04-17T18:59:19.994199Z'
 description: Calculated from fasting glucose and insulin. Quantifies insulin resistance.
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: homa_ir
 type: labtest
-updated: '2026-04-14T12:36:39.605064Z'
+updated: '2026-04-17T18:59:19.994199Z'
 ---
 
 {% raw %}
@@ -60,7 +60,7 @@ updated: '2026-04-14T12:36:39.605064Z'
 <p>This test measures the following biomarkers:</p>
 <ul>
 <li><a href="/entities/labtest/homa-ir/" class="internal-link">homa ir</a></li>
-<li><a class="internal-link is-unresolved" href="/404">glucose fasting</a></li>
+<li><a href="/entities/biomarker/glucose-fasting/" class="internal-link">glucose fasting</a></li>
 <li><a href="/entities/biomarker/insulin-fasting/" class="internal-link">insulin fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
@@ -73,7 +73,7 @@ updated: '2026-04-14T12:36:39.605064Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">glucose fasting</a><br />
+RELATED::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">glucose fasting</a><br />
 RELATED::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">insulin fasting</a></p>
 <h2>Notes</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.577152Z'
+created: '2026-04-17T18:59:19.967108Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: glucose
 type: labtest
-updated: '2026-04-14T12:36:39.577152Z'
+updated: '2026-04-17T18:59:19.967108Z'
 ---
 
 {% raw %}
@@ -67,12 +67,12 @@ updated: '2026-04-14T12:36:39.577152Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 1  Type 2 Diabetes</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia  Hypoglycemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatic Dysfunction</a><br />
 RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

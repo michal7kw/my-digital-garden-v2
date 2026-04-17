@@ -1,0 +1,77 @@
+---
+created: '2026-04-17T18:59:20.483049Z'
+description: Monoamine neurotransmitter central to reward, motivation, motor control,
+  and executive function. Often called the "motivation molecule," it drives goal-directed
+  behavior and is implicated in addiction, Parkinson's disease, and ADHD.
+dg-home: false
+dg-publish: true
+permalink: /entities/neurotransmitter/dopamine/
+slug: dopamine
+tags:
+- neurotransmitter
+- catecholamine
+- brain
+templateEngineOverride: njk
+title: Dopamine
+type: neurotransmitter
+updated: '2026-04-17T18:59:20.483049Z'
+---
+
+{% raw %}
+<h1>Dopamine</h1>
+<h2>Overview</h2>
+<p>Catecholamine neurotransmitter critical for reward processing, motivation, motor control, and executive function. Synthesized from tyrosine via L-DOPA.</p>
+<p><strong>Chemical Formula:</strong> C8H11NO2<br />
+<strong>Molecular Weight:</strong> 153.18</p>
+<h2>Primary Functions</h2>
+<ul>
+<li>Reward and motivation</li>
+<li>Motor control</li>
+<li>Executive function</li>
+<li>Learning and memory</li>
+<li>Attention and focus</li>
+</ul>
+<h2>Receptor Types</h2>
+<ul>
+<li>D1 (excitatory, Gs-coupled)</li>
+<li>D2 (inhibitory, Gi-coupled)</li>
+<li>D3 (inhibitory, limbic regions)</li>
+<li>D4 (inhibitory, frontal cortex)</li>
+<li>D5 (excitatory, hippocampus)</li>
+</ul>
+<h2>Synthesis Pathway</h2>
+<p>Tyrosine → L-DOPA (tyrosine hydroxylase) → Dopamine (DOPA decarboxylase)</p>
+<h2>Degradation Pathway</h2>
+<p>Dopamine → DOPAC (MAO) → HVA (COMT); Dopamine → 3-MT (COMT) → HVA (MAO)</p>
+<h2>Associated Conditions</h2>
+<ul>
+<li>Parkinson's disease (dopamine depletion in substantia nigra)</li>
+<li>ADHD (prefrontal dopamine dysregulation)</li>
+<li>Schizophrenia (mesolimbic hyperactivity)</li>
+<li>Depression (mesolimbic hypoactivity)</li>
+<li>Addiction (reward circuit hijacking)</li>
+</ul>
+<h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
+RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
+RELATED::<a href="/entities/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a><br />
+RELATED::<a href="/entities/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
+RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
+<h3>Merged From biomarker</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Adrenal Gland</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/entities/supplement/mucuna-pruriens/" class="internal-link">Mucuna Pruriens</a><br />
+RELATED::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
+
+{% endraw %}

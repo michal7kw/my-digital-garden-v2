@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.582154Z'
+created: '2026-04-17T18:59:19.972057Z'
 description: Glutathione test measures the body's master antioxidant in blood. Glutathione
   (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification,
   immune function, and protection against oxidative damage. Both total glutathione
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: glutathione
 type: labtest
-updated: '2026-04-14T12:36:39.582154Z'
+updated: '2026-04-17T18:59:19.972057Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-04-14T12:36:39.582154Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/glutathione/" class="internal-link">glutathione</a></li>
+<li><a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -77,11 +77,11 @@ updated: '2026-04-14T12:36:39.582154Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">nutreval fmv</a><br />
-RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">organic acids test</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/nutreval-fmv/" class="internal-link">nutreval fmv</a><br />
+RELATED_TESTS::<a href="/entities/labtest/organic-acids-test/" class="internal-link">organic acids test</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

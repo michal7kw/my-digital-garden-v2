@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.739996Z'
+created: '2026-04-17T18:59:20.131280Z'
 description: Tested twice a year Occult blood in urine, means there are traces of
   blood not visible to the naked eye and may sometimes occur after exercise or minor
   irritation without indicating disease. Persistent or unexplained occult blood in
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: occult_blood_urine
 type: labtest
-updated: '2026-04-14T12:36:39.739996Z'
+updated: '2026-04-17T18:59:20.131280Z'
 ---
 
 {% raw %}
@@ -66,11 +66,11 @@ updated: '2026-04-14T12:36:39.739996Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Inflammation Glomerulonephritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bladder Inflammation Cystitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Strenuous Exercise Or Muscle Injury</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
+RELATED::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

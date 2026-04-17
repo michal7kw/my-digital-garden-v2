@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.218253Z'
+created: '2026-04-17T18:59:21.393233Z'
 description: AI chat, deep research, PubMed search, entity extraction, note analysis,
   and citation suggestions
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: AI Research Tools
 type: users_guide
-updated: '2026-04-14T12:36:40.218253Z'
+updated: '2026-04-17T18:59:21.393233Z'
 ---
 
 {% raw %}

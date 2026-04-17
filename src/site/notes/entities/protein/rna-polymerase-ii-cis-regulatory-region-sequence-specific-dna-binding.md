@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.137591Z'
+created: '2026-04-17T18:59:20.949317Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
 type: protein
-updated: '2026-04-14T12:36:40.137591Z'
+updated: '2026-04-17T18:59:20.949317Z'
 ---
 
 {% raw %}
@@ -49,7 +49,7 @@ RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">retinoic
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">N-box binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">sterol response element binding</a></p>
 <h3>Enriched</h3>
-<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">CREB</a></p>
+<p>LOCATED_IN::<a href="/entities/cellularcomponent/nucleus/" class="internal-link">Nucleus</a><br />
+ASSOCIATED_WITH::<a href="/entities/protein/creb/" class="internal-link">CREB</a></p>
 
 {% endraw %}

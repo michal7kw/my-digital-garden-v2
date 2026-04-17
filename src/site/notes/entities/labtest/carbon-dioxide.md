@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.509586Z'
+created: '2026-04-17T18:59:19.877408Z'
 description: Tested twice a year Carbon dioxide levels monitor pH and are an indirect
   measure of bicarbonate, a key buffer involved in maintaining the body’s acid-base
   balance. When the body’s acid–base balance is thrown off—called acidosis or alkalosis—carbon
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: carbon_dioxide
 type: labtest
-updated: '2026-04-14T12:36:39.509586Z'
+updated: '2026-04-17T18:59:19.877408Z'
 ---
 
 {% raw %}
@@ -64,15 +64,15 @@ updated: '2026-04-14T12:36:39.509586Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Alkalosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Acidosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Electrolyte Imbalance</a><br />
+RELATED::<a href="/entities/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Lung Disease</a></p>
+RELATED::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Lung Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Electrolyte Imbalance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Lung Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Electrolyte Imbalance</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

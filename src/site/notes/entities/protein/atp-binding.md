@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.114021Z'
+created: '2026-04-17T18:59:20.821290Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-04-14T12:36:40.114021Z'
+updated: '2026-04-17T18:59:20.821290Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">adenyl ribonucleotid
 <p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">adenyl ribonucleotide binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">purine ribonucleoside triphosphate binding</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">ATP</a><br />
-LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Mitochondria</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
+LOCATED_IN::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

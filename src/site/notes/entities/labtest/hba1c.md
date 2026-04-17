@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.585374Z'
+created: '2026-04-17T18:59:19.974786Z'
 description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
   monitoring.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: hba1c
 type: labtest
-updated: '2026-04-14T12:36:39.585374Z'
+updated: '2026-04-17T18:59:19.974786Z'
 ---
 
 {% raw %}
@@ -65,8 +65,8 @@ updated: '2026-04-14T12:36:39.585374Z'
 <p>MEASURES::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></p>
 <h3>Enriched</h3>
 <p>MEASURES::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Diabetes</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+INDICATES::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
+INDICATES::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

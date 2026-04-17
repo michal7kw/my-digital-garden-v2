@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.770019Z'
+created: '2026-04-17T18:59:20.158456Z'
 description: oh-meg-uh six / oh-meg-uh three ray-shee-oh The omega-6 to omega-3 ratio
   reflects the body’s internal balance between fats that promote inflammation and
   those that help resolve it. Most people consuming a typical Western diet have a
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: omega_6_omega_3_ratio
 type: labtest
-updated: '2026-04-14T12:36:39.770019Z'
+updated: '2026-04-17T18:59:20.158456Z'
 ---
 
 {% raw %}
@@ -71,11 +71,11 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3 Or Omega-6 I
 RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive Or Mood Imbalance</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease Risk</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

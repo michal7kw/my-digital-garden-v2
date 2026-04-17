@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.211755Z'
+created: '2026-04-17T18:59:21.383066Z'
 description: Managing supplements, adopting curated health stacks, personalized recommendations,
   and drug interaction checking
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Supplements and Health Stacks
 type: users_guide
-updated: '2026-04-14T12:36:40.211755Z'
+updated: '2026-04-17T18:59:21.383066Z'
 ---
 
 {% raw %}

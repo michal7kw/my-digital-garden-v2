@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.894096Z'
+created: '2026-04-17T18:59:20.281165Z'
 description: try-eye-oh-doh-thigh-ruh-neen tee-three free Triiodothyronine (T3) Free
   is the active thyroid hormone that directly regulates metabolism, energy levels,
   and body temperature. Most T3 is made by converting T4 into this active form. Measuring
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: triiodothyronine_t3_free
 type: labtest
-updated: '2026-04-14T12:36:39.894096Z'
+updated: '2026-04-17T18:59:20.281165Z'
 ---
 
 {% raw %}
@@ -63,7 +63,7 @@ updated: '2026-04-14T12:36:39.894096Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">GraveS Disease</a><br />
+RELATED::<a href="/entities/condition/graves-disease/" class="internal-link">GraveS Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Euthyroid Sick Syndrome Low T3 Syndrome In Critical Illness</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thyroiditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary Or Hypothalamic Dysfunction Central Hypothyroidism</a><br />
@@ -71,9 +71,9 @@ RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="intern
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Thyroid</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Thyroid Hormones</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
+INDICATES::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a><br />
+ASSOCIATED_WITH::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.102277Z'
+created: '2026-04-17T18:59:20.793582Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Visual impairment
 type: phenotype
-updated: '2026-04-14T12:36:40.102277Z'
+updated: '2026-04-17T18:59:20.793582Z'
 ---
 
 {% raw %}
@@ -60,7 +60,7 @@ EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">familial 
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal recessive nonsyndromic deafness</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness autosomal recessive</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Macular Degeneration</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eyes</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/macular-degeneration/" class="internal-link">Macular Degeneration</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/eyes/" class="internal-link">Eyes</a></p>
 
 {% endraw %}

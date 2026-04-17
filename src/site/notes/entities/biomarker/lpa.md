@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.209028Z'
+created: '2026-04-17T18:59:17.775346Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-04-14T12:36:39.209028Z'
+updated: '2026-04-17T18:59:17.775346Z'
 ---
 
 {% raw %}
@@ -20,7 +20,12 @@ updated: '2026-04-14T12:36:39.209028Z'
 <h2>Overview</h2>
 <p>A genetically determined, highly atherogenic lipoprotein consisting of an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular disease.</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (when elevated, Evidence Level 1a)<br />
+INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Aortic Stenosis</a> (when elevated, Evidence Level 2a)</p>
 <h3>Affected By Supplement</h3>
 <ul>
 <li>-&gt; <a href="/entities/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>

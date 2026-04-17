@@ -239,7 +239,12 @@ eleventyExcludeFromCollections: true
       <h1>Medical Knowledge Garden</h1>
       <p class="home-subtitle">Explore biomarkers, drugs, supplements, and health insights</p>
     </div>
+    {% set primaryGarden = collections.gardenIndexes[0] %}
     <div class="home-header-right">
+      {% if primaryGarden %}
+        <a href="/garden/{{ primaryGarden.username }}/dashboard/" class="home-header-link home-header-link--primary">Dashboard</a>
+        <a href="/garden/{{ primaryGarden.username }}/" class="home-header-link">My Garden</a>
+      {% endif %}
       <a href="/search/" class="home-header-link">Search</a>
       <a href="/graph/" class="home-header-link">Full Graph</a>
       <a href="/entities/users_guide/mkg-platform-user-guide/" class="home-header-link">User Guide</a>
@@ -395,6 +400,10 @@ eleventyExcludeFromCollections: true
 
   {# ── Footer ── #}
   <footer class="home-footer-minimal">
-    <p>Medical Knowledge Garden &middot; Explore. Understand. Optimize.</p>
+    <p>
+      Medical Knowledge Garden &middot; Explore. Understand. Optimize.
+      &middot; <a href="/feed.xml" rel="alternate" type="application/atom+xml">RSS</a>
+      &middot; <a href="/entities/users_guide/mkg-platform-user-guide/">User Guide</a>
+    </p>
   </footer>
 </div>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.095320Z'
+created: '2026-04-17T18:59:20.780298Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Short stature
 type: phenotype
-updated: '2026-04-14T12:36:40.095320Z'
+updated: '2026-04-17T18:59:20.780298Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">craniomet
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">intellectual disability X-linked</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">obesity due to SIM1 deficiency</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Growth Hormone</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bones</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.896430Z'
+created: '2026-04-17T18:59:20.285849Z'
 description: High-sensitivity cardiac troponin I (hs-cTnI) test. Detects myocardial
   injury by measuring cardiac-specific troponin I protein released from damaged cardiomyocytes.
   Essential for acute coronary syndrome diagnosis and risk stratification.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: troponin_i
 type: labtest
-updated: '2026-04-14T12:36:39.896430Z'
+updated: '2026-04-17T18:59:20.285849Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-04-14T12:36:39.896430Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">troponin</a></li>
+<li><a href="/entities/biomarker/troponin/" class="internal-link">troponin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,12 +65,12 @@ updated: '2026-04-14T12:36:39.896430Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Myocardial Infarction</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart Failure</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Troponin</a></p>
+<p>MEASURES::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

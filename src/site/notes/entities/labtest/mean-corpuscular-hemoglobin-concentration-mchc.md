@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.691533Z'
+created: '2026-04-17T18:59:20.088356Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin kon-sen-tray-shun (m-c-h-c) Tested
   twice a year Mean corpuscular hemoglobin (MCH) measures the average amount of hemoglobin—the
   protein that carries oxygen—in each red blood cell. Low MCH often points to iron
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: mean_corpuscular_hemoglobin_concentration_mchc
 type: labtest
-updated: '2026-04-14T12:36:39.691533Z'
+updated: '2026-04-17T18:59:20.088356Z'
 ---
 
 {% raw %}
@@ -63,18 +63,18 @@ updated: '2026-04-14T12:36:39.691533Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hereditary Spherocytosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sickle Cell Disease</a><br />
+<p>RELATED::<a href="/entities/condition/hereditary-spherocytosis/" class="internal-link">Hereditary Spherocytosis</a><br />
+RELATED::<a href="/entities/condition/sickle-cell-disease/" class="internal-link">Sickle Cell Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Hemolytic Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a></p>
+RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Sickle Cell Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Hereditary Spherocytosis</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/sickle-cell-disease/" class="internal-link">Sickle Cell Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+MAY_DETECT::<a href="/entities/condition/hereditary-spherocytosis/" class="internal-link">Hereditary Spherocytosis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hereditary Spherocytosis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sickle Cell Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hereditary-spherocytosis/" class="internal-link">Hereditary Spherocytosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sickle-cell-disease/" class="internal-link">Sickle Cell Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

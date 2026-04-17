@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.719369Z'
+created: '2026-04-17T18:59:20.111452Z'
 description: Tested twice a year Monocytes are immune cells important for defense,
   inflammation regulation, and tissue repair. These white blood cells can transform
   into macrophages or dendritic cells to fight infections, clear debris, and promote
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: monocytes
 type: labtest
-updated: '2026-04-14T12:36:39.719369Z'
+updated: '2026-04-17T18:59:20.111452Z'
 ---
 
 {% raw %}
@@ -63,20 +63,20 @@ updated: '2026-04-14T12:36:39.719369Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Infection</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Infection</a><br />
+<p>RELATED::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
 RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Infection</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic Infection</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a></p>

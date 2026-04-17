@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.265113Z'
+created: '2026-04-17T18:59:18.465877Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed. Lifetime prevalence
   of 15-20%. Involves dysregulation of serotonin, norepinephrine, dopamine, HPA axis,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Depression
 type: condition
-updated: '2026-04-14T12:36:39.265113Z'
+updated: '2026-04-17T18:59:18.465877Z'
 ---
 
 {% raw %}
@@ -61,13 +61,13 @@ updated: '2026-04-14T12:36:39.265113Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Amitriptyline</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Mediterranean Diet</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Creatine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Quetiapine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Doxepin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Treatment-Resistant Depression</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Serotonin Reuptake</a></p>
+<p>RELATED::<a href="/entities/drug/amitriptyline/" class="internal-link">Amitriptyline</a><br />
+IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
+RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
+RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a href="/entities/condition/treatment-resistant-depression/" class="internal-link">Treatment-Resistant Depression</a><br />
+RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
@@ -75,30 +75,30 @@ ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><b
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">5-HT1A Receptor</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">5-HT2A Receptor</a></p>
+ASSOCIATED_WITH::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
+ASSOCIATED_WITH::<a href="/entities/protein/5-ht1a-receptor/" class="internal-link">5-HT1A Receptor</a><br />
+ASSOCIATED_WITH::<a href="/entities/protein/5-ht2a-receptor/" class="internal-link">5-HT2A Receptor</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
-IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">SAMe</a><br />
-IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">5-HTP</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/same/" class="internal-link">SAMe</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Treated By Drug</h3>
 <p>TREATED_BY_DRUG::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
 TREATED_BY_DRUG::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a></p>
 <h3>Additional SSRI Treatment</h3>
-<p>TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Citalopram</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Escitalopram</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Vilazodone</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Vortioxetine</a></p>
+<p>TREATED_BY_DRUG::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/citalopram/" class="internal-link">Citalopram</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/escitalopram/" class="internal-link">Escitalopram</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvoxamine</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/vilazodone/" class="internal-link">Vilazodone</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/vortioxetine/" class="internal-link">Vortioxetine</a></p>
 <h3>Affected By Intervention</h3>
-<p>AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Exercise</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Meditation</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Mindfulness Meditation</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Sleep Hygiene</a></p>
+<p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/mindfulness-meditation/" class="internal-link">Mindfulness Meditation</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/sleep-hygiene/" class="internal-link">Sleep Hygiene</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:29370750</li>

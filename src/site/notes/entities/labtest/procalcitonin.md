@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.799519Z'
+created: '2026-04-17T18:59:20.188844Z'
 description: Procalcitonin (PCT) test. Serum biomarker that rises specifically in
   response to bacterial infections. Used to guide initiation and discontinuation of
   antibiotic therapy, particularly in sepsis and lower respiratory tract infections.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: procalcitonin
 type: labtest
-updated: '2026-04-14T12:36:39.799519Z'
+updated: '2026-04-17T18:59:20.188844Z'
 ---
 
 {% raw %}
@@ -65,9 +65,9 @@ updated: '2026-04-14T12:36:39.799519Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Meningitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pneumonia</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/meningitis/" class="internal-link">Meningitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/pneumonia/" class="internal-link">Pneumonia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

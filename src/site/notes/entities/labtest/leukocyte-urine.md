@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.666904Z'
+created: '2026-04-17T18:59:20.061203Z'
 description: Tested twice a year Leukocytes (white blood cells) are part of the immune
   system and normally help the body fight infection. When they appear in urine, which
   is called leukocyturia, it can signal inflammation in the urinary tract.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: leukocyte_urine
 type: labtest
-updated: '2026-04-14T12:36:39.666904Z'
+updated: '2026-04-17T18:59:20.061203Z'
 ---
 
 {% raw %}
@@ -60,15 +60,15 @@ updated: '2026-04-14T12:36:39.666904Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Interstitial Cystitis</a><br />
+<p>RELATED::<a href="/entities/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bladder Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Infection</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Interstitial Cystitis</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Interstitial Cystitis</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

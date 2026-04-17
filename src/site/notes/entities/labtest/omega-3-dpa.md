@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.749854Z'
+created: '2026-04-17T18:59:20.144485Z'
 description: 'oh-MAY-guh three: D-P-A Docosapentaenoic acid (DPA) is an omega-3 fatty
   acid that the body produces as it converts EPA into DHA—two other important omega-3s
   that support heart, brain, and immune health. Because DPA can shift between these
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: omega_3_dpa
 type: labtest
-updated: '2026-04-14T12:36:39.749854Z'
+updated: '2026-04-17T18:59:20.144485Z'
 ---
 
 {% raw %}
@@ -69,8 +69,8 @@ INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">
 <p>RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+INDICATES::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

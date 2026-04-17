@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.067353Z'
+created: '2026-04-17T18:59:20.739785Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Headache
 type: phenotype
-updated: '2026-04-14T12:36:40.067353Z'
+updated: '2026-04-17T18:59:20.739785Z'
 ---
 
 {% raw %}
@@ -59,8 +59,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cluster
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">alternating hemiplegia of childhood</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">episodic ataxia</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Migraine</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Pain</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/migraine/" class="internal-link">Migraine</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-pain/" class="internal-link">Chronic Pain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

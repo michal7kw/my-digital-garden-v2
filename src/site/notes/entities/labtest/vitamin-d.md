@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.908018Z'
+created: '2026-04-17T18:59:20.305850Z'
 description: Vitamin D is an essential nutrient for immune health, strong bones and
   muscles, and optimal brain performance. Unlike most vitamins, it isn't widely available
   in food and is mainly made in the body through sun exposure. Because of this, low
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d
 type: labtest
-updated: '2026-04-14T12:36:39.908018Z'
+updated: '2026-04-17T18:59:20.305850Z'
 ---
 
 {% raw %}
@@ -122,7 +122,7 @@ updated: '2026-04-14T12:36:39.908018Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">Vitamin D Deficiency</a></li>
+<li><a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Bone Loss (Osteopenia Or Osteoporosis)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Low Mood/Cognitive Effects</a></li>
@@ -155,7 +155,7 @@ updated: '2026-04-14T12:36:39.908018Z'
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bone Loss Osteopenia Or Osteoporosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Low MoodCognitive Effects</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin D Deficiency</a><br />
+RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin D 25-Hydroxy</a><br />
 RELATED::<a href="/entities/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a></p>
@@ -165,7 +165,7 @@ INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrient
 <h3>Measures</h3>
 <p>MEASURES::<a class="internal-link is-unresolved" href="/404">Vitamin D 25-Hydroxy</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Vitamin D Deficiency</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

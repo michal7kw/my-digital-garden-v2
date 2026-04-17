@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.006337Z'
+created: '2026-04-17T18:59:20.445303Z'
 description: Triterpenoid compounds found in Ganoderma lucidum (Reishi mushroom) with
   anti-inflammatory, hepatoprotective, anti-tumor, and anti-histamine properties.
   Over 130 ganoderic acids have been identified, with ganoderic acids A, B, C, and
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Ganoderic Acids
 type: metabolite
-updated: '2026-04-14T12:36:40.006337Z'
+updated: '2026-04-17T18:59:20.445303Z'
 ---
 
 {% raw %}
@@ -71,14 +71,14 @@ updated: '2026-04-14T12:36:40.006337Z'
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Cancer</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypertension</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Allergy</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.673955Z'
+created: '2026-04-17T18:59:20.066108Z'
 description: Measures total cholesterol, LDL, HDL, and triglycerides. Essential for
   cardiovascular risk assessment.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: lipid_panel_standard
 type: labtest
-updated: '2026-04-14T12:36:39.673955Z'
+updated: '2026-04-17T18:59:20.066108Z'
 ---
 
 {% raw %}
@@ -67,8 +67,8 @@ updated: '2026-04-14T12:36:39.673955Z'
 <p>This test measures the following biomarkers:</p>
 <ul>
 <li><a href="/entities/labtest/total-cholesterol/" class="internal-link">total cholesterol</a></li>
-<li><a class="internal-link is-unresolved" href="/404">ldl</a></li>
-<li><a class="internal-link is-unresolved" href="/404">hdl</a></li>
+<li><a href="/entities/biomarker/ldl/" class="internal-link">ldl</a></li>
+<li><a href="/entities/biomarker/hdl/" class="internal-link">hdl</a></li>
 <li><a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></li>
 <li><a href="/entities/biomarker/vldl/" class="internal-link">vldl</a></li>
 </ul>
@@ -81,14 +81,14 @@ updated: '2026-04-14T12:36:39.673955Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hdl</a><br />
+<p>RELATED::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
 RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ldl</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ldl</a><br />
+RELATED::<a href="/entities/biomarker/ldl/" class="internal-link">ldl</a><br />
+RELATED::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 RELATED::<a href="/entities/biomarker/vldl/" class="internal-link">vldl</a><br />
 RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">total cholesterol</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hdl</a><br />
+RELATED::<a href="/entities/biomarker/hdl/" class="internal-link">hdl</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
 <h2>Notes</h2>
 <ul>

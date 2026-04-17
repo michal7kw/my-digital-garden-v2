@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.019563Z'
+created: '2026-04-17T18:59:20.497562Z'
 description: Monoamine neurotransmitter regulating mood, sleep, appetite, and gut
   function. Approximately 95% is produced in the gut. Commonly known as the "feel-good"
   neurotransmitter, it is central to emotional well-being and is the target of most
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin
 type: neurotransmitter
-updated: '2026-04-14T12:36:40.019563Z'
+updated: '2026-04-17T18:59:20.497562Z'
 ---
 
 {% raw %}
@@ -57,32 +57,32 @@ updated: '2026-04-14T12:36:40.019563Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Rhodiola Rosea</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">L-Theanine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Clozapine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Quetiapine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Clomipramine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Imipramine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin B6</a><br />
-RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amitriptyline</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Doxepin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-RELATED::<a href="/entities/labtest/folate/" class="internal-link">Folate</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">5-HTP</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Probiotics</a></p>
+<p>RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
+RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a href="/entities/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
+RELATED::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a href="/entities/drug/amitriptyline/" class="internal-link">Amitriptyline</a><br />
+RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
+RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+RELATED::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a></p>
 <h3>Merged From biomarker</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">MCAS</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
-INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mcas/" class="internal-link">MCAS</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Small Intestine</a><br />
 RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">L-Tryptophan</a><br />
+RELATED::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">5-HT1A Receptor</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">5-HT2A Receptor</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Serotonin Reuptake</a></p>
+RELATED::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
+RELATED::<a href="/entities/protein/5-ht1a-receptor/" class="internal-link">5-HT1A Receptor</a><br />
+RELATED::<a href="/entities/protein/5-ht2a-receptor/" class="internal-link">5-HT2A Receptor</a><br />
+RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 
 {% endraw %}

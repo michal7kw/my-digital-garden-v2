@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.728590Z'
+created: '2026-04-17T18:59:20.118270Z'
 description: Tested twice a year Neutrophils are the most abundant type of white blood
   cell (WBC) and act as frontline defenders against infection by engulfing and digesting
   pathogens. They are produced in the bone marrow and rapidly mobilize to sites of
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: neutrophils
 type: labtest
-updated: '2026-04-14T12:36:39.728590Z'
+updated: '2026-04-17T18:59:20.118270Z'
 ---
 
 {% raw %}
@@ -66,15 +66,15 @@ updated: '2026-04-14T12:36:39.728590Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Immune Deficiency</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
 RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bacterial Infection</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a></p>

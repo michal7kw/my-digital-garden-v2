@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.554375Z'
+created: '2026-04-17T18:59:19.937965Z'
 description: Primary estrogen in reproductive-age women. Important for fertility,
   menopause assessment, and hormone therapy monitoring.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: estradiol
 type: labtest
-updated: '2026-04-14T12:36:39.554375Z'
+updated: '2026-04-17T18:59:19.937965Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-04-14T12:36:39.554375Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <p>MEASURES::<a href="/entities/labtest/estradiol/" class="internal-link">Estradiol</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Estrogen</a></p>
+RELATED::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.546820Z'
+created: '2026-04-17T18:59:19.923568Z'
 description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and
   serves as a building block for other hormones, including estrogen and testosterone.
   Measuring DHEA-S can provide insight into reproductive function, adrenal gland health,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: dhea_sulfate
 type: labtest
-updated: '2026-04-14T12:36:39.546820Z'
+updated: '2026-04-17T18:59:19.923568Z'
 ---
 
 {% raw %}
@@ -68,14 +68,14 @@ updated: '2026-04-14T12:36:39.546820Z'
 RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
 RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Aging-Related Decline</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance Androgen Excess Or Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Dysfunction</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

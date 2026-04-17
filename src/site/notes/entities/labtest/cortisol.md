@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.527553Z'
+created: '2026-04-17T18:59:19.902968Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-04-14T12:36:39.527553Z'
+updated: '2026-04-17T18:59:19.902968Z'
 ---
 
 {% raw %}
@@ -69,15 +69,15 @@ updated: '2026-04-14T12:36:39.527553Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary Disorders</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cortisol am</a><br />
+RELATED::<a href="/entities/labtest/cortisol-am/" class="internal-link">cortisol am</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Insufficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">CushingS Syndrome</a><br />
+RELATED::<a href="/entities/condition/cushings-syndrome/" class="internal-link">CushingS Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Hyperplasia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Stress Elevated Cortisol</a></p>
 <h3>Enriched</h3>
 <p>MEASURES::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a></p>
+INDICATES::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+ASSOCIATED_WITH::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

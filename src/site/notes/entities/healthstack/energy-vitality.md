@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.342954Z'
+created: '2026-04-17T18:59:19.574429Z'
 description: Combat fatigue and support sustained energy levels. B-complex vitamins
   are essential cofactors in energy metabolism, CoQ10 powers mitochondrial ATP production,
   iron supports oxygen transport, and vitamin D3 regulates hundreds of metabolic processes.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Energy & Vitality
 type: healthstack
-updated: '2026-04-14T12:36:39.342954Z'
+updated: '2026-04-17T18:59:19.574429Z'
 ---
 
 {% raw %}
@@ -84,7 +84,7 @@ updated: '2026-04-14T12:36:39.342954Z'
 <td>Iron stores — low levels cause fatigue before anemia develops</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
+<td><a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
 <td>200-900</td>
 <td>500-900</td>
 <td>pg/mL</td>
@@ -111,9 +111,9 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Iron Bis
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/iron/" class="internal-link">Iron</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
 <hr />

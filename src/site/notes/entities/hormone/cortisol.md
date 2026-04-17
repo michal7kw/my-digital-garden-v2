@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.392756Z'
+created: '2026-04-17T18:59:19.639909Z'
 description: Primary glucocorticoid stress hormone produced by the adrenal cortex
   via the HPA axis. Essential for glucose metabolism, immune modulation, and stress
   response. Chronic elevation drives visceral obesity, immunosuppression, hippocampal
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol
 type: hormone
-updated: '2026-04-14T12:36:39.392756Z'
+updated: '2026-04-17T18:59:19.639909Z'
 ---
 
 {% raw %}
@@ -52,26 +52,26 @@ updated: '2026-04-14T12:36:39.392756Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">DHEA</a><br />
+<p>RELATED::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
+RELATED::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
+RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Antagonistic With</h3>
-<p>ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">DHEA</a><br />
-ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
-ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Testosterone</a><br />
-ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Growth Hormone</a></p>
+<p>ANTAGONISTIC_WITH::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a><br />
+ANTAGONISTIC_WITH::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
+ANTAGONISTIC_WITH::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
+ANTAGONISTIC_WITH::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a></p>
 <h3>Affected By Intervention</h3>
-<p>AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Meditation</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Exercise</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cold Exposure</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Yoga</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Sleep Optimization</a></p>
+<p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
-AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
+<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15261529</li>
@@ -79,18 +79,18 @@ AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefron
 <li>PMID:28222450</li>
 </ul>
 <h3>Merged From biomarker</h3>
-<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a><br />
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
 RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Apigenin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
+RELATED::<a href="/entities/supplement/apigenin/" class="internal-link">Apigenin</a><br />
+RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bacopa Monnieri</a><br />
-RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Rhodiola Rosea</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sleep Optimization</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cortisol am</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">dutch complete</a></p>
+RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
+RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
+RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+RELATED::<a href="/entities/labtest/cortisol-am/" class="internal-link">cortisol am</a><br />
+RELATED::<a href="/entities/labtest/dutch-complete/" class="internal-link">dutch complete</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.309173Z'
+created: '2026-04-17T18:59:19.391486Z'
 description: GLP-1 receptor agonist for type 2 diabetes. Once-daily injection providing
   predominantly postprandial glucose control. Available as Adlyxin (US) and Lyxumia
   (EU). Short-acting GLP-1 agonist with strong gastric emptying delay effect.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lixisenatide
 type: drug
-updated: '2026-04-14T12:36:39.309173Z'
+updated: '2026-04-17T18:59:19.391486Z'
 ---
 
 {% raw %}
@@ -65,27 +65,27 @@ updated: '2026-04-14T12:36:39.309173Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Treats</h3>
-<p>TREATS::<a class="internal-link is-unresolved" href="/404">Diabetes</a> (Evidence Level 1a - GetGoal program)</p>
+<p>TREATS::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (Evidence Level 1a - GetGoal program)</p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (reduces by 0.5-0.9%, Evidence Level 1a)<br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/glucose/" class="internal-link">Glucose</a> (strong postprandial glucose reduction, Evidence Level 1a)</p>
+AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a> (strong postprandial glucose reduction, Evidence Level 1a)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (enhances glucose-dependent secretion, Evidence Level 1a)<br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</a> (suppresses postprandial, Evidence Level 1a)</p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a> (beta-cell stimulation, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestines</a> (strong gastric emptying delay, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a> (cardiovascular safety established, neutral outcomes - ELIXA, Evidence Level 1a)</p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (strong gastric emptying delay, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardiovascular safety established, neutral outcomes - ELIXA, Evidence Level 1a)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />
-MODULATES::<a class="internal-link is-unresolved" href="/404">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)</p>
+MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)</p>
 <h3>Interacts With Drug</h3>
 <p>INTERACTS_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (increased hypoglycemia risk, Evidence Level 1b)</p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Exenatide</a> (related exendin-4 analog, Evidence Level 1b)<br />
 RELATED::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (next-generation GLP-1 agonist, Evidence Level 1b)<br />
 RELATED::<a href="/entities/drug/liraglutide/" class="internal-link">Liraglutide</a> (daily GLP-1 agonist, Evidence Level 1b)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metformin</a> (first-line combination, Evidence Level 1a)</p>
+RELATED::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a> (first-line combination, Evidence Level 1a)</p>
 <h2>References</h2>
 <ul>
 <li>PMID: 23378621 (GetGoal-Mono)</li>

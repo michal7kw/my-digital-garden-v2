@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.638856Z'
+created: '2026-04-17T18:59:20.032981Z'
 description: Tested twice a year LDL cholesterol is responsible for carrying cholesterol
   from the liver to cells throughout the body. Despite its good intentions, LDL is
   often called “bad” cholesterol, because when it's in excess, it can deposit in artery
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_cholesterol
 type: labtest
-updated: '2026-04-14T12:36:39.638856Z'
+updated: '2026-04-17T18:59:20.032981Z'
 ---
 
 {% raw %}
@@ -72,17 +72,17 @@ updated: '2026-04-14T12:36:39.638856Z'
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+<p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ldl</a><br />
+RELATED::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

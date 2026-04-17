@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.854628Z'
+created: '2026-04-17T18:59:20.249976Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroglobulin_antibodies_tgab
 type: labtest
-updated: '2026-04-14T12:36:39.854628Z'
+updated: '2026-04-17T18:59:20.249976Z'
 ---
 
 {% raw %}
@@ -63,16 +63,16 @@ updated: '2026-04-14T12:36:39.854628Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases EG Type 1 Diabetes Rheumatoid Arthritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Papillary Thyroid Cancer</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">HashimotoS Thyroiditis</a><br />
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Hypothyroidism</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a></p>
+RELATED::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

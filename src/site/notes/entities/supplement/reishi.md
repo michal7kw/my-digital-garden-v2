@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.154506Z'
+created: '2026-04-17T18:59:21.225503Z'
 description: The 'mushroom of immortality' in traditional Chinese medicine. Powerful
   immune modulator, adaptogen, and sleep supporter. Contains beta-glucans and triterpenes
   with calming and anti-cancer properties.
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Reishi
 type: supplement
-updated: '2026-04-14T12:36:40.154506Z'
+updated: '2026-04-17T18:59:21.225503Z'
 ---
 
 {% raw %}
@@ -118,39 +118,39 @@ DECREASES_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/hpa-axis/" class="internal-link">HPA Axis</a><br />
-MODULATES_PATHWAY::<a class="internal-link is-unresolved" href="/404">Nrf2 Pathway</a></p>
+MODULATES_PATHWAY::<a href="/entities/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune System</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spleen</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gut</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/spleen/" class="internal-link">Spleen</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Immune System Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Cancer</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Insomnia</a><br />
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypertension</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">NAFLD</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Fibromyalgia</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Allergy</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Leaky Gut</a></p>
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/fibromyalgia/" class="internal-link">Fibromyalgia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/leaky-gut/" class="internal-link">Leaky Gut</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
-SYNERGISTIC_WITH::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Cordyceps</a><br />
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/cordyceps/" class="internal-link">Cordyceps</a><br />
 SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a></p>
 <h3>Inhibits</h3>
 <p>INHIBITS::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>

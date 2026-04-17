@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.632852Z'
+created: '2026-04-17T18:59:20.028595Z'
 description: Measures BUN, creatinine, eGFR, cystatin C, and electrolytes to assess
   kidney health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: kidney_function_panel
 type: labtest
-updated: '2026-04-14T12:36:39.632852Z'
+updated: '2026-04-17T18:59:20.028595Z'
 ---
 
 {% raw %}
@@ -55,8 +55,8 @@ updated: '2026-04-14T12:36:39.632852Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">bun</a></li>
 <li><a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></li>
-<li><a class="internal-link is-unresolved" href="/404">egfr</a></li>
-<li><a class="internal-link is-unresolved" href="/404">cystatin c</a></li>
+<li><a href="/entities/biomarker/egfr/" class="internal-link">egfr</a></li>
+<li><a href="/entities/biomarker/cystatin-c/" class="internal-link">cystatin c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -68,9 +68,9 @@ updated: '2026-04-14T12:36:39.632852Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cystatin c</a><br />
+RELATED::<a href="/entities/biomarker/cystatin-c/" class="internal-link">cystatin c</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">egfr</a><br />
+RELATED::<a href="/entities/biomarker/egfr/" class="internal-link">egfr</a><br />
 RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a></p>
 <h2>Notes</h2>
 <ul>

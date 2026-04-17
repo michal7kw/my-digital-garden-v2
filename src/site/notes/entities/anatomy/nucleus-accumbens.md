@@ -1,22 +1,21 @@
 ---
-created: '2026-04-14T12:36:39.121853Z'
+created: '2026-04-17T18:59:17.408555Z'
 description: Key structure in the ventral striatum and the central node of the brain's
   reward circuit. Receives dopaminergic input from the VTA and is critical for motivation,
   pleasure, and addiction.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/nucleus-accumbens/
+permalink: /entities/anatomy/nucleus-accumbens/
 slug: nucleus-accumbens
 tags:
-- Anatomy
 - anatomy
 - brain
 - basal_ganglia
 - nervous_system
 templateEngineOverride: njk
 title: Nucleus Accumbens
-type: Anatomy
-updated: '2026-04-14T12:36:39.121853Z'
+type: anatomy
+updated: '2026-04-17T18:59:17.408555Z'
 ---
 
 {% raw %}
@@ -31,8 +30,8 @@ updated: '2026-04-14T12:36:39.121853Z'
 <h2>Relationships</h2>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Reward and Motivation</a></p>
 <h3>Enriched</h3>
-<p>CONNECTED_TO::<a class="internal-link is-unresolved" href="/404">Ventral Tegmental Area</a><br />
-CONNECTED_TO::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
-SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Reward Processing</a></p>
+<p>CONNECTED_TO::<a href="/entities/anatomy/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a><br />
+CONNECTED_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/reward-processing/" class="internal-link">Reward Processing</a></p>
 
 {% endraw %}

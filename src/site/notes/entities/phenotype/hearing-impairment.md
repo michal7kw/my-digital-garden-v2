@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.071489Z'
+created: '2026-04-17T18:59:20.743011Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing impairment
 type: phenotype
-updated: '2026-04-14T12:36:40.071489Z'
+updated: '2026-04-17T18:59:20.743011Z'
 ---
 
 {% raw %}
@@ -49,7 +49,7 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Progres
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Low-frequency hearing loss</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Conductive hearing impairment</a></p>
 <h3>Enriched</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Nerves</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/nerves/" class="internal-link">Nerves</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

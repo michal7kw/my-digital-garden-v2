@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.107386Z'
+created: '2026-04-17T18:59:20.797368Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Vomiting
 type: phenotype
-updated: '2026-04-14T12:36:40.107386Z'
+updated: '2026-04-17T18:59:20.797368Z'
 ---
 
 {% raw %}
@@ -54,8 +54,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Nausea 
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Episodic vomiting</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Projectile vomiting</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">GERD</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Nausea</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gut</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/gerd/" class="internal-link">GERD</a><br />
+ASSOCIATED_WITH::<a href="/entities/phenotype/nausea/" class="internal-link">Nausea</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 
 {% endraw %}

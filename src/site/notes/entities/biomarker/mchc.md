@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.212400Z'
+created: '2026-04-17T18:59:17.806064Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mchc/
@@ -9,20 +9,22 @@ tags:
 templateEngineOverride: njk
 title: Mchc
 type: biomarker
-updated: '2026-04-14T12:36:39.212400Z'
+updated: '2026-04-17T18:59:17.806064Z'
 ---
 
 {% raw %}
 <h1>Mchc</h1>
 <h2>Overview</h2>
 <h2>Relationships</h2>
-<p>RELATED::<a href="/entities/labtest/iron/" class="internal-link">Iron</a><br />
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/blood/" class="internal-link">Blood</a></p>
+<p>RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/iron/" class="internal-link">Iron</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/folate/" class="internal-link">Folate</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.645469Z'
+created: '2026-04-17T18:59:20.039250Z'
 description: LDL particle number measures how many LDL particles are circulating in
   the blood. Standard LDL cholesterol tests estimate the amount of cholesterol by
   weight, while particle tests count the actual number of cholesterol-carrying particles.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_particle_number
 type: labtest
-updated: '2026-04-14T12:36:39.645469Z'
+updated: '2026-04-17T18:59:20.039250Z'
 ---
 
 {% raw %}
@@ -65,12 +65,12 @@ updated: '2026-04-14T12:36:39.645469Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>

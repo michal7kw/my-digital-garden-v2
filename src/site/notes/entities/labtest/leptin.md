@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.659481Z'
+created: '2026-04-17T18:59:20.056389Z'
 description: Leptin is called the satiety hormone, and tells the brain when you are
   full and when to stop eating. It is an important hormone produced by fat cells to
   regulate metabolism and body weight. High levels often points to leptin resistance,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: leptin
 type: labtest
-updated: '2026-04-14T12:36:39.659481Z'
+updated: '2026-04-17T18:59:20.056389Z'
 ---
 
 {% raw %}
@@ -64,20 +64,20 @@ updated: '2026-04-14T12:36:39.659481Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Leptin Resistance</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+MAY_DETECT::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+MAY_DETECT::<a href="/entities/condition/leptin-resistance/" class="internal-link">Leptin Resistance</a><br />
+MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
+<p>RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Leptin Resistance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
+RELATED::<a href="/entities/condition/leptin-resistance/" class="internal-link">Leptin Resistance</a><br />
+RELATED::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Leptin Resistance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/leptin-resistance/" class="internal-link">Leptin Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

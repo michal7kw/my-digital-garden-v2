@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.866061Z'
+created: '2026-04-17T18:59:20.257615Z'
 description: TPO antibodies are proteins made by the immune system that target an
   enzyme needed for thyroid hormone production. Detecting TPO antibodies can reveal
   autoimmune activity that may impair thyroid function. Possible symptoms UNEXPLAINED
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_peroxidase_antibodies_tpo
 type: labtest
-updated: '2026-04-14T12:36:39.866061Z'
+updated: '2026-04-17T18:59:20.257615Z'
 ---
 
 {% raw %}
@@ -62,16 +62,16 @@ updated: '2026-04-14T12:36:39.866061Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases EG Type 1 Diabetes Rheumatoid Arthritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">AddisonS Disease</a><br />
+RELATED::<a href="/entities/condition/addisons-disease/" class="internal-link">AddisonS Disease</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Graves Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Postpartum Thyroiditis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">HashimotoS Thyroiditis</a></p>
+RELATED::<a href="/entities/condition/graves-disease/" class="internal-link">Graves Disease</a><br />
+RELATED::<a href="/entities/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a><br />
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Graves Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Postpartum Thyroiditis</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/graves-disease/" class="internal-link">Graves Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Postpartum Thyroiditis</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h2>Notes</h2>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.460211Z'
+created: '2026-04-17T18:59:19.836993Z'
 description: Measuring ApoB levels is important because it provides a direct count
   of plaque-forming cholesterol particles in the blood. It is powerful indicator of
   harmful particles that drive cardiovascular risk and contribute to metabolic dysfunction.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: apolipoprotein_b_apob
 type: labtest
-updated: '2026-04-14T12:36:39.460211Z'
+updated: '2026-04-17T18:59:19.836993Z'
 ---
 
 {% raw %}
@@ -62,14 +62,14 @@ updated: '2026-04-14T12:36:39.460211Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes Or Insulin Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>

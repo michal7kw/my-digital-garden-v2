@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.181814Z'
+created: '2026-04-17T18:59:17.678954Z'
 description: A biomarker test that measures biological age through the analysis of
   IgG glycosylation patterns, indicating levels of chronic inflammation.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: GlycanAge
 type: biomarker
-updated: '2026-04-14T12:36:39.181814Z'
+updated: '2026-04-17T18:59:17.678954Z'
 ---
 
 {% raw %}
@@ -23,11 +23,11 @@ updated: '2026-04-14T12:36:39.181814Z'
 <p>A biomarker test that measures biological age through the analysis of IgG glycosylation patterns, indicating levels of chronic inflammation.</p>
 <h2>Relationships</h2>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Inflammation</a></p>
+RELATED::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
 <li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>

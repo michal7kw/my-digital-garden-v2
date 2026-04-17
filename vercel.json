@@ -3,5 +3,17 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "devCommand": "npm run start",
+  "redirects": [
+    {
+      "source": "/personal-health-dashboard",
+      "destination": "/garden/dev_admin/dashboard/",
+      "permanent": true
+    },
+    {
+      "source": "/personal-health-dashboard/",
+      "destination": "/garden/dev_admin/dashboard/",
+      "permanent": true
+    }
+  ],
   "routes": [{ "handle": "filesystem" }, { "src": "/(.*)", "status": 404, "dest": "/404" }]
 }

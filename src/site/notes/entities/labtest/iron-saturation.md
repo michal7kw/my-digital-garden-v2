@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.627744Z'
+created: '2026-04-17T18:59:20.023502Z'
 description: Iron saturation measures how much of transferrin (the main iron-carrying
   protein in the blood) is bound to iron. Normal levels are usually 20-50%. Low saturation
   often means there isn't enough iron to support healthy red blood cells and energy
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: iron_saturation
 type: labtest
-updated: '2026-04-14T12:36:39.627744Z'
+updated: '2026-04-17T18:59:20.023502Z'
 ---
 
 {% raw %}
@@ -64,20 +64,20 @@ updated: '2026-04-14T12:36:39.627744Z'
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Iron Deficiency</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency</a><br />
+RELATED::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron Overload Hemochromatosis Or Excess Supplementation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
+RELATED::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.186257Z'
+created: '2026-04-17T18:59:17.689634Z'
 description: Hemoglobin A1c (HbA1c) reflects average blood glucose over 2-3 months.
   Used to diagnose and monitor diabetes control.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Hba1C
 type: biomarker
-updated: '2026-04-14T12:36:39.186257Z'
+updated: '2026-04-17T18:59:17.689634Z'
 ---
 
 {% raw %}
@@ -29,17 +29,20 @@ updated: '2026-04-14T12:36:39.186257Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin a1c hba1c</a><br />
-RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Berberine</a></p>
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a></p>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Pancreas</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (when elevated, Evidence Level 1a)<br />
+INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (when elevated, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
 <ul>
 <li>-&gt; <a href="/entities/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/chromium/" class="internal-link">Chromium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>

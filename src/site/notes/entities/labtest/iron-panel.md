@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.625189Z'
+created: '2026-04-17T18:59:20.020717Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: iron_panel
 type: labtest
-updated: '2026-04-14T12:36:39.625189Z'
+updated: '2026-04-17T18:59:20.020717Z'
 ---
 
 {% raw %}
@@ -69,7 +69,7 @@ updated: '2026-04-14T12:36:39.625189Z'
 <li><a href="/entities/biomarker/serum-iron/" class="internal-link">serum iron</a></li>
 <li><a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></li>
 <li><a href="/entities/biomarker/tibc/" class="internal-link">tibc</a></li>
-<li><a class="internal-link is-unresolved" href="/404">transferrin saturation</a></li>
+<li><a href="/entities/biomarker/transferrin-saturation/" class="internal-link">transferrin saturation</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -84,7 +84,7 @@ updated: '2026-04-14T12:36:39.625189Z'
 RELATED::<a href="/entities/biomarker/serum-iron/" class="internal-link">serum iron</a><br />
 RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
 RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">transferrin saturation</a></p>
+RELATED::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">transferrin saturation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.238499Z'
+created: '2026-04-17T18:59:17.929857Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/total-t3/
@@ -9,18 +9,18 @@ tags:
 templateEngineOverride: njk
 title: Total T3
 type: biomarker
-updated: '2026-04-14T12:36:39.238499Z'
+updated: '2026-04-17T18:59:17.929857Z'
 ---
 
 {% raw %}
 <h1>Total T3</h1>
 <h2>Overview</h2>
 <h2>Relationships</h2>
-<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Thyroid</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Thyroid Hormones</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
+RELATED::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/iodine/" class="internal-link">Iodine</a> (supplement)</li>
 </ul>

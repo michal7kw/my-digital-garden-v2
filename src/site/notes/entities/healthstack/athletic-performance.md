@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.335135Z'
+created: '2026-04-17T18:59:19.562286Z'
 description: Optimize exercise performance, recovery, and adaptation. Creatine is
   the most studied ergogenic supplement, beta-alanine buffers muscle acidosis, citrulline
   enhances blood flow, electrolytes prevent exercise-induced depletion, and magnesium
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Athletic Performance
 type: healthstack
-updated: '2026-04-14T12:36:39.335135Z'
+updated: '2026-04-17T18:59:19.562286Z'
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ updated: '2026-04-14T12:36:39.335135Z'
 <td>Increases phosphocreatine stores for high-intensity efforts</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Beta-Alanine</a></td>
+<td><a href="/entities/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></td>
 <td>3.2g</td>
 <td>once daily</td>
 <td>morning</td>
@@ -121,17 +121,17 @@ updated: '2026-04-14T12:36:39.335135Z'
 </ul>
 <h3>Contains Supplement</h3>
 <p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Creatine Monohydrate</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Beta-Alanine</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Citrulline Malate</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Electrolyte Complex</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Magnesium Glycinate</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Creatine</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Creatine Kinase</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscles</a></p>
+<p>INCLUDES_SUPPLEMENT::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/muscles/" class="internal-link">Muscles</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Advanced | <strong>Evidence Level:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
 

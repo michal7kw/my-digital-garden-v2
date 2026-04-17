@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.887698Z'
+created: '2026-04-17T18:59:20.276446Z'
 description: Tested twice a year Total protein measures the combined levels of albumin
   and globulin in the blood. Maintaining adequate protein levels is important for
   overall health, as proteins support tissue repair, immune function, and general
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: total_protein
 type: labtest
-updated: '2026-04-14T12:36:39.887698Z'
+updated: '2026-04-17T18:59:20.276446Z'
 ---
 
 {% raw %}
@@ -62,7 +62,7 @@ updated: '2026-04-14T12:36:39.887698Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
+<p>RELATED::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Blood Cancers EG Multiple Myeloma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
@@ -70,9 +70,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition Or Poor
 RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver function panel</a><br />
 RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

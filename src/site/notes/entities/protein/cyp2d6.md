@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.126505Z'
+created: '2026-04-17T18:59:20.862568Z'
 description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme responsible
   for the metabolism of approximately 25% of clinically used drugs including SSRIs,
   beta-blockers, opioids, and antipsychotics. Genetic polymorphisms create poor, intermediate,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: protein
-updated: '2026-04-14T12:36:40.126505Z'
+updated: '2026-04-17T18:59:20.862568Z'
 ---
 
 {% raw %}
@@ -74,23 +74,23 @@ updated: '2026-04-14T12:36:40.126505Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Black_Seed_Oil</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/black-seed-oil/" class="internal-link">Black_Seed_Oil</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+<p>RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Haloperidol</a><br />
+RELATED::<a href="/entities/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
 RELATED::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metoprolol</a><br />
-METABOLIZES::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
-METABOLIZES::<a class="internal-link is-unresolved" href="/404">Vortioxetine</a><br />
-METABOLIZES::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a></p>
+RELATED::<a href="/entities/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
+METABOLIZES::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a><br />
+METABOLIZES::<a href="/entities/drug/vortioxetine/" class="internal-link">Vortioxetine</a><br />
+METABOLIZES::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvoxamine</a></p>
 <h3>Inhibited By</h3>
-<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
+<p>INHIBITED_BY::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a><br />
 INHIBITED_BY::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a></p>
@@ -101,9 +101,9 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="inte
 </ul>
 <h3>Merged From gene</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Peripheral Neuropathy</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Black Seed Oil</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/black-seed-oil/" class="internal-link">Black Seed Oil</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.122963Z'
+created: '2026-04-17T18:59:20.856798Z'
 description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critical
   for the metabolism of proton pump inhibitors (omeprazole, pantoprazole) and the
   bioactivation of clopidogrel. Poor metabolizers have increased PPI exposure and
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C19
 type: protein
-updated: '2026-04-14T12:36:40.122963Z'
+updated: '2026-04-17T18:59:20.856798Z'
 ---
 
 {% raw %}
@@ -80,23 +80,23 @@ updated: '2026-04-14T12:36:40.122963Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>INTERACTS_WITH::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omeprazole</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
+RELATED::<a href="/entities/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
+RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Metabolizes</h3>
-<p>METABOLIZES::<a class="internal-link is-unresolved" href="/404">Citalopram</a><br />
-METABOLIZES::<a class="internal-link is-unresolved" href="/404">Escitalopram</a></p>
+<p>METABOLIZES::<a href="/entities/drug/citalopram/" class="internal-link">Citalopram</a><br />
+METABOLIZES::<a href="/entities/drug/escitalopram/" class="internal-link">Escitalopram</a></p>
 <h3>Inhibited By</h3>
-<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a></p>
+<p>INHIBITED_BY::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvoxamine</a></p>
 <h2>References</h2>
 <ul>
 <li>Scott SA et al. Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy. Clin Pharmacol Ther. 2013;94(3):317-323. PMID:23698643</li>
 <li>Desta Z et al. Clinical significance of the cytochrome P450 2C19 genetic polymorphism. Clin Pharmacokinet. 2002;41(12):913-958. PMID:12222994</li>
 </ul>
 <h3>Merged From gene</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Coronary Artery Disease</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a></p>
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 
 {% endraw %}

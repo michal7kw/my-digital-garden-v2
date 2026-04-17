@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.396634Z'
+created: '2026-04-17T18:59:19.649451Z'
 description: Incretin hormone produced by L-cells in the small intestine that stimulates
   glucose-dependent insulin secretion, suppresses glucagon, delays gastric emptying,
   and promotes satiety. Target of GLP-1 receptor agonists for diabetes and obesity
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1
 type: hormone
-updated: '2026-04-14T12:36:39.396634Z'
+updated: '2026-04-17T18:59:19.649451Z'
 ---
 
 {% raw %}
@@ -112,26 +112,26 @@ updated: '2026-04-14T12:36:39.396634Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Secreted By Organ</h3>
-<p>SECRETED_BY::<a class="internal-link is-unresolved" href="/404">Intestines</a> (L-cells in distal ileum and colon, Evidence Level 1a)<br />
-SECRETED_BY::<a class="internal-link is-unresolved" href="/404">Pancreas</a> (alpha cells produce minor amounts, Evidence Level 2b)</p>
+<p>SECRETED_BY::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (L-cells in distal ileum and colon, Evidence Level 1a)<br />
+SECRETED_BY::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (alpha cells produce minor amounts, Evidence Level 2b)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (stimulates glucose-dependent secretion, Evidence Level 1a)<br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</a> (suppresses postprandial secretion, Evidence Level 1a)</p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a> (beta-cell stimulation, alpha-cell suppression, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Stomach</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite, Evidence Level 1b)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidneys</a> (renal protective effects, Evidence Level 2b)<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestines</a> (autocrine/paracrine signaling, Evidence Level 2b)</p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation, alpha-cell suppression, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/stomach/" class="internal-link">Stomach</a> (delays gastric emptying, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite, Evidence Level 1b)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective effects, Evidence Level 2b)<br />
+AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (autocrine/paracrine signaling, Evidence Level 2b)</p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/glucose/" class="internal-link">Glucose</a> (postprandial glucose control, Evidence Level 1a)<br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a> (postprandial glucose control, Evidence Level 1a)<br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improves glycemic control, Evidence Level 1a)<br />
-AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">CRP (hs)</a> (reduces inflammation, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/crp-hs/" class="internal-link">CRP (hs)</a> (reduces inflammation, Evidence Level 2a)<br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a> (reduces systolic BP, Evidence Level 2a)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (primary signaling, Evidence Level 1a)<br />
-MODULATES::<a class="internal-link is-unresolved" href="/404">Insulin Signaling</a> (enhances insulin sensitivity, Evidence Level 2b)<br />
+MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (enhances insulin sensitivity, Evidence Level 2b)<br />
 MODULATES::<a class="internal-link is-unresolved" href="/404">Inflammatory Response</a> (anti-inflammatory effects, Evidence Level 2a)</p>
 <h3>Related to Drug</h3>
 <p>RELATED_TO_DRUG::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (GLP-1 receptor agonist, Evidence Level 1a)<br />
@@ -140,9 +140,9 @@ RELATED_TO_DRUG::<a href="/entities/drug/tirzepatide/" class="internal-link">Tir
 RELATED_TO_DRUG::<a class="internal-link is-unresolved" href="/404">Exenatide</a> (GLP-1 receptor agonist, Evidence Level 1a)<br />
 RELATED_TO_DRUG::<a href="/entities/drug/dulaglutide/" class="internal-link">Dulaglutide</a> (GLP-1 receptor agonist, Evidence Level 1a)</p>
 <h3>Related to Condition</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes</a> (deficiency contributes to hyperglycemia, Evidence Level 1a)<br />
+<p>RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (deficiency contributes to hyperglycemia, Evidence Level 1a)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a> (reduced GLP-1 response, Evidence Level 2b)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a> (cardioprotective effects, Evidence Level 1a)</p>
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (cardioprotective effects, Evidence Level 1a)</p>
 <h2>References</h2>
 <ul>
 <li>Holst JJ. The physiology of glucagon-like peptide 1. Physiol Rev. 2007;87(4):1409-39. PMID: 17928588</li>

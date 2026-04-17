@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.742289Z'
+created: '2026-04-17T18:59:20.138568Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-04-14T12:36:39.742289Z'
+updated: '2026-04-17T18:59:20.138568Z'
 ---
 
 {% raw %}
@@ -71,9 +71,9 @@ updated: '2026-04-14T12:36:39.742289Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">aa epa ratio</a><br />
 RELATED::<a href="/entities/biomarker/epa/" class="internal-link">epa</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+INDICATES::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+INDICATES::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

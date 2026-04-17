@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.725324Z'
+created: '2026-04-17T18:59:20.114328Z'
 description: Tests C677T and A1298C variants affecting folate metabolism and homocysteine
   levels.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: mthfr_genotype
 type: labtest
-updated: '2026-04-14T12:36:39.725324Z'
+updated: '2026-04-17T18:59:20.114328Z'
 ---
 
 {% raw %}
@@ -69,8 +69,8 @@ updated: '2026-04-14T12:36:39.725324Z'
 RELATED::<a href="/entities/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></p>
 <h3>Enriched</h3>
 <p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">COMT</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/folate/" class="internal-link">Folate</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">B Vitamin Deficiency</a></p>
+ASSOCIATED_WITH::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
+INDICATES::<a href="/entities/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

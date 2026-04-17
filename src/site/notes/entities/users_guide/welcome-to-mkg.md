@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.160347Z'
+created: '2026-04-17T18:59:21.331068Z'
 description: Overview of the MKG platform — what it does, who it's for, and what's
   possible
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Welcome to MKG
 type: users_guide
-updated: '2026-04-14T12:36:40.160347Z'
+updated: '2026-04-17T18:59:21.331068Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-14T12:36:40.160347Z'
 <li><strong>Neo4j graph database</strong> — A powerful database that connects your notes into an explorable knowledge graph</li>
 <li><strong>Web dashboard</strong> — A visual interface for tracking biomarkers, exploring the graph, running experiments, and getting AI-powered insights</li>
 </ul>
-<p>Everything stays on your own machine. Your health data is never sent to third-party servers (except when you explicitly use AI features that call language model providers).</p>
+<p>Your data remains under your control. It stays either on your local machine or the specific backend server you connect to. Your health data is never sent to unauthorized third-party servers (except when you explicitly use AI features that call language model providers).</p>
 <h2>Who Is MKG For?</h2>
 <p><strong>Health-conscious individuals</strong> who want to organize their health data, understand their lab results, and track how supplements and lifestyle changes affect their biomarkers.</p>
 <p><strong>Biohackers</strong> who run systematic self-experiments, track dozens of biomarkers, and want evidence-based supplement stacks with proper dosing and interaction checking.</p>

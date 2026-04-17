@@ -1,31 +1,160 @@
+---
+eleventyExcludeFromCollections: true
+---
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
-    <head>
-        <title>Nothing here</title>
-        <link href="/styles/digital-garden-base.css" rel="stylesheet">
-        {%-if meta.themeStyle%}
-            <link href="/styles/obsidian-base.css" rel="stylesheet">
-    	    <link href="{{meta.themeStyle}}" rel="stylesheet">
-        {% else %}
-            <link href="/styles/style.css" rel="stylesheet">
-        {%endif%}
+  <head>
+    <title>Not found — did you mean…?</title>
+    {% include "components/pageheader.njk" %}
+    <style>
+      .notfound {
+        max-width: 720px;
+        margin: 4rem auto;
+        padding: 0 1.5rem;
+      }
+      .notfound h1 {
+        font-size: 2rem;
+      }
+      .notfound .attempted {
+        background: var(--background-secondary);
+        padding: 0.5rem 0.75rem;
+        border-radius: 6px;
+        font-family: var(--font-monospace, monospace);
+        word-break: break-all;
+        color: var(--text-muted);
+        margin-bottom: 1.5rem;
+      }
+      .notfound .suggestions {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      .notfound .suggestions li {
+        padding: 0.5rem 0;
+        border-bottom: 1px solid var(--background-modifier-border);
+      }
+      .notfound .suggestions li:last-child {
+        border-bottom: none;
+      }
+      .notfound .suggestions a {
+        color: var(--text-normal);
+        text-decoration: none;
+      }
+      .notfound .suggestions a:hover {
+        color: var(--interactive-accent);
+      }
+      .notfound .suggestion-url {
+        color: var(--text-muted);
+        font-size: 0.8rem;
+        margin-left: 0.5rem;
+      }
+      .notfound-empty {
+        color: var(--text-muted);
+      }
+      .notfound .actions {
+        margin-top: 2rem;
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+      }
+      .notfound .actions a {
+        padding: 0.5rem 0.9rem;
+        background: var(--background-secondary);
+        border-radius: 999px;
+        color: var(--text-muted);
+        text-decoration: none;
+        font-size: 0.9rem;
+        border: 1px solid var(--background-modifier-border);
+      }
+      .notfound .actions a:hover {
+        color: var(--interactive-accent);
+        border-color: var(--interactive-accent);
+      }
+    </style>
+  </head>
+  <body class="theme-{{ meta.baseTheme }} markdown-preview-view">
+    {% include "components/navbar.njk" %}
 
-        <link href="/styles/custom-style.css" rel="stylesheet">
+    <main class="notfound">
+      <h1>Nothing at this URL</h1>
+      <p>The page you asked for doesn&rsquo;t exist on this garden. Maybe one of these?</p>
+      <div class="attempted" id="attempted-url"></div>
 
-    </head>
-    <body class="theme-{{meta.baseTheme}} markdown-preview-view">
-        {%include "components/navbar.njk"%}
-        {% if settings.dgShowFileTree === true %}
-          {%include "components/filetree.njk"%}
-        {% endif %}
-        <div class="content centered">
+      <h2 style="font-size: 1rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em;">Closest matches</h2>
+      <ul class="suggestions" id="suggestions">
+        <li class="notfound-empty">Searching the index…</li>
+      </ul>
 
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
-        </div>
-    </body>
+      <div class="actions">
+        <a href="/">Home</a>
+        <a href="/search/">Full search</a>
+        <a href="/graph/">Knowledge graph</a>
+        <a href="/entities/users_guide/mkg-platform-user-guide/">User guide</a>
+      </div>
+    </main>
+
+    <script>
+      (function () {
+        var path = window.location.pathname;
+        var attempted = document.getElementById('attempted-url');
+        if (attempted) attempted.textContent = path;
+
+        // ── Trigram similarity for fuzzy URL/title match ──
+        function trigrams(s) {
+          var out = new Set();
+          var padded = '  ' + s.toLowerCase() + '  ';
+          for (var i = 0; i < padded.length - 2; i++) out.add(padded.slice(i, i + 3));
+          return out;
+        }
+        function jaccard(a, b) {
+          if (!a.size || !b.size) return 0;
+          var inter = 0;
+          a.forEach(function (t) { if (b.has(t)) inter++; });
+          return inter / (a.size + b.size - inter);
+        }
+
+        // Extract meaningful tokens from the attempted URL path
+        var query = decodeURIComponent(path)
+          .toLowerCase()
+          .replace(/^\/|\/$/g, '')
+          .replace(/\/|-|_/g, ' ')
+          .replace(/[^a-z0-9 ]/g, '')
+          .trim();
+        if (!query) query = 'home';
+
+        fetch('/searchIndex.json')
+          .then(function (r) { return r.ok ? r.json() : []; })
+          .then(function (items) {
+            if (!Array.isArray(items) || items.length === 0) {
+              var el = document.getElementById('suggestions');
+              if (el) el.innerHTML = '<li class="notfound-empty">No search index available.</li>';
+              return;
+            }
+            var qTri = trigrams(query);
+            var scored = items
+              .map(function (it) {
+                var hay = (it.title + ' ' + (it.tags || []).join(' ')).toLowerCase();
+                return { it: it, score: jaccard(qTri, trigrams(hay)) };
+              })
+              .filter(function (x) { return x.score > 0.05; })
+              .sort(function (a, b) { return b.score - a.score; })
+              .slice(0, 8);
+            var el = document.getElementById('suggestions');
+            if (!el) return;
+            if (scored.length === 0) {
+              el.innerHTML = '<li class="notfound-empty">No close matches. Try the <a href="/search/?q=' + encodeURIComponent(query) + '">full search</a>.</li>';
+              return;
+            }
+            el.innerHTML = scored.map(function (x) {
+              return '<li><a href="' + x.it.url + '"><strong>' + x.it.title + '</strong>' +
+                '<span class="suggestion-url">' + x.it.url + '</span></a></li>';
+            }).join('');
+          })
+          .catch(function () {
+            var el = document.getElementById('suggestions');
+            if (el) el.innerHTML = '<li class="notfound-empty">Couldn&rsquo;t load the search index.</li>';
+          });
+      })();
+    </script>
+  </body>
 </html>

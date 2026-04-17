@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.792427Z'
+created: '2026-04-17T18:59:20.176531Z'
 description: Tested twice a year Urine pH reflects how acidic or alkaline the urine
   is, and it plays a key role in helping the body maintain overall acid–base balance.
   Abnormal urine pH can increase the risk of kidney stones, or indicate metabolic
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ph_urine
 type: labtest
-updated: '2026-04-14T12:36:39.792427Z'
+updated: '2026-04-17T18:59:20.176531Z'
 ---
 
 {% raw %}
@@ -64,12 +64,12 @@ updated: '2026-04-14T12:36:39.792427Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dietary Or Medication Effect</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a><br />
+RELATED::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

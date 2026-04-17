@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.151262Z'
+created: '2026-04-17T18:59:21.030940Z'
 description: Potentially life-threatening condition caused by excess serotonergic
   activity in the central and peripheral nervous system, typically from drug combinations
   that increase serotonin synthesis, decrease reuptake, or directly stimulate serotonin
@@ -18,14 +18,14 @@ tags:
 templateEngineOverride: njk
 title: Serotonin Syndrome
 type: sideeffect
-updated: '2026-04-14T12:36:40.151262Z'
+updated: '2026-04-17T18:59:21.030940Z'
 ---
 
 {% raw %}
 <h1>Serotonin Syndrome</h1>
 <h2>Overview</h2>
 <p>Serotonin syndrome (SS) is a potentially life-threatening adverse drug reaction resulting from excessive serotonergic activity at central and peripheral serotonin receptors, primarily 5-HT1A and 5-HT2A. It characteristically presents with a clinical triad of neuromuscular hyperactivity (clonus, hyperreflexia, myoclonus, rigidity), autonomic dysfunction (hyperthermia, tachycardia, diaphoresis, hypertension, diarrhea), and altered mental status (agitation, confusion, delirium). The severity ranges from mild tremor and diarrhea to fulminant hyperthermia, seizures, rhabdomyolysis, disseminated intravascular coagulation, and death.</p>
-<p>The syndrome almost always results from pharmacological drug combinations rather than single-agent use at therapeutic doses. Selective serotonin reuptake inhibitors (SSRIs) such as <a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a> and <a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a> are the most commonly implicated agents, particularly when combined with other serotonergic drugs. Dangerous combinations include SSRIs with monoamine oxidase inhibitors (MAOIs -- the most severe combinations), serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants, tramadol, fentanyl, dextromethorphan, lithium, or triptans. The supplement <a class="internal-link is-unresolved" href="/404">5-HTP</a> (5-hydroxytryptophan, the immediate precursor to <a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a>) and <a class="internal-link is-unresolved" href="/404">L-Tryptophan</a> (the amino acid precursor to 5-HTP) can also precipitate serotonin syndrome when combined with SSRIs or MAOIs, as they increase serotonin synthesis independently of reuptake inhibition.</p>
+<p>The syndrome almost always results from pharmacological drug combinations rather than single-agent use at therapeutic doses. Selective serotonin reuptake inhibitors (SSRIs) such as <a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a> and <a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a> are the most commonly implicated agents, particularly when combined with other serotonergic drugs. Dangerous combinations include SSRIs with monoamine oxidase inhibitors (MAOIs -- the most severe combinations), serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants, tramadol, fentanyl, dextromethorphan, lithium, or triptans. The supplement <a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a> (5-hydroxytryptophan, the immediate precursor to <a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a>) and <a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a> (the amino acid precursor to 5-HTP) can also precipitate serotonin syndrome when combined with SSRIs or MAOIs, as they increase serotonin synthesis independently of reuptake inhibition.</p>
 <p>The pathophysiology involves excessive stimulation of postsynaptic serotonin receptors, particularly 5-HT2A receptors in the brainstem and spinal cord. 5-HT1A receptor activation contributes to the behavioral and autonomic features, while 5-HT2A activation drives the neuromuscular manifestations (clonus, hyperreflexia) and hyperthermia. The condition is a spectrum disorder with onset typically within 6-24 hours of the inciting drug change, and mild cases may be underrecognized. The Hunter Serotonin Toxicity Criteria provide the best-validated diagnostic algorithm, requiring the presence of a serotonergic agent plus specific combinations of clinical features (spontaneous clonus, inducible clonus with agitation or diaphoresis, ocular clonus, tremor with hyperreflexia, or temperature &gt;38C with clonus).</p>
 <p>Management involves immediate discontinuation of all serotonergic agents, supportive care (benzodiazepines for agitation, active cooling for hyperthermia, IV fluids), and in severe cases, the 5-HT2A antagonist cyproheptadine. Most mild-to-moderate cases resolve within 24-72 hours after drug cessation. Prevention requires awareness of serotonergic drug interactions, careful medication reconciliation (including over-the-counter drugs and supplements), and appropriate washout periods when switching between serotonergic agents (particularly the 5-week washout required after fluoxetine due to its long half-life active metabolite norfluoxetine).</p>
 <h2>Key Mechanisms</h2>
@@ -59,7 +59,7 @@ updated: '2026-04-14T12:36:40.151262Z'
 </tr>
 <tr>
 <td>Precursor loading</td>
-<td><a class="internal-link is-unresolved" href="/404">5-HTP</a>, <a class="internal-link is-unresolved" href="/404">L-Tryptophan</a></td>
+<td><a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a>, <a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a></td>
 <td>Moderate (with SSRIs)</td>
 </tr>
 <tr>
@@ -83,18 +83,18 @@ updated: '2026-04-14T12:36:40.151262Z'
 <p>INVOLVES::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 CAUSED_BY::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
 CAUSED_BY::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
-PRECIPITATED_BY::<a class="internal-link is-unresolved" href="/404">5-HTP</a><br />
-PRECIPITATED_BY::<a class="internal-link is-unresolved" href="/404">L-Tryptophan</a><br />
+PRECIPITATED_BY::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+PRECIPITATED_BY::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
 AFFECTS::<a class="internal-link is-unresolved" href="/404">Central Nervous System</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Hyperthermia</a><br />
 RISK_FACTOR::<a class="internal-link is-unresolved" href="/404">Drug Interactions</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Citalopram</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Escitalopram</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Vilazodone</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Vortioxetine</a><br />
-INVOLVES::<a class="internal-link is-unresolved" href="/404">5-HT2A Receptor</a><br />
-INVOLVES::<a class="internal-link is-unresolved" href="/404">SERT</a></p>
+CAUSED_BY::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a><br />
+CAUSED_BY::<a href="/entities/drug/citalopram/" class="internal-link">Citalopram</a><br />
+CAUSED_BY::<a href="/entities/drug/escitalopram/" class="internal-link">Escitalopram</a><br />
+CAUSED_BY::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvoxamine</a><br />
+CAUSED_BY::<a href="/entities/drug/vilazodone/" class="internal-link">Vilazodone</a><br />
+CAUSED_BY::<a href="/entities/drug/vortioxetine/" class="internal-link">Vortioxetine</a><br />
+INVOLVES::<a href="/entities/protein/5-ht2a-receptor/" class="internal-link">5-HT2A Receptor</a><br />
+INVOLVES::<a href="/entities/protein/sert/" class="internal-link">SERT</a></p>
 
 {% endraw %}

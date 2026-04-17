@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.595155Z'
+created: '2026-04-17T18:59:19.985466Z'
 description: Tested twice a year Hemoglobin is the protein in red blood cells that
   carries oxygen from the lungs to the rest of the body, supporting energy and healthy
   organ function. Low hemoglobin may indicate anemia due to vitamin deficiencies,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: hemoglobin
 type: labtest
-updated: '2026-04-14T12:36:39.595155Z'
+updated: '2026-04-17T18:59:19.985466Z'
 ---
 
 {% raw %}
@@ -70,18 +70,18 @@ updated: '2026-04-14T12:36:39.595155Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
+RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Hypoxia Lung Or Heart Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">High Altitude Adaptation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Polycythemia Vera</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">complete blood count</a></p>
+RELATED::<a href="/entities/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a><br />
+RELATED::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a><br />
+RELATED::<a href="/entities/labtest/complete-blood-count/" class="internal-link">complete blood count</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">High Altitude Adaptation</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Polycythemia Vera</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Polycythemia Vera</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">High Altitude Adaptation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+MAY_DETECT::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a><br />
+MAY_DETECT::<a href="/entities/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

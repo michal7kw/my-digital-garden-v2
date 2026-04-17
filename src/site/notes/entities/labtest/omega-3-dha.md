@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.745144Z'
+created: '2026-04-17T18:59:20.141452Z'
 description: 'oh-MAY-guh three: D-H-A Docosahexaenoic acid (DHA) is a long-chain omega-3
   fatty acid essential for brain, eye, and nervous system function. It supports cognitive
   and visual health and helps maintain the structure and flexibility of cell membranes.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: omega_3_dha
 type: labtest
-updated: '2026-04-14T12:36:39.745144Z'
+updated: '2026-04-17T18:59:20.141452Z'
 ---
 
 {% raw %}
@@ -68,9 +68,9 @@ INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrient
 <p>RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+INDICATES::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+INDICATES::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

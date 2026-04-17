@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.928916Z'
+created: '2026-04-17T18:59:20.330812Z'
 description: Essential mineral for immune function, wound healing, and enzyme activity.
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: zinc_serum
 type: labtest
-updated: '2026-04-14T12:36:39.928916Z'
+updated: '2026-04-17T18:59:20.330812Z'
 ---
 
 {% raw %}
@@ -59,7 +59,7 @@ updated: '2026-04-14T12:36:39.928916Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/zinc/" class="internal-link">zinc</a></li>
+<li><a href="/entities/supplement/zinc/" class="internal-link">zinc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,7 +70,7 @@ updated: '2026-04-14T12:36:39.928916Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/zinc/" class="internal-link">zinc</a></p>
+<p>RELATED::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

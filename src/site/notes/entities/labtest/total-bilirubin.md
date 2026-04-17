@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.878012Z'
+created: '2026-04-17T18:59:20.268240Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-04-14T12:36:39.878012Z'
+updated: '2026-04-17T18:59:20.268240Z'
 ---
 
 {% raw %}
@@ -62,15 +62,15 @@ updated: '2026-04-14T12:36:39.878012Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">GilbertS Syndrome</a><br />
+<p>RELATED::<a href="/entities/condition/gilberts-syndrome/" class="internal-link">GilbertS Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver Inflammation Hepatitis Cirrhosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced Liver Injury</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic Anemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bile Duct Blockage Gallstones Tumors</a></p>
 <h3>Enriched</h3>
-<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Bilirubin Total</a><br />
-INDICATES::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
+<p>MEASURES::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a><br />
+INDICATES::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+ASSOCIATED_WITH::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

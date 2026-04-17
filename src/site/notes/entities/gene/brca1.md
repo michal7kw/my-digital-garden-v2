@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.115422Z'
+created: '2026-04-17T18:59:20.827428Z'
 description: Encodes a tumor suppressor protein involved in DNA repair. Mutations
   significantly increase the risk of breast and ovarian cancer.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: BRCA1
 type: gene
-updated: '2026-04-14T12:36:40.115422Z'
+updated: '2026-04-17T18:59:20.827428Z'
 ---
 
 {% raw %}
@@ -28,8 +28,8 @@ updated: '2026-04-14T12:36:40.115422Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Ovarian Cancer</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Breast Cancer</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cancer</a><br />
-PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Apoptosis</a><br />
-LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/biologicalprocess/apoptosis/" class="internal-link">Apoptosis</a><br />
+LOCATED_IN::<a href="/entities/cellularcomponent/nucleus/" class="internal-link">Nucleus</a></p>
 
 {% endraw %}

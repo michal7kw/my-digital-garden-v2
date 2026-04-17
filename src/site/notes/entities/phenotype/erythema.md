@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.060965Z'
+created: '2026-04-17T18:59:20.720279Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Erythema
 type: phenotype
-updated: '2026-04-14T12:36:40.060965Z'
+updated: '2026-04-17T18:59:20.720279Z'
 ---
 
 {% raw %}
@@ -52,8 +52,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Necroly
 <h3>Excludes Phenotype</h3>
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">peeling skin syndrome</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Allergy</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a></p>
 
 {% endraw %}

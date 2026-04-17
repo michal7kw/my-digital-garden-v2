@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.794691Z'
+created: '2026-04-17T18:59:20.180473Z'
 description: Tested twice a year Platelet count measures the number of platelets—tiny
   blood cells that help blood clot and support healing. Low counts (thrombocytopenia)
   can make bruising or bleeding more noticeable, while high counts (thrombocytosis)
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: platelet_count
 type: labtest
-updated: '2026-04-14T12:36:39.794691Z'
+updated: '2026-04-17T18:59:20.180473Z'
 ---
 
 {% raw %}
@@ -63,17 +63,17 @@ updated: '2026-04-14T12:36:39.794691Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Bone Marrow Disorder</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Bone Marrow Disorder</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bone Marrow Disorder</a><br />
+RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thrombocytopenia Low Platelets</a></p>
 <h2>Notes</h2>
 <ul>

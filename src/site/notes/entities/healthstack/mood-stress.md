@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.365282Z'
+created: '2026-04-17T18:59:19.609912Z'
 description: Support emotional resilience and stress adaptation. Magnesium calms the
   nervous system, omega-3 EPA supports neurotransmitter function, vitamin D3 modulates
   mood-regulating pathways, and ashwagandha is a well-studied adaptogen for cortisol
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mood & Stress
 type: healthstack
-updated: '2026-04-14T12:36:39.365282Z'
+updated: '2026-04-17T18:59:19.609912Z'
 ---
 
 {% raw %}
@@ -85,7 +85,7 @@ updated: '2026-04-14T12:36:39.365282Z'
 <td>Low levels strongly associated with depression</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Cortisol AM</a></td>
+<td><a href="/entities/labtest/cortisol-am/" class="internal-link">Cortisol AM</a></td>
 <td>6-18.4</td>
 <td>10-15</td>
 <td>mcg/dL</td>
@@ -113,9 +113,9 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagan
 <h2>Relationships</h2>
 <h3>Enriched</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <hr />

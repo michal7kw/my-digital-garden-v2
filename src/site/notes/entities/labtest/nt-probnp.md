@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.737581Z'
+created: '2026-04-17T18:59:20.126452Z'
 description: N-terminal pro-B-type Natriuretic Peptide (NT-proBNP) test. Inactive
   fragment released during BNP synthesis. More stable than BNP with age-dependent
   cutoffs. Preferred for monitoring patients on sacubitril/valsartan therapy.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: nt_probnp
 type: labtest
-updated: '2026-04-14T12:36:39.737581Z'
+updated: '2026-04-17T18:59:20.126452Z'
 ---
 
 {% raw %}
@@ -68,8 +68,8 @@ updated: '2026-04-14T12:36:39.737581Z'
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/phenotype/dyspnea/" class="internal-link">Dyspnea</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Atrial Fibrillation</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a></p>
 <h3>Measures</h3>
 <p>MEASURES::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a></p>
 <h2>Notes</h2>

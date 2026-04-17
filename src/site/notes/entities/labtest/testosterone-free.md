@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.849687Z'
+created: '2026-04-17T18:59:20.243238Z'
 description: Measures bioavailable testosterone. More accurate than total testosterone
   for assessing androgen status.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: testosterone_free
 type: labtest
-updated: '2026-04-14T12:36:39.849687Z'
+updated: '2026-04-17T18:59:20.243238Z'
 ---
 
 {% raw %}

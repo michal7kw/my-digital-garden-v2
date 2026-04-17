@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.590344Z'
+created: '2026-04-17T18:59:19.979629Z'
 description: HDL particles can be small or large. Larger, “fluffier” HDL particles
   are more protective because they are better at removing excess cholesterol from
   the arteries, helping reduce the risk of atherosclerosis and heart disease.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: hdl_large
 type: labtest
-updated: '2026-04-14T12:36:39.590344Z'
+updated: '2026-04-17T18:59:19.979629Z'
 ---
 
 {% raw %}
@@ -63,13 +63,13 @@ updated: '2026-04-14T12:36:39.590344Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>

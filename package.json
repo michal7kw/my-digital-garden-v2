@@ -9,9 +9,11 @@
     "watch:sass": "sass --watch src/site/styles:dist/styles",
     "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
     "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=7168 eleventy",
+    "build:eleventy:incremental": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=7168 eleventy --incremental",
     "build:sass": "sass src/site/styles:dist/styles --style compressed",
     "get-theme": "node src/site/get-theme.js",
-    "build": "npm-run-all get-theme build:*"
+    "build": "npm-run-all get-theme build:sass build:eleventy",
+    "build:incremental": "npm-run-all get-theme build:sass build:eleventy:incremental"
   },
   "keywords": [],
   "author": "",

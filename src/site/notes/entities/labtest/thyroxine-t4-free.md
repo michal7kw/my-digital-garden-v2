@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.871935Z'
+created: '2026-04-17T18:59:20.262807Z'
 description: Thyroxine (T4) Freeis one of the main hormones made by the thyroid. It
   acts largely as a precursor, since most of it is later converted into T3, the more
   active form. Measuring free T4 shows how much thyroid hormone is being produced
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroxine_t4_free
 type: labtest
-updated: '2026-04-14T12:36:39.871935Z'
+updated: '2026-04-17T18:59:20.262807Z'
 ---
 
 {% raw %}
@@ -63,16 +63,16 @@ updated: '2026-04-14T12:36:39.871935Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Illness Or Secondary Thyroid Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">GraveS Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">HashimotoS Thyroiditis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Thyroid Storm</a><br />
+RELATED::<a href="/entities/condition/graves-disease/" class="internal-link">GraveS Disease</a><br />
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a><br />
+RELATED::<a href="/entities/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Thyroid Storm</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Thyroid Storm</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

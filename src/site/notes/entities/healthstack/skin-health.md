@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.371880Z'
+created: '2026-04-17T18:59:19.620487Z'
 description: Support skin integrity, collagen production, and protection against UV
   damage and aging with targeted antioxidants, collagen precursors, and photoprotective
   compounds. Skin is the body's largest organ and a visible indicator of internal
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Skin Health
 type: healthstack
-updated: '2026-04-14T12:36:39.371880Z'
+updated: '2026-04-17T18:59:19.620487Z'
 ---
 
 {% raw %}
@@ -45,7 +45,7 @@ updated: '2026-04-14T12:36:39.371880Z'
 <td>Hydrolyzed collagen stimulates fibroblast collagen and elastin production — improves skin elasticity and hydration</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Vitamin C</a></td>
+<td><a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></td>
 <td>1000mg</td>
 <td>once daily</td>
 <td>with meals</td>
@@ -66,7 +66,7 @@ updated: '2026-04-14T12:36:39.371880Z'
 <td>EPA reduces UV-induced prostaglandin E2 production (photoprotection) and supports skin barrier lipids</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/zinc/" class="internal-link">Zinc</a></td>
+<td><a href="/entities/supplement/zinc/" class="internal-link">Zinc</a></td>
 <td>15mg</td>
 <td>once daily</td>
 <td>with meals</td>
@@ -110,17 +110,17 @@ updated: '2026-04-14T12:36:39.371880Z'
 </ul>
 <h3>Contains Supplement</h3>
 <p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Collagen Peptides (Type I/III)</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Astaxanthin</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/astaxanthin/" class="internal-link">Astaxanthin</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
-CONTAINS_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a></p>
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acne Vulgaris</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/acne-vulgaris/" class="internal-link">Acne Vulgaris</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

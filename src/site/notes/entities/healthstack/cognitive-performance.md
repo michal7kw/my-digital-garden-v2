@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.339923Z'
+created: '2026-04-17T18:59:19.571336Z'
 description: Optimize brain function, memory, and mental clarity. Omega-3 DHA is the
   primary structural fat in neuronal membranes, Lion's Mane stimulates nerve growth
   factor, creatine enhances brain energy metabolism, and B-complex supports methylation
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Performance
 type: healthstack
-updated: '2026-04-14T12:36:39.339923Z'
+updated: '2026-04-17T18:59:19.571336Z'
 ---
 
 {% raw %}
@@ -78,7 +78,7 @@ updated: '2026-04-14T12:36:39.339923Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
+<td><a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
 <td>200-900</td>
 <td>500-900</td>
 <td>pg/mL</td>
@@ -112,10 +112,10 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Creatine
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">B-Complex</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive Dysfunction</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Citicoline</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/citicoline/" class="internal-link">Citicoline</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>

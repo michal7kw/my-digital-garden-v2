@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.543362Z'
+created: '2026-04-17T18:59:19.921692Z'
 description: Adrenal androgen precursor. Marker for adrenal function and biological
   aging.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: dhea_s
 type: labtest
-updated: '2026-04-14T12:36:39.543362Z'
+updated: '2026-04-17T18:59:19.921692Z'
 ---
 
 {% raw %}
@@ -63,7 +63,7 @@ updated: '2026-04-14T12:36:39.543362Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">DHEA</a></p>
+<p>RELATED::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

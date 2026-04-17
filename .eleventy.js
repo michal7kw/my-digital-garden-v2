@@ -677,6 +677,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/site/img');
   eleventyConfig.addPassthroughCopy('src/site/scripts');
   eleventyConfig.addPassthroughCopy('src/site/styles/_theme.*.css');
+  eleventyConfig.addPassthroughCopy('src/site/favicon.svg');
   // Excalidraw SVG assets: serve alongside notes so diagram pages can load them
   eleventyConfig.addPassthroughCopy('src/site/notes/**/*.excalidraw.svg');
   // Favicon plugin disabled temporarily due to Windows file locking issues
@@ -721,16 +722,24 @@ module.exports = function (eleventyConfig) {
   // ==========================================================================
 
   /**
-   * Extract username from file path.
-   * Expected structure: src/site/notes/{username}/{entity_type}/{slug}.md
+   * Extract username and entity type for a note.
+   * Prefers frontmatter values (gardenUsername, type) so curated entities at
+   * notes/entities/{type}/{slug}.md key correctly on the frontmatter username
+   * rather than the literal path segment "entities".
+   * Falls back to path extraction for notes/{username}/{entityType}/{slug}.md.
    */
-  function extractGardenInfo(inputPath) {
-    // Normalize to forward slashes (Eleventy uses / even on Windows)
-    const normalized = inputPath.replace(/\\/g, '/');
+  function extractGardenInfo(inputPath, frontmatter = {}) {
+    if (frontmatter.gardenUsername) {
+      return {
+        gardenUsername: frontmatter.gardenUsername,
+        entityType: frontmatter.type || frontmatter.entityType || 'note',
+      };
+    }
+
+    const normalized = (inputPath || '').replace(/\\/g, '/');
     const pathParts = normalized.split('/');
     const notesIndex = pathParts.findIndex((p) => p === 'notes');
 
-    // Multi-user structure: notes/{username}/{entityType}/{slug}.md (4+ parts after notes/)
     if (notesIndex >= 0 && pathParts.length >= notesIndex + 4) {
       return {
         gardenUsername: pathParts[notesIndex + 1],
@@ -740,7 +749,7 @@ module.exports = function (eleventyConfig) {
 
     return {
       gardenUsername: null,
-      entityType: 'note',
+      entityType: frontmatter.type || frontmatter.entityType || 'note',
     };
   }
 
@@ -750,9 +759,8 @@ module.exports = function (eleventyConfig) {
    */
   eleventyConfig.addCollection('gardenNotes', (collection) => {
     return collection.getFilteredByGlob('src/site/notes/**/*.md').map((note) => {
-      const { gardenUsername, entityType } = extractGardenInfo(note.inputPath);
+      const { gardenUsername, entityType } = extractGardenInfo(note.inputPath, note.data);
 
-      // Add garden-specific data
       note.data.gardenUsername = gardenUsername;
       note.data.entityType = entityType;
 
@@ -769,9 +777,8 @@ module.exports = function (eleventyConfig) {
     const byUser = {};
 
     notes.forEach((note) => {
-      const { gardenUsername, entityType } = extractGardenInfo(note.inputPath);
+      const { gardenUsername, entityType } = extractGardenInfo(note.inputPath, note.data);
 
-      // Skip notes without a username (single-user mode)
       if (!gardenUsername) return;
 
       if (!byUser[gardenUsername]) {
@@ -817,6 +824,154 @@ module.exports = function (eleventyConfig) {
       grouped[type].push(note);
     });
     return grouped;
+  });
+
+  /**
+   * Filter to select notes of a given entity type (e.g. "biomarker").
+   * Safe on non-arrays.
+   */
+  eleventyConfig.addFilter('filterByType', function (notes, type) {
+    if (!Array.isArray(notes) || !type) return [];
+    return notes.filter((n) => (n.data && n.data.entityType) === type);
+  });
+
+  /**
+   * Test if an entity type is privacy-sensitive (per-user data).
+   * Explicit allowlist avoids accidentally filtering out legitimate types
+   * like "users_guide" that happen to start with "user".
+   */
+  const PERSONAL_TYPES = new Set([
+    'userannotation',
+    'userbiomarkertarget',
+    'usersupplementlog',
+    'users',
+  ]);
+  function isPersonalType(t) {
+    return typeof t === 'string' && PERSONAL_TYPES.has(t.toLowerCase());
+  }
+
+  /**
+   * Filter to count notes by entityType, returning an object.
+   * Skips privacy-sensitive types (user*).
+   */
+  eleventyConfig.addFilter('countByType', function (notes) {
+    const counts = {};
+    if (!Array.isArray(notes)) return counts;
+    notes.forEach((n) => {
+      const t = (n.data && n.data.entityType) || 'note';
+      if (isPersonalType(t)) return;
+      counts[t] = (counts[t] || 0) + 1;
+    });
+    return counts;
+  });
+
+  /**
+   * Filter to sort notes by frontmatter `updated` descending.
+   * Returns a new array; missing `updated` sinks to the bottom.
+   */
+  eleventyConfig.addFilter('sortByUpdated', function (notes) {
+    if (!Array.isArray(notes)) return [];
+    const toTime = (v) => {
+      if (!v) return 0;
+      const t = new Date(v).getTime();
+      return isNaN(t) ? 0 : t;
+    };
+    return [...notes].sort(
+      (a, b) => toTime(b.data && b.data.updated) - toTime(a.data && a.data.updated)
+    );
+  });
+
+  /**
+   * JS-like Array.slice(0, n). Nunjucks' built-in `slice` divides an array into
+   * N sub-arrays, so we need our own filter for "take the first N items".
+   */
+  eleventyConfig.addFilter('limit', function (arr, n) {
+    if (!Array.isArray(arr)) return [];
+    return arr.slice(0, n);
+  });
+
+  /**
+   * Estimate reading time in minutes for an HTML/text string.
+   * Uses 220 words per minute. Strips HTML tags first.
+   * Returns an integer ≥ 1.
+   */
+  eleventyConfig.addFilter('readingTime', function (content) {
+    if (!content || typeof content !== 'string') return 1;
+    const text = content.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    const words = text ? text.split(' ').length : 0;
+    return Math.max(1, Math.round(words / 220));
+  });
+
+  /**
+   * Count tag occurrences across an array of notes, returning
+   * [ [tag, count], ... ] sorted descending by count.
+   * Used for tag filter chips and topic discovery.
+   */
+  eleventyConfig.addFilter('topTags', function (notes, max) {
+    if (!Array.isArray(notes)) return [];
+    const counts = new Map();
+    notes.forEach((n) => {
+      const tags = (n.data && n.data.tags) || [];
+      tags.forEach((t) => {
+        if (t === 'gardenEntry' || t === 'note') return;
+        if (typeof t !== 'string') return;
+        counts.set(t, (counts.get(t) || 0) + 1);
+      });
+    });
+    const entries = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    return typeof max === 'number' ? entries.slice(0, max) : entries;
+  });
+
+  /**
+   * Return notes sorted by descending tag count (a proxy for "most connected")
+   * when no real graph degrees are available. Ties broken by title alphabetically.
+   */
+  eleventyConfig.addFilter('sortByTagCount', function (notes) {
+    if (!Array.isArray(notes)) return [];
+    const degree = (n) => ((n.data && n.data.tags && n.data.tags.length) || 0);
+    return [...notes].sort((a, b) => {
+      const diff = degree(b) - degree(a);
+      if (diff !== 0) return diff;
+      const at = (a.data && a.data.title) || a.fileSlug || '';
+      const bt = (b.data && b.data.title) || b.fileSlug || '';
+      return String(at).localeCompare(String(bt));
+    });
+  });
+
+  /**
+   * Return notes that share at least one tag with the given seed note.
+   * Excludes the seed itself. Useful for "related entities" widgets.
+   */
+  eleventyConfig.addFilter('relatedByTags', function (notes, seedTags, max) {
+    if (!Array.isArray(notes) || !Array.isArray(seedTags) || seedTags.length === 0) return [];
+    const seedSet = new Set(seedTags.filter((t) => t !== 'gardenEntry' && t !== 'note'));
+    const scored = notes
+      .map((n) => {
+        const t = (n.data && n.data.tags) || [];
+        const overlap = t.reduce((acc, tag) => acc + (seedSet.has(tag) ? 1 : 0), 0);
+        return { n, overlap };
+      })
+      .filter((x) => x.overlap > 0)
+      .sort((a, b) => b.overlap - a.overlap)
+      .map((x) => x.n);
+    return typeof max === 'number' ? scored.slice(0, max) : scored;
+  });
+
+  /**
+   * Human word count for a string. Strips HTML tags.
+   */
+  eleventyConfig.addFilter('wordCount', function (content) {
+    if (!content || typeof content !== 'string') return 0;
+    const text = content.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    return text ? text.split(' ').length : 0;
+  });
+
+  /**
+   * Filter to drop privacy-sensitive entity types (user*) from a notes array.
+   */
+  eleventyConfig.addFilter('excludePersonal', function (notes) {
+    if (!Array.isArray(notes)) return [];
+    return notes.filter((n) => !isPersonalType(n.data && n.data.entityType));
   });
 
   /**

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.141444Z'
+created: '2026-04-17T18:59:20.981698Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: metal ion binding
 type: protein
-updated: '2026-04-14T12:36:40.141444Z'
+updated: '2026-04-17T18:59:20.981698Z'
 ---
 
 {% raw %}
@@ -37,8 +37,8 @@ RELATED::<a class="internal-link is-unresolved" href="/404">cation binding</a><b
 RELATED::<a class="internal-link is-unresolved" href="/404">magnesium ion binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">calcium ion binding</a></p>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/iron/" class="internal-link">Iron</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/iron/" class="internal-link">Iron</a></p>
 
 {% endraw %}

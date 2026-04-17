@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.131596Z'
+created: '2026-04-17T18:59:20.879634Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-04-14T12:36:40.131596Z'
+updated: '2026-04-17T18:59:20.879634Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">nuclear 
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA-binding transcription activator activity RNA polymerase II-specific</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA-binding transcription factor activity</a></p>
 <h3>Enriched</h3>
-<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">CREB</a></p>
+<p>LOCATED_IN::<a href="/entities/cellularcomponent/nucleus/" class="internal-link">Nucleus</a><br />
+ASSOCIATED_WITH::<a href="/entities/protein/creb/" class="internal-link">CREB</a></p>
 
 {% endraw %}

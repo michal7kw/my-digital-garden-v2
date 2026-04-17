@@ -194,6 +194,21 @@ permalink: /garden/{{ garden.username }}/
       </header>
 
       {% if garden.notes.length > 0 %}
+        {% import "components/dashboardMacros.njk" as dm %}
+        {% set gardenCounts = garden.notes | countByType %}
+        <section class="health-summary" aria-label="Health summary">
+          <h2>Health Summary</h2>
+          <div class="summary-grid">
+            {{ dm.summaryCard("biomarkers", gardenCounts.biomarker) }}
+            {{ dm.summaryCard("supplements", gardenCounts.supplement) }}
+            {{ dm.summaryCard("conditions", gardenCounts.condition) }}
+            {{ dm.summaryCard("interventions", gardenCounts.intervention) }}
+          </div>
+          <a class="dashboard-link" href="/garden/{{ garden.username }}/dashboard/">
+            View full health dashboard &rarr;
+          </a>
+        </section>
+
         {% set groupedNotes = garden.notes | groupByType %}
 
         {% for type, notes in groupedNotes %}
@@ -210,7 +225,7 @@ permalink: /garden/{{ garden.username }}/
                   {% endif %}
                   {% if note.data.tags and note.data.tags.length > 0 %}
                     <div class="card-tags">
-                      {% for tag in note.data.tags | slice(0, 3) %}
+                      {% for tag in note.data.tags | limit(3) %}
                         {% if tag != 'gardenEntry' and tag != 'note' %}
                           <span class="tag">#{{ tag }}</span>
                         {% endif %}

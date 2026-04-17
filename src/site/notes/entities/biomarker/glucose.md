@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.177920Z'
+created: '2026-04-17T18:59:17.674449Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose
 type: biomarker
-updated: '2026-04-14T12:36:39.177920Z'
+updated: '2026-04-17T18:59:17.674449Z'
 ---
 
 {% raw %}
@@ -28,10 +28,12 @@ updated: '2026-04-14T12:36:39.177920Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatic_Dysfunction</a><br />
 RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia__Hypoglycemia</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h2>References</h2>
 
 {% endraw %}

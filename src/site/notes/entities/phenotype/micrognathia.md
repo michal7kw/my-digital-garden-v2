@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.086496Z'
+created: '2026-04-17T18:59:20.758301Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Micrognathia
 type: phenotype
-updated: '2026-04-14T12:36:40.086496Z'
+updated: '2026-04-17T18:59:20.758301Z'
 ---
 
 {% raw %}
@@ -69,6 +69,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Baraitser-Winter cer
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">AplasiaHypoplasia of the mandible</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Short mandibular rami</a></p>
 <h3>Enriched</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bones</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>
 
 {% endraw %}

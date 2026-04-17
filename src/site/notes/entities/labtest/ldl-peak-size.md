@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.651749Z'
+created: '2026-04-17T18:59:20.046076Z'
 description: LDL peak size shows the most common size of LDL particles in the blood.
   Standard cholesterol tests measure LDL by weight, but particle size matters too
   — smaller, denser LDL particles are more likely to enter artery walls and contribute
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_peak_size
 type: labtest
-updated: '2026-04-14T12:36:39.651749Z'
+updated: '2026-04-17T18:59:20.046076Z'
 ---
 
 {% raw %}
@@ -63,16 +63,16 @@ updated: '2026-04-14T12:36:39.651749Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

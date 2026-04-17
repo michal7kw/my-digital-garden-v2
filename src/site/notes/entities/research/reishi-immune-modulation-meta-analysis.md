@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.143342Z'
+created: '2026-04-17T18:59:21.008242Z'
 description: Meta-analysis and systematic review of randomized controlled trials examining
   the immunomodulatory effects of Ganoderma lucidum (Reishi) supplementation, focusing
   on NK cell activity, cytokine profiles, and immune cell counts.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Reishi Immune Modulation Meta-Analysis
 type: research
-updated: '2026-04-14T12:36:40.143342Z'
+updated: '2026-04-17T18:59:21.008242Z'
 ---
 
 {% raw %}
@@ -57,8 +57,8 @@ RELATED_TO::<a href="/entities/metabolite/beta-glucans/" class="internal-link">B
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Related Conditions</h3>
-<p>RELATED_TO::<a class="internal-link is-unresolved" href="/404">Immune System Disorder</a><br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">Cancer</a><br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">Inflammation</a></p>
+<p>RELATED_TO::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+RELATED_TO::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+RELATED_TO::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.023943Z'
+created: '2026-04-17T18:59:20.612405Z'
 description: The GLP-1 receptor signaling cascade activated by GLP-1 hormone and GLP-1
   receptor agonists. Involves Gs-cAMP-PKA signaling, Epac pathway, PI3K-Akt, and MAPK/ERK
   activation, leading to enhanced insulin secretion, beta-cell preservation, cardioprotection,
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1 Signaling Pathway
 type: pathway
-updated: '2026-04-14T12:36:40.023943Z'
+updated: '2026-04-17T18:59:20.612405Z'
 ---
 
 {% raw %}
@@ -198,17 +198,17 @@ updated: '2026-04-14T12:36:40.023943Z'
 </ul>
 <h3>Affects Organ</h3>
 <ul>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a> (beta-cell function and preservation, Evidence Level 1a)</li>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a> (cardioprotective signaling, Evidence Level 1a)</li>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestines</a> (delays gastric emptying, Evidence Level 1a)</li>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (appetite regulation, Evidence Level 1b)</li>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidneys</a> (renal protective effects, Evidence Level 2b)</li>
+<li>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell function and preservation, Evidence Level 1a)</li>
+<li>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective signaling, Evidence Level 1a)</li>
+<li>AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)</li>
+<li>AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (appetite regulation, Evidence Level 1b)</li>
+<li>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective effects, Evidence Level 2b)</li>
 </ul>
 <h3>Related</h3>
 <ul>
-<li>RELATED::<a class="internal-link is-unresolved" href="/404">Insulin Signaling</a> (crosstalk via IRS-2/PI3K, Evidence Level 1a)</li>
+<li>RELATED::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (crosstalk via IRS-2/PI3K, Evidence Level 1a)</li>
 <li>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammatory Response</a> (anti-inflammatory via NF-κB inhibition, Evidence Level 2a)</li>
-<li>RELATED::<a class="internal-link is-unresolved" href="/404">AMPK Pathway</a> (potential crosstalk, Evidence Level 3)</li>
+<li>RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> (potential crosstalk, Evidence Level 3)</li>
 </ul>
 <h2>References</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.587494Z'
+created: '2026-04-17T18:59:19.976856Z'
 description: Tested twice a year Think of the H in HDL as healthy, helpful, heart-supporting
   cholesterol. HDL's primary job is to remove excess cholesterol from the blood and
   transport it to the liver to be eliminated, reducing the risk of cardiovascular
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: hdl_cholesterol
 type: labtest
-updated: '2026-04-14T12:36:39.587494Z'
+updated: '2026-04-17T18:59:19.976856Z'
 ---
 
 {% raw %}
@@ -71,20 +71,20 @@ updated: '2026-04-14T12:36:39.587494Z'
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+<p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hdl</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
+RELATED::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
+RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

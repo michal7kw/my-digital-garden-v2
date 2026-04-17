@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.428201Z'
+created: '2026-04-17T18:59:19.798553Z'
 description: Tested twice a year Albumin is the most abundant protein in the blood
   and plays a vital role in maintaining fluid balance and transporting nutrients.
   Healthy albumin levels are a good indicator of liver function and overall health.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: albumin
 type: labtest
-updated: '2026-04-14T12:36:39.428201Z'
+updated: '2026-04-17T18:59:19.798553Z'
 ---
 
 {% raw %}
@@ -67,19 +67,19 @@ updated: '2026-04-14T12:36:39.428201Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Nephrotic Syndrome</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+MAY_DETECT::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Liver Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
 RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Nephrotic Syndrome</a><br />
+RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
 RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver function panel</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
+RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Nephrotic Syndrome</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart Failure</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

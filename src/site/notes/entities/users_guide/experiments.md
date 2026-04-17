@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.227460Z'
+created: '2026-04-17T18:59:21.406307Z'
 description: Designing and running N-of-1 self-experiments with phases, biomarker
   tracking, and statistical analysis
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Experiments
 type: users_guide
-updated: '2026-04-14T12:36:40.227460Z'
+updated: '2026-04-17T18:59:21.406307Z'
 ---
 
 {% raw %}

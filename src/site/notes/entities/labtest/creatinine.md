@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.529836Z'
+created: '2026-04-17T18:59:19.907122Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-04-14T12:36:39.529836Z'
+updated: '2026-04-17T18:59:19.907122Z'
 ---
 
 {% raw %}
@@ -71,16 +71,16 @@ updated: '2026-04-14T12:36:39.529836Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Urinary Tract Obstruction</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscle Loss</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Obstruction</a><br />
+RELATED::<a href="/entities/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a><br />
 RELATED::<a href="/entities/labtest/kidney-function-panel/" class="internal-link">kidney function panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Urinary Tract Obstruction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

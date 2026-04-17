@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.184627Z'
+created: '2026-04-17T18:59:17.680903Z'
 description: An advanced epigenetic clock that uses DNA methylation patterns to predict
   mortality and biological age.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: GrimAge
 type: biomarker
-updated: '2026-04-14T12:36:39.184627Z'
+updated: '2026-04-17T18:59:17.680903Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ RELATED::<a href="/entities/healthstack/longevity/" class="internal-link">Longev
 <li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement)</li>
 <li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>

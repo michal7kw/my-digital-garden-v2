@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.779800Z'
+created: '2026-04-17T18:59:20.167278Z'
 description: Osteocalcin test. Bone-specific protein produced by osteoblasts during
   bone formation. Serves as a marker of bone turnover and osteoblast activity. Used
   in monitoring osteoporosis treatment and assessing bone metabolic disorders.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: osteocalcin
 type: labtest
-updated: '2026-04-14T12:36:39.779800Z'
+updated: '2026-04-17T18:59:20.167278Z'
 ---
 
 {% raw %}
@@ -74,9 +74,9 @@ updated: '2026-04-14T12:36:39.779800Z'
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/bone-health-panel/" class="internal-link">bone health panel</a></p>
 <h3>Enriched</h3>
-<p>INDICATES::<a class="internal-link is-unresolved" href="/404">Bone Fractures</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bones</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
+<p>INDICATES::<a href="/entities/condition/bone-fractures/" class="internal-link">Bone Fractures</a><br />
+ASSOCIATED_WITH::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

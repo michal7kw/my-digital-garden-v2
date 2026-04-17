@@ -25,15 +25,39 @@
     {% endif %}
 
     <main class="content cm-s-obsidian {{contentClasses}}">
+      {# ── Breadcrumb trail: Home › Type › Title ── #}
+      {% set breadcrumbType = type or entityType %}
+      {% set breadcrumbUser = gardenUsername %}
+      {% if breadcrumbType and breadcrumbType != 'note' %}
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span class="breadcrumb-sep">›</span>
+          {% if breadcrumbUser %}
+            <a href="/garden/{{ breadcrumbUser }}/">{{ breadcrumbUser }}</a>
+            <span class="breadcrumb-sep">›</span>
+          {% endif %}
+          <a href="{% if breadcrumbUser %}/garden/{{ breadcrumbUser }}/#{{ breadcrumbType }}{% else %}/entities/{{ breadcrumbType }}/{% endif %}">{{ breadcrumbType | replace("_", " ") }}</a>
+          <span class="breadcrumb-sep">›</span>
+          <span class="breadcrumb-current">{{ title or page.fileSlug }}</span>
+        </nav>
+      {% endif %}
+
       <header>
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
         {# Entity type badge - display if entity type is set #}
-        {% set entityType = page.data['dg-entity-type'] or page.data.type %}
+        {% set entityType = type or entityType or page.data['dg-entity-type'] %}
         {% if entityType %}
           <div class="entity-header-badge">
             {% include "components/entityBadge.njk" %}
+          </div>
+        {% endif %}
+        {# Reading time — use templateContent (pre-render) since `content` isn't set in headers #}
+        {% if type or entityType %}
+          {% set __src = templateContent or content or description or "" %}
+          <div class="reading-time" aria-label="Estimated reading time">
+            <i icon-name="clock"></i> {{ __src | readingTime }} min read
           </div>
         {% endif %}
         <div class="header-meta">

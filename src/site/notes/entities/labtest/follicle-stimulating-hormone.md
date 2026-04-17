@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.568764Z'
+created: '2026-04-17T18:59:19.955698Z'
 description: Follicle-stimulating hormone (FSH) is made by the pituitary gland in
   the brain. In females, it regulates the menstrual cycle and stimulates the ovaries
   to grow and mature eggs for ovulation. Measuring FSH can provide insight into fertility,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: follicle_stimulating_hormone
 type: labtest
-updated: '2026-04-14T12:36:39.568764Z'
+updated: '2026-04-17T18:59:19.955698Z'
 ---
 
 {% raw %}
@@ -66,20 +66,20 @@ updated: '2026-04-14T12:36:39.568764Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
 RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
+RELATED::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome Pcos</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ovarian Dysfunction</a><br />
+RELATED::<a href="/entities/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause Or Menopause</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Ovarian Dysfunction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Ovarian Dysfunction</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a><br />
+MAY_DETECT::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

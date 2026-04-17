@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.362159Z'
+created: '2026-04-17T18:59:19.606013Z'
 description: Target the hallmarks of aging with cutting-edge and foundational supplements.
   Omega-3 and vitamin D form the anti-inflammatory base, CoQ10 supports mitochondrial
   function, curcumin inhibits chronic inflammation, NMN boosts NAD+ for cellular repair,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Longevity
 type: healthstack
-updated: '2026-04-14T12:36:39.362159Z'
+updated: '2026-04-17T18:59:19.606013Z'
 ---
 
 {% raw %}
@@ -72,7 +72,7 @@ updated: '2026-04-14T12:36:39.362159Z'
 <td>NAD+ precursor — supports DNA repair and cellular energy</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Resveratrol</a></td>
+<td><a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></td>
 <td>500mg</td>
 <td>once daily</td>
 <td>morning</td>
@@ -134,14 +134,14 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin 
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">CoQ10 (Ubiquinol)</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin (with Piperine)</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">NMN (Nicotinamide Mononucleotide)</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Resveratrol</a></p>
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">NAD+</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Resveratrol</a><br />
-AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">8-OHdG</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/biomarker/nad/" class="internal-link">NAD+</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/8-ohdg/" class="internal-link">8-OHdG</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Advanced | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

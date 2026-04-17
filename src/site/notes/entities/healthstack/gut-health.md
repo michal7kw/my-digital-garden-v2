@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.346315Z'
+created: '2026-04-17T18:59:19.579074Z'
 description: Optimize the gut microbiome and intestinal barrier integrity with targeted
   probiotics, prebiotics, and gut-healing compounds. A healthy gut is foundational
   to immune function, mental health (gut-brain axis), nutrient absorption, and systemic
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Gut Health
 type: healthstack
-updated: '2026-04-14T12:36:39.346315Z'
+updated: '2026-04-17T18:59:19.579074Z'
 ---
 
 {% raw %}
@@ -116,11 +116,11 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Zinc Car
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Irritable Bowel Syndrome</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Probiotics</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
-AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Calprotectin</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gut</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable Bowel Syndrome</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
 

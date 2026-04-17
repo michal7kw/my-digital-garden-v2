@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.252499Z'
+created: '2026-04-17T18:59:17.979079Z'
 description: Zonulin is a protein that reversibly modulates intestinal tight junction
   permeability. Elevated serum zonulin indicates increased intestinal permeability
   and is associated with autoimmune and inflammatory conditions.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Zonulin
 type: biomarker
-updated: '2026-04-14T12:36:39.252499Z'
+updated: '2026-04-17T18:59:17.979079Z'
 ---
 
 {% raw %}
@@ -20,14 +20,16 @@ updated: '2026-04-14T12:36:39.252499Z'
 <h2>Overview</h2>
 <p>Zonulin is a protein that reversibly modulates intestinal tight junction permeability. Elevated serum zonulin indicates increased intestinal permeability and is associated with autoimmune and inflammatory conditions.</p>
 <h2>Relationships</h2>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Calprotectin</a></p>
+CORRELATED_WITH::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h3>Related Tests</h3>
 <p>RELATED_TESTS::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal_calprotectin</a><br />
-RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">food_sensitivity_igg</a><br />
-RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">gi_map</a></p>
+RELATED_TESTS::<a href="/entities/labtest/food-sensitivity-igg/" class="internal-link">food_sensitivity_igg</a><br />
+RELATED_TESTS::<a href="/entities/labtest/gi-map/" class="internal-link">gi_map</a></p>
 
 {% endraw %}

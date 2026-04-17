@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.259855Z'
+created: '2026-04-17T18:59:21.454097Z'
 description: Common issues with connections, sync, plugin, and the web dashboard —
   plus FAQ
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Troubleshooting
 type: users_guide
-updated: '2026-04-14T12:36:40.259855Z'
+updated: '2026-04-17T18:59:21.454097Z'
 ---
 
 {% raw %}

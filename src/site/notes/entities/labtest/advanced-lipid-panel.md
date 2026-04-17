@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.415231Z'
+created: '2026-04-17T18:59:19.789591Z'
 description: NMR spectroscopy-based panel providing LDL particle number, size, HDL
   particles, and lipoprotein(a). Superior cardiovascular risk stratification.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: advanced_lipid_panel
 type: labtest
-updated: '2026-04-14T12:36:39.415231Z'
+updated: '2026-04-17T18:59:19.789591Z'
 ---
 
 {% raw %}
@@ -80,8 +80,8 @@ RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">Trigly
 RELATED::<a class="internal-link is-unresolved" href="/404">apoB</a><br />
 RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 RELATED::<a href="/entities/biomarker/ldl-size/" class="internal-link">ldl size</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hdl</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ldl</a><br />
+RELATED::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
+RELATED::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 RELATED::<a href="/entities/biomarker/ldl-p/" class="internal-link">ldl p</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">lp a</a></p>
 <h2>Notes</h2>

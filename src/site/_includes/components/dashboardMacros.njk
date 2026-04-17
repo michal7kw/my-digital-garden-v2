@@ -1,0 +1,43 @@
+{#
+  Reusable macros for the health dashboard and garden-index Health Summary panel.
+  Import with:  {% import "components/dashboardMacros.njk" as dm %}
+#}
+
+{% macro statCard(label, value, sub, href) -%}
+<a class="stat-card" href="{{ href }}">
+  <div class="stat-label">{{ label }}</div>
+  <div class="stat-value">{{ value or 0 }}</div>
+  {% if sub %}<div class="stat-sub">{{ sub }}</div>{% endif %}
+</a>
+{%- endmacro %}
+
+{% macro summaryCard(label, value) -%}
+<div class="summary-card">
+  <div class="summary-value">{{ value or 0 }}</div>
+  <div class="summary-label">{{ label }}</div>
+</div>
+{%- endmacro %}
+
+{% macro entryCard(permalink, title, description, tags) -%}
+<a class="entry-card" href="{{ permalink }}">
+  <h3>{{ title }}</h3>
+  {% if description %}<p>{{ description | truncate(140) }}</p>{% endif %}
+  {% if tags and tags.length > 0 %}
+    <div class="entry-tags">
+      {% for tag in tags | limit(3) %}
+        {% if tag != "gardenEntry" and tag != "note" %}
+          <span class="entry-tag">#{{ tag }}</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</a>
+{%- endmacro %}
+
+{#
+  Helper: build a /garden/{user}/{type}/{slug}/ permalink with a frontmatter override.
+  Use: {{ dm.entryPermalink(note, garden.username, "biomarker") }}
+#}
+{% macro entryPermalink(note, username, type) -%}
+{%- if note.data.permalink -%}{{ note.data.permalink }}{%- else -%}/garden/{{ username }}/{{ type }}/{{ note.data.slug or note.fileSlug }}/{%- endif -%}
+{%- endmacro %}

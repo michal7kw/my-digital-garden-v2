@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.926207Z'
+created: '2026-04-17T18:59:20.328178Z'
 description: Zinc is an essential mineral that plays a key role in immune strength,
   wound healing, metabolism, and hormone balance. Testing zinc levels shows whether
   the body has enough to support these functions. Low levels can be linked to issues
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: zinc
 type: labtest
-updated: '2026-04-14T12:36:39.926207Z'
+updated: '2026-04-17T18:59:20.328178Z'
 ---
 
 {% raw %}
@@ -65,19 +65,19 @@ updated: '2026-04-14T12:36:39.926207Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Poor Nutrient Absorption</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Copper Imbalance</a><br />
+RELATED::<a href="/entities/condition/copper-imbalance/" class="internal-link">Copper Imbalance</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Zinc Deficiency</a><br />
+RELATED::<a href="/entities/condition/zinc-deficiency/" class="internal-link">Zinc Deficiency</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
 RELATED::<a href="/entities/labtest/zinc-serum/" class="internal-link">zinc serum</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Copper Imbalance</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Zinc Deficiency</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/copper-imbalance/" class="internal-link">Copper Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/zinc-deficiency/" class="internal-link">Zinc Deficiency</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Copper Imbalance</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Zinc Deficiency</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/copper-imbalance/" class="internal-link">Copper Imbalance</a><br />
+MAY_DETECT::<a href="/entities/condition/zinc-deficiency/" class="internal-link">Zinc Deficiency</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a></p>

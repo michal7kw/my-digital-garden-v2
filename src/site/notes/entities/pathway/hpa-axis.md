@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.038173Z'
+created: '2026-04-17T18:59:20.634243Z'
 description: The hypothalamic-pituitary-adrenal axis is the central stress response
   system. The hypothalamus releases CRH, which stimulates the anterior pituitary to
   secrete ACTH, which in turn triggers cortisol release from the adrenal cortex. Chronic
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: HPA Axis
 type: pathway
-updated: '2026-04-14T12:36:40.038173Z'
+updated: '2026-04-17T18:59:20.634243Z'
 ---
 
 {% raw %}
@@ -41,14 +41,14 @@ updated: '2026-04-14T12:36:40.038173Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Phosphatidylserine</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Rhodiola_Rosea</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">magnesium</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/reishi/" class="internal-link">Reishi</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Circadian_Rhythm_Pathway</a></p>
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/entities/pathway/circadian-rhythm-pathway/" class="internal-link">Circadian_Rhythm_Pathway</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">DHEA-S</a><br />

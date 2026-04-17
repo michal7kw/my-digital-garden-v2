@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.383985Z'
+created: '2026-04-17T18:59:19.631428Z'
 description: Support healthy metabolism and weight management. Green tea EGCG enhances
   thermogenesis and fat oxidation, chromium improves insulin sensitivity, omega-3
   reduces metabolic inflammation, and psyllium fiber promotes satiety and healthy
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Management
 type: healthstack
-updated: '2026-04-14T12:36:39.383985Z'
+updated: '2026-04-17T18:59:19.631428Z'
 ---
 
 {% raw %}
@@ -119,11 +119,11 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Psyllium Husk</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Diabetes</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Berberine</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Chromium</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/glucose/" class="internal-link">Glucose</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/chromium/" class="internal-link">Chromium</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>

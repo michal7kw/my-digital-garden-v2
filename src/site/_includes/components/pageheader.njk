@@ -1,4 +1,24 @@
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  // Apply persisted theme preference before first paint to avoid FOUC.
+  (function () {
+    try {
+      var pref = localStorage.getItem('mkg-theme');
+      if (pref === 'light' || pref === 'dark') {
+        document.documentElement.setAttribute('data-theme', pref);
+        // Body class toggle runs after body exists; use an observer to catch early insertion.
+        var apply = function () {
+          if (!document.body) return;
+          document.body.classList.remove('theme-dark', 'theme-light');
+          document.body.classList.add('theme-' + pref);
+        };
+        if (document.body) apply();
+        else document.addEventListener('DOMContentLoaded', apply);
+      }
+    } catch (e) { /* localStorage unavailable */ }
+  })();
+</script>
 <script async type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 </script>
@@ -37,6 +57,9 @@
         <meta name="{{ name }}" content="{{ content }}">
     {% endfor %}
 {% endif %}
+
+{# RSS discovery — lets browsers & feed readers find the Atom feed. #}
+<link rel="alternate" type="application/atom+xml" title="{{ meta.siteName or 'Digital Garden' }}" href="/feed.xml">
 
 {% if meta.styleSettingsCss %}
     <style>

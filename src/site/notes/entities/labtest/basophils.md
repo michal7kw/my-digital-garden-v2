@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.480280Z'
+created: '2026-04-17T18:59:19.852757Z'
 description: Tested twice a year Basophils account for around <1% of white blood cells
   that help defend the body, which support immune responses against parasites and
   shape allergic reactions. When their activity is increased, basophils can be associated
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: basophils
 type: labtest
-updated: '2026-04-14T12:36:39.480280Z'
+updated: '2026-04-17T18:59:19.852757Z'
 ---
 
 {% raw %}
@@ -67,18 +67,18 @@ updated: '2026-04-14T12:36:39.480280Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Allergic Reactions EG Asthma Eczema Hay Fever</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
 RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

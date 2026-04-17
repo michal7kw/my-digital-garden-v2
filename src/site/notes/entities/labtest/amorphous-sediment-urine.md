@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.441987Z'
+created: '2026-04-17T18:59:19.813231Z'
 description: Tested twice a year Amorphous sediment in urine refers to tiny crystals
   or particles—such as urates or phosphates—which can appear when urine becomes more
   concentrated or changes in pH occur. Testing for these sediments can help assess
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: amorphous_sediment_urine
 type: labtest
-updated: '2026-04-14T12:36:39.441987Z'
+updated: '2026-04-17T18:59:19.813231Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-04-14T12:36:39.441987Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Kidneys</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

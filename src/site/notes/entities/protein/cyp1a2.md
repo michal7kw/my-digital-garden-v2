@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.120141Z'
+created: '2026-04-17T18:59:20.853809Z'
 description: Cytochrome P450 1A2, a major drug-metabolizing enzyme responsible for
   the metabolism of caffeine, theophylline, clozapine, and olanzapine. Uniquely inducible
   by smoking and dietary components (cruciferous vegetables, chargrilled meat) and
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CYP1A2
 type: protein
-updated: '2026-04-14T12:36:40.120141Z'
+updated: '2026-04-17T18:59:20.853809Z'
 ---
 
 {% raw %}
@@ -39,33 +39,33 @@ updated: '2026-04-14T12:36:40.120141Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omeprazole</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Clozapine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Caffeine</a></p>
+<p>RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+RELATED::<a href="/entities/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
+RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/entities/drug/caffeine/" class="internal-link">Caffeine</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a></p>
 <h3>Inhibited By</h3>
-<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a></p>
+<p>INHIBITED_BY::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvoxamine</a></p>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Melatonin Supplement</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sulforaphane</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>Zhou SF et al. Polymorphism of human cytochrome P450 enzymes and its clinical impact. Drug Metab Rev. 2009;41(2):89-295. PMID:19514967</li>
 <li>Faber MS et al. Assessment of CYP1A2 activity in clinical practice. Clin Pharmacokinet. 2005;44(12):1247-1266. PMID:16372823</li>
 </ul>
 <h3>Merged From gene</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Melatonin Supplement</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
-MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sulforaphane</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></p>
 
 {% endraw %}

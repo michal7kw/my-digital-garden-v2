@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.775189Z'
+created: '2026-04-17T18:59:20.161133Z'
 description: Omega-6 Total measures the key omega-6 fatty acids that make up a large
   portion of the body’s essential fat stores. While omega-6s are important building
   blocks for cells and play a role in growth, energy, and normal immune function,
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: omega_6_total
 type: labtest
-updated: '2026-04-14T12:36:39.775189Z'
+updated: '2026-04-17T18:59:20.161133Z'
 ---
 
 {% raw %}
@@ -62,10 +62,10 @@ updated: '2026-04-14T12:36:39.775189Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Omega-6 Imbalance</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease Risk</a></p>
@@ -73,7 +73,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disea
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

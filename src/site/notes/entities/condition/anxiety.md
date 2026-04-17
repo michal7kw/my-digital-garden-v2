@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.256277Z'
+created: '2026-04-17T18:59:18.228516Z'
 description: A group of mental health disorders characterized by excessive fear, worry,
   and physiological arousal. Includes generalized anxiety disorder (GAD), social anxiety,
   panic disorder, and specific phobias. The most common mental health condition worldwide
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anxiety
 type: condition
-updated: '2026-04-14T12:36:39.256277Z'
+updated: '2026-04-17T18:59:18.228516Z'
 ---
 
 {% raw %}
@@ -71,33 +71,33 @@ ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><b
 ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">5-HT1A Receptor</a></p>
+ASSOCIATED_WITH::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
+ASSOCIATED_WITH::<a href="/entities/protein/5-ht1a-receptor/" class="internal-link">5-HT1A Receptor</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
-IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">L-Theanine</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Treated By Drug</h3>
 <p>TREATED_BY_DRUG::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
 TREATED_BY_DRUG::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Gabapentin</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Escitalopram</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Paroxetine</a></p>
+TREATED_BY_DRUG::<a href="/entities/drug/gabapentin/" class="internal-link">Gabapentin</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/escitalopram/" class="internal-link">Escitalopram</a><br />
+TREATED_BY_DRUG::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a></p>
 <h3>Affected By Intervention</h3>
-<p>AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Meditation</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Mindfulness Meditation</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Exercise</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Yoga</a><br />
-AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Breathwork</a></p>
+<p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/mindfulness-meditation/" class="internal-link">Mindfulness Meditation</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />
+AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Panic Disorder</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Social Anxiety Disorder</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">OCD</a></p>
+RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+RELATED::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+RELATED::<a href="/entities/condition/panic-disorder/" class="internal-link">Panic Disorder</a><br />
+RELATED::<a href="/entities/condition/social-anxiety-disorder/" class="internal-link">Social Anxiety Disorder</a><br />
+RELATED::<a href="/entities/condition/ocd/" class="internal-link">OCD</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:28784456</li>
@@ -108,34 +108,34 @@ RELATED::<a class="internal-link is-unresolved" href="/404">OCD</a></p>
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">progressive supranuclear palsy-parkinsonism syndrome</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">22q112 deletion syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">5-HTP</a><br />
+RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal fearanxiety-related behavior</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Apigenin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Hepatitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bacopa Monnieri</a><br />
+RELATED::<a href="/entities/supplement/apigenin/" class="internal-link">Apigenin</a><br />
+RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/entities/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a><br />
+RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CLCN4-related X-linked intellectual disability syndrome</a><br />
 RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">DYRK1A-related intellectual disability syndrome due to 21q2213q222 microdeletion</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">DYRK1A-related intellectual disability syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Doxepin</a><br />
+RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Episodic paroxysmal anxiety</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Feingold syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hartnup disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">L-Theanine</a><br />
+RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">MELAS syndrome</a><br />
-RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Norrie disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Potocki-Lupski syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Probiotics</a><br />
+RELATED::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tay-Sachs disease AB variant</a><br />
 RELATED::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
-RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">WAC-related facial dysmorphism-developmental delay-behavioral abnormalities syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Williams syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">absence epilepsy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autoimmune hepatitis</a><br />
+RELATED::<a href="/entities/condition/autoimmune-hepatitis/" class="internal-link">autoimmune hepatitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">autoimmune hypoparathyroidism disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">autosomal dominant hypocalcemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">chromosome 16p112 duplication syndrome</a><br />

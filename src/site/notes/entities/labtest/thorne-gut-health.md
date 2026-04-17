@@ -1,0 +1,71 @@
+---
+created: '2026-04-17T18:59:20.247895Z'
+description: At-home gut microbiome test analyzing bacterial diversity and digestive
+  function markers.
+dg-home: false
+dg-publish: true
+permalink: /entities/labtest/thorne-gut-health/
+slug: thorne-gut-health
+tags:
+- labtest
+templateEngineOverride: njk
+title: thorne_gut_health
+type: labtest
+updated: '2026-04-17T18:59:20.247895Z'
+---
+
+{% raw %}
+<h1>Thorne Gut Health Test</h1>
+<h2>Overview</h2>
+<p>At-home gut microbiome test analyzing bacterial diversity and digestive function markers.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐ (2/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Microbiome</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Gut Microbiome</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>14-21 days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
+<h2>Relationships</h2>
+<p>RELATED::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable Bowel Syndrome</a></p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-03-11T13:47:12.038874+00:00</em></p>
+
+{% endraw %}

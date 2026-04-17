@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.171895Z'
+created: '2026-04-17T18:59:21.341462Z'
 description: Vault folder structure, all 26 entity types explained, naming conventions,
   and what gets synced
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Understanding the Vault
 type: users_guide
-updated: '2026-04-14T12:36:40.171895Z'
+updated: '2026-04-17T18:59:21.341462Z'
 ---
 
 {% raw %}

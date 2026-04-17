@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.455303Z'
+created: '2026-04-17T18:59:19.830119Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies (ANA)
   titer measures the concentration of autoantibodies present linked to an autoimmune
   condition. Higher titers can signal more autoimmune activity, but does not confirm
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_titer
 type: labtest
-updated: '2026-04-14T12:36:39.455303Z'
+updated: '2026-04-17T18:59:19.830119Z'
 ---
 
 {% raw %}
@@ -68,9 +68,9 @@ RELATED::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="inte
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a></p>
 <h3>Enriched</h3>
-<p>INDICATES::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
+<p>INDICATES::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
 INDICATES::<a href="/entities/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic Lupus Erythematosus</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Immune System</a></p>
+ASSOCIATED_WITH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

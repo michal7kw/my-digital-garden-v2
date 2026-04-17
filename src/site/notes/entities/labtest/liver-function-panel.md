@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.678601Z'
+created: '2026-04-17T18:59:20.072691Z'
 description: 'Comprehensive liver assessment: ALT, AST, ALP, GGT, bilirubin, albumin,
   and total protein.'
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: liver_function_panel
 type: labtest
-updated: '2026-04-14T12:36:39.678601Z'
+updated: '2026-04-17T18:59:20.072691Z'
 ---
 
 {% raw %}
@@ -56,8 +56,8 @@ updated: '2026-04-14T12:36:39.678601Z'
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
-<li><a class="internal-link is-unresolved" href="/404">ggt</a></li>
-<li><a class="internal-link is-unresolved" href="/404">bilirubin total</a></li>
+<li><a href="/entities/biomarker/ggt/" class="internal-link">ggt</a></li>
+<li><a href="/entities/biomarker/bilirubin-total/" class="internal-link">bilirubin total</a></li>
 <li><a href="/entities/biomarker/bilirubin-direct/" class="internal-link">bilirubin direct</a></li>
 <li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
 <li><a href="/entities/labtest/total-protein/" class="internal-link">total protein</a></li>
@@ -71,7 +71,7 @@ updated: '2026-04-14T12:36:39.678601Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">bilirubin total</a><br />
+<p>RELATED::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">bilirubin total</a><br />
 RELATED::<a href="/entities/biomarker/bilirubin-direct/" class="internal-link">bilirubin direct</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
@@ -79,7 +79,7 @@ RELATED::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><
 RELATED::<a href="/entities/labtest/total-protein/" class="internal-link">total protein</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
 RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ggt</a></p>
+RELATED::<a href="/entities/biomarker/ggt/" class="internal-link">ggt</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

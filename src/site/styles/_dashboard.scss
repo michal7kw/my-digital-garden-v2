@@ -1,0 +1,569 @@
+// =============================================================================
+// Health Dashboard & Garden-Index Health Summary
+// =============================================================================
+// Shared visual language for the per-user dashboard at /garden/{username}/dashboard/
+// and the Health Summary panel on /garden/{username}/ (garden-index.njk).
+// Uses Obsidian-compatible CSS variables so themes stay consistent.
+
+// ---- Dashboard page -----------------------------------------------------
+
+.dashboard {
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 2rem clamp(1rem, 3vw, 2.5rem);
+    box-sizing: border-box;
+}
+
+.dashboard-header {
+    position: relative;
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--background-modifier-border);
+
+    .theme-toggle {
+        position: absolute;
+        top: 0;
+        right: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 36px;
+        height: 36px;
+        padding: 0;
+        background: var(--background-secondary);
+        border: 1px solid var(--background-modifier-border);
+        border-radius: 8px;
+        color: var(--text-muted);
+        cursor: pointer;
+
+        &:hover {
+            color: var(--interactive-accent);
+            border-color: var(--interactive-accent);
+        }
+
+        .svg-icon {
+            width: 18px;
+            height: 18px;
+        }
+    }
+
+    h1 {
+        font-size: 2.25rem;
+        margin-bottom: 0.25rem;
+    }
+
+    .dashboard-meta {
+        color: var(--text-muted);
+        font-size: 1rem;
+
+        a {
+            color: var(--text-accent);
+        }
+    }
+}
+
+.medical-disclaimer {
+    margin: 1rem auto 2rem;
+    max-width: 900px;
+    padding: 0.75rem 1rem;
+    background: rgba(255, 145, 0, 0.08);
+    border: 1px solid rgba(255, 145, 0, 0.4);
+    border-radius: 6px;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    text-align: center;
+}
+
+.stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+}
+
+.stat-card {
+    background: var(--background-secondary);
+    border-radius: 8px;
+    padding: 1.25rem;
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+
+    &:hover {
+        border-color: var(--interactive-accent);
+        transform: translateY(-2px);
+    }
+
+    .stat-label {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--text-muted);
+    }
+
+    .stat-value {
+        font-size: 2.25rem;
+        font-weight: 600;
+        line-height: 1.1;
+        margin-top: 0.25rem;
+    }
+
+    .stat-sub {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        margin-top: 0.5rem;
+    }
+}
+
+// ---- Sections ----------------------------------------------------------
+
+.dashboard .section {
+    margin-bottom: 2.5rem;
+}
+
+.dashboard .section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    gap: 1rem;
+
+    h2 {
+        font-size: 1.4rem;
+        margin: 0;
+        text-transform: capitalize;
+        color: var(--text-normal);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+
+        &::before {
+            content: '';
+            display: inline-block;
+            width: 4px;
+            height: 1.1em;
+            background: var(--interactive-accent);
+            border-radius: 2px;
+        }
+    }
+
+    .section-link {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        text-decoration: none;
+
+        &:hover {
+            color: var(--interactive-accent);
+        }
+    }
+}
+
+.card-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 0.75rem;
+}
+
+.entry-card {
+    display: block;
+    padding: 1rem;
+    background: var(--background-secondary);
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+
+    &:hover {
+        border-color: var(--interactive-accent);
+        transform: translateY(-1px);
+    }
+
+    h3 {
+        font-size: 1rem;
+        margin: 0 0 0.35rem 0;
+        color: var(--text-normal);
+    }
+
+    p {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        margin: 0;
+        line-height: 1.45;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}
+
+.entry-tags {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+}
+
+.entry-tag {
+    font-size: 0.7rem;
+    padding: 0.1rem 0.4rem;
+    background: var(--background-modifier-border);
+    border-radius: 0.25rem;
+    color: var(--text-muted);
+}
+
+// ---- Recent activity list ----------------------------------------------
+
+.recent-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        padding: 0.5rem 0;
+        border-bottom: 1px solid var(--background-modifier-border);
+
+        &:last-child {
+            border-bottom: none;
+        }
+    }
+
+    .pill {
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        padding: 0.15rem 0.5rem;
+        background: var(--background-modifier-border);
+        border-radius: 999px;
+        color: var(--text-muted);
+        flex-shrink: 0;
+    }
+
+    a {
+        color: var(--text-normal);
+        text-decoration: none;
+        flex-grow: 1;
+
+        &:hover {
+            color: var(--interactive-accent);
+        }
+    }
+
+    .date {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        flex-shrink: 0;
+    }
+}
+
+// ---- Quick links ------------------------------------------------------
+
+.quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+
+    a {
+        display: inline-block;
+        padding: 0.4rem 0.9rem;
+        background: var(--background-secondary);
+        border-radius: 999px;
+        color: var(--text-muted);
+        text-decoration: none;
+        font-size: 0.85rem;
+        border: 1px solid var(--background-modifier-border);
+
+        &:hover {
+            color: var(--interactive-accent);
+            border-color: var(--interactive-accent);
+        }
+    }
+}
+
+.empty-state {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+    background: var(--background-secondary);
+    border-radius: 8px;
+    font-size: 0.9rem;
+}
+
+// ---- Garden-index Health Summary panel ---------------------------------
+
+.health-summary {
+    margin-bottom: 2.5rem;
+    padding: 1.25rem;
+    background: var(--background-secondary);
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-border);
+
+    h2 {
+        font-size: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--text-muted);
+        margin: 0 0 0.75rem 0;
+        font-weight: 600;
+    }
+}
+
+.summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.summary-card {
+    padding: 0.75rem;
+    background: rgba(0, 0, 0, 0.12);
+    border-radius: 6px;
+
+    .summary-value {
+        font-size: 1.75rem;
+        font-weight: 600;
+        line-height: 1.1;
+        color: var(--text-normal);
+    }
+
+    .summary-label {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        margin-top: 0.25rem;
+        text-transform: capitalize;
+    }
+}
+
+.dashboard-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 0.9rem;
+    background: var(--interactive-accent, #2563eb);
+    color: #fff;
+    border-radius: 999px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+
+    &:hover {
+        filter: brightness(1.1);
+    }
+}
+
+// ---- Inline dashboard search ------------------------------------------
+
+.dashboard-search {
+    .dash-search-form {
+        position: relative;
+        margin-bottom: 1rem;
+    }
+
+    .dash-search-label {
+        display: block;
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--text-muted);
+        margin-bottom: 0.35rem;
+    }
+
+    input#dash-search {
+        width: 100%;
+        padding: 0.6rem 0.9rem;
+        font-size: 1rem;
+        background: var(--background-secondary);
+        color: var(--text-normal);
+        border: 1px solid var(--background-modifier-border);
+        border-radius: 8px;
+        outline: none;
+
+        &:focus {
+            border-color: var(--interactive-accent);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+        }
+    }
+
+    .dash-search-hint {
+        position: absolute;
+        right: 0.5rem;
+        bottom: -1.35rem;
+        font-size: 0.75rem;
+        color: var(--text-muted);
+    }
+
+    .dash-search-results {
+        margin-top: 0.5rem;
+    }
+
+    .dash-search-hits {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        background: var(--background-secondary);
+        border-radius: 8px;
+        overflow: hidden;
+        border: 1px solid var(--background-modifier-border);
+    }
+
+    .dash-search-hit {
+        border-bottom: 1px solid var(--background-modifier-border);
+
+        &:last-child {
+            border-bottom: none;
+        }
+
+        a {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            color: var(--text-normal);
+            text-decoration: none;
+
+            &:hover {
+                background: var(--background-modifier-hover, rgba(255, 255, 255, 0.04));
+                color: var(--interactive-accent);
+            }
+        }
+
+        .hit-desc {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            margin-left: 0.25rem;
+        }
+    }
+
+    .dash-search-empty {
+        padding: 0.75rem;
+        color: var(--text-muted);
+
+        a {
+            color: var(--interactive-accent);
+        }
+    }
+}
+
+// ---- Tag filter chips --------------------------------------------------
+
+.tag-chip-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+}
+
+.tag-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.3rem 0.7rem;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 999px;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+
+    &:hover {
+        border-color: var(--interactive-accent);
+        color: var(--text-normal);
+    }
+
+    &.is-active {
+        background: var(--interactive-accent, #2563eb);
+        color: #fff;
+        border-color: transparent;
+    }
+
+    .tag-chip-count {
+        padding: 0 0.3rem;
+        background: rgba(0, 0, 0, 0.25);
+        border-radius: 999px;
+        font-size: 0.7rem;
+        color: var(--text-muted);
+    }
+
+    &.is-active .tag-chip-count {
+        color: #fff;
+        background: rgba(255, 255, 255, 0.2);
+    }
+}
+
+// Cards filtered out by tag chip
+.entry-card.is-dimmed {
+    opacity: 0.2;
+    pointer-events: none;
+    transform: none !important;
+}
+
+// ---- Breadcrumb & reading time (entity pages) --------------------------
+
+.breadcrumb {
+    max-width: 100%;
+    margin: 0.5rem 0 1rem 0;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+
+    a {
+        color: var(--text-muted);
+        text-decoration: none;
+
+        &:hover {
+            color: var(--interactive-accent);
+        }
+    }
+
+    .breadcrumb-sep {
+        margin: 0 0.4rem;
+        opacity: 0.6;
+    }
+
+    .breadcrumb-current {
+        color: var(--text-normal);
+        font-weight: 500;
+    }
+}
+
+.reading-time {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    margin-top: 0.35rem;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+
+    .svg-icon {
+        width: 14px;
+        height: 14px;
+    }
+}
+
+// ---- Responsive --------------------------------------------------------
+
+@media (max-width: 768px) {
+    .dashboard {
+        padding: 1rem;
+    }
+
+    .dashboard .dashboard-header h1 {
+        font-size: 1.6rem;
+    }
+
+    .stat-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card-list {
+        grid-template-columns: 1fr;
+    }
+}

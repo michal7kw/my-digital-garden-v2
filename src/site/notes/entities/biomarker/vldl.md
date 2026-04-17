@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.248053Z'
+created: '2026-04-17T18:59:17.968066Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/vldl/
@@ -9,14 +9,16 @@ tags:
 templateEngineOverride: njk
 title: Vldl
 type: biomarker
-updated: '2026-04-14T12:36:39.248053Z'
+updated: '2026-04-17T18:59:17.968066Z'
 ---
 
 {% raw %}
 <h1>Vldl</h1>
 <h2>Overview</h2>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
 <h3>Affected By Supplement</h3>
 <ul>

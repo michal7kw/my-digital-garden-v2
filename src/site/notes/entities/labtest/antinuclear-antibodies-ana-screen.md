@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.452485Z'
+created: '2026-04-17T18:59:19.827129Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (ANA)
   screen looks for antibodies that sometimes target the body’s own cells. A positive
   result may suggest autoimmune activity, but it is also found in many healthy people.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_screen
 type: labtest
-updated: '2026-04-14T12:36:39.452485Z'
+updated: '2026-04-17T18:59:19.827129Z'
 ---
 
 {% raw %}
@@ -68,16 +68,16 @@ updated: '2026-04-14T12:36:39.452485Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Systemic Lupus Erythematosus Sle</a><br />
 RELATED::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polymyositis Or Dermatomyositis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mixed Connective Tissue Disease</a><br />
+RELATED::<a href="/entities/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed Connective Tissue Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Systemic Sclerosis Scleroderma</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Mixed Connective Tissue Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed Connective Tissue Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Mixed Connective Tissue Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed Connective Tissue Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

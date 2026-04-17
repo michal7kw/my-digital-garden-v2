@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:40.235171Z'
+created: '2026-04-17T18:59:21.417229Z'
 description: Publishing your curated health knowledge as a public digital garden website
 dg-home: false
 dg-publish: true
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Digital Garden
 type: users_guide
-updated: '2026-04-14T12:36:40.235171Z'
+updated: '2026-04-17T18:59:21.417229Z'
 ---
 
 {% raw %}

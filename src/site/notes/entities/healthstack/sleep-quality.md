@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.378972Z'
+created: '2026-04-17T18:59:19.626607Z'
 description: Improve sleep onset, duration, and quality. Magnesium glycinate promotes
   relaxation through GABA enhancement, L-theanine induces alpha brain waves, glycine
   lowers core body temperature to facilitate sleep, and vitamin D deficiency is associated
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Quality
 type: healthstack
-updated: '2026-04-14T12:36:39.378972Z'
+updated: '2026-04-17T18:59:19.626607Z'
 ---
 
 {% raw %}
@@ -43,14 +43,14 @@ updated: '2026-04-14T12:36:39.378972Z'
 <td>Enhances GABA activity for relaxation and sleep onset</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">L-Theanine</a></td>
+<td><a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a></td>
 <td>200mg</td>
 <td>once daily</td>
 <td>before bed</td>
 <td>Promotes alpha brain waves associated with calm wakefulness</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Glycine</a></td>
+<td><a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></td>
 <td>3000mg</td>
 <td>once daily</td>
 <td>before bed</td>
@@ -100,15 +100,15 @@ updated: '2026-04-14T12:36:39.378972Z'
 </ul>
 <h3>Contains Supplement</h3>
 <p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Magnesium Glycinate</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">L-Theanine</a><br />
-CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Glycine</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
 CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a></p>
 <h2>Relationships</h2>
 <h3>Enriched</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Insomnia</a><br />
-INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Glycine</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
+ASSOCIATED_WITH::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>

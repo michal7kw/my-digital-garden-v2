@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.868725Z'
+created: '2026-04-17T18:59:20.260152Z'
 description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland and
   signals the thyroid to produce T4 and T3. Because TSH rises when thyroid hormone
   levels are low and falls when they are high, measuring TSH is one of the most useful
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_stimulating_hormone_tsh
 type: labtest
-updated: '2026-04-14T12:36:39.868725Z'
+updated: '2026-04-17T18:59:20.260152Z'
 ---
 
 {% raw %}
@@ -62,15 +62,15 @@ updated: '2026-04-14T12:36:39.868725Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism EG HashimotoS Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a><br />
+RELATED::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperthyroidism EG Graves Disease Toxic Nodular Goiter</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia Or High Cholesterol</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bone Loss Or Osteoporosis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h2>Notes</h2>

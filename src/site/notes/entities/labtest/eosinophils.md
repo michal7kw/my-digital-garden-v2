@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.549912Z'
+created: '2026-04-17T18:59:19.930642Z'
 description: Tested twice a year Eosinophils are a type of white blood cell that defend
   against parasitic worms or helminths, regulate immune responses, and contribute
   to allergic and inflammatory conditions. They release enzymes and inflammatory molecules
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: eosinophils
 type: labtest
-updated: '2026-04-14T12:36:39.549912Z'
+updated: '2026-04-17T18:59:19.930642Z'
 ---
 
 {% raw %}
@@ -68,14 +68,14 @@ updated: '2026-04-14T12:36:39.549912Z'
 RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Allergic Reactions EG Asthma Eczema Hay Fever</a><br />
 RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a></p>

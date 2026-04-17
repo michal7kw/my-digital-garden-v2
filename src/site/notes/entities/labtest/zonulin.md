@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.931459Z'
+created: '2026-04-17T18:59:20.335283Z'
 description: Zonulin test measures the serum or stool level of this protein that regulates
   intestinal permeability by modulating tight junctions between enterocytes. Elevated
   zonulin indicates increased intestinal permeability (leaky gut) and is associated
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: zonulin
 type: labtest
-updated: '2026-04-14T12:36:39.931459Z'
+updated: '2026-04-17T18:59:20.335283Z'
 ---
 
 {% raw %}
@@ -66,11 +66,11 @@ updated: '2026-04-14T12:36:39.931459Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">gi map</a><br />
-RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">food sensitivity igg</a><br />
+<p>RELATED_TESTS::<a href="/entities/labtest/gi-map/" class="internal-link">gi map</a><br />
+RELATED_TESTS::<a href="/entities/labtest/food-sensitivity-igg/" class="internal-link">food sensitivity igg</a><br />
 RELATED_TESTS::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

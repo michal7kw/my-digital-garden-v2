@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.766223Z'
+created: '2026-04-17T18:59:20.155818Z'
 description: Linoleic acid (LA) is an essential omega-6 fatty acid and the primary
   dietary precursor to arachidonic acid (AA). While necessary for cell structure and
   energy, excessive levels of LA can increase AA production and promote inflammation,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: omega_6_linoleic_acid
 type: labtest
-updated: '2026-04-14T12:36:39.766223Z'
+updated: '2026-04-17T18:59:20.155818Z'
 ---
 
 {% raw %}
@@ -62,7 +62,7 @@ updated: '2026-04-14T12:36:39.766223Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Omega-6 Imbalance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease Risk</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
 RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
@@ -70,9 +70,9 @@ RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthf
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

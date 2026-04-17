@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.521283Z'
+created: '2026-04-17T18:59:19.893978Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-04-14T12:36:39.521283Z'
+updated: '2026-04-17T18:59:19.893978Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-04-14T12:36:39.521283Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/glucose/" class="internal-link">glucose</a></li>
+<li><a href="/entities/metabolite/glucose/" class="internal-link">glucose</a></li>
 <li><a class="internal-link is-unresolved" href="/404">bun</a></li>
 <li><a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></li>
 <li><a href="/entities/labtest/sodium/" class="internal-link">sodium</a></li>
@@ -76,7 +76,7 @@ updated: '2026-04-14T12:36:39.521283Z'
 <li><a href="/entities/labtest/calcium/" class="internal-link">calcium</a></li>
 <li><a href="/entities/labtest/total-protein/" class="internal-link">total protein</a></li>
 <li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a class="internal-link is-unresolved" href="/404">bilirubin</a></li>
+<li><a href="/entities/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
@@ -93,17 +93,17 @@ updated: '2026-04-14T12:36:39.521283Z'
 <p>RELATED::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
-RELATED::<a href="/entities/labtest/glucose/" class="internal-link">glucose</a><br />
+RELATED::<a href="/entities/metabolite/glucose/" class="internal-link">glucose</a><br />
 RELATED::<a href="/entities/labtest/potassium/" class="internal-link">potassium</a><br />
 RELATED::<a href="/entities/labtest/chloride/" class="internal-link">chloride</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">bilirubin</a><br />
+RELATED::<a href="/entities/biomarker/bilirubin/" class="internal-link">bilirubin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
 RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
 RELATED::<a href="/entities/labtest/sodium/" class="internal-link">sodium</a><br />
 RELATED::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Glucose Fasting</a><br />
+RELATED::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
 RELATED::<a href="/entities/labtest/total-protein/" class="internal-link">total protein</a><br />
 RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 RELATED::<a href="/entities/biomarker/co2/" class="internal-link">co2</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:36:39.903045Z'
+created: '2026-04-17T18:59:20.296866Z'
 description: Uric acid is a substance the body produces when breaking down certain
   foods and natural waste products. Testing uric acid can provide insight into kidney
   function and how well the body is processing waste. Imbalances may indicate an increased
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: uric_acid
 type: labtest
-updated: '2026-04-14T12:36:39.903045Z'
+updated: '2026-04-17T18:59:20.296866Z'
 ---
 
 {% raw %}
@@ -62,18 +62,18 @@ updated: '2026-04-14T12:36:39.903045Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Gout</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+RELATED::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
-MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
+<p>MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
